@@ -1144,9 +1144,8 @@
     "steam_name": "Coffee Talk Episode 2: Hibiscus & Butterfly"
   },
   "Colin_Mcrae__Dirt_2": {
-    "appid": 1211480,
-    "method": "naive",
-    "steam_name": "DiRT Rally 2.0 - Colin McRae: FLAT OUT Pack"
+    "appid": "name:dirt-2",
+    "method": "alias"
   },
   "Colin_Mcrae__Dirt_3": {
     "appid": 44500,

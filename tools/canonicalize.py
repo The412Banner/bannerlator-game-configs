@@ -84,7 +84,7 @@ def main():
             else:                           # aliased delisted appid (no Steam name) -> cleanest member folder
                 nm = re.sub(r'_+', ' ', min(e["folders"], key=len)).strip().title()
             nm = re.sub(r'\bPes\b', 'PES', nm); nm = re.sub(r'\bEfootball\b', 'eFootball', nm)
-            nm = re.sub(r'\bDirt\b', 'DiRT', nm); nm = re.sub(r'\bGta\b', 'GTA', nm)
+            nm = re.sub(r'\bGta\b', 'GTA', nm)
             e["name"] = nm
 
     rev = {a: sorted(e["folders"]) for a, e in canon.items()}
