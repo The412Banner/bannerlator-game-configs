@@ -253,9 +253,8 @@
     "steam_name": "Are You Smarter Than A 5th Grader"
   },
   "ArmA_2_Free": {
-    "appid": 1973930,
-    "method": "norm",
-    "steam_name": "Heaven Dust 2 - Free Costume: Eastern Armor"
+    "appid": 33900,
+    "method": "alias"
   },
   "Arma_2__Operation_Arrowhead": {
     "appid": 33930,
@@ -1150,9 +1149,8 @@
     "steam_name": "DiRT Rally 2.0 - Colin McRae: FLAT OUT Pack"
   },
   "Colin_Mcrae__Dirt_3": {
-    "appid": 1211480,
-    "method": "fuzzy",
-    "steam_name": "DiRT Rally 2.0 - Colin McRae: FLAT OUT Pack"
+    "appid": 44500,
+    "method": "alias"
   },
   "Combat_Master__Season_4": {
     "appid": 2281730,
@@ -1228,9 +1226,8 @@
     "steam_name": "Counter-Strike"
   },
   "Counter-Strike_1_4": {
-    "appid": 589090,
-    "method": "fuzzy",
-    "steam_name": "Fantasy Grounds - CS1 After Winter's Dark: Aihrde Setting (Castles & Crusades)"
+    "appid": 10,
+    "method": "alias"
   },
   "Counter-Strike_2": {
     "appid": 730,
@@ -1892,9 +1889,8 @@
     "steam_name": "Dinkum"
   },
   "Dirt_3": {
-    "appid": 1118272,
-    "method": "naive",
-    "steam_name": "DiRT Rally 2.0 - Peugeot 306 Maxi"
+    "appid": 44500,
+    "method": "alias"
   },
   "DisciplesIII": {
     "appid": 10270,
@@ -1946,9 +1942,8 @@
     "steam_name": "Divine Divinity"
   },
   "Divinity__Original_Sin_-_Enhanced_Edition": {
-    "appid": 435150,
-    "method": "norm",
-    "steam_name": "Divinity: Original Sin 2 - Definitive Edition"
+    "appid": 373420,
+    "method": "alias"
   },
   "Divinity__Original_Sin_Enhanced_Edition": {
     "appid": 373420,
@@ -4099,6 +4094,10 @@
     "method": "naive",
     "steam_name": "LEGO\u00ae Pirates of the Caribbean: The Video Game"
   },
+  "LEGO_DC_Super-villains_DX11": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "LEGO__Batman__2__DC_Super_Heroes": {
     "appid": 213330,
     "method": "naive",
@@ -4206,9 +4205,8 @@
     "steam_name": "Left 4 Dead"
   },
   "Left_4_Dead_1___2": {
-    "appid": 1569281,
-    "method": "fuzzy",
-    "steam_name": "Zombie Army 4: Left 4 Dead Character Pack 1"
+    "appid": 550,
+    "method": "alias"
   },
   "Left_4_Dead_2": {
     "appid": 550,
@@ -6280,9 +6278,8 @@
     "method": "unresolved"
   },
   "Project_CARS_3": {
-    "appid": 860233,
-    "method": "fuzzy",
-    "steam_name": "Sim Racing Telemetry - Project Cars 2"
+    "appid": 958400,
+    "method": "alias"
   },
   "Project_Castaway": {
     "appid": 1713350,
@@ -7899,9 +7896,8 @@
     "steam_name": "The Long Drive"
   },
   "TheWalkingDead2": {
-    "appid": 1615790,
-    "method": "norm",
-    "steam_name": "Fantasy Grounds - RQ1 Night of the Walking Dead (2E)"
+    "appid": 261030,
+    "method": "alias"
   },
   "The_Amazing_Spider-Man_2__TM_": {
     "appid": null,

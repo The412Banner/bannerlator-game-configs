@@ -1,9 +1,16 @@
 {
   "10": {
-    "config_count": 2,
-    "devices": [],
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      }
+    ],
     "folders": [
-      "Counter-Strike"
+      "Counter-Strike",
+      "Counter-Strike_1_4"
     ],
     "name": "Counter-Strike"
   },
@@ -956,20 +963,6 @@
     ],
     "name": "People Playground"
   },
-  "1118272": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "S936B",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "Dirt_3"
-    ],
-    "name": "DiRT Rally 2.0 - Peugeot 306 Maxi"
-  },
   "1118310": {
     "config_count": 1,
     "devices": [],
@@ -1586,17 +1579,10 @@
     "name": "Wobbly Life"
   },
   "1211480": {
-    "config_count": 5,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "S931B",
-        "s": "Adreno (TM) 830"
-      }
-    ],
+    "config_count": 2,
+    "devices": [],
     "folders": [
-      "Colin_Mcrae__Dirt_2",
-      "Colin_Mcrae__Dirt_3"
+      "Colin_Mcrae__Dirt_2"
     ],
     "name": "DiRT Rally 2.0 - Colin McRae: FLAT OUT Pack"
   },
@@ -1652,7 +1638,7 @@
     "folders": [
       "MaxPayne_2_Application"
     ],
-    "name": null
+    "name": "Maxpayne 2 Application"
   },
   "1216060": {
     "config_count": 1,
@@ -3301,7 +3287,7 @@
     "folders": [
       "splintercell3"
     ],
-    "name": null
+    "name": "Splintercell3"
   },
   "13600": {
     "config_count": 2,
@@ -4277,20 +4263,6 @@
     ],
     "name": "DREDGE"
   },
-  "1569281": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "AN00",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "Left_4_Dead_1___2"
-    ],
-    "name": "Zombie Army 4: Left 4 Dead Character Pack 1"
-  },
   "1572920": {
     "config_count": 3,
     "devices": [
@@ -4650,14 +4622,6 @@
       "B___Path_of_the_Teal_Lotus"
     ],
     "name": "B\u014d: Path of the Teal Lotus"
-  },
-  "1615790": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "TheWalkingDead2"
-    ],
-    "name": "Fantasy Grounds - RQ1 Night of the Walking Dead (2E)"
   },
   "1619310": {
     "config_count": 1,
@@ -5180,7 +5144,7 @@
     "name": "Ultra Age"
   },
   "1687950": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -6634,20 +6598,6 @@
       "OCTOPATH_TRAVELER_II"
     ],
     "name": "OCTOPATH TRAVELER II"
-  },
-  "1973930": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      }
-    ],
-    "folders": [
-      "ArmA_2_Free"
-    ],
-    "name": "Heaven Dust 2 - Free Costume: Eastern Armor"
   },
   "1977530": {
     "config_count": 1,
@@ -9208,7 +9158,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 135,
+    "config_count": 136,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -9401,11 +9351,6 @@
         "s": "Adreno (TM) 619"
       },
       {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      },
-      {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
@@ -9429,6 +9374,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
@@ -11591,6 +11541,14 @@
     ],
     "name": "Assassin\u2019s Creed\u00ae Liberation HD"
   },
+  "261030": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "TheWalkingDead2"
+    ],
+    "name": "Thewalkingdead2"
+  },
   "261110": {
     "config_count": 1,
     "devices": [],
@@ -12036,7 +11994,7 @@
     "name": "Outbound"
   },
   "268910": {
-    "config_count": 30,
+    "config_count": 31,
     "devices": [
       {
         "d": "23043RP34G",
@@ -12094,11 +12052,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
         "m": "S721B",
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
@@ -12112,6 +12065,11 @@
         "d": "Adreno__TM__618",
         "m": "M2007J20CG",
         "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -14501,7 +14459,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 930,
+    "config_count": 932,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -15431,7 +15389,7 @@
     "name": "STAR WARS\u2122: The Force Unleashed\u2122 II"
   },
   "3250520": {
-    "config_count": 24,
+    "config_count": 25,
     "devices": [
       {
         "d": "G68_MC4",
@@ -15472,6 +15430,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G610_MC4",
+        "m": "Mali",
+        "s": "Mali-G610 MC4"
       }
     ],
     "folders": [
@@ -15915,6 +15878,20 @@
       "ToHeart"
     ],
     "name": "ToHeart"
+  },
+  "33900": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      }
+    ],
+    "folders": [
+      "ArmA_2_Free"
+    ],
+    "name": "Arma 2 Free"
   },
   "339034": {
     "config_count": 25,
@@ -17280,9 +17257,16 @@
     "name": "Pixel Empires"
   },
   "373420": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
+      }
+    ],
     "folders": [
+      "Divinity__Original_Sin_-_Enhanced_Edition",
       "Divinity__Original_Sin_Enhanced_Edition"
     ],
     "name": "Divinity: Original Sin - Enhanced Edition"
@@ -19346,20 +19330,6 @@
     ],
     "name": "Bruisers 2D Boxing Demo"
   },
-  "435150": {
-    "config_count": 3,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "NX809J",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "Divinity__Original_Sin_-_Enhanced_Edition"
-    ],
-    "name": "Divinity: Original Sin 2 - Definitive Edition"
-  },
   "4355320": {
     "config_count": 5,
     "devices": [
@@ -19489,6 +19459,26 @@
       "DigIt"
     ],
     "name": "Warframe: TennoCon 2026 Digital Pack"
+  },
+  "44500": {
+    "config_count": 5,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S931B",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S936B",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "Colin_Mcrae__Dirt_3",
+      "Dirt_3"
+    ],
+    "name": "DiRT 3"
   },
   "446020": {
     "config_count": 1,
@@ -20889,8 +20879,13 @@
     "name": "RAGE 2"
   },
   "550": {
-    "config_count": 46,
+    "config_count": 50,
     "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "AN00",
+        "s": "Adreno (TM) 830"
+      },
       {
         "d": "Pocket_FIT",
         "m": "AYANEO",
@@ -20904,11 +20899,6 @@
       {
         "d": "Adreno__TM__830",
         "m": "F966U",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "AN00",
         "s": "Adreno (TM) 830"
       },
       {
@@ -20983,6 +20973,7 @@
       }
     ],
     "folders": [
+      "Left_4_Dead_1___2",
       "Left_4_Dead_2",
       "left4dead2"
     ],
@@ -21159,7 +21150,7 @@
     "folders": [
       "My_Friend_Pedro_-_Blood_Bullets_Bananas"
     ],
-    "name": null
+    "name": "My Friend Pedro - Blood Bullets Bananas"
   },
   "561610": {
     "config_count": 10,
@@ -21495,20 +21486,6 @@
       "Dead_Cells"
     ],
     "name": "Dead Cells"
-  },
-  "589090": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      }
-    ],
-    "folders": [
-      "Counter-Strike_1_4"
-    ],
-    "name": "Fantasy Grounds - CS1 After Winter's Dark: Aihrde Setting (Castles & Crusades)"
   },
   "594330": {
     "config_count": 1,
@@ -23176,7 +23153,7 @@
     "folders": [
       "ACOdyssey"
     ],
-    "name": null
+    "name": "Acodyssey"
   },
   "813780": {
     "config_count": 2,
@@ -23529,25 +23506,6 @@
       "Tribes_of_Midgard"
     ],
     "name": "Tribes of Midgard"
-  },
-  "860233": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "SM8735",
-        "m": "25053PC47G",
-        "s": "SM8735"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Project_CARS_3"
-    ],
-    "name": "Sim Racing Telemetry - Project Cars 2"
   },
   "860510": {
     "config_count": 12,
@@ -24369,6 +24327,25 @@
       "______Newera_Heroes__Chronicle"
     ],
     "name": "\u65b0\u4e16\u52c7\u8005\u4f20 Newera Heroes' Chronicle"
+  },
+  "958400": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "SM8735",
+        "m": "25053PC47G",
+        "s": "SM8735"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Project_CARS_3"
+    ],
+    "name": "Project Cars 3"
   },
   "958520": {
     "config_count": 1,

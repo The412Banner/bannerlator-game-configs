@@ -77,11 +77,14 @@ def main():
         else:
             unresolved.append({"folder": f, "reason": v.get("method","unresolved")})
 
-    for key, e in canon.items():            # readable names for non-Steam name-key identities
-        if not e["name"] and key.startswith("name:"):
-            nm = key[5:].replace("-", " ").title()
-            nm = re.sub(r'\bPes\b', 'PES', nm)
-            nm = re.sub(r'\bEfootball\b', 'eFootball', nm)
+    for key, e in canon.items():            # readable names for name-key + hardcoded/delisted appids w/o a Steam name
+        if not e["name"]:
+            if key.startswith("name:"):
+                nm = key[5:].replace("-", " ").title()
+            else:                           # aliased delisted appid (no Steam name) -> cleanest member folder
+                nm = re.sub(r'_+', ' ', min(e["folders"], key=len)).strip().title()
+            nm = re.sub(r'\bPes\b', 'PES', nm); nm = re.sub(r'\bEfootball\b', 'eFootball', nm)
+            nm = re.sub(r'\bDirt\b', 'DiRT', nm); nm = re.sub(r'\bGta\b', 'GTA', nm)
             e["name"] = nm
 
     rev = {a: sorted(e["folders"]) for a, e in canon.items()}
