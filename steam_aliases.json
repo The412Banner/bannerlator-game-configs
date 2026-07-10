@@ -1,6 +1,23 @@
 {
-  "_comment": "Manual folder->appid overrides for games the auto-resolver misses (exe abbreviations, non-Steam names). Verify each appid on store.steampowered.com. These always win over auto-resolution.",
-  "AC3SP": 208480,
+  "AC3SP": 911400,
+  "AC4BFSP": 242050,
   "ACOdyssey": 812140,
-  "AC4BFSP": 242050
+  "AssassinsCreedIIGame": 33230,
+  "Grand_Theft_Auto_V_Legacy": 3240220,
+  "MaxPayne_2_Application": 12150,
+  "My_Friend_Pedro_-_Blood_Bullets_Bananas": 557340,
+  "NARUTO_STORM_3_FB": 234670,
+  "PlayGTAV": 3240220,
+  "Resident_Evil_4___Biohazard_4": 2050650,
+  "SWTFU2": 32500,
+  "TES4__Oblivion": 2623190,
+  "TheWitcher3": 292030,
+  "The_Witcher_2_Game": 20920,
+  "_comment": "folder->appid overrides (validated via Steam search of expanded names). Always win over auto-resolution.",
+  "gta-sa": 1547000,
+  "gta3": 1546970,
+  "gta_sa": 1547000,
+  "iw3mp": 7940,
+  "iw3sp": 7940,
+  "splintercell3": 13570
 }

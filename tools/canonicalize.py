@@ -48,7 +48,9 @@ def main():
             flat[f] = {"appid": prev["appid"], "method": prev.get("method","seed"), "steam_name": prev.get("steam_name")}; continue
         if E.NON_GAME.search(f):
             flat[f] = {"appid": None, "method":"non-game"}; continue
-        need.append(f)
+        if not FORCE and prev is not None:          # already attempted this run's cache — don't re-hit the Worker
+            flat[f] = {"appid": None, "method": prev.get("method","unresolved")}; continue
+        need.append(f)                              # only brand-new folders reach the resolver
 
     # re-resolve the unresolved via the improved ladder (naive->norm->fuzzy)
     def work(f): return (f, E.resolve(f))

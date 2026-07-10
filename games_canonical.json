@@ -1630,6 +1630,30 @@
     ],
     "name": "Max Payne"
   },
+  "12150": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "A125F",
+        "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "V2029",
+        "s": "Adreno (TM) 610"
+      }
+    ],
+    "folders": [
+      "MaxPayne_2_Application"
+    ],
+    "name": null
+  },
   "1216060": {
     "config_count": 1,
     "devices": [
@@ -3271,6 +3295,14 @@
     ],
     "name": "Dragonfield"
   },
+  "13570": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "splintercell3"
+    ],
+    "name": null
+  },
   "13600": {
     "config_count": 2,
     "devices": [
@@ -4140,25 +4172,94 @@
     "name": "The Callisto Protocol\u2122"
   },
   "1546970": {
-    "config_count": 1,
+    "config_count": 7,
     "devices": [
       {
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "G77_MC9",
+        "m": "Mali",
+        "s": "Mali-G77 MC9"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
-      "Grand_Theft_Auto_III_-_The_Definitive_Edition"
+      "Grand_Theft_Auto_III_-_The_Definitive_Edition",
+      "gta3"
     ],
     "name": "Grand Theft Auto III \u2013 The Definitive Edition"
   },
   "1547000": {
-    "config_count": 2,
-    "devices": [],
+    "config_count": 18,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "MT6835",
+        "m": "OPPO_A80_5G",
+        "s": "MT6835"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "LX2",
+        "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
+      },
+      {
+        "d": "G52",
+        "m": "Mali",
+        "s": "Mali-G52"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "S928B",
+        "s": "Adreno (TM) 750"
+      }
+    ],
     "folders": [
       "Grand_Theft_Auto_-_San_Andreas______________________________",
-      "Grand_Theft_Auto__San_Andreas"
+      "Grand_Theft_Auto__San_Andreas",
+      "gta-sa",
+      "gta_sa"
     ],
     "name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition"
   },
@@ -7090,7 +7191,7 @@
     "name": "Call of Juarez: Gunslinger"
   },
   "2050650": {
-    "config_count": 53,
+    "config_count": 57,
     "devices": [
       {
         "d": "G615_MC2",
@@ -7156,12 +7257,18 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "CPH2449",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "RE_4",
       "Resident_Evil_4",
       "Resident_Evil_4_",
+      "Resident_Evil_4___Biohazard_4",
       "Resident_Evil_4_____________________________________________"
     ],
     "name": "Resident Evil 4"
@@ -7303,60 +7410,6 @@
       "White_Day_2"
     ],
     "name": "White Day 2: The Flower That Tells Lies - Complete Edition"
-  },
-  "208480": {
-    "config_count": 17,
-    "devices": [
-      {
-        "d": "MT6833V_PNZA",
-        "m": "Infinix_X671B",
-        "s": "MT6833V/PNZA"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "2201122C",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
-      },
-      {
-        "d": "Adreno__TM__642L",
-        "m": "A736B",
-        "s": "Adreno (TM) 642L"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S911B",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__640",
-        "m": "M2102J20SG",
-        "s": "Adreno (TM) 640"
-      },
-      {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      },
-      {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
-      },
-      {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      }
-    ],
-    "folders": [
-      "AC3SP"
-    ],
-    "name": null
   },
   "2085540": {
     "config_count": 1,
@@ -7503,8 +7556,23 @@
     "name": "Call of Duty\u00ae: Ghosts"
   },
   "20920": {
-    "config_count": 4,
+    "config_count": 8,
     "devices": [
+      {
+        "d": "Adreno__TM__644",
+        "m": "NX9",
+        "s": "Adreno (TM) 644"
+      },
+      {
+        "d": "G610_MC4",
+        "m": "Mali",
+        "s": "Mali-G610 MC4"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "Pocket_FIT_Elite",
+        "s": "Adreno (TM) 830"
+      },
       {
         "d": "MT6853V_NZA",
         "m": "A326B",
@@ -7517,6 +7585,7 @@
       }
     ],
     "folders": [
+      "The_Witcher_2_Game",
       "The_Witcher_2__Assassins_of_Kings_Enhanced_Edition"
     ],
     "name": "The Witcher 2: Assassins of Kings Enhanced Edition"
@@ -9695,8 +9764,23 @@
     "name": "Military Tanks"
   },
   "234670": {
-    "config_count": 1,
+    "config_count": 7,
     "devices": [
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
+      },
       {
         "d": "Adreno__TM__610",
         "m": "moto_g_30_",
@@ -9704,6 +9788,7 @@
       }
     ],
     "folders": [
+      "NARUTO_STORM_3_FB",
       "Naruto_Shippuden_-_Ultimate_Ninja_Storm_3_Full_Burst________"
     ],
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD"
@@ -11562,9 +11647,31 @@
     "name": "Darkest Dungeon\u00ae"
   },
   "2623190": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 9,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+        "m": "A566B",
+        "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "NX799J",
+        "s": "Adreno (TM) 830"
+      }
+    ],
     "folders": [
+      "TES4__Oblivion",
       "The_Elder_Scrolls_IV_-_Oblivion_____________________________"
     ],
     "name": "The Elder Scrolls IV: Oblivion Remastered"
@@ -14394,7 +14501,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 79,
+    "config_count": 930,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -14532,9 +14639,719 @@
         "s": "Adreno (TM) 825"
       },
       {
+        "d": "QCS8550",
+        "m": "Odin2",
+        "s": "QCS8550"
+      },
+      {
+        "d": "Infinix_X662",
+        "m": "INFINIX_MOBILITY_LIMITED",
+        "s": null
+      },
+      {
+        "d": "MT6835",
+        "m": "CPH2665",
+        "s": "MT6835"
+      },
+      {
+        "d": "MT6835",
+        "m": "OPPO_A80_5G",
+        "s": "MT6835"
+      },
+      {
+        "d": "SM8635",
+        "m": "24069PC21G",
+        "s": "SM8635"
+      },
+      {
+        "d": "2410FPCC5G",
+        "m": "Xiaomi",
+        "s": null
+      },
+      {
+        "d": "2412DPC0AG",
+        "m": "Xiaomi",
+        "s": null
+      },
+      {
+        "d": "Adreno__TM__630",
+        "m": "G9600",
+        "s": "Adreno (TM) 630"
+      },
+      {
+        "d": "SM6450",
+        "m": "I2219",
+        "s": "SM6450"
+      },
+      {
+        "d": "MT6985",
+        "m": "V2426",
+        "s": "MT6985"
+      },
+      {
+        "d": "MT6897",
+        "m": "TECNO_LJ9",
+        "s": "MT6897"
+      },
+      {
+        "d": "SM8550",
+        "m": "CPH2585",
+        "s": "SM8550"
+      },
+      {
+        "d": "SM8750P",
+        "m": "TB322FC",
+        "s": "SM8750P"
+      },
+      {
+        "d": "MT6781",
+        "m": "2303CRA44A",
+        "s": "MT6781"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "V2338",
+        "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "PLQ110",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "SM8735",
+        "m": "25053PC47G",
+        "s": "SM8735"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "NX1",
+        "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "X210",
+        "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "TB321FU",
+        "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "SM7325",
+        "m": "22101320G",
+        "s": "SM7325"
+      },
+      {
+        "d": "G77_MC9",
+        "m": "Mali",
+        "s": "Mali-G77 MC9"
+      },
+      {
+        "d": "SM6450",
+        "m": "NX1",
+        "s": "SM6450"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "23013PC75G",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "A236B",
+        "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "V2530",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "S928U1",
+        "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G610_MC4",
+        "m": "Mali",
+        "s": "Mali-G610 MC4"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "CPH2727",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "CPH2273",
+        "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5070",
+        "s": "Adreno (TM) 810"
+      },
+      {
+        "d": "MT6897",
+        "m": "2311DRK48G",
+        "s": "MT6897"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "23113RKC6G",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__613",
+        "m": "V2355",
+        "s": "Adreno (TM) 613"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "25019PNF3C",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8322",
+        "m": "GIONEE_MAX",
+        "s": "PowerVR Rogue GE8322"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+        "m": "S926B",
+        "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "23116PN5BC",
+        "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "_2024",
+        "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23021RAAEG",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__829",
+        "m": "CPH2767",
+        "s": "Adreno (TM) 829"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "Note_9P",
+        "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "moto_e22",
+        "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "NX769J",
+        "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__642L",
+        "m": "ASUS_AI2401_A",
+        "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "W09",
+        "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Immortalis_MC11",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC11"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "Odin2_Portal",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__22",
+        "m": "Retroid_Pocket_G2",
+        "s": "Adreno (TM) 22"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "moto_g200_5G",
+        "s": "Adreno (TM) 660"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__642L",
+        "m": "motorola_edge_30",
+        "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "24115RA8EG",
+        "s": "Adreno (TM) 810"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+        "m": "A566E",
+        "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "Adreno__TM__722",
+        "m": "V2511",
+        "s": "Adreno (TM) 722"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "24018RPACG",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__732",
+        "m": "CPH2661",
+        "s": "Adreno (TM) 732"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "motorola_edge_2024",
+        "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__725",
+        "m": "23049PCD8G",
+        "s": "Adreno (TM) 725"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "CPH2619",
+        "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "24117RK2CC",
+        "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Immortalis_MC12",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC12"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "moto_g57_power",
+        "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21I",
+        "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "CPH2573",
+        "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "CPH1937",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g71_5G",
+        "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "M2007J17C",
+        "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "moto_g75_5G",
+        "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "motorola_edge_70_fusion",
+        "s": "Adreno (TM) 810"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "V2307",
+        "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G72_MP3",
+        "m": "Mali",
+        "s": "Mali-G72 MP3"
+      },
+      {
+        "d": "Adreno__TM__630",
+        "m": "ONEPLUS_A6003",
+        "s": "Adreno (TM) 630"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "NX799J",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "A057M",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G610_MC6",
+        "m": "Mali",
+        "s": "Mali-G610 MC6"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "AN00",
+        "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "256",
+        "m": "8",
+        "s": "PowerVR B-Series BXM-8-256"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2012K11AG",
+        "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__640",
+        "m": "N976V",
+        "s": "Adreno (TM) 640"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "24117RK2CG",
+        "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "PKG110",
+        "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "25010PN30G",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "NP05J",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__613",
+        "m": "V2443",
+        "s": "Adreno (TM) 613"
+      },
+      {
+        "d": "Adreno__TM__732",
+        "m": "2410CRP4CG",
+        "s": "Adreno (TM) 732"
+      },
+      {
+        "d": "Adreno__TM__613",
+        "m": "V2416",
+        "s": "Adreno (TM) 613"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "A045F",
+        "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "NX729J",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__642L",
+        "m": "A736B",
+        "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "MT6899",
+        "m": "2412DPC0AG",
+        "s": "MT6899"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "G781U",
+        "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "RMX5011",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G710_MC10",
+        "m": "Mali",
+        "s": "Mali-G710 MC10"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g_10_",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "NX789J_V1B",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g84_5G",
+        "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "S908E",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053RT47C",
+        "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "MEIZU_21",
+        "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "LX2",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G610_MC3",
+        "m": "Mali",
+        "s": "Mali-G610 MC3"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "23122PCD1G",
+        "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "22021211RG",
+        "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "V2061",
+        "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "G780G",
+        "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "G52",
+        "m": "Mali",
+        "s": "Mali-G52"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "NX9",
+        "s": "Adreno (TM) 720"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "W09",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23124RA7EO",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "23043RP34G",
+        "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "25062RN2DL",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "G986U",
+        "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "S901E",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "CPH2527",
+        "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "motorola_edge_50_fusion",
+        "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G76_MC4",
+        "m": "Mali",
+        "s": "Mali-G76 MC4"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "motorola_edge_30_fusion",
+        "s": "Adreno (TM) 660"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "RMX2030",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "F946B",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S918B",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "F731B",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "W00",
+        "s": "Adreno (TM) 720"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8322",
+        "m": "itel_A667LP",
+        "s": "PowerVR Rogue GE8322"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S911B",
+        "s": "Adreno (TM) 740"
+      },
+      {
         "d": "Adreno__TM__830",
         "m": "NX9",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G76",
+        "m": "Mali",
+        "s": "Mali-G76"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
+        "m": "S942B",
+        "s": "ANGLE ((Samsung Xclipse 960) on Vulkan 1.4.304)"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "LX2",
+        "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "S906E",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "Retroid_Pocket_5",
+        "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "moto_g_100_",
+        "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "25057PC09I",
+        "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "CPH2447",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "CPH2363",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__840",
@@ -14548,9 +15365,11 @@
       "Grand_Theft_Auto_V",
       "Grand_Theft_Auto_V_",
       "Grand_Theft_Auto_V_Enhanced",
+      "Grand_Theft_Auto_V_Legacy",
       "Grand_Theft_Auto_V____",
       "Grand_Theft_Auto_V__________________________________________",
       "Grand_Theft_Auto__V",
+      "PlayGTAV",
       "_____5"
     ],
     "name": "Grand Theft Auto V Enhanced"
@@ -14603,9 +15422,10 @@
     "name": "Shadow Warrior 2"
   },
   "32500": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
+      "SWTFU2",
       "Star_Wars__The_Force_Unleashed"
     ],
     "name": "STAR WARS\u2122: The Force Unleashed\u2122 II"
@@ -14936,16 +15756,22 @@
     "name": "One Piece Pirate Warriors 3"
   },
   "33230": {
-    "config_count": 2,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__650",
         "m": "G781B",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       }
     ],
     "folders": [
-      "Assassin_s_Creed__II"
+      "Assassin_s_Creed__II",
+      "AssassinsCreedIIGame"
     ],
     "name": "Assassin's Creed 2"
   },
@@ -20316,6 +21142,25 @@
     ],
     "name": "Life is Strange: Before the Storm"
   },
+  "557340": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G77_MC9",
+        "m": "Mali",
+        "s": "Mali-G77 MC9"
+      }
+    ],
+    "folders": [
+      "My_Friend_Pedro_-_Blood_Bullets_Bananas"
+    ],
+    "name": null
+  },
   "561610": {
     "config_count": 10,
     "devices": [
@@ -22198,16 +23043,43 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 1,
+    "config_count": 13,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G76_MC4",
+        "m": "Mali",
+        "s": "Mali-G76 MC4"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
       }
     ],
     "folders": [
-      "Call_of_Duty_4__Modern_Warfare"
+      "Call_of_Duty_4__Modern_Warfare",
+      "iw3mp",
+      "iw3sp"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
@@ -23037,8 +23909,48 @@
     "name": "Last Epoch"
   },
   "911400": {
-    "config_count": 8,
+    "config_count": 25,
     "devices": [
+      {
+        "d": "MT6833V_PNZA",
+        "m": "Infinix_X671B",
+        "s": "MT6833V/PNZA"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "2201122C",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "Adreno__TM__642L",
+        "m": "A736B",
+        "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S911B",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__640",
+        "m": "M2102J20SG",
+        "s": "Adreno (TM) 640"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
+      },
       {
         "d": "G615_MC6",
         "m": "Mali",
@@ -23051,6 +23963,7 @@
       }
     ],
     "folders": [
+      "AC3SP",
       "Assassin_s_Creed__III_Remastered"
     ],
     "name": "Assassin's Creed\u00ae III Remastered"

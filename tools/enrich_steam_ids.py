@@ -26,7 +26,9 @@ NON_GAME = re.compile(
     r'(7[-_ ]?zip|4gb[-_ ]?patch|all[-_ ]?in[-_ ]?one|direct\s?x|vc_?redist|d3dx|dotnet|\.net|winrar|notepad|'
     r'installer|setup|bootstrap|packagedgame|redist|runtime|framework|created_with_gamemaker|'
     r'launcher|redirector|www[-_ ]|_com_|_biz|apunkagames|ipcgames|wifi4games|apkpure|repack|crack|'
-    r'google_play_games|games_for_windows|steamdrm|^steam$|rockstar_games)', re.I)
+    r'google_play_games|games_for_windows|steamdrm|^steam$|rockstar_games|'
+    r'unins\d*|giants_(engine|startup)|ue4game|rpcs3|xenia|bluestacks|autopatch|hkship|'
+    r'modding\s?way|mod_selector|^[_\W]+$)', re.I)
 
 def naive(n):  # matches the site's prettyName
     return re.sub(r'\s+', ' ', n.replace('_', ' ')).strip()
