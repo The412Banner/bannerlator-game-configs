@@ -36,6 +36,9 @@ def main():
     seed = {} if FORCE else (json.load(open(f"{BASE}/games_steam.json")) if os.path.exists(f"{BASE}/games_steam.json") else {})
     aliases = {k:v for k,v in (json.load(open(f"{BASE}/steam_aliases.json")).items()
                if os.path.exists(f"{BASE}/steam_aliases.json") else {}) if not k.startswith("_")}
+    # Franchise map (non-Steam titles like classic PES): folder -> "name:<slug>" identity or appid.
+    if os.path.exists(f"{BASE}/franchise_aliases.json"):
+        aliases.update({k:v for k,v in json.load(open(f"{BASE}/franchise_aliases.json")).items() if not k.startswith("_")})
 
     # classify
     need = []
@@ -73,6 +76,13 @@ def main():
                 if dv not in e["devices"]: e["devices"].append(dv)
         else:
             unresolved.append({"folder": f, "reason": v.get("method","unresolved")})
+
+    for key, e in canon.items():            # readable names for non-Steam name-key identities
+        if not e["name"] and key.startswith("name:"):
+            nm = key[5:].replace("-", " ").title()
+            nm = re.sub(r'\bPes\b', 'PES', nm)
+            nm = re.sub(r'\bEfootball\b', 'eFootball', nm)
+            e["name"] = nm
 
     rev = {a: sorted(e["folders"]) for a, e in canon.items()}
     json.dump(canon,      open(f"{BASE}/games_canonical.json","w"), indent=2, sort_keys=True)

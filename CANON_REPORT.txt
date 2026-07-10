@@ -1,16 +1,16 @@
 raw folders: 2116   total configs: 9907
 non-game (filtered out): 110
-MERGED canonical games (have appid): 1244
-  folders collapsed by merge: 272
-still-unresolved real games (no appid): 490
-GAME-COUNT RATE: 1244/1734 = 72%  (vs 67% raw baseline)
-CONFIG-COVERAGE (matters for matching): 6904/9569 = 72%
+MERGED canonical games (have appid): 1261
+  folders collapsed by merge: 300
+still-unresolved real games (no appid): 445
+GAME-COUNT RATE: 1261/1706 = 74%  (vs 67% raw baseline)
+CONFIG-COVERAGE (matters for matching): 8825/9569 = 92%
 top-merged examples:
   appid 1665460: 17 folders, 60 configs, 17 devices  ['PES', 'PES_13', 'PES_2013']
+  appid name:pes-2013: 16 folders, 1652 configs, 143 devices  ['PES2013', 'PES_2013_Fix', 'PES_2013_LEND_RIO_']
   appid 1506830: 12 folders, 51 configs, 23 devices  ['FIFA_06_____________________________________________________', 'FIFA_13', 'FIFA_14']
   appid 3240220: 11 folders, 930 configs, 171 devices  ['GTA_4', 'Grand_Theft_Auto_5', 'Grand_Theft_Auto_V']
   appid 1262560: 8 folders, 32 configs, 11 devices  ['Need_For_Speed__Most_Wanted__2005_', 'Need_for_Speed_-_Most_Wanted________________________________', 'Need_for_Speed_Most_Wanted']
   appid 21690: 6 folders, 75 configs, 20 devices  ['RESIDENT_EVIL_5', 'Resident_Evil_5', 'Resident_Evil_5_']
+  appid name:pes-2017: 5 folders, 131 configs, 39 devices  ['PES2017', 'PES2017-_PATCH_LENGEDS_LITE_part1', 'PES2017_Play_Disini']
   appid 1721470: 5 folders, 20 configs, 8 devices  ['Poppy_Playtime', 'Poppy_playtime', 'Poppy_playtime_']
-  appid 4100940: 5 folders, 6 configs, 4 devices  ['Poppy_Playtime_Chapter_5', 'Poppy_Playtime_chapter_5_', 'poppy_5']
-  appid 2050650: 5 folders, 57 configs, 14 devices  ['RE_4', 'Resident_Evil_4', 'Resident_Evil_4_']
