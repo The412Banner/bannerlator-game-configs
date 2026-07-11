@@ -1738,7 +1738,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 253,
+    "config_count": 254,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -1951,11 +1951,6 @@
         "s": "Adreno (TM) 650"
       },
       {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      },
-      {
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
@@ -2019,6 +2014,11 @@
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
         "m": "S721N",
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
@@ -4970,7 +4970,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 61,
+    "config_count": 62,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -5499,7 +5499,7 @@
     "name": "Mirror's Edge\u2122"
   },
   "17470": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "Odin2",
@@ -5540,6 +5540,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23021RAAEG",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
@@ -7034,7 +7039,7 @@
     "name": "GoreBox"
   },
   "203140": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "G610_MC3",
@@ -7075,6 +7080,11 @@
         "d": "G72",
         "m": "Mali",
         "s": "Mali-G72"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -7191,7 +7201,7 @@
     "name": "Call of Juarez: Gunslinger"
   },
   "2050650": {
-    "config_count": 57,
+    "config_count": 59,
     "devices": [
       {
         "d": "G615_MC2",
@@ -13765,12 +13775,17 @@
     "name": "INSIDE"
   },
   "304930": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -14533,7 +14548,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 936,
+    "config_count": 941,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -15296,11 +15311,6 @@
         "s": "Adreno (TM) 740"
       },
       {
-        "d": "G720_MC8",
-        "m": "Mali",
-        "s": "Mali-G720 MC8"
-      },
-      {
         "d": "Adreno__TM__840",
         "m": "NX809J",
         "s": "Adreno (TM) 840"
@@ -15339,6 +15349,16 @@
         "d": "Adreno__TM__650",
         "m": "M2012K11AG",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "G72",
+        "m": "Mali",
+        "s": "Mali-G72"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
       },
       {
         "d": "Adreno__TM__830",
@@ -22531,6 +22551,20 @@
     ],
     "name": "DiRT Rally 2.0"
   },
+  "690830": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
+      }
+    ],
+    "folders": [
+      "Foundation"
+    ],
+    "name": "Foundation"
+  },
   "692850": {
     "config_count": 1,
     "devices": [
@@ -23133,6 +23167,11 @@
     "config_count": 14,
     "devices": [
       {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
+      },
+      {
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
@@ -23161,18 +23200,13 @@
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
       }
     ],
     "folders": [
+      "CALL_OF_DUTY_4_Modern_Warfare",
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
-      "iw3sp",
-      "CALL_OF_DUTY_4_Modern_Warfare"
+      "iw3sp"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
@@ -24905,7 +24939,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1692,
+    "config_count": 1697,
     "devices": [
       {
         "d": "G52_MC2",
@@ -25493,11 +25527,6 @@
         "s": "Mali-G615 MC6"
       },
       {
-        "d": "Adreno__TM__644",
-        "m": "M556B",
-        "s": "Adreno (TM) 644"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "moto_g_30_",
         "s": "Adreno (TM) 610"
@@ -25593,11 +25622,6 @@
         "s": "Adreno (TM) 619"
       },
       {
-        "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-        "m": "A566E",
-        "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "25062RN2DL",
         "s": "Adreno (TM) 610"
@@ -25611,6 +25635,16 @@
         "d": "Adreno__TM__618",
         "m": "moto_g_60_",
         "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+        "m": "A566E",
+        "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "Adreno__TM__644",
+        "m": "M556B",
+        "s": "Adreno (TM) 644"
       },
       {
         "d": "Adreno__TM__740",

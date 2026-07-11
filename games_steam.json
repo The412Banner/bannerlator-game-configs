@@ -878,7 +878,6 @@
   },
   "CALL_OF_DUTY_4_Modern_Warfare": {
     "appid": 7940,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/7940/header.jpg",
     "method": "naive",
     "steam_name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
@@ -2875,10 +2874,20 @@
     "method": "naive",
     "steam_name": "Forza Horizon 6"
   },
+  "Foundation": {
+    "appid": 690830,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/690830/header.jpg",
+    "method": "naive",
+    "steam_name": "Foundation"
+  },
   "Fran_Bow": {
     "appid": 362680,
     "method": "naive",
     "steam_name": "Fran Bow"
+  },
+  "Fredbear_Runaway": {
+    "appid": null,
+    "method": "unresolved"
   },
   "Freedom": {
     "appid": 595500,
@@ -6394,6 +6403,10 @@
     "method": "naive",
     "steam_name": "RAGE 2"
   },
+  "RAGE_Plugin_Hook": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "RC_Cars": {
     "appid": 289460,
     "method": "naive",
@@ -7180,7 +7193,6 @@
   },
   "ShovelKnight": {
     "appid": 250760,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/250760/header.jpg",
     "method": "naive",
     "steam_name": "Shovel Knight: Treasure Trove"
   },
