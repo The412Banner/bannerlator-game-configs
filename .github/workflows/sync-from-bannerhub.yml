@@ -6,8 +6,8 @@ name: Sync + canonicalize from BannerHub
 
 on:
   schedule:
-    - cron: '0 6 * * *'          # daily 06:00 UTC — pick up upstream's new configs
-  workflow_dispatch:
+    - cron: '0 6 * * *'          # daily 06:00 UTC — safety net + pick up upstream's new configs
+  workflow_dispatch:             # also fired on-demand by trigger-on-upload.yml when a user uploads
     inputs:
       force:
         description: 'Re-resolve ALL folders (ignore the seed cache)'

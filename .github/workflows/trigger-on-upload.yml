@@ -1,0 +1,37 @@
+name: Trigger sync on user upload
+
+# Second, lightweight workflow. Its ONLY job: whenever a user upload lands (the community-configs
+# worker commits the new config into configs/), immediately fire the daily "Sync + canonicalize"
+# workflow so the freshly shared config is folded into games_canonical.json within a minute —
+# instead of waiting up to 24h for that workflow's own cron.
+#
+# Why a dispatch instead of running canonicalize here: keeps all the sync logic in one place
+# (sync-from-bannerhub.yml); this file is just the trigger.
+#
+# Loop-safe: the sync workflow only ever commits the ROOT index files (games_canonical.json, …)
+# with a "[skip ci]" message, and this trigger only watches configs/** — so the sync's own commit
+# never re-fires this trigger.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'configs/**'
+
+# workflow_dispatch is one of the two events the default GITHUB_TOKEN is allowed to fire, so no PAT
+# is needed — just actions:write.
+permissions:
+  actions: write
+
+concurrency:
+  group: trigger-on-upload
+  cancel-in-progress: true     # coalesce a burst of uploads into a single dispatch
+
+jobs:
+  dispatch-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fire the sync + canonicalize workflow
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run "sync-from-bannerhub.yml" --repo "${{ github.repository }}" --ref "${{ github.ref_name }}"
