@@ -316,7 +316,7 @@
     "name": "Shank 2"
   },
   "1030300": {
-    "config_count": 34,
+    "config_count": 35,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -372,6 +372,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23021RAAEG",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
@@ -19641,7 +19646,7 @@
     "name": "Farming Simulator 17"
   },
   "447040": {
-    "config_count": 40,
+    "config_count": 41,
     "devices": [
       {
         "d": "G720_MC7",
