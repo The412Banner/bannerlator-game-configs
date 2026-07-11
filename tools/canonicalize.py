@@ -77,6 +77,41 @@ def main():
         else:
             unresolved.append({"folder": f, "reason": v.get("method","unresolved")})
 
+    # ── Ingest OUR OWN uploaded configs (this repo's configs/) ───────────────────
+    # Fold Bannerlator community uploads into the SAME index so they appear in browse.
+    # Each folder resolves to an appid the same way BannerHub folders do (alias first,
+    # then the shared resolver); its device(s) come from our worker-maintained
+    # devices.json. The folder is just added to the resolved game's folders[] — the app
+    # queries every canonical folder in BOTH namespaces (?ns=bannerlator), so there is no
+    # need to tag ns here. Uploads that resolve to an existing appid MERGE into it (e.g.
+    # a Bannerlator DiRT 3 config joins the same "Dirt 3" entry); unresolved uploads
+    # become their own "name:<slug>" entry so they are still browsable.
+    OUR_CONFIGS = f"{BASE}/configs"
+    our_devices = json.load(open(f"{BASE}/devices.json")) if os.path.exists(f"{BASE}/devices.json") else {}
+    if os.path.isdir(OUR_CONFIGS):
+        for folder in sorted(os.listdir(OUR_CONFIGS)):
+            fpath = f"{OUR_CONFIGS}/{folder}"
+            if not os.path.isdir(fpath) or folder.startswith(".") or folder.startswith("__"):
+                continue  # skip hidden + __selftest__/system folders
+            cfg_files = [x for x in os.listdir(fpath) if x.endswith(".json")]
+            if not cfg_files:
+                continue
+            if folder in aliases:
+                r = {"appid": aliases[folder], "method": "alias"}
+            else:
+                r = E.resolve(folder)
+            a = r.get("appid")
+            key = str(a) if a else "name:" + re.sub(r'[^a-z0-9]+', '-', folder.lower()).strip('-')
+            e = canon.setdefault(key, {"name": r.get("steam_name"), "folders": [], "devices": [], "config_count": 0})
+            if folder not in e["folders"]:
+                e["folders"].append(folder)
+            e["config_count"] += len(cfg_files)
+            if not e["name"] and r.get("steam_name"):
+                e["name"] = r["steam_name"]
+            for dv in our_devices.get(folder, []):
+                if dv not in e["devices"]:
+                    e["devices"].append(dv)
+
     for key, e in canon.items():            # readable names for name-key + hardcoded/delisted appids w/o a Steam name
         if not e["name"]:
             if key.startswith("name:"):

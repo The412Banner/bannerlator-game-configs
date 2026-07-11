@@ -876,6 +876,12 @@
     "appid": null,
     "method": "non-game"
   },
+  "CALL_OF_DUTY_4_Modern_Warfare": {
+    "appid": 7940,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/7940/header.jpg",
+    "method": "naive",
+    "steam_name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
+  },
   "CARRION": {
     "appid": 953490,
     "method": "naive",
@@ -4327,7 +4333,6 @@
   },
   "Little_Nightmares_II_Demo": {
     "appid": 1443440,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1443440/header.jpg",
     "method": "naive",
     "steam_name": "Little Nightmares II Demo"
   },
@@ -4531,10 +4536,6 @@
     "method": "unresolved"
   },
   "MONSTER_HUNTER_FRONTIER_Z": {
-    "appid": null,
-    "method": "unresolved"
-  },
-  "MONSTER_HUNTER_FRONTIER_ZZ": {
     "appid": null,
     "method": "unresolved"
   },
@@ -5047,7 +5048,6 @@
   },
   "Mortal_Shell": {
     "appid": 1110910,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1110910/header.jpg",
     "method": "naive",
     "steam_name": "Mortal Shell"
   },
@@ -7177,6 +7177,12 @@
   "Shockwave_Flash": {
     "appid": null,
     "method": "unresolved"
+  },
+  "ShovelKnight": {
+    "appid": 250760,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/250760/header.jpg",
+    "method": "naive",
+    "steam_name": "Shovel Knight: Treasure Trove"
   },
   "ShowerGame": {
     "appid": 3579060,
