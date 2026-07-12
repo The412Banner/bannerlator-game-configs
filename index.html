@@ -364,6 +364,31 @@
     color:#fff; font-weight:900; font-size:16px; }
   .config-header .uploader { display:flex; align-items:center; gap:5px; font-size:11px; color:#8b949e; }
   .config-header .uploader img { width:16px; height:16px; border-radius:50%; object-fit:cover; }
+  /* Account sign-in + My Uploads */
+  .acct-btn { background:#3a1030; border:1px solid #ff2d9b; color:#ff5cb8; font-size:12px; padding:4px 12px; border-radius:14px; cursor:pointer; white-space:nowrap; }
+  .acct-btn:active { background:#4d1540; }
+  .myup-btn { background:none; border:1px solid #ff2d9b; color:#ff5cb8; font-size:12px; padding:4px 10px; border-radius:14px; cursor:pointer; white-space:nowrap; margin-right:8px; }
+  .myup-btn:active { background:#3a1030; }
+  .acct-chip { display:inline-flex; align-items:center; gap:6px; font-size:12px; color:#e6edf3; }
+  .acct-chip img { width:20px; height:20px; border-radius:50%; object-fit:cover; }
+  .acct-logout { background:none; border:none; color:#8b949e; font-size:13px; cursor:pointer; padding:0 4px; }
+  #account-wrap { display:flex; align-items:center; gap:4px; flex-shrink:0; }
+  .myup-item { background:#161b22; border:1px solid #30363d; border-radius:8px; margin-bottom:12px; padding:12px 14px; }
+  .myup-head { display:flex; align-items:center; gap:10px; flex-wrap:wrap; margin-bottom:6px; }
+  .myup-game { font-size:14px; font-weight:600; color:#ff5cb8; cursor:pointer; }
+  .myup-game:hover { text-decoration:underline; }
+  .myup-dev { font-size:12px; color:#8b949e; }
+  .myup-date { font-size:11px; color:#484f58; margin-left:auto; }
+  .myup-desc { font-size:13px; color:#c9d1d9; background:#0d1117; border:1px solid #21262d; border-radius:6px; padding:8px 10px; min-height:20px; white-space:pre-wrap; word-break:break-word; }
+  .myup-editrow { margin-top:8px; }
+  .myup-editrow textarea { width:100%; background:#0d1117; border:1px solid #30363d; border-radius:6px; color:#e6edf3; padding:8px 10px; font-size:13px; min-height:80px; resize:vertical; outline:none; font-family:inherit; }
+  .myup-editrow textarea:focus { border-color:#ff2d9b; }
+  .myup-editbtns { display:flex; gap:8px; justify-content:flex-end; margin-top:8px; }
+  .myup-editbtns button { padding:6px 14px; border-radius:6px; font-size:13px; cursor:pointer; font-weight:500; border:none; }
+  .myup-actions { display:flex; gap:8px; margin-top:10px; align-items:center; }
+  .myup-note { font-size:11px; color:#8b949e; }
+  .acct-username-input { width:100%; background:#0d1117; border:1px solid #30363d; border-radius:6px; color:#e6edf3; padding:8px 12px; font-size:13px; outline:none; font-family:monospace; margin-bottom:10px; }
+  .acct-username-input:focus { border-color:#ff2d9b; }
 </style>
 </head>
 <body>
@@ -391,6 +416,7 @@
       <span class="stat" id="stat-configs">—</span>
       <span id="admin-badge-wrap"></span>
     </div>
+    <span id="account-wrap"><button class="acct-btn" id="signin-btn" onclick="openAccountModal()">Sign in</button></span>
   </div>
   <div class="header-sub">
     <a href="https://github.com/The412Banner/Bannerlator" target="_blank">
@@ -507,6 +533,28 @@
   </div>
 </div>
 
+<!-- Account sign-in modal (uses the username + password created in the Bannerlator app) -->
+<div class="modal-overlay" id="account-modal">
+  <div class="modal">
+    <div class="modal-header">
+      <h3>Sign in</h3>
+      <button class="modal-close" onclick="closeAccountModal()">&times;</button>
+    </div>
+    <div class="modal-body">
+      <p style="font-size:13px;color:#8b949e;margin-bottom:12px">Use the username &amp; password you created in the <b>Bannerlator app</b>. Signing in lets you manage the configs you've shared. No account? Create one in the app.</p>
+      <label>Username</label>
+      <input type="text" class="acct-username-input" id="account-username" autocomplete="username" autocapitalize="none" spellcheck="false" onkeydown="if(event.key==='Enter')document.getElementById('account-password').focus()">
+      <label>Password</label>
+      <input type="password" id="account-password" autocomplete="current-password" onkeydown="if(event.key==='Enter')submitAccountLogin()">
+      <div class="modal-error" id="account-error"></div>
+    </div>
+    <div class="modal-footer">
+      <button class="btn-secondary" onclick="closeAccountModal()">Cancel</button>
+      <button class="btn-primary" id="account-login-btn" onclick="submitAccountLogin()">Sign in</button>
+    </div>
+  </div>
+</div>
+
 <script>
 var games = [];
 var activeGame = null;
@@ -530,6 +578,8 @@ var RAW = 'https://raw.githubusercontent.com/The412Banner/bannerlator-game-confi
 var NS = 'ns=bannerlator';
 var editTarget = null;   // { idx, game, filename }
 var deleteTarget = null; // { idx, game, filename }
+var account = null;       // { user_id, username, session, avatarUrl, uploads:[{sha,game,filename,token,ts}] }
+var myUploadsView = [];   // current rendered My Uploads array
 
 async function init() {
   // Auto-login if remembered
@@ -1198,7 +1248,184 @@ window.addEventListener('popstate', function() {
   if (hash !== activeGame) loadGame(hash);
 });
 
+// ── Optional user accounts (created in the Bannerlator app) ──────────────────
+// Sign-in reuses the SAME account system as the app (worker /account/login, ns=bannerlator).
+// Managing an upload uses that upload's own token (from the login registry) — same gate as the
+// app's "My uploads", independent of the admin path. This is read/write only to the signed-in
+// user's OWN configs.
+function saveAccount() {
+  try { if (account) localStorage.setItem('bl_account', JSON.stringify(account)); else localStorage.removeItem('bl_account'); } catch(e){}
+}
+function restoreAccount() {
+  try { var raw = localStorage.getItem('bl_account'); if (raw) { account = JSON.parse(raw); if (!account || !account.username) account = null; } }
+  catch(e){ account = null; }
+  renderAccountUi();
+}
+function renderAccountUi() {
+  var wrap = document.getElementById('account-wrap');
+  if (!wrap) return;
+  if (account && account.username) {
+    var av = account.avatarUrl ? '<img src="' + account.avatarUrl + '" onerror="this.style.display=\'none\'">' : '';
+    var n = (account.uploads || []).length;
+    wrap.innerHTML =
+      '<button class="myup-btn" onclick="showMyUploads()">My Uploads' + (n ? ' (' + n + ')' : '') + '</button>' +
+      '<span class="acct-chip">' + av + escH(account.username) + '</span>' +
+      '<button class="acct-logout" title="Sign out" onclick="accountLogout()">&#10005;</button>';
+  } else {
+    wrap.innerHTML = '<button class="acct-btn" id="signin-btn" onclick="openAccountModal()">Sign in</button>';
+  }
+}
+function openAccountModal() {
+  document.getElementById('account-error').textContent = '';
+  document.getElementById('account-modal').classList.add('open');
+  var u = document.getElementById('account-username');
+  if (account && account.username) u.value = account.username;
+  setTimeout(function(){ (u.value ? document.getElementById('account-password') : u).focus(); }, 100);
+}
+function closeAccountModal() {
+  document.getElementById('account-modal').classList.remove('open');
+  document.getElementById('account-password').value = '';
+  document.getElementById('account-error').textContent = '';
+}
+function submitAccountLogin() {
+  var username = document.getElementById('account-username').value.trim();
+  var password = document.getElementById('account-password').value;
+  if (!username || !password) { document.getElementById('account-error').textContent = 'Enter your username and password.'; return; }
+  var btn = document.getElementById('account-login-btn');
+  btn.textContent = 'Signing in…'; btn.disabled = true;
+  fetch(WORKER + '/account/login?' + NS, {
+    method: 'POST', headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ username: username, password: password })
+  }).then(function(r){ return r.json(); }).then(function(d) {
+    btn.textContent = 'Sign in'; btn.disabled = false;
+    if (d && d.success) {
+      account = { user_id: d.user_id, username: d.username, session: d.session, avatarUrl: d.avatarUrl || null, uploads: Array.isArray(d.uploads) ? d.uploads : [] };
+      saveAccount(); renderAccountUi(); closeAccountModal(); showMyUploads();
+    } else if (d && d.error && d.error.indexOf('Too many') === 0) {
+      document.getElementById('account-error').textContent = d.error;
+    } else {
+      document.getElementById('account-error').textContent = 'Incorrect username or password.';
+    }
+  }).catch(function() {
+    btn.textContent = 'Sign in'; btn.disabled = false;
+    document.getElementById('account-error').textContent = 'Network error.';
+  });
+}
+function accountLogout() {
+  var onMy = !!document.getElementById('myuploads-view');
+  account = null; saveAccount(); renderAccountUi();
+  if (onMy) fetch('recent.json').then(function(r){ return r.json(); }).catch(function(){ return []; }).then(function(rec){ renderHome(rec || []); });
+}
+
+// ── My Uploads view ─────────────────────────────────────────────────────────
+function showMyUploads() {
+  if (!account) { openAccountModal(); return; }
+  activeGame = null;
+  history.replaceState(null, '', location.pathname);
+  renderMyUploads();
+  showMain();
+}
+function renderMyUploads() {
+  var main = document.getElementById('main');
+  var ups = (account && account.uploads) ? account.uploads.slice() : [];
+  ups.sort(function(a,b){ return (b.ts||0) - (a.ts||0); });
+  myUploadsView = ups;
+  var html = backBtn() +
+    '<div id="myuploads-view">' +
+    '<div class="steam-header"><div class="steam-info">' +
+      '<div class="game-title-row"><div class="game-title">My Uploads</div></div>' +
+      '<div class="game-subtitle">Configs you\'ve shared from Bannerlator, signed in as <b>' + escH(account.username) + '</b>. Edit a description or remove one you no longer want shared.</div>' +
+    '</div></div>';
+  if (!ups.length) {
+    html += '<div class="no-results">You haven\'t shared any configs yet. Share one from the Bannerlator app and it\'ll appear here. (Sign in again to refresh this list after a new upload.)</div>';
+  } else {
+    for (var i = 0; i < ups.length; i++) html += renderMyUploadCard(ups[i], i);
+  }
+  html += '</div>';
+  main.innerHTML = html;
+  ups.forEach(function(u, i) {
+    if (!u.sha) return;
+    fetch(WORKER + '/desc?sha=' + encodeURIComponent(u.sha)).then(function(r){ return r.json(); }).then(function(d) {
+      u._desc = (d && d.text) || '';
+      var el = document.getElementById('myup-desc-' + i);
+      if (el) el.textContent = u._desc || '— no description —';
+    }).catch(function(){});
+  });
+}
+function renderMyUploadCard(u, i) {
+  var p = parseDevice(u.filename || '');
+  var when = u.ts ? new Date(u.ts * 1000).toLocaleDateString() : '';
+  var canManage = !!u.token;
+  var dev = (p.manufacturer !== '?' ? p.manufacturer + ' ' + p.device : '');
+  return '<div class="myup-item" id="myup-' + i + '">' +
+    '<div class="myup-head">' +
+      '<span class="myup-game" onclick="loadGame(\'' + esc(u.game || '') + '\')">' + prettyName(u.game || '(unknown)') + '</span>' +
+      (dev ? '<span class="myup-dev">' + dev + '</span>' : '') +
+      (when ? '<span class="myup-date">' + when + '</span>' : '') +
+    '</div>' +
+    '<div class="myup-desc" id="myup-desc-' + i + '">Loading description…</div>' +
+    '<div class="myup-editrow" id="myup-edit-' + i + '" style="display:none">' +
+      '<textarea id="myup-ta-' + i + '" maxlength="500" placeholder="Describe this config — device, tweaks, how it runs…"></textarea>' +
+      '<div class="myup-editbtns">' +
+        '<button class="btn-secondary" onclick="cancelUploadDesc(' + i + ')">Cancel</button>' +
+        '<button class="btn-primary" id="myup-save-' + i + '" onclick="saveUploadDesc(' + i + ')">Save</button>' +
+      '</div>' +
+      '<div class="modal-error" id="myup-err-' + i + '"></div>' +
+    '</div>' +
+    '<div class="myup-actions">' +
+      (canManage
+        ? '<button class="admin-btn btn-edit" onclick="editUploadDesc(' + i + ')">Edit description</button>' +
+          '<button class="admin-btn btn-delete" onclick="deleteMyUpload(' + i + ')">Delete</button>'
+        : '<span class="myup-note">This upload can\'t be managed from the web (no saved token).</span>') +
+    '</div>' +
+  '</div>';
+}
+function editUploadDesc(i) {
+  var u = myUploadsView[i];
+  document.getElementById('myup-ta-' + i).value = u._desc || '';
+  document.getElementById('myup-err-' + i).textContent = '';
+  document.getElementById('myup-edit-' + i).style.display = 'block';
+}
+function cancelUploadDesc(i) { document.getElementById('myup-edit-' + i).style.display = 'none'; }
+function saveUploadDesc(i) {
+  var u = myUploadsView[i];
+  var text = document.getElementById('myup-ta-' + i).value;
+  var btn = document.getElementById('myup-save-' + i); btn.textContent = 'Saving…'; btn.disabled = true;
+  fetch(WORKER + '/describe?' + NS, {
+    method: 'POST', headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ sha: u.sha, token: u.token, text: text })
+  }).then(function(r){ return r.json(); }).then(function(d) {
+    btn.textContent = 'Save'; btn.disabled = false;
+    if (d && d.success) {
+      u._desc = String(text).slice(0, 500);
+      document.getElementById('myup-desc-' + i).textContent = u._desc || '— no description —';
+      document.getElementById('myup-edit-' + i).style.display = 'none';
+    } else {
+      document.getElementById('myup-err-' + i).textContent = (d && d.error) || 'Failed to save.';
+    }
+  }).catch(function() {
+    btn.textContent = 'Save'; btn.disabled = false;
+    document.getElementById('myup-err-' + i).textContent = 'Network error.';
+  });
+}
+function deleteMyUpload(i) {
+  var u = myUploadsView[i];
+  if (!window.confirm('Delete your config for ' + prettyName(u.game || '') + '? This permanently removes it from the community library.')) return;
+  fetch(WORKER + '/delete?' + NS, {
+    method: 'POST', headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ sha: u.sha, game: u.game, filename: u.filename, upload_token: u.token })
+  }).then(function(r){ return r.json(); }).then(function(d) {
+    if (d && d.success) {
+      account.uploads = (account.uploads || []).filter(function(x){ return x.sha !== u.sha; });
+      saveAccount(); renderAccountUi(); renderMyUploads();
+    } else {
+      window.alert('Delete failed: ' + ((d && d.error) || 'unknown error'));
+    }
+  }).catch(function() { window.alert('Network error while deleting.'); });
+}
+
 init();
+restoreAccount();
 </script>
 </body>
 </html>
