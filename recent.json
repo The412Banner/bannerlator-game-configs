@@ -1,5 +1,12 @@
 [
   {
+    "game": "__rt2a__",
+    "manufacturer": "X",
+    "device": "SoC",
+    "timestamp": 1783883818505,
+    "filename": "__rt2a__-Dev-X-SoC-1783883818505.json"
+  },
+  {
     "game": "__b2focus__",
     "manufacturer": "X",
     "device": "SoC",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783852307,
     "filename": "samp-motorola-moto_g15-Mali-G52_MC2-1783852307.json"
-  },
-  {
-    "game": "Into_the_Dead__Our_Darkest_Days",
-    "manufacturer": "ASUS_AI2201_C",
-    "device": "Adreno__TM__730",
-    "timestamp": 1783847910,
-    "filename": "Into_the_Dead__Our_Darkest_Days-asus-ASUS_AI2201_C-Adreno__TM__730-1783847910.json"
   }
 ]
