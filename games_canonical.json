@@ -7212,7 +7212,7 @@
     "name": "Call of Juarez: Gunslinger"
   },
   "2050650": {
-    "config_count": 59,
+    "config_count": 60,
     "devices": [
       {
         "d": "G615_MC2",
@@ -7283,6 +7283,11 @@
         "d": "Adreno__TM__740",
         "m": "CPH2449",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "S928B",
+        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
@@ -7290,7 +7295,8 @@
       "Resident_Evil_4",
       "Resident_Evil_4_",
       "Resident_Evil_4___Biohazard_4",
-      "Resident_Evil_4_____________________________________________"
+      "Resident_Evil_4_____________________________________________",
+      "resident_evil_4"
     ],
     "name": "Resident Evil 4"
   },
@@ -7864,10 +7870,17 @@
     "name": "LEGO\u00ae Batman\u2122 2: DC Super Heroes"
   },
   "213670": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__660",
+        "m": "S928B",
+        "s": "Adreno (TM) 660"
+      }
+    ],
     "folders": [
-      "South_Park___The_Stick_of_Truth_"
+      "South_Park___The_Stick_of_Truth_",
+      "South_Park_-_The_Stick_of_Truth"
     ],
     "name": "South Park\u2122: The Stick of Truth\u2122"
   },
