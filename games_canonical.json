@@ -12971,7 +12971,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "G615_MC2",
@@ -13006,7 +13006,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -25011,7 +25012,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1697,
+    "config_count": 1698,
     "devices": [
       {
         "d": "G52_MC2",
@@ -25717,6 +25718,11 @@
         "d": "Adreno__TM__644",
         "m": "M556B",
         "s": "Adreno (TM) 644"
+      },
+      {
+        "d": "Adreno__TM__504",
+        "m": "T290",
+        "s": "Adreno (TM) 504"
       },
       {
         "d": "Adreno__TM__740",
