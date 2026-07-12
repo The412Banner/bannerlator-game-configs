@@ -25186,8 +25186,14 @@
     "name": "Gridautosport"
   },
   "name:gtaiv": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "RMX3890",
+        "s": "Adreno (TM) 610"
+      }
+    ],
     "folders": [
       "GTAIV"
     ],
@@ -25311,7 +25317,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1705,
+    "config_count": 1706,
     "devices": [
       {
         "d": "G52_MC2",
