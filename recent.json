@@ -1,6 +1,13 @@
 [
   {
     "game": "__bugbprobe__",
+    "manufacturer": "DevB",
+    "device": "SoC",
+    "timestamp": 1783882618624,
+    "filename": "__bugbprobe__-Probe-DevB-SoC-1783882618624.json"
+  },
+  {
+    "game": "__bugbprobe__",
     "manufacturer": "DevA",
     "device": "SoC",
     "timestamp": 1783882618623,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1783843292,
     "filename": "DMC-DevilMayCry-OnePlus-CPH2487-Adreno__TM__730-1783843292.json"
-  },
-  {
-    "game": "MudRunner",
-    "manufacturer": "V2352A",
-    "device": "Adreno__TM__735",
-    "timestamp": 1783842574,
-    "filename": "MudRunner-vivo-V2352A-Adreno__TM__735-1783842574.json"
   }
 ]
