@@ -452,6 +452,20 @@
     ],
     "name": "Farthest Frontier"
   },
+  "1046400": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G76_MC4",
+        "m": "Mali",
+        "s": "Mali-G76 MC4"
+      }
+    ],
+    "folders": [
+      "Astalon__Tears_of_the_Earth"
+    ],
+    "name": "Astalon: Tears of the Earth"
+  },
   "1054510": {
     "config_count": 2,
     "devices": [],
@@ -7509,6 +7523,20 @@
     ],
     "name": "Blades of Time"
   },
+  "2089730": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "MONSTER_HUNTER_FRONTIER"
+    ],
+    "name": "Sonic Frontiers: Monster Hunter Collaboration Pack"
+  },
   "209000": {
     "config_count": 8,
     "devices": [
@@ -8541,7 +8569,7 @@
     "name": "Far Cry 3"
   },
   "220440": {
-    "config_count": 26,
+    "config_count": 27,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -8622,6 +8650,11 @@
         "d": "Adreno__TM__610",
         "m": "A057M",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "RMX3840",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__660",
@@ -14164,6 +14197,20 @@
     ],
     "name": "Street Fighter V"
   },
+  "3110370": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "23021RAAEG",
+        "s": "Adreno (TM) 610"
+      }
+    ],
+    "folders": [
+      "DustwindResistance"
+    ],
+    "name": "Dustwind: Resistance"
+  },
   "311210": {
     "config_count": 20,
     "devices": [
@@ -18242,7 +18289,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 142,
+    "config_count": 143,
     "devices": [
       {
         "d": "Pocket_FIT",
@@ -21712,10 +21759,17 @@
     "name": "Black Desert"
   },
   "584400": {
-    "config_count": 2,
-    "devices": [],
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "G76_MC4",
+        "m": "Mali",
+        "s": "Mali-G76 MC4"
+      }
+    ],
     "folders": [
-      "SonicMania"
+      "SonicMania",
+      "Sonic_Mania"
     ],
     "name": "Sonic Mania"
   },
@@ -23764,6 +23818,20 @@
     ],
     "name": "Untitled Goose Game"
   },
+  "838310": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G76_MC4",
+        "m": "Mali",
+        "s": "Mali-G76 MC4"
+      }
+    ],
+    "folders": [
+      "Bloodstained__Curse_of_the_Moon"
+    ],
+    "name": "Bloodstained: Curse of the Moon"
+  },
   "842330": {
     "config_count": 1,
     "devices": [
@@ -25243,7 +25311,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1703,
+    "config_count": 1705,
     "devices": [
       {
         "d": "G52_MC2",
@@ -25414,11 +25482,6 @@
         "d": "Adreno__TM__650",
         "m": "M2012K11AG",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "Redmi_Note_8",
-        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__730",
@@ -25953,6 +26016,11 @@
       {
         "d": "Adreno__TM__610",
         "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "Redmi_Note_8",
         "s": "Adreno (TM) 610"
       },
       {
