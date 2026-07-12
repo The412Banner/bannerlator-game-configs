@@ -39,7 +39,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add games_canonical.json unresolved.json games_steam.json steam_index.json CANON_REPORT.txt stats.json
+          git add games_canonical.json unresolved.json games_steam.json steam_index.json CANON_REPORT.txt stats.json games.json
           if git diff --cached --quiet; then echo "No changes."; exit 0; fi
           git commit -m "chore: daily sync + canonicalize from BannerHub [skip ci]"
           git push
