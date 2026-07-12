@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "OnePlus CPH2747",
+    "soc": "Adreno (TM) 840",
+    "bh_version": "2.6",
+    "upload_token": "3738c829d893a9dc",
+    "settings_count": 10,
+    "components_count": 4
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"2.7.1-1-gplasync\"}",
+    "pc_ls_VK3k": "{\"name\":\"3.0.1-arm64ec\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"A8XX Turnip v29\"}",
+    "pc_set_constant_95": "{\"name\":\"2605\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"Proton-10.0-arm64ec-0\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-original",
+    "pc_ls_AUDIO_DRIVER": "1",
+    "pc_ls_update_enable_xinput": true,
+    "pc_ls_environment_variable": "SteamDeck=1",
+    "bl_ext": {
+      "dxwrapper": "dxvk+vkd3d",
+      "screenSize": "1280x720",
+      "renderer": "opengl",
+      "fullscreenMode": "0",
+      "frameGenEngine": "off",
+      "reshadeMode": "solo",
+      "reshadeEffect": "None",
+      "emulator": "fexcore",
+      "box64Version": "0.3.7",
+      "box64Preset": "COMPATIBILITY",
+      "fexcorePreset": "INTERMEDIATE",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1",
+      "lc_all": "en_BE.UTF-8",
+      "dxwrapperConfig": "version=2.7.1-1-gplasync,framerate=0,async=1,asyncCache=0,vkd3dVersion=3.0.1-arm64ec,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfigFile="
+    }
+  },
+  "components": [
+    {
+      "name": "2.7.1-1-gplasync",
+      "type": "DXVK"
+    },
+    {
+      "name": "3.0.1-arm64ec",
+      "type": "VKD3D"
+    },
+    {
+      "name": "A8XX Turnip v29",
+      "type": "GPU"
+    },
+    {
+      "name": "2605",
+      "type": "FEXCore"
+    }
+  ]
+}
