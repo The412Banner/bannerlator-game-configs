@@ -5018,7 +5018,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 62,
+    "config_count": 63,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -5094,6 +5094,11 @@
         "d": "Adreno__TM__840",
         "m": "2509FPN0BC",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+        "m": "S721B",
+        "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
       },
       {
         "d": "Adreno__TM__610",
@@ -8865,6 +8870,11 @@
     "config_count": 19,
     "devices": [
       {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
+      },
+      {
         "d": "Adreno__TM__830",
         "m": "S931B",
         "s": "Adreno (TM) 830"
@@ -8898,19 +8908,14 @@
         "d": "Adreno__TM__829",
         "m": "PLR110",
         "s": "Adreno (TM) 829"
-      },
-      {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
       }
     ],
     "folders": [
       "LEGOBAT",
+      "LEGOBatman",
       "LEGO__Batman___Legacy_of_the_Dark_Knight",
       "LEGO__________________________________",
-      "lego_Batman_1",
-      "LEGOBatman"
+      "lego_Batman_1"
     ],
     "name": "LEGO\u00ae Batman\u2122: Legacy of the Dark Knight"
   },
@@ -13451,7 +13456,7 @@
     "name": "GAME HOVER"
   },
   "294100": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -13467,10 +13472,16 @@
         "d": "Adreno__TM__840",
         "m": "NX809J",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S911B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
-      "RimWorld"
+      "RimWorld",
+      "Rimworld"
     ],
     "name": "RimWorld"
   },
@@ -23649,7 +23660,7 @@
     "name": "Tomb Raider: Underworld"
   },
   "814380": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -25277,6 +25288,20 @@
     ],
     "name": "Kingdom Hearts Dream Drop Distance"
   },
+  "name:lunaabyss-wingdk-shipping": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "23113RKC6G",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "LunaAbyss-WinGDK-Shipping"
+    ],
+    "name": "Lunaabyss Wingdk Shipping"
+  },
   "name:mk10": {
     "config_count": 1,
     "devices": [
@@ -25382,7 +25407,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1710,
+    "config_count": 1711,
     "devices": [
       {
         "d": "G52_MC2",
