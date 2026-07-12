@@ -8453,7 +8453,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 78,
+    "config_count": 80,
     "devices": [
       {
         "d": "S938B",
@@ -8489,11 +8489,6 @@
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
       },
       {
         "d": "Adreno__TM__830",
@@ -8574,6 +8569,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
@@ -8862,7 +8862,7 @@
     "name": "Assassin's Creed\u00ae Valhalla - Season Pass"
   },
   "2215200": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -8898,13 +8898,19 @@
         "d": "Adreno__TM__829",
         "m": "PLR110",
         "s": "Adreno (TM) 829"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       }
     ],
     "folders": [
       "LEGOBAT",
       "LEGO__Batman___Legacy_of_the_Dark_Knight",
       "LEGO__________________________________",
-      "lego_Batman_1"
+      "lego_Batman_1",
+      "LEGOBatman"
     ],
     "name": "LEGO\u00ae Batman\u2122: Legacy of the Dark Knight"
   },
@@ -12209,7 +12215,7 @@
     "name": "Outbound"
   },
   "268910": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "23043RP34G",
@@ -14712,7 +14718,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 955,
+    "config_count": 958,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -15530,6 +15536,11 @@
         "s": "Adreno (TM) 710"
       },
       {
+        "d": "Adreno__TM__660",
+        "m": "G998U1",
+        "s": "Adreno (TM) 660"
+      },
+      {
         "d": "Adreno__TM__830",
         "m": "NX9",
         "s": "Adreno (TM) 830"
@@ -15657,7 +15668,7 @@
     "name": "STAR WARS\u2122: The Force Unleashed\u2122 II"
   },
   "3250520": {
-    "config_count": 26,
+    "config_count": 27,
     "devices": [
       {
         "d": "G68_MC4",
@@ -15708,6 +15719,11 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "Adreno__TM__512",
+        "m": "S62",
+        "s": "Adreno (TM) 512"
       }
     ],
     "folders": [
@@ -25064,6 +25080,14 @@
     ],
     "name": "Police Simulator: Patrol Officers"
   },
+  "name:asm2launcher": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "ASM2Launcher"
+    ],
+    "name": "Asm2Launcher"
+  },
   "name:avernum-escape-from-the-pit-1-01-gog-directx": {
     "config_count": 1,
     "devices": [
@@ -25358,7 +25382,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1709,
+    "config_count": 1710,
     "devices": [
       {
         "d": "G52_MC2",
