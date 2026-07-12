@@ -1,5 +1,12 @@
 [
   {
+    "game": "__rt2b__",
+    "manufacturer": "Y",
+    "device": "SoC",
+    "timestamp": 1783883818506,
+    "filename": "__rt2b__-Dev-Y-SoC-1783883818506.json"
+  },
+  {
     "game": "__rt2a__",
     "manufacturer": "X",
     "device": "SoC",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1783855981,
     "filename": "speed2-Xiaomi-25053PC47G-Adreno__TM__825-1783855981.json"
-  },
-  {
-    "game": "samp",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783852307,
-    "filename": "samp-motorola-moto_g15-Mali-G52_MC2-1783852307.json"
   }
 ]
