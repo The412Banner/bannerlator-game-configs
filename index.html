@@ -1256,10 +1256,28 @@ window.addEventListener('popstate', function() {
 function saveAccount() {
   try { if (account) localStorage.setItem('bl_account', JSON.stringify(account)); else localStorage.removeItem('bl_account'); } catch(e){}
 }
+// Pull the server-side (healed) upload list using only the stored session — no re-login/password.
+// Keeps "My Uploads" correct: prunes orphaned entries whose config was deleted/replaced, and
+// surfaces app-side uploads made after the last web sign-in. On any error the cached list is kept.
+function refreshMyUploads() {
+  if (!account || !account.session) return;
+  fetch(WORKER + '/account/uploads?' + NS, {
+    method: 'POST', headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ session: account.session })
+  }).then(function(r){ return r.json(); }).then(function(d){
+    if (d && d.success && Array.isArray(d.uploads) && account) {
+      account.uploads = d.uploads;
+      saveAccount();
+      renderAccountUi();
+      if (document.getElementById('myuploads-view')) renderMyUploads();
+    }
+  }).catch(function(){ /* keep cached list on network/parse error */ });
+}
 function restoreAccount() {
   try { var raw = localStorage.getItem('bl_account'); if (raw) { account = JSON.parse(raw); if (!account || !account.username) account = null; } }
   catch(e){ account = null; }
   renderAccountUi();
+  refreshMyUploads(); // page load: silently refresh the cached list against the healed registry
 }
 function renderAccountUi() {
   var wrap = document.getElementById('account-wrap');
@@ -1324,6 +1342,7 @@ function showMyUploads() {
   history.replaceState(null, '', location.pathname);
   renderMyUploads();
   showMain();
+  refreshMyUploads(); // opening the tab: paint cached instantly, then replace with the fresh list
 }
 function renderMyUploads() {
   var main = document.getElementById('main');
