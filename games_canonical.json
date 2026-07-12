@@ -1146,7 +1146,7 @@
     "name": "Hades II"
   },
   "1145360": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -1172,6 +1172,11 @@
         "d": "Adreno__TM__640",
         "m": "Redmi_K20_Pro",
         "s": "Adreno (TM) 640"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
       }
     ],
     "folders": [
