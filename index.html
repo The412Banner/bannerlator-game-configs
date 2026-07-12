@@ -1,0 +1,1204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bannerlator Game Configs</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: system-ui, -apple-system, sans-serif; background: #0d1117; color: #e6edf3; min-height: 100vh; }
+
+  header {
+    background: #161b22; border-bottom: 1px solid #30363d;
+    padding: 10px 16px 0; display: flex; flex-direction: column;
+    gap: 0; position: sticky; top: 44px; z-index: 100;
+  }
+  .header-top { display: flex; align-items: center; gap: 10px; padding-bottom: 10px; }
+  header a.logo-link { display: flex; align-items: center; gap: 10px; text-decoration: none; flex: 1; }
+  header a.logo-link img { height: 32px; width: 32px; border-radius: 6px; object-fit: cover; flex-shrink: 0; }
+  header h1 { font-size: 16px; font-weight: 600; color: #ff5cb8; }
+  .header-stats { display: flex; gap: 12px; }
+  .stat { font-size: 12px; color: #8b949e; white-space: nowrap; }
+  .stat strong { color: #e6edf3; }
+  .header-sub {
+    display: flex; align-items: center; gap: 16px; flex-wrap: wrap;
+    border-top: 1px solid #21262d; padding: 7px 0;
+  }
+  .header-sub a {
+    color: #8b949e; text-decoration: none; font-size: 12px;
+    display: flex; align-items: center; gap: 5px;
+  }
+  .header-sub a:hover { color: #ff5cb8; }
+  .header-sub .release-badge {
+    color: #3fb950; text-decoration: none; font-weight: 600; font-size: 12px;
+    border: 1px solid #2ea043; border-radius: 10px; padding: 1px 8px;
+  }
+  .header-sub .release-badge:hover { background: #1a4731; }
+  .header-sub .release-badge-lite {
+    color: #ff5cb8; border-color: #ff2d9b;
+  }
+  .header-sub .release-badge-lite:hover { background: #301033; }
+  .header-sub .release-badge-v6 {
+    color: #bc8cff; border-color: #8957e5;
+  }
+  .header-sub .release-badge-v6:hover { background: #2d2150; }
+  .header-sub .release-label { font-size: 12px; color: #8b949e; margin-left: auto; display: flex; align-items: center; gap: 8px; }
+
+  .layout { display: grid; grid-template-columns: 280px 1fr; height: calc(100vh - 82px - 20px - 44px); }
+  .site-disclaimer {
+    position: fixed; bottom: 0; left: 0; right: 0; z-index: 100;
+    background: #0d1117; border-top: 1px solid #161b22;
+    padding: 2px 16px; font-size: 9px; color: #30363d;
+    text-align: center; line-height: 1.3;
+  }
+
+  .sidebar { background: #161b22; border-right: 1px solid #30363d; display: flex; flex-direction: column; overflow: hidden; }
+  .search-wrap { padding: 10px; border-bottom: 1px solid #30363d; }
+  .search-wrap input {
+    width: 100%; background: #0d1117; border: 1px solid #30363d;
+    border-radius: 6px; color: #e6edf3; padding: 8px 12px;
+    font-size: 14px; outline: none;
+  }
+  .search-wrap input:focus { border-color: #ff5cb8; }
+  .search-wrap input::placeholder { color: #8b949e; }
+  /* Sidebar filters */
+  .sidebar-filters {
+    border-bottom: 1px solid #30363d;
+    overflow: hidden; transition: max-height 0.2s ease;
+  }
+  .sidebar-filters.collapsed { max-height: 0; }
+  .filter-toggle {
+    width: 100%; background: none; border: none; border-bottom: 1px solid #30363d;
+    color: #8b949e; font-size: 12px; padding: 7px 12px;
+    display: flex; align-items: center; justify-content: space-between; cursor: pointer;
+  }
+  .filter-toggle:hover { color: #e6edf3; }
+  .filter-toggle svg { transition: transform 0.2s; }
+  .filter-toggle.open svg { transform: rotate(180deg); }
+  .sidebar-filter-body { padding: 8px 10px; display: flex; flex-direction: column; gap: 6px; }
+  .sf-group { display: flex; flex-direction: column; gap: 2px; }
+  .sf-group label { font-size: 10px; color: #8b949e; text-transform: uppercase; letter-spacing: 0.4px; }
+  .sf-group select {
+    background: #0d1117; border: 1px solid #30363d; border-radius: 5px;
+    color: #e6edf3; padding: 5px 8px; font-size: 12px; outline: none; cursor: pointer; width: 100%;
+  }
+  .sf-group select:focus { border-color: #ff5cb8; }
+  .filter-clear { background: none; border: 1px solid #30363d; color: #8b949e; border-radius: 4px; font-size: 11px; padding: 3px 8px; cursor: pointer; align-self: flex-start; }
+  .filter-clear:hover { border-color: #ff5cb8; color: #ff5cb8; }
+
+  .game-count { padding: 7px 12px; font-size: 12px; color: #8b949e; border-bottom: 1px solid #21262d; }
+  .game-list { overflow-y: auto; flex: 1; }
+
+  .game-item {
+    padding: 11px 14px; cursor: pointer; border-bottom: 1px solid #21262d;
+    display: flex; justify-content: space-between; align-items: center; font-size: 14px;
+  }
+  .game-item:active { background: #21262d; }
+  .game-item.active { background: #3a1030; border-left: 3px solid #ff5cb8; }
+  .game-item .gname { color: #e6edf3; flex: 1; }
+  .game-item .badge {
+    background: #21262d; color: #8b949e; font-size: 11px;
+    padding: 2px 7px; border-radius: 10px; min-width: 22px; text-align: center; flex-shrink: 0;
+  }
+  .game-item.active .badge { background: #3a1030; color: #ff5cb8; }
+
+  .no-games-msg { padding: 20px 14px; font-size: 13px; color: #8b949e; text-align: center; line-height: 1.5; }
+  .no-games-msg span { color: #ff5cb8; }
+
+  .main { overflow-y: auto; padding: 20px 16px; }
+
+  /* Home / recently added */
+  .home-section { margin-bottom: 28px; }
+  .section-title { font-size: 13px; font-weight: 600; color: #8b949e; text-transform: uppercase; letter-spacing: 0.6px; margin-bottom: 12px; }
+  .recent-list { display: flex; flex-direction: column; gap: 8px; }
+  .recent-item {
+    background: #161b22; border: 1px solid #30363d; border-radius: 7px;
+    padding: 10px 14px; cursor: pointer; display: flex; align-items: center; gap: 12px;
+  }
+  .recent-item:active { background: #21262d; }
+  .recent-game { font-size: 14px; color: #e6edf3; flex: 1; font-weight: 500; }
+  .recent-device { font-size: 12px; color: #8b949e; }
+  .recent-date { font-size: 11px; color: #484f58; white-space: nowrap; }
+
+  /* Empty state */
+  .empty-state {
+    display: flex; flex-direction: column; align-items: center;
+    justify-content: center; height: 200px; color: #8b949e; gap: 10px; text-align: center;
+  }
+  .empty-state svg { opacity: 0.2; }
+  .empty-state p { font-size: 14px; }
+
+  /* Back button */
+  .back-btn {
+    display: none; align-items: center; gap: 6px; color: #ff5cb8;
+    font-size: 14px; cursor: pointer; margin-bottom: 16px; background: none; border: none; padding: 0;
+  }
+
+  /* Game title row */
+  .game-title-row { display: flex; align-items: center; gap: 10px; margin-bottom: 3px; }
+  .game-title { font-size: 18px; font-weight: 600; }
+  .share-btn {
+    background: none; border: 1px solid #30363d; color: #8b949e;
+    border-radius: 5px; padding: 3px 8px; font-size: 12px; cursor: pointer;
+    display: flex; align-items: center; gap: 4px;
+  }
+  .share-btn:active { border-color: #ff5cb8; color: #ff5cb8; }
+  .share-toast {
+    display: inline-block; font-size: 11px; color: #3fb950;
+    margin-left: 6px; opacity: 0; transition: opacity 0.3s;
+  }
+  .game-subtitle { color: #8b949e; font-size: 13px; margin-bottom: 14px; }
+
+  /* Completeness badges */
+  .badge-complete { background: #1a4731; color: #3fb950; border: 1px solid #2ea043; font-size: 11px; padding: 2px 7px; border-radius: 10px; }
+  .badge-good     { background: #3a1030; color: #ff5cb8; border: 1px solid #ff2d9b; font-size: 11px; padding: 2px 7px; border-radius: 10px; }
+  .badge-partial  { background: #2d2208; color: #d29922; border: 1px solid #9e6a03; font-size: 11px; padding: 2px 7px; border-radius: 10px; }
+
+  /* Filter bar */
+  .filter-bar {
+    display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 14px;
+    padding: 10px 12px; background: #161b22; border: 1px solid #30363d;
+    border-radius: 8px; align-items: flex-end;
+  }
+  .filter-group { display: flex; flex-direction: column; gap: 3px; flex: 1; min-width: 120px; }
+  .filter-group label { font-size: 11px; color: #8b949e; text-transform: uppercase; letter-spacing: 0.4px; }
+  .filter-group select {
+    background: #0d1117; border: 1px solid #30363d; border-radius: 5px;
+    color: #e6edf3; padding: 6px 8px; font-size: 13px; outline: none; cursor: pointer;
+  }
+  .filter-group select:focus { border-color: #ff5cb8; }
+  .filter-count { font-size: 12px; color: #8b949e; white-space: nowrap; align-self: center; margin-left: auto; }
+
+  /* Compare bar */
+  .compare-bar {
+    display: flex; align-items: center; gap: 10px; margin-bottom: 14px;
+    padding: 10px 14px; background: #3a1030; border: 1px solid #ff2d9b;
+    border-radius: 8px; font-size: 13px;
+  }
+  .compare-bar span { flex: 1; color: #ff5cb8; }
+  .compare-bar button {
+    background: #ff2d9b; border: none; color: #fff; padding: 5px 12px;
+    border-radius: 5px; font-size: 13px; cursor: pointer; font-weight: 500;
+  }
+  .compare-bar .clear-btn { background: none; border: 1px solid #ff2d9b; color: #ff5cb8; }
+
+  /* Compare table */
+  .compare-table-wrap { margin-bottom: 18px; overflow-x: auto; }
+  .compare-table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  .compare-table th {
+    background: #21262d; padding: 8px 12px; text-align: left;
+    border: 1px solid #30363d; color: #8b949e; font-weight: 600; font-size: 12px;
+  }
+  .compare-table td { padding: 8px 12px; border: 1px solid #30363d; vertical-align: top; }
+  .compare-table .field-name { color: #8b949e; font-size: 12px; text-transform: uppercase; letter-spacing: 0.3px; background: #161b22; }
+  .compare-table .match { color: #e6edf3; }
+  .compare-table .diff { color: #f85149; background: #2d1117; }
+  .compare-table .diff-b { color: #3fb950; background: #0d1f12; }
+
+  /* Config card */
+  .config-card { background: #161b22; border: 1px solid #30363d; border-radius: 8px; margin-bottom: 14px; overflow: hidden; }
+  .config-header {
+    padding: 10px 14px; background: #21262d; border-bottom: 1px solid #30363d;
+    display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
+  }
+  .config-header .device { font-size: 13px; font-weight: 600; color: #e6edf3; flex: 1; }
+  .config-header .meta { font-size: 12px; color: #8b949e; }
+  .compare-check { display: flex; align-items: center; gap: 5px; font-size: 12px; color: #8b949e; cursor: pointer; }
+  .compare-check input { accent-color: #ff5cb8; width: 14px; height: 14px; cursor: pointer; }
+
+  .config-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 1px; background: #30363d; }
+  .config-field { background: #161b22; padding: 10px 12px; }
+  .config-field .label { font-size: 11px; color: #8b949e; text-transform: uppercase; letter-spacing: 0.4px; margin-bottom: 3px; }
+  .config-field .value { font-size: 13px; color: #e6edf3; word-break: break-word; }
+
+  .env-block { padding: 10px 14px; }
+  .env-block .label { font-size: 11px; color: #8b949e; text-transform: uppercase; letter-spacing: 0.4px; margin-bottom: 6px; }
+  .env-vars { background: #0d1117; border-radius: 4px; padding: 10px 12px; font-family: monospace; font-size: 12px; color: #7ee787; word-break: break-all; white-space: pre-wrap; overflow-x: auto; }
+
+  .card-actions { padding: 8px 14px; border-top: 1px solid #30363d; display: flex; gap: 8px; }
+  .card-actions button { background: none; border: 1px solid #30363d; color: #8b949e; font-size: 12px; padding: 4px 10px; border-radius: 4px; cursor: pointer; }
+  .card-actions button:active { border-color: #ff5cb8; color: #ff5cb8; }
+  .raw-json { display: none; padding: 10px 14px; border-top: 1px solid #30363d; }
+  .raw-json pre { background: #0d1117; padding: 10px; border-radius: 4px; font-size: 11px; overflow-x: auto; color: #8b949e; max-height: 300px; }
+
+  .no-results { color: #8b949e; font-size: 14px; padding: 20px 0; text-align: center; }
+  .loading { color: #8b949e; font-size: 14px; padding: 40px; text-align: center; }
+  .error { color: #f85149; font-size: 13px; padding: 16px; }
+
+
+  /* Steam cover + links */
+  .steam-header {
+    display: flex; align-items: flex-end; gap: 16px;
+    margin-bottom: 16px; flex-wrap: wrap;
+  }
+  .steam-cover {
+    width: 230px; height: 108px; border-radius: 6px;
+    object-fit: cover; border: 1px solid #30363d; flex-shrink: 0;
+    background: #161b22;
+  }
+  .steam-cover-placeholder {
+    width: 230px; height: 108px; border-radius: 6px;
+    background: #161b22; border: 1px solid #30363d;
+    flex-shrink: 0; display: flex; align-items: center;
+    justify-content: center; color: #484f58; font-size: 12px;
+  }
+  .steam-info { flex: 1; min-width: 160px; }
+  .steam-links { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 8px; }
+  .steam-link {
+    display: inline-flex; align-items: center; gap: 5px;
+    font-size: 12px; padding: 4px 10px; border-radius: 5px;
+    text-decoration: none; border: 1px solid #30363d;
+    color: #8b949e; background: #161b22; white-space: nowrap;
+  }
+  .steam-link:hover { border-color: #ff5cb8; color: #ff5cb8; }
+  .steam-link.steam  { border-color: #1b2838; color: #66c0f4; background: #1b2838; }
+  .steam-link.steam:hover { background: #2a475e; }
+
+  /* Admin */
+  .admin-badge {
+    background: #2d1b00; border: 1px solid #9e6a03; color: #d29922;
+    font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 10px;
+    letter-spacing: 0.3px;
+  }
+  .admin-btn {
+    border: none; border-radius: 4px; font-size: 12px;
+    padding: 4px 10px; cursor: pointer; font-weight: 500;
+  }
+  .btn-delete { background: #3d1212; color: #f85149; border: 1px solid #6e2020; }
+  .btn-delete:active { background: #6e2020; }
+  .btn-edit   { background: #1a2d1a; color: #3fb950; border: 1px solid #2ea043; }
+  .btn-edit:active { background: #2ea043; color: #fff; }
+
+  /* Modal overlay */
+  .modal-overlay {
+    display: none; position: fixed; inset: 0;
+    background: rgba(0,0,0,0.7); z-index: 200;
+    align-items: center; justify-content: center; padding: 16px;
+  }
+  .modal-overlay.open { display: flex; }
+  .modal {
+    background: #161b22; border: 1px solid #30363d; border-radius: 10px;
+    width: 100%; max-width: 560px; max-height: 90vh;
+    display: flex; flex-direction: column; overflow: hidden;
+  }
+  .modal-header {
+    padding: 14px 16px; border-bottom: 1px solid #30363d;
+    display: flex; align-items: center; justify-content: space-between;
+  }
+  .modal-header h3 { font-size: 15px; font-weight: 600; }
+  .modal-close { background: none; border: none; color: #8b949e; font-size: 20px; cursor: pointer; line-height: 1; }
+  .modal-body { padding: 16px; overflow-y: auto; flex: 1; }
+  .modal-footer { padding: 12px 16px; border-top: 1px solid #30363d; display: flex; gap: 8px; justify-content: flex-end; }
+  .modal-footer button {
+    padding: 7px 16px; border-radius: 6px; font-size: 13px;
+    cursor: pointer; font-weight: 500; border: none;
+  }
+  .btn-primary { background: #238636; color: #fff; }
+  .btn-primary:active { background: #2ea043; }
+  .btn-secondary { background: #21262d; color: #e6edf3; border: 1px solid #30363d !important; }
+  .btn-danger { background: #b91c1c; color: #fff; }
+
+  .modal input[type="password"], .modal textarea {
+    width: 100%; background: #0d1117; border: 1px solid #30363d;
+    border-radius: 6px; color: #e6edf3; padding: 8px 12px;
+    font-size: 13px; outline: none; font-family: monospace;
+  }
+  .modal input[type="password"]:focus, .modal textarea:focus { border-color: #ff5cb8; }
+  .modal textarea { resize: vertical; min-height: 300px; }
+  .modal label { font-size: 12px; color: #8b949e; display: block; margin-bottom: 6px; }
+  .modal-error { color: #f85149; font-size: 12px; margin-top: 8px; }
+
+  ::-webkit-scrollbar { width: 5px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: #30363d; border-radius: 3px; }
+
+  @media (max-width: 640px) {
+    .layout { display: block; height: calc(100vh - 82px - 20px - 44px); overflow: hidden; position: relative; }
+    .sidebar { position: absolute; inset: 0; width: 100%; border-right: none; transition: transform 0.25s ease; z-index: 10; }
+    .sidebar.hidden { transform: translateX(-100%); }
+    .main { position: absolute; inset: 0; width: 100%; padding: 14px; transform: translateX(100%); transition: transform 0.25s ease; }
+    .main.visible { transform: translateX(0); }
+    .back-btn { display: flex; }
+    .game-item { padding: 13px 14px; }
+    .config-grid { grid-template-columns: 1fr 1fr; }
+    .game-title { font-size: 17px; }
+    .header-stats { display: none; }
+    .compare-table th, .compare-table td { padding: 6px 8px; font-size: 12px; }
+    .header-sub { gap: 10px; }
+  }
+
+  /* Bannerlator top nav */
+  .bh-topnav {
+    position: sticky; top: 0; z-index: 200; height: 44px; box-sizing: border-box;
+    display: flex; align-items: center; gap: 6px;
+    background: #0b0e14; border-bottom: 1px solid #2a3346; padding: 0 14px;
+  }
+  .bh-topnav::-webkit-scrollbar { height: 0; }
+  .bh-topnav .bh-brand { display: inline-flex; align-items: center; gap: 8px; flex-shrink: 0;
+    font-weight: 800; color: #e6e9f0; text-decoration: none; font-size: 14px; margin-right: 6px; }
+  .bh-topnav .bh-logo { width: 22px; height: 22px; border-radius: 6px; flex-shrink: 0;
+    background: linear-gradient(135deg,#ff2d9b,#8b5cf6); display: inline-grid; place-items: center;
+    color: #fff; font-weight: 900; font-size: 13px; }
+  .bh-topnav a.bh-link { color: #aab2c4; text-decoration: none; font-size: 13px; padding: 5px 8px;
+    border-radius: 7px; flex-shrink: 0; }
+  .bh-topnav a.bh-link:hover { color: #fff; background: #1a2030; }
+  .bh-topnav .bh-here { color: #fff; background: #3a1030; font-size: 13px; padding: 5px 8px;
+    border-radius: 7px; flex-shrink: 0; font-weight: 600; }
+
+  .bh-links { display: flex; align-items: center; gap: 3px; flex: 1; min-width: 0;
+    overflow-x: auto; white-space: nowrap; -webkit-overflow-scrolling: touch; }
+  .bh-links::-webkit-scrollbar { height: 0; }
+  .bh-burger { display: none; flex-shrink: 0; cursor: pointer; margin-left: auto;
+    background: #161b22; border: 1px solid #2a3346; color: #e6e9f0;
+    width: 34px; height: 32px; border-radius: 7px; font-size: 1.05rem; line-height: 1; }
+  @media (max-width: 760px) {
+    .bh-burger { display: block; }
+    .bh-links { position: absolute; top: 44px; left: 0; right: 0; flex-direction: column;
+      align-items: stretch; gap: 2px; background: #0b0e14; border-bottom: 1px solid #2a3346;
+      padding: 10px; display: none; overflow-x: visible; overflow-y: auto; max-height: calc(100vh - 44px); }
+    .bh-links.open { display: flex; }
+    .bh-links a.bh-link, .bh-links .bh-here { width: 100%; padding: 11px 14px; }
+  }
+  header a.logo-link .bl-logo { height:32px; width:32px; border-radius:6px; flex-shrink:0;
+    display:grid; place-items:center; background:linear-gradient(135deg,#ff2d9b,#8b5cf6);
+    color:#fff; font-weight:900; font-size:16px; }
+  .config-header .uploader { display:flex; align-items:center; gap:5px; font-size:11px; color:#8b949e; }
+  .config-header .uploader img { width:16px; height:16px; border-radius:50%; object-fit:cover; }
+</style>
+</head>
+<body>
+
+<nav class="bh-topnav" aria-label="Bannerlator">
+  <a class="bh-brand" href="https://github.com/The412Banner/Bannerlator"><span class="bh-logo">B</span> Bannerlator</a>
+  <button class="bh-burger" type="button" aria-label="Menu" onclick="this.parentNode.querySelector('.bh-links').classList.toggle('open')">☰</button>
+  <div class="bh-links">
+    <a class="bh-link" href="https://github.com/The412Banner/Bannerlator">Bannerlator App</a>
+    <a class="bh-link" href="https://github.com/The412Banner/Bannerlator/releases/latest">Releases</a>
+    <a class="bh-link" href="https://github.com/The412Banner/bannerlator-game-configs">Config Repo</a>
+    <a class="bh-link" href="https://discord.gg/n8S4G2WZQ4">Discord</a>
+    <span class="bh-here">Config Library</span>
+  </div>
+</nav>
+
+<header>
+  <div class="header-top">
+    <a class="logo-link" href="https://the412banner.github.io/bannerlator-game-configs/">
+      <span class="bl-logo">B</span>
+      <h1>Bannerlator Game Configs</h1>
+    </a>
+    <div class="header-stats">
+      <span class="stat" id="stat-games">—</span>
+      <span class="stat" id="stat-configs">—</span>
+      <span id="admin-badge-wrap"></span>
+    </div>
+  </div>
+  <div class="header-sub">
+    <a href="https://github.com/The412Banner/Bannerlator" target="_blank">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12c0 4.42 2.87 8.17 6.84 9.49.5.09.68-.22.68-.48v-1.7c-2.78.6-3.37-1.34-3.37-1.34-.45-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.61.07-.61 1 .07 1.53 1.03 1.53 1.03.89 1.52 2.34 1.08 2.91.83.09-.65.35-1.08.63-1.33-2.22-.25-4.55-1.11-4.55-4.94 0-1.09.39-1.98 1.03-2.68-.1-.25-.45-1.27.1-2.64 0 0 .84-.27 2.75 1.02A9.56 9.56 0 0112 6.8c.85 0 1.71.11 2.51.33 1.91-1.29 2.75-1.02 2.75-1.02.55 1.37.2 2.39.1 2.64.64.7 1.03 1.59 1.03 2.68 0 3.84-2.34 4.69-4.57 4.94.36.31.68.92.68 1.85v2.74c0 .27.18.58.69.48A10.01 10.01 0 0022 12c0-5.52-4.48-10-10-10z"/></svg>
+      Bannerlator App
+    </a>
+    <a href="https://github.com/The412Banner/bannerlator-game-configs" target="_blank">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12c0 4.42 2.87 8.17 6.84 9.49.5.09.68-.22.68-.48v-1.7c-2.78.6-3.37-1.34-3.37-1.34-.45-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.61.07-.61 1 .07 1.53 1.03 1.53 1.03.89 1.52 2.34 1.08 2.91.83.09-.65.35-1.08.63-1.33-2.22-.25-4.55-1.11-4.55-4.94 0-1.09.39-1.98 1.03-2.68-.1-.25-.45-1.27.1-2.64 0 0 .84-.27 2.75 1.02A9.56 9.56 0 0112 6.8c.85 0 1.71.11 2.51.33 1.91-1.29 2.75-1.02 2.75-1.02.55 1.37.2 2.39.1 2.64.64.7 1.03 1.59 1.03 2.68 0 3.84-2.34 4.69-4.57 4.94.36.31.68.92.68 1.85v2.74c0 .27.18.58.69.48A10.01 10.01 0 0022 12c0-5.52-4.48-10-10-10z"/></svg>
+      Config Repo
+    </a>
+    <span class="release-label">
+      Bannerlator: <a class="release-badge" id="footer-release-link" href="https://github.com/The412Banner/Bannerlator/releases/latest" target="_blank">latest</a>
+    </span>
+    <button onclick="openAdminModal()" title="Admin" style="background:none;border:none;cursor:pointer;color:#30363d;padding:2px 4px;margin-left:auto;">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0110 0v4"/></svg>
+    </button>
+  </div>
+</header>
+
+
+<div class="site-disclaimer">Game names, cover art, and trademarks are property of their respective owners. Bannerlator is not affiliated with Valve, GOG, Epic Games, or Amazon. Cover art sourced from Steam API for identification purposes only.</div>
+
+<div class="layout">
+  <div class="sidebar" id="sidebar">
+    <div class="search-wrap">
+      <input type="text" id="search" placeholder="Search games…" autocomplete="off">
+    </div>
+    <button class="filter-toggle" id="filter-toggle" onclick="toggleFilters()">
+      <span>Filters</span>
+      <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+    </button>
+    <div class="sidebar-filters collapsed" id="sidebar-filters">
+      <div class="sidebar-filter-body">
+        <div class="sf-group">
+          <label>SOC / GPU</label>
+          <select id="sf-soc" onchange="onSidebarFilterChange()"><option value="">All</option></select>
+        </div>
+        <div class="sf-group">
+          <label>Manufacturer</label>
+          <select id="sf-mfr" onchange="onSidebarFilterChange()"><option value="">All</option></select>
+        </div>
+        <div class="sf-group">
+          <label>Device Model</label>
+          <select id="sf-dev" onchange="onSidebarFilterChange()"><option value="">All</option></select>
+        </div>
+        <button class="filter-clear" onclick="clearSidebarFilters()">Clear filters</button>
+      </div>
+    </div>
+    <div class="game-count" id="game-count">Loading…</div>
+    <div class="game-list" id="game-list"></div>
+  </div>
+
+  <div class="main" id="main">
+    <div class="loading">Loading…</div>
+  </div>
+</div>
+
+<!-- Admin password modal -->
+<div class="modal-overlay" id="admin-modal">
+  <div class="modal">
+    <div class="modal-header">
+      <h3>Admin Login</h3>
+      <button class="modal-close" onclick="closeAdminModal()">×</button>
+    </div>
+    <div class="modal-body">
+      <label>Password</label>
+      <input type="password" id="admin-password" placeholder="Enter admin password" onkeydown="if(event.key==='Enter')submitAdminLogin()">
+      <label style="display:flex;align-items:center;gap:6px;margin-top:10px;cursor:pointer;font-size:13px;color:#e6edf3;">
+        <input type="checkbox" id="admin-remember" style="accent-color:#ff5cb8;width:14px;height:14px;"> Remember me
+      </label>
+      <div class="modal-error" id="admin-error"></div>
+    </div>
+    <div class="modal-footer">
+      <button class="modal-footer btn-secondary" onclick="closeAdminModal()">Cancel</button>
+      <button class="modal-footer btn-primary" onclick="submitAdminLogin()">Login</button>
+    </div>
+  </div>
+</div>
+
+<!-- Edit config modal -->
+<div class="modal-overlay" id="edit-modal">
+  <div class="modal">
+    <div class="modal-header">
+      <h3 id="edit-modal-title">Edit Config</h3>
+      <button class="modal-close" onclick="closeEditModal()">×</button>
+    </div>
+    <div class="modal-body">
+      <label>Config JSON</label>
+      <textarea id="edit-textarea" spellcheck="false"></textarea>
+      <div class="modal-error" id="edit-error"></div>
+    </div>
+    <div class="modal-footer">
+      <button class="btn-secondary" onclick="closeEditModal()">Cancel</button>
+      <button class="btn-primary" id="edit-save-btn" onclick="saveEdit()">Save</button>
+    </div>
+  </div>
+</div>
+
+<!-- Delete confirm modal -->
+<div class="modal-overlay" id="delete-modal">
+  <div class="modal">
+    <div class="modal-header">
+      <h3>Delete Config</h3>
+      <button class="modal-close" onclick="closeDeleteModal()">×</button>
+    </div>
+    <div class="modal-body">
+      <p style="font-size:14px;color:#e6edf3;">Are you sure you want to permanently delete <strong id="delete-filename"></strong>?</p>
+      <div class="modal-error" id="delete-error"></div>
+    </div>
+    <div class="modal-footer">
+      <button class="btn-secondary" onclick="closeDeleteModal()">Cancel</button>
+      <button class="btn-danger" id="delete-confirm-btn" onclick="confirmDelete()">Delete</button>
+    </div>
+  </div>
+</div>
+
+<script>
+var games = [];
+var activeGame = null;
+var loadedConfigs = [];
+var filterManufacturer = '';
+var filterDevice = '';
+var filterSource = '';
+var selectedCompare = [];
+var devicesMap = {};       // game → [{m, d, s}]
+var sidebarSOC = '';
+var sidebarMfr = '';
+var sidebarDev = '';
+var sidebarSource = '';
+var sourcesMap = {};  // game → Set of app_source values
+var filtersOpen = false;
+var adminMode = false;
+var adminPass = '';
+var steamData = null;
+var WORKER = 'https://bannerhub-configs-worker.the412banner.workers.dev';
+var RAW = 'https://raw.githubusercontent.com/The412Banner/bannerlator-game-configs/main';
+var NS = 'ns=bannerlator';
+var editTarget = null;   // { idx, game, filename }
+var deleteTarget = null; // { idx, game, filename }
+
+async function init() {
+  // Auto-login if remembered
+  var saved = localStorage.getItem('bh_admin');
+  if (saved) {
+    fetch(WORKER + '/admin/delete?' + NS, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ game: '__test__', filename: '__test__', password: saved })
+    }).then(function(r){ return r.json(); }).then(function(d) {
+      if (d.error !== 'Unauthorized' && !(d.error && d.error.includes('locked'))) {
+        activateAdmin(saved);
+      } else {
+        localStorage.removeItem('bh_admin'); // stale/wrong — clear it
+      }
+    }).catch(function(){});
+  } else if (new URLSearchParams(location.search).has('admin')) {
+    document.getElementById('admin-modal').classList.add('open');
+    setTimeout(function(){ document.getElementById('admin-password').focus(); }, 100);
+  }
+  try {
+    const [gamesRes, recentRes, devicesRes] = await Promise.all([
+      fetch('games.json'),
+      fetch('recent.json').catch(function() { return null; }),
+      fetch('devices.json').catch(function() { return null; })
+    ]);
+    games = await gamesRes.json();
+    if (devicesRes && devicesRes.ok) {
+      devicesMap = await devicesRes.json().catch(function(){ return {}; });
+    }
+    buildSidebarFilters();
+
+    var totalConfigs = games.reduce(function(s, g) { return s + g.count; }, 0);
+    document.getElementById('stat-games').innerHTML = '<strong>' + games.length + '</strong> games';
+    document.getElementById('stat-configs').innerHTML = '<strong>' + totalConfigs + '</strong> configs';
+
+    renderList(filteredGames(''));
+
+    var recent = recentRes ? await recentRes.json().catch(function(){ return []; }) : [];
+
+    // Check for hash deep-link
+    var hash = decodeURIComponent(location.hash.slice(1));
+    if (hash && games.find(function(g){ return g.name === hash; })) {
+      loadGame(hash);
+    } else {
+      renderHome(recent);
+    }
+  } catch(e) {
+    document.getElementById('game-list').innerHTML = '<div class="error">Failed to load games.json</div>';
+  }
+}
+
+function renderHome(recent) {
+  var html = '';
+  if (recent && recent.length > 0) {
+    html += '<div class="home-section"><div class="section-title">Recently Added</div><div class="recent-list">';
+    recent.forEach(function(r) {
+      var d = new Date(r.timestamp * 1000).toLocaleDateString();
+      html += '<div class="recent-item" onclick="loadGame(\'' + esc(r.game) + '\')">' +
+        '<div style="flex:1">' +
+        '<div class="recent-game">' + prettyName(r.game) + '</div>' +
+        '<div class="recent-device">' + r.manufacturer + ' ' + r.device + '</div>' +
+        '</div>' +
+        '<div class="recent-date">' + d + '</div>' +
+        '</div>';
+    });
+    html += '</div></div>';
+  }
+  html += '<div class="empty-state">' +
+    '<svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M9 12h6M9 16h6M7 4H5a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2V6a2 2 0 00-2-2h-2"/><rect x="7" y="2" width="10" height="4" rx="1"/></svg>' +
+    '<p>Select a game from the list to view its configs</p>' +
+    '</div>';
+  document.getElementById('main').innerHTML = html;
+}
+
+function renderList(list) {
+  var q = document.getElementById('search').value;
+  document.getElementById('game-count').textContent = list.length + ' game' + (list.length !== 1 ? 's' : '');
+  if (list.length === 0 && q) {
+    document.getElementById('game-list').innerHTML =
+      '<div class="no-games-msg">No configs yet for <span>"' + q + '"</span><br>Be the first to share one from Bannerlator!</div>';
+    return;
+  }
+  document.getElementById('game-list').innerHTML = list.map(function(g) {
+    return '<div class="game-item' + (g.name === activeGame ? ' active' : '') + '" onclick="loadGame(\'' + esc(g.name) + '\')">' +
+      '<span class="gname">' + prettyName(g.name) + '</span>' +
+      '<span class="badge">' + g.count + '</span></div>';
+  }).join('');
+}
+
+function prettyName(n) { return n.replace(/_/g, ' ').replace(/\s+/g, ' ').trim(); }
+function esc(s) { return s.replace(/\\/g,'\\\\').replace(/'/g,"\\'"); }
+function escH(s) { return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+
+document.getElementById('search').addEventListener('input', function(e) {
+  renderList(filteredGames(e.target.value.toLowerCase()));
+});
+
+function showMain() {
+  document.getElementById('sidebar').classList.add('hidden');
+  document.getElementById('main').classList.add('visible');
+}
+function showSidebar() {
+  document.getElementById('sidebar').classList.remove('hidden');
+  document.getElementById('main').classList.remove('visible');
+  activeGame = null; loadedConfigs = []; filterManufacturer = ''; filterDevice = ''; filterSource = ''; selectedCompare = [];
+  history.replaceState(null, '', location.pathname);
+  renderList(filteredGames(document.getElementById('search').value.toLowerCase()));
+}
+
+async function loadGame(name) {
+  activeGame = name; filterManufacturer = ''; filterDevice = ''; filterSource = ''; selectedCompare = []; steamData = null;
+  renderList(filteredGames(document.getElementById('search').value.toLowerCase()));
+  history.replaceState(null, '', '#' + encodeURIComponent(name));
+
+  var main = document.getElementById('main');
+  main.innerHTML = '<div class="loading">Loading…</div>';
+  showMain();
+
+  try {
+    var pretty = prettyName(name);
+
+    // Fetch the config list (via worker, ns=bannerlator) + steam data in parallel.
+    // The worker lists THIS repo's configs server-side, so the page makes zero api.github.com
+    // calls; each config's content is then pulled from the raw CDN.
+    var [listRes, steamRes] = await Promise.all([
+      fetch(WORKER + '/list?game=' + encodeURIComponent(name) + '&' + NS).then(function(r){ return r.json(); }).catch(function(){ return null; }),
+      fetch(WORKER + '/steam/search?name=' + encodeURIComponent(pretty)).then(function(r){ return r.json(); }).catch(function(){ return null; })
+    ]);
+
+    steamData = steamRes && steamRes.appid ? steamRes : null;
+
+    var entries = Array.isArray(listRes) ? listRes : [];
+    if (!entries.length) throw new Error('No configs found');
+
+    loadedConfigs = await Promise.all(entries.map(async function(en) {
+      var data = await fetch(RAW + '/configs/' + encodeURIComponent(name) + '/' + encodeURIComponent(en.filename)).then(function(r){ return r.json(); }).catch(function(){ return {}; });
+      var p = parseDevice(en.filename);
+      var meta = data.meta || {};
+      return { filename: en.filename, data: data, manufacturer: p.manufacturer, device: p.device, date: p.date, completeness: computeCompleteness(data.settings || {}), uploader: meta.uploader || null, votes: en.votes || 0, downloads: en.downloads || 0 };
+    }));
+
+    loadedConfigs.sort(function(a,b){ return b.completeness.score - a.completeness.score; });
+    renderGameView(name);
+  } catch(e) {
+    main.innerHTML = backBtn() + '<div class="error">Failed to load: ' + e.message + '</div>';
+  }
+}
+
+function backBtn() {
+  return '<button class="back-btn" onclick="showSidebar()"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M15 18l-6-6 6-6"/></svg>Back</button>';
+}
+
+function parseDevice(filename) {
+  var base = filename.replace(/\.json$/, '');
+  var parts = base.split('-');
+  if (parts.length >= 3) {
+    var ts = parts[parts.length - 1];
+    var date = !isNaN(ts) && ts.length >= 8 ? new Date(parseInt(ts) * 1000).toLocaleDateString() : '';
+    return { manufacturer: parts[parts.length - 3], device: parts[parts.length - 2], date: date };
+  }
+  return { manufacturer: '?', device: base, date: '' };
+}
+
+function computeCompleteness(s) {
+  var fields = [
+    parseSetting(s, 'pc_ls_CONTAINER_LIST'),
+    parseSetting(s, 'pc_ls_DXVK'),
+    parseSetting(s, 'pc_ls_VK3k'),
+    parseSetting(s, 'pc_ls_GPU_DRIVER_'),
+    parseSetting(s, 'pc_set_constant_95'),
+    s['pc_s_resolution_w2608'],
+    s['pc_ls_environment_variable']
+  ];
+  var score = fields.filter(Boolean).length;
+  var total = fields.length;
+  if (score === total) return { label: 'Complete', cls: 'badge-complete', score: score, total: total };
+  if (score >= total - 2) return { label: 'Good', cls: 'badge-good', score: score, total: total };
+  if (score >= total - 4) return { label: 'Partial', cls: 'badge-partial', score: score, total: total };
+  return { label: null, cls: '', score: score, total: total };
+}
+
+function getUniqueValues(configs, key) {
+  var seen = {}, out = [];
+  configs.forEach(function(c){ if (c[key] && !seen[c[key]]) { seen[c[key]] = true; out.push(c[key]); } });
+  return out.sort();
+}
+
+function renderGameView(name) {
+  var main = document.getElementById('main');
+  var manufacturers = getUniqueValues(loadedConfigs, 'manufacturer');
+  var allDevices = getUniqueValues(loadedConfigs, 'device');
+  var devicesForMfr = filterManufacturer
+    ? getUniqueValues(loadedConfigs.filter(function(c){ return c.manufacturer === filterManufacturer; }), 'device')
+    : allDevices;
+
+
+  var filtered = loadedConfigs.filter(function(c) {
+    if (filterManufacturer && c.manufacturer !== filterManufacturer) return false;
+    if (filterDevice && c.device !== filterDevice) return false;
+    return true;
+  });
+
+  var html = backBtn() +
+    '<div class="steam-header">';
+
+  // Cover art
+  if (steamData && steamData.cover) {
+    html += '<img class="steam-cover" src="' + steamData.cover + '" alt="' + prettyName(name) + '" onerror="this.style.display=\'none\'">';
+  } else {
+    html += '<div class="steam-cover-placeholder">No cover art</div>';
+  }
+
+  html += '<div class="steam-info">' +
+    '<div class="game-title-row">' +
+      '<div class="game-title">' + prettyName(name) + '</div>' +
+      '<button class="share-btn" onclick="copyShare()">' +
+        '<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 13a5 5 0 007.54.54l3-3a5 5 0 00-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 00-7.54-.54l-3 3a5 5 0 007.07 7.07l1.71-1.71"/></svg>' +
+        'Copy link</button>' +
+      '<span class="share-toast" id="share-toast">Copied!</span>' +
+    '</div>' +
+    '<div class="game-subtitle">' + loadedConfigs.length + ' config' + (loadedConfigs.length !== 1 ? 's' : '') + ' from the community</div>';
+
+  // Store links
+  if (steamData && steamData.appid) {
+    var id = steamData.appid;
+    html += '<div class="steam-links">' +
+      '<a class="steam-link steam" href="https://store.steampowered.com/app/' + id + '" target="_blank">' +
+        '<svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 14H9V8h2v8zm4 0h-2V8h2v8z"/></svg>' +
+        'Steam</a>' +
+      '<a class="steam-link" href="https://steamdb.info/app/' + id + '" target="_blank">' +
+        '<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 8v4l3 3"/></svg>' +
+        'SteamDB</a>' +
+      '<a class="steam-link" href="https://www.protondb.com/app/' + id + '" target="_blank">' +
+        '<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>' +
+        'ProtonDB</a>' +
+    '</div>';
+  }
+
+  html += '</div></div>';
+
+  // Filter bar
+  if (manufacturers.length > 1 || allDevices.length > 1) {
+    html += '<div class="filter-bar">';
+    if (manufacturers.length > 1) {
+      html += '<div class="filter-group"><label>Manufacturer</label>' +
+        '<select id="f-mfr" onchange="onFilterChange()">' +
+        '<option value="">All (' + manufacturers.length + ')</option>' +
+        manufacturers.map(function(m){ return '<option value="' + m + '"' + (filterManufacturer===m?' selected':'') + '>' + m + '</option>'; }).join('') +
+        '</select></div>';
+    }
+    if (allDevices.length > 1) {
+      html += '<div class="filter-group"><label>Device Model</label>' +
+        '<select id="f-dev" onchange="onFilterChange()">' +
+        '<option value="">All (' + devicesForMfr.length + ')</option>' +
+        devicesForMfr.map(function(d){ return '<option value="' + d + '"' + (filterDevice===d?' selected':'') + '>' + d + '</option>'; }).join('') +
+        '</select></div>';
+    }
+    html += '<span class="filter-count">' + filtered.length + ' / ' + loadedConfigs.length + '</span>';
+    html += '</div>';
+  }
+
+  // Compare bar
+  if (selectedCompare.length === 2) {
+    var ca = filtered[selectedCompare[0]], cb = filtered[selectedCompare[1]];
+    html += '<div class="compare-bar">' +
+      '<span>Comparing: <strong>' + ca.manufacturer + ' ' + ca.device + '</strong> vs <strong>' + cb.manufacturer + ' ' + cb.device + '</strong></span>' +
+      '<button class="clear-btn" onclick="clearCompare()">Clear</button>' +
+      '</div>';
+    html += renderComparison(ca, cb);
+  } else if (selectedCompare.length === 1) {
+    html += '<div class="compare-bar"><span>Select one more config to compare</span><button class="clear-btn" onclick="clearCompare()">Clear</button></div>';
+  }
+
+  if (filtered.length === 0) {
+    html += '<div class="no-results">No configs match the selected filters.</div>';
+  } else {
+    for (var i = 0; i < filtered.length; i++) {
+      html += renderConfigCard(filtered[i], i);
+    }
+  }
+
+  main.innerHTML = html;
+}
+
+function renderComparison(ca, cb) {
+  var FIELDS = [
+    ['Manufacturer',   function(c){ return c.manufacturer; }],
+    ['Device',         function(c){ return c.device; }],
+    ['Wine Container', function(c){ return getStr(parseSetting(c.data.settings||{}, 'pc_ls_CONTAINER_LIST')); }],
+    ['DXVK',          function(c){ return getStr(parseSetting(c.data.settings||{}, 'pc_ls_DXVK')); }],
+    ['VKD3D',         function(c){ return getStr(parseSetting(c.data.settings||{}, 'pc_ls_VK3k')); }],
+    ['GPU Driver',    function(c){ return getStr(parseSetting(c.data.settings||{}, 'pc_ls_GPU_DRIVER_')); }],
+    ['FEX / Box64',   function(c){ return getStr(parseSetting(c.data.settings||{}, 'pc_set_constant_95')); }],
+    ['Resolution',    function(c){ var s=c.data.settings||{}; return s['pc_s_resolution_w2608'] && s['pc_s_resolution_h2608'] ? s['pc_s_resolution_w2608']+'×'+s['pc_s_resolution_h2608'] : null; }],
+    ['Audio',         function(c){ var v=(c.data.settings||{})['pc_ls_AUDIO_DRIVER']; return v!==undefined?({0:'None',1:'PulseAudio',2:'ALSA'}[v]||String(v)):null; }],
+    ['Hub Type',      function(c){ var v=(c.data.settings||{})['pc_ls_hub_type']; return v!==undefined?({0:'Normal',1:'Lite',2:'CrossFire'}[v]||String(v)):null; }],
+    ['VRAM',          function(c){ var v=(c.data.settings||{})['pc_ls_max_memory']; return v?v+' MB':'Unlimited'; }],
+    ['TSO',           function(c){ var f=parseSetting(c.data.settings||{},'pc_ls_TRANSLATOR_CONFIG_APPLYING_FEX2608'); return f?String(f.TSOEnabled):null; }],
+    ['Mono Hacks',    function(c){ var f=parseSetting(c.data.settings||{},'pc_ls_TRANSLATOR_CONFIG_APPLYING_FEX2608'); return f?String(f.MonoHacks):null; }],
+    ['Env Vars',      function(c){ var v=(c.data.settings||{})['pc_ls_environment_variable']; return v||null; }],
+  ];
+
+  var html = '<div class="compare-table-wrap"><table class="compare-table">' +
+    '<tr><th>Field</th><th>' + ca.manufacturer + ' ' + ca.device + '</th><th>' + cb.manufacturer + ' ' + cb.device + '</th></tr>';
+
+  FIELDS.forEach(function(f) {
+    var label = f[0], fn = f[1];
+    var va = fn(ca) || '—', vb = fn(cb) || '—';
+    var match = va === vb;
+    // Truncate long env vars
+    if (va.length > 60) va = va.substring(0,60) + '…';
+    if (vb.length > 60) vb = vb.substring(0,60) + '…';
+    html += '<tr>' +
+      '<td class="field-name">' + label + '</td>' +
+      '<td class="' + (match ? 'match' : 'diff') + '">' + va + '</td>' +
+      '<td class="' + (match ? 'match' : 'diff-b') + '">' + vb + '</td>' +
+      '</tr>';
+  });
+
+  html += '</table></div>';
+  return html;
+}
+
+function renderConfigCard(cfg, idx) {
+  var s = cfg.data.settings || {};
+  var comp = cfg.completeness;
+  var isSelected = selectedCompare.indexOf(idx) !== -1;
+  var canSelect = selectedCompare.length < 2 || isSelected;
+
+  var fields = [
+    ['Wine Container', getStr(parseSetting(s, 'pc_ls_CONTAINER_LIST'))],
+    ['DXVK',          getStr(parseSetting(s, 'pc_ls_DXVK'))],
+    ['VKD3D',         getStr(parseSetting(s, 'pc_ls_VK3k'))],
+    ['GPU Driver',    getStr(parseSetting(s, 'pc_ls_GPU_DRIVER_'))],
+    ['FEX / Box64',   getStr(parseSetting(s, 'pc_set_constant_95'))],
+    ['Resolution',    s['pc_s_resolution_w2608'] && s['pc_s_resolution_h2608'] ? s['pc_s_resolution_w2608']+'×'+s['pc_s_resolution_h2608'] : null],
+    ['Audio',         s['pc_ls_AUDIO_DRIVER']!==undefined ? ({0:'None',1:'PulseAudio',2:'ALSA'}[s['pc_ls_AUDIO_DRIVER']]||String(s['pc_ls_AUDIO_DRIVER'])) : null],
+    ['VRAM',          s['pc_ls_max_memory'] ? s['pc_ls_max_memory']+' MB' : 'Unlimited'],
+    ['Hub Type',      s['pc_ls_hub_type']!==undefined ? ({0:'Normal',1:'Lite',2:'CrossFire'}[s['pc_ls_hub_type']]||String(s['pc_ls_hub_type'])) : null],
+  ].filter(function(f){ return f[1]!==null && f[1]!==undefined; });
+
+  var envVars = s['pc_ls_environment_variable'];
+  var fexCfg = parseSetting(s, 'pc_ls_TRANSLATOR_CONFIG_APPLYING_FEX2608');
+  if (fexCfg) {
+    if (fexCfg.TSOEnabled !== undefined) fields.push(['TSO Enabled', String(fexCfg.TSOEnabled)]);
+    if (fexCfg.MonoHacks !== undefined) fields.push(['Mono Hacks', String(fexCfg.MonoHacks)]);
+  }
+
+  return '<div class="config-card" id="card-' + idx + '">' +
+    '<div class="config-header">' +
+      '<span class="device">' + cfg.manufacturer + ' ' + cfg.device + '</span>' +
+      (comp.label ? '<span class="' + comp.cls + '">' + comp.label + ' (' + comp.score + '/' + comp.total + ')</span>' : '') +
+      '<span class="meta">' + cfg.date + '</span>' +
+      (cfg.uploader && cfg.uploader.name ? '<span class="uploader">' + (cfg.uploader.avatarUrl ? '<img src="' + cfg.uploader.avatarUrl + '" onerror="this.style.display=\'none\'">' : '') + escH(cfg.uploader.name) + '</span>' : '') +
+      '<label class="compare-check" title="' + (!canSelect && !isSelected ? 'Deselect one to compare another' : 'Compare') + '">' +
+        '<input type="checkbox" ' + (isSelected ? 'checked' : '') + (canSelect ? '' : ' disabled') +
+        ' onchange="toggleCompare(' + idx + ', this.checked)"> Compare' +
+      '</label>' +
+    '</div>' +
+    '<div class="config-grid">' +
+      fields.map(function(f){ return '<div class="config-field"><div class="label">'+f[0]+'</div><div class="value">'+f[1]+'</div></div>'; }).join('') +
+    '</div>' +
+    (envVars ? '<div class="env-block"><div class="label">Environment Variables</div><div class="env-vars">' + envVars.replace(/</g,'&lt;') + '</div></div>' : '') +
+    '<div class="card-actions">' +
+      '<button onclick="copyJSON(' + idx + ', this)">Copy JSON</button>' +
+      '<button onclick="downloadJSON(' + idx + ')">Download</button>' +
+      '<button onclick="toggleRaw(this)">Show raw JSON</button>' +
+      (adminMode ? '<button class="admin-btn btn-edit" onclick="openEditModal(' + idx + ')">Edit</button>' : '') +
+      (adminMode ? '<button class="admin-btn btn-delete" onclick="openDeleteModal(' + idx + ')">Delete</button>' : '') +
+    '</div>' +
+    '<div class="raw-json"><pre>' + JSON.stringify(cfg.data, null, 2).replace(/</g,'&lt;') + '</pre></div>' +
+    '</div>';
+}
+
+function toggleCompare(idx, checked) {
+  if (checked) {
+    if (selectedCompare.indexOf(idx) === -1 && selectedCompare.length < 2) selectedCompare.push(idx);
+  } else {
+    selectedCompare = selectedCompare.filter(function(i){ return i !== idx; });
+  }
+  renderGameView(activeGame);
+}
+function clearCompare() { selectedCompare = []; renderGameView(activeGame); }
+
+function onFilterChange() {
+  var mEl = document.getElementById('f-mfr');
+  var dEl = document.getElementById('f-dev');
+  filterManufacturer = mEl ? mEl.value : '';
+  filterDevice = dEl ? dEl.value : '';
+  selectedCompare = [];
+  renderGameView(activeGame);
+}
+
+function copyShare() {
+  var url = location.href.split('#')[0] + '#' + encodeURIComponent(activeGame);
+  navigator.clipboard && navigator.clipboard.writeText(url).then(function() {
+    var t = document.getElementById('share-toast');
+    t.style.opacity = '1';
+    setTimeout(function(){ t.style.opacity = '0'; }, 2000);
+  });
+}
+
+function copyJSON(idx, btn) {
+  var cfg = loadedConfigs[idx];
+  navigator.clipboard && navigator.clipboard.writeText(JSON.stringify(cfg.data, null, 2)).then(function() {
+    var orig = btn.textContent;
+    btn.textContent = 'Copied!';
+    setTimeout(function(){ btn.textContent = orig; }, 1500);
+  });
+}
+
+function downloadJSON(idx) {
+  var cfg = loadedConfigs[idx];
+  var blob = new Blob([JSON.stringify(cfg.data, null, 2)], { type: 'application/json' });
+  var a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = cfg.filename;
+  a.click();
+  URL.revokeObjectURL(a.href);
+}
+
+function toggleRaw(btn) {
+  var raw = btn.closest('.config-card').querySelector('.raw-json');
+  var vis = raw.style.display === 'block';
+  raw.style.display = vis ? 'none' : 'block';
+  btn.textContent = vis ? 'Show raw JSON' : 'Hide raw JSON';
+}
+
+function parseSetting(settings, key) {
+  var val = settings[key];
+  if (val === undefined || val === null || val === '') return null;
+  if (typeof val === 'string') { try { return JSON.parse(val); } catch(e) { return val; } }
+  return val;
+}
+function getStr(obj) {
+  if (!obj || typeof obj !== 'object') return null;
+  return obj.displayName || obj.name || obj.fileName || null;
+}
+
+// ── Sidebar filters ────────────────────────────────────────────────────────
+function toggleFilters() {
+  filtersOpen = !filtersOpen;
+  var panel = document.getElementById('sidebar-filters');
+  var btn   = document.getElementById('filter-toggle');
+  if (filtersOpen) {
+    panel.classList.remove('collapsed');
+    panel.style.maxHeight = panel.scrollHeight + 'px';
+    btn.classList.add('open');
+  } else {
+    panel.style.maxHeight = '0';
+    btn.classList.remove('open');
+    setTimeout(function(){ panel.classList.add('collapsed'); }, 200);
+  }
+}
+
+function buildSidebarFilters() {
+  var socs = {}, mfrs = {}, devs = {};
+  Object.values(devicesMap).forEach(function(entries) {
+    entries.forEach(function(e) {
+      if (e.s) socs[e.s] = true;
+      if (e.m) mfrs[e.m] = true;
+      if (e.d) devs[e.d] = true;
+    });
+  });
+  populateSelect('sf-soc', Object.keys(socs).sort());
+  populateSelect('sf-mfr', Object.keys(mfrs).sort());
+  populateSelect('sf-dev', Object.keys(devs).sort());
+}
+
+function populateSelect(id, values) {
+  var el = document.getElementById(id);
+  var cur = el.value;
+  el.innerHTML = '<option value="">All</option>' +
+    values.map(function(v){ return '<option value="' + v + '"' + (v === cur ? ' selected' : '') + '>' + v + '</option>'; }).join('');
+}
+
+function onSidebarFilterChange() {
+  sidebarSOC = document.getElementById('sf-soc').value;
+  sidebarMfr = document.getElementById('sf-mfr').value;
+  sidebarDev = document.getElementById('sf-dev').value;
+
+  // When manufacturer changes, update device list to matching devices only
+  if (sidebarMfr) {
+    var devs = {};
+    Object.values(devicesMap).forEach(function(entries) {
+      entries.forEach(function(e) { if (e.m === sidebarMfr && e.d) devs[e.d] = true; });
+    });
+    populateSelect('sf-dev', Object.keys(devs).sort());
+    document.getElementById('sf-dev').value = sidebarDev;
+    sidebarDev = document.getElementById('sf-dev').value;
+  } else {
+    var devs2 = {};
+    Object.values(devicesMap).forEach(function(entries) {
+      entries.forEach(function(e) { if (e.d) devs2[e.d] = true; });
+    });
+    populateSelect('sf-dev', Object.keys(devs2).sort());
+  }
+
+  var q = document.getElementById('search').value.toLowerCase();
+  renderList(filteredGames(q));
+}
+
+function clearSidebarFilters() {
+  sidebarSOC = ''; sidebarMfr = ''; sidebarDev = '';
+  document.getElementById('sf-soc').value = '';
+  document.getElementById('sf-mfr').value = '';
+  buildSidebarFilters(); // reset device list
+  var q = document.getElementById('search').value.toLowerCase();
+  renderList(filteredGames(q));
+}
+
+function filteredGames(q) {
+  return games.filter(function(g) {
+    if (q && !prettyName(g.name).toLowerCase().includes(q)) return false;
+    if (!sidebarSOC && !sidebarMfr && !sidebarDev) return true;
+    var entries = devicesMap[g.name] || [];
+    return entries.some(function(e) {
+      if (sidebarSOC && e.s !== sidebarSOC) return false;
+      if (sidebarMfr && e.m !== sidebarMfr) return false;
+      if (sidebarDev && e.d !== sidebarDev) return false;
+      return true;
+    });
+  });
+}
+
+// ── Admin ──────────────────────────────────────────────────────────────────
+function openAdminModal() {
+  if (adminMode) return;
+  document.getElementById('admin-modal').classList.add('open');
+  setTimeout(function(){ document.getElementById('admin-password').focus(); }, 100);
+}
+function closeAdminModal() {
+  document.getElementById('admin-modal').classList.remove('open');
+  document.getElementById('admin-password').value = '';
+  document.getElementById('admin-error').textContent = '';
+  history.replaceState(null, '', location.pathname + location.hash);
+}
+
+function activateAdmin(pw) {
+  adminMode = true;
+  adminPass = pw;
+  document.getElementById('admin-badge-wrap').innerHTML =
+    '<span class="admin-badge">ADMIN</span>' +
+    '<button onclick="adminLogout()" title="Log out" style="background:none;border:none;cursor:pointer;color:#8b949e;font-size:11px;padding:0 4px;">✕</button>';
+  if (activeGame) renderGameView(activeGame);
+}
+
+function adminLogout() {
+  adminMode = false; adminPass = '';
+  localStorage.removeItem('bh_admin');
+  document.getElementById('admin-badge-wrap').innerHTML = '';
+  if (activeGame) renderGameView(activeGame);
+}
+
+function submitAdminLogin() {
+  var pw = document.getElementById('admin-password').value.trim();
+  if (!pw) return;
+  var remember = document.getElementById('admin-remember').checked;
+  fetch(WORKER + '/admin/delete?' + NS, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ game: '__test__', filename: '__test__', password: pw })
+  }).then(function(r){ return r.json(); }).then(function(d) {
+    if (d.error === 'Unauthorized') {
+      document.getElementById('admin-error').textContent = 'Incorrect password.';
+    } else if (d.error && d.error.includes('locked')) {
+      document.getElementById('admin-error').textContent = d.error;
+    } else {
+      if (remember) localStorage.setItem('bh_admin', pw);
+      closeAdminModal();
+      activateAdmin(pw);
+    }
+  }).catch(function() {
+    document.getElementById('admin-error').textContent = 'Network error.';
+  });
+}
+
+// Edit modal
+function openEditModal(idx) {
+  var cfg = loadedConfigs[idx];
+  editTarget = { idx: idx, game: activeGame, filename: cfg.filename };
+  document.getElementById('edit-modal-title').textContent = 'Edit — ' + cfg.filename;
+  document.getElementById('edit-textarea').value = JSON.stringify(cfg.data, null, 2);
+  document.getElementById('edit-error').textContent = '';
+  document.getElementById('edit-modal').classList.add('open');
+}
+function closeEditModal() {
+  document.getElementById('edit-modal').classList.remove('open');
+  editTarget = null;
+}
+function saveEdit() {
+  var content = document.getElementById('edit-textarea').value;
+  try { JSON.parse(content); } catch(e) {
+    document.getElementById('edit-error').textContent = 'Invalid JSON: ' + e.message;
+    return;
+  }
+  var btn = document.getElementById('edit-save-btn');
+  btn.textContent = 'Saving…'; btn.disabled = true;
+  fetch(WORKER + '/admin/edit?' + NS, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ game: editTarget.game, filename: editTarget.filename, content: content, password: adminPass })
+  }).then(function(r){ return r.json(); }).then(function(d) {
+    btn.textContent = 'Save'; btn.disabled = false;
+    if (d.success) {
+      loadedConfigs[editTarget.idx].data = JSON.parse(content);
+      closeEditModal();
+      renderGameView(activeGame);
+    } else {
+      document.getElementById('edit-error').textContent = d.error || 'Failed.';
+    }
+  }).catch(function() {
+    btn.textContent = 'Save'; btn.disabled = false;
+    document.getElementById('edit-error').textContent = 'Network error.';
+  });
+}
+
+// Delete modal
+function openDeleteModal(idx) {
+  var cfg = loadedConfigs[idx];
+  deleteTarget = { idx: idx, game: activeGame, filename: cfg.filename };
+  document.getElementById('delete-filename').textContent = cfg.filename;
+  document.getElementById('delete-error').textContent = '';
+  document.getElementById('delete-modal').classList.add('open');
+}
+function closeDeleteModal() {
+  document.getElementById('delete-modal').classList.remove('open');
+  deleteTarget = null;
+}
+function confirmDelete() {
+  var btn = document.getElementById('delete-confirm-btn');
+  btn.textContent = 'Deleting…'; btn.disabled = true;
+  fetch(WORKER + '/admin/delete?' + NS, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ game: deleteTarget.game, filename: deleteTarget.filename, password: adminPass })
+  }).then(function(r){ return r.json(); }).then(function(d) {
+    btn.textContent = 'Delete'; btn.disabled = false;
+    if (d.success) {
+      loadedConfigs.splice(deleteTarget.idx, 1);
+      closeDeleteModal();
+      renderGameView(activeGame);
+    } else {
+      document.getElementById('delete-error').textContent = d.error || 'Failed.';
+    }
+  }).catch(function() {
+    btn.textContent = 'Delete'; btn.disabled = false;
+    document.getElementById('delete-error').textContent = 'Network error.';
+  });
+}
+
+// Fetch latest Bannerlator release version (cosmetic header badge only)
+fetch('https://api.github.com/repos/The412Banner/Bannerlator/releases/latest')
+  .then(function(r){ return r.json(); })
+  .then(function(d){
+    if (d.tag_name) {
+      var el = document.getElementById('footer-release-link');
+      if (el) { el.textContent = d.tag_name; el.href = d.html_url; }
+    }
+  }).catch(function(){});
+
+window.addEventListener('popstate', function() {
+  var hash = decodeURIComponent(location.hash.slice(1));
+  if (!hash) { showSidebar(); return; }
+  if (hash !== activeGame) loadGame(hash);
+});
+
+init();
+</script>
+</body>
+</html>

@@ -144,6 +144,22 @@ def main():
                "generated_utc": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())},
               open(f"{BASE}/stats.json","w"), indent=2)
 
+    # games.json — flat [{name, count}] of THIS repo's physical config folders (the community
+    # uploads shared from Bannerlator), for the browse webpage (index.html). Same source as
+    # stats.json above — NOT the BannerHub-derived merge in games_canonical.json — so the page
+    # shows only configs actually shared into this repo. One entry per top-level configs/ folder
+    # that holds ≥1 .json; skips hidden + __selftest__/system folders.
+    games_index = []
+    if os.path.isdir(cfg_root):
+        for folder in sorted(os.listdir(cfg_root)):
+            fp = f"{cfg_root}/{folder}"
+            if not os.path.isdir(fp) or folder.startswith(".") or folder.startswith("__"):
+                continue
+            n = len([x for x in os.listdir(fp) if x.endswith(".json")])
+            if n:
+                games_index.append({"name": folder, "count": n})
+    json.dump(games_index, open(f"{BASE}/games.json","w"), indent=2)
+
     non_game = sum(1 for v in flat.values() if v.get("method")=="non-game")
     real_unres = sum(1 for u in unresolved if u["reason"] != "non-game")
     canonical_games = len(canon)
