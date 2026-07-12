@@ -1491,7 +1491,7 @@
     "name": "A Plague Tale: Requiem"
   },
   "1196590": {
-    "config_count": 22,
+    "config_count": 25,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -14638,7 +14638,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 943,
+    "config_count": 952,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -20324,19 +20324,19 @@
     "config_count": 2,
     "devices": [
       {
-        "d": "Adreno__TM__740",
-        "m": "S918B",
-        "s": "Adreno (TM) 740"
-      },
-      {
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S918B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
-      "Shift_2_Unleashed",
-      "SHIFT_2_UNLEASHED_"
+      "SHIFT_2_UNLEASHED_",
+      "Shift_2_Unleashed"
     ],
     "name": "Shift 2 Unleashed"
   },
@@ -25238,7 +25238,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1702,
+    "config_count": 1703,
     "devices": [
       {
         "d": "G52_MC2",
@@ -26493,6 +26493,14 @@
       "Spec_Ops_The_Line"
     ],
     "name": "Spec Ops The Line"
+  },
+  "name:ssfiv": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "SSFIV"
+    ],
+    "name": "Ssfiv"
   },
   "name:stalker-call-of-chernobyl-gamepad": {
     "config_count": 1,
