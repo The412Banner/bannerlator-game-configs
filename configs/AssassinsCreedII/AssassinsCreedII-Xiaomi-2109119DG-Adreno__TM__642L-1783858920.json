@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "Xiaomi 2109119DG",
+    "soc": "Adreno (TM) 642L",
+    "bh_version": "2.6",
+    "uploader": {
+      "name": "Hot_ice"
+    },
+    "upload_token": "45733ec3ec638281",
+    "settings_count": 10,
+    "components_count": 4
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"1.11.0-async-arm64ec-0\"}",
+    "pc_ls_VK3k": "{\"name\":\"None\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"Turnip Autotuner 26.1.0\"}",
+    "pc_set_constant_95": "{\"name\":\"FEX-2607+153-Nightly-fe6d6397d-unix-0\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"Proton-11.0-1-arm64ec-1\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-original",
+    "pc_ls_AUDIO_DRIVER": "1",
+    "pc_ls_update_enable_xinput": false,
+    "pc_ls_environment_variable": "DXVK_ASYNC==1",
+    "bl_ext": {
+      "dxwrapper": "dxvk+vkd3d",
+      "screenSize": "1024x576",
+      "renderer": "vulkan",
+      "sfCompatMode": "1",
+      "fullscreenMode": "0",
+      "frameGenEngine": "off",
+      "fpsLimiterEnabled": "1",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "reshadeLoadout": "[{\"name\":\"Vibrance\",\"enabled\":true},{\"name\":\"Color_Temperature\",\"enabled\":true}]",
+      "reshadeMode": "stack",
+      "reshadeParams": "{\"Vibrance\":{\"Vibrance\":0.4989081621170044,\"Vibrance_Luma\":0},\"Color_Temperature\":{\"Kelvin\":12734.71875,\"LumPreservation\":0.779946506023407,\"kMix\":1}}",
+      "reshadeEffect": "Vibrance",
+      "emulator": "fexcore",
+      "box64Version": "Box64-Hybrid-WOW64-ed25a4183-0",
+      "box64Preset": "EXTREME",
+      "fexcorePreset": "CUSTOM-2",
+      "cpuList": "3,4,5,6",
+      "startupSelection": "1",
+      "exclusiveXInput": "1",
+      "simTouchScreen": "0",
+      "numControllers": "1",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1",
+      "lc_all": "en_GB.UTF-8",
+      "autoCloseOnExit": "1",
+      "dxwrapperConfig": "version=1.11.0-async-arm64ec-0,framerate=0,async=1,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfigFile="
+    }
+  },
+  "components": [
+    {
+      "name": "1.11.0-async-arm64ec-0",
+      "type": "DXVK"
+    },
+    {
+      "name": "None",
+      "type": "VKD3D"
+    },
+    {
+      "name": "Turnip Autotuner 26.1.0",
+      "type": "GPU"
+    },
+    {
+      "name": "FEX-2607+153-Nightly-fe6d6397d-unix-0",
+      "type": "FEXCore"
+    }
+  ]
+}
