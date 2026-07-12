@@ -14591,7 +14591,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 941,
+    "config_count": 942,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -15402,6 +15402,11 @@
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "2312DRA50G",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__830",
@@ -19478,14 +19483,6 @@
       "Bruisers_2D_Boxing_Demo"
     ],
     "name": "Bruisers 2D Boxing Demo"
-  },
-  "4354570": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Final_Fantasy_7"
-    ],
-    "name": "FINAL FANTASY VII REVELATION"
   },
   "4355320": {
     "config_count": 5,
