@@ -25046,7 +25046,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1698,
+    "config_count": 1699,
     "devices": [
       {
         "d": "G52_MC2",
@@ -26301,5 +26301,19 @@
       "Stalker_call_of_Chernobyl_gamepad"
     ],
     "name": "Stalker Call Of Chernobyl Gamepad"
+  },
+  "name:war2combat": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S936U",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "War2Combat"
+    ],
+    "name": "War2Combat"
   }
 }
