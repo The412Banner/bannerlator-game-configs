@@ -8717,7 +8717,7 @@
     "name": "Total Chaos"
   },
   "221040": {
-    "config_count": 54,
+    "config_count": 55,
     "devices": [
       {
         "d": "G720_MC7",
@@ -8828,11 +8828,17 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "CPH2613",
+        "s": "Adreno (TM) 720"
       }
     ],
     "folders": [
       "RESIDENT_EVIL_6",
-      "Resident_Evil_6"
+      "Resident_Evil_6",
+      "resident_evil_6"
     ],
     "name": "Resident Evil 6"
   },
@@ -14189,7 +14195,7 @@
     "name": "Geometry Wars\u2122 3: Dimensions Evolved"
   },
   "310950": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -14200,10 +14206,16 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "CPH2613",
+        "s": "Adreno (TM) 720"
       }
     ],
     "folders": [
-      "Street_Fighter_V"
+      "Street_Fighter_V",
+      "StreetFighterV"
     ],
     "name": "Street Fighter V"
   },
@@ -25327,7 +25339,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1706,
+    "config_count": 1707,
     "devices": [
       {
         "d": "G52_MC2",
@@ -25975,11 +25987,6 @@
         "s": "Mali-G68"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G52",
         "m": "Mali",
         "s": "Mali-G52"
@@ -26038,6 +26045,11 @@
         "d": "Adreno__TM__610",
         "m": "Redmi_Note_8",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
