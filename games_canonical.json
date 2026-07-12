@@ -11458,7 +11458,7 @@
     "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
   },
   "2552440": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "KINGDOM_HEARTS_HD_2_8_Final_Chapter_Prologue"
@@ -15849,7 +15849,7 @@
     "name": "Assassin's Creed 2"
   },
   "33320": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "G615_MC2",
@@ -22385,7 +22385,7 @@
     "name": "GameGuru Starter Bundle"
   },
   "678950": {
-    "config_count": 30,
+    "config_count": 31,
     "devices": [
       {
         "d": "G68_MC4",
@@ -22451,6 +22451,11 @@
         "d": "G77",
         "m": "Mali",
         "s": "Mali-G77"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23021RAAEG",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "G57",
@@ -24853,6 +24858,14 @@
       "eFootball_PES_2021_SEASON_UPDATE"
     ],
     "name": "eFootball 2021"
+  },
+  "name:kingdom-hearts-dream-drop-distance": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "KINGDOM_HEARTS_Dream_Drop_Distance"
+    ],
+    "name": "Kingdom Hearts Dream Drop Distance"
   },
   "name:pes": {
     "config_count": 1,
