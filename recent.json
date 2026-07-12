@@ -1,6 +1,13 @@
 [
   {
     "game": "__bugbprobe__",
+    "manufacturer": "DevC",
+    "device": "SoC",
+    "timestamp": 1783882711521,
+    "filename": "__bugbprobe__-Probe-DevC-SoC-1783882711521.json"
+  },
+  {
+    "game": "__bugbprobe__",
     "manufacturer": "DevB",
     "device": "SoC",
     "timestamp": 1783882711520,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1783844729,
     "filename": "GTAIV-Xiaomi-25057RN09G-Adreno__TM__619-1783844729.json"
-  },
-  {
-    "game": "FF9_Launcher",
-    "manufacturer": "23049RAD8C",
-    "device": "Adreno__TM__730",
-    "timestamp": 1783844601,
-    "filename": "FF9_Launcher-Xiaomi-23049RAD8C-Adreno__TM__730-1783844601.json"
   }
 ]
