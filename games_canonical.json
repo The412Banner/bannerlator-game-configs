@@ -8396,7 +8396,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 78,
+    "config_count": 79,
     "devices": [
       {
         "d": "S938B",
@@ -8509,14 +8509,14 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "23021RAAEG",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
@@ -8527,7 +8527,7 @@
     "name": "Far Cry 3"
   },
   "220440": {
-    "config_count": 22,
+    "config_count": 23,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -8608,12 +8608,18 @@
         "d": "Adreno__TM__610",
         "m": "A057M",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "S928B",
+        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
       "DmC_Devil_May_Cry",
       "DmC_Devil_May_Cry___________________________________________",
-      "DmC__Devil_May_Cry"
+      "DmC__Devil_May_Cry",
+      "DMC-DevilMayCry"
     ],
     "name": "DmC: Devil May Cry"
   },
@@ -24917,6 +24923,14 @@
       "eFootball_PES_2021_SEASON_UPDATE"
     ],
     "name": "eFootball 2021"
+  },
+  "name:ffvii": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "FFVII"
+    ],
+    "name": "Ffvii"
   },
   "name:final-fantasy-renaissance-2-2-6-32-bit": {
     "config_count": 1,
