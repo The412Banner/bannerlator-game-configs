@@ -6696,7 +6696,7 @@
     "name": "SAND LAND"
   },
   "19900": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -19792,6 +19792,20 @@
     ],
     "name": "BFM 26"
   },
+  "451340": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__810",
+        "m": "2510EPC8BG",
+        "s": "Adreno (TM) 810"
+      }
+    ],
+    "folders": [
+      "Gold_Mining_Simulator"
+    ],
+    "name": "Gold Mining Simulator"
+  },
   "4533800": {
     "config_count": 1,
     "devices": [
@@ -24783,6 +24797,20 @@
       "Police_Simulator__Patrol_Officers"
     ],
     "name": "Police Simulator: Patrol Officers"
+  },
+  "name:avernum-escape-from-the-pit-1-01-gog-directx": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S936U",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "Avernum_Escape_From_The_Pit_1_01_GoG_DirectX"
+    ],
+    "name": "Avernum Escape From The Pit 1 01 Gog Directx"
   },
   "name:dirt-2": {
     "config_count": 2,
