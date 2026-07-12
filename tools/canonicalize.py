@@ -127,6 +127,22 @@ def main():
     json.dump(unresolved, open(f"{BASE}/unresolved.json","w"),      indent=2)
     json.dump(flat,       open(f"{BASE}/games_steam.json","w"),     indent=2, sort_keys=True)
     json.dump(rev,        open(f"{BASE}/steam_index.json","w"),     indent=2, sort_keys=True)
+    # Tiny public stats blob for the README's live shields.io badges. Counts ONLY the configs
+    # submitted to THIS repo (the configs/ dir = community uploads shared from Bannerlator) —
+    # NOT the BannerHub-derived merge in games_canonical.json. games = distinct game folders that
+    # hold at least one config; configs = total .json config files. Regenerated every sync.
+    cfg_root = f"{BASE}/configs"
+    submitted_games, submitted_cfgs = set(), 0
+    if os.path.isdir(cfg_root):
+        for dirpath, _dirs, files in os.walk(cfg_root):
+            js = [f for f in files if f.endswith(".json")]
+            if js and os.path.abspath(dirpath) != os.path.abspath(cfg_root):
+                submitted_games.add(os.path.relpath(dirpath, cfg_root).split(os.sep)[0])
+                submitted_cfgs += len(js)
+    json.dump({"games": len(submitted_games),
+               "configs": submitted_cfgs,
+               "generated_utc": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())},
+              open(f"{BASE}/stats.json","w"), indent=2)
 
     non_game = sum(1 for v in flat.values() if v.get("method")=="non-game")
     real_unres = sum(1 for u in unresolved if u["reason"] != "non-game")

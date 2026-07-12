@@ -1,5 +1,12 @@
 # Bannerlator Game Configs
 
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FThe412Banner%2Fbannerlator-game-configs%2Fmain%2Fstats.json&query=%24.games&label=games%20shared&color=ff2d9b&style=for-the-badge" alt="games shared" />
+  &nbsp;<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FThe412Banner%2Fbannerlator-game-configs%2Fmain%2Fstats.json&query=%24.configs&label=configs%20shared&color=8b5cf6&style=for-the-badge" alt="configs shared" />
+</p>
+
+<p align="center"><sub>Live counts of community configs uploaded straight from Bannerlator into this repo (updates within minutes of each upload).</sub></p>
+
 A **Bannerlator-owned** game-config index, derived from the community configs in
 [The412Banner/bannerhub-game-configs](https://github.com/The412Banner/bannerhub-game-configs).
 
