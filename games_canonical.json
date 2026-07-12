@@ -5840,8 +5840,14 @@
     "name": "DRAGON BALL: Sparking! ZERO"
   },
   "1796470": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__725",
+        "m": "23049PCD8G",
+        "s": "Adreno (TM) 725"
+      }
+    ],
     "folders": [
       "Haste"
     ],
@@ -8864,7 +8870,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -15829,7 +15835,7 @@
     "name": "One Piece Pirate Warriors 3"
   },
   "33230": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -15844,7 +15850,8 @@
     ],
     "folders": [
       "Assassin_s_Creed__II",
-      "AssassinsCreedIIGame"
+      "AssassinsCreedIIGame",
+      "AssassinsCreedII"
     ],
     "name": "Assassin's Creed 2"
   },
@@ -16676,7 +16683,7 @@
     "name": "LEGO\u00ae Jurassic World"
   },
   "3527290": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "s5e8825",
