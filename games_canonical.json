@@ -22476,12 +22476,17 @@
     "name": "Fight'N Rage"
   },
   "675010": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "V2352A",
+        "s": "Adreno (TM) 735"
       }
     ],
     "folders": [
