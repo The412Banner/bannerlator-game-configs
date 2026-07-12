@@ -8535,7 +8535,7 @@
     "name": "Far Cry 3"
   },
   "220440": {
-    "config_count": 23,
+    "config_count": 24,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -24857,6 +24857,20 @@
       "Avernum_Escape_From_The_Pit_1_01_GoG_DirectX"
     ],
     "name": "Avernum Escape From The Pit 1 01 Gog Directx"
+  },
+  "name:blades-of-exile": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S936U",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "Blades_of_Exile"
+    ],
+    "name": "Blades Of Exile"
   },
   "name:dirt-2": {
     "config_count": 2,
