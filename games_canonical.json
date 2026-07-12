@@ -8383,7 +8383,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 77,
+    "config_count": 78,
     "devices": [
       {
         "d": "S938B",
@@ -8499,6 +8499,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23021RAAEG",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
@@ -24870,6 +24875,20 @@
       "eFootball_PES_2021_SEASON_UPDATE"
     ],
     "name": "eFootball 2021"
+  },
+  "name:final-fantasy-renaissance-2-2-6": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S936U",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "Final_Fantasy_Renaissance_2_2_6_"
+    ],
+    "name": "Final Fantasy Renaissance 2 2 6"
   },
   "name:kingdom-hearts-dream-drop-distance": {
     "config_count": 1,
