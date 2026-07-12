@@ -1,5 +1,12 @@
 [
   {
+    "game": "__bugbprobe__",
+    "manufacturer": "DevA",
+    "device": "SoC",
+    "timestamp": 1783882618623,
+    "filename": "__bugbprobe__-Probe-DevA-SoC-1783882618623.json"
+  },
+  {
     "game": "Hades",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1783842574,
     "filename": "MudRunner-vivo-V2352A-Adreno__TM__735-1783842574.json"
-  },
-  {
-    "game": "Hades",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1783842292,
-    "filename": "Hades-Xiaomi-24069PC21G-Adreno__TM__735-1783842292.json"
   }
 ]
