@@ -19565,6 +19565,20 @@
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
+  "443620": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2487",
+        "s": "Adreno (TM) 730"
+      }
+    ],
+    "folders": [
+      "USM"
+    ],
+    "name": "Order of Battle: U.S. Marines"
+  },
   "443810": {
     "config_count": 1,
     "devices": [
@@ -26321,5 +26335,19 @@
       "War2Combat"
     ],
     "name": "War2Combat"
+  },
+  "name:warcraft-2-ru": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S936U",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "WarCraft_2_RU"
+    ],
+    "name": "Warcraft 2 Ru"
   }
 }
