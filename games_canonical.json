@@ -438,6 +438,14 @@
     ],
     "name": "Bus Driving Sim 22"
   },
+  "1035510": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Ultimate_Zombie_Defense"
+    ],
+    "name": "Ultimate Zombie Defense"
+  },
   "1044720": {
     "config_count": 1,
     "devices": [
@@ -6801,12 +6809,17 @@
     "name": "Escape from Ever After"
   },
   "19980": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__750",
         "m": "TB321FU",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "AYN_Thor",
+        "s": "Adreno (TM) 740"
       },
       {
         "d": "G720_MC7",
@@ -7812,7 +7825,7 @@
     "name": "Fears to Fathom - Carson House"
   },
   "2124490": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -7838,6 +7851,11 @@
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
@@ -13963,7 +13981,7 @@
     "name": "Unturned"
   },
   "3050220": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "2412DPC0AG",
@@ -24895,8 +24913,14 @@
     "name": "Predecessor"
   },
   "962130": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
     "folders": [
       "Grounded"
     ],
@@ -25429,7 +25453,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1713,
+    "config_count": 1722,
     "devices": [
       {
         "d": "G52_MC2",
@@ -25635,11 +25659,6 @@
         "d": "G72_MP3",
         "m": "Mali",
         "s": "Mali-G72 MP3"
-      },
-      {
-        "d": "Immortalis_MC11",
-        "m": "G925",
-        "s": "Mali-G925-Immortalis MC11"
       },
       {
         "d": "Adreno__TM__610",
@@ -26132,14 +26151,24 @@
         "s": "Mali-G57 MC2"
       },
       {
-        "d": "256",
-        "m": "8",
-        "s": "PowerVR B-Series BXM-8-256"
+        "d": "Immortalis_MC11",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC11"
       },
       {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "256",
+        "m": "8",
+        "s": "PowerVR B-Series BXM-8-256"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "moto_g_8__power_lite",
+        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "Adreno__TM__740",
@@ -26570,7 +26599,7 @@
     "name": "PES 2019"
   },
   "name:pes-2020": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -26708,6 +26737,14 @@
       "Stalker_call_of_Chernobyl_gamepad"
     ],
     "name": "Stalker Call Of Chernobyl Gamepad"
+  },
+  "name:twfc": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "TWFC"
+    ],
+    "name": "Twfc"
   },
   "name:ultimate-spiderman": {
     "config_count": 1,
