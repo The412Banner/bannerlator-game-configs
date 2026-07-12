@@ -2106,7 +2106,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -2182,6 +2182,11 @@
         "d": "Adreno__TM__650",
         "m": "NP03J",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
