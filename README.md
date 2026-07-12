@@ -8,6 +8,12 @@
 
 <p align="center"><sub>Live community stats — configs shared straight from Bannerlator into this repo, and optional accounts registered (both update within minutes).</sub></p>
 
+<p align="center">
+  <a href="https://the412banner.github.io/bannerlator-game-configs/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Browse%20the%20Config%20Library-Open%20the%20web%20app-ff2d9b?style=for-the-badge" alt="Browse the Config Library" /></a>
+</p>
+
+<p align="center"><b><a href="https://the412banner.github.io/bannerlator-game-configs/">🌐 Browse shared configs on the web</a></b> — search by game, filter by device, compare side by side, and (signed in) manage your own uploads.</p>
+
 A **Bannerlator-owned** game-config index, derived from the community configs in
 [The412Banner/bannerhub-game-configs](https://github.com/The412Banner/bannerhub-game-configs).
 
