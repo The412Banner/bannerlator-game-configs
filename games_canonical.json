@@ -13520,7 +13520,7 @@
     "name": "Far Cry\u00ae 4"
   },
   "2988580": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -13551,10 +13551,16 @@
         "d": "Adreno__TM__740",
         "m": "NX729J",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
-      "Yakuza_0"
+      "Yakuza_0",
+      "Yakuza0"
     ],
     "name": "Yakuza 0 Director's Cut"
   },
@@ -25896,7 +25902,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 132,
+    "config_count": 133,
     "devices": [
       {
         "d": "G615_MC2",
