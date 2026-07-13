@@ -1,5 +1,12 @@
 [
   {
+    "game": "re7",
+    "manufacturer": "V2145",
+    "device": "Adreno__TM__730",
+    "timestamp": 1783908724,
+    "filename": "re7-vivo-V2145-Adreno__TM__730-1783908724.json"
+  },
+  {
     "game": "TombRaider",
     "manufacturer": "moto_g42",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "SoC",
     "timestamp": 1783882618624,
     "filename": "__bugbprobe__-Probe-DevB-SoC-1783882618624.json"
-  },
-  {
-    "game": "__bugbprobe__",
-    "manufacturer": "DevA",
-    "device": "SoC",
-    "timestamp": 1783882618623,
-    "filename": "__bugbprobe__-Probe-DevA-SoC-1783882618623.json"
   }
 ]
