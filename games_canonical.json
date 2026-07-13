@@ -5060,7 +5060,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 66,
+    "config_count": 67,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -5106,6 +5106,11 @@
         "d": "Adreno__TM__710",
         "m": "23122PCD1G",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
       },
       {
         "d": "Adreno__TM__618",
@@ -10637,7 +10642,7 @@
     "name": "Horizon Forbidden West\u2122 Complete Edition"
   },
   "242050": {
-    "config_count": 65,
+    "config_count": 66,
     "devices": [
       {
         "d": "MT6789",
@@ -10778,6 +10783,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "S928B",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
