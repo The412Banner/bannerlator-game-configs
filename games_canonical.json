@@ -10462,7 +10462,7 @@
     "name": "Thief"
   },
   "239250": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -25742,7 +25742,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1739,
+    "config_count": 1740,
     "devices": [
       {
         "d": "G52_MC2",
@@ -26435,11 +26435,6 @@
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
@@ -26463,6 +26458,11 @@
         "d": "Adreno__TM__506",
         "m": "motorola_one",
         "s": "Adreno (TM) 506"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
