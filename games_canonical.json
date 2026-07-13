@@ -7504,6 +7504,14 @@
     ],
     "name": "Ravenswatch"
   },
+  "2073850": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "THE_FINALS"
+    ],
+    "name": "THE FINALS"
+  },
   "207490": {
     "config_count": 1,
     "devices": [
@@ -11501,12 +11509,17 @@
     "name": "The Last of Us\u2122 Part II Remastered"
   },
   "2536520": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
         "m": "Armor_X13",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
