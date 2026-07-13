@@ -16194,7 +16194,7 @@
     "name": "Transformice"
   },
   "3357650": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -16210,6 +16210,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "24122RKC7G",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
