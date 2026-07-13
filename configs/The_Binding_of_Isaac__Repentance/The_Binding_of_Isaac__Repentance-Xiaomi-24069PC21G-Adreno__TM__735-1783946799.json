@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "Xiaomi 24069PC21G",
+    "soc": "Adreno (TM) 735",
+    "bh_version": "2.6.1",
+    "uploader": {
+      "name": "devaspe"
+    },
+    "upload_token": "2aac0bc934f96968",
+    "settings_count": 10,
+    "components_count": 4
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"v3.0.1-binsem-gplasync-c8c49cc1-0\"}",
+    "pc_ls_VK3k": "{\"name\":\"2.8\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"Turnip v26.2.0-R8\"}",
+    "pc_set_constant_95": "{\"name\":\"FEX-2607+171-Nightly-bc16f902d-unix-0\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"Proton-11.0-1-arm64ec-1\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-original",
+    "pc_ls_AUDIO_DRIVER": "0",
+    "pc_ls_update_enable_xinput": true,
+    "pc_ls_environment_variable": "WRAPPER_MAX_IMAGE_COUNT=0 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=512MB mesa_glthread=true WINEESYNC=1 TU_DEBUG=sysmem,noconform DXVK_DISABLE_TIMELINE_SEMAPHORES=1 WINE_FAST_YIELD=1",
+    "bl_ext": {
+      "dxwrapper": "dxvk+vkd3d",
+      "screenSize": "1280x720",
+      "renderer": "opengl",
+      "sfCompatMode": "1",
+      "fullscreenMode": "0",
+      "frameGenEngine": "off",
+      "fpsLimiterEnabled": "1",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "reshadeMode": "solo",
+      "reshadeEffect": "None",
+      "emulator": "fexcore",
+      "box64Version": "0.3.7",
+      "box64Preset": "COMPATIBILITY",
+      "fexcorePreset": "PERFORMANCE",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "startupSelection": "1",
+      "inputType": "4",
+      "exclusiveXInput": "1",
+      "simTouchScreen": "0",
+      "numControllers": "1",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1",
+      "lc_all": "en_US.UTF-8",
+      "autoCloseOnExit": "1",
+      "dxwrapperConfig": "version=v3.0.1-binsem-gplasync-c8c49cc1-0,framerate=0,async=1,asyncCache=0,vkd3dVersion=2.8,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfigFile="
+    }
+  },
+  "components": [
+    {
+      "name": "v3.0.1-binsem-gplasync-c8c49cc1-0",
+      "type": "DXVK"
+    },
+    {
+      "name": "2.8",
+      "type": "VKD3D"
+    },
+    {
+      "name": "Turnip v26.2.0-R8",
+      "type": "GPU"
+    },
+    {
+      "name": "FEX-2607+171-Nightly-bc16f902d-unix-0",
+      "type": "FEXCore"
+    }
+  ]
+}
