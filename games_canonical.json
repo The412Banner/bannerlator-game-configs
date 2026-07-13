@@ -9455,7 +9455,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 138,
+    "config_count": 139,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -9643,11 +9643,6 @@
         "s": "Adreno (TM) 619"
       },
       {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      },
-      {
         "d": "Adreno__TM__619",
         "m": "moto_g82_5G",
         "s": "Adreno (TM) 619"
@@ -9676,6 +9671,11 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
@@ -13703,6 +13703,20 @@
       "Grocery_Store_Simulator"
     ],
     "name": "Grocery Store Simulator"
+  },
+  "297860": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "S918B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Split_Second"
+    ],
+    "name": "Split/Second"
   },
   "2980420": {
     "config_count": 1,
@@ -19415,7 +19429,7 @@
     "name": "My Winter Car"
   },
   "418370": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "SM7435",
@@ -20632,7 +20646,7 @@
     "name": "Speak Demo"
   },
   "48190": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "MT6789",
@@ -25684,7 +25698,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1735,
+    "config_count": 1737,
     "devices": [
       {
         "d": "G52_MC2",
@@ -26010,11 +26024,6 @@
         "d": "Adreno__TM__612",
         "m": "M2101K7AG",
         "s": "Adreno (TM) 612"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "23028RA60L",
-        "s": "Adreno (TM) 610"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -26405,6 +26414,11 @@
         "d": "PowerVR_Rogue_GE8320",
         "m": "moto_g22",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23028RA60L",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__740",
