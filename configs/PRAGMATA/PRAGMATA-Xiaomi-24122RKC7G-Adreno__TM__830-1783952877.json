@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "Xiaomi 24122RKC7G",
+    "soc": "Adreno (TM) 830",
+    "bh_version": "2.6.1",
+    "uploader": {
+      "name": "Nankar",
+      "avatarUrl": "https:\/\/bannerhub-configs-worker.the412banner.workers.dev\/account\/avatar?uid=61e7d852098b83419ac5717efd436673"
+    },
+    "upload_token": "1ed78de5172df708",
+    "settings_count": 10,
+    "components_count": 4
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"2.7.1.1-sdk36-arm64ec\"}",
+    "pc_ls_VK3k": "{\"name\":\"3.0b-0\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"WN-Turnip-1.04-p Axxx\"}",
+    "pc_set_constant_95": "{\"name\":\"FEX-2607+52-Nightly-6cd2a4891-PPA-unix-0\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"Proton-11.0-5-arm64ec-0\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-gamenative",
+    "pc_ls_AUDIO_DRIVER": "0",
+    "pc_ls_update_enable_xinput": true,
+    "pc_ls_environment_variable": "WRAPPER_MAX_IMAGE_COUNT=0 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=512MB mesa_glthread=true WINEESYNC=1 TU_DEBUG=sysmem,noconform VKD3D_SHADER_MODEL=6_6",
+    "bl_ext": {
+      "dxwrapper": "dxvk+vkd3d",
+      "screenSize": "1280x720",
+      "renderer": "vulkan",
+      "sfCompatMode": "1",
+      "fullscreenMode": "2",
+      "frameGenEngine": "bionic",
+      "fpsLimiterEnabled": "0",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "reshadeLoadout": "[{\"name\":\"AdaptiveSharpen\",\"enabled\":true}]",
+      "reshadeMode": "stack",
+      "reshadeParams": "{\"AdaptiveSharpen\":{\"D_compr_low\":0.25,\"scale_cs\":0.0560000017285347,\"L_compr_low\":0.16699999570846558,\"pm_p\":0.699999988079071,\"L_compr_high\":0.33399999141693115,\"D_overshoot\":0.008999999612569809,\"curve_height\":1,\"D_compr_high\":0.5,\"curveslope\":0.5,\"L_overshoot\":0.003000000026077032,\"scale_lim\":0.10000000149011612}}",
+      "reshadeEffect": "AdaptiveSharpen",
+      "emulator": "fexcore",
+      "box64Version": "0.4.3-0",
+      "box64Preset": "PERFORMANCE",
+      "fexcorePreset": "PERFORMANCE_TSO",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "startupSelection": "2",
+      "inputType": "4",
+      "exclusiveXInput": "1",
+      "simTouchScreen": "0",
+      "numControllers": "1",
+      "controlsProfile": "3",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1",
+      "lc_all": "in_ID.UTF-8",
+      "autoCloseOnExit": "1",
+      "dxwrapperConfig": "version=2.7.1.1-sdk36-arm64ec,framerate=0,async=0,asyncCache=0,vkd3dVersion=3.0b-0,vkd3dLevel=12_2,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfigFile="
+    }
+  },
+  "components": [
+    {
+      "name": "2.7.1.1-sdk36-arm64ec",
+      "type": "DXVK"
+    },
+    {
+      "name": "3.0b-0",
+      "type": "VKD3D"
+    },
+    {
+      "name": "WN-Turnip-1.04-p Axxx",
+      "type": "GPU"
+    },
+    {
+      "name": "FEX-2607+52-Nightly-6cd2a4891-PPA-unix-0",
+      "type": "FEXCore"
+    }
+  ]
+}
