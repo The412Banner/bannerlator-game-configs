@@ -7196,20 +7196,6 @@
     ],
     "name": "Hitman: Absolution\u2122"
   },
-  "203160": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      }
-    ],
-    "folders": [
-      "TombRaider"
-    ],
-    "name": "Tomb Raider Game of the Year"
-  },
   "203650": {
     "config_count": 2,
     "devices": [],
@@ -16176,7 +16162,7 @@
     "name": "One Piece Pirate Warriors 3"
   },
   "33230": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -16197,7 +16183,8 @@
     "folders": [
       "Assassin_s_Creed__II",
       "AssassinsCreedIIGame",
-      "AssassinsCreedII"
+      "AssassinsCreedII",
+      "Assassins_Creed_II"
     ],
     "name": "Assassin's Creed 2"
   },
@@ -17153,6 +17140,20 @@
       "Money_Simulator_-_Brokeville"
     ],
     "name": "Money Simulator: Brokeville (Free Prologue)"
+  },
+  "3558670": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      }
+    ],
+    "folders": [
+      "TombRaider"
+    ],
+    "name": "Tomb Raider: Legacy of Atlantis"
   },
   "356190": {
     "config_count": 4,
