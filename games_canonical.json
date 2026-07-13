@@ -2385,16 +2385,22 @@
     "name": "Dead Space\u2122 3"
   },
   "1238080": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__725",
+        "m": "23049PCD8G",
+        "s": "Adreno (TM) 725"
       }
     ],
     "folders": [
-      "BurnoutParadiseRemastered"
+      "BurnoutParadiseRemastered",
+      "BurnoutParadise"
     ],
     "name": "Burnout\u2122 Paradise Remastered"
   },
@@ -14851,7 +14857,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 964,
+    "config_count": 963,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -23319,7 +23325,7 @@
     "name": "Five Nights at Freddy's: Security Breach"
   },
   "750920": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "SM8850",
@@ -23330,11 +23336,6 @@
         "d": "SM8750P",
         "m": "TB322FC",
         "s": "SM8750P"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__830",
@@ -23350,6 +23351,11 @@
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__650",
@@ -25678,7 +25684,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1733,
+    "config_count": 1735,
     "devices": [
       {
         "d": "G52_MC2",
@@ -25953,11 +25959,6 @@
       {
         "d": "PowerVR_Rogue_GE8320",
         "m": "Infinix_X665E",
-        "s": "PowerVR Rogue GE8320"
-      },
-      {
-        "d": "PowerVR_Rogue_GE8320",
-        "m": "moto_g22",
         "s": "PowerVR Rogue GE8320"
       },
       {
@@ -26399,6 +26400,11 @@
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "moto_g22",
+        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "Adreno__TM__740",
