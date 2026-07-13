@@ -42,4 +42,15 @@ jobs:
           git add games_canonical.json unresolved.json games_steam.json steam_index.json CANON_REPORT.txt stats.json games.json
           if git diff --cached --quiet; then echo "No changes."; exit 0; fi
           git commit -m "chore: daily sync + canonicalize from BannerHub [skip ci]"
-          git push
+          # User uploads land on main mid-run (the canonicalize step takes ~30s), so a bare
+          # push races the upload and gets rejected. Rebase-and-retry so a concurrent push
+          # doesn't fail the sync — pull the upload, re-stack our index commit, push again.
+          for i in 1 2 3 4 5; do
+            if git push; then
+              echo "pushed on attempt $i"
+              exit 0
+            fi
+            echo "push rejected (attempt $i) — rebasing on remote main and retrying"
+            git pull --rebase --autostash origin main || exit 1
+          done
+          echo "push still failing after 5 retries"; exit 1
