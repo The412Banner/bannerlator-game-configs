@@ -8476,7 +8476,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 80,
+    "config_count": 81,
     "devices": [
       {
         "d": "S938B",
@@ -8597,6 +8597,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "Immortalis_MC11",
+        "m": "G715",
+        "s": "Mali-G715-Immortalis MC11"
       }
     ],
     "folders": [
@@ -14755,7 +14760,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 958,
+    "config_count": 959,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -15576,6 +15581,11 @@
         "d": "Adreno__TM__660",
         "m": "G998U1",
         "s": "Adreno (TM) 660"
+      },
+      {
+        "d": "Adreno__TM__722",
+        "m": "NX9",
+        "s": "Adreno (TM) 722"
       },
       {
         "d": "Adreno__TM__830",
@@ -25453,7 +25463,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1722,
+    "config_count": 1724,
     "devices": [
       {
         "d": "G52_MC2",
@@ -26156,11 +26166,6 @@
         "s": "Mali-G925-Immortalis MC11"
       },
       {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      },
-      {
         "d": "256",
         "m": "8",
         "s": "PowerVR B-Series BXM-8-256"
@@ -26169,6 +26174,11 @@
         "d": "PowerVR_Rogue_GE8320",
         "m": "moto_g_8__power_lite",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__740",
