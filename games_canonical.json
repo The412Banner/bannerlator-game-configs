@@ -10424,7 +10424,7 @@
     "name": "Thief"
   },
   "239250": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -22864,6 +22864,14 @@
     ],
     "name": "DRAGON BALL FighterZ"
   },
+  "683320": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GRIS"
+    ],
+    "name": "GRIS"
+  },
   "6850": {
     "config_count": 1,
     "devices": [
@@ -25599,7 +25607,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1731,
+    "config_count": 1732,
     "devices": [
       {
         "d": "G52_MC2",
@@ -26107,11 +26115,6 @@
         "s": "Adreno (TM) 825"
       },
       {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
-      },
-      {
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
@@ -26320,6 +26323,11 @@
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       },
       {
         "d": "Adreno__TM__740",
@@ -26867,6 +26875,20 @@
       "ROTTR"
     ],
     "name": "Rottr"
+  },
+  "name:rpcs3": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "F731B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "rpcs3"
+    ],
+    "name": "Rpcs3"
   },
   "name:shproto": {
     "config_count": 1,
