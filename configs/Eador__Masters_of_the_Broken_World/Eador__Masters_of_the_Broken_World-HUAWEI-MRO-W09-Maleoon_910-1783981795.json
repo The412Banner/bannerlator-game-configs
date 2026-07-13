@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "HUAWEI MRO-W09",
+    "soc": "Maleoon 910",
+    "bh_version": "2.6.1",
+    "upload_token": "489aa3042a2ee659",
+    "settings_count": 9,
+    "components_count": 3
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"2.3.1\"}",
+    "pc_ls_VK3k": "{\"name\":\"3.0b-arm64ec-Tfix\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"System\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"proton-9.0-arm64ec\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-original",
+    "pc_ls_AUDIO_DRIVER": "1",
+    "pc_ls_update_enable_xinput": true,
+    "pc_ls_environment_variable": "DXVK_FRAME_RATE=30",
+    "bl_ext": {
+      "dxwrapper": "dxvk+vkd3d",
+      "screenSize": "1280x720",
+      "renderer": "opengl",
+      "sfCompatMode": "1",
+      "fullscreenMode": "0",
+      "frameGenEngine": "off",
+      "fpsLimiterEnabled": "0",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "reshadeMode": "solo",
+      "reshadeEffect": "None",
+      "emulator": "box64",
+      "box64Version": "0.3.7",
+      "box64Preset": "COMPATIBILITY",
+      "fexcorePreset": "INTERMEDIATE",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "startupSelection": "1",
+      "inputType": "4",
+      "exclusiveXInput": "1",
+      "simTouchScreen": "0",
+      "numControllers": "1",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1",
+      "lc_all": "ru_RU.UTF-8",
+      "autoCloseOnExit": "1",
+      "dxwrapperConfig": "version=2.3.1,framerate=0,async=1,asyncCache=0,vkd3dVersion=3.0b-arm64ec-Tfix,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl"
+    }
+  },
+  "components": [
+    {
+      "name": "2.3.1",
+      "type": "DXVK"
+    },
+    {
+      "name": "3.0b-arm64ec-Tfix",
+      "type": "VKD3D"
+    },
+    {
+      "name": "System",
+      "type": "GPU"
+    }
+  ]
+}
