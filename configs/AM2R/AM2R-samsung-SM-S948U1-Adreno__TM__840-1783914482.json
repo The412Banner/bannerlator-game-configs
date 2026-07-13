@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "samsung SM-S948U1",
+    "soc": "Adreno (TM) 840",
+    "bh_version": "2.6",
+    "upload_token": "28ca6676afb22c5",
+    "settings_count": 10,
+    "components_count": 4
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"3.0-1-gplasync-arm64ec-0\"}",
+    "pc_ls_VK3k": "{\"name\":\"None\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"Turnip Adreno Driver T29 (@Mr_Purple_666)\"}",
+    "pc_set_constant_95": "{\"name\":\"2607-0\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"Proton-11.0-1-arm64ec-1\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-original",
+    "pc_ls_AUDIO_DRIVER": "1",
+    "pc_ls_update_enable_xinput": false,
+    "pc_ls_environment_variable": "DXVK_HUD=compiler",
+    "bl_ext": {
+      "dxwrapper": "dxvk+vkd3d",
+      "screenSize": "1280x720",
+      "renderer": "vulkan",
+      "sfCompatMode": "1",
+      "fullscreenMode": "0",
+      "frameGenEngine": "off",
+      "fpsLimiterEnabled": "0",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "reshadeMode": "solo",
+      "reshadeEffect": "None",
+      "emulator": "fexcore",
+      "box64Version": "0.4.3-0",
+      "box64Preset": "EXTREME",
+      "fexcorePreset": "STABILITY",
+      "cpuList": "0",
+      "startupSelection": "1",
+      "exclusiveXInput": "0",
+      "simTouchScreen": "0",
+      "numControllers": "1",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1",
+      "lc_all": "en_US.UTF-8",
+      "autoCloseOnExit": "1",
+      "dxwrapperConfig": "version=3.0-1-gplasync-arm64ec-0,framerate=0,async=1,asyncCache=1,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfigFile="
+    }
+  },
+  "components": [
+    {
+      "name": "3.0-1-gplasync-arm64ec-0",
+      "type": "DXVK"
+    },
+    {
+      "name": "None",
+      "type": "VKD3D"
+    },
+    {
+      "name": "Turnip Adreno Driver T29 (@Mr_Purple_666)",
+      "type": "GPU"
+    },
+    {
+      "name": "2607-0",
+      "type": "FEXCore"
+    }
+  ]
+}
