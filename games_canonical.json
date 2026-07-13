@@ -826,6 +826,14 @@
     ],
     "name": "Top Speed 2: Racing Legends"
   },
+  "1104280": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "The_Slormancer"
+    ],
+    "name": "The Slormancer"
+  },
   "1104450": {
     "config_count": 4,
     "devices": [
@@ -14816,7 +14824,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 963,
+    "config_count": 964,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -15619,11 +15627,6 @@
         "s": "Mali-G72"
       },
       {
-        "d": "G720_MC8",
-        "m": "Mali",
-        "s": "Mali-G720 MC8"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "2312DRA50G",
         "s": "Adreno (TM) 710"
@@ -15642,6 +15645,11 @@
         "d": "Adreno__TM__610",
         "m": "W09",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
       },
       {
         "d": "Adreno__TM__830",
