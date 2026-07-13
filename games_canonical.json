@@ -548,7 +548,7 @@
     "name": "Ben 10: Power Trip"
   },
   "1064270": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "G720_MC7",
@@ -557,7 +557,8 @@
       }
     ],
     "folders": [
-      "Halo_2"
+      "Halo_2",
+      "halo2"
     ],
     "name": "Halo 2: Anniversary"
   },
@@ -10575,7 +10576,7 @@
     "name": "Horizon Forbidden West\u2122 Complete Edition"
   },
   "242050": {
-    "config_count": 64,
+    "config_count": 65,
     "devices": [
       {
         "d": "MT6789",
@@ -10621,11 +10622,6 @@
         "d": "Adreno__TM__825",
         "m": "I2405",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__720",
@@ -10716,6 +10712,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -25420,6 +25421,20 @@
     ],
     "name": "Mk10"
   },
+  "name:nfs-most-wanted-2005": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "NFS_Most_Wanted_2005"
+    ],
+    "name": "Nfs Most Wanted 2005"
+  },
   "name:oblivion-lost-remake": {
     "config_count": 1,
     "devices": [
@@ -25525,7 +25540,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1726,
+    "config_count": 1727,
     "devices": [
       {
         "d": "G52_MC2",
@@ -26241,6 +26256,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+        "m": "S921B",
+        "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
       },
       {
         "d": "Adreno__TM__740",
