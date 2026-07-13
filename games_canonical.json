@@ -917,6 +917,14 @@
     ],
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
+  "1110100": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Power Rangers: Battle for the Grid"
+  },
   "1110910": {
     "config_count": 1,
     "devices": [
@@ -7196,6 +7204,20 @@
     ],
     "name": "Hitman: Absolution\u2122"
   },
+  "203160": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      }
+    ],
+    "folders": [
+      "TombRaider"
+    ],
+    "name": "Tomb Raider Game of the Year"
+  },
   "203650": {
     "config_count": 2,
     "devices": [],
@@ -12741,14 +12763,6 @@
     ],
     "name": "Hospital 666"
   },
-  "2787680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Candy Rangers"
-  },
   "279800": {
     "config_count": 1,
     "devices": [
@@ -16961,7 +16975,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -17010,7 +17024,8 @@
       }
     ],
     "folders": [
-      "Batman__Arkham_Asylum_Game_of_the_Year_Edition"
+      "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_Arkham_Asylum"
     ],
     "name": "Batman: Arkham Asylum Game of the Year Edition"
   },
@@ -17139,20 +17154,6 @@
       "Money_Simulator_-_Brokeville"
     ],
     "name": "Money Simulator: Brokeville (Free Prologue)"
-  },
-  "3558670": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      }
-    ],
-    "folders": [
-      "TombRaider"
-    ],
-    "name": "Tomb Raider: Legacy of Atlantis"
   },
   "356190": {
     "config_count": 4,
@@ -25731,7 +25732,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1738,
+    "config_count": 1739,
     "devices": [
       {
         "d": "G52_MC2",
@@ -25867,11 +25868,6 @@
         "d": "Adreno__TM__610",
         "m": "moto_g_8__power",
         "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__506",
-        "m": "motorola_one",
-        "s": "Adreno (TM) 506"
       },
       {
         "d": "PowerVR_Rogue_GE8322",
@@ -26452,6 +26448,11 @@
         "d": "Adreno__TM__610",
         "m": "23028RA60L",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__506",
+        "m": "motorola_one",
+        "s": "Adreno (TM) 506"
       },
       {
         "d": "Adreno__TM__740",
