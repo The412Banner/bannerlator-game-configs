@@ -4466,7 +4466,7 @@
     "name": "Cairn"
   },
   "1593500": {
-    "config_count": 115,
+    "config_count": 117,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -4579,11 +4579,6 @@
         "s": "Adreno (TM) 750"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
@@ -4647,6 +4642,11 @@
         "d": "Adreno__TM__829",
         "m": "I2508",
         "s": "Adreno (TM) 829"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__619",
@@ -25540,7 +25540,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1727,
+    "config_count": 1728,
     "devices": [
       {
         "d": "G52_MC2",
@@ -26253,14 +26253,14 @@
         "s": "Mali-G615 MC6"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
         "m": "S921B",
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
@@ -26789,6 +26789,20 @@
       "Pro_evolution_soccer"
     ],
     "name": "Pro Evolution Soccer"
+  },
+  "name:rottr": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "ROTTR"
+    ],
+    "name": "Rottr"
   },
   "name:shproto": {
     "config_count": 1,
