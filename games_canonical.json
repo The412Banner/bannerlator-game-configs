@@ -5227,7 +5227,7 @@
     "name": "DELTARUNE"
   },
   "1672810": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -5236,7 +5236,8 @@
       }
     ],
     "folders": [
-      "MIO__Memories_in_Orbit"
+      "MIO__Memories_in_Orbit",
+      "mio_memories_in_orbit"
     ],
     "name": "MIO: Memories in Orbit"
   },
@@ -14891,7 +14892,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 964,
+    "config_count": 965,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -15772,6 +15773,11 @@
         "d": "Adreno__TM__840",
         "m": "PLZ110",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_FIT",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -15785,7 +15791,8 @@
       "Grand_Theft_Auto_V__________________________________________",
       "Grand_Theft_Auto__V",
       "PlayGTAV",
-      "_____5"
+      "_____5",
+      "GTA5"
     ],
     "name": "Grand Theft Auto V Enhanced"
   },
@@ -25758,7 +25765,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1740,
+    "config_count": 1742,
     "devices": [
       {
         "d": "G52_MC2",
