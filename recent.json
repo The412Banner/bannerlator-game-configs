@@ -1,6 +1,13 @@
 [
   {
     "game": "AC4BFSP",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1783978031,
+    "filename": "AC4BFSP-Xiaomi-24094RAD4G-PowerVR_B-Series_BXM-8-256-1783978031.json"
+  },
+  {
+    "game": "AC4BFSP",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
     "timestamp": 1783977238,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1783955122,
     "filename": "The_Slormancer-Xiaomi-24069PC21G-Adreno__TM__735-1783955122.json"
-  },
-  {
-    "game": "The_Slormancer",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1783955008,
-    "filename": "The_Slormancer-Xiaomi-24069PC21G-Adreno__TM__735-1783955008.json"
   }
 ]
