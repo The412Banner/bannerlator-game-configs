@@ -5032,7 +5032,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 65,
+    "config_count": 66,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -8187,7 +8187,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 75,
+    "config_count": 76,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -8331,7 +8331,7 @@
     "name": "Warhammer 40,000: Space Marine 2"
   },
   "2184260": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -8377,6 +8377,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "Immortalis_MC12",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC12"
       }
     ],
     "folders": [
@@ -19460,7 +19465,7 @@
     "name": "Jujutsu Kaisen Phantom Parade"
   },
   "423230": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G720_MC8",
@@ -26431,7 +26436,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 134,
+    "config_count": 137,
     "devices": [
       {
         "d": "G615_MC2",
@@ -26622,6 +26627,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__725",
+        "m": "23049PCD8G",
+        "s": "Adreno (TM) 725"
       },
       {
         "d": "Adreno__TM__740",
