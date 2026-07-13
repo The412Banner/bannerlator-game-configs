@@ -26768,6 +26768,20 @@
     ],
     "name": "PES 6"
   },
+  "name:pes2021": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "PKG110",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "PES2021"
+    ],
+    "name": "Pes2021"
+  },
   "name:pro-evolution-soccer": {
     "config_count": 1,
     "devices": [],
