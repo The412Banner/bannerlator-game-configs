@@ -1605,6 +1605,20 @@
     ],
     "name": "A Space for the Unbound"
   },
+  "1203170": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069RA21C",
+        "s": "Adreno (TM) 735"
+      }
+    ],
+    "folders": [
+      "Darksiders_"
+    ],
+    "name": "Darksiders 4"
+  },
   "1206070": {
     "config_count": 1,
     "devices": [],
@@ -3791,7 +3805,7 @@
     "name": "You Will Die Here Tonight"
   },
   "1446780": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -3822,6 +3836,11 @@
         "d": "Adreno__TM__730",
         "m": "H0",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
@@ -9087,7 +9106,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -9111,7 +9130,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -9466,7 +9486,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 140,
+    "config_count": 141,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -9614,11 +9634,6 @@
         "s": "Adreno (TM) 642L"
       },
       {
-        "d": "G52",
-        "m": "Mali",
-        "s": "Mali-G52"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "CPH2819",
         "s": "Adreno (TM) 610"
@@ -9692,6 +9707,11 @@
         "d": "Adreno__TM__710",
         "m": "25118PC98G",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G52",
+        "m": "Mali",
+        "s": "Mali-G52"
       }
     ],
     "folders": [
@@ -13274,7 +13294,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 29,
+    "config_count": 28,
     "devices": [
       {
         "d": "G615_MC2",
@@ -13309,8 +13329,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -22209,7 +22228,7 @@
     "name": "Attack on Titan 2 - A.O.T.2"
   },
   "601150": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "unknown",
@@ -22275,10 +22294,16 @@
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "23122PCD1I",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
-      "Devil_May_Cry_5"
+      "Devil_May_Cry_5",
+      "DevilMayCry5"
     ],
     "name": "Devil May Cry 5"
   },
@@ -25843,7 +25868,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1747,
+    "config_count": 1753,
     "devices": [
       {
         "d": "G52_MC2",
@@ -26476,11 +26501,6 @@
         "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
       },
       {
-        "d": "Adreno__TM__644",
-        "m": "M556B",
-        "s": "Adreno (TM) 644"
-      },
-      {
         "d": "Adreno__TM__504",
         "m": "T290",
         "s": "Adreno (TM) 504"
@@ -26564,6 +26584,16 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "Infinix_X669C",
+        "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "Adreno__TM__644",
+        "m": "M556B",
+        "s": "Adreno (TM) 644"
       },
       {
         "d": "Adreno__TM__740",
