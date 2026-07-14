@@ -2347,7 +2347,7 @@
     "name": "Mass Effect\u2122 3 N7 Digital Deluxe Edition (2012)"
   },
   "1238060": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -2368,11 +2368,17 @@
         "d": "Adreno__TM__810",
         "m": "2510EPC8BG",
         "s": "Adreno (TM) 810"
+      },
+      {
+        "d": "G76",
+        "m": "Mali",
+        "s": "Mali-G76"
       }
     ],
     "folders": [
       "Dead_Space_3",
-      "Dead_Space__3"
+      "Dead_Space__3",
+      "deadspace3"
     ],
     "name": "Dead Space\u2122 3"
   },
@@ -25837,7 +25843,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1745,
+    "config_count": 1747,
     "devices": [
       {
         "d": "G52_MC2",
