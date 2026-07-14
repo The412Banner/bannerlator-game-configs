@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "Xiaomi 23113RKC6G",
+    "soc": "Adreno (TM) 740",
+    "bh_version": "2.6.1",
+    "upload_token": "c6669fbae258886",
+    "settings_count": 11,
+    "components_count": 4
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"2.6.2-1-gplasync-0\"}",
+    "pc_ls_VK3k": "{\"name\":\"None\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"Mesa Turnip v26.2.0-20260711-r6\"}",
+    "pc_set_constant_95": "{\"name\":\"FEXCore-2607-4\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"Proton-10.0-arm64ec-0\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-original",
+    "pc_ls_AUDIO_DRIVER": "0",
+    "pc_ls_update_enable_xinput": true,
+    "pc_ls_environment_variable": "WRAPPER_MAX_IMAGE_COUNT=2 ZINK_DESCRIPTORS=cached MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=512MB mesa_glthread=false WINEESYNC=1 ZINK_DEBUG=compact TU_DEBUG=noconform,sysmem DXVK_HUD=devinfo,fps,frametimes,gpuload,version,api",
+    "pc_ls_boot_option": "-dx11 -nolog -novsync -nostats",
+    "bl_ext": {
+      "dxwrapper": "dxvk+vkd3d",
+      "screenSize": "1280x576",
+      "renderer": "vulkan",
+      "sfCompatMode": "1",
+      "fullscreenMode": "0",
+      "frameGenEngine": "lsfg",
+      "fpsLimiterEnabled": "0",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "reshadeMode": "solo",
+      "reshadeEffect": "None",
+      "emulator": "fexcore",
+      "box64Version": "0.3.7",
+      "box64Preset": "PERFORMANCE",
+      "fexcorePreset": "PERFORMANCE",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "startupSelection": "2",
+      "inputType": "4",
+      "exclusiveXInput": "1",
+      "simTouchScreen": "0",
+      "numControllers": "1",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1",
+      "lc_all": "ru_RU.UTF-8",
+      "autoCloseOnExit": "1",
+      "dxwrapperConfig": "version=2.6.2-1-gplasync-0,framerate=0,async=0,asyncCache=1,vkd3dVersion=None,vkd3dLevel=11_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfigFile="
+    }
+  },
+  "components": [
+    {
+      "name": "2.6.2-1-gplasync-0",
+      "type": "DXVK"
+    },
+    {
+      "name": "None",
+      "type": "VKD3D"
+    },
+    {
+      "name": "Mesa Turnip v26.2.0-20260711-r6",
+      "type": "GPU"
+    },
+    {
+      "name": "FEXCore-2607-4",
+      "type": "FEXCore"
+    }
+  ]
+}
