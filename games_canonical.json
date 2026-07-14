@@ -20222,7 +20222,7 @@
     "name": "Farming Simulator 17"
   },
   "447040": {
-    "config_count": 41,
+    "config_count": 42,
     "devices": [
       {
         "d": "G720_MC7",
@@ -20308,6 +20308,11 @@
         "d": "Adreno__TM__618",
         "m": "M2101K6G",
         "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2305",
+        "s": "Adreno (TM) 730"
       }
     ],
     "folders": [
@@ -21811,7 +21816,7 @@
     "name": "Far Cry\u00ae 5"
   },
   "553520": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -21849,14 +21854,14 @@
         "s": "Adreno (TM) 750"
       },
       {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      },
-      {
         "d": "Adreno__TM__640",
         "m": "M2102J20SG",
         "s": "Adreno (TM) 640"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
@@ -24036,7 +24041,7 @@
     "name": "Age of Empires II: Definitive Edition"
   },
   "8140": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -24055,7 +24060,8 @@
       }
     ],
     "folders": [
-      "Tomb_Raider__Underworld"
+      "Tomb_Raider__Underworld",
+      "Tomb_Raider_Underworld"
     ],
     "name": "Tomb Raider: Underworld"
   },
@@ -26050,7 +26056,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1776,
+    "config_count": 1778,
     "devices": [
       {
         "d": "G52_MC2",
