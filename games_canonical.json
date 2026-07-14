@@ -21637,7 +21637,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -21658,12 +21658,18 @@
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
       "Far_Cry_5",
       "Far_Cry_5___________________________________________________",
-      "Far_Cry__5"
+      "Far_Cry__5",
+      "FarCry"
     ],
     "name": "Far Cry\u00ae 5"
   },
