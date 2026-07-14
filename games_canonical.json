@@ -1799,7 +1799,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 257,
+    "config_count": 258,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -2057,11 +2057,6 @@
         "s": "PowerVR B-Series BXM-8-256"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
@@ -2080,6 +2075,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -19684,7 +19684,7 @@
     "name": "Iron Snout"
   },
   "424840": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__660",
@@ -19695,6 +19695,11 @@
         "d": "Adreno__TM__610",
         "m": "CPH3669",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__640",
+        "m": "M2102J20SG",
+        "s": "Adreno (TM) 640"
       },
       {
         "d": "Adreno__TM__829",
@@ -21713,7 +21718,7 @@
     "name": "Far Cry\u00ae 5"
   },
   "553520": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -21754,6 +21759,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__640",
+        "m": "M2102J20SG",
+        "s": "Adreno (TM) 640"
       }
     ],
     "folders": [
@@ -22947,7 +22957,7 @@
     "name": "GameGuru Starter Bundle"
   },
   "678950": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G68_MC4",
@@ -22985,11 +22995,6 @@
         "s": "Mali-G615 MC2"
       },
       {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      },
-      {
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
@@ -23018,6 +23023,11 @@
         "d": "Adreno__TM__610",
         "m": "23021RAAEG",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       },
       {
         "d": "G57",
@@ -25898,7 +25908,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1756,
+    "config_count": 1757,
     "devices": [
       {
         "d": "G52_MC2",
@@ -27239,6 +27249,14 @@
       "Stalker_call_of_Chernobyl_gamepad"
     ],
     "name": "Stalker Call Of Chernobyl Gamepad"
+  },
+  "name:tlauncher-installer-1-9-5-1": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "TLauncher-Installer-1_9_5_1"
+    ],
+    "name": "Tlauncher Installer 1 9 5 1"
   },
   "name:twfc": {
     "config_count": 1,
