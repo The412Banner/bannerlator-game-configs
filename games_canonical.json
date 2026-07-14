@@ -5096,7 +5096,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 67,
+    "config_count": 68,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -5147,6 +5147,11 @@
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "A057M",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__618",
@@ -10582,7 +10587,7 @@
     "name": "Counter-Strike: Source"
   },
   "241540": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "G78",
@@ -10593,6 +10598,11 @@
         "d": "G76",
         "m": "Mali",
         "s": "Mali-G76"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
@@ -24646,6 +24656,14 @@
       "Resident_Evil_2__2019_"
     ],
     "name": "Resident Evil 2"
+  },
+  "8850": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Bioshock_2"
+    ],
+    "name": "BioShock\u00ae 2"
   },
   "8870": {
     "config_count": 9,
