@@ -417,12 +417,17 @@
     "name": "Mafia II: Definitive Edition"
   },
   "1030840": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "S931B",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "S928B",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -5096,7 +5101,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 69,
+    "config_count": 70,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -11125,10 +11130,17 @@
     "name": "Towerborne"
   },
   "2464280": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
+      }
+    ],
     "folders": [
-      "TormentedSouls"
+      "TormentedSouls",
+      "Tormented_Souls_2"
     ],
     "name": "Tormented Souls 2"
   },
@@ -14976,7 +14988,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 972,
+    "config_count": 973,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -15802,6 +15814,11 @@
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
+        "m": "S711B",
+        "s": "ANGLE ((Samsung Xclipse 920) on Vulkan 1.3.279)"
       },
       {
         "d": "Adreno__TM__830",
@@ -24001,7 +24018,7 @@
     "name": "Tomb Raider: Underworld"
   },
   "814380": {
-    "config_count": 33,
+    "config_count": 34,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -24087,6 +24104,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "V2145",
+        "s": "Adreno (TM) 730"
       }
     ],
     "folders": [
@@ -25986,7 +26008,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1773,
+    "config_count": 1775,
     "devices": [
       {
         "d": "G52_MC2",
@@ -26717,6 +26739,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "CPH2725",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__740",
