@@ -16079,7 +16079,7 @@
     "name": "NINJA GAIDEN 2 Black"
   },
   "329050": {
-    "config_count": 36,
+    "config_count": 37,
     "devices": [
       {
         "d": "G57",
@@ -16175,12 +16175,18 @@
         "d": "Adreno__TM__710",
         "m": "RMX3840",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
       }
     ],
     "folders": [
       "Devil_May_Cry_4",
       "Devil_May_Cry_4_",
-      "Devil_May_Cry_4_Special_Edition"
+      "Devil_May_Cry_4_Special_Edition",
+      "DevilMayCry4SpecialEdition"
     ],
     "name": "Devil May Cry 4 Special Edition"
   },
@@ -25892,7 +25898,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1755,
+    "config_count": 1756,
     "devices": [
       {
         "d": "G52_MC2",
@@ -26590,11 +26596,6 @@
         "s": "Adreno (TM) 506"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "256",
         "m": "8",
         "s": "PowerVR B-Series BXM-8-256"
@@ -26618,6 +26619,11 @@
         "d": "Adreno__TM__644",
         "m": "M556B",
         "s": "Adreno (TM) 644"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
