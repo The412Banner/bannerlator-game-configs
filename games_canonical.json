@@ -9106,7 +9106,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 10,
+    "config_count": 9,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -9130,8 +9130,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -13294,7 +13293,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "G615_MC2",
@@ -13329,7 +13328,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -16390,6 +16390,14 @@
       "citadel"
     ],
     "name": "Beyond Citadel"
+  },
+  "3372630": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "PlagueProject"
+    ],
+    "name": "Project Plague"
   },
   "337320": {
     "config_count": 1,
@@ -25868,7 +25876,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1753,
+    "config_count": 1755,
     "devices": [
       {
         "d": "G52_MC2",
@@ -26471,11 +26479,6 @@
         "s": "ANGLE ((Samsung Xclipse 920) on Vulkan 1.3.279)"
       },
       {
-        "d": "G52",
-        "m": "Mali",
-        "s": "Mali-G52"
-      },
-      {
         "d": "Adreno__TM__619",
         "m": "moto_g84_5G",
         "s": "Adreno (TM) 619"
@@ -26589,6 +26592,11 @@
         "d": "PowerVR_Rogue_GE8320",
         "m": "Infinix_X669C",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "G52",
+        "m": "Mali",
+        "s": "Mali-G52"
       },
       {
         "d": "Adreno__TM__644",
