@@ -22309,12 +22309,17 @@
     "name": "Carcassonne - Tiles & Tactics"
   },
   "599140": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__740",
         "m": "X916B",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
       }
     ],
     "folders": [
