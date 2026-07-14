@@ -8010,7 +8010,7 @@
     "name": "Outcore: Desktop Adventure: The Amazing Super Duper Ultra Hyper Mama Mia Papa Pipa Wawa Wee Waa Five Shekel Kosher Falafel Deluxe Extra Sugoi Mega Kawaii Gold Diamond Nirosta Plastic Director's Cut Special Edition Supporter Pack Plus PLUS"
   },
   "2129530": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "G57",
@@ -8025,6 +8025,11 @@
       {
         "d": "Adreno__TM__840",
         "m": "CPH2747",
+        "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
         "s": "Adreno (TM) 840"
       }
     ],
@@ -14960,7 +14965,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 970,
+    "config_count": 971,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25935,7 +25940,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1767,
+    "config_count": 1772,
     "devices": [
       {
         "d": "G52_MC2",
@@ -26363,11 +26368,6 @@
         "s": "Adreno (TM) 619"
       },
       {
-        "d": "G76",
-        "m": "Mali",
-        "s": "Mali-G76"
-      },
-      {
         "d": "Adreno__TM__618",
         "m": "M2007J20CG",
         "s": "Adreno (TM) 618"
@@ -26661,6 +26661,16 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "A725M",
+        "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "G76",
+        "m": "Mali",
+        "s": "Mali-G76"
       },
       {
         "d": "Adreno__TM__740",
