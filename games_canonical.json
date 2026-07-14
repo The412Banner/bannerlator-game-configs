@@ -4937,6 +4937,20 @@
     ],
     "name": "King's Bounty II - Digital Soundtrack"
   },
+  "1643320": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "V2425A",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "STALKER"
+    ],
+    "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl"
+  },
   "1649240": {
     "config_count": 1,
     "devices": [
@@ -15002,7 +15016,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 974,
+    "config_count": 975,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -15525,11 +15539,6 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "256",
-        "m": "8",
-        "s": "PowerVR B-Series BXM-8-256"
-      },
-      {
         "d": "Adreno__TM__640",
         "m": "N976V",
         "s": "Adreno (TM) 640"
@@ -15833,6 +15842,11 @@
         "d": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
         "m": "S711B",
         "s": "ANGLE ((Samsung Xclipse 920) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "256",
+        "m": "8",
+        "s": "PowerVR B-Series BXM-8-256"
       },
       {
         "d": "Adreno__TM__830",
@@ -23119,6 +23133,20 @@
       "Dragon_Ball_FighterZ________________________________________"
     ],
     "name": "DRAGON BALL FighterZ"
+  },
+  "682140": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "UndeadDevelopment"
+    ],
+    "name": "Undead Development"
   },
   "683320": {
     "config_count": 1,
