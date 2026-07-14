@@ -3268,6 +3268,20 @@
     ],
     "name": "F.I.S.T.: Forged In Shadow Torch"
   },
+  "1331550": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
+      }
+    ],
+    "folders": [
+      "Big_Ambitions"
+    ],
+    "name": "Big Ambitions"
+  },
   "1332010": {
     "config_count": 13,
     "devices": [
@@ -8286,7 +8300,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 76,
+    "config_count": 77,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -14988,7 +15002,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 973,
+    "config_count": 974,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25217,7 +25231,7 @@
     "name": "Rise: Race The Future"
   },
   "957140": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "______Newera_Heroes__Chronicle"
@@ -26008,7 +26022,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1775,
+    "config_count": 1776,
     "devices": [
       {
         "d": "G52_MC2",
@@ -26711,11 +26725,6 @@
         "s": "Mali-G52"
       },
       {
-        "d": "Adreno__TM__644",
-        "m": "M556B",
-        "s": "Adreno (TM) 644"
-      },
-      {
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
@@ -26744,6 +26753,11 @@
         "d": "Adreno__TM__610",
         "m": "CPH2725",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__644",
+        "m": "M556B",
+        "s": "Adreno (TM) 644"
       },
       {
         "d": "Adreno__TM__740",
