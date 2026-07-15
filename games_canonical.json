@@ -13940,7 +13940,7 @@
     "name": "Heatwave"
   },
   "298110": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -13981,13 +13981,19 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "V2425A",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "Far_Cry_",
       "Far_Cry__4",
       "Far_Cry_____________________________________________________",
-      "far_cry"
+      "far_cry",
+      "Far_Cry_4"
     ],
     "name": "Far Cry\u00ae 4"
   },
@@ -26228,7 +26234,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1802,
+    "config_count": 1806,
     "devices": [
       {
         "d": "G52_MC2",
@@ -26637,11 +26643,6 @@
       },
       {
         "d": "Adreno__TM__710",
-        "m": "2312DRA50G",
-        "s": "Adreno (TM) 710"
-      },
-      {
-        "d": "Adreno__TM__710",
         "m": "A366E",
         "s": "Adreno (TM) 710"
       },
@@ -26974,6 +26975,11 @@
         "d": "G51",
         "m": "Mali",
         "s": "Mali-G51"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "2312DRA50G",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__740",
