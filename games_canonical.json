@@ -8143,7 +8143,7 @@
     "name": "Cyberpunk 2077: Phantom Liberty"
   },
   "2138710": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -8179,6 +8179,11 @@
         "d": "Adreno__TM__730",
         "m": "23013PC75G",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "A057M",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
@@ -11699,12 +11704,17 @@
     "name": "The Last of Us\u2122 Part II Remastered"
   },
   "2536520": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
         "m": "Armor_X13",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -17849,7 +17859,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 13,
+    "config_count": 12,
     "devices": [
       {
         "d": "G68_MC4",
@@ -17869,8 +17879,7 @@
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE",
-      "Ori"
+      "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -23884,6 +23893,20 @@
       "SCARLET_NEXUS"
     ],
     "name": "SCARLET NEXUS"
+  },
+  "78000": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Bejeweled_3"
+    ],
+    "name": "Bejeweled\u00ae 3"
   },
   "780310": {
     "config_count": 1,
