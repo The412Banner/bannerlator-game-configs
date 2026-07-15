@@ -25830,6 +25830,14 @@
     ],
     "name": "eFootball 2021"
   },
+  "name:emuteck-edition": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "EMUTECK_EDITION"
+    ],
+    "name": "Emuteck Edition"
+  },
   "name:fifa23": {
     "config_count": 1,
     "devices": [
@@ -26793,11 +26801,6 @@
         "s": "Mali-G720 MC7"
       },
       {
-        "d": "G68",
-        "m": "Mali",
-        "s": "Mali-G68"
-      },
-      {
         "d": "Adreno__TM__618",
         "m": "A725M",
         "s": "Adreno (TM) 618"
@@ -26831,6 +26834,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
       },
       {
         "d": "Adreno__TM__740",
