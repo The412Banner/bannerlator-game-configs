@@ -26386,7 +26386,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1810,
+    "config_count": 1812,
     "devices": [
       {
         "d": "G52_MC2",
@@ -27489,7 +27489,7 @@
     "name": "PES 2017"
   },
   "name:pes-2018": {
-    "config_count": 24,
+    "config_count": 25,
     "devices": [
       {
         "d": "G57",
@@ -27555,6 +27555,11 @@
         "d": "Adreno__TM__740",
         "m": "NX729J",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
