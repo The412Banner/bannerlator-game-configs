@@ -1233,7 +1233,7 @@
     "name": "Horizon Zero Dawn\u2122 Complete Edition"
   },
   "115320": {
-    "config_count": 49,
+    "config_count": 50,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -1289,13 +1289,19 @@
         "d": "Adreno__TM__825",
         "m": "CPH2731",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Prototype",
       "Prototype_",
       "Prototype_2",
-      "Prototype___________________________________________________"
+      "Prototype___________________________________________________",
+      "prototype_2"
     ],
     "name": "Prototype 2"
   },
@@ -17843,7 +17849,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "G68_MC4",
@@ -17863,7 +17869,8 @@
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE"
+      "oriDE",
+      "Ori"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -23652,6 +23659,14 @@
     ],
     "name": "Tales of ARISE"
   },
+  "742300": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Mega_Man_11"
+    ],
+    "name": "Mega Man 11"
+  },
   "744900": {
     "config_count": 1,
     "devices": [],
@@ -24982,6 +24997,14 @@
       "Cat_Quest_II"
     ],
     "name": "Cat Quest II"
+  },
+  "917040": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "KikiKaikai"
+    ],
+    "name": "Groove Coaster - KIKIKAIKAI"
   },
   "919410": {
     "config_count": 1,
@@ -27477,6 +27500,14 @@
       "ProjectZomboid64"
     ],
     "name": "Projectzomboid64"
+  },
+  "name:rock-man-x8-16-bit": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rock_Man_X8_16-bit"
+    ],
+    "name": "Rock Man X8 16 Bit"
   },
   "name:rottr": {
     "config_count": 1,
