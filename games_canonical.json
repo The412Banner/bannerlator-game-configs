@@ -15035,7 +15035,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 978,
+    "config_count": 979,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -16115,12 +16115,17 @@
     "name": "Worms W.M.D"
   },
   "3274300": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       }
     ],
     "folders": [
@@ -26085,7 +26090,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1786,
+    "config_count": 1793,
     "devices": [
       {
         "d": "G52_MC2",
@@ -26211,11 +26216,6 @@
         "d": "PowerVR_Rogue_GE8320",
         "m": "A045M",
         "s": "PowerVR Rogue GE8320"
-      },
-      {
-        "d": "Adreno__TM__725",
-        "m": "23049PCD8G",
-        "s": "Adreno (TM) 725"
       },
       {
         "d": "Adreno__TM__610",
@@ -26818,14 +26818,19 @@
         "s": "Adreno (TM) 644"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__732",
         "m": "2410CRP4CG",
         "s": "Adreno (TM) 732"
+      },
+      {
+        "d": "Adreno__TM__725",
+        "m": "23049PCD8G",
+        "s": "Adreno (TM) 725"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
