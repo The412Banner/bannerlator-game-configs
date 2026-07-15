@@ -12015,7 +12015,7 @@
     "name": "Motel Manager Simulator"
   },
   "260210": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G68_MC4",
@@ -12046,6 +12046,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S931B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -27458,6 +27463,14 @@
       "Pro_Evolution_Soccer_2017_Settings"
     ],
     "name": "Pro Evolution Soccer 2017 Settings"
+  },
+  "name:projectzomboid64": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "ProjectZomboid64"
+    ],
+    "name": "Projectzomboid64"
   },
   "name:rottr": {
     "config_count": 1,
