@@ -15062,7 +15062,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 979,
+    "config_count": 980,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -20151,6 +20151,20 @@
       "Call_of_Duty_4"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
+  },
+  "443620": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2487",
+        "s": "Adreno (TM) 730"
+      }
+    ],
+    "folders": [
+      "USM"
+    ],
+    "name": "Order of Battle: U.S. Marines"
   },
   "443810": {
     "config_count": 1,
@@ -26143,7 +26157,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1797,
+    "config_count": 1800,
     "devices": [
       {
         "d": "G52_MC2",
@@ -26871,11 +26885,6 @@
         "s": "Adreno (TM) 725"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
@@ -26884,6 +26893,11 @@
         "d": "Adreno__TM__610",
         "m": "23129RA5FL",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
