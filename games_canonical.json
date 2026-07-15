@@ -1809,7 +1809,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 259,
+    "config_count": 260,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -12909,6 +12909,20 @@
     ],
     "name": "Hospital 666"
   },
+  "2796520": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__618",
+        "m": "Redmi_Note_9_Pro_Max",
+        "s": "Adreno (TM) 618"
+      }
+    ],
+    "folders": [
+      "CGF"
+    ],
+    "name": "Living in Spring - Full Size Event CG for digital wallpaper"
+  },
   "279800": {
     "config_count": 1,
     "devices": [
@@ -13387,7 +13401,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "G615_MC2",
@@ -13418,6 +13432,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -19338,7 +19357,7 @@
     "name": "Godot Engine"
   },
   "4048520": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__722",
