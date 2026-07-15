@@ -1530,7 +1530,7 @@
     "name": "A Plague Tale: Requiem"
   },
   "1196590": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -1581,6 +1581,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g84_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -8234,6 +8239,14 @@
       "LEGO__The_Lord_of_the_Rings_"
     ],
     "name": "LEGO\u00ae The Lord of the Rings\u2122"
+  },
+  "215259": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GangLand"
+    ],
+    "name": "Sleeping Dogs: Gangland Style Pack"
   },
   "2160360": {
     "config_count": 1,
@@ -15016,7 +15029,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 975,
+    "config_count": 977,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -22181,7 +22194,7 @@
     "name": "Black Desert"
   },
   "584400": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "G76_MC4",
@@ -22435,7 +22448,7 @@
     "name": "Devil May Cry 5"
   },
   "601430": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -22445,6 +22458,11 @@
       {
         "d": "Adreno__TM__830",
         "m": "OPD2415",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
         "s": "Adreno (TM) 830"
       }
     ],
@@ -26061,7 +26079,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1778,
+    "config_count": 1786,
     "devices": [
       {
         "d": "G52_MC2",
@@ -26784,11 +26802,6 @@
         "s": "Mali-G76"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "CPH2725",
         "s": "Adreno (TM) 610"
@@ -26797,6 +26810,16 @@
         "d": "Adreno__TM__644",
         "m": "M556B",
         "s": "Adreno (TM) 644"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__732",
+        "m": "2410CRP4CG",
+        "s": "Adreno (TM) 732"
       },
       {
         "d": "Adreno__TM__740",
