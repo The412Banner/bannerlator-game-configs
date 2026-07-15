@@ -9451,6 +9451,20 @@
     ],
     "name": "Tomb Raider II (1997)"
   },
+  "2254490": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Rockstar_Games_Launcher"
+    ],
+    "name": "Squirrel Launcher"
+  },
   "2254890": {
     "config_count": 17,
     "devices": [
@@ -23130,7 +23144,7 @@
     "name": "GameGuru Starter Bundle"
   },
   "678950": {
-    "config_count": 32,
+    "config_count": 34,
     "devices": [
       {
         "d": "G68_MC4",
@@ -23201,6 +23215,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "Adreno__TM__616",
+        "m": "RMX1921",
+        "s": "Adreno (TM) 616"
       },
       {
         "d": "G57",
