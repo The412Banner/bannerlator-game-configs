@@ -23788,7 +23788,7 @@
     "name": "Electric Bench - Unreal Engine 5 Benchmark"
   },
   "774361": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -23809,6 +23809,11 @@
         "d": "Adreno__TM__710",
         "m": "CPH2699",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       }
     ],
     "folders": [
@@ -26130,7 +26135,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1796,
+    "config_count": 1797,
     "devices": [
       {
         "d": "G52_MC2",
