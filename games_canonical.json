@@ -26049,6 +26049,20 @@
     ],
     "name": "Gtavlauncher"
   },
+  "name:kinebox": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
+      }
+    ],
+    "folders": [
+      "Kinebox"
+    ],
+    "name": "Kinebox"
+  },
   "name:kingdom-hearts-dream-drop-distance": {
     "config_count": 1,
     "devices": [],
@@ -26234,7 +26248,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1806,
+    "config_count": 1807,
     "devices": [
       {
         "d": "G52_MC2",
