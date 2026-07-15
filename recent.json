@@ -1,5 +1,12 @@
 [
   {
+    "game": "setup",
+    "manufacturer": "Mali",
+    "device": "G51",
+    "timestamp": 1784159978,
+    "filename": "setup-HUAWEI-SNE-LX1-Mali-G51-1784159978.json"
+  },
+  {
     "game": "pes2013",
     "manufacturer": "AC2003",
     "device": "Adreno__TM__620",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1784070111,
     "filename": "Tomb_Raider_Underworld-Xiaomi-24069RA21C-Adreno__TM__735-1784070111.json"
-  },
-  {
-    "game": "Big_Ambitions",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1784061716,
-    "filename": "Big_Ambitions-INFINIX-Infinix_X6876-Mali-G615_MC2-1784061716.json"
   }
 ]
