@@ -2175,7 +2175,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -2251,6 +2251,11 @@
         "d": "Adreno__TM__650",
         "m": "NP03J",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -11784,7 +11789,7 @@
     "name": "NoLimits 2 Roller Coaster Simulation - Vekoma MK1101"
   },
   "2542120": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -11795,6 +11800,11 @@
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "TB323FU",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
@@ -12992,6 +13002,14 @@
     ],
     "name": "Hospital 666"
   },
+  "2787680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Candy Rangers"
+  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -13088,14 +13106,6 @@
       "RIDE_6"
     ],
     "name": "RIDE 6"
-  },
-  "2816870": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Mighty Morphin Power Rangers: Rita's Rewind"
   },
   "281940": {
     "config_count": 1,
@@ -17068,19 +17078,19 @@
     "config_count": 3,
     "devices": [
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
-      "SAMURAI_WARRIORS_4-II",
-      "SAMURAI_WARRIORS_2"
+      "SAMURAI_WARRIORS_2",
+      "SAMURAI_WARRIORS_4-II"
     ],
     "name": "SAMURAI WARRIORS 4-II"
   },
@@ -17153,7 +17163,7 @@
     "name": "Stellar Blade\u2122"
   },
   "349040": {
-    "config_count": 48,
+    "config_count": 49,
     "devices": [
       {
         "d": "G615_MC2",
@@ -17244,6 +17254,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "ASUS_I005DTC",
+        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
