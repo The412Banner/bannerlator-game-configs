@@ -37,7 +37,7 @@
     "name": "DiRT Rally 2.0 - Citro\u00ebn C4 Rally"
   },
   "10090": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -63,6 +63,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       }
     ],
     "folders": [
@@ -7354,20 +7359,6 @@
     ],
     "name": "Hitman: Absolution\u2122"
   },
-  "203160": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      }
-    ],
-    "folders": [
-      "TombRaider"
-    ],
-    "name": "Tomb Raider Game of the Year"
-  },
   "203650": {
     "config_count": 2,
     "devices": [],
@@ -9252,7 +9243,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -9276,7 +9267,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -13002,14 +12994,6 @@
     ],
     "name": "Hospital 666"
   },
-  "2787680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Candy Rangers"
-  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -13106,6 +13090,14 @@
       "RIDE_6"
     ],
     "name": "RIDE 6"
+  },
+  "2816870": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Mighty Morphin Power Rangers: Rita's Rewind"
   },
   "281940": {
     "config_count": 1,
@@ -13494,7 +13486,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 30,
+    "config_count": 29,
     "devices": [
       {
         "d": "G615_MC2",
@@ -13534,8 +13526,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -16514,7 +16505,7 @@
     "name": "One Piece Pirate Warriors 3"
   },
   "33230": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -16535,6 +16526,7 @@
     "folders": [
       "Assassin_s_Creed__II",
       "AssassinsCreedIIGame",
+      "Assassin_s_Creed_II",
       "AssassinsCreedII"
     ],
     "name": "Assassin's Creed 2"
@@ -17519,6 +17511,20 @@
       "Money_Simulator_-_Brokeville"
     ],
     "name": "Money Simulator: Brokeville (Free Prologue)"
+  },
+  "3558670": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      }
+    ],
+    "folders": [
+      "TombRaider"
+    ],
+    "name": "Tomb Raider: Legacy of Atlantis"
   },
   "356190": {
     "config_count": 4,
@@ -22040,7 +22046,7 @@
     "name": "Far Cry\u00ae 5"
   },
   "553520": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -22086,6 +22092,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
@@ -23833,7 +23844,7 @@
     "name": "Five Nights at Freddy's: Security Breach"
   },
   "750920": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "SM8850",
@@ -26375,7 +26386,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1809,
+    "config_count": 1810,
     "devices": [
       {
         "d": "G52_MC2",
