@@ -7393,6 +7393,20 @@
     ],
     "name": "Hitman: Absolution\u2122"
   },
+  "203160": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      }
+    ],
+    "folders": [
+      "TombRaider"
+    ],
+    "name": "Tomb Raider Game of the Year"
+  },
   "203650": {
     "config_count": 2,
     "devices": [],
@@ -17616,20 +17630,6 @@
     ],
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
-  "3558670": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      }
-    ],
-    "folders": [
-      "TombRaider"
-    ],
-    "name": "Tomb Raider: Legacy of Atlantis"
-  },
   "356190": {
     "config_count": 4,
     "devices": [
@@ -20801,7 +20801,7 @@
     "name": "Dead Rising\u00ae 2"
   },
   "45760": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__22",
@@ -20817,6 +20817,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "motorola_edge_30_pro",
+        "s": "Adreno (TM) 730"
       }
     ],
     "folders": [
@@ -28005,6 +28010,20 @@
       "rpcs3"
     ],
     "name": "Rpcs3"
+  },
+  "name:shfix": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "SHFix"
+    ],
+    "name": "Shfix"
   },
   "name:shproto": {
     "config_count": 1,
