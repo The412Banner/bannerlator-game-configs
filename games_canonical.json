@@ -9290,7 +9290,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -9314,7 +9314,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -13045,14 +13046,6 @@
     ],
     "name": "Hospital 666"
   },
-  "2787680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Candy Rangers"
-  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -13149,6 +13142,14 @@
       "RIDE_6"
     ],
     "name": "RIDE 6"
+  },
+  "2816870": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Mighty Morphin Power Rangers: Rita's Rewind"
   },
   "281940": {
     "config_count": 1,
@@ -13537,7 +13538,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 30,
+    "config_count": 29,
     "devices": [
       {
         "d": "G615_MC2",
@@ -13577,8 +13578,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
