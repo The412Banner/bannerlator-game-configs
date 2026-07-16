@@ -5905,7 +5905,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 114,
+    "config_count": 115,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -5971,6 +5971,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
+        "m": "A376B",
+        "s": "ANGLE ((Samsung Xclipse 530) on Vulkan 1.3.279)"
       },
       {
         "d": "Adreno__TM__720",
@@ -15241,7 +15246,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 987,
+    "config_count": 988,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -17192,7 +17197,7 @@
     "name": "They Killed Your Cat"
   },
   "3489700": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "G720_MC7",
@@ -27864,6 +27869,20 @@
       "Stalker_call_of_Chernobyl_gamepad"
     ],
     "name": "Stalker Call Of Chernobyl Gamepad"
+  },
+  "name:studio64": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Samsung_Xclipse_530",
+        "m": "A556E",
+        "s": "Samsung Xclipse 530"
+      }
+    ],
+    "folders": [
+      "studio64"
+    ],
+    "name": "Studio64"
   },
   "name:tlauncher-installer-1-9-5-1": {
     "config_count": 1,
