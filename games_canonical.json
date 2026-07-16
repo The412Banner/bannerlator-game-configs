@@ -26504,7 +26504,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1824,
+    "config_count": 1826,
     "devices": [
       {
         "d": "G52_MC2",
@@ -27933,6 +27933,20 @@
       "studio64"
     ],
     "name": "Studio64"
+  },
+  "name:takecareofthedog": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__618",
+        "m": "M2101K6G",
+        "s": "Adreno (TM) 618"
+      }
+    ],
+    "folders": [
+      "TAKECAREOFTHEDOG"
+    ],
+    "name": "Takecareofthedog"
   },
   "name:tlauncher-installer-1-9-5-1": {
     "config_count": 1,
