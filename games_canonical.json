@@ -932,6 +932,14 @@
     ],
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
+  "1110100": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Power Rangers: Battle for the Grid"
+  },
   "1110910": {
     "config_count": 1,
     "devices": [
@@ -9290,7 +9298,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 10,
+    "config_count": 9,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -9314,8 +9322,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -13143,14 +13150,6 @@
     ],
     "name": "RIDE 6"
   },
-  "2816870": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Mighty Morphin Power Rangers: Rita's Rewind"
-  },
   "281940": {
     "config_count": 1,
     "devices": [],
@@ -13538,7 +13537,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "G615_MC2",
@@ -13578,7 +13577,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -26318,6 +26318,20 @@
       "MK10"
     ],
     "name": "Mk10"
+  },
+  "name:need-for-speed-the-run": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G610_MC3",
+        "m": "Mali",
+        "s": "Mali-G610 MC3"
+      }
+    ],
+    "folders": [
+      "Need_For_Speed_The_Run"
+    ],
+    "name": "Need For Speed The Run"
   },
   "name:need-for-speed-underground": {
     "config_count": 1,
