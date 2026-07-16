@@ -12551,7 +12551,7 @@
     "name": "Red Dead Redemption"
   },
   "2669320": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -26505,7 +26505,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1826,
+    "config_count": 1829,
     "devices": [
       {
         "d": "G52_MC2",
@@ -27395,7 +27395,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 142,
+    "config_count": 143,
     "devices": [
       {
         "d": "G615_MC2",
@@ -27596,6 +27596,11 @@
         "d": "Adreno__TM__740",
         "m": "24018RPACG",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
