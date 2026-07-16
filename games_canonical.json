@@ -9304,7 +9304,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -9328,7 +9328,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -13551,7 +13552,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 30,
+    "config_count": 29,
     "devices": [
       {
         "d": "G615_MC2",
@@ -13591,8 +13592,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -15260,7 +15260,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 988,
+    "config_count": 989,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24116,20 +24116,6 @@
     ],
     "name": "SCARLET NEXUS"
   },
-  "78000": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "2211133C",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "Bejeweled_3"
-    ],
-    "name": "Bejeweled\u00ae 3"
-  },
   "780310": {
     "config_count": 1,
     "devices": [
@@ -24851,7 +24837,7 @@
     "name": "SNK 40th ANNIVERSARY COLLECTION"
   },
   "866800": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__750",
