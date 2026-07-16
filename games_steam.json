@@ -793,6 +793,12 @@
     "appid": null,
     "method": "unresolved"
   },
+  "BombSquad": {
+    "appid": 2463650,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2463650/header.jpg",
+    "method": "naive",
+    "steam_name": "Bomb Squad"
+  },
   "Bombergrounds__Reborn": {
     "appid": 1104450,
     "method": "naive",
@@ -3450,6 +3456,12 @@
     "appid": 599140,
     "method": "naive",
     "steam_name": "Graveyard Keeper"
+  },
+  "Griftlands": {
+    "appid": 601840,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/601840/header.jpg",
+    "method": "naive",
+    "steam_name": "Griftlands"
   },
   "Grim_Dawn": {
     "appid": 219990,
