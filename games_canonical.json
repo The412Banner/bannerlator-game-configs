@@ -7189,7 +7189,7 @@
     "name": "Assassin's Creed\u00ae Revelations"
   },
   "202170": {
-    "config_count": 48,
+    "config_count": 50,
     "devices": [
       {
         "d": "MT6878",
@@ -18057,7 +18057,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "G68_MC4",
@@ -18073,11 +18073,22 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE"
+      "oriDE",
+      "Ori"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -23856,12 +23867,17 @@
     "name": "Counter-Strike 2"
   },
   "731490": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__840",
         "m": "NX809J",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -23886,6 +23902,20 @@
       "Tales_of_Arise"
     ],
     "name": "Tales of ARISE"
+  },
+  "742300": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Mega_Man_11"
+    ],
+    "name": "Mega Man 11"
   },
   "744900": {
     "config_count": 1,
@@ -25234,6 +25264,14 @@
     ],
     "name": "Cat Quest II"
   },
+  "917040": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "KikiKaikai"
+    ],
+    "name": "Groove Coaster - KIKIKAIKAI"
+  },
   "919410": {
     "config_count": 1,
     "devices": [
@@ -25944,6 +25982,14 @@
       "Assasins_Creed_IV_Black_Flag"
     ],
     "name": "Assasins Creed Iv Black Flag"
+  },
+  "name:assassinscreed-dx9": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "AssassinsCreed_Dx9"
+    ],
+    "name": "Assassinscreed Dx9"
   },
   "name:avernum-escape-from-the-pit-1-01-gog-directx": {
     "config_count": 1,
