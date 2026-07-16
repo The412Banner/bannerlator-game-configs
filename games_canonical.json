@@ -16550,8 +16550,14 @@
     "name": "Garten of Banban 0"
   },
   "33120": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
     "folders": [
       "Alien_Shooter_2"
     ],
@@ -18797,7 +18803,7 @@
     "name": "Day of the Tentacle Remastered"
   },
   "388410": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -18823,6 +18829,11 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069RA21C",
+        "s": "Adreno (TM) 735"
       },
       {
         "d": "G68",
@@ -26553,7 +26564,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1833,
+    "config_count": 1834,
     "devices": [
       {
         "d": "G52_MC2",
@@ -27296,14 +27307,14 @@
         "s": "Mali-G68"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
