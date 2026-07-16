@@ -1279,7 +1279,7 @@
     "name": "Horizon Zero Dawn\u2122 Complete Edition"
   },
   "115320": {
-    "config_count": 50,
+    "config_count": 51,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -1307,6 +1307,11 @@
         "s": "Mali-G720 MC7"
       },
       {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
+      },
+      {
         "d": "Adreno__TM__610",
         "m": "M2010J19CG",
         "s": "Adreno (TM) 610"
@@ -1315,11 +1320,6 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
-      },
-      {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
       },
       {
         "d": "G57_MC2",
@@ -15255,7 +15255,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 990,
+    "config_count": 993,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -15993,11 +15993,6 @@
         "s": "Adreno (TM) 840"
       },
       {
-        "d": "Adreno__TM__710",
-        "m": "NX1",
-        "s": "Adreno (TM) 710"
-      },
-      {
         "d": "Adreno__TM__720",
         "m": "W00",
         "s": "Adreno (TM) 720"
@@ -16086,6 +16081,11 @@
         "d": "Adreno__TM__610",
         "m": "A057M",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__830",
@@ -16548,6 +16548,14 @@
       "Garten_of_Banban_0"
     ],
     "name": "Garten of Banban 0"
+  },
+  "33120": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Alien_Shooter_2"
+    ],
+    "name": "Alien Shooter 2: Reloaded"
   },
   "3314070": {
     "config_count": 1,
@@ -25950,6 +25958,20 @@
       "Avernum_Escape_From_The_Pit_1_01_GoG_DirectX"
     ],
     "name": "Avernum Escape From The Pit 1 01 Gog Directx"
+  },
+  "name:bejewelled-3": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Bejewelled_3"
+    ],
+    "name": "Bejewelled 3"
   },
   "name:bf3": {
     "config_count": 1,
