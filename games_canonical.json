@@ -501,7 +501,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -517,6 +517,11 @@
         "d": "Adreno__TM__830",
         "m": "S938B",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "2201116PG",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -926,6 +931,14 @@
       "VK_com"
     ],
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
+  },
+  "1110100": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Power Rangers: Battle for the Grid"
   },
   "1110910": {
     "config_count": 1,
@@ -5895,7 +5908,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 110,
+    "config_count": 112,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -6061,6 +6074,11 @@
         "d": "Adreno__TM__750",
         "m": "V2425A",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "ASUS_I005DTC",
+        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
@@ -7147,7 +7165,7 @@
     "name": "Assassin's Creed\u00ae Revelations"
   },
   "202170": {
-    "config_count": 46,
+    "config_count": 48,
     "devices": [
       {
         "d": "MT6878",
@@ -7230,14 +7248,14 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__725",
         "m": "23049PCD8G",
         "s": "Adreno (TM) 725"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__830",
@@ -10005,7 +10023,7 @@
     "name": "Farming Simulator 25"
   },
   "231120": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -10016,6 +10034,11 @@
         "d": "Adreno__TM__720",
         "m": "NX9",
         "s": "Adreno (TM) 720"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "A042F",
+        "s": "PowerVR Rogue GE8320"
       }
     ],
     "folders": [
@@ -13117,14 +13140,6 @@
     ],
     "name": "RIDE 6"
   },
-  "2816870": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Mighty Morphin Power Rangers: Rita's Rewind"
-  },
   "281940": {
     "config_count": 1,
     "devices": [],
@@ -15207,7 +15222,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 984,
+    "config_count": 987,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -15706,16 +15721,6 @@
       },
       {
         "d": "Adreno__TM__610",
-        "m": "A057M",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "G610_MC6",
-        "m": "Mali",
-        "s": "Mali-G610 MC6"
-      },
-      {
-        "d": "Adreno__TM__610",
         "m": "23129RA5FL",
         "s": "Adreno (TM) 610"
       },
@@ -16040,6 +16045,16 @@
         "s": "Adreno (TM) 22"
       },
       {
+        "d": "G610_MC6",
+        "m": "Mali",
+        "s": "Mali-G610 MC6"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "A057M",
+        "s": "Adreno (TM) 610"
+      },
+      {
         "d": "Adreno__TM__830",
         "m": "NX9",
         "s": "Adreno (TM) 830"
@@ -16088,6 +16103,11 @@
         "d": "Adreno__TM__610",
         "m": "CPH2363",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "Retroid_Pocket_Flip2",
+        "s": "Adreno (TM) 650"
       },
       {
         "d": "Adreno__TM__840",
@@ -24357,6 +24377,11 @@
         "d": "Adreno__TM__830",
         "m": "TB322FC",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g84_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -26404,7 +26429,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1812,
+    "config_count": 1817,
     "devices": [
       {
         "d": "G52_MC2",
@@ -27057,11 +27082,6 @@
         "s": "Mali-G720 MC8"
       },
       {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
-      },
-      {
         "d": "PowerVR_Rogue_GE8320",
         "m": "moto_g22",
         "s": "PowerVR Rogue GE8320"
@@ -27127,11 +27147,6 @@
         "s": "Adreno (TM) 725"
       },
       {
-        "d": "G68",
-        "m": "Mali",
-        "s": "Mali-G68"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "23129RA5FL",
         "s": "Adreno (TM) 610"
@@ -27155,6 +27170,16 @@
         "d": "Immortalis_MC12",
         "m": "G720",
         "s": "Mali-G720-Immortalis MC12"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       },
       {
         "d": "Adreno__TM__740",
@@ -27294,7 +27319,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 141,
+    "config_count": 142,
     "devices": [
       {
         "d": "G615_MC2",
