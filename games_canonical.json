@@ -9304,7 +9304,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 10,
+    "config_count": 9,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -9328,8 +9328,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -13547,7 +13546,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "G615_MC2",
@@ -13587,7 +13586,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -24899,7 +24899,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 81,
+    "config_count": 82,
     "devices": [
       {
         "d": "s5e8855",
@@ -25055,6 +25055,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "Adreno__TM__840",
@@ -26265,6 +26270,14 @@
     ],
     "name": "Kingdom Hearts Dream Drop Distance"
   },
+  "name:kofxv-steam": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "KOFXV_Steam"
+    ],
+    "name": "Kofxv Steam"
+  },
   "name:lunaabyss-wingdk-shipping": {
     "config_count": 1,
     "devices": [
@@ -26464,7 +26477,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1829,
+    "config_count": 1830,
     "devices": [
       {
         "d": "G52_MC2",
