@@ -9753,7 +9753,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 144,
+    "config_count": 145,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -14159,7 +14159,7 @@
     "name": "Heatwave"
   },
   "298110": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "G720_MC7",
@@ -14170,6 +14170,11 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       },
       {
         "d": "G68_MC4",
@@ -14195,11 +14200,6 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
       },
       {
         "d": "Adreno__TM__750",
@@ -26570,7 +26570,7 @@
     "name": "Gtaiv"
   },
   "name:gtavlauncher": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__825",
