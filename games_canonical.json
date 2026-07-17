@@ -10088,20 +10088,20 @@
     "config_count": 4,
     "devices": [
       {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      },
-      {
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       }
     ],
     "folders": [
+      "FARMING_SIMULATOR_13_",
       "Farming_Simulator_25",
-      "Farming_Simulator_25________________________________________",
-      "FARMING_SIMULATOR_13_"
+      "Farming_Simulator_25________________________________________"
     ],
     "name": "Farming Simulator 25"
   },
@@ -15359,7 +15359,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1000,
+    "config_count": 1001,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -16152,11 +16152,6 @@
         "s": "Mali-G925-Immortalis MC11"
       },
       {
-        "d": "G720_MC8",
-        "m": "Mali",
-        "s": "Mali-G720 MC8"
-      },
-      {
         "d": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
         "m": "S711B",
         "s": "ANGLE ((Samsung Xclipse 920) on Vulkan 1.3.279)"
@@ -16190,6 +16185,11 @@
         "d": "Adreno__TM__710",
         "m": "NX1",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
       },
       {
         "d": "Adreno__TM__830",
@@ -26484,8 +26484,14 @@
     "name": "eFootball 2021"
   },
   "name:emuteck-edition": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__619",
+        "m": "motorola_edge_30_neo",
+        "s": "Adreno (TM) 619"
+      }
+    ],
     "folders": [
       "EMUTECK_EDITION"
     ],
