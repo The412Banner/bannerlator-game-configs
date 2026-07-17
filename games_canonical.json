@@ -616,8 +616,13 @@
     "name": "Project Zomboid"
   },
   "1086940": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
+      },
       {
         "d": "Adreno__TM__830",
         "m": "TB322FC",
@@ -945,6 +950,14 @@
       "Mortal_Shell"
     ],
     "name": "Mortal Shell"
+  },
+  "1111360": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "BloodySpell"
+    ],
+    "name": "\u55dc\u8840\u5370 BloodySpell \u539f\u751f\u97f3\u4e50\u96c6"
   },
   "1111380": {
     "config_count": 1,
@@ -1863,7 +1876,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 260,
+    "config_count": 261,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -5923,7 +5936,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 117,
+    "config_count": 118,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -6099,6 +6112,11 @@
         "d": "Adreno__TM__660",
         "m": "ASUS_I005DTC",
         "s": "Adreno (TM) 660"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       }
     ],
     "folders": [
@@ -6517,12 +6535,17 @@
     "name": "ANTONBLAST"
   },
   "1888930": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__650",
         "m": "23043RP34G",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "CPH2649",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -7344,7 +7367,7 @@
     "name": "GoreBox"
   },
   "203140": {
-    "config_count": 27,
+    "config_count": 28,
     "devices": [
       {
         "d": "G610_MC3",
@@ -15305,7 +15328,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 999,
+    "config_count": 1000,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -17690,7 +17713,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -25088,7 +25111,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 80,
+    "config_count": 81,
     "devices": [
       {
         "d": "s5e8855",
@@ -25236,11 +25259,6 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
@@ -25249,6 +25267,11 @@
         "d": "Adreno__TM__830",
         "m": "S938B",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__840",
@@ -26752,7 +26775,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1855,
+    "config_count": 1856,
     "devices": [
       {
         "d": "G52_MC2",
@@ -27315,11 +27338,6 @@
         "s": "Mali-G72"
       },
       {
-        "d": "G71",
-        "m": "Mali",
-        "s": "Mali-G71"
-      },
-      {
         "d": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
         "m": "S711B",
         "s": "ANGLE ((Samsung Xclipse 920) on Vulkan 1.3.279)"
@@ -27503,6 +27521,11 @@
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
         "m": "S731B",
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "G71",
+        "m": "Mali",
+        "s": "Mali-G71"
       },
       {
         "d": "Adreno__TM__740",
