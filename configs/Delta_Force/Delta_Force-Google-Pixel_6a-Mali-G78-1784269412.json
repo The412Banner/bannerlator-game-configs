@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "Google Pixel 6a",
+    "soc": "Mali-G78",
+    "bh_version": "2.6.2",
+    "uploader": {
+      "name": "ranawaleed"
+    },
+    "upload_token": "472838da25ce4d4a",
+    "settings_count": 9,
+    "components_count": 4
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"2.3.1-0\"}",
+    "pc_ls_VK3k": "{\"name\":\"2.8\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"Mesa Turnip driver v26.0.0 - R8\"}",
+    "pc_set_constant_95": "{\"name\":\"2508\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"Wine-10.0-X86_64-1\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-original",
+    "pc_ls_AUDIO_DRIVER": "0",
+    "pc_ls_environment_variable": "WRAPPER_MAX_IMAGE_COUNT=0 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=512MB mesa_glthread=true WINEESYNC=1 TU_DEBUG=noconform,sysmem DXVK_HUD=devinfo,fps,frametimes,gpuload,version,api",
+    "bl_ext": {
+      "dxwrapper": "dxvk+vkd3d",
+      "screenSize": "800x600",
+      "renderer": "vulkan",
+      "fullscreenMode": "0",
+      "frameGenEngine": "off",
+      "reshadeMode": "solo",
+      "reshadeEffect": "None",
+      "emulator": "fexcore",
+      "box64Version": "0.4.0-0",
+      "box64Preset": "PERFORMANCE",
+      "fexcorePreset": "PERFORMANCE",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1",
+      "lc_all": "en_US.UTF-8",
+      "dxwrapperConfig": "version=2.3.1-0,framerate=0,async=0,asyncCache=0,vkd3dVersion=2.8,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfigFile="
+    }
+  },
+  "components": [
+    {
+      "name": "2.3.1-0",
+      "type": "DXVK"
+    },
+    {
+      "name": "2.8",
+      "type": "VKD3D"
+    },
+    {
+      "name": "Mesa Turnip driver v26.0.0 - R8",
+      "type": "GPU"
+    },
+    {
+      "name": "2508",
+      "type": "FEXCore"
+    }
+  ]
+}
