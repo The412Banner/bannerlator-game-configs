@@ -5487,7 +5487,7 @@
     "name": "Persona 5 Royal"
   },
   "1693980": {
-    "config_count": 14,
+    "config_count": 13,
     "devices": [
       {
         "d": "G68",
@@ -8050,20 +8050,6 @@
     ],
     "name": "F.E.A.R. 3"
   },
-  "211010": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "Alien_Shooter_2"
-    ],
-    "name": "Alien Shooter 2 Conscription"
-  },
   "2110820": {
     "config_count": 1,
     "devices": [],
@@ -9361,7 +9347,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -9385,7 +9371,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -13647,7 +13634,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 30,
+    "config_count": 29,
     "devices": [
       {
         "d": "G615_MC2",
@@ -13687,8 +13674,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -16669,6 +16655,20 @@
       "Garten_of_Banban_0"
     ],
     "name": "Garten of Banban 0"
+  },
+  "33120": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Alien_Shooter_2"
+    ],
+    "name": "Alien Shooter 2: Reloaded"
   },
   "3314070": {
     "config_count": 1,
@@ -24767,7 +24767,7 @@
     "name": "Cash Grab - Hat Pack"
   },
   "8190": {
-    "config_count": 23,
+    "config_count": 24,
     "devices": [
       {
         "d": "Odin2",
@@ -24820,11 +24820,6 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      },
-      {
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
@@ -24843,6 +24838,11 @@
         "d": "Adreno__TM__650",
         "m": "M2012K11AG",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       }
     ],
     "folders": [
@@ -25389,7 +25389,7 @@
     "name": "Last Epoch"
   },
   "911400": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "MT6833V_PNZA",
@@ -25435,6 +25435,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__829",
@@ -27716,7 +27721,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 143,
+    "config_count": 144,
     "devices": [
       {
         "d": "G615_MC2",
