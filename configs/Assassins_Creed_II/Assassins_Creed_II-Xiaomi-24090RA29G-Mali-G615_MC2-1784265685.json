@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "Xiaomi 24090RA29G",
+    "soc": "Mali-G615 MC2",
+    "bh_version": "2.6.2",
+    "upload_token": "598b4d2dce95a575",
+    "settings_count": 10,
+    "components_count": 4
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"1.12.0-sarek-arm64ec-async-da302c98-0\"}",
+    "pc_ls_VK3k": "{\"name\":\"None\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"System\"}",
+    "pc_set_constant_95": "{\"name\":\"FEX-2607+56-Nightly-d0f03cb14-unix-0\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"Proton-11.0-1-arm64ec-1\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-bcn_layer",
+    "pc_ls_AUDIO_DRIVER": "0",
+    "pc_ls_update_enable_xinput": true,
+    "pc_ls_environment_variable": "WRAPPER_MAX_IMAGE_COUNT=0 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=512MB mesa_glthread=true WINEESYNC=1 TU_DEBUG=sysmem,noconform DXVK_LOG_LEVEL=none DXVK_STATE_CACHE=1 WINEFSYNC=1 WINEDEBUG=-all DXVK_STATE_CACHE_PATH=\/sdcard\/DXVK_cache WINE_LARGE_ADDRESS_AWARE=1 vblank_mode=0 MESA_NO_ERROR=1 DXVK_DISABLE_TIMELINE_SEMAPHORES=1",
+    "bl_ext": {
+      "dxwrapper": "dxvk+vkd3d",
+      "screenSize": "854x480",
+      "renderer": "vulkan",
+      "sfCompatMode": "1",
+      "fullscreenMode": "0",
+      "frameGenEngine": "off",
+      "fpsLimiterEnabled": "1",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "reshadeMode": "solo",
+      "reshadeEffect": "None",
+      "emulator": "fexcore",
+      "box64Version": "0.4.3-0",
+      "box64Preset": "PERFORMANCE_MALI",
+      "fexcorePreset": "PERFORMANCE",
+      "cpuList": "4,5,6,7",
+      "startupSelection": "2",
+      "inputType": "4",
+      "exclusiveXInput": "1",
+      "simTouchScreen": "0",
+      "numControllers": "1",
+      "controlsProfile": "4",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1",
+      "lc_all": "pt_BR.UTF-8",
+      "autoCloseOnExit": "1",
+      "dxwrapperConfig": "version=1.12.0-sarek-arm64ec-async-da302c98-0,framerate=0,async=1,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfigFile="
+    }
+  },
+  "components": [
+    {
+      "name": "1.12.0-sarek-arm64ec-async-da302c98-0",
+      "type": "DXVK"
+    },
+    {
+      "name": "None",
+      "type": "VKD3D"
+    },
+    {
+      "name": "System",
+      "type": "GPU"
+    },
+    {
+      "name": "FEX-2607+56-Nightly-d0f03cb14-unix-0",
+      "type": "FEXCore"
+    }
+  ]
+}
