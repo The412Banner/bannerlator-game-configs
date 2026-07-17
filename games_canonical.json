@@ -5203,7 +5203,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 71,
+    "config_count": 73,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -8220,12 +8220,17 @@
     "name": "South Park\u2122: The Stick of Truth\u2122"
   },
   "2138330": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "G610_MC3",
         "m": "Mali",
         "s": "Mali-G610 MC3"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
       }
     ],
     "folders": [
@@ -15274,7 +15279,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 994,
+    "config_count": 995,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25700,6 +25705,14 @@
     ],
     "name": "Rise: Race The Future"
   },
+  "955900": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Amazing_Cultivation_Simulator"
+    ],
+    "name": "Amazing Cultivation Simulator"
+  },
   "957140": {
     "config_count": 2,
     "devices": [],
@@ -26644,7 +26657,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1847,
+    "config_count": 1848,
     "devices": [
       {
         "d": "G52_MC2",
@@ -27312,11 +27325,6 @@
         "s": "PowerVR Rogue GE8320"
       },
       {
-        "d": "G52",
-        "m": "Mali",
-        "s": "Mali-G52"
-      },
-      {
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
@@ -27395,6 +27403,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G52",
+        "m": "Mali",
+        "s": "Mali-G52"
       },
       {
         "d": "Adreno__TM__740",
@@ -27752,7 +27765,7 @@
     "name": "PES 2017"
   },
   "name:pes-2018": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "G57",
