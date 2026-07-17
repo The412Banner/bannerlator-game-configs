@@ -2204,7 +2204,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 31,
+    "config_count": 30,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -25970,16 +25970,22 @@
     "name": "Eastward"
   },
   "978780": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "M2101K6G",
+        "s": "Adreno (TM) 618"
       }
     ],
     "folders": [
-      "STORY_OF_SEASONS__Friends_of_Mineral_Town"
+      "STORY_OF_SEASONS__Friends_of_Mineral_Town",
+      "STORY_OF_SEASONS_Friends_of_Mineral_Town"
     ],
     "name": "STORY OF SEASONS: Friends of Mineral Town"
   },
