@@ -123,7 +123,7 @@
     "name": "The Long Drive"
   },
   "10180": {
-    "config_count": 34,
+    "config_count": 35,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -28113,6 +28113,14 @@
       "PES2021"
     ],
     "name": "Pes2021"
+  },
+  "name:playrdr": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "PlayRDR"
+    ],
+    "name": "Playrdr"
   },
   "name:pro-evolution-soccer": {
     "config_count": 1,
