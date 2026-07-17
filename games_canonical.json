@@ -9720,8 +9720,14 @@
     "name": "Alien Breed 3: Descent"
   },
   "2272360": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
     "folders": [
       "Warhammer_40_000__Dawn_of_War"
     ],
@@ -11432,7 +11438,7 @@
     "name": "SimCity\u2122 4 Deluxe Edition"
   },
   "24790": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G57_MC2",
@@ -17081,6 +17087,14 @@
       "EA_SPORTS_FC__26"
     ],
     "name": "EA SPORTS FC\u2122 26"
+  },
+  "3410": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Heavy_Weapon"
+    ],
+    "name": "Heavy Weapon Deluxe"
   },
   "341940": {
     "config_count": 2,
@@ -26775,7 +26789,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1856,
+    "config_count": 1857,
     "devices": [
       {
         "d": "G52_MC2",
@@ -27503,11 +27517,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "256",
-        "m": "8",
-        "s": "PowerVR B-Series BXM-8-256"
-      },
-      {
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
@@ -27526,6 +27535,11 @@
         "d": "G71",
         "m": "Mali",
         "s": "Mali-G71"
+      },
+      {
+        "d": "256",
+        "m": "8",
+        "s": "PowerVR B-Series BXM-8-256"
       },
       {
         "d": "Adreno__TM__740",
