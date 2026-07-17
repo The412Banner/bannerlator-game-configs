@@ -2836,7 +2836,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 35,
+    "config_count": 36,
     "devices": [
       {
         "d": "G57_MC2",
@@ -2897,6 +2897,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "CPH2645",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -2909,6 +2914,7 @@
       "Need_for_Speed__Most_Wanted_________________________________",
       "need_for_speed_most_wanted_",
       "Need_For_Speed_Most_Wanted_",
+      "Need_for_Speed_-_Most_Wanted",
       "need_for_speed_most_wa"
     ],
     "name": "Need for Speed\u2122 Most Wanted"
@@ -10079,17 +10085,23 @@
     "name": "Felvidek"
   },
   "2300320": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
       "Farming_Simulator_25",
-      "Farming_Simulator_25________________________________________"
+      "Farming_Simulator_25________________________________________",
+      "FARMING_SIMULATOR_13_"
     ],
     "name": "Farming Simulator 25"
   },
@@ -26831,7 +26843,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1861,
+    "config_count": 1863,
     "devices": [
       {
         "d": "G52_MC2",
@@ -27186,11 +27198,6 @@
       {
         "d": "Adreno__TM__610",
         "m": "CPH3669",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "23073RPBFL",
         "s": "Adreno (TM) 610"
       },
       {
@@ -27582,6 +27589,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23073RPBFL",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__740",
