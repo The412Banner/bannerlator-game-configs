@@ -563,7 +563,7 @@
     "name": "Ben 10: Power Trip"
   },
   "1064270": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "G720_MC7",
@@ -572,8 +572,7 @@
       }
     ],
     "folders": [
-      "Halo_2",
-      "halo2"
+      "Halo_2"
     ],
     "name": "Halo 2: Anniversary"
   },
@@ -2818,7 +2817,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 33,
+    "config_count": 34,
     "devices": [
       {
         "d": "G57_MC2",
@@ -2889,7 +2888,8 @@
       "Need_for_Speed_Most_Wanted_2005_____________________________",
       "Need_for_Speed__Most_Wanted",
       "Need_for_Speed__Most_Wanted_________________________________",
-      "need_for_speed_most_wanted_"
+      "need_for_speed_most_wanted_",
+      "Need_For_Speed_Most_Wanted_"
     ],
     "name": "Need for Speed\u2122 Most Wanted"
   },
@@ -3023,14 +3023,8 @@
     "name": "The Last Faith"
   },
   "1275630": {
-    "config_count": 3,
-    "devices": [
-      {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      }
-    ],
+    "config_count": 2,
+    "devices": [],
     "folders": [
       "SAMP",
       "samp"
@@ -8207,17 +8201,10 @@
     "name": "LEGO\u00ae Batman\u2122 2: DC Super Heroes"
   },
   "213670": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__660",
-        "m": "S928B",
-        "s": "Adreno (TM) 660"
-      }
-    ],
+    "config_count": 1,
+    "devices": [],
     "folders": [
-      "South_Park___The_Stick_of_Truth_",
-      "South_Park_-_The_Stick_of_Truth"
+      "South_Park___The_Stick_of_Truth_"
     ],
     "name": "South Park\u2122: The Stick of Truth\u2122"
   },
@@ -26247,20 +26234,6 @@
     ],
     "name": "Dirt Showdown"
   },
-  "name:dirt3-game": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__618",
-        "m": "M2007J20CG",
-        "s": "Adreno (TM) 618"
-      }
-    ],
-    "folders": [
-      "dirt3_game"
-    ],
-    "name": "Dirt3 Game"
-  },
   "name:dungeons-of-infinity": {
     "config_count": 1,
     "devices": [
@@ -26449,6 +26422,14 @@
       "GTAVLauncher"
     ],
     "name": "Gtavlauncher"
+  },
+  "name:halo2": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "halo2"
+    ],
+    "name": "Halo2"
   },
   "name:ikenai-kozukuri": {
     "config_count": 1,
@@ -28086,6 +28067,20 @@
     ],
     "name": "Rpcs3"
   },
+  "name:samp": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      }
+    ],
+    "folders": [
+      "samp"
+    ],
+    "name": "Samp"
+  },
   "name:shfix": {
     "config_count": 1,
     "devices": [
@@ -28115,6 +28110,20 @@
       "SkyrimSE"
     ],
     "name": "Skyrimse"
+  },
+  "name:south-park-the-stick-of-truth": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__660",
+        "m": "S928B",
+        "s": "Adreno (TM) 660"
+      }
+    ],
+    "folders": [
+      "South_Park_-_The_Stick_of_Truth"
+    ],
+    "name": "South Park The Stick Of Truth"
   },
   "name:sparkingzero-win64-shipping": {
     "config_count": 1,
