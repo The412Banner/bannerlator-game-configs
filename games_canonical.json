@@ -4630,7 +4630,7 @@
     "name": "Cairn"
   },
   "1593500": {
-    "config_count": 119,
+    "config_count": 120,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -6747,8 +6747,14 @@
     "name": "Mafia: The Old Country"
   },
   "1941780": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__730",
+        "m": "F721B",
+        "s": "Adreno (TM) 730"
+      }
+    ],
     "folders": [
       "Zumbi_Blocks_2_Open_Alpha"
     ],
@@ -9305,7 +9311,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -9329,7 +9335,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -13585,7 +13592,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 30,
+    "config_count": 29,
     "devices": [
       {
         "d": "G615_MC2",
@@ -13625,8 +13632,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -17076,10 +17082,17 @@
     "name": "Bongo Cat"
   },
   "3419520": {
-    "config_count": 2,
-    "devices": [],
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "Pocket_S",
+        "s": "Adreno (TM) 740"
+      }
+    ],
     "folders": [
-      "Quarantine_Zone_The_Last_Check"
+      "Quarantine_Zone_The_Last_Check",
+      "Quarantine_Zone__The_Last_Check"
     ],
     "name": "Quarantine Zone: The Last Check"
   },
@@ -18325,7 +18338,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -18371,6 +18384,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
