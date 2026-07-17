@@ -4628,7 +4628,7 @@
     "name": "Cairn"
   },
   "1593500": {
-    "config_count": 118,
+    "config_count": 119,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -13687,12 +13687,17 @@
     "name": "Fable Anniversary"
   },
   "2890830": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__610",
         "m": "A057M",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -26682,7 +26687,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1848,
+    "config_count": 1849,
     "devices": [
       {
         "d": "G52_MC2",
@@ -26938,11 +26943,6 @@
         "d": "Adreno__TM__610",
         "m": "LX2",
         "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-        "m": "S731B",
-        "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -27433,6 +27433,11 @@
         "d": "G52",
         "m": "Mali",
         "s": "Mali-G52"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+        "m": "S731B",
+        "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
       },
       {
         "d": "Adreno__TM__740",
