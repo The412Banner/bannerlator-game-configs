@@ -4171,6 +4171,10 @@
     "appid": null,
     "method": "unresolved"
   },
+  "L4D2_Launcher": {
+    "appid": null,
+    "method": "non-game"
+  },
   "LANESPLIT": {
     "appid": 3278310,
     "method": "naive",
@@ -7769,6 +7773,12 @@
     "appid": 1330000,
     "method": "naive",
     "steam_name": "Stolen Realm"
+  },
+  "Stranded_Sails_-_Explorers_of_the_Cursed_Islands": {
+    "appid": 943260,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/943260/header.jpg",
+    "method": "norm",
+    "steam_name": "Stranded Sails - Explorers of the Cursed Islands"
   },
   "Stray": {
     "appid": 1332010,
