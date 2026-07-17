@@ -8724,8 +8724,14 @@
     "name": "Half-Life 2"
   },
   "2200780": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__660",
+        "m": "G998U",
+        "s": "Adreno (TM) 660"
+      }
+    ],
     "folders": [
       "setup"
     ],
@@ -9309,7 +9315,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -9333,7 +9339,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -10320,6 +10327,20 @@
       "Naruto_Shippuden_-_Ultimate_Ninja_Storm_3_Full_Burst________"
     ],
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD"
+  },
+  "2350310": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G78",
+        "m": "Mali",
+        "s": "Mali-G78"
+      }
+    ],
+    "folders": [
+      "monica"
+    ],
+    "name": "Monica's Newlywed Life"
   },
   "2350790": {
     "config_count": 1,
@@ -13570,7 +13591,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 30,
+    "config_count": 29,
     "devices": [
       {
         "d": "G615_MC2",
@@ -13610,8 +13631,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -24985,7 +25005,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 82,
+    "config_count": 80,
     "devices": [
       {
         "d": "s5e8855",
