@@ -21795,7 +21795,7 @@
     "name": "Just Cause 4 Reloaded"
   },
   "524220": {
-    "config_count": 14,
+    "config_count": 16,
     "devices": [
       {
         "d": "SM8850",
@@ -21831,10 +21831,16 @@
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "CPH2745",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
-      "NieR_Automata_"
+      "NieR_Automata_",
+      "Nier_Automata_______________________________________________"
     ],
     "name": "NieR:Automata\u2122"
   },
@@ -28112,6 +28118,14 @@
       "rpcs3"
     ],
     "name": "Rpcs3"
+  },
+  "name:rungame": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "rungame"
+    ],
+    "name": "Rungame"
   },
   "name:shfix": {
     "config_count": 1,
