@@ -563,7 +563,7 @@
     "name": "Ben 10: Power Trip"
   },
   "1064270": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "G720_MC7",
@@ -572,7 +572,8 @@
       }
     ],
     "folders": [
-      "Halo_2"
+      "Halo_2",
+      "halo2"
     ],
     "name": "Halo 2: Anniversary"
   },
@@ -3023,8 +3024,14 @@
     "name": "The Last Faith"
   },
   "1275630": {
-    "config_count": 2,
-    "devices": [],
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      }
+    ],
     "folders": [
       "SAMP",
       "samp"
@@ -8201,10 +8208,17 @@
     "name": "LEGO\u00ae Batman\u2122 2: DC Super Heroes"
   },
   "213670": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__660",
+        "m": "S928B",
+        "s": "Adreno (TM) 660"
+      }
+    ],
     "folders": [
-      "South_Park___The_Stick_of_Truth_"
+      "South_Park___The_Stick_of_Truth_",
+      "South_Park_-_The_Stick_of_Truth"
     ],
     "name": "South Park\u2122: The Stick of Truth\u2122"
   },
@@ -16422,6 +16436,20 @@
       "LANESPLIT"
     ],
     "name": "LANESPLIT"
+  },
+  "3285500": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__618",
+        "m": "A715F",
+        "s": "Adreno (TM) 618"
+      }
+    ],
+    "folders": [
+      "Mushouden"
+    ],
+    "name": "Three Kingdoms Mushouden"
   },
   "3286930": {
     "config_count": 1,
@@ -26423,14 +26451,6 @@
     ],
     "name": "Gtavlauncher"
   },
-  "name:halo2": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "halo2"
-    ],
-    "name": "Halo2"
-  },
   "name:ikenai-kozukuri": {
     "config_count": 1,
     "devices": [],
@@ -26700,7 +26720,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1853,
+    "config_count": 1854,
     "devices": [
       {
         "d": "G52_MC2",
@@ -27011,11 +27031,6 @@
         "d": "Adreno__TM__612",
         "m": "M2101K7AG",
         "s": "Adreno (TM) 612"
-      },
-      {
-        "d": "PowerVR_Rogue_GE8320",
-        "m": "A042M",
-        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "Adreno__TM__610",
@@ -27451,6 +27466,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "A042M",
+        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "Adreno__TM__740",
@@ -28067,20 +28087,6 @@
     ],
     "name": "Rpcs3"
   },
-  "name:samp": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      }
-    ],
-    "folders": [
-      "samp"
-    ],
-    "name": "Samp"
-  },
   "name:shfix": {
     "config_count": 1,
     "devices": [
@@ -28110,20 +28116,6 @@
       "SkyrimSE"
     ],
     "name": "Skyrimse"
-  },
-  "name:south-park-the-stick-of-truth": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__660",
-        "m": "S928B",
-        "s": "Adreno (TM) 660"
-      }
-    ],
-    "folders": [
-      "South_Park_-_The_Stick_of_Truth"
-    ],
-    "name": "South Park The Stick Of Truth"
   },
   "name:sparkingzero-win64-shipping": {
     "config_count": 1,
