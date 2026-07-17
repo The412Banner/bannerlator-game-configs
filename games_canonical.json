@@ -20464,12 +20464,17 @@
     "name": "Bruisers 2D Boxing Demo"
   },
   "4355320": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__740",
         "m": "S911B",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__640",
+        "m": "RMX1931",
+        "s": "Adreno (TM) 640"
       }
     ],
     "folders": [
@@ -26821,7 +26826,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1860,
+    "config_count": 1861,
     "devices": [
       {
         "d": "G52_MC2",
@@ -27529,11 +27534,6 @@
         "s": "Adreno (TM) 740"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G52",
         "m": "Mali",
         "s": "Mali-G52"
@@ -27572,6 +27572,11 @@
         "d": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
         "m": "S711B",
         "s": "ANGLE ((Samsung Xclipse 920) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
