@@ -4195,7 +4195,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 54,
+    "config_count": 55,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -4325,7 +4325,8 @@
       "FIFA_20",
       "FIFA_2007",
       "FIFA_22",
-      "FIFA_23"
+      "FIFA_23",
+      "FIFA22"
     ],
     "name": "FIFA 22"
   },
@@ -22385,7 +22386,7 @@
     "name": "Red Faction\u00ae: Armageddon\u2122"
   },
   "55230": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -22406,6 +22407,11 @@
         "d": "Adreno__TM__610",
         "m": "A057M",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       }
     ],
     "folders": [
@@ -24013,6 +24019,20 @@
       "World_War_Z"
     ],
     "name": "World War Z"
+  },
+  "70": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__720",
+        "m": "NX9",
+        "s": "Adreno (TM) 720"
+      }
+    ],
+    "folders": [
+      "Half-Life"
+    ],
+    "name": "Half-Life"
   },
   "7000": {
     "config_count": 1,
