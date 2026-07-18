@@ -7864,6 +7864,12 @@
     "appid": null,
     "method": "unresolved"
   },
+  "Strikers_Club": {
+    "appid": 1952920,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1952920/header.jpg",
+    "method": "naive",
+    "steam_name": "Strikers Club"
+  },
   "Stumble_Guys": {
     "appid": 1677740,
     "method": "naive",
@@ -9737,6 +9743,10 @@
   "gta_ss": {
     "appid": null,
     "method": "unresolved"
+  },
+  "gts_setup_1_32": {
+    "appid": null,
+    "method": "non-game"
   },
   "gunslugs3": {
     "appid": null,
