@@ -13195,7 +13195,7 @@
     "name": "PROJECT 13"
   },
   "275850": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Odin2",
@@ -13216,6 +13216,11 @@
         "d": "Adreno__TM__830",
         "m": "S938B",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "ASUS_AI2205_D",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -18864,6 +18869,14 @@
       "MADO_MONOGATARI_Fia_and_the_Wondrous_Academy"
     ],
     "name": "MADO MONOGATARI: Fia and the Wondrous Academy"
+  },
+  "380600": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "FishingPlanet"
+    ],
+    "name": "Fishing Planet"
   },
   "381210": {
     "config_count": 3,
@@ -26559,6 +26572,14 @@
       "CoD2SP_s"
     ],
     "name": "Cod2Sp S"
+  },
+  "name:dawn-of-war-soulstorm": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Dawn_of_War_-_Soulstorm"
+    ],
+    "name": "Dawn Of War Soulstorm"
   },
   "name:deus-ex-human-revolution-dc": {
     "config_count": 1,
