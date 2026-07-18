@@ -1,5 +1,12 @@
 [
   {
+    "game": "Launcher",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1784345989,
+    "filename": "Launcher-Anbernic-RG406V-Mali-G57-1784345989.json"
+  },
+  {
     "game": "ACBSP",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1784299349,
     "filename": "Heavy_Weapon-Samsung-SM-S928B-Adreno__TM__740-1784299349.json"
-  },
-  {
-    "game": "TombRaider",
-    "manufacturer": "moto_g42",
-    "device": "Adreno__TM__610",
-    "timestamp": 1784295624,
-    "filename": "TombRaider-motorola-moto_g42-Adreno__TM__610-1784295624.json"
   }
 ]
