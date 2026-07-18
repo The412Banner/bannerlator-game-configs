@@ -15359,7 +15359,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1001,
+    "config_count": 1003,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -26556,7 +26556,7 @@
     "name": "Gridautosport"
   },
   "name:gtaiv": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -26857,7 +26857,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1863,
+    "config_count": 1865,
     "devices": [
       {
         "d": "G52_MC2",
@@ -27545,11 +27545,6 @@
         "s": "Mali-G720-Immortalis MC12"
       },
       {
-        "d": "G68",
-        "m": "Mali",
-        "s": "Mali-G68"
-      },
-      {
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
@@ -27600,14 +27595,19 @@
         "s": "ANGLE ((Samsung Xclipse 920) on Vulkan 1.3.279)"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "23073RPBFL",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
