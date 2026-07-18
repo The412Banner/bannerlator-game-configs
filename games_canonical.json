@@ -6367,7 +6367,7 @@
     "name": "Marvel\u2019s Spider-Man Remastered"
   },
   "1817190": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -6408,6 +6408,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "RMX3661",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -12623,6 +12628,14 @@
       "LOLLIPOP_CHAINSAW_RePOP"
     ],
     "name": "LOLLIPOP CHAINSAW RePOP"
+  },
+  "2663450": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "RC_Revolution__High_Voltage"
+    ],
+    "name": "RC Revolution: High Voltage - \u514d\u8d39\u73a9"
   },
   "2663530": {
     "config_count": 1,
