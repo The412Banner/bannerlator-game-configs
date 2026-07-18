@@ -13461,6 +13461,14 @@
     ],
     "name": "BeamNG.drive"
   },
+  "285500": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Hard_Truck_Apocalypse___Ex_Machina"
+    ],
+    "name": "Hard Truck Apocalypse / Ex Machina"
+  },
   "2856190": {
     "config_count": 81,
     "devices": [
@@ -22918,8 +22926,13 @@
     "name": "Dead Cells"
   },
   "589090": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
+      {
+        "d": "G78",
+        "m": "Mali",
+        "s": "Mali-G78"
+      },
       {
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
@@ -22927,6 +22940,7 @@
       }
     ],
     "folders": [
+      "Counter-Strike_1_6__________________________________________",
       "Counter-Strike_1_6"
     ],
     "name": "Fantasy Grounds - CS1 After Winter's Dark: Aihrde Setting (Castles & Crusades)"
