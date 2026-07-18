@@ -50,6 +50,10 @@
     "appid": 812140,
     "method": "alias"
   },
+  "ACOrigins": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "AEWFightForever": {
     "appid": 1913210,
     "method": "naive",
@@ -130,6 +134,10 @@
     "appid": 2160360,
     "method": "naive",
     "steam_name": "Aero GPX"
+  },
+  "Age_of_Empires_II_Expansion": {
+    "appid": null,
+    "method": "unresolved"
   },
   "Age_of_Empires_II_HD": {
     "appid": 813780,
@@ -3570,7 +3578,6 @@
   },
   "Half-Life": {
     "appid": 70,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/70/header.jpg",
     "method": "naive",
     "steam_name": "Half-Life"
   },
