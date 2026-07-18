@@ -9434,7 +9434,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 10,
+    "config_count": 9,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -9458,8 +9458,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -13796,7 +13795,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "G615_MC2",
@@ -13836,7 +13835,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -27154,7 +27154,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1881,
+    "config_count": 1882,
     "devices": [
       {
         "d": "G52_MC2",
@@ -28431,6 +28431,14 @@
       "Pro_Evolution_Soccer_6_DEMO__________________________________________"
     ],
     "name": "PES 6"
+  },
+  "name:pes2010": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "pes2010"
+    ],
+    "name": "Pes2010"
   },
   "name:pes2018": {
     "config_count": 1,
