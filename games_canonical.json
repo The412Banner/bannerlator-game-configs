@@ -937,6 +937,14 @@
     ],
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
+  "1110100": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Power Rangers: Battle for the Grid"
+  },
   "1110910": {
     "config_count": 1,
     "devices": [
@@ -8657,7 +8665,7 @@
     "name": "Warhammer 40,000: Space Marine 2"
   },
   "2184260": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -8708,6 +8716,11 @@
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "NX9",
+        "s": "Adreno (TM) 720"
       }
     ],
     "folders": [
@@ -13312,14 +13325,6 @@
       "RIDE_6"
     ],
     "name": "RIDE 6"
-  },
-  "2816870": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Mighty Morphin Power Rangers: Rita's Rewind"
   },
   "281940": {
     "config_count": 1,
@@ -20023,6 +20028,14 @@
     ],
     "name": "SENRAN KAGURA SHINOVI VERSUS"
   },
+  "412020": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Metro_Exodus"
+    ],
+    "name": "Metro Exodus"
+  },
   "4121170": {
     "config_count": 3,
     "devices": [
@@ -21758,7 +21771,7 @@
     "name": "Left 4 Dead"
   },
   "50130": {
-    "config_count": 22,
+    "config_count": 23,
     "devices": [
       {
         "d": "MT6781",
@@ -21809,6 +21822,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "NX789S_V1B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
