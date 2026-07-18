@@ -8279,7 +8279,7 @@
     "name": "South Park\u2122: The Stick of Truth\u2122"
   },
   "2138330": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G610_MC3",
@@ -8290,6 +8290,11 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
+        "m": "A556E",
+        "s": "ANGLE ((Samsung Xclipse 530) on Vulkan 1.3.279)"
       }
     ],
     "folders": [
@@ -14606,7 +14611,7 @@
     "name": "Unturned"
   },
   "3050220": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "2412DPC0AG",
@@ -14637,6 +14642,11 @@
         "d": "Adreno__TM__650",
         "m": "G780G",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Immortalis_MC12",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC12"
       }
     ],
     "folders": [
@@ -17810,7 +17820,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -21748,7 +21758,7 @@
     "name": "Left 4 Dead"
   },
   "50130": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "MT6781",
