@@ -3189,7 +3189,7 @@
     "name": "The Mortuary Assistant"
   },
   "1297900": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G720_MC7",
@@ -3198,7 +3198,8 @@
       }
     ],
     "folders": [
-      "Gothic_1_Remake"
+      "Gothic_1_Remake",
+      "Gothic"
     ],
     "name": "Gothic 1 Remake"
   },
@@ -8774,7 +8775,7 @@
     "name": "Shave & Stuff"
   },
   "219990": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -13195,7 +13196,7 @@
     "name": "PROJECT 13"
   },
   "275850": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Odin2",
@@ -13216,11 +13217,6 @@
         "d": "Adreno__TM__830",
         "m": "S938B",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "ASUS_AI2205_D",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -19738,6 +19734,20 @@
       "Ys_X__Proud_Nordics"
     ],
     "name": "Ys X: Proud Nordics"
+  },
+  "39510": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "ASUS_AI2205_D",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Gothic_2"
+    ],
+    "name": "Gothic II: Gold Edition"
   },
   "3962150": {
     "config_count": 1,
