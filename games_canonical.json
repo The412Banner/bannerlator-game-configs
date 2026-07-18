@@ -5265,7 +5265,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 75,
+    "config_count": 76,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -9817,7 +9817,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 145,
+    "config_count": 146,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -10048,6 +10048,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "S901E",
+        "s": "Adreno (TM) 730"
       }
     ],
     "folders": [
@@ -13484,7 +13489,7 @@
     "name": "Hard Truck Apocalypse / Ex Machina"
   },
   "2856190": {
-    "config_count": 81,
+    "config_count": 82,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -13580,6 +13585,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "2509ARPBDG",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
@@ -14275,7 +14285,7 @@
     "name": "Heatwave"
   },
   "298110": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "G720_MC7",
@@ -14316,6 +14326,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S916B",
+        "s": "Adreno (TM) 740"
       },
       {
         "d": "Adreno__TM__750",
@@ -18883,8 +18898,14 @@
     "name": "MADO MONOGATARI: Fia and the Wondrous Academy"
   },
   "380600": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      }
+    ],
     "folders": [
       "FishingPlanet"
     ],
@@ -27109,7 +27130,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1871,
+    "config_count": 1873,
     "devices": [
       {
         "d": "G52_MC2",
@@ -27852,14 +27873,14 @@
         "s": "Adreno (TM) 730"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
@@ -27999,7 +28020,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 144,
+    "config_count": 145,
     "devices": [
       {
         "d": "G615_MC2",
