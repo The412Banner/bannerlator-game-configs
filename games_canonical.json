@@ -937,14 +937,6 @@
     ],
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
-  "1110100": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Power Rangers: Battle for the Grid"
-  },
   "1110910": {
     "config_count": 1,
     "devices": [
@@ -6367,7 +6359,7 @@
     "name": "Marvel\u2019s Spider-Man Remastered"
   },
   "1817190": {
-    "config_count": 15,
+    "config_count": 18,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -9150,7 +9142,7 @@
     "name": "Total Chaos"
   },
   "221040": {
-    "config_count": 57,
+    "config_count": 59,
     "devices": [
       {
         "d": "G720_MC7",
@@ -9196,11 +9188,6 @@
         "d": "Adreno__TM__660",
         "m": "F711B",
         "s": "Adreno (TM) 660"
-      },
-      {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
       },
       {
         "d": "Adreno__TM__740",
@@ -9261,6 +9248,11 @@
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       },
       {
         "d": "Adreno__TM__720",
@@ -9411,7 +9403,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -9435,7 +9427,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -9690,7 +9683,7 @@
     "name": "Squirrel Launcher"
   },
   "2254890": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "G720_MC8",
@@ -9731,10 +9724,16 @@
         "d": "Adreno__TM__650",
         "m": "PEDM00",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "22081281AC",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
-      "The_Killing_Antidote"
+      "The_Killing_Antidote",
+      "TheKillingAntidote"
     ],
     "name": "The Killing Antidote"
   },
@@ -13345,6 +13344,14 @@
     ],
     "name": "RIDE 6"
   },
+  "2816870": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Mighty Morphin Power Rangers: Rita's Rewind"
+  },
   "281940": {
     "config_count": 1,
     "devices": [],
@@ -13732,7 +13739,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 30,
+    "config_count": 29,
     "devices": [
       {
         "d": "G615_MC2",
@@ -13772,8 +13779,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
