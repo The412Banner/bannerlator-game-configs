@@ -8859,7 +8859,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 84,
+    "config_count": 83,
     "devices": [
       {
         "d": "S938B",
@@ -8985,6 +8985,11 @@
         "d": "Immortalis_MC11",
         "m": "G715",
         "s": "Mali-G715-Immortalis MC11"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "2304FPN6DG",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
