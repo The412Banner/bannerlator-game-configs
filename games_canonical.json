@@ -2746,7 +2746,7 @@
     "name": "Aladdin - Hidden Objects Game"
   },
   "1259240": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -4670,7 +4670,7 @@
     "name": "Cairn"
   },
   "1593500": {
-    "config_count": 120,
+    "config_count": 121,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -4798,11 +4798,6 @@
         "s": "Mali-G720-Immortalis MC12"
       },
       {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      },
-      {
         "d": "Adreno__TM__740",
         "m": "F731B",
         "s": "Adreno (TM) 740"
@@ -4851,6 +4846,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       },
       {
         "d": "Adreno__TM__619",
@@ -22538,6 +22538,20 @@
       "tattletail"
     ],
     "name": "Tattletail"
+  },
+  "568220": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "256",
+        "m": "8",
+        "s": "PowerVR B-Series BXM-8-256"
+      }
+    ],
+    "folders": [
+      "LobotomyCorp"
+    ],
+    "name": "Lobotomy Corporation | Monster Management Simulation"
   },
   "568570": {
     "config_count": 1,
