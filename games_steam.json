@@ -45,6 +45,12 @@
     "appid": 242050,
     "method": "alias"
   },
+  "ACE_COMBAT_7__SKIES_UNKNOWN": {
+    "appid": 502500,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/502500/header.jpg",
+    "method": "naive",
+    "steam_name": "ACE COMBAT\u2122 7: SKIES UNKNOWN"
+  },
   "ACOdyssey": {
     "appid": 812140,
     "method": "alias"
@@ -760,6 +766,12 @@
     "appid": 3199170,
     "method": "naive",
     "steam_name": "Blood Strike"
+  },
+  "Blood_Spear": {
+    "appid": 1638660,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1638660/header.jpg",
+    "method": "naive",
+    "steam_name": "Blood Spear"
   },
   "Blood_West": {
     "appid": 1587130,
@@ -2238,6 +2250,12 @@
     "appid": 3293010,
     "method": "naive",
     "steam_name": "Easy Delivery Co."
+  },
+  "Easy_Red_2": {
+    "appid": 1324780,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1324780/header.jpg",
+    "method": "naive",
+    "steam_name": "Easy Red 2"
   },
   "Eiyuden_Chronicle__Hundred_Heroes": {
     "appid": 1658280,
@@ -9034,6 +9052,12 @@
   },
   "Watch_Dogs_": {
     "appid": 447040,
+    "method": "naive",
+    "steam_name": "Watch_Dogs\u00ae 2"
+  },
+  "Watch_Dogs_2": {
+    "appid": 447040,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/447040/header.jpg",
     "method": "naive",
     "steam_name": "Watch_Dogs\u00ae 2"
   },

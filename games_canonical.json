@@ -321,7 +321,7 @@
     "name": "Shank 2"
   },
   "1030300": {
-    "config_count": 35,
+    "config_count": 36,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -916,7 +916,7 @@
     "name": "L.A. Noire"
   },
   "1108590": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "Eldest_Souls"
@@ -3283,6 +3283,14 @@
     ],
     "name": "Iron Meat Demo"
   },
+  "1324780": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Easy_Red_2"
+    ],
+    "name": "Easy Red 2"
+  },
   "1325200": {
     "config_count": 1,
     "devices": [
@@ -5036,6 +5044,14 @@
       "Minishoot__Adventures"
     ],
     "name": "Minishoot' Adventures"
+  },
+  "1638660": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Blood_Spear"
+    ],
+    "name": "Blood Spear"
   },
   "1640382": {
     "config_count": 1,
@@ -8451,7 +8467,7 @@
     "name": "Don Bradman Cricket 14"
   },
   "2163330": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "Yet_Another_Zombie_Survivors"
@@ -10216,7 +10232,7 @@
     "name": "Eador. Masters of the Broken World"
   },
   "2321780": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "Starship_Troopers__Ultimate_Bug_War_"
@@ -14584,7 +14600,7 @@
     "name": "Unturned"
   },
   "3050220": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "2412DPC0AG",
@@ -20737,7 +20753,7 @@
     "name": "Farming Simulator 17"
   },
   "447040": {
-    "config_count": 42,
+    "config_count": 43,
     "devices": [
       {
         "d": "G720_MC7",
@@ -20828,6 +20844,11 @@
         "d": "Adreno__TM__730",
         "m": "CPH2305",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_FIT",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -20835,7 +20856,8 @@
       "Watch_Dogs",
       "Watch_Dogs_",
       "Watch_Dogs__2",
-      "watch_dogs_2"
+      "watch_dogs_2",
+      "Watch_Dogs_2"
     ],
     "name": "Watch_Dogs\u00ae 2"
   },
@@ -21799,6 +21821,14 @@
       "BERSERK_and_the_Band_of_the_Hawk"
     ],
     "name": "BERSERK and the Band of the Hawk"
+  },
+  "502500": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "ACE_COMBAT_7__SKIES_UNKNOWN"
+    ],
+    "name": "ACE COMBAT\u2122 7: SKIES UNKNOWN"
   },
   "502820": {
     "config_count": 3,
@@ -23073,7 +23103,7 @@
     "name": "Blazing Chrome"
   },
   "612880": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Retroid_Pocket_5",
@@ -24149,7 +24179,7 @@
     "name": "Hakuoki: Edo Blossoms"
   },
   "740130": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "Tales_of_ARISE",
@@ -24348,7 +24378,7 @@
     "name": "Electric Bench - Unreal Engine 5 Benchmark"
   },
   "774361": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -26164,7 +26194,7 @@
     "name": "STORY OF SEASONS: Friends of Mineral Town"
   },
   "979690": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "The_Ascent"
@@ -26252,6 +26282,20 @@
       "1-GRAND_THEFT_AUTO_V_-_NORMAL"
     ],
     "name": "1 Grand Theft Auto V Normal"
+  },
+  "name:acbsp": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
+      }
+    ],
+    "folders": [
+      "ACBSP"
+    ],
+    "name": "Acbsp"
   },
   "name:acrsp": {
     "config_count": 1,
