@@ -1399,7 +1399,7 @@
     "name": "Captain Tsubasa: Rise of New Champions"
   },
   "1167630": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -1410,6 +1410,11 @@
         "d": "Adreno__TM__710",
         "m": "motorola_edge_50_fusion",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       }
     ],
     "folders": [
@@ -8503,7 +8508,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 77,
+    "config_count": 79,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -15412,7 +15417,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1003,
+    "config_count": 1004,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -26960,7 +26965,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1867,
+    "config_count": 1868,
     "devices": [
       {
         "d": "G52_MC2",
@@ -27121,11 +27126,6 @@
         "d": "Adreno__TM__650",
         "m": "M2012K11AG",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "S901E",
-        "s": "Adreno (TM) 730"
       },
       {
         "d": "Adreno__TM__640",
@@ -27711,6 +27711,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "S901E",
+        "s": "Adreno (TM) 730"
       },
       {
         "d": "Adreno__TM__740",
@@ -28380,6 +28385,14 @@
       "SkyrimSE"
     ],
     "name": "Skyrimse"
+  },
+  "name:sottr": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "SOTTR"
+    ],
+    "name": "Sottr"
   },
   "name:sparkingzero-win64-shipping": {
     "config_count": 1,
