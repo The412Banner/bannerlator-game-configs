@@ -26426,7 +26426,7 @@
     "name": "Bejewelled 3"
   },
   "name:bf3": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "bf3"
@@ -26999,7 +26999,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1868,
+    "config_count": 1869,
     "devices": [
       {
         "d": "G52_MC2",
@@ -27742,14 +27742,14 @@
         "s": "Mali-G68"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__730",
         "m": "S901E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
