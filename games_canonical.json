@@ -2841,7 +2841,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 36,
+    "config_count": 37,
     "devices": [
       {
         "d": "G57_MC2",
@@ -2892,6 +2892,11 @@
         "d": "Adreno__TM__840",
         "m": "25102PCBEG",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "G78",
+        "m": "Mali",
+        "s": "Mali-G78"
       },
       {
         "d": "Adreno__TM__22",
@@ -13190,7 +13195,7 @@
     "name": "PROJECT 13"
   },
   "275850": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Odin2",
@@ -13211,11 +13216,6 @@
         "d": "Adreno__TM__830",
         "m": "S938B",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "ASUS_AI2205_D",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -16639,7 +16639,7 @@
     "name": "NINJA GAIDEN 2 Black"
   },
   "329050": {
-    "config_count": 37,
+    "config_count": 36,
     "devices": [
       {
         "d": "G57",
