@@ -4201,7 +4201,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 55,
+    "config_count": 56,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -14766,7 +14766,7 @@
     "name": "The Long Dark"
   },
   "3059520": {
-    "config_count": 12,
+    "config_count": 14,
     "devices": [
       {
         "d": "G57_MC2",
@@ -15519,7 +15519,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1009,
+    "config_count": 1011,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -15655,6 +15655,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S918B",
+        "s": "Adreno (TM) 740"
       },
       {
         "d": "QCS8550",
@@ -16239,11 +16244,6 @@
       {
         "d": "Adreno__TM__740",
         "m": "F946B",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S918B",
         "s": "Adreno (TM) 740"
       },
       {
@@ -27154,7 +27154,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1882,
+    "config_count": 1885,
     "devices": [
       {
         "d": "G52_MC2",
@@ -27577,11 +27577,6 @@
         "s": "PowerVR Rogue GE8320"
       },
       {
-        "d": "Adreno__TM__650",
-        "m": "G780G",
-        "s": "Adreno (TM) 650"
-      },
-      {
         "d": "Adreno__TM__512",
         "m": "MI_8_Lite",
         "s": "Adreno (TM) 512"
@@ -27892,11 +27887,6 @@
         "s": "Mali-G76 MC4"
       },
       {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      },
-      {
         "d": "256",
         "m": "8",
         "s": "PowerVR B-Series BXM-8-256"
@@ -27905,6 +27895,16 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "G780G",
+        "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__740",
@@ -28431,6 +28431,14 @@
       "Pro_Evolution_Soccer_6_DEMO__________________________________________"
     ],
     "name": "PES 6"
+  },
+  "name:pes-lxpes": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "PES_LXPES"
+    ],
+    "name": "PES Lxpes"
   },
   "name:pes2010": {
     "config_count": 1,
