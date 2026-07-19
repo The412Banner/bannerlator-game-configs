@@ -404,6 +404,11 @@
         "s": "Adreno (TM) 830"
       },
       {
+        "d": "Adreno__TM__650",
+        "m": "G981U",
+        "s": "Adreno (TM) 650"
+      },
+      {
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
@@ -412,18 +417,13 @@
         "d": "Adreno__TM__829",
         "m": "V2536A",
         "s": "Adreno (TM) 829"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "G981U",
-        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
       "MAFIA_II",
       "Mafia_2",
-      "Mafia_II__Definitive_Edition",
-      "Mafia_II"
+      "Mafia_II",
+      "Mafia_II__Definitive_Edition"
     ],
     "name": "Mafia II: Definitive Edition"
   },
@@ -612,6 +612,14 @@
       "Arma_3"
     ],
     "name": "Arma 3"
+  },
+  "1080920": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GRID_2"
+    ],
+    "name": "Defense Grid 2 - Aftermath"
   },
   "108600": {
     "config_count": 1,
@@ -947,6 +955,14 @@
       "VK_com"
     ],
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
+  },
+  "1110100": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Power Rangers: Battle for the Grid"
   },
   "1110910": {
     "config_count": 1,
@@ -9399,7 +9415,7 @@
     "name": "Five Nights at Freddy's: Secret of the Mimic"
   },
   "221540": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "GRID_2"
@@ -13395,14 +13411,6 @@
       "RIDE_6"
     ],
     "name": "RIDE 6"
-  },
-  "2816870": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Mighty Morphin Power Rangers: Rita's Rewind"
   },
   "281940": {
     "config_count": 1,
@@ -23701,7 +23709,7 @@
     "name": "Jurassic World Evolution"
   },
   "648800": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "G720_MC7",
@@ -28761,6 +28769,14 @@
       "TLauncher-Installer-1_9_5_1"
     ],
     "name": "Tlauncher Installer 1 9 5 1"
+  },
+  "name:tomb-raider-asia-en-zh-ko-copy": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Tomb_Raider__Asia___En_Zh_Ko__Copy_"
+    ],
+    "name": "Tomb Raider Asia En Zh Ko Copy"
   },
   "name:twfc": {
     "config_count": 1,
