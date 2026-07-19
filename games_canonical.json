@@ -391,7 +391,7 @@
     "name": "Hollow Knight: Silksong"
   },
   "1030830": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "G57_MC2",
@@ -412,12 +412,18 @@
         "d": "Adreno__TM__829",
         "m": "V2536A",
         "s": "Adreno (TM) 829"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "G981U",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
       "MAFIA_II",
       "Mafia_2",
-      "Mafia_II__Definitive_Edition"
+      "Mafia_II__Definitive_Edition",
+      "Mafia_II"
     ],
     "name": "Mafia II: Definitive Edition"
   },
@@ -5275,7 +5281,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 76,
+    "config_count": 77,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -26728,20 +26734,6 @@
     ],
     "name": "Dirt Showdown"
   },
-  "name:dirt3": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__618",
-        "m": "M2007J20CG",
-        "s": "Adreno (TM) 618"
-      }
-    ],
-    "folders": [
-      "dirt3"
-    ],
-    "name": "Dirt3"
-  },
   "name:dungeons-of-infinity": {
     "config_count": 1,
     "devices": [
@@ -26905,7 +26897,7 @@
     "name": "Gridautosport"
   },
   "name:gtaiv": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -27214,7 +27206,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1889,
+    "config_count": 1891,
     "devices": [
       {
         "d": "G52_MC2",
@@ -27489,11 +27481,6 @@
       {
         "d": "Adreno__TM__610",
         "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "220333QAG",
         "s": "Adreno (TM) 610"
       },
       {
@@ -27947,11 +27934,6 @@
         "s": "PowerVR B-Series BXM-8-256"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "G780G",
         "s": "Adreno (TM) 650"
@@ -27965,6 +27947,16 @@
         "d": "Adreno__TM__642L",
         "m": "A528B",
         "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "220333QAG",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__740",
