@@ -8480,20 +8480,6 @@
     ],
     "name": "LEGO\u00ae The Lord of the Rings\u2122"
   },
-  "215259": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "S936U",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "GangLand"
-    ],
-    "name": "Sleeping Dogs: Gangland Style Pack"
-  },
   "2153350": {
     "config_count": 1,
     "devices": [],
@@ -11452,20 +11438,6 @@
       "SSSS"
     ],
     "name": "The Legend of Heroes: Trails into Reverie - SSS Summer Splash Set"
-  },
-  "244210": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "G77_MC9",
-        "m": "Mali",
-        "s": "Mali-G77 MC9"
-      }
-    ],
-    "folders": [
-      "Assetto_Corsa"
-    ],
-    "name": "Assetto Corsa"
   },
   "2444750": {
     "config_count": 1,
@@ -18444,7 +18416,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 13,
+    "config_count": 12,
     "devices": [
       {
         "d": "G68_MC4",
@@ -18460,22 +18432,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "2211133C",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE",
-      "Ori"
+      "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -25861,14 +25822,6 @@
     ],
     "name": "Cat Quest II"
   },
-  "917040": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "KikiKaikai"
-    ],
-    "name": "Groove Coaster - KIKIKAIKAI"
-  },
   "919410": {
     "config_count": 1,
     "devices": [
@@ -26946,6 +26899,20 @@
     ],
     "name": "Final Fantasy Renaissance 2 2 6 32 Bit"
   },
+  "name:gangland": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S936U",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "GangLand"
+    ],
+    "name": "Gangland"
+  },
   "name:ge2rb": {
     "config_count": 1,
     "devices": [],
@@ -27032,6 +26999,14 @@
       "JUMP_FORCE"
     ],
     "name": "Jump Force"
+  },
+  "name:kikikaikai": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "KikiKaikai"
+    ],
+    "name": "Kikikaikai"
   },
   "name:kinebox": {
     "config_count": 1,
@@ -27210,6 +27185,25 @@
       "Oblivion_Lost_Remake"
     ],
     "name": "Oblivion Lost Remake"
+  },
+  "name:ori": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Ori"
+    ],
+    "name": "Ori"
   },
   "name:pes": {
     "config_count": 1,
@@ -28420,7 +28414,7 @@
     "name": "PES 2017"
   },
   "name:pes-2018": {
-    "config_count": 26,
+    "config_count": 27,
     "devices": [
       {
         "d": "G57",
@@ -28734,6 +28728,20 @@
       "S_T_A_L_K_E_R__Anomaly_DX8"
     ],
     "name": "S T A L K E R Anomaly Dx8"
+  },
+  "name:secretflashermanaka": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__613",
+        "m": "V2354A",
+        "s": "Adreno (TM) 613"
+      }
+    ],
+    "folders": [
+      "SecretFlasherManaka"
+    ],
+    "name": "Secretflashermanaka"
   },
   "name:shfix": {
     "config_count": 1,
