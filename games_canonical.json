@@ -17912,12 +17912,17 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__610",
         "m": "moto_g42",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
       }
     ],
     "folders": [
@@ -26897,6 +26902,14 @@
     ],
     "name": "Gtavlauncher"
   },
+  "name:hkship": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "HKShip"
+    ],
+    "name": "Hkship"
+  },
   "name:ikenai-kozukuri": {
     "config_count": 1,
     "devices": [],
@@ -27174,7 +27187,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1885,
+    "config_count": 1889,
     "devices": [
       {
         "d": "G52_MC2",
