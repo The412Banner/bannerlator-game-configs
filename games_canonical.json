@@ -22309,7 +22309,7 @@
     "name": "Da Capo 3 R"
   },
   "543870": {
-    "config_count": 16,
+    "config_count": 17,
     "devices": [
       {
         "d": "moto_e13",
@@ -22340,6 +22340,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "A057M",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
@@ -26890,6 +26895,14 @@
     ],
     "name": "Final Fantasy Renaissance 2 2 6 32 Bit"
   },
+  "name:ge2rb": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GE2RB"
+    ],
+    "name": "Ge2Rb"
+  },
   "name:gridautosport": {
     "config_count": 1,
     "devices": [
@@ -28109,7 +28122,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 146,
+    "config_count": 147,
     "devices": [
       {
         "d": "G615_MC2",
@@ -28305,6 +28318,11 @@
         "d": "Adreno__TM__725",
         "m": "23049PCD8G",
         "s": "Adreno (TM) 725"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "22111317PG",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__740",
