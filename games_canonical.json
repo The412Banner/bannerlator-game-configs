@@ -4225,6 +4225,20 @@
     ],
     "name": "Lords of the Fallen"
   },
+  "1503030": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC3",
+        "m": "Mali",
+        "s": "Mali-G57 MC3"
+      }
+    ],
+    "folders": [
+      "Street_Fighter_V__c__Capcom_________________________________"
+    ],
+    "name": "Street Fighter V - Capcom Pro Tour: 2021 Premier Pass"
+  },
   "1506830": {
     "config_count": 56,
     "devices": [
@@ -9754,7 +9768,7 @@
     "name": "Tomb Raider II (1997)"
   },
   "2254490": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -9765,6 +9779,11 @@
         "d": "Adreno__TM__619",
         "m": "CPH2529",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__644",
+        "m": "E556B",
+        "s": "Adreno (TM) 644"
       }
     ],
     "folders": [
