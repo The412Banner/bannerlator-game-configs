@@ -19790,6 +19790,20 @@
     ],
     "name": "Undertale"
   },
+  "3917060": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
+      }
+    ],
+    "folders": [
+      "MDS"
+    ],
+    "name": "MDS: Metro dispatcher simulator"
+  },
   "391720": {
     "config_count": 27,
     "devices": [
@@ -27418,7 +27432,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1900,
+    "config_count": 1901,
     "devices": [
       {
         "d": "G52_MC2",
@@ -28169,6 +28183,11 @@
         "d": "Adreno__TM__610",
         "m": "A057M",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "25118PC98G",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__740",
