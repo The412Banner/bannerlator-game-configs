@@ -4620,6 +4620,20 @@
     ],
     "name": "SuperTux"
   },
+  "1574140": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__650",
+        "m": "G988N",
+        "s": "Adreno (TM) 650"
+      }
+    ],
+    "folders": [
+      "Dirt4"
+    ],
+    "name": "TIME FOR YOU - CHAPTER 02 - DIRTY THOUGHTS AND CORPORATE BOTS"
+  },
   "1574820": {
     "config_count": 1,
     "devices": [
@@ -4657,7 +4671,7 @@
     "name": "Online Adult Content Manager"
   },
   "1580790": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G720_MC7",
@@ -5938,12 +5952,17 @@
     "name": "DRAGON BALL Z: KAKAROT Demo"
   },
   "1766740": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "S938B",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -8479,6 +8498,20 @@
       "LEGO__The_Lord_of_the_Rings_"
     ],
     "name": "LEGO\u00ae The Lord of the Rings\u2122"
+  },
+  "215259": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S936U",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "GangLand"
+    ],
+    "name": "Sleeping Dogs: Gangland Style Pack"
   },
   "2153350": {
     "config_count": 1,
@@ -14867,7 +14900,7 @@
     "name": "MotoGP\u212225"
   },
   "307780": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -14913,6 +14946,11 @@
         "d": "Adreno__TM__750",
         "m": "23127PN0CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G57_MC3",
+        "m": "Mali",
+        "s": "Mali-G57 MC3"
       }
     ],
     "folders": [
@@ -16997,7 +17035,7 @@
     "name": "Transformice"
   },
   "3357650": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -17008,6 +17046,11 @@
         "d": "Adreno__TM__750",
         "m": "Pocket_FIT",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "I2401",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "G615_MC6",
@@ -18416,7 +18459,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "G68_MC4",
@@ -18432,11 +18475,22 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE"
+      "oriDE",
+      "Ori"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -20693,14 +20747,6 @@
       "Tales_of_Berseria_"
     ],
     "name": "Tales of Berseria\u2122"
-  },
-  "429790": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "AdventureQuest_3D"
-    ],
-    "name": "AdventureQuest 3D"
   },
   "4307720": {
     "config_count": 1,
@@ -24792,7 +24838,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 16,
+    "config_count": 17,
     "devices": [
       {
         "d": "G720_MC7",
@@ -24828,6 +24874,11 @@
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "RMX2061",
+        "s": "Adreno (TM) 618"
       }
     ],
     "folders": [
@@ -25821,6 +25872,14 @@
       "Cat_Quest_II"
     ],
     "name": "Cat Quest II"
+  },
+  "917040": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "KikiKaikai"
+    ],
+    "name": "Groove Coaster - KIKIKAIKAI"
   },
   "919410": {
     "config_count": 1,
@@ -26899,20 +26958,6 @@
     ],
     "name": "Final Fantasy Renaissance 2 2 6 32 Bit"
   },
-  "name:gangland": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "S936U",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "GangLand"
-    ],
-    "name": "Gangland"
-  },
   "name:ge2rb": {
     "config_count": 1,
     "devices": [],
@@ -26999,14 +27044,6 @@
       "JUMP_FORCE"
     ],
     "name": "Jump Force"
-  },
-  "name:kikikaikai": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "KikiKaikai"
-    ],
-    "name": "Kikikaikai"
   },
   "name:kinebox": {
     "config_count": 1,
@@ -27186,25 +27223,6 @@
     ],
     "name": "Oblivion Lost Remake"
   },
-  "name:ori": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "2211133C",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "Ori"
-    ],
-    "name": "Ori"
-  },
   "name:pes": {
     "config_count": 1,
     "devices": [],
@@ -27296,7 +27314,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1891,
+    "config_count": 1895,
     "devices": [
       {
         "d": "G52_MC2",
@@ -27860,11 +27878,6 @@
       },
       {
         "d": "Adreno__TM__610",
-        "m": "A057M",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__610",
         "m": "Redmi_Note_8",
         "s": "Adreno (TM) 610"
       },
@@ -27887,11 +27900,6 @@
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
-      },
-      {
-        "d": "PowerVR_Rogue_GE8320",
-        "m": "moto_g22",
-        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "Adreno__TM__610",
@@ -28039,14 +28047,24 @@
         "s": "Adreno (TM) 642L"
       },
       {
+        "d": "Adreno__TM__610",
+        "m": "220333QAG",
+        "s": "Adreno (TM) 610"
+      },
+      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__610",
-        "m": "220333QAG",
+        "m": "A057M",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "moto_g22",
+        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "Adreno__TM__740",
