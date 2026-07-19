@@ -674,12 +674,17 @@
     "name": "The Gunk"
   },
   "108800": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
       }
     ],
     "folders": [
@@ -15525,7 +15530,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1011,
+    "config_count": 1013,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -19243,7 +19248,7 @@
     "name": "Pacer"
   },
   "389730": {
-    "config_count": 32,
+    "config_count": 33,
     "devices": [
       {
         "d": "SM8850",
@@ -19324,6 +19329,11 @@
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "S928B",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -25453,7 +25463,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 81,
+    "config_count": 82,
     "devices": [
       {
         "d": "s5e8855",
@@ -25614,6 +25624,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "moto_g200_5G",
+        "s": "Adreno (TM) 660"
       },
       {
         "d": "Adreno__TM__840",
@@ -26712,6 +26727,20 @@
       "Dirt_Showdown"
     ],
     "name": "Dirt Showdown"
+  },
+  "name:dirt3": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__618",
+        "m": "M2007J20CG",
+        "s": "Adreno (TM) 618"
+      }
+    ],
+    "folders": [
+      "dirt3"
+    ],
+    "name": "Dirt3"
   },
   "name:dungeons-of-infinity": {
     "config_count": 1,
