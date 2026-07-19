@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "Xiaomi 24117RK2CG",
+    "soc": "Adreno (TM) 750",
+    "bh_version": "2.6.2",
+    "upload_token": "3a8bf082e8659906",
+    "settings_count": 10,
+    "components_count": 4
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"3.0-gplasync-fc099e49-0\"}",
+    "pc_ls_VK3k": "{\"name\":\"3.0b-0\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"Turnip v26.2.0-R5_kgsl\"}",
+    "pc_set_constant_95": "{\"name\":\"FEXCore-2607-4\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"Wine-11.0-1-arm64ec-1\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-legacy",
+    "pc_ls_AUDIO_DRIVER": "1",
+    "pc_ls_update_enable_xinput": true,
+    "pc_ls_environment_variable": "PULSE_LATENCY_MSEC=30 WINE_NEW_MEDIASOURCE=1 BOX64_RDTSC_1GHZ=1",
+    "bl_ext": {
+      "dxwrapper": "dxvk+vkd3d",
+      "screenSize": "854x480",
+      "renderer": "vulkan",
+      "sfCompatMode": "1",
+      "fullscreenMode": "0",
+      "frameGenEngine": "lsfg",
+      "fpsLimiterEnabled": "1",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "reshadeLoadout": "[{\"name\":\"FakeMotionBlur\",\"enabled\":false}]",
+      "reshadeMode": "solo",
+      "reshadeParams": "{\"FakeMotionBlur\":{\"mbSoftness\":1,\"mbRecall\":0.4000000059604645}}",
+      "reshadeEffect": "FakeMotionBlur",
+      "emulator": "fexcore",
+      "box64Version": "0.3.7",
+      "box64Preset": "PERFORMANCE",
+      "fexcorePreset": "CUSTOM-1",
+      "cpuList": "0,1,2,3",
+      "startupSelection": "2",
+      "inputType": "4",
+      "exclusiveXInput": "1",
+      "simTouchScreen": "0",
+      "numControllers": "1",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1",
+      "lc_all": "en_US.UTF-8",
+      "autoCloseOnExit": "1",
+      "dxwrapperConfig": "version=3.0-gplasync-fc099e49-0,framerate=0,maxDeviceMemory=0,async=1,asyncCache=0,vkd3dVersion=3.0b-0,vkd3dLevel=12_2,tearFree=Auto,maxFrameLatency=1,tilerMode=True,deferSurfaceCreation=0,disableMsaa=0,maxTessFactor=0,syncInterval=-1,maxFeatureLevel=12_1,forceRefreshRate=0,shaderModel=3,floatEmulation=Auto,samplerAnisotropy=-1,enableMemoryDefrag=Auto,lowerSinCos=Auto,clampNegativeLodBias=Auto,samplerLodBias=0.0,numCompilerThreads=0,enableGraphicsPipelineLibrary=Auto,relaxedBarriers=Auto,ddrawrapper=cnc-ddraw,dxvkConfigFile="
+    }
+  },
+  "components": [
+    {
+      "name": "3.0-gplasync-fc099e49-0",
+      "type": "DXVK"
+    },
+    {
+      "name": "3.0b-0",
+      "type": "VKD3D"
+    },
+    {
+      "name": "Turnip v26.2.0-R5_kgsl",
+      "type": "GPU"
+    },
+    {
+      "name": "FEXCore-2607-4",
+      "type": "FEXCore"
+    }
+  ]
+}
