@@ -7285,7 +7285,7 @@
     "name": "Assassin's Creed\u00ae Revelations"
   },
   "202170": {
-    "config_count": 50,
+    "config_count": 51,
     "devices": [
       {
         "d": "MT6878",
@@ -7386,12 +7386,18 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
       "Sleeping_Dogs",
       "Sleeping_Dogs_",
-      "Sleeping_Dogs_-_Definitive_Edition__________________________"
+      "Sleeping_Dogs_-_Definitive_Edition__________________________",
+      "SleepingDogs"
     ],
     "name": "Sleeping Dogs"
   },
@@ -14025,7 +14031,7 @@
     "name": "Attack on Titan 3 - A.O.T.3"
   },
   "292030": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "Odin2",
@@ -26901,14 +26907,6 @@
       "GTAVLauncher"
     ],
     "name": "Gtavlauncher"
-  },
-  "name:hkship": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "HKShip"
-    ],
-    "name": "Hkship"
   },
   "name:ikenai-kozukuri": {
     "config_count": 1,
