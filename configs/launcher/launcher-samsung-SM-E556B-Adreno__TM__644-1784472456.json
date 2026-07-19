@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "samsung SM-E556B",
+    "soc": "Adreno (TM) 644",
+    "bh_version": "2.6.1",
+    "upload_token": "5ed8c415b596909e",
+    "settings_count": 8,
+    "components_count": 3
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"2.3.1-arm64ec-gplasync\"}",
+    "pc_ls_VK3k": "{\"name\":\"2.14.1-arm64ec-0\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"turnip-sdk36\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"proton-9.0-arm64ec\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-original",
+    "pc_ls_AUDIO_DRIVER": "1",
+    "pc_ls_environment_variable": "WRAPPER_MAX_IMAGE_COUNT=0 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=512MB mesa_glthread=true WINEESYNC=1 TU_DEBUG=sysmem,noconform",
+    "bl_ext": {
+      "dxwrapper": "dxvk+vkd3d",
+      "screenSize": "1280x720",
+      "renderer": "vulkan",
+      "fullscreenMode": "0",
+      "frameGenEngine": "lsfg",
+      "reshadeMode": "solo",
+      "reshadeEffect": "None",
+      "emulator": "box64",
+      "box64Version": "0.4.3-0",
+      "box64Preset": "EXTREME",
+      "fexcorePreset": "PERFORMANCE",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1",
+      "lc_all": "en_IN.UTF-8",
+      "dxwrapperConfig": "version=2.3.1-arm64ec-gplasync,framerate=0,async=1,asyncCache=1,vkd3dVersion=2.14.1-arm64ec-0,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfigFile="
+    }
+  },
+  "components": [
+    {
+      "name": "2.3.1-arm64ec-gplasync",
+      "type": "DXVK"
+    },
+    {
+      "name": "2.14.1-arm64ec-0",
+      "type": "VKD3D"
+    },
+    {
+      "name": "turnip-sdk36",
+      "type": "GPU"
+    }
+  ]
+}
