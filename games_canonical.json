@@ -18516,6 +18516,20 @@
     ],
     "name": "Yakuza Kiwami 2"
   },
+  "3722330": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      }
+    ],
+    "folders": [
+      "AT"
+    ],
+    "name": "Shift At Midnight"
+  },
   "3730570": {
     "config_count": 1,
     "devices": [
@@ -24244,8 +24258,14 @@
     "name": "Starship EVO"
   },
   "71340": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      }
+    ],
     "folders": [
       "Sonic_Generations"
     ],
@@ -27522,11 +27542,6 @@
         "s": "PowerVR Rogue GE8320"
       },
       {
-        "d": "Adreno__TM__642L",
-        "m": "A528B",
-        "s": "Adreno (TM) 642L"
-      },
-      {
         "d": "Adreno__TM__618",
         "m": "A715F",
         "s": "Adreno (TM) 618"
@@ -27905,6 +27920,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__642L",
+        "m": "A528B",
+        "s": "Adreno (TM) 642L"
       },
       {
         "d": "Adreno__TM__740",
