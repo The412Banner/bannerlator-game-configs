@@ -956,14 +956,6 @@
     ],
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
-  "1110100": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Power Rangers: Battle for the Grid"
-  },
   "1110910": {
     "config_count": 1,
     "devices": [
@@ -9798,14 +9790,14 @@
         "s": "Adreno (TM) 825"
       },
       {
-        "d": "Adreno__TM__619",
-        "m": "CPH2529",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__644",
         "m": "E556B",
         "s": "Adreno (TM) 644"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "CPH2529",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -13472,6 +13464,14 @@
       "RIDE_6"
     ],
     "name": "RIDE 6"
+  },
+  "2816870": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Mighty Morphin Power Rangers: Rita's Rewind"
   },
   "281940": {
     "config_count": 1,
@@ -27389,7 +27389,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1897,
+    "config_count": 1899,
     "devices": [
       {
         "d": "G52_MC2",
