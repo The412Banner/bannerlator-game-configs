@@ -2109,6 +2109,12 @@
     "method": "naive",
     "steam_name": "Drift Legends 2"
   },
+  "Drive_Beyond_Horizons_Demo": {
+    "appid": 2859390,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2859390/header.jpg",
+    "method": "naive",
+    "steam_name": "Drive Beyond Horizons Demo"
+  },
   "Driver": {
     "appid": 920490,
     "method": "naive",
@@ -6178,6 +6184,10 @@
     "method": "fuzzy",
     "steam_name": "eFootball\u2122"
   },
+  "Pes_2017xzxzzzz": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "Pes_Soccer_2013": {
     "appid": "name:pes-2013",
     "method": "alias"
@@ -8721,6 +8731,10 @@
     "method": "unresolved"
   },
   "Transformers_Devastation": {
+    "appid": null,
+    "method": "unresolved"
+  },
+  "Transformers_TM____Revenge_Of_The_Fallen_TM_": {
     "appid": null,
     "method": "unresolved"
   },

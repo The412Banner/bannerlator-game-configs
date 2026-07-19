@@ -956,6 +956,14 @@
     ],
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
+  "1110100": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Power Rangers: Battle for the Grid"
+  },
   "1110910": {
     "config_count": 1,
     "devices": [
@@ -4743,7 +4751,7 @@
     "name": "Cairn"
   },
   "1593500": {
-    "config_count": 122,
+    "config_count": 123,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -4929,6 +4937,11 @@
         "d": "Adreno__TM__730",
         "m": "22081212UG",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23021RAAEG",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__619",
@@ -6868,7 +6881,7 @@
     "name": "Nomad Survival"
   },
   "1938090": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -6877,7 +6890,8 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_"
+      "Call_of_Duty_",
+      "Call_Of_Duty_MW2"
     ],
     "name": "Call of Duty\u00ae"
   },
@@ -8413,7 +8427,7 @@
     "name": "Cyberpunk 2077: Phantom Liberty"
   },
   "2138710": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -8429,11 +8443,6 @@
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
-      },
-      {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
       },
       {
         "d": "Adreno__TM__650",
@@ -8454,6 +8463,11 @@
         "d": "Adreno__TM__610",
         "m": "A057M",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       }
     ],
     "folders": [
@@ -13459,14 +13473,6 @@
     ],
     "name": "RIDE 6"
   },
-  "2816870": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Mighty Morphin Power Rangers: Rita's Rewind"
-  },
   "281940": {
     "config_count": 1,
     "devices": [],
@@ -13718,6 +13724,20 @@
       "Gang_Beasts"
     ],
     "name": "Gang Beasts"
+  },
+  "2859390": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "Drive_Beyond_Horizons_Demo"
+    ],
+    "name": "Drive Beyond Horizons Demo"
   },
   "2860450": {
     "config_count": 1,
@@ -15618,7 +15638,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1014,
+    "config_count": 1015,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -27369,7 +27389,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1896,
+    "config_count": 1897,
     "devices": [
       {
         "d": "G52_MC2",
@@ -28102,11 +28122,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "A057M",
         "s": "Adreno (TM) 610"
@@ -28120,6 +28135,11 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
