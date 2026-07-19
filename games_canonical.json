@@ -777,6 +777,14 @@
     ],
     "name": "B.U.G. Force"
   },
+  "1096580": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "CLOS2"
+    ],
+    "name": "Two Point Hospital: Close Encounters"
+  },
   "1103780": {
     "config_count": 27,
     "devices": [
@@ -27361,7 +27369,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1895,
+    "config_count": 1896,
     "devices": [
       {
         "d": "G52_MC2",
@@ -28059,11 +28067,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "G68",
-        "m": "Mali",
-        "s": "Mali-G68"
-      },
-      {
         "d": "Adreno__TM__730",
         "m": "S901E",
         "s": "Adreno (TM) 730"
@@ -28112,6 +28115,11 @@
         "d": "PowerVR_Rogue_GE8320",
         "m": "moto_g22",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
       },
       {
         "d": "Adreno__TM__740",
