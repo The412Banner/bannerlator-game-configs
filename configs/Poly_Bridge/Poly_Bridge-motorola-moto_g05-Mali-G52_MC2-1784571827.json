@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "motorola moto g05",
+    "soc": "Mali-G52 MC2",
+    "bh_version": "2.7",
+    "upload_token": "17d8dae305cf5f00",
+    "settings_count": 9,
+    "components_count": 4
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"1.11.1-sarek\"}",
+    "pc_ls_VK3k": "{\"name\":\"None\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"System\"}",
+    "pc_set_constant_95": "{\"name\":\"2508\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"Wine-9.20-x86_64-0\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-bcn_layer",
+    "pc_ls_AUDIO_DRIVER": "1",
+    "pc_ls_environment_variable": "WRAPPER_MAX_IMAGE_COUNT=0 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=512MB mesa_glthread=true WINEESYNC=1 TU_DEBUG=sysmem,noconform DXVK_HUD=devinfo,fps,frametimes,gpuload,version,api",
+    "bl_ext": {
+      "dxwrapper": "dxvk+vkd3d",
+      "screenSize": "640x480",
+      "renderer": "opengl",
+      "fullscreenMode": "2",
+      "frameGenEngine": "bionic",
+      "native": "false",
+      "swapRB": "false",
+      "presentMode": "fifo",
+      "reshadeMode": "solo",
+      "reshadeEffect": "None",
+      "emulator": "fexcore",
+      "box64Version": "0.4.3-0",
+      "box64Preset": "UNITY_MONO_BLEEDING_EDGE",
+      "fexcorePreset": "INTERMEDIATE",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1",
+      "midiSoundFont": "wt_210k_G.sf2",
+      "lc_all": "pt_BR.UTF-8",
+      "dxwrapperConfig": "version=1.11.1-sarek,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfigFile="
+    }
+  },
+  "components": [
+    {
+      "name": "1.11.1-sarek",
+      "type": "DXVK"
+    },
+    {
+      "name": "None",
+      "type": "VKD3D"
+    },
+    {
+      "name": "System",
+      "type": "GPU"
+    },
+    {
+      "name": "2508",
+      "type": "FEXCore"
+    }
+  ]
+}
