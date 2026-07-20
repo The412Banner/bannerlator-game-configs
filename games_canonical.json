@@ -321,7 +321,7 @@
     "name": "Shank 2"
   },
   "1030300": {
-    "config_count": 37,
+    "config_count": 36,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -18478,6 +18478,14 @@
     ],
     "name": "Drift Legends 2"
   },
+  "367450": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Poly_Bridge"
+    ],
+    "name": "Poly Bridge"
+  },
   "367500": {
     "config_count": 2,
     "devices": [
@@ -20345,6 +20353,11 @@
     "config_count": 7,
     "devices": [
       {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
         "d": "Adreno__TM__610",
         "m": "23129RA5FL",
         "s": "Adreno (TM) 610"
@@ -20358,20 +20371,15 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
       "Poppy_Playtime_Chapter_5",
+      "Poppy_Playtime_Chapter__5",
       "Poppy_Playtime_chapter_5_",
       "poppy_5",
       "poppy_playtime_5",
-      "poppy_playtime_5_",
-      "Poppy_Playtime_Chapter__5"
+      "poppy_playtime_5_"
     ],
     "name": "Poppy Playtime - Chapter 5"
   },
