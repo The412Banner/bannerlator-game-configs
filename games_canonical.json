@@ -15666,7 +15666,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1019,
+    "config_count": 1021,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -16497,6 +16497,11 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "23113RKC6C",
+        "s": "Adreno (TM) 740"
       },
       {
         "d": "Adreno__TM__830",
@@ -26811,6 +26816,14 @@
       "bf3"
     ],
     "name": "Bf3"
+  },
+  "name:bh6": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "BH6"
+    ],
+    "name": "Bh6"
   },
   "name:bio4": {
     "config_count": 1,
