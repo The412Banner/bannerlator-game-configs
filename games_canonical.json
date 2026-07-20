@@ -8990,7 +8990,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 84,
+    "config_count": 85,
     "devices": [
       {
         "d": "S938B",
@@ -9121,6 +9121,11 @@
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "moto_g96_5G",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__740",
@@ -27332,7 +27337,7 @@
     "name": "Misidefull"
   },
   "name:mk10": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -27548,7 +27553,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1920,
+    "config_count": 1921,
     "devices": [
       {
         "d": "G52_MC2",
@@ -28201,11 +28206,6 @@
         "s": "Mali-G52"
       },
       {
-        "d": "Adreno__TM__610",
-        "m": "23129RA5FL",
-        "s": "Adreno (TM) 610"
-      },
-      {
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
@@ -28303,6 +28303,11 @@
       {
         "d": "Adreno__TM__610",
         "m": "23073RPBFL",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
         "s": "Adreno (TM) 610"
       },
       {
