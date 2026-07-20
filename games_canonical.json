@@ -2650,7 +2650,7 @@
     "name": "Battlefield\u2122 1"
   },
   "1238860": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -7696,7 +7696,7 @@
     "name": "Call of Juarez: Gunslinger"
   },
   "2050650": {
-    "config_count": 60,
+    "config_count": 61,
     "devices": [
       {
         "d": "G615_MC2",
@@ -7761,6 +7761,11 @@
       {
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
         "s": "Adreno (TM) 825"
       },
       {
@@ -13395,14 +13400,6 @@
     ],
     "name": "Hospital 666"
   },
-  "2787680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Candy Rangers"
-  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -13500,6 +13497,14 @@
     ],
     "name": "RIDE 6"
   },
+  "2816870": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Mighty Morphin Power Rangers: Rita's Rewind"
+  },
   "281940": {
     "config_count": 1,
     "devices": [],
@@ -13583,7 +13588,7 @@
     "name": "SimplePlanes 2"
   },
   "284160": {
-    "config_count": 12,
+    "config_count": 14,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -13609,6 +13614,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S931B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -15663,7 +15673,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1023,
+    "config_count": 1024,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -19184,12 +19194,17 @@
     "name": "Train Manager"
   },
   "383150": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "2509ARPBDG",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
@@ -27136,6 +27151,20 @@
     ],
     "name": "Gow2Hollow"
   },
+  "name:grandchasepatcher": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__710",
+        "m": "2312DRA50G",
+        "s": "Adreno (TM) 710"
+      }
+    ],
+    "folders": [
+      "GrandChasePatcher"
+    ],
+    "name": "Grandchasepatcher"
+  },
   "name:gridautosport": {
     "config_count": 1,
     "devices": [
@@ -27474,7 +27503,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1912,
+    "config_count": 1915,
     "devices": [
       {
         "d": "G52_MC2",
