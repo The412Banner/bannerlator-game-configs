@@ -9534,7 +9534,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 10,
+    "config_count": 9,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -9558,8 +9558,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -13129,7 +13128,7 @@
     "name": "Palia"
   },
   "270880": {
-    "config_count": 16,
+    "config_count": 17,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -13155,6 +13154,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "Adreno__TM__732",
+        "m": "2410CRP4CG",
+        "s": "Adreno (TM) 732"
       }
     ],
     "folders": [
@@ -13912,7 +13916,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "G615_MC2",
@@ -13952,7 +13956,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -14630,7 +14635,7 @@
     "name": "GET EVEN"
   },
   "3010850": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -14640,7 +14645,8 @@
     ],
     "folders": [
       "Gears_Of_War",
-      "Gears_of_War"
+      "Gears_of_War",
+      "Gears_of_War_2"
     ],
     "name": "Gears of War: E-Day"
   },
@@ -14882,7 +14888,7 @@
     "name": "The Long Dark"
   },
   "3059520": {
-    "config_count": 14,
+    "config_count": 13,
     "devices": [
       {
         "d": "G57_MC2",
@@ -15654,7 +15660,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1016,
+    "config_count": 1019,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -20883,12 +20889,17 @@
     "name": "Season 3 Battlefield Pro - Battlefield\u2122 6 and REDSEC"
   },
   "438100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
         "m": "S731B",
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
@@ -27432,7 +27443,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1901,
+    "config_count": 1910,
     "devices": [
       {
         "d": "G52_MC2",
@@ -27865,11 +27876,6 @@
         "s": "Adreno (TM) 825"
       },
       {
-        "d": "G78",
-        "m": "Mali",
-        "s": "Mali-G78"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "moto_g_10_",
         "s": "Adreno (TM) 610"
@@ -28170,11 +28176,6 @@
         "s": "PowerVR Rogue GE8320"
       },
       {
-        "d": "G68",
-        "m": "Mali",
-        "s": "Mali-G68"
-      },
-      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
@@ -28188,6 +28189,16 @@
         "d": "Adreno__TM__710",
         "m": "25118PC98G",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G78",
+        "m": "Mali",
+        "s": "Mali-G78"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
       },
       {
         "d": "Adreno__TM__740",
@@ -28226,7 +28237,7 @@
     "name": "PES 2013"
   },
   "name:pes-2014": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "G57",
