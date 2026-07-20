@@ -10547,17 +10547,12 @@
     "name": "Military Tanks"
   },
   "234670": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__619",
@@ -10573,6 +10568,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__610",
@@ -14665,7 +14665,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -14676,6 +14676,11 @@
         "d": "Adreno__TM__642L",
         "m": "I2213",
         "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "Adreno__TM__725",
+        "m": "23049PCD8G",
+        "s": "Adreno (TM) 725"
       }
     ],
     "folders": [
@@ -17615,7 +17620,7 @@
     "name": "Ghost Song"
   },
   "348470": {
-    "config_count": 3,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -24047,7 +24052,7 @@
     "name": "GameGuru Starter Bundle"
   },
   "678950": {
-    "config_count": 34,
+    "config_count": 35,
     "devices": [
       {
         "d": "G68_MC4",
