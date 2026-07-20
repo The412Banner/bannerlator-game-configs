@@ -13588,7 +13588,7 @@
     "name": "SimplePlanes 2"
   },
   "284160": {
-    "config_count": 14,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -13619,6 +13619,11 @@
         "d": "Adreno__TM__830",
         "m": "S931B",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "S948B",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
@@ -20972,7 +20977,7 @@
     "name": "DREAMTONE Demo"
   },
   "4435490": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -20981,7 +20986,8 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4"
+      "Call_of_Duty_4",
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -24983,7 +24989,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 17,
+    "config_count": 16,
     "devices": [
       {
         "d": "G720_MC7",
@@ -25030,8 +25036,7 @@
       "CALL_OF_DUTY_4_Modern_Warfare",
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
-      "iw3sp",
-      "Call_of_Duty_4_Modern_Warfare"
+      "iw3sp"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
@@ -27078,7 +27083,7 @@
     "name": "Ets2"
   },
   "name:eurotrucks2": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "eurotrucks2"
@@ -27503,7 +27508,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1915,
+    "config_count": 1917,
     "devices": [
       {
         "d": "G52_MC2",
@@ -28186,11 +28191,6 @@
         "s": "ANGLE ((Samsung Xclipse 920) on Vulkan 1.3.279)"
       },
       {
-        "d": "Adreno__TM__610",
-        "m": "23073RPBFL",
-        "s": "Adreno (TM) 610"
-      },
-      {
         "d": "Adreno__TM__730",
         "m": "S901E",
         "s": "Adreno (TM) 730"
@@ -28259,6 +28259,11 @@
         "d": "Adreno__TM__710",
         "m": "A366E",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23073RPBFL",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__740",
