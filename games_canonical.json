@@ -8055,17 +8055,12 @@
     "name": "Street Fighter X Tekken"
   },
   "209160": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
       },
       {
         "d": "G615_MC2",
@@ -8086,6 +8081,11 @@
         "d": "Adreno__TM__840",
         "m": "25102PCBEG",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
@@ -13332,7 +13332,7 @@
     "name": "PROJECT 13"
   },
   "275850": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Odin2",
@@ -13353,6 +13353,11 @@
         "d": "Adreno__TM__830",
         "m": "S938B",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "ASUS_AI2205_D",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -20678,7 +20683,7 @@
     "name": "One Piece Burning Blood"
   },
   "42680": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "Infinix_X6833B",
@@ -20729,6 +20734,11 @@
         "d": "Adreno__TM__740",
         "m": "23113RKC6G",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
@@ -29013,6 +29023,14 @@
       "studio64"
     ],
     "name": "Studio64"
+  },
+  "name:t6mp-multiplayer-offline": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "t6mp_-_Multiplayer_Offline"
+    ],
+    "name": "T6Mp Multiplayer Offline"
   },
   "name:takecareofthedog": {
     "config_count": 1,
