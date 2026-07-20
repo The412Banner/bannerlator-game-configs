@@ -9957,7 +9957,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 146,
+    "config_count": 147,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -10193,6 +10193,11 @@
         "d": "Adreno__TM__730",
         "m": "S901E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "M2102K1G",
+        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
@@ -10509,7 +10514,7 @@
     "name": "Castlevania: Lords of Shadow \u2013 Ultimate Edition"
   },
   "234140": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__740",
