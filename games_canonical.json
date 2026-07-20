@@ -4255,7 +4255,7 @@
     "name": "Street Fighter V - Capcom Pro Tour: 2021 Premier Pass"
   },
   "1506830": {
-    "config_count": 56,
+    "config_count": 57,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -4303,6 +4303,11 @@
         "s": "Adreno (TM) 725"
       },
       {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      },
+      {
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
@@ -4311,11 +4316,6 @@
         "d": "Adreno__TM__730",
         "m": "S901E",
         "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
       },
       {
         "d": "G615_MC6",
@@ -8567,6 +8567,20 @@
       "Brothers_-_A_Tale_of_Two_Sons_-_Remake"
     ],
     "name": "Brothers: A Tale of Two Sons Remake"
+  },
+  "2157560": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
+      }
+    ],
+    "folders": [
+      "Granblue_Fantasy_Versus__Rising"
+    ],
+    "name": "Granblue Fantasy Versus: Rising"
   },
   "2160360": {
     "config_count": 1,
@@ -13657,7 +13671,7 @@
     "name": "BeamNG.drive"
   },
   "2856190": {
-    "config_count": 83,
+    "config_count": 84,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -13758,6 +13772,11 @@
         "d": "Adreno__TM__810",
         "m": "2509ARPBDG",
         "s": "Adreno (TM) 810"
+      },
+      {
+        "d": "Immortalis_MC11",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC11"
       }
     ],
     "folders": [
@@ -24636,7 +24655,7 @@
     "name": "Counter-Strike 2"
   },
   "731490": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -24647,6 +24666,11 @@
         "d": "Adreno__TM__830",
         "m": "S938B",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Immortalis_MC11",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC11"
       }
     ],
     "folders": [
@@ -27161,6 +27185,14 @@
     ],
     "name": "Fifa23"
   },
+  "name:fifaconfig": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "fifaconfig"
+    ],
+    "name": "Fifaconfig"
+  },
   "name:final-fantasy-renaissance-2-2-6-32-bit": {
     "config_count": 1,
     "devices": [
@@ -27567,7 +27599,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1924,
+    "config_count": 1927,
     "devices": [
       {
         "d": "G52_MC2",
@@ -28195,11 +28227,6 @@
         "s": "Mali-G51"
       },
       {
-        "d": "Adreno__TM__710",
-        "m": "2312DRA50G",
-        "s": "Adreno (TM) 710"
-      },
-      {
         "d": "Immortalis_MC12",
         "m": "G720",
         "s": "Mali-G720-Immortalis MC12"
@@ -28315,14 +28342,19 @@
         "s": "Adreno (TM) 610"
       },
       {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
+      },
+      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
       },
       {
-        "d": "Adreno__TM__610",
-        "m": "23129RA5FL",
-        "s": "Adreno (TM) 610"
+        "d": "Adreno__TM__710",
+        "m": "2312DRA50G",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__740",
