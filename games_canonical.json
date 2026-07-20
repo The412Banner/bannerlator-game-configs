@@ -9547,7 +9547,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 10,
+    "config_count": 9,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -9571,8 +9571,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -9973,7 +9972,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 147,
+    "config_count": 148,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -10214,6 +10213,11 @@
         "d": "Adreno__TM__660",
         "m": "M2102K1G",
         "s": "Adreno (TM) 660"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
+        "m": "A556E",
+        "s": "ANGLE ((Samsung Xclipse 530) on Vulkan 1.3.279)"
       }
     ],
     "folders": [
@@ -13950,7 +13954,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "G615_MC2",
@@ -13990,7 +13994,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -27561,7 +27566,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1922,
+    "config_count": 1924,
     "devices": [
       {
         "d": "G52_MC2",
@@ -28279,11 +28284,6 @@
         "s": "PowerVR Rogue GE8320"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "A057M",
         "s": "Adreno (TM) 610"
@@ -28312,6 +28312,11 @@
         "d": "Adreno__TM__610",
         "m": "23073RPBFL",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__610",
@@ -28894,7 +28899,7 @@
     "name": "Pes2021"
   },
   "name:playrdr": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "PlayRDR"
