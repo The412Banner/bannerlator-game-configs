@@ -14311,7 +14311,7 @@
     "name": "Attack on Titan 3 - A.O.T.3"
   },
   "292030": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "Odin2",
@@ -14382,7 +14382,8 @@
     "folders": [
       "The_Witcher_3",
       "The_Witcher_3__Wild_Hunt",
-      "_Witcher"
+      "_Witcher",
+      "witcher3"
     ],
     "name": "The Witcher 3: Wild Hunt"
   },
@@ -15825,7 +15826,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1033,
+    "config_count": 1034,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -16681,6 +16682,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g_stylus_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "RMX3844",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__830",
