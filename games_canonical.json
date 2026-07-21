@@ -1203,7 +1203,7 @@
     "name": "Ready or Not"
   },
   "1145350": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -1232,7 +1232,8 @@
       }
     ],
     "folders": [
-      "Hades_II"
+      "Hades_II",
+      "Hades2"
     ],
     "name": "Hades II"
   },
@@ -9594,7 +9595,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 10,
+    "config_count": 9,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -9618,8 +9619,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -14021,7 +14021,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "G615_MC2",
@@ -14061,7 +14061,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -14816,7 +14817,7 @@
     "name": "BEYBLADE X XONE"
   },
   "302510": {
-    "config_count": 6,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -14845,8 +14846,7 @@
       }
     ],
     "folders": [
-      "Ryse__Son_of_Rome",
-      "Ryse"
+      "Ryse__Son_of_Rome"
     ],
     "name": "Ryse: Son of Rome"
   },
@@ -18771,6 +18771,11 @@
     "config_count": 4,
     "devices": [
       {
+        "d": "Adreno__TM__830",
+        "m": "NP05J",
+        "s": "Adreno (TM) 830"
+      },
+      {
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
@@ -18779,16 +18784,11 @@
         "d": "Adreno__TM__750",
         "m": "ASUS_AI2401_D",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "NP05J",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
-      "Far_Cry__Primal",
-      "Far_Cry_Primal"
+      "Far_Cry_Primal",
+      "Far_Cry__Primal"
     ],
     "name": "Far Cry\u00ae Primal"
   },
