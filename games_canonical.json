@@ -957,6 +957,14 @@
     ],
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
+  "1110100": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Power Rangers: Battle for the Grid"
+  },
   "1110910": {
     "config_count": 1,
     "devices": [
@@ -2252,7 +2260,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 30,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -2328,11 +2336,6 @@
         "d": "Adreno__TM__650",
         "m": "NP03J",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -4751,7 +4754,7 @@
     "name": "Cairn"
   },
   "1593500": {
-    "config_count": 123,
+    "config_count": 124,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -10304,6 +10307,14 @@
     ],
     "name": "Remember Me"
   },
+  "2288627": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "ACU"
+    ],
+    "name": "Train Simulator: Norfolk Southern SD70ACU"
+  },
   "2290180": {
     "config_count": 1,
     "devices": [
@@ -11210,7 +11221,7 @@
     "name": "MOUSE: P.I. For Hire"
   },
   "241930": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -12847,7 +12858,7 @@
     "name": "POOLS"
   },
   "2668510": {
-    "config_count": 27,
+    "config_count": 28,
     "devices": [
       {
         "d": "SM8635",
@@ -12913,6 +12924,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -13452,14 +13468,6 @@
       "Hospital_666"
     ],
     "name": "Hospital 666"
-  },
-  "2787680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Candy Rangers"
   },
   "2796520": {
     "config_count": 1,
@@ -21048,6 +21056,20 @@
     ],
     "name": "DREAMTONE Demo"
   },
+  "4430260": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "speed"
+    ],
+    "name": "Beat For Speed"
+  },
   "4435490": {
     "config_count": 3,
     "devices": [
@@ -23971,7 +23993,7 @@
     "name": "Jurassic World Evolution"
   },
   "648800": {
-    "config_count": 6,
+    "config_count": 5,
     "devices": [
       {
         "d": "G720_MC7",
@@ -27618,7 +27640,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1929,
+    "config_count": 1931,
     "devices": [
       {
         "d": "G52_MC2",
@@ -28376,6 +28398,11 @@
         "s": "Mali-G52"
       },
       {
+        "d": "Adreno__TM__730",
+        "m": "S908E",
+        "s": "Adreno (TM) 730"
+      },
+      {
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
@@ -28518,7 +28545,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 148,
+    "config_count": 149,
     "devices": [
       {
         "d": "G615_MC2",
