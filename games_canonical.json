@@ -8680,7 +8680,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 80,
+    "config_count": 81,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -8786,6 +8786,11 @@
         "d": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
         "m": "S711B",
         "s": "ANGLE ((Samsung Xclipse 920) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "F956B",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -15760,7 +15765,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1026,
+    "config_count": 1027,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -16463,11 +16468,6 @@
         "s": "Adreno (TM) 660"
       },
       {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "RMX2030",
         "s": "Adreno (TM) 610"
@@ -16601,6 +16601,11 @@
         "d": "PowerVR_Rogue_GE8320",
         "m": "moto_g22",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       },
       {
         "d": "Adreno__TM__830",
@@ -27551,6 +27556,20 @@
       "NSUNS_4_EVO"
     ],
     "name": "Nsuns 4 Evo"
+  },
+  "name:nsuns2": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      }
+    ],
+    "folders": [
+      "NSUNS2"
+    ],
+    "name": "Nsuns2"
   },
   "name:oblivion-lost-remake": {
     "config_count": 1,
