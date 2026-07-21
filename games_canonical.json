@@ -16883,7 +16883,7 @@
     "name": "Awaria"
   },
   "3275460": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__504",
@@ -16894,6 +16894,11 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "Adreno__TM__613",
+        "m": "23076RN4BI",
+        "s": "Adreno (TM) 613"
       }
     ],
     "folders": [
@@ -27595,7 +27600,7 @@
     "name": "PES 2010"
   },
   "name:pes-2011": {
-    "config_count": 11,
+    "config_count": 13,
     "devices": [
       {
         "d": "G615_MC2",
