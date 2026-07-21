@@ -4278,7 +4278,7 @@
     "name": "Street Fighter V - Capcom Pro Tour: 2021 Premier Pass"
   },
   "1506830": {
-    "config_count": 58,
+    "config_count": 59,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -5367,7 +5367,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 77,
+    "config_count": 78,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -10024,7 +10024,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 149,
+    "config_count": 150,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -10270,6 +10270,11 @@
         "d": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
         "m": "A556E",
         "s": "ANGLE ((Samsung Xclipse 530) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "22111317PG",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -11616,6 +11621,25 @@
       "SSSS"
     ],
     "name": "The Legend of Heroes: Trails into Reverie - SSS Summer Splash Set"
+  },
+  "244210": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G77_MC9",
+        "m": "Mali",
+        "s": "Mali-G77 MC9"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "Assetto_Corsa"
+    ],
+    "name": "Assetto Corsa"
   },
   "2444750": {
     "config_count": 1,
@@ -17145,7 +17169,7 @@
     "name": "One Piece Pirate Warriors 3"
   },
   "33230": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -17166,6 +17190,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "G780G",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
@@ -27700,7 +27729,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1947,
+    "config_count": 1952,
     "devices": [
       {
         "d": "G52_MC2",
@@ -28388,11 +28417,6 @@
         "s": "Adreno (TM) 650"
       },
       {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      },
-      {
         "d": "Adreno__TM__642L",
         "m": "A528B",
         "s": "Adreno (TM) 642L"
@@ -28458,14 +28482,19 @@
         "s": "Adreno (TM) 613"
       },
       {
-        "d": "Adreno__TM__610",
-        "m": "A057M",
-        "s": "Adreno (TM) 610"
-      },
-      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "A057M",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__740",
