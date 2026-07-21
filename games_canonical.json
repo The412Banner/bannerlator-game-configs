@@ -14816,7 +14816,7 @@
     "name": "BEYBLADE X XONE"
   },
   "302510": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -14845,7 +14845,8 @@
       }
     ],
     "folders": [
-      "Ryse__Son_of_Rome"
+      "Ryse__Son_of_Rome",
+      "Ryse"
     ],
     "name": "Ryse: Son of Rome"
   },
@@ -18767,7 +18768,7 @@
     "name": "Thrifty Business"
   },
   "371660": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -18778,10 +18779,16 @@
         "d": "Adreno__TM__750",
         "m": "ASUS_AI2401_D",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "NP05J",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
-      "Far_Cry__Primal"
+      "Far_Cry__Primal",
+      "Far_Cry_Primal"
     ],
     "name": "Far Cry\u00ae Primal"
   },
