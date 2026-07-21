@@ -2257,7 +2257,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -2333,6 +2333,11 @@
         "d": "Adreno__TM__650",
         "m": "NP03J",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -2866,7 +2871,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 37,
+    "config_count": 39,
     "devices": [
       {
         "d": "G57_MC2",
@@ -10019,7 +10024,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 148,
+    "config_count": 149,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -21086,20 +21091,6 @@
     ],
     "name": "DREAMTONE Demo"
   },
-  "4430260": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      }
-    ],
-    "folders": [
-      "speed"
-    ],
-    "name": "Beat For Speed"
-  },
   "4435490": {
     "config_count": 3,
     "devices": [
@@ -24108,12 +24099,17 @@
     "name": "Do Not Feed the Monkeys"
   },
   "660080": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "I2401",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Immortalis_MC11",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC11"
       }
     ],
     "folders": [
@@ -24809,7 +24805,7 @@
     "name": "Five Nights at Freddy's: Security Breach"
   },
   "750920": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "SM8850",
@@ -24840,6 +24836,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__650",
@@ -27699,7 +27700,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1940,
+    "config_count": 1947,
     "devices": [
       {
         "d": "G52_MC2",
@@ -28407,11 +28408,6 @@
         "s": "PowerVR Rogue GE8320"
       },
       {
-        "d": "Adreno__TM__610",
-        "m": "A057M",
-        "s": "Adreno (TM) 610"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "25118PC98G",
         "s": "Adreno (TM) 710"
@@ -28460,6 +28456,11 @@
         "d": "Adreno__TM__613",
         "m": "23076RN4BI",
         "s": "Adreno (TM) 613"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "A057M",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "G57_MC2",
