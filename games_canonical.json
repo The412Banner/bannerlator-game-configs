@@ -9564,7 +9564,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -9588,7 +9588,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -13995,7 +13996,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 30,
+    "config_count": 29,
     "devices": [
       {
         "d": "G615_MC2",
@@ -14035,8 +14036,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -25780,7 +25780,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 82,
+    "config_count": 83,
     "devices": [
       {
         "d": "s5e8855",
@@ -29232,6 +29232,14 @@
       "TLauncher-Installer-1_9_5_1"
     ],
     "name": "Tlauncher Installer 1 9 5 1"
+  },
+  "name:tlou-i": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "tlou-i"
+    ],
+    "name": "Tlou I"
   },
   "name:tomb-raider-asia-en-zh-ko-copy": {
     "config_count": 1,
