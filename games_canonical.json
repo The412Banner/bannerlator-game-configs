@@ -14533,7 +14533,7 @@
     "name": "Heatwave"
   },
   "298110": {
-    "config_count": 22,
+    "config_count": 23,
     "devices": [
       {
         "d": "G720_MC7",
@@ -14591,6 +14591,7 @@
       "Far_Cry__4",
       "Far_Cry_____________________________________________________",
       "far_cry",
+      "FarCry4",
       "Far_Cry_4"
     ],
     "name": "Far Cry\u00ae 4"
@@ -15610,20 +15611,6 @@
       "BloodStrike"
     ],
     "name": "Blood Strike"
-  },
-  "3201070": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "ASUS_AI2205_D",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "Ex_Machina"
-    ],
-    "name": "Gigantes Ex Machina"
   },
   "320140": {
     "config_count": 1,
@@ -27665,7 +27652,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1933,
+    "config_count": 1935,
     "devices": [
       {
         "d": "G52_MC2",
@@ -28408,11 +28395,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "2312DRA50G",
         "s": "Adreno (TM) 710"
@@ -28426,6 +28408,11 @@
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
