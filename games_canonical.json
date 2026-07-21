@@ -8939,7 +8939,7 @@
     "name": "Shave & Stuff"
   },
   "219990": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -13431,7 +13431,7 @@
     "name": "PROJECT 13"
   },
   "275850": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Odin2",
@@ -13452,11 +13452,6 @@
         "d": "Adreno__TM__830",
         "m": "S938B",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "ASUS_AI2205_D",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -13606,14 +13601,6 @@
       "Woolfe"
     ],
     "name": "Woolfe - The Red Hood Diaries"
-  },
-  "281990": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Stellaris"
-    ],
-    "name": "Stellaris"
   },
   "2820080": {
     "config_count": 1,
@@ -17764,7 +17751,7 @@
     "name": "SAMURAI WARRIORS 4-II"
   },
   "34870": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "G720_MC7",
@@ -17775,11 +17762,17 @@
         "d": "Adreno__TM__840",
         "m": "I2501",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
       "Sniper_Ghost_Warrior_2",
-      "Sniper__Ghost_Warrior_2"
+      "Sniper__Ghost_Warrior_2",
+      "SniperGhostWarrior2"
     ],
     "name": "Sniper: Ghost Warrior 2"
   },
@@ -20135,20 +20128,6 @@
       "Ys_X__Proud_Nordics"
     ],
     "name": "Ys X: Proud Nordics"
-  },
-  "39510": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "ASUS_AI2205_D",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "Gothic_2"
-    ],
-    "name": "Gothic II: Gold Edition"
   },
   "3962150": {
     "config_count": 1,
@@ -27058,6 +27037,14 @@
     ],
     "name": "Crysiswh"
   },
+  "name:dawn-of-war-soulstorm": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Dawn_of_War_-_Soulstorm"
+    ],
+    "name": "Dawn Of War Soulstorm"
+  },
   "name:deus-ex-human-revolution-dc": {
     "config_count": 1,
     "devices": [],
@@ -27677,7 +27664,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1936,
+    "config_count": 1937,
     "devices": [
       {
         "d": "G52_MC2",
@@ -29103,22 +29090,6 @@
       "rungame"
     ],
     "name": "Rungame"
-  },
-  "name:s-t-a-l-k-e-r-anomaly-dx11": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "S_T_A_L_K_E_R__Anomaly_DX11"
-    ],
-    "name": "S T A L K E R Anomaly Dx11"
-  },
-  "name:s-t-a-l-k-e-r-anomaly-dx8": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "S_T_A_L_K_E_R__Anomaly_DX8"
-    ],
-    "name": "S T A L K E R Anomaly Dx8"
   },
   "name:secretflashermanaka": {
     "config_count": 1,
