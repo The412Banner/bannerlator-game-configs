@@ -15756,7 +15756,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1031,
+    "config_count": 1032,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -16602,6 +16602,11 @@
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g_stylus_5G",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__830",
@@ -27339,7 +27344,7 @@
     "name": "Gtaiv"
   },
   "name:gtavlauncher": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -27350,6 +27355,11 @@
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "V2403A",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
