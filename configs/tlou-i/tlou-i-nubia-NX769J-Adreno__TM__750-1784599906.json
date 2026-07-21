@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "nubia NX769J",
+    "soc": "Adreno (TM) 750",
+    "bh_version": "2.7.1",
+    "uploader": {
+      "name": "Nostalgilgames",
+      "avatarUrl": "https:\/\/bannerhub-configs-worker.the412banner.workers.dev\/account\/avatar?uid=1cedca4cda510c4a7f79905bb33c17ca"
+    },
+    "upload_token": "51776db1de91de1f",
+    "settings_count": 10,
+    "components_count": 4
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"3.0-1-gplasync-arm64ec-0\"}",
+    "pc_ls_VK3k": "{\"name\":\"3.0.1-0\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"Mesa Turnip v26.1-eden-fix-latest-crash-fix-402bd37\"}",
+    "pc_set_constant_95": "{\"name\":\"2601-0\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"Wine-10.0.99-arm64ec-0\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-original",
+    "pc_ls_AUDIO_DRIVER": "1",
+    "pc_ls_update_enable_xinput": true,
+    "pc_ls_environment_variable": "WRAPPER_MAX_IMAGE_COUNT=0 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=512MB mesa_glthread=true WINEESYNC=1 TU_DEBUG=sysmem,noconform DXVK_HUD=fps VKD3D_SHADER_MODEL=6_6 DXVK_DISABLE_TIMELINE_SEMAPHORES=1 VKD3D_SHADER_CACHE=1 DXVK_STATE_CACHE=1 DXVK_ASYNC=1",
+    "bl_ext": {
+      "dxwrapper": "dxvk+vkd3d",
+      "screenSize": "1280x720",
+      "renderer": "vulkan",
+      "sfCompatMode": "1",
+      "fullscreenMode": "2",
+      "frameGenEngine": "off",
+      "native": "false",
+      "swapRB": "false",
+      "presentMode": "fifo",
+      "fpsLimiterEnabled": "0",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "reshadeMode": "solo",
+      "reshadeEffect": "None",
+      "emulator": "fexcore",
+      "box64Version": "0.4.3-0",
+      "box64Preset": "COMPATIBILITY",
+      "fexcorePreset": "CUSTOM-1",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "startupSelection": "1",
+      "inputType": "4",
+      "exclusiveXInput": "1",
+      "simTouchScreen": "0",
+      "numControllers": "1",
+      "controlsProfile": "3",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1",
+      "lc_all": "pt_BR.UTF-8",
+      "autoCloseOnExit": "1",
+      "dxwrapperConfig": "version=3.0-1-gplasync-arm64ec-0,framerate=0,async=1,asyncCache=1,vkd3dVersion=3.0.1-0,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfigFile="
+    }
+  },
+  "components": [
+    {
+      "name": "3.0-1-gplasync-arm64ec-0",
+      "type": "DXVK"
+    },
+    {
+      "name": "3.0.1-0",
+      "type": "VKD3D"
+    },
+    {
+      "name": "Mesa Turnip v26.1-eden-fix-latest-crash-fix-402bd37",
+      "type": "GPU"
+    },
+    {
+      "name": "2601-0",
+      "type": "FEXCore"
+    }
+  ]
+}
