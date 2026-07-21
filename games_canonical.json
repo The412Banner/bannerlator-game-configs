@@ -3214,7 +3214,7 @@
     "name": "The Mortuary Assistant"
   },
   "1297900": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G720_MC7",
@@ -3223,8 +3223,7 @@
       }
     ],
     "folders": [
-      "Gothic_1_Remake",
-      "Gothic"
+      "Gothic_1_Remake"
     ],
     "name": "Gothic 1 Remake"
   },
@@ -15765,7 +15764,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1029,
+    "config_count": 1030,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -16603,14 +16602,14 @@
         "s": "Mali-G57"
       },
       {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
       },
       {
         "d": "Adreno__TM__830",
@@ -27059,14 +27058,6 @@
     ],
     "name": "Crysiswh"
   },
-  "name:dawn-of-war-soulstorm": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Dawn_of_War_-_Soulstorm"
-    ],
-    "name": "Dawn Of War Soulstorm"
-  },
   "name:deus-ex-human-revolution-dc": {
     "config_count": 1,
     "devices": [],
@@ -27686,7 +27677,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1935,
+    "config_count": 1936,
     "devices": [
       {
         "d": "G52_MC2",
