@@ -6086,7 +6086,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 118,
+    "config_count": 119,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -6157,6 +6157,11 @@
         "d": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
         "m": "A376B",
         "s": "ANGLE ((Samsung Xclipse 530) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__720",
@@ -6237,11 +6242,6 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       },
       {
         "d": "G720_MC8",
@@ -9594,7 +9594,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -9618,7 +9618,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -14020,7 +14021,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 30,
+    "config_count": 29,
     "devices": [
       {
         "d": "G615_MC2",
@@ -14060,8 +14061,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -27693,7 +27693,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1939,
+    "config_count": 1940,
     "devices": [
       {
         "d": "G52_MC2",
@@ -28451,14 +28451,14 @@
         "s": "Adreno (TM) 730"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__613",
         "m": "23076RN4BI",
         "s": "Adreno (TM) 613"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
@@ -29175,7 +29175,7 @@
     "name": "Skyrimse"
   },
   "name:sottr": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "SOTTR"
