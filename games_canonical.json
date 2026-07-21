@@ -9190,7 +9190,7 @@
     "name": "Far Cry 3"
   },
   "220440": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -9291,6 +9291,11 @@
         "d": "Adreno__TM__730",
         "m": "CPH2487",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
