@@ -24993,7 +24993,7 @@
     "name": "Electric Bench - Unreal Engine 5 Benchmark"
   },
   "774361": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -25019,6 +25019,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "G77_MC9",
+        "m": "Mali",
+        "s": "Mali-G77 MC9"
       }
     ],
     "folders": [
