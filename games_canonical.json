@@ -22062,12 +22062,17 @@
     "name": "Game Overlay Translator"
   },
   "48700": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -27208,6 +27213,20 @@
       "CrysisWH"
     ],
     "name": "Crysiswh"
+  },
+  "name:daorigins": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
+      }
+    ],
+    "folders": [
+      "daorigins"
+    ],
+    "name": "Daorigins"
   },
   "name:dawn-of-war-soulstorm": {
     "config_count": 1,
