@@ -1,5 +1,12 @@
 [
   {
+    "game": "steamclient_loader",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1784606996,
+    "filename": "steamclient_loader-samsung-SM-A156M-Mali-G57_MC2-1784606996.json"
+  },
+  {
     "game": "tlou-i",
     "manufacturer": "NX769J",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1784570088,
     "filename": "MadMax-OnePlus-PJA110-Adreno__TM__740-1784570088.json"
-  },
-  {
-    "game": "eurotrucks2",
-    "manufacturer": "A556E",
-    "device": "Samsung_Xclipse_530",
-    "timestamp": 1784569521,
-    "filename": "eurotrucks2-samsung-SM-A556E-Samsung_Xclipse_530-1784569521.json"
   }
 ]
