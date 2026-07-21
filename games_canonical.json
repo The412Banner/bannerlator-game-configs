@@ -15765,7 +15765,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1027,
+    "config_count": 1029,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -16403,11 +16403,6 @@
         "s": "Adreno (TM) 618"
       },
       {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "G780G",
         "s": "Adreno (TM) 650"
@@ -16606,6 +16601,16 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "AYN_Thor",
+        "s": "Adreno (TM) 740"
       },
       {
         "d": "Adreno__TM__830",
