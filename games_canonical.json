@@ -2216,7 +2216,7 @@
     "name": "Grand Theft Auto: Episodes from Liberty City"
   },
   "1222670": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "G57_MC2",
@@ -2242,6 +2242,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
       }
     ],
     "folders": [
@@ -2252,7 +2257,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 30,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -2328,11 +2333,6 @@
         "d": "Adreno__TM__650",
         "m": "NP03J",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -18869,7 +18869,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -21069,6 +21069,20 @@
       "DREAMTONE_Demo"
     ],
     "name": "DREAMTONE Demo"
+  },
+  "4430260": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "speed"
+    ],
+    "name": "Beat For Speed"
   },
   "4435490": {
     "config_count": 3,
@@ -26368,7 +26382,7 @@
     "name": "Volcanoids"
   },
   "952060": {
-    "config_count": 60,
+    "config_count": 61,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -26471,14 +26485,14 @@
         "s": "Mali-G57 MC2"
       },
       {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      },
-      {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       },
       {
         "d": "G57",
@@ -27664,7 +27678,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1937,
+    "config_count": 1938,
     "devices": [
       {
         "d": "G52_MC2",
@@ -28427,6 +28441,11 @@
         "s": "Mali-G57 MC2"
       },
       {
+        "d": "Adreno__TM__613",
+        "m": "23076RN4BI",
+        "s": "Adreno (TM) 613"
+      },
+      {
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
@@ -28542,7 +28561,7 @@
     "name": "PES 2015"
   },
   "name:pes-2016": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "G57",
@@ -28553,6 +28572,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "A235F",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "G52_MC2",
