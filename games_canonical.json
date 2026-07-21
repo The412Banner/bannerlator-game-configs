@@ -6416,7 +6416,7 @@
     "name": "Asphalt Legends "
   },
   "1817070": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "G57_MC2",
@@ -6457,6 +6457,11 @@
         "d": "MT6855V_AZA",
         "m": "moto_g54_5G",
         "s": "MT6855V/AZA"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "RMX3661",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -14374,6 +14379,20 @@
     ],
     "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2"
   },
+  "2936290": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
+      }
+    ],
+    "folders": [
+      "The_Life_and_Suffering_of_Prince_Jerian"
+    ],
+    "name": "The Life and Suffering of Prince Jerian"
+  },
   "2938810": {
     "config_count": 1,
     "devices": [
@@ -15755,7 +15774,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1025,
+    "config_count": 1026,
     "devices": [
       {
         "d": "Adreno__TM__630",
