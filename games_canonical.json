@@ -4484,6 +4484,14 @@
     ],
     "name": "Are You Smarter Than A 5th Grader"
   },
+  "1521580": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Heist"
+    ],
+    "name": "Perfect Heist 2"
+  },
   "1528460": {
     "config_count": 1,
     "devices": [
@@ -21092,7 +21100,7 @@
     "name": "Bruisers 2D Boxing Demo"
   },
   "4355320": {
-    "config_count": 9,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -26421,6 +26429,14 @@
     ],
     "name": "Chuckie Egg 2017"
   },
+  "940910": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Minoria"
+    ],
+    "name": "Minoria"
+  },
   "941955": {
     "config_count": 3,
     "devices": [
@@ -27825,7 +27841,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1955,
+    "config_count": 1956,
     "devices": [
       {
         "d": "G52_MC2",
@@ -28573,11 +28589,6 @@
         "s": "Adreno (TM) 613"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
@@ -28591,6 +28602,11 @@
         "d": "Adreno__TM__650",
         "m": "G780G",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
