@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "samsung SM-S908E",
+    "soc": "Adreno (TM) 730",
+    "bh_version": "2.8",
+    "upload_token": "4969f31d727d5485",
+    "settings_count": 10,
+    "components_count": 4
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"1.10.3\"}",
+    "pc_ls_VK3k": "{\"name\":\"2.8\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"turnip-sdk36\"}",
+    "pc_set_constant_95": "{\"name\":\"2508\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"Proton-10.0-arm64ec-0\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-original",
+    "pc_ls_AUDIO_DRIVER": "0",
+    "pc_ls_update_enable_xinput": false,
+    "pc_ls_environment_variable": "DXVK_HUD=fps,frametimes,memory",
+    "bl_ext": {
+      "dxwrapper": "dxvk+vkd3d",
+      "screenSize": "1280x720",
+      "renderer": "opengl",
+      "sfCompatMode": "1",
+      "fullscreenMode": "0",
+      "frameGenEngine": "off",
+      "native": "false",
+      "swapRB": "false",
+      "presentMode": "fifo",
+      "fpsLimiterEnabled": "0",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "reshadeMode": "solo",
+      "reshadeEffect": "None",
+      "emulator": "fexcore",
+      "box64Version": "0.4.3-0",
+      "box64Preset": "COMPATIBILITY",
+      "fexcorePreset": "INTERMEDIATE",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "startupSelection": "1",
+      "inputType": "0",
+      "exclusiveXInput": "1",
+      "simTouchScreen": "1",
+      "numControllers": "1",
+      "controlsProfile": "3",
+      "wincomponents": "direct3d=1,directsound=1,directmusic=1,directshow=1,directplay=1,xaudio=1,vcrun2010=1",
+      "lc_all": "vi_VN.UTF-8",
+      "autoCloseOnExit": "1",
+      "dxwrapperConfig": "version=1.10.3,framerate=0,async=0,asyncCache=0,vkd3dVersion=2.8,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfigFile="
+    }
+  },
+  "components": [
+    {
+      "name": "1.10.3",
+      "type": "DXVK"
+    },
+    {
+      "name": "2.8",
+      "type": "VKD3D"
+    },
+    {
+      "name": "turnip-sdk36",
+      "type": "GPU"
+    },
+    {
+      "name": "2508",
+      "type": "FEXCore"
+    }
+  ]
+}
