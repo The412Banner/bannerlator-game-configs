@@ -20826,6 +20826,14 @@
     ],
     "name": "My Winter Car"
   },
+  "4165910": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Steam"
+    ],
+    "name": "Steam Machine"
+  },
   "418370": {
     "config_count": 21,
     "devices": [
@@ -25933,7 +25941,7 @@
     "name": "Tribes of Midgard"
   },
   "860510": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -25969,6 +25977,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g84_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "A715F",
+        "s": "Adreno (TM) 618"
       }
     ],
     "folders": [
@@ -27445,7 +27458,7 @@
     "name": "Dungeons Of Infinity"
   },
   "name:efootball-2021": {
-    "config_count": 38,
+    "config_count": 39,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -27521,6 +27534,11 @@
         "d": "Adreno__TM__840",
         "m": "S948B",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "G610_MC3",
+        "m": "Mali",
+        "s": "Mali-G610 MC3"
       }
     ],
     "folders": [
@@ -28046,7 +28064,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1974,
+    "config_count": 1975,
     "devices": [
       {
         "d": "G52_MC2",
