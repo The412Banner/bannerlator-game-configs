@@ -1104,12 +1104,17 @@
     "name": "Yes, Your Grace"
   },
   "1118200": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__642L",
         "m": "RMX3363",
         "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       }
     ],
     "folders": [
@@ -1956,7 +1961,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 266,
+    "config_count": 267,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -2224,11 +2229,6 @@
         "s": "Mali-G52 MC2"
       },
       {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      },
-      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
@@ -2247,6 +2247,11 @@
         "d": "Adreno__TM__610",
         "m": "A057M",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
@@ -6178,7 +6183,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 119,
+    "config_count": 120,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -9777,7 +9782,7 @@
     "name": "Insurgency"
   },
   "22300": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -26353,7 +26358,7 @@
     "name": "Last Epoch"
   },
   "911400": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "MT6833V_PNZA",
@@ -27424,6 +27429,14 @@
     ],
     "name": "Daorigins"
   },
+  "name:dbfighterz": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "DBFighterZ"
+    ],
+    "name": "Dbfighterz"
+  },
   "name:deus-ex-human-revolution-dc": {
     "config_count": 1,
     "devices": [],
@@ -28083,7 +28096,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1979,
+    "config_count": 1982,
     "devices": [
       {
         "d": "G52_MC2",
