@@ -6913,6 +6913,30 @@
     ],
     "name": "Clair Obscur: Expedition 33"
   },
+  "1904480": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "NP05J",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "Retroid_Pocket_6",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "A065",
+        "s": "Adreno (TM) 730"
+      }
+    ],
+    "folders": [
+      "Absolum"
+    ],
+    "name": "Absolum"
+  },
   "1909760": {
     "config_count": 1,
     "devices": [],
@@ -9895,7 +9919,7 @@
     "name": "Fallout 3: Game of the Year Edition"
   },
   "22380": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "G720_MC7",
@@ -9916,6 +9940,11 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__642L",
+        "m": "NX9",
+        "s": "Adreno (TM) 642L"
       }
     ],
     "folders": [
@@ -19769,7 +19798,7 @@
     "name": "Pacer"
   },
   "389730": {
-    "config_count": 34,
+    "config_count": 35,
     "devices": [
       {
         "d": "SM8850",
