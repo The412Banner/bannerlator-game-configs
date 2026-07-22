@@ -27211,14 +27211,6 @@
     ],
     "name": "Am2R"
   },
-  "name:ancestors-win64-shipping": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Ancestors-Win64-Shipping"
-    ],
-    "name": "Ancestors Win64 Shipping"
-  },
   "name:asm2launcher": {
     "config_count": 1,
     "devices": [],
@@ -27242,6 +27234,14 @@
       "AssassinsCreed_Dx9"
     ],
     "name": "Assassinscreed Dx9"
+  },
+  "name:avamain": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "AVAMain"
+    ],
+    "name": "Avamain"
   },
   "name:avernum-escape-from-the-pit-1-01-gog-directx": {
     "config_count": 1,
@@ -28035,7 +28035,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1971,
+    "config_count": 1972,
     "devices": [
       {
         "d": "G52_MC2",
@@ -28783,11 +28783,6 @@
         "s": "Adreno (TM) 650"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__618",
         "m": "M2101K6G",
         "s": "Adreno (TM) 618"
@@ -28801,6 +28796,11 @@
         "d": "Adreno__TM__619",
         "m": "A236M",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
@@ -29631,14 +29631,6 @@
       "TESV"
     ],
     "name": "Tesv"
-  },
-  "name:theeternalcylinder-win64-shipping": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "TheEternalCylinder-Win64-Shipping"
-    ],
-    "name": "Theeternalcylinder Win64 Shipping"
   },
   "name:tlauncher-installer-1-9-5-1": {
     "config_count": 1,
