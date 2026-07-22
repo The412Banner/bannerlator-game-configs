@@ -4289,7 +4289,7 @@
     "name": "Street Fighter V - Capcom Pro Tour: 2021 Premier Pass"
   },
   "1506830": {
-    "config_count": 59,
+    "config_count": 60,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -4360,6 +4360,11 @@
         "d": "Adreno__TM__22",
         "m": "Retroid_Pocket_G2",
         "s": "Adreno (TM) 22"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
       },
       {
         "d": "SM8750",
@@ -9642,7 +9647,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -9666,7 +9671,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -11916,7 +11922,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 22,
+    "config_count": 21,
     "devices": [
       {
         "d": "A075M",
@@ -11980,8 +11986,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes",
-      "LEGOMARVEL"
+      "LEGO__Marvel__Super_Heroes"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -13365,12 +13370,17 @@
     "name": "The Rogue Prince of Persia"
   },
   "272510": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__725",
         "m": "23049PCD8G",
         "s": "Adreno (TM) 725"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "G57_MC2",
@@ -14098,7 +14108,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 30,
+    "config_count": 29,
     "devices": [
       {
         "d": "G615_MC2",
@@ -14138,8 +14148,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -24136,7 +24145,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -26194,14 +26203,6 @@
     ],
     "name": "Valheim"
   },
-  "894710": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "bf1"
-    ],
-    "name": "IL-2 Sturmovik: Bf 109 G-6 Collector Plane"
-  },
   "899440": {
     "config_count": 1,
     "devices": [],
@@ -26225,7 +26226,7 @@
     "name": "Last Epoch"
   },
   "911400": {
-    "config_count": 27,
+    "config_count": 28,
     "devices": [
       {
         "d": "MT6833V_PNZA",
@@ -26283,6 +26284,11 @@
         "s": "Mali-G52 MC2"
       },
       {
+        "d": "Adreno__TM__610",
+        "m": "V2530",
+        "s": "Adreno (TM) 610"
+      },
+      {
         "d": "Adreno__TM__829",
         "m": "I2508",
         "s": "Adreno (TM) 829"
@@ -26295,8 +26301,14 @@
     "name": "Assassin's Creed\u00ae III Remastered"
   },
   "913670": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
     "folders": [
       "Wow"
     ],
@@ -27909,7 +27921,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1961,
+    "config_count": 1966,
     "devices": [
       {
         "d": "G52_MC2",
@@ -28652,11 +28664,6 @@
         "s": "Adreno (TM) 613"
       },
       {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "A057M",
         "s": "Adreno (TM) 610"
@@ -28677,6 +28684,11 @@
         "s": "Adreno (TM) 618"
       },
       {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
+      },
+      {
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
@@ -28685,6 +28697,11 @@
         "d": "Adreno__TM__610",
         "m": "A235F",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Samsung_Xclipse_540",
