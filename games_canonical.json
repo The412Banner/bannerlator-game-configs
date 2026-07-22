@@ -14976,7 +14976,7 @@
     "name": "GET EVEN"
   },
   "3010850": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -14987,6 +14987,7 @@
     "folders": [
       "Gears_Of_War",
       "Gears_of_War",
+      "Gears_of_war_2",
       "Gears_of_War_2"
     ],
     "name": "Gears of War: E-Day"
@@ -16001,7 +16002,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1043,
+    "config_count": 1045,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -16927,6 +16928,11 @@
         "d": "Adreno__TM__750",
         "m": "Pocket_FIT",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__630",
+        "m": "IN2020",
+        "s": "Adreno (TM) 630"
       }
     ],
     "folders": [
@@ -16942,6 +16948,7 @@
       "PlayGTAV",
       "_____5",
       "GTA5",
+      "GTA_V",
       "Grand_Theft_Auto___V"
     ],
     "name": "Grand Theft Auto V Enhanced"
@@ -24922,7 +24929,7 @@
     "name": "Ben 10"
   },
   "710920": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -24937,7 +24944,8 @@
     ],
     "folders": [
       "Darksiders",
-      "Darksiders_Genesis"
+      "Darksiders_Genesis",
+      "DarksidersGenesis"
     ],
     "name": "Darksiders Genesis"
   },
@@ -26546,6 +26554,14 @@
     ],
     "name": "Cat Quest II"
   },
+  "917040": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "KikiKaikai"
+    ],
+    "name": "Groove Coaster - KIKIKAIKAI"
+  },
   "919410": {
     "config_count": 1,
     "devices": [
@@ -27852,14 +27868,6 @@
       "JUMP_FORCE"
     ],
     "name": "Jump Force"
-  },
-  "name:kikikaikai": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "KikiKaikai"
-    ],
-    "name": "Kikikaikai"
   },
   "name:kinebox": {
     "config_count": 1,
