@@ -27839,6 +27839,20 @@
     ],
     "name": "Nfs13"
   },
+  "name:nierautomatacompat": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
+      }
+    ],
+    "folders": [
+      "NieRAutomataCompat"
+    ],
+    "name": "Nierautomatacompat"
+  },
   "name:nsuns-4": {
     "config_count": 1,
     "devices": [],
