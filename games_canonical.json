@@ -10129,7 +10129,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 150,
+    "config_count": 151,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -10380,6 +10380,11 @@
         "d": "Adreno__TM__619",
         "m": "22111317PG",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G76_MC4",
+        "m": "Mali",
+        "s": "Mali-G76 MC4"
       }
     ],
     "folders": [
@@ -23732,7 +23737,7 @@
     "name": "Attack on Titan 2 - A.O.T.2"
   },
   "601150": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "unknown",
