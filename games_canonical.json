@@ -15843,7 +15843,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1035,
+    "config_count": 1036,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -16486,11 +16486,6 @@
         "s": "Adreno (TM) 618"
       },
       {
-        "d": "Adreno__TM__650",
-        "m": "G780G",
-        "s": "Adreno (TM) 650"
-      },
-      {
         "d": "G52",
         "m": "Mali",
         "s": "Mali-G52"
@@ -16704,6 +16699,11 @@
         "d": "Adreno__TM__710",
         "m": "RMX3844",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "G780G",
+        "s": "Adreno (TM) 650"
       },
       {
         "d": "Adreno__TM__830",
@@ -26194,6 +26194,14 @@
     ],
     "name": "Valheim"
   },
+  "894710": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "bf1"
+    ],
+    "name": "IL-2 Sturmovik: Bf 109 G-6 Collector Plane"
+  },
   "899440": {
     "config_count": 1,
     "devices": [],
@@ -27901,7 +27909,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1960,
+    "config_count": 1961,
     "devices": [
       {
         "d": "G52_MC2",
