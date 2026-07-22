@@ -5434,7 +5434,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 78,
+    "config_count": 79,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -8530,7 +8530,7 @@
     "name": "South Park\u2122: The Stick of Truth\u2122"
   },
   "2138330": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "G610_MC3",
@@ -8546,6 +8546,11 @@
         "d": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
         "m": "A556E",
         "s": "ANGLE ((Samsung Xclipse 530) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "moto_e22",
+        "s": "PowerVR Rogue GE8320"
       }
     ],
     "folders": [
@@ -14913,7 +14918,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -14932,7 +14937,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -15907,7 +15913,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1038,
+    "config_count": 1041,
     "devices": [
       {
         "d": "Adreno__TM__630",
