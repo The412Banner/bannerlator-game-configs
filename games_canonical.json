@@ -29,8 +29,14 @@
     "name": "WRC 8 FIA World Rally Championship"
   },
   "1004921": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      }
+    ],
     "folders": [
       "DiRT_4"
     ],
@@ -1950,7 +1956,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 263,
+    "config_count": 266,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -2183,11 +2189,6 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "Adreno__TM__610",
-        "m": "A057M",
-        "s": "Adreno (TM) 610"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "23122PCD1G",
         "s": "Adreno (TM) 710"
@@ -2240,6 +2241,11 @@
       {
         "d": "Adreno__TM__610",
         "m": "LX2",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "A057M",
         "s": "Adreno (TM) 610"
       }
     ],
@@ -15918,7 +15924,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1041,
+    "config_count": 1042,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -17868,12 +17874,17 @@
     "name": "Cricket 26 - The Official Game of the Ashes"
   },
   "3469850": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [
       {
         "d": "G52",
         "m": "Mali",
         "s": "Mali-G52"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
@@ -28035,7 +28046,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1972,
+    "config_count": 1974,
     "devices": [
       {
         "d": "G52_MC2",
