@@ -10143,7 +10143,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 151,
+    "config_count": 152,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -23371,7 +23371,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 36,
+    "config_count": 37,
     "devices": [
       {
         "d": "G57",
@@ -28083,7 +28083,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1976,
+    "config_count": 1979,
     "devices": [
       {
         "d": "G52_MC2",
@@ -28721,11 +28721,6 @@
         "s": "Mali-G720 MC7"
       },
       {
-        "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-        "m": "S731B",
-        "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
-      },
-      {
         "d": "G71",
         "m": "Mali",
         "s": "Mali-G71"
@@ -28849,6 +28844,11 @@
         "d": "PowerVR_Rogue_GE8320",
         "m": "A042M",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+        "m": "S731B",
+        "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
       },
       {
         "d": "Adreno__TM__740",
