@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "Xiaomi 24069PC21G",
+    "soc": "Adreno (TM) 735",
+    "bh_version": "2.8",
+    "upload_token": "1bdb08e79c2ccdb8",
+    "settings_count": 9,
+    "components_count": 3
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"v3.0.2-binsem-gplasync-arm64ec-0ff9cd32-0\"}",
+    "pc_ls_VK3k": "{\"name\":\"3.0.1-3dfc6f07-1\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"Mesa Turnip v26.3.0-20260722\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"proton-9.0-arm64ec\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-original",
+    "pc_ls_AUDIO_DRIVER": "1",
+    "pc_ls_update_enable_xinput": true,
+    "pc_ls_environment_variable": "WINEDLLOVERRIDES=winhttp=n,b",
+    "bl_ext": {
+      "dxwrapper": "dxvk+vkd3d",
+      "screenSize": "960x544",
+      "renderer": "vulkan",
+      "sfCompatMode": "1",
+      "fullscreenMode": "0",
+      "frameGenEngine": "lsfg",
+      "native": "false",
+      "swapRB": "false",
+      "presentMode": "mailbox",
+      "fpsLimiterEnabled": "1",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "reshadeMode": "solo",
+      "reshadeEffect": "None",
+      "emulator": "box64",
+      "box64Version": "Box64-Hybrid-WOW64-662955050-0",
+      "box64Preset": "CUSTOM-1",
+      "fexcorePreset": "PERFORMANCE_TSO",
+      "cpuList": "1,2,3,4,5,6",
+      "startupSelection": "1",
+      "inputType": "4",
+      "exclusiveXInput": "1",
+      "simTouchScreen": "0",
+      "numControllers": "1",
+      "controlsProfile": "5",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1",
+      "lc_all": "in_ID.UTF-8",
+      "autoCloseOnExit": "1",
+      "dxwrapperConfig": "version=v3.0.2-binsem-gplasync-arm64ec-0ff9cd32-0,framerate=0,async=1,asyncCache=1,vkd3dVersion=3.0.1-3dfc6f07-1,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfigFile="
+    }
+  },
+  "components": [
+    {
+      "name": "v3.0.2-binsem-gplasync-arm64ec-0ff9cd32-0",
+      "type": "DXVK"
+    },
+    {
+      "name": "3.0.1-3dfc6f07-1",
+      "type": "VKD3D"
+    },
+    {
+      "name": "Mesa Turnip v26.3.0-20260722",
+      "type": "GPU"
+    }
+  ]
+}
