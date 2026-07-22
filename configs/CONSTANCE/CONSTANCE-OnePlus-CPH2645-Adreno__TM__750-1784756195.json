@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "OnePlus CPH2645",
+    "soc": "Adreno (TM) 750",
+    "bh_version": "2.8",
+    "uploader": {
+      "name": "tiredmist",
+      "avatarUrl": "https:\/\/bannerhub-configs-worker.the412banner.workers.dev\/account\/avatar?uid=15af7190f4056ba98942a2ddf7b4b1d4"
+    },
+    "upload_token": "6123d4243ab3348a",
+    "settings_count": 9,
+    "components_count": 3
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"2.3.1-arm64ec-gplasync\"}",
+    "pc_ls_VK3k": "{\"name\":\"None\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"Turnip v26.3.0-R1\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"Proton-10.0-arm64ec-0\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-original",
+    "pc_ls_AUDIO_DRIVER": "1",
+    "pc_ls_update_enable_xinput": true,
+    "pc_ls_environment_variable": "DXVK_HUD=fps,gpuload,version",
+    "bl_ext": {
+      "dxwrapper": "dxvk+vkd3d",
+      "screenSize": "1280x720",
+      "renderer": "vulkan",
+      "sfCompatMode": "1",
+      "fullscreenMode": "2",
+      "frameGenEngine": "off",
+      "native": "false",
+      "swapRB": "false",
+      "presentMode": "fifo",
+      "fpsLimiterEnabled": "1",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "reshadeMode": "solo",
+      "reshadeEffect": "None",
+      "emulator": "box64",
+      "box64Version": "WOWBox64-Hybrid-0f94ebfe6-0",
+      "box64Preset": "UNITY_MONO_BLEEDING_EDGE",
+      "fexcorePreset": "PERFORMANCE",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "startupSelection": "1",
+      "inputType": "4",
+      "exclusiveXInput": "1",
+      "simTouchScreen": "0",
+      "numControllers": "1",
+      "controlsProfile": "3",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1",
+      "lc_all": "en_PK.UTF-8",
+      "autoCloseOnExit": "1",
+      "dxwrapperConfig": "version=2.3.1-arm64ec-gplasync,framerate=0,async=1,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_0,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfigFile="
+    }
+  },
+  "components": [
+    {
+      "name": "2.3.1-arm64ec-gplasync",
+      "type": "DXVK"
+    },
+    {
+      "name": "None",
+      "type": "VKD3D"
+    },
+    {
+      "name": "Turnip v26.3.0-R1",
+      "type": "GPU"
+    }
+  ]
+}
