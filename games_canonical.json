@@ -2913,7 +2913,7 @@
     "name": "SIGNALIS"
   },
   "1262540": {
-    "config_count": 3,
+    "config_count": 5,
     "devices": [
       {
         "d": "G52_MC2",
@@ -2924,10 +2924,16 @@
         "d": "Adreno__TM__750",
         "m": "F956B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "A057M",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
-      "Need_for_Speed_"
+      "Need_for_Speed_",
+      "need_for_speed"
     ],
     "name": "Need for Speed\u2122"
   },
@@ -6018,7 +6024,7 @@
     "name": "Mirror's Edge\u2122"
   },
   "17470": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "Odin2",
@@ -6041,11 +6047,6 @@
         "s": "PowerVR B-Series BXM-8-256"
       },
       {
-        "d": "Adreno__TM__610",
-        "m": "A057M",
-        "s": "Adreno (TM) 610"
-      },
-      {
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
@@ -6063,6 +6064,11 @@
       {
         "d": "Adreno__TM__610",
         "m": "23021RAAEG",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "A057M",
         "s": "Adreno (TM) 610"
       }
     ],
@@ -8838,7 +8844,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 81,
+    "config_count": 82,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -9753,7 +9759,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -10593,7 +10599,7 @@
     "name": "Euro Truck Simulator 2 Demo"
   },
   "2313700": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -11785,6 +11791,20 @@
       "SSSS"
     ],
     "name": "The Legend of Heroes: Trails into Reverie - SSS Summer Splash Set"
+  },
+  "2436570": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "A057M",
+        "s": "Adreno (TM) 610"
+      }
+    ],
+    "folders": [
+      "DRAGON_QUEST_BUILDERS"
+    ],
+    "name": "DRAGON QUEST BUILDERS"
   },
   "244210": {
     "config_count": 1,
@@ -15983,7 +16003,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1042,
+    "config_count": 1043,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -23942,8 +23962,13 @@
     "name": "Blazing Chrome"
   },
   "612880": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
+      },
       {
         "d": "Retroid_Pocket_5",
         "m": "Moorechip",

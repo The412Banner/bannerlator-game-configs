@@ -118,7 +118,6 @@
   },
   "Absolum": {
     "appid": 1904480,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1904480/header.jpg",
     "method": "naive",
     "steam_name": "Absolum"
   },
@@ -1629,6 +1628,12 @@
     "appid": 1790600,
     "method": "naive",
     "steam_name": "DRAGON BALL: Sparking! ZERO"
+  },
+  "DRAGON_QUEST_BUILDERS": {
+    "appid": 2436570,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2436570/header.jpg",
+    "method": "naive",
+    "steam_name": "DRAGON QUEST BUILDERS"
   },
   "DRAGON_QUEST_I___II_HD-2D_Remake": {
     "appid": 2701660,
@@ -10059,6 +10064,12 @@
   "need-for-speed-underground-2-demo": {
     "appid": null,
     "method": "unresolved"
+  },
+  "need_for_speed": {
+    "appid": 1262540,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1262540/header.jpg",
+    "method": "naive",
+    "steam_name": "Need for Speed\u2122"
   },
   "need_for_speed_most_wanted_": {
     "appid": 1262560,
