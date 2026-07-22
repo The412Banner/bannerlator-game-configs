@@ -9631,7 +9631,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -9655,7 +9655,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -11905,7 +11906,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "A075M",
@@ -11969,7 +11970,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes"
+      "LEGO__Marvel__Super_Heroes",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -13779,7 +13781,7 @@
     "name": "BeamNG.drive"
   },
   "2856190": {
-    "config_count": 85,
+    "config_count": 86,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -14081,7 +14083,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 30,
+    "config_count": 29,
     "devices": [
       {
         "d": "G615_MC2",
@@ -14121,8 +14123,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -15826,7 +15827,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1034,
+    "config_count": 1035,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24130,7 +24131,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -24238,7 +24239,7 @@
     "name": "Do Not Feed the Monkeys"
   },
   "660080": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -24249,6 +24250,11 @@
         "d": "Immortalis_MC11",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC11"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "2510DPC44G",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -26414,7 +26420,7 @@
     "name": "Life is Strange: True Colors"
   },
   "937890": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -26429,6 +26435,11 @@
       {
         "d": "Adreno__TM__830",
         "m": "I2401",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "2510DPC44G",
         "s": "Adreno (TM) 830"
       }
     ],
@@ -26556,7 +26567,7 @@
     "name": "Volcanoids"
   },
   "952060": {
-    "config_count": 61,
+    "config_count": 62,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -27054,6 +27065,14 @@
       "ACBSP"
     ],
     "name": "Acbsp"
+  },
+  "name:acfc": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "ACFC"
+    ],
+    "name": "Acfc"
   },
   "name:acrsp": {
     "config_count": 1,
@@ -27871,7 +27890,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1956,
+    "config_count": 1958,
     "devices": [
       {
         "d": "G52_MC2",
