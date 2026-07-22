@@ -499,6 +499,20 @@
     ],
     "name": "Survivalist: Invisible Strain"
   },
+  "1055540": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__710",
+        "m": "23122PCD1G",
+        "s": "Adreno (TM) 710"
+      }
+    ],
+    "folders": [
+      "A_Short_Hike"
+    ],
+    "name": "A Short Hike"
+  },
   "105600": {
     "config_count": 2,
     "devices": [],
@@ -1922,7 +1936,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 262,
+    "config_count": 263,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -2208,6 +2222,11 @@
         "d": "Adreno__TM__740",
         "m": "S918B",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "LX2",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
