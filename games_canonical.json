@@ -541,7 +541,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -567,16 +567,10 @@
         "d": "Adreno__TM__740",
         "m": "2211133C",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Ori_and_the_Will_of_the_Wisps",
-      "Ori",
       "Ori_and_the_will_of_the_wisps"
     ],
     "name": "Ori and the Will of the Wisps"
@@ -658,14 +652,6 @@
       "Arma_3"
     ],
     "name": "Arma 3"
-  },
-  "1080920": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GRID_2"
-    ],
-    "name": "Defense Grid 2 - Aftermath"
   },
   "108600": {
     "config_count": 1,
@@ -9660,7 +9646,7 @@
     "name": "Five Nights at Freddy's: Secret of the Mimic"
   },
   "221540": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [],
     "folders": [
       "GRID_2"
@@ -18887,7 +18873,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "G68_MC4",
@@ -18903,11 +18889,22 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE"
+      "oriDE",
+      "Ori"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -27406,6 +27403,14 @@
     ],
     "name": "Dirt Showdown"
   },
+  "name:dragon-ball-fighters-z": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Dragon_Ball_Fighters_Z"
+    ],
+    "name": "Dragon Ball Fighters Z"
+  },
   "name:dungeons-of-infinity": {
     "config_count": 1,
     "devices": [
@@ -27673,6 +27678,14 @@
       "GTAVLauncher"
     ],
     "name": "Gtavlauncher"
+  },
+  "name:hoi4": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "hoi4"
+    ],
+    "name": "Hoi4"
   },
   "name:ikenai-kozukuri": {
     "config_count": 1,
@@ -28014,7 +28027,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1968,
+    "config_count": 1970,
     "devices": [
       {
         "d": "G52_MC2",
@@ -28380,11 +28393,6 @@
         "d": "Adreno__TM__830",
         "m": "NX799J",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "A236M",
-        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__618",
@@ -28780,6 +28788,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "A236M",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__740",
@@ -29416,14 +29429,6 @@
       "ProjectZomboid64"
     ],
     "name": "Projectzomboid64"
-  },
-  "name:red-win64-shipping-eac-nop-loaded": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "RED-Win64-Shipping-eac-nop-loaded"
-    ],
-    "name": "Red Win64 Shipping Eac Nop Loaded"
   },
   "name:rock-man-x8-16-bit": {
     "config_count": 1,
