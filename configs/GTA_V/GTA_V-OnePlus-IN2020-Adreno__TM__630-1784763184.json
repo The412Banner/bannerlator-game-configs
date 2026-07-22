@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "OnePlus IN2020",
+    "soc": "Adreno (TM) 630",
+    "bh_version": "2.7.1",
+    "uploader": {
+      "name": "Anthony",
+      "avatarUrl": "https:\/\/bannerhub-configs-worker.the412banner.workers.dev\/account\/avatar?uid=090e5b6c08de63438f96086e5fca83fc"
+    },
+    "upload_token": "2435553fe211f3ce",
+    "settings_count": 10,
+    "components_count": 4
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"1.11.1-60383b1\"}",
+    "pc_ls_VK3k": "{\"name\":\"None\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"Mesa Turnip Driver v25.1.0 Revision 2\"}",
+    "pc_set_constant_95": "{\"name\":\"FEXCore-2607-nightly-unix-0\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"Proton-11.0-1-arm64ec-1\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-original",
+    "pc_ls_AUDIO_DRIVER": "1",
+    "pc_ls_update_enable_xinput": true,
+    "pc_ls_environment_variable": "DXVK_STATE_CACHE_PATH=.\/ DXVK_STATE_CACHE=1 STAGING_SHARED_MEMORY=1 WINEESYNC=1",
+    "bl_ext": {
+      "dxwrapper": "vegas+vkd3d",
+      "screenSize": "800x600",
+      "renderer": "vulkan",
+      "sfCompatMode": "1",
+      "fullscreenMode": "2",
+      "frameGenEngine": "lsfg",
+      "native": "false",
+      "swapRB": "false",
+      "presentMode": "mailbox",
+      "fpsLimiterEnabled": "1",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "reshadeMode": "solo",
+      "reshadeEffect": "None",
+      "emulator": "fexcore",
+      "box64Version": "0.4.3-0",
+      "box64Preset": "EXTREME",
+      "fexcorePreset": "PERFORMANCE",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "startupSelection": "2",
+      "inputType": "4",
+      "exclusiveXInput": "1",
+      "simTouchScreen": "0",
+      "numControllers": "1",
+      "controlsProfile": "4",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1",
+      "midiSoundFont": "wt_210k_G.sf2",
+      "lc_all": "en_US.UTF-8",
+      "autoCloseOnExit": "1",
+      "dxwrapperConfig": "version=1.11.1-60383b1,framerate=30,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfigFile=\/storage\/emulated\/0\/Winlator\/dxvk.conf"
+    }
+  },
+  "components": [
+    {
+      "name": "1.11.1-60383b1",
+      "type": "DXVK"
+    },
+    {
+      "name": "None",
+      "type": "VKD3D"
+    },
+    {
+      "name": "Mesa Turnip Driver v25.1.0 Revision 2",
+      "type": "GPU"
+    },
+    {
+      "name": "FEXCore-2607-nightly-unix-0",
+      "type": "FEXCore"
+    }
+  ]
+}
