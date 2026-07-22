@@ -4653,7 +4653,7 @@
     "name": "Grand Theft Auto III \u2013 The Definitive Edition"
   },
   "1547000": {
-    "config_count": 21,
+    "config_count": 24,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -4714,6 +4714,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "52B",
+        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
@@ -19155,7 +19160,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 22,
+    "config_count": 23,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -19213,6 +19218,7 @@
       "DARK_SOULS",
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
+      "DarkSoulsIII",
       "Dark_Souls_III"
     ],
     "name": "DARK SOULS\u2122 III"
@@ -24242,6 +24248,20 @@
       "The_LEGO__NINJAGO__Movie_Video_Game"
     ],
     "name": "The LEGO\u00ae NINJAGO\u00ae Movie Video Game"
+  },
+  "640820": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__725",
+        "m": "23049PCD8I",
+        "s": "Adreno (TM) 725"
+      }
+    ],
+    "folders": [
+      "Pathfinder_Kingmaker"
+    ],
+    "name": "Pathfinder: Kingmaker \u2014 Enhanced Plus Edition"
   },
   "642090": {
     "config_count": 2,
