@@ -5182,6 +5182,20 @@
     ],
     "name": "Palworld"
   },
+  "1625450": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
+      }
+    ],
+    "folders": [
+      "Muck"
+    ],
+    "name": "Muck"
+  },
   "1627720": {
     "config_count": 3,
     "devices": [],
@@ -28069,7 +28083,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1975,
+    "config_count": 1976,
     "devices": [
       {
         "d": "G52_MC2",
@@ -28707,11 +28721,6 @@
         "s": "Mali-G720 MC7"
       },
       {
-        "d": "PowerVR_Rogue_GE8320",
-        "m": "A042M",
-        "s": "PowerVR Rogue GE8320"
-      },
-      {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
         "m": "S731B",
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
@@ -28835,6 +28844,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "A042M",
+        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "Adreno__TM__740",
