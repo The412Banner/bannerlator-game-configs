@@ -1961,7 +1961,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 267,
+    "config_count": 268,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -8590,7 +8590,7 @@
     "name": "South Park\u2122: The Stick of Truth\u2122"
   },
   "2138330": {
-    "config_count": 8,
+    "config_count": 11,
     "devices": [
       {
         "d": "G610_MC3",
@@ -12056,7 +12056,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 22,
+    "config_count": 21,
     "devices": [
       {
         "d": "A075M",
@@ -12120,8 +12120,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes",
-      "LEGOMARVEL"
+      "LEGO__Marvel__Super_Heroes"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -24352,7 +24351,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -26547,14 +26546,6 @@
     ],
     "name": "Cat Quest II"
   },
-  "917040": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "KikiKaikai"
-    ],
-    "name": "Groove Coaster - KIKIKAIKAI"
-  },
   "919410": {
     "config_count": 1,
     "devices": [
@@ -27861,6 +27852,14 @@
       "JUMP_FORCE"
     ],
     "name": "Jump Force"
+  },
+  "name:kikikaikai": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "KikiKaikai"
+    ],
+    "name": "Kikikaikai"
   },
   "name:kinebox": {
     "config_count": 1,
