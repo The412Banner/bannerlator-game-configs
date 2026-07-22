@@ -541,7 +541,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -567,16 +567,10 @@
         "d": "Adreno__TM__740",
         "m": "2211133C",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Ori_and_the_Will_of_the_Wisps",
-      "Ori",
       "Ori_and_the_will_of_the_wisps"
     ],
     "name": "Ori and the Will of the Wisps"
@@ -4538,6 +4532,14 @@
       "Are_You_Smarter_than_a_5th_Grader_"
     ],
     "name": "Are You Smarter Than A 5th Grader"
+  },
+  "1521580": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Heist"
+    ],
+    "name": "Perfect Heist 2"
   },
   "1528460": {
     "config_count": 1,
@@ -18860,7 +18862,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "G68_MC4",
@@ -18876,11 +18878,22 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE"
+      "oriDE",
+      "Ori"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -19562,14 +19575,6 @@
       "Case_Blind__Stolen_Route"
     ],
     "name": "Case Blind: Stolen Route"
-  },
-  "3858460": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Heist"
-    ],
-    "name": "PAYDAY 3: Delivery Charge Heist"
   },
   "3864890": {
     "config_count": 1,
@@ -20762,11 +20767,16 @@
     "name": "DEAD OR ALIVE 6 Last Round"
   },
   "4145490": {
-    "config_count": 4,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "I2401",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
         "s": "Adreno (TM) 830"
       }
     ],
