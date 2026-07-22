@@ -320,6 +320,20 @@
     ],
     "name": "Shank 2"
   },
+  "1029210": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "30XX"
+    ],
+    "name": "30XX"
+  },
   "1030300": {
     "config_count": 36,
     "devices": [
@@ -12570,6 +12584,14 @@
     ],
     "name": "Debug Girl"
   },
+  "257510": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "The_Talos_Principle"
+    ],
+    "name": "The Talos Principle"
+  },
   "2582320": {
     "config_count": 2,
     "devices": [],
@@ -22171,7 +22193,7 @@
     "name": "Warhammer 40,000: Gladius - Relics of War"
   },
   "489830": {
-    "config_count": 54,
+    "config_count": 55,
     "devices": [
       {
         "d": "unknown",
