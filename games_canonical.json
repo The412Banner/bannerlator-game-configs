@@ -1596,7 +1596,7 @@
     "name": "FINAL FANTASY"
   },
   "1174180": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "SM8750P",
@@ -1652,6 +1652,11 @@
         "d": "Adreno__TM__642L",
         "m": "motorola_edge_30",
         "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S931B",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "Adreno__TM__650",
@@ -9779,7 +9784,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -9803,7 +9808,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -14304,7 +14310,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 30,
+    "config_count": 29,
     "devices": [
       {
         "d": "G615_MC2",
@@ -14344,8 +14350,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -28383,7 +28388,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1994,
+    "config_count": 1996,
     "devices": [
       {
         "d": "G52_MC2",
@@ -29899,6 +29904,14 @@
       "SkyrimSE"
     ],
     "name": "Skyrimse"
+  },
+  "name:snapshot-lewd-shores": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Snapshot__Lewd_Shores"
+    ],
+    "name": "Snapshot Lewd Shores"
   },
   "name:sottr": {
     "config_count": 2,
