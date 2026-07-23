@@ -27713,7 +27713,13 @@
   },
   "name:ffvii": {
     "config_count": 1,
-    "devices": [],
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S936U",
+        "s": "Adreno (TM) 830"
+      }
+    ],
     "folders": [
       "FFVII"
     ],
