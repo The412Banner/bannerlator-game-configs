@@ -2325,7 +2325,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 31,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -2401,11 +2401,6 @@
         "d": "Adreno__TM__650",
         "m": "NP03J",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -3362,7 +3357,7 @@
     "name": "Handy Harry's Haunted House Services"
   },
   "1313140": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -12065,7 +12060,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "A075M",
@@ -12129,7 +12124,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes"
+      "LEGO__Marvel__Super_Heroes",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -21446,6 +21442,20 @@
     ],
     "name": "DREAMTONE Demo"
   },
+  "4430260": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "speed"
+    ],
+    "name": "Beat For Speed"
+  },
   "4435490": {
     "config_count": 3,
     "devices": [
@@ -24384,7 +24394,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -28257,7 +28267,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1989,
+    "config_count": 1990,
     "devices": [
       {
         "d": "G52_MC2",
