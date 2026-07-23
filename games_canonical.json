@@ -8728,20 +8728,6 @@
     ],
     "name": "LEGO\u00ae The Lord of the Rings\u2122"
   },
-  "215259": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "S936U",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "GangLand"
-    ],
-    "name": "Sleeping Dogs: Gangland Style Pack"
-  },
   "2153350": {
     "config_count": 1,
     "devices": [],
@@ -9758,7 +9744,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 11,
+    "config_count": 10,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -9782,8 +9768,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -14269,7 +14254,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "G615_MC2",
@@ -14309,7 +14294,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -27719,20 +27705,6 @@
     ],
     "name": "Eurotrucks2"
   },
-  "name:ffvii": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "S936U",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "FFVII"
-    ],
-    "name": "Ffvii"
-  },
   "name:fifa14-3dm": {
     "config_count": 1,
     "devices": [
@@ -27768,6 +27740,20 @@
       "fifaconfig"
     ],
     "name": "Fifaconfig"
+  },
+  "name:final-fantasy-7-steamrip-read-description": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S936U",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "Final_Fantasy_7_SteamRip__READ_DESCRIPTION_"
+    ],
+    "name": "Final Fantasy 7 Steamrip Read Description"
   },
   "name:final-fantasy-renaissance-2-2-6-32-bit": {
     "config_count": 1,
