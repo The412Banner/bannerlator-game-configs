@@ -1002,6 +1002,14 @@
     ],
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
+  "1110100": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Power Rangers: Battle for the Grid"
+  },
   "1110910": {
     "config_count": 1,
     "devices": [
@@ -1961,7 +1969,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 268,
+    "config_count": 270,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -2229,11 +2237,6 @@
         "s": "Mali-G52 MC2"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__740",
         "m": "S918B",
         "s": "Adreno (TM) 740"
@@ -2252,6 +2255,16 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "NX789S_V1B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -9749,7 +9762,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 11,
+    "config_count": 10,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -9773,8 +9786,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -13735,14 +13747,6 @@
     ],
     "name": "Hospital 666"
   },
-  "2787680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Candy Rangers"
-  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -14266,7 +14270,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "G615_MC2",
@@ -14306,7 +14310,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -15681,12 +15686,17 @@
     "name": "Way of the Samurai 4"
   },
   "313160": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -27899,6 +27909,14 @@
     ],
     "name": "Ikenai Kozukuri"
   },
+  "name:iw4sp": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "iw4sp"
+    ],
+    "name": "Iw4Sp"
+  },
   "name:jump-force": {
     "config_count": 1,
     "devices": [],
@@ -28239,7 +28257,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1987,
+    "config_count": 1989,
     "devices": [
       {
         "d": "G52_MC2",
