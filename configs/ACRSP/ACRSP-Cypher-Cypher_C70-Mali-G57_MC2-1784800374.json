@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "Cypher Cypher C70",
+    "soc": "Mali-G57 MC2",
+    "bh_version": "2.9-pre1",
+    "uploader": {
+      "name": "mmad-RPG",
+      "avatarUrl": "https:\/\/bannerhub-configs-worker.the412banner.workers.dev\/account\/avatar?uid=a96d4346f44f4cd4319917c43082e134"
+    },
+    "upload_token": "3a1bfcda0541d033",
+    "settings_count": 10,
+    "components_count": 4
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"1.11.1-sarek\"}",
+    "pc_ls_VK3k": "{\"name\":\"None\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"System\"}",
+    "pc_set_constant_95": "{\"name\":\"2508-1\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"proton-9.0-x86_64\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper",
+    "pc_ls_AUDIO_DRIVER": "1",
+    "pc_ls_update_enable_xinput": true,
+    "pc_ls_environment_variable": "WRAPPER_MAX_IMAGE_COUNT=0 VKD3D_SHADER_MODEL=6_6 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=512MB mesa_glthread=true WINEESYNC=1 TU_DEBUG=sysmem,noconform DXVK_DISABLE_TIMELINE_SEMAPHORES=1 DXVK_HUD=devinfo,fps,frametimes,gpuload,version,api",
+    "bl_ext": {
+      "dxwrapper": "dxvk+vkd3d",
+      "screenSize": "780x360",
+      "renderer": "vulkan",
+      "fullscreenMode": "0",
+      "frameGenEngine": "off",
+      "native": "false",
+      "swapRB": "false",
+      "presentMode": "fifo",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "reshadeMode": "solo",
+      "reshadeEffect": "None",
+      "emulator": "fexcore",
+      "box64Version": "0.3.9-056999e-1",
+      "box64Preset": "COMPATIBILITY",
+      "fexcorePreset": "PERFORMANCE",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "startupSelection": "2",
+      "inputType": "4",
+      "exclusiveXInput": "1",
+      "simTouchScreen": "0",
+      "controlsProfile": "5",
+      "wincomponents": "direct3d=0,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1",
+      "midiSoundFont": "wt_210k_G.sf2",
+      "lc_all": "fa_IR.UTF-8",
+      "dxwrapperConfig": "version=1.11.1-sarek,framerate=60,async=0,asyncCache=0,maxFrameLatency=1,vkd3dVersion=None,vkd3dLevel=12_2,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl"
+    }
+  },
+  "components": [
+    {
+      "name": "1.11.1-sarek",
+      "type": "DXVK"
+    },
+    {
+      "name": "None",
+      "type": "VKD3D"
+    },
+    {
+      "name": "System",
+      "type": "GPU"
+    },
+    {
+      "name": "2508-1",
+      "type": "FEXCore"
+    }
+  ]
+}
