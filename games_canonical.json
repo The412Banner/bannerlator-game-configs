@@ -3357,7 +3357,7 @@
     "name": "Handy Harry's Haunted House Services"
   },
   "1313140": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11175,16 +11175,22 @@
     "name": "Outlast"
   },
   "2384580": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [
       {
         "d": "SM8750",
         "m": "N49",
         "s": "SM8750"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DYNASTY_WARRIORS__ORIGINS"
+      "DYNASTY_WARRIORS__ORIGINS",
+      "Dynasty_Warriors_6"
     ],
     "name": "DYNASTY WARRIORS: ORIGINS"
   },
@@ -17399,7 +17405,7 @@
     "name": "CloverPit"
   },
   "331600": {
-    "config_count": 9,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -17410,10 +17416,16 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "One_Piece_Pirate_Warriors_3"
+      "One_Piece_Pirate_Warriors_3",
+      "ONE_PIECE__PIRATE_WARRIORS_3"
     ],
     "name": "One Piece Pirate Warriors 3"
   },
@@ -18042,7 +18054,7 @@
     "name": "Ghost Song"
   },
   "348470": {
-    "config_count": 7,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -25022,7 +25034,7 @@
     "name": "Starship EVO"
   },
   "71340": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G52_MC2",
@@ -25031,7 +25043,8 @@
       }
     ],
     "folders": [
-      "Sonic_Generations"
+      "Sonic_Generations",
+      "SonicGenerations"
     ],
     "name": "Sonic Generations Collection"
   },
@@ -25726,7 +25739,7 @@
     "name": "Tomb Raider: Underworld"
   },
   "814380": {
-    "config_count": 36,
+    "config_count": 39,
     "devices": [
       {
         "d": "Adreno__TM__650",
