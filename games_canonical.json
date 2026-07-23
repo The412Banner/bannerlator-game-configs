@@ -3349,7 +3349,7 @@
     "name": "Handy Harry's Haunted House Services"
   },
   "1313140": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -3360,6 +3360,11 @@
         "d": "Adreno__TM__610",
         "m": "W09",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "G781B",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
@@ -7861,7 +7866,7 @@
     "name": "Call of Juarez: Gunslinger"
   },
   "2050650": {
-    "config_count": 61,
+    "config_count": 62,
     "devices": [
       {
         "d": "G615_MC2",
@@ -7925,12 +7930,12 @@
       },
       {
         "d": "Adreno__TM__825",
-        "m": "25053PC47G",
+        "m": "I2405",
         "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__825",
-        "m": "I2405",
+        "m": "25053PC47G",
         "s": "Adreno (TM) 825"
       },
       {
@@ -13458,7 +13463,7 @@
     "name": "Palia"
   },
   "270880": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -13489,11 +13494,17 @@
         "d": "Adreno__TM__732",
         "m": "2410CRP4CG",
         "s": "Adreno (TM) 732"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g_8__plus",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
       "American_Truck_Simulator",
-      "American_truck_simulator"
+      "American_truck_simulator",
+      "tru"
     ],
     "name": "American Truck Simulator"
   },
@@ -17639,7 +17650,7 @@
     "name": "Arma 2 Free"
   },
   "339034": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -17710,6 +17721,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
@@ -28223,7 +28239,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1983,
+    "config_count": 1987,
     "devices": [
       {
         "d": "G52_MC2",
@@ -28856,11 +28872,6 @@
         "s": "Adreno (TM) 740"
       },
       {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      },
-      {
         "d": "G71",
         "m": "Mali",
         "s": "Mali-G71"
@@ -28976,11 +28987,6 @@
         "s": "Adreno (TM) 619"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "PowerVR_Rogue_GE8320",
         "m": "A042M",
         "s": "PowerVR Rogue GE8320"
@@ -28989,6 +28995,16 @@
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
         "m": "S731B",
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       },
       {
         "d": "Adreno__TM__740",
