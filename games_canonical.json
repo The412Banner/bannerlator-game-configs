@@ -10188,7 +10188,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 152,
+    "config_count": 153,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -10444,6 +10444,11 @@
         "d": "G76_MC4",
         "m": "Mali",
         "s": "Mali-G76 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g53_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -16002,7 +16007,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1045,
+    "config_count": 1046,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -27705,6 +27710,14 @@
       "eurotrucks2"
     ],
     "name": "Eurotrucks2"
+  },
+  "name:ffvii": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "FFVII"
+    ],
+    "name": "Ffvii"
   },
   "name:fifa14-3dm": {
     "config_count": 1,
