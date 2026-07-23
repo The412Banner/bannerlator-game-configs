@@ -4357,7 +4357,7 @@
     "name": "Street Fighter V - Capcom Pro Tour: 2021 Premier Pass"
   },
   "1506830": {
-    "config_count": 60,
+    "config_count": 61,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -4463,6 +4463,11 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__732",
+        "m": "2410CRP4CG",
+        "s": "Adreno (TM) 732"
       },
       {
         "d": "Adreno__TM__710",
@@ -7560,7 +7565,7 @@
     "name": "Assassin's Creed\u00ae Revelations"
   },
   "202170": {
-    "config_count": 51,
+    "config_count": 52,
     "devices": [
       {
         "d": "MT6878",
@@ -7651,6 +7656,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "2510EPC8BG",
+        "s": "Adreno (TM) 810"
       },
       {
         "d": "Adreno__TM__830",
@@ -10203,6 +10213,11 @@
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
+        "m": "TECNO_KG6k",
+        "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
         "m": "LX9",
         "s": "PowerVR Rogue GE8320"
       },
@@ -10460,18 +10475,13 @@
         "d": "Adreno__TM__619",
         "m": "moto_g53_5G",
         "s": "Adreno (TM) 619"
-      },
-      {
-        "d": "PowerVR_Rogue_GE8320",
-        "m": "TECNO_KG6k",
-        "s": "PowerVR Rogue GE8320"
       }
     ],
     "folders": [
+      "EuroTruckSimulator2",
       "Euro_Truck_Simulator",
       "Euro_Truck_Simulator_2",
-      "Euro_Truck_Simulator_2______________________________________",
-      "EuroTruckSimulator2"
+      "Euro_Truck_Simulator_2______________________________________"
     ],
     "name": "Euro Truck Simulator 2"
   },
@@ -28062,6 +28072,14 @@
       "KOFXV_Steam"
     ],
     "name": "Kofxv Steam"
+  },
+  "name:language-changer": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "language_changer"
+    ],
+    "name": "Language Changer"
   },
   "name:lunaabyss-wingdk-shipping": {
     "config_count": 1,
