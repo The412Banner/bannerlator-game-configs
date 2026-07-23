@@ -547,7 +547,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -573,10 +573,16 @@
         "d": "Adreno__TM__740",
         "m": "2211133C",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Ori_and_the_Will_of_the_Wisps",
+      "Ori",
       "Ori_and_the_will_of_the_wisps"
     ],
     "name": "Ori and the Will of the Wisps"
@@ -2660,7 +2666,7 @@
     "name": "Battlefield\u2122 V"
   },
   "1238820": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -2706,6 +2712,11 @@
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
@@ -3769,7 +3780,7 @@
     "name": "Street Fighter\u2122 6"
   },
   "1364960": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4173,6 +4184,20 @@
       "Wo_Long__Fallen_Dynasty"
     ],
     "name": "Wo Long: Fallen Dynasty"
+  },
+  "1450090": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
+        "m": "S711B",
+        "s": "ANGLE ((Samsung Xclipse 920) on Vulkan 1.3.279)"
+      }
+    ],
+    "folders": [
+      "The_Legend_of_Heroes__Sen_no_Kiseki_II_KAI_-The_Erebonian_Civil_War-"
+    ],
+    "name": "The Legend of Heroes: Sen no Kiseki II KAI -The Erebonian Civil War-"
   },
   "1451090": {
     "config_count": 1,
@@ -19096,7 +19121,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 13,
+    "config_count": 12,
     "devices": [
       {
         "d": "G68_MC4",
@@ -19112,22 +19137,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "2211133C",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE",
-      "Ori"
+      "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -25060,10 +25074,11 @@
     "name": "Half-Life"
   },
   "7000": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
-      "Tomb_Raider__Legend"
+      "Tomb_Raider__Legend",
+      "Tomb_Raider_-_Legend"
     ],
     "name": "Tomb Raider: Legend"
   },
@@ -28428,7 +28443,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2001,
+    "config_count": 2002,
     "devices": [
       {
         "d": "G52_MC2",
