@@ -10199,7 +10199,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 153,
+    "config_count": 154,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -10460,12 +10460,18 @@
         "d": "Adreno__TM__619",
         "m": "moto_g53_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "TECNO_KG6k",
+        "s": "PowerVR Rogue GE8320"
       }
     ],
     "folders": [
       "Euro_Truck_Simulator",
       "Euro_Truck_Simulator_2",
-      "Euro_Truck_Simulator_2______________________________________"
+      "Euro_Truck_Simulator_2______________________________________",
+      "EuroTruckSimulator2"
     ],
     "name": "Euro Truck Simulator 2"
   },
@@ -18544,7 +18550,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -18558,7 +18564,8 @@
       }
     ],
     "folders": [
-      "TombRaider"
+      "TombRaider",
+      "Tomb_Raider_2013"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -20018,7 +20025,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 146,
+    "config_count": 145,
     "devices": [
       {
         "d": "Pocket_FIT",
@@ -20278,8 +20285,7 @@
     ],
     "folders": [
       "Rise_of_the_Tomb_Raider_",
-      "Tomb_Raider",
-      "Tomb_Raider_2013"
+      "Tomb_Raider"
     ],
     "name": "Rise of the Tomb Raider\u2122"
   },
@@ -27972,7 +27978,7 @@
     "name": "Gtaiv"
   },
   "name:gtavlauncher": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -28359,7 +28365,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1994,
+    "config_count": 1993,
     "devices": [
       {
         "d": "G52_MC2",
