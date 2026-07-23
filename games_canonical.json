@@ -4387,7 +4387,7 @@
     "name": "Street Fighter V - Capcom Pro Tour: 2021 Premier Pass"
   },
   "1506830": {
-    "config_count": 61,
+    "config_count": 62,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -4498,6 +4498,11 @@
         "d": "Adreno__TM__732",
         "m": "2410CRP4CG",
         "s": "Adreno (TM) 732"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "23013PC75G",
+        "s": "Adreno (TM) 730"
       },
       {
         "d": "Adreno__TM__710",
@@ -7835,7 +7840,7 @@
     "name": "Binary Domain"
   },
   "204030": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G52_MC2",
@@ -7844,7 +7849,8 @@
       }
     ],
     "folders": [
-      "Fable_-_The_Lost_Chapters"
+      "Fable_-_The_Lost_Chapters",
+      "Fable_The_Lost_Chapters"
     ],
     "name": "Fable - The Lost Chapters"
   },
@@ -28448,7 +28454,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2002,
+    "config_count": 2005,
     "devices": [
       {
         "d": "G52_MC2",
@@ -29219,6 +29225,11 @@
         "d": "Adreno__TM__710",
         "m": "A366E",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G77_MC9",
+        "m": "Mali",
+        "s": "Mali-G77 MC9"
       },
       {
         "d": "Adreno__TM__740",
