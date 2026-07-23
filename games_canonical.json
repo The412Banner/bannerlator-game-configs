@@ -1002,6 +1002,14 @@
     ],
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
+  "1110100": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Power Rangers: Battle for the Grid"
+  },
   "1110910": {
     "config_count": 1,
     "devices": [
@@ -6204,7 +6212,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 122,
+    "config_count": 121,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -13746,14 +13754,6 @@
       "Hospital_666"
     ],
     "name": "Hospital 666"
-  },
-  "2787680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Candy Rangers"
   },
   "2796520": {
     "config_count": 1,
@@ -23384,6 +23384,20 @@
     ],
     "name": "Life is Strange: Before the Storm"
   },
+  "555000": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__650",
+        "m": "G781B",
+        "s": "Adreno (TM) 650"
+      }
+    ],
+    "folders": [
+      "GOAT_OF_DUTY"
+    ],
+    "name": "GOAT OF DUTY"
+  },
   "557340": {
     "config_count": 4,
     "devices": [
@@ -25515,7 +25529,7 @@
     "name": "Phoenix Wright: Ace Attorney Trilogy"
   },
   "787860": {
-    "config_count": 24,
+    "config_count": 23,
     "devices": [
       {
         "d": "Immortalis_MC12",
@@ -27400,7 +27414,7 @@
     "name": "Acfc"
   },
   "name:acrsp": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "ACRSP"
@@ -28304,7 +28318,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1990,
+    "config_count": 1991,
     "devices": [
       {
         "d": "G52_MC2",
@@ -28892,11 +28906,6 @@
         "s": "Adreno (TM) 618"
       },
       {
-        "d": "G76",
-        "m": "Mali",
-        "s": "Mali-G76"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "CPH2725",
         "s": "Adreno (TM) 610"
@@ -29070,6 +29079,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "G76",
+        "m": "Mali",
+        "s": "Mali-G76"
       },
       {
         "d": "Adreno__TM__740",
