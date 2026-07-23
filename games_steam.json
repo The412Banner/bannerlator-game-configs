@@ -3107,7 +3107,6 @@
   },
   "GOAT_OF_DUTY": {
     "appid": 555000,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/555000/header.jpg",
     "method": "naive",
     "steam_name": "GOAT OF DUTY"
   },
@@ -9231,6 +9230,12 @@
     "appid": 447040,
     "method": "naive",
     "steam_name": "Watch_Dogs\u00ae 2"
+  },
+  "WayOfTheSamurai3": {
+    "appid": 427510,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/427510/header.jpg",
+    "method": "norm",
+    "steam_name": "Way of the Samurai 3"
   },
   "WayOfTheSamurai4": {
     "appid": 312780,
