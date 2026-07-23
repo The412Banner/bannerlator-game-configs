@@ -22429,7 +22429,7 @@
     "name": "Warhammer 40,000: Gladius - Relics of War"
   },
   "489830": {
-    "config_count": 55,
+    "config_count": 56,
     "devices": [
       {
         "d": "unknown",
@@ -22532,14 +22532,14 @@
         "s": "Mali-G925-Immortalis MC11"
       },
       {
-        "d": "Adreno__TM__740",
-        "m": "AYN_Thor",
-        "s": "Adreno (TM) 740"
-      },
-      {
         "d": "Adreno__TM__725",
         "m": "23049PCD8G",
         "s": "Adreno (TM) 725"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "AYN_Thor",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -28346,7 +28346,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1993,
+    "config_count": 1994,
     "devices": [
       {
         "d": "G52_MC2",
@@ -29094,11 +29094,6 @@
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
@@ -29112,6 +29107,11 @@
         "d": "G76",
         "m": "Mali",
         "s": "Mali-G76"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
@@ -29753,6 +29753,14 @@
       "ProjectZomboid64"
     ],
     "name": "Projectzomboid64"
+  },
+  "name:quasimorph1": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Quasimorph1"
+    ],
+    "name": "Quasimorph1"
   },
   "name:rock-man-x8-16-bit": {
     "config_count": 1,
