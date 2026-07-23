@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "Xiaomi 23113RKC6G",
+    "soc": "Adreno (TM) 740",
+    "bh_version": "2.8",
+    "upload_token": "68ba6358bbb90cb6",
+    "settings_count": 10,
+    "components_count": 4
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"2.7.1.1-sdk36-arm64ec\"}",
+    "pc_ls_VK3k": "{\"name\":\"2.14.1\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"Qualcomm Adreno 840\"}",
+    "pc_set_constant_95": "{\"name\":\"2508\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"Proton-11.0-1-arm64ec-1\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-gamenative",
+    "pc_ls_AUDIO_DRIVER": "0",
+    "pc_ls_update_enable_xinput": true,
+    "pc_ls_environment_variable": "WRAPPER_MAX_IMAGE_COUNT=0 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=512MB mesa_glthread=true WINEESYNC=1 TU_DEBUG=sysmem,noconform DXVK_HUD=devinfo,fps,frametimes,gpuload,version,api force-gxt-direct=d3d11",
+    "bl_ext": {
+      "dxwrapper": "dxvk+vkd3d",
+      "screenSize": "1280x720",
+      "renderer": "vulkan",
+      "sfCompatMode": "1",
+      "fullscreenMode": "0",
+      "frameGenEngine": "off",
+      "native": "false",
+      "swapRB": "false",
+      "presentMode": "fifo",
+      "fpsLimiterEnabled": "0",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "reshadeMode": "solo",
+      "reshadeEffect": "None",
+      "emulator": "fexcore",
+      "box64Version": "0.3.7",
+      "box64Preset": "UNITY",
+      "fexcorePreset": "PERFORMANCE",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "startupSelection": "1",
+      "inputType": "4",
+      "exclusiveXInput": "1",
+      "simTouchScreen": "0",
+      "numControllers": "1",
+      "controlsProfile": "3",
+      "wincomponents": "direct3d=1,directsound=1,directmusic=1,directshow=1,directplay=1,xaudio=1,vcrun2010=1",
+      "lc_all": "ru_RU.UTF-8",
+      "autoCloseOnExit": "1",
+      "dxwrapperConfig": "version=2.7.1.1-sdk36-arm64ec,framerate=0,async=0,asyncCache=0,vkd3dVersion=2.14.1,vkd3dLevel=12_2,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfigFile="
+    }
+  },
+  "components": [
+    {
+      "name": "2.7.1.1-sdk36-arm64ec",
+      "type": "DXVK"
+    },
+    {
+      "name": "2.14.1",
+      "type": "VKD3D"
+    },
+    {
+      "name": "Qualcomm Adreno 840",
+      "type": "GPU"
+    },
+    {
+      "name": "2508",
+      "type": "FEXCore"
+    }
+  ]
+}
