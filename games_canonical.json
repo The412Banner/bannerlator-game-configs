@@ -8883,7 +8883,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 82,
+    "config_count": 83,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -28302,6 +28302,14 @@
     ],
     "name": "Oblivion Lost Remake"
   },
+  "name:oriwotw": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "oriwotw"
+    ],
+    "name": "Oriwotw"
+  },
   "name:our-cumdump-teacher-repack-games-com": {
     "config_count": 1,
     "devices": [],
@@ -28406,7 +28414,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 1997,
+    "config_count": 1999,
     "devices": [
       {
         "d": "G52_MC2",
@@ -29084,11 +29092,6 @@
         "s": "Mali-G68"
       },
       {
-        "d": "Adreno__TM__710",
-        "m": "A366E",
-        "s": "Adreno (TM) 710"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "23073RPBFL",
         "s": "Adreno (TM) 610"
@@ -29177,6 +29180,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "A366E",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__740",
@@ -29331,7 +29339,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 150,
+    "config_count": 151,
     "devices": [
       {
         "d": "G615_MC2",
