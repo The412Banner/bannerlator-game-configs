@@ -12882,7 +12882,13 @@
   },
   "260750": {
     "config_count": 1,
-    "devices": [],
+    "devices": [
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      }
+    ],
     "folders": [
       "Neighbours_From_Hell"
     ],
