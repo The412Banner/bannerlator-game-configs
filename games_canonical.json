@@ -6204,7 +6204,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 120,
+    "config_count": 122,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -6389,7 +6389,8 @@
     ],
     "folders": [
       "DRAGON_BALL_Sparking__ZERO",
-      "DRAGON_BALL__Sparking__ZERO"
+      "DRAGON_BALL__Sparking__ZERO",
+      "SparkingZERO"
     ],
     "name": "DRAGON BALL: Sparking! ZERO"
   },
@@ -9754,7 +9755,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -9778,7 +9779,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -14276,7 +14278,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 30,
+    "config_count": 29,
     "devices": [
       {
         "d": "G615_MC2",
@@ -14316,8 +14318,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -25514,7 +25515,7 @@
     "name": "Phoenix Wright: Ace Attorney Trilogy"
   },
   "787860": {
-    "config_count": 21,
+    "config_count": 24,
     "devices": [
       {
         "d": "Immortalis_MC12",
@@ -25555,6 +25556,11 @@
         "d": "MT6878",
         "m": "A015",
         "s": "MT6878"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       }
     ],
     "folders": [
