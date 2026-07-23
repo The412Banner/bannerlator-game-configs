@@ -1016,6 +1016,14 @@
     ],
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
+  "1110100": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Power Rangers: Battle for the Grid"
+  },
   "1110910": {
     "config_count": 1,
     "devices": [
@@ -10093,7 +10101,7 @@
     "name": "Tomb Raider II (1997)"
   },
   "2254490": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -13831,14 +13839,6 @@
       "Hospital_666"
     ],
     "name": "Hospital 666"
-  },
-  "2787680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Candy Rangers"
   },
   "2796520": {
     "config_count": 1,
@@ -28454,7 +28454,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2005,
+    "config_count": 2006,
     "devices": [
       {
         "d": "G52_MC2",
@@ -29230,6 +29230,11 @@
         "d": "G77_MC9",
         "m": "Mali",
         "s": "Mali-G77 MC9"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "NX3",
+        "s": "Adreno (TM) 810"
       },
       {
         "d": "Adreno__TM__740",
