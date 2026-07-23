@@ -1002,14 +1002,6 @@
     ],
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
-  "1110100": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Power Rangers: Battle for the Grid"
-  },
   "1110910": {
     "config_count": 1,
     "devices": [
@@ -1680,7 +1672,7 @@
     "name": "A Plague Tale: Requiem"
   },
   "1196590": {
-    "config_count": 27,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -1741,6 +1733,11 @@
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "TB321FU",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -12066,7 +12063,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 22,
+    "config_count": 21,
     "devices": [
       {
         "d": "A075M",
@@ -12130,8 +12127,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes",
-      "LEGOMARVEL"
+      "LEGO__Marvel__Super_Heroes"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -13748,6 +13744,14 @@
       "Hospital_666"
     ],
     "name": "Hospital 666"
+  },
+  "2787680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Candy Rangers"
   },
   "2796520": {
     "config_count": 1,
@@ -18054,7 +18058,7 @@
     "name": "Ghost Song"
   },
   "348470": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -18512,7 +18516,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -18526,7 +18530,8 @@
       }
     ],
     "folders": [
-      "TombRaider"
+      "TombRaider",
+      "Tomb_Raider_2013"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -19320,7 +19325,7 @@
     "name": "HELLMART"
   },
   "3764200": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -19374,7 +19379,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Requiem"
+      "Resident_Evil_Requiem",
+      "re9"
     ],
     "name": "Resident Evil Requiem"
   },
@@ -19985,7 +19991,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 146,
+    "config_count": 145,
     "devices": [
       {
         "d": "Pocket_FIT",
@@ -20245,8 +20251,7 @@
     ],
     "folders": [
       "Rise_of_the_Tomb_Raider_",
-      "Tomb_Raider",
-      "Tomb_Raider_2013"
+      "Tomb_Raider"
     ],
     "name": "Rise of the Tomb Raider\u2122"
   },
@@ -23881,7 +23886,7 @@
     "name": "Attack on Titan 2 - A.O.T.2"
   },
   "601150": {
-    "config_count": 30,
+    "config_count": 31,
     "devices": [
       {
         "d": "unknown",
@@ -23952,6 +23957,11 @@
         "d": "Adreno__TM__710",
         "m": "23122PCD1I",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
@@ -24414,7 +24424,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
