@@ -12462,12 +12462,17 @@
     "name": "The Last of Us\u2122 Part II Remastered"
   },
   "2536520": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
         "m": "Armor_X13",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -16043,7 +16048,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1047,
+    "config_count": 1048,
     "devices": [
       {
         "d": "Adreno__TM__630",
