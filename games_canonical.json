@@ -16024,7 +16024,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1046,
+    "config_count": 1047,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -17408,6 +17408,11 @@
     "config_count": 12,
     "devices": [
       {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
+      },
+      {
         "d": "Adreno__TM__740",
         "m": "S911B",
         "s": "Adreno (TM) 740"
@@ -17416,16 +17421,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g45_5G",
-        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "One_Piece_Pirate_Warriors_3",
-      "ONE_PIECE__PIRATE_WARRIORS_3"
+      "ONE_PIECE__PIRATE_WARRIORS_3",
+      "One_Piece_Pirate_Warriors_3"
     ],
     "name": "One Piece Pirate Warriors 3"
   },
@@ -21933,6 +21933,14 @@
       "Halo_Wars__Definitive_Edition"
     ],
     "name": "Halo Wars: Definitive Edition"
+  },
+  "4600470": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "re4"
+    ],
+    "name": "Season 4 Battlefield Pro - Battlefield\u2122 6 and REDSEC"
   },
   "460790": {
     "config_count": 1,
