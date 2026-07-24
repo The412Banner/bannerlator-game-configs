@@ -547,7 +547,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -573,16 +573,10 @@
         "d": "Adreno__TM__740",
         "m": "2211133C",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Ori_and_the_Will_of_the_Wisps",
-      "Ori",
       "Ori_and_the_will_of_the_wisps"
     ],
     "name": "Ori and the Will of the Wisps"
@@ -9941,7 +9935,7 @@
     "name": "Fallout 3"
   },
   "2231770": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "256",
@@ -16169,7 +16163,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1052,
+    "config_count": 1053,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -19163,7 +19157,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "G68_MC4",
@@ -19179,11 +19173,22 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE"
+      "oriDE",
+      "Ori"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -28537,7 +28542,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2017,
+    "config_count": 2022,
     "devices": [
       {
         "d": "G52_MC2",
@@ -29305,11 +29310,6 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__720",
         "m": "NX9",
         "s": "Adreno (TM) 720"
@@ -29323,6 +29323,16 @@
         "d": "Adreno__TM__610",
         "m": "23129RA5FL",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "G781B",
+        "s": "Adreno (TM) 650"
       },
       {
         "d": "Adreno__TM__740",
