@@ -3887,12 +3887,17 @@
     "name": "Crash Bandicoot\u2122 4: It\u2019s About Time"
   },
   "1384160": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "SM8850",
         "m": "I2501",
         "s": "SM8850"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "ASUSAI2501AP",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -27842,6 +27847,14 @@
     ],
     "name": "Cod2Sp S"
   },
+  "name:codwaw": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "CoDWaW"
+    ],
+    "name": "Codwaw"
+  },
   "name:crysiswh": {
     "config_count": 1,
     "devices": [],
@@ -29558,7 +29571,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 151,
+    "config_count": 152,
     "devices": [
       {
         "d": "G615_MC2",
@@ -29764,6 +29777,11 @@
         "d": "Adreno__TM__630",
         "m": "POCO_F1",
         "s": "Adreno (TM) 630"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "CPH2727",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__740",
