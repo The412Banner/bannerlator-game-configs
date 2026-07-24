@@ -2000,7 +2000,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 278,
+    "config_count": 279,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -22891,6 +22891,14 @@
     ],
     "name": "Bot Vice"
   },
+  "492720": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Tropico_6"
+    ],
+    "name": "Tropico 6"
+  },
   "494430": {
     "config_count": 1,
     "devices": [
@@ -28784,7 +28792,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2038,
+    "config_count": 2039,
     "devices": [
       {
         "d": "G52_MC2",
@@ -29572,14 +29580,14 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "Adreno__TM__610",
-        "m": "A057M",
-        "s": "Adreno (TM) 610"
-      },
-      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "A057M",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__740",
