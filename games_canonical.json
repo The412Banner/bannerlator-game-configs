@@ -15635,7 +15635,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "G78",
@@ -15681,6 +15681,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "moto_g75_5G",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
@@ -21495,6 +21500,20 @@
     ],
     "name": "Tales of Berseria\u2122"
   },
+  "4305290": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__725",
+        "m": "23049PCD8G",
+        "s": "Adreno (TM) 725"
+      }
+    ],
+    "folders": [
+      "Lewd_Remedy_Demo"
+    ],
+    "name": "Lewd Remedy Demo"
+  },
   "4307720": {
     "config_count": 1,
     "devices": [],
@@ -23157,7 +23176,7 @@
     "name": "Da Capo 3 R"
   },
   "543870": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "moto_e13",
@@ -23198,6 +23217,11 @@
         "d": "Adreno__TM__730",
         "m": "S906E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "moto_g75_5G",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
@@ -27822,6 +27846,14 @@
       "Dirt_Showdown"
     ],
     "name": "Dirt Showdown"
+  },
+  "name:discordcanarysetup": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "DiscordCanarySetup"
+    ],
+    "name": "Discordcanarysetup"
   },
   "name:dragon-ball-fighters-z": {
     "config_count": 1,
