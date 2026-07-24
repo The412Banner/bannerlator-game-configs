@@ -547,7 +547,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -573,10 +573,16 @@
         "d": "Adreno__TM__740",
         "m": "2211133C",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Ori_and_the_Will_of_the_Wisps",
+      "Ori",
       "Ori_and_the_will_of_the_wisps"
     ],
     "name": "Ori and the Will of the Wisps"
@@ -10292,7 +10298,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 155,
+    "config_count": 157,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -16198,7 +16204,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1055,
+    "config_count": 1057,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -17059,6 +17065,11 @@
         "d": "Adreno__TM__650",
         "m": "G780G",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "A366B",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__830",
@@ -19217,7 +19228,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 13,
+    "config_count": 12,
     "devices": [
       {
         "d": "G68_MC4",
@@ -19233,22 +19244,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "2211133C",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE",
-      "Ori"
+      "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -28638,7 +28638,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2024,
+    "config_count": 2025,
     "devices": [
       {
         "d": "G52_MC2",
@@ -29588,7 +29588,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 152,
+    "config_count": 154,
     "devices": [
       {
         "d": "G615_MC2",
@@ -30063,6 +30063,14 @@
       "Pro_evolution_soccer"
     ],
     "name": "Pro Evolution Soccer"
+  },
+  "name:pro-evolution-soccer-2017": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Pro_evolution_soccer_2017"
+    ],
+    "name": "Pro Evolution Soccer 2017"
   },
   "name:pro-evolution-soccer-2017-settings": {
     "config_count": 1,
