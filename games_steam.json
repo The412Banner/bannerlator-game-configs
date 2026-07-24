@@ -5330,7 +5330,6 @@
   },
   "Mortal_Kombat_1": {
     "appid": 1971870,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/header.jpg",
     "method": "naive",
     "steam_name": "Mortal Kombat 1"
   },
@@ -6054,7 +6053,6 @@
   },
   "Outlast_2": {
     "appid": 414700,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/414700/header.jpg",
     "method": "naive",
     "steam_name": "Outlast 2"
   },
@@ -9137,6 +9135,12 @@
   "Virtual_Desktop_Streamer": {
     "appid": null,
     "method": "unresolved"
+  },
+  "Virtual_Driving_School_Demo": {
+    "appid": 1669010,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1669010/header.jpg",
+    "method": "naive",
+    "steam_name": "Virtual Driving School Demo"
   },
   "Visage": {
     "appid": 594330,

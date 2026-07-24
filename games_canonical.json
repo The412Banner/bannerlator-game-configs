@@ -688,7 +688,7 @@
     "name": "Baldur's Gate 3"
   },
   "108710": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -704,6 +704,11 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2012K11AG",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
@@ -1995,7 +2000,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 276,
+    "config_count": 277,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -2283,14 +2288,14 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G52",
         "m": "Mali",
         "s": "Mali-G52"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -5707,6 +5712,20 @@
     ],
     "name": "The Legend of Heroes: Trails from Zero"
   },
+  "1669010": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "LX2",
+        "s": "Adreno (TM) 610"
+      }
+    ],
+    "folders": [
+      "Virtual_Driving_School_Demo"
+    ],
+    "name": "Virtual Driving School Demo"
+  },
   "1669420": {
     "config_count": 1,
     "devices": [
@@ -8832,7 +8851,7 @@
     "name": "Divine Divinity"
   },
   "2141730": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "Backrooms__Escape_Together"
@@ -9238,7 +9257,7 @@
     "name": "Shave & Stuff"
   },
   "219990": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -9249,6 +9268,11 @@
         "d": "Adreno__TM__740",
         "m": "Pocket_S",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__732",
+        "m": "CPH2663",
+        "s": "Adreno (TM) 732"
       }
     ],
     "folders": [
@@ -16229,7 +16253,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1060,
+    "config_count": 1061,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -23103,8 +23127,13 @@
     "name": "Celeste"
   },
   "516750": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
       {
         "d": "G57",
         "m": "Mali",
@@ -28749,7 +28778,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2033,
+    "config_count": 2036,
     "devices": [
       {
         "d": "G52_MC2",
