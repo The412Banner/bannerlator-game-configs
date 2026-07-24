@@ -18667,7 +18667,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -18678,6 +18678,11 @@
         "d": "Adreno__TM__730",
         "m": "CPH2521",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "G52_MC2",
@@ -20730,7 +20735,7 @@
     "name": "Portal"
   },
   "4000": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "G57_MC2",
@@ -20744,7 +20749,8 @@
       }
     ],
     "folders": [
-      "Garry_s_Mod"
+      "Garry_s_Mod",
+      "gmod"
     ],
     "name": "Garry's Mod"
   },
