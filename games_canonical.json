@@ -1700,7 +1700,7 @@
     "name": "A Plague Tale: Requiem"
   },
   "1196590": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -1769,7 +1769,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Village"
+      "Resident_Evil_Village",
+      "re8"
     ],
     "name": "Resident Evil Village"
   },
@@ -8920,7 +8921,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 83,
+    "config_count": 84,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -9013,11 +9014,6 @@
         "s": "Adreno (TM) 735"
       },
       {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
-      },
-      {
         "d": "Adreno__TM__810",
         "m": "2510ERA8BG",
         "s": "Adreno (TM) 810"
@@ -9031,6 +9027,11 @@
         "d": "Adreno__TM__750",
         "m": "F956B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       }
     ],
     "folders": [
