@@ -18841,7 +18841,13 @@
   },
   "3580340": {
     "config_count": 1,
-    "devices": [],
+    "devices": [
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
+      }
+    ],
     "folders": [
       "Existential_Treads"
     ],
