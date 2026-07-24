@@ -547,7 +547,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -573,10 +573,16 @@
         "d": "Adreno__TM__740",
         "m": "2211133C",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Ori_and_the_Will_of_the_Wisps",
+      "Ori",
       "Ori_and_the_will_of_the_wisps"
     ],
     "name": "Ori and the Will of the Wisps"
@@ -9835,7 +9841,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -9859,7 +9865,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -11050,6 +11057,14 @@
       "Tom_Clancy_s_Splinter_Cell_Blacklist"
     ],
     "name": "Tom Clancy\u2019s Splinter Cell Blacklist"
+  },
+  "2358050": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GraalOnline_Era"
+    ],
+    "name": "GraalOnline Era"
   },
   "2358720": {
     "config_count": 6,
@@ -14067,7 +14082,7 @@
     "name": "BeamNG.drive"
   },
   "2856190": {
-    "config_count": 89,
+    "config_count": 91,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -14175,11 +14190,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "Adreno__TM__735",
-        "m": "24069RA21C",
-        "s": "Adreno (TM) 735"
-      },
-      {
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
@@ -14188,6 +14198,11 @@
         "d": "Adreno__TM__650",
         "m": "23043RP34G",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069RA21C",
+        "s": "Adreno (TM) 735"
       }
     ],
     "folders": [
@@ -14398,7 +14413,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 30,
+    "config_count": 29,
     "devices": [
       {
         "d": "G615_MC2",
@@ -14438,8 +14453,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -18659,7 +18673,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -18673,6 +18687,7 @@
       }
     ],
     "folders": [
+      "Atla",
       "TombRaider",
       "Tomb_Raider_2013"
     ],
@@ -19157,7 +19172,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 13,
+    "config_count": 12,
     "devices": [
       {
         "d": "G68_MC4",
@@ -19173,22 +19188,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "2211133C",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE",
-      "Ori"
+      "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -29845,7 +29849,7 @@
     "name": "PES 5"
   },
   "name:pes-6": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__740",
