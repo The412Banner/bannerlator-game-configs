@@ -12158,7 +12158,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "A075M",
@@ -12222,7 +12222,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes"
+      "LEGO__Marvel__Super_Heroes",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -24666,7 +24667,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -28381,6 +28382,20 @@
       "Need_for_speed__Underground"
     ],
     "name": "Need For Speed Underground"
+  },
+  "name:nfs-most-wanted": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "NFS_Most_Wanted"
+    ],
+    "name": "Nfs Most Wanted"
   },
   "name:nfs-most-wanted-2005": {
     "config_count": 1,
