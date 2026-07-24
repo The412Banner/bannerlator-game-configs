@@ -1995,7 +1995,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 274,
+    "config_count": 276,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -2101,11 +2101,6 @@
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
-      },
-      {
-        "d": "G52",
-        "m": "Mali",
-        "s": "Mali-G52"
       },
       {
         "d": "Adreno__TM__740",
@@ -2291,6 +2286,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G52",
+        "m": "Mali",
+        "s": "Mali-G52"
       }
     ],
     "folders": [
@@ -9871,7 +9871,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 11,
+    "config_count": 10,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -9895,8 +9895,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -14443,7 +14442,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "G615_MC2",
@@ -14483,7 +14482,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -28713,7 +28713,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2029,
+    "config_count": 2032,
     "devices": [
       {
         "d": "G52_MC2",
@@ -29401,11 +29401,6 @@
         "s": "Adreno (TM) 613"
       },
       {
-        "d": "Adreno__TM__610",
-        "m": "A057M",
-        "s": "Adreno (TM) 610"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "G780G",
         "s": "Adreno (TM) 650"
@@ -29509,6 +29504,11 @@
         "d": "Adreno__TM__710",
         "m": "2312DRA50G",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "A057M",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__740",
@@ -30202,7 +30202,7 @@
     "name": "Rocket League"
   },
   "name:rottr": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -30250,6 +30250,14 @@
       "SecretFlasherManaka"
     ],
     "name": "Secretflashermanaka"
+  },
+  "name:seint-seiya-soldier-s-soul": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Seint_Seiya_Soldier_s_Soul"
+    ],
+    "name": "Seint Seiya Soldier S Soul"
   },
   "name:shfix": {
     "config_count": 1,
