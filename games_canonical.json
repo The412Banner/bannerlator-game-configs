@@ -13269,7 +13269,7 @@
     "name": "POOLS"
   },
   "2668510": {
-    "config_count": 30,
+    "config_count": 31,
     "devices": [
       {
         "d": "SM8635",
@@ -13285,11 +13285,6 @@
         "d": "Adreno__TM__740",
         "m": "Odin2",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__710",
-        "m": "moto_g75_5G",
-        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__740",
@@ -13340,6 +13335,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "moto_g75_5G",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
@@ -27624,6 +27624,20 @@
       "1-GRAND_THEFT_AUTO_V_-_NORMAL"
     ],
     "name": "1 Grand Theft Auto V Normal"
+  },
+  "name:acblackflag": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__829",
+        "m": "motorola_signature",
+        "s": "Adreno (TM) 829"
+      }
+    ],
+    "folders": [
+      "ACBlackFlag"
+    ],
+    "name": "Acblackflag"
   },
   "name:acbsp": {
     "config_count": 1,

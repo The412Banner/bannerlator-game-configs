@@ -1,10 +1,10 @@
-raw folders: 2244   total configs: 11040
+raw folders: 2244   total configs: 11041
 non-game (filtered out): 120
-MERGED canonical games (have appid): 1494
+MERGED canonical games (have appid): 1495
   folders collapsed by merge: 413
 still-unresolved real games (no appid): 486
-GAME-COUNT RATE: 1494/1980 = 75%  (vs 67% raw baseline)
-CONFIG-COVERAGE (matters for matching): 10244/11066 = 93%
+GAME-COUNT RATE: 1495/1981 = 75%  (vs 67% raw baseline)
+CONFIG-COVERAGE (matters for matching): 10246/11068 = 93%
 top-merged examples:
   appid 1665460: 19 folders, 79 configs, 21 devices  ['PES', 'PES_13', 'PES_2013']
   appid name:pes-2013: 16 folders, 2024 configs, 163 devices  ['PES2013', 'PES_2013_Fix', 'PES_2013_LEND_RIO_']
