@@ -4953,7 +4953,7 @@
     "name": "Cairn"
   },
   "1593500": {
-    "config_count": 124,
+    "config_count": 125,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -7437,6 +7437,20 @@
       "SAND_LAND"
     ],
     "name": "SAND LAND"
+  },
+  "1984270": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Digimon_Story_Time_Stranger"
+    ],
+    "name": "Digimon Story Time Stranger"
   },
   "19900": {
     "config_count": 14,
@@ -21683,6 +21697,20 @@
     ],
     "name": "States of Power Demo"
   },
+  "4418080": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__720",
+        "m": "W00",
+        "s": "Adreno (TM) 720"
+      }
+    ],
+    "folders": [
+      "false_"
+    ],
+    "name": "False Echo"
+  },
   "4419920": {
     "config_count": 1,
     "devices": [
@@ -22793,7 +22821,7 @@
     "name": "Praey for the Gods"
   },
   "495140": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -23927,7 +23955,7 @@
     "name": "PUBG: BATTLEGROUNDS"
   },
   "582010": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -23941,7 +23969,8 @@
       }
     ],
     "folders": [
-      "Monster_Hunter__World"
+      "Monster_Hunter__World",
+      "MONSTER_HUNTER_-_WORLD"
     ],
     "name": "Monster Hunter: World"
   },
@@ -25400,7 +25429,7 @@
     "name": "Borderlands Game of the Year Enhanced"
   },
   "730": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "G78",
@@ -25416,6 +25445,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
       },
       {
         "d": "Adreno__TM__840",
