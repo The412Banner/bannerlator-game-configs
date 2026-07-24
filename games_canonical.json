@@ -12156,7 +12156,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 22,
+    "config_count": 21,
     "devices": [
       {
         "d": "A075M",
@@ -12220,8 +12220,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes",
-      "LEGOMARVEL"
+      "LEGO__Marvel__Super_Heroes"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -24620,7 +24619,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -28538,7 +28537,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2016,
+    "config_count": 2017,
     "devices": [
       {
         "d": "G52_MC2",
@@ -29211,11 +29210,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "Adreno__TM__610",
-        "m": "23129RA5FL",
-        "s": "Adreno (TM) 610"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "2312DRA50G",
         "s": "Adreno (TM) 710"
@@ -29324,6 +29318,11 @@
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__740",
