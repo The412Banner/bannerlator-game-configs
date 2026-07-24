@@ -28233,8 +28233,14 @@
     "name": "Mk10"
   },
   "name:mkke": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
+      }
+    ],
     "folders": [
       "MKKE"
     ],
@@ -28500,7 +28506,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2014,
+    "config_count": 2016,
     "devices": [
       {
         "d": "G52_MC2",
@@ -29053,11 +29059,6 @@
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
       },
       {
-        "d": "G720_MC8",
-        "m": "Mali",
-        "s": "Mali-G720 MC8"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "23028RA60L",
         "s": "Adreno (TM) 610"
@@ -29286,6 +29287,11 @@
         "d": "Adreno__TM__720",
         "m": "NX9",
         "s": "Adreno (TM) 720"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
       },
       {
         "d": "Adreno__TM__740",
