@@ -1,5 +1,12 @@
 [
   {
+    "game": "MKKE",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1784857882,
+    "filename": "MKKE-samsung-SM-A176B-Mali-G68-1784857882.json"
+  },
+  {
     "game": "SparkingZERO",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1784811595,
     "filename": "PlayRDR-asus-ASUS_AI2401_C-Adreno__TM__750-1784811595.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "AN00",
-    "device": "Adreno__TM__840",
-    "timestamp": 1784811380,
-    "filename": "PlayGTAV-HONOR-AAP-AN00-Adreno__TM__840-1784811380.json"
   }
 ]
