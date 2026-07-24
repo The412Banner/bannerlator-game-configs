@@ -5328,6 +5328,12 @@
     "appid": null,
     "method": "unresolved"
   },
+  "Mortal_Kombat_1": {
+    "appid": 1971870,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/header.jpg",
+    "method": "naive",
+    "steam_name": "Mortal Kombat 1"
+  },
   "Mortal_Kombat_11": {
     "appid": 976310,
     "method": "naive",
@@ -6045,6 +6051,12 @@
     "appid": 238320,
     "method": "naive",
     "steam_name": "Outlast"
+  },
+  "Outlast_2": {
+    "appid": 414700,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/414700/header.jpg",
+    "method": "naive",
+    "steam_name": "Outlast 2"
   },
   "Outrun_-_Coast_to_Coast": {
     "appid": null,
