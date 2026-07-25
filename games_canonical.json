@@ -2463,7 +2463,13 @@
   },
   "1222690": {
     "config_count": 1,
-    "devices": [],
+    "devices": [
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
+      }
+    ],
     "folders": [
       "Dragon_Age__Inquisition"
     ],
@@ -3368,7 +3374,7 @@
     "name": "The Mortuary Assistant"
   },
   "1297900": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G720_MC7",
@@ -3377,8 +3383,7 @@
       }
     ],
     "folders": [
-      "Gothic_1_Remake",
-      "Gothic"
+      "Gothic_1_Remake"
     ],
     "name": "Gothic 1 Remake"
   },
@@ -9313,7 +9318,7 @@
     "name": "Shave & Stuff"
   },
   "219990": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -11352,14 +11357,6 @@
       "Deus_Ex__Human_Revolution_-_Director_s_Cut"
     ],
     "name": "Deus Ex: Human Revolution - Director's Cut"
-  },
-  "2380801": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Magic_of_Blood_2"
-    ],
-    "name": "Bloodstained: Ritual of the Night - Magical Girl Cosmetic Pack"
   },
   "238090": {
     "config_count": 2,
@@ -13967,7 +13964,7 @@
     "name": "PROJECT 13"
   },
   "275850": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Odin2",
@@ -13988,11 +13985,6 @@
         "d": "Adreno__TM__830",
         "m": "S938B",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "ASUS_AI2205_D",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -14134,14 +14126,6 @@
       "Woolfe"
     ],
     "name": "Woolfe - The Red Hood Diaries"
-  },
-  "281990": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Stellaris"
-    ],
-    "name": "Stellaris"
   },
   "2820080": {
     "config_count": 1,
@@ -19828,7 +19812,7 @@
     "name": "Professor Teaches\u00ae Excel 2013 & 365"
   },
   "377160": {
-    "config_count": 17,
+    "config_count": 16,
     "devices": [
       {
         "d": "SM8750P",
@@ -20266,14 +20250,6 @@
       "Gamble_With_Your_Friends"
     ],
     "name": "Gamble With Your Friends"
-  },
-  "389250": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Planet_Alcatraz_2"
-    ],
-    "name": "Planet Alcatraz 2"
   },
   "389670": {
     "config_count": 1,
@@ -20897,20 +20873,6 @@
       "Ys_X__Proud_Nordics"
     ],
     "name": "Ys X: Proud Nordics"
-  },
-  "39510": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "ASUS_AI2205_D",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "Gothic_2"
-    ],
-    "name": "Gothic II: Gold Edition"
   },
   "3962150": {
     "config_count": 1,
