@@ -9313,7 +9313,7 @@
     "name": "Shave & Stuff"
   },
   "219990": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -11352,6 +11352,14 @@
       "Deus_Ex__Human_Revolution_-_Director_s_Cut"
     ],
     "name": "Deus Ex: Human Revolution - Director's Cut"
+  },
+  "2380801": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Magic_of_Blood_2"
+    ],
+    "name": "Bloodstained: Ritual of the Night - Magical Girl Cosmetic Pack"
   },
   "238090": {
     "config_count": 2,
@@ -13959,7 +13967,7 @@
     "name": "PROJECT 13"
   },
   "275850": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Odin2",
@@ -13980,6 +13988,11 @@
         "d": "Adreno__TM__830",
         "m": "S938B",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "ASUS_AI2205_D",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -20882,6 +20895,20 @@
       "Ys_X__Proud_Nordics"
     ],
     "name": "Ys X: Proud Nordics"
+  },
+  "39510": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "ASUS_AI2205_D",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Gothic_2"
+    ],
+    "name": "Gothic II: Gold Edition"
   },
   "3962150": {
     "config_count": 1,
