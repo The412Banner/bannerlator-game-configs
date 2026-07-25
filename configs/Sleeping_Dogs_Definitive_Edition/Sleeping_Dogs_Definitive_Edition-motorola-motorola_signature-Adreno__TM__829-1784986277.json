@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "motorola motorola signature",
+    "soc": "Adreno (TM) 829",
+    "bh_version": "2.8",
+    "uploader": {
+      "name": "stefanomusumeci",
+      "avatarUrl": "null"
+    },
+    "upload_token": "517f8ee871f997f2",
+    "settings_count": 10,
+    "components_count": 4
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"v3.0.2-gplasync-arm64ec-1a5919b7-0\"}",
+    "pc_ls_VK3k": "{\"name\":\"arm64ec-3.0.1-3dfc6f07-1\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"Mesa Turnip v26.3.0-20260724-r4-A8xx\"}",
+    "pc_set_constant_95": "{\"name\":\"FEX-2607+302-Nightly-0589d9b87-PPA-unix-0\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"Proton-11.0-1-arm64ec-2\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-original",
+    "pc_ls_AUDIO_DRIVER": "0",
+    "pc_ls_update_enable_xinput": true,
+    "pc_ls_environment_variable": "ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=false mesa_glthread=true WINEESYNC=1 TU_DEBUG=sysmem,noconform MESA_SHADER_CACHE_MAX_SIZE=512MB WRAPPER_MAX_IMAGE_COUNT=0",
+    "bl_ext": {
+      "dxwrapper": "dxvk+vkd3d",
+      "screenSize": "1280x720",
+      "renderer": "vulkan",
+      "sfCompatMode": "1",
+      "fullscreenMode": "1",
+      "frameGenEngine": "bionic",
+      "native": "false",
+      "swapRB": "false",
+      "presentMode": "fifo",
+      "fpsLimiterEnabled": "1",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "reshadeMode": "solo",
+      "reshadeEffect": "None",
+      "emulator": "fexcore",
+      "box64Version": "Box64-Hybrid-WOW64-74a38a470-0",
+      "box64Preset": "COMPATIBILITY",
+      "fexcorePreset": "PERFORMANCE_TSO",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "startupSelection": "2",
+      "inputType": "4",
+      "exclusiveXInput": "1",
+      "simTouchScreen": "0",
+      "numControllers": "1",
+      "controlsProfile": "4",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1",
+      "lc_all": "it_IT.UTF-8",
+      "autoCloseOnExit": "1",
+      "dxwrapperConfig": "version=v3.0.2-gplasync-arm64ec-1a5919b7-0,framerate=0,async=1,asyncCache=1,vkd3dVersion=arm64ec-3.0.1-3dfc6f07-1,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfigFile="
+    }
+  },
+  "components": [
+    {
+      "name": "v3.0.2-gplasync-arm64ec-1a5919b7-0",
+      "type": "DXVK"
+    },
+    {
+      "name": "arm64ec-3.0.1-3dfc6f07-1",
+      "type": "VKD3D"
+    },
+    {
+      "name": "Mesa Turnip v26.3.0-20260724-r4-A8xx",
+      "type": "GPU"
+    },
+    {
+      "name": "FEX-2607+302-Nightly-0589d9b87-PPA-unix-0",
+      "type": "FEXCore"
+    }
+  ]
+}
