@@ -2383,7 +2383,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -2454,6 +2454,11 @@
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
         "m": "S926B",
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "_2023",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__650",
@@ -21087,7 +21092,7 @@
     "name": "Godot Engine"
   },
   "4048520": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__722",
@@ -29038,7 +29043,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2046,
+    "config_count": 2047,
     "devices": [
       {
         "d": "G52_MC2",
@@ -29686,11 +29691,6 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "G68",
-        "m": "Mali",
-        "s": "Mali-G68"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "23073RPBFL",
         "s": "Adreno (TM) 610"
@@ -29834,6 +29834,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g84_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
       },
       {
         "d": "Adreno__TM__740",
