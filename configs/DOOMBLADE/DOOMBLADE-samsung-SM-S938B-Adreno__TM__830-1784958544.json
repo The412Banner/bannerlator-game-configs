@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "samsung SM-S938B",
+    "soc": "Adreno (TM) 830",
+    "bh_version": "2.8",
+    "upload_token": "4de1458e124cd79f",
+    "settings_count": 9,
+    "components_count": 4
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"v3.0.1-gplasync-arm64ec-5098f1d0-0\"}",
+    "pc_ls_VK3k": "{\"name\":\"3.0.1-3dfc6f07-1\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"Mesa Turnip v26.3.0-20260724-r3-A8xx\"}",
+    "pc_set_constant_95": "{\"name\":\"FEX-2607+312-Nightly-464ec9d0b-unix-0\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"Proton-11.0-1-arm64ec-2\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-original",
+    "pc_ls_AUDIO_DRIVER": "0",
+    "pc_ls_environment_variable": "WRAPPER_MAX_IMAGE_COUNT=0 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=512MB mesa_glthread=true WINEESYNC=1 TU_DEBUG=sysmem,noconform DXVK_HUD=devinfo,fps,frametimes,gpuload,version,api",
+    "bl_ext": {
+      "dxwrapper": "dxvk+vkd3d",
+      "screenSize": "1280x720",
+      "renderer": "vulkan",
+      "fullscreenMode": "2",
+      "frameGenEngine": "off",
+      "native": "false",
+      "swapRB": "false",
+      "presentMode": "fifo",
+      "reshadeMode": "solo",
+      "reshadeEffect": "None",
+      "emulator": "fexcore",
+      "box64Version": "0.4.3-0",
+      "box64Preset": "PERFORMANCE",
+      "fexcorePreset": "PERFORMANCE",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1",
+      "lc_all": "pt_BR.UTF-8",
+      "dxwrapperConfig": "version=v3.0.1-gplasync-arm64ec-5098f1d0-0,framerate=0,async=1,asyncCache=1,vkd3dVersion=3.0.1-3dfc6f07-1,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfigFile="
+    }
+  },
+  "components": [
+    {
+      "name": "v3.0.1-gplasync-arm64ec-5098f1d0-0",
+      "type": "DXVK"
+    },
+    {
+      "name": "3.0.1-3dfc6f07-1",
+      "type": "VKD3D"
+    },
+    {
+      "name": "Mesa Turnip v26.3.0-20260724-r3-A8xx",
+      "type": "GPU"
+    },
+    {
+      "name": "FEX-2607+312-Nightly-464ec9d0b-unix-0",
+      "type": "FEXCore"
+    }
+  ]
+}
