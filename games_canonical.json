@@ -223,7 +223,7 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 2 (2009)"
   },
   "1020790": {
-    "config_count": 39,
+    "config_count": 40,
     "devices": [
       {
         "d": "SM8850",
@@ -299,6 +299,11 @@
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__640",
+        "m": "21051182G",
+        "s": "Adreno (TM) 640"
       }
     ],
     "folders": [
@@ -1846,12 +1851,17 @@
     "name": "Exit the Gungeon"
   },
   "1211020": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__612",
         "m": "motorola_one_hyper",
         "s": "Adreno (TM) 612"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "W09",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
@@ -6339,7 +6349,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 123,
+    "config_count": 124,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -17322,7 +17332,7 @@
     "name": "STAR WARS\u2122: The Force Unleashed\u2122 II"
   },
   "3250520": {
-    "config_count": 27,
+    "config_count": 30,
     "devices": [
       {
         "d": "G68_MC4",
