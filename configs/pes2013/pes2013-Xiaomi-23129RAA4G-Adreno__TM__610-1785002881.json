@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "Xiaomi 23129RAA4G",
+    "soc": "Adreno (TM) 610",
+    "bh_version": "2.7.1",
+    "uploader": {
+      "name": "AhmedTMChannel"
+    },
+    "upload_token": "4a60b79eb85f37d8",
+    "settings_count": 9,
+    "components_count": 3
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"1.10.3-arm64ec-async\"}",
+    "pc_ls_VK3k": "{\"name\":\"None\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"Turnip v26.3.0-R1\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"Proton-10.0-arm64ec-0\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "ludashi-—-wrapper",
+    "pc_ls_AUDIO_DRIVER": "1",
+    "pc_ls_update_enable_xinput": true,
+    "pc_ls_environment_variable": "WRAPPER_MAX_IMAGE_COUNT=0 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=true MESA_SHADER_CACHE_MAX_SIZE=2048MB mesa_glthread=true WINEESYNC=1 TU_DEBUG=sysmem,noconform DXVK_HUD=scale=0.7,opacity=0.7,fps,gpuload,version",
+    "bl_ext": {
+      "dxwrapper": "dxvk+vkd3d",
+      "screenSize": "1280x720",
+      "renderer": "vulkan",
+      "fullscreenMode": "2",
+      "frameGenEngine": "off",
+      "native": "false",
+      "swapRB": "false",
+      "presentMode": "fifo",
+      "reshadeLoadout": "[{\"name\":\"MagicHDR\",\"enabled\":true}]",
+      "reshadeMode": "solo",
+      "reshadeParams": "{\"MagicHDR\":{\"Tonemap\":0,\"InvTonemap\":0,\"AdaptPrecision\":0,\"InputExposure\":0.25652599334716797,\"BloomSaturation\":1,\"Exposure\":0,\"BlurSize\":0.5,\"ShowAdapt\":0,\"ShowBloom\":0,\"BlendingAmount\":0.5,\"BloomAmount\":0.30000001192092896,\"BloomBrightness\":3,\"BlendingBase\":0.800000011920929,\"AdaptSensitivity\":1,\"AdaptTime\":1}}",
+      "reshadeEffect": "MagicHDR",
+      "emulator": "box64",
+      "box64Version": "0.4.2-0",
+      "box64Preset": "PERFORMANCE_MALI",
+      "fexcorePreset": "PERFORMANCE",
+      "cpuList": "4,5,6,7",
+      "inputType": "4",
+      "wincomponents": "direct3d=1,directsound=1,directmusic=1,directshow=1,directplay=1,xaudio=1,vcrun2010=1",
+      "midiSoundFont": "wt_210k_G.sf2",
+      "lc_all": "en_US.UTF-8",
+      "dxwrapperConfig": "version=1.10.3-arm64ec-async,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_1,ddrawrapper=dd7to9,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfigFile="
+    }
+  },
+  "components": [
+    {
+      "name": "1.10.3-arm64ec-async",
+      "type": "DXVK"
+    },
+    {
+      "name": "None",
+      "type": "VKD3D"
+    },
+    {
+      "name": "Turnip v26.3.0-R1",
+      "type": "GPU"
+    }
+  ]
+}
