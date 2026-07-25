@@ -558,7 +558,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -584,10 +584,16 @@
         "d": "Adreno__TM__740",
         "m": "2211133C",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Ori_and_the_Will_of_the_Wisps",
+      "Ori",
       "Ori_and_the_will_of_the_wisps"
     ],
     "name": "Ori and the Will of the Wisps"
@@ -998,7 +1004,7 @@
     "name": "EARTH DEFENSE FORCE: IRON RAIN - Creation parts: T-Shirt: EDF5 Symbol"
   },
   "110800": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -1012,7 +1018,8 @@
       }
     ],
     "folders": [
-      "L_A__Noire"
+      "L_A__Noire",
+      "LANoire"
     ],
     "name": "L.A. Noire"
   },
@@ -2402,7 +2409,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 32,
+    "config_count": 30,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -2483,11 +2490,6 @@
         "d": "Adreno__TM__650",
         "m": "NP03J",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -18931,7 +18933,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -18952,11 +18954,17 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
       "Atla",
-      "TombRaider"
+      "TombRaider",
+      "Tomb_Raider_2013"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -19458,7 +19466,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 13,
+    "config_count": 12,
     "devices": [
       {
         "d": "G68_MC4",
@@ -19474,22 +19482,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "2211133C",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE",
-      "Ori"
+      "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -20455,7 +20452,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 146,
+    "config_count": 145,
     "devices": [
       {
         "d": "Pocket_FIT",
@@ -20715,8 +20712,7 @@
     ],
     "folders": [
       "Rise_of_the_Tomb_Raider_",
-      "Tomb_Raider",
-      "Tomb_Raider_2013"
+      "Tomb_Raider"
     ],
     "name": "Rise of the Tomb Raider\u2122"
   },
@@ -21996,6 +21992,20 @@
       "DREAMTONE_Demo"
     ],
     "name": "DREAMTONE Demo"
+  },
+  "4430260": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "speed"
+    ],
+    "name": "Beat For Speed"
   },
   "4435490": {
     "config_count": 3,
