@@ -23317,7 +23317,7 @@
     "name": "Celeste"
   },
   "516750": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "G57_MC2",
@@ -30797,6 +30797,20 @@
       "WarCraft_2_RU"
     ],
     "name": "Warcraft 2 Ru"
+  },
+  "name:wolverine": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__725",
+        "m": "23049PCD8I",
+        "s": "Adreno (TM) 725"
+      }
+    ],
+    "folders": [
+      "Wolverine"
+    ],
+    "name": "Wolverine"
   },
   "name:xenia-edge": {
     "config_count": 1,
