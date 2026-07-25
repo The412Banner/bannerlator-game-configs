@@ -26,6 +26,22 @@ def fetch_json(url):
         return json.loads(out)
     except Exception: return None
 
+def stamped_appid(fpath, cfg_files):
+    """The Steam appid a Bannerlator client stamped into a config's meta.steam_appid, if any config
+    in the folder carries a valid positive integer one. Authoritative — it is the exact appid the
+    user's shortcut was identified as, so it beats the fuzzy name resolver for OUR OWN uploads.
+    Returns the appid as a string, or None. Never raises (a malformed/old config just yields None)."""
+    for cf in cfg_files:
+        try:
+            with open(f"{fpath}/{cf}", encoding="utf-8") as fh:
+                meta = (json.load(fh) or {}).get("meta") or {}
+            sid = str(meta.get("steam_appid", "")).strip()
+            if sid.isdigit() and int(sid) > 0:
+                return sid
+        except Exception:
+            continue
+    return None
+
 def main():
     games = fetch_json(f"{BH_RAW}/games.json") or []
     folders = [g["name"] for g in games]
@@ -96,10 +112,19 @@ def main():
             cfg_files = [x for x in os.listdir(fpath) if x.endswith(".json")]
             if not cfg_files:
                 continue
+            # Resolution order for our own uploads: hand-curated alias (never override a manual fix)
+            # > the appid the Bannerlator client stamped into the config (authoritative, exact game)
+            # > the fuzzy name resolver. The stamp lets a renamed / exe-abbreviated folder merge into
+            # the correct canonical game and skips a Worker round-trip. Backward-compatible: configs
+            # without meta.steam_appid (all pre-existing ones) fall straight through to E.resolve.
             if folder in aliases:
                 r = {"appid": aliases[folder], "method": "alias"}
             else:
-                r = E.resolve(folder)
+                sid = stamped_appid(fpath, cfg_files)
+                if sid:
+                    r = {"appid": sid, "method": "meta_appid"}
+                else:
+                    r = E.resolve(folder)
             a = r.get("appid")
             key = str(a) if a else "name:" + re.sub(r'[^a-z0-9]+', '-', folder.lower()).strip('-')
             e = canon.setdefault(key, {"name": r.get("steam_name"), "folders": [], "devices": [], "config_count": 0})
