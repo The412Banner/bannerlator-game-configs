@@ -849,7 +849,7 @@
     "name": "Two Point Hospital: Close Encounters"
   },
   "1103780": {
-    "config_count": 27,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__640",
@@ -905,6 +905,11 @@
         "d": "Adreno__TM__610",
         "m": "2201117TL",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__619",
@@ -3146,7 +3151,7 @@
     "name": "Need for Speed\u2122 Payback"
   },
   "1262600": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "SM8635",
@@ -3202,6 +3207,11 @@
         "d": "Adreno__TM__740",
         "m": "Odin2_Portal",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
       }
     ],
     "folders": [
@@ -7922,7 +7932,7 @@
     "name": "GoreBox"
   },
   "203140": {
-    "config_count": 28,
+    "config_count": 27,
     "devices": [
       {
         "d": "G610_MC3",
@@ -11394,7 +11404,7 @@
     "name": "Pinball Arcade"
   },
   "238320": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "23043RP34G",
@@ -11415,6 +11425,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G52",
+        "m": "Mali",
+        "s": "Mali-G52"
       }
     ],
     "folders": [
@@ -14807,7 +14822,7 @@
     "name": "Attack on Titan 3 - A.O.T.3"
   },
   "292030": {
-    "config_count": 30,
+    "config_count": 31,
     "devices": [
       {
         "d": "Odin2",
@@ -16357,7 +16372,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1068,
+    "config_count": 1069,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -20904,6 +20919,20 @@
       "Ys_X__Proud_Nordics"
     ],
     "name": "Ys X: Proud Nordics"
+  },
+  "39510": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "ASUS_AI2205_D",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Gothic_2"
+    ],
+    "name": "Gothic II: Gold Edition"
   },
   "3962150": {
     "config_count": 1,
@@ -26309,7 +26338,7 @@
     "name": "Tomb Raider: Underworld"
   },
   "814380": {
-    "config_count": 39,
+    "config_count": 40,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -26400,6 +26429,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
       },
       {
         "d": "Adreno__TM__825",
@@ -29004,7 +29038,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2045,
+    "config_count": 2046,
     "devices": [
       {
         "d": "G52_MC2",
@@ -29502,11 +29536,6 @@
         "s": "Mali-G72"
       },
       {
-        "d": "Adreno__TM__619",
-        "m": "moto_g84_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "25062RN2DL",
         "s": "Adreno (TM) 610"
@@ -29800,6 +29829,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g84_5G",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__740",
