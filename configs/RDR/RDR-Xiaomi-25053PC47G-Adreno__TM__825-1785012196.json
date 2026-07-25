@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "Xiaomi 25053PC47G",
+    "soc": "Adreno (TM) 825",
+    "bh_version": "2.9-pre4",
+    "upload_token": "5c16520b417edc22",
+    "settings_count": 10,
+    "components_count": 4
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"2.7.3\"}",
+    "pc_ls_VK3k": "{\"name\":\"3.0.1-arm64ec-0\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"8Elite-800.51\"}",
+    "pc_set_constant_95": "{\"name\":\"2508\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"proton-9.0-arm64ec\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-original",
+    "pc_ls_AUDIO_DRIVER": "1",
+    "pc_ls_update_enable_xinput": true,
+    "pc_ls_environment_variable": "WRAPPER_MAX_IMAGE_COUNT=0 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=512MB mesa_glthread=true WINEESYNC=1 TU_DEBUG=noconform,sysmem DXVK_HUD=devinfo,fps,frametimes,gpuload,version,api",
+    "bl_ext": {
+      "dxwrapper": "vegas+vkd3d",
+      "screenSize": "854x480",
+      "renderer": "vulkan",
+      "renderScale": "1.5",
+      "sfCompatMode": "1",
+      "fullscreenMode": "0",
+      "frameGenEngine": "bionic",
+      "native": "false",
+      "swapRB": "false",
+      "presentMode": "fifo",
+      "fpsLimiterEnabled": "0",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "reshadeLoadout": "[{\"name\":\"MagicHDR\",\"enabled\":true}]",
+      "reshadeMode": "solo",
+      "reshadeParams": "{\"MagicHDR\":{\"Tonemap\":0,\"InvTonemap\":0,\"AdaptPrecision\":0,\"InputExposure\":0.9003396034240723,\"BloomSaturation\":1,\"Exposure\":-1.1075878143310547,\"BlurSize\":0.5,\"ShowAdapt\":0,\"ShowBloom\":0,\"BlendingAmount\":0.5,\"BloomAmount\":0.20215176045894623,\"BloomBrightness\":2.5495338439941406,\"BlendingBase\":0.800000011920929,\"AdaptSensitivity\":1,\"AdaptTime\":1}}",
+      "reshadeEffect": "MagicHDR",
+      "emulator": "fexcore",
+      "box64Version": "0.3.7",
+      "box64Preset": "COMPATIBILITY",
+      "fexcorePreset": "INTERMEDIATE",
+      "cpuList": "2,3,4,5,6,7",
+      "startupSelection": "1",
+      "inputType": "4",
+      "exclusiveXInput": "1",
+      "simTouchScreen": "0",
+      "numControllers": "1",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1",
+      "lc_all": "en_US.UTF-8",
+      "autoCloseOnExit": "1",
+      "dxwrapperConfig": "version=2.7.3,framerate=0,async=0,asyncCache=0,vkd3dVersion=3.0.1-arm64ec-0,vkd3dLevel=12_2,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfigFile="
+    }
+  },
+  "components": [
+    {
+      "name": "2.7.3",
+      "type": "DXVK"
+    },
+    {
+      "name": "3.0.1-arm64ec-0",
+      "type": "VKD3D"
+    },
+    {
+      "name": "8Elite-800.51",
+      "type": "GPU"
+    },
+    {
+      "name": "2508",
+      "type": "FEXCore"
+    }
+  ]
+}
