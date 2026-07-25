@@ -12254,7 +12254,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 22,
+    "config_count": 21,
     "devices": [
       {
         "d": "A075M",
@@ -12318,8 +12318,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes",
-      "LEGOMARVEL"
+      "LEGO__Marvel__Super_Heroes"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -19508,7 +19507,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 23,
+    "config_count": 24,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -19559,6 +19558,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
       }
     ],
     "folders": [
@@ -19566,6 +19570,7 @@
       "DARK_SOULS",
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
+      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -24827,7 +24832,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
