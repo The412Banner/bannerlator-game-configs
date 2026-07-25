@@ -3737,14 +3737,6 @@
     ],
     "name": "DRACU-RIOT!"
   },
-  "1340720": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "StateOfDecay"
-    ],
-    "name": "State of Decay 3"
-  },
   "1343240": {
     "config_count": 1,
     "devices": [],
@@ -12366,7 +12358,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "A075M",
@@ -12430,7 +12422,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes"
+      "LEGO__Marvel__Super_Heroes",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -19376,7 +19369,7 @@
     "name": "Dragon's Dogma: Dark Arisen"
   },
   "367520": {
-    "config_count": 23,
+    "config_count": 25,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -19427,6 +19420,11 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__610",
@@ -19841,7 +19839,7 @@
     "name": "Resident Evil Requiem"
   },
   "3768760": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -19870,7 +19868,8 @@
       }
     ],
     "folders": [
-      "007_First_Light"
+      "007_First_Light",
+      "007FirstLight"
     ],
     "name": "007 First Light"
   },
@@ -23178,7 +23177,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 4,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -23189,10 +23188,16 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "PJZ110",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
-      "State_of_Decay_2__Juggernaut_Edition"
+      "State_of_Decay_2__Juggernaut_Edition",
+      "StateOfDecay"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
   },
@@ -25053,7 +25058,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
