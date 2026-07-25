@@ -45,12 +45,16 @@ jobs:
           # User uploads land on main mid-run (the canonicalize step takes ~30s), so a bare
           # push races the upload and gets rejected. Rebase-and-retry so a concurrent push
           # doesn't fail the sync — pull the upload, re-stack our index commit, push again.
+          # -X theirs: the index files are fully DERIVED (regenerated every run), and two
+          # concurrent syncs always conflict on stats.json's generated_utc timestamp. Favor
+          # OUR just-generated versions on any conflict so the rebase always resolves cleanly
+          # (eventually consistent — the next sync reconciles), instead of aborting the push.
           for i in 1 2 3 4 5; do
             if git push; then
               echo "pushed on attempt $i"
               exit 0
             fi
             echo "push rejected (attempt $i) — rebasing on remote main and retrying"
-            git pull --rebase --autostash origin main || exit 1
+            git pull --rebase -X theirs --autostash origin main || exit 1
           done
           echo "push still failing after 5 retries"; exit 1
