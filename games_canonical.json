@@ -1646,7 +1646,7 @@
     "name": "FINAL FANTASY"
   },
   "1174180": {
-    "config_count": 34,
+    "config_count": 35,
     "devices": [
       {
         "d": "SM8750P",
@@ -1712,6 +1712,11 @@
         "d": "Adreno__TM__650",
         "m": "G780G",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "G610_MC6",
+        "m": "Mali",
+        "s": "Mali-G610 MC6"
       }
     ],
     "folders": [
@@ -12801,7 +12806,7 @@
     "name": "HoneyCome come come party"
   },
   "254700": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "SM7435",
@@ -12854,11 +12859,6 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
@@ -12872,6 +12872,11 @@
         "d": "Adreno__TM__610",
         "m": "moto_g_9__play",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "G52_MC2",
@@ -25440,12 +25445,17 @@
     "name": "Mewgenics"
   },
   "687310": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__618",
         "m": "A715F",
         "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
       }
     ],
     "folders": [
@@ -29088,7 +29098,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2053,
+    "config_count": 2054,
     "devices": [
       {
         "d": "G52_MC2",
@@ -29379,11 +29389,6 @@
         "d": "Adreno__TM__610",
         "m": "23129RAA4G",
         "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
-        "m": "S942B",
-        "s": "ANGLE ((Samsung Xclipse 960) on Vulkan 1.4.304)"
       },
       {
         "d": "Adreno__TM__720",
@@ -29884,6 +29889,11 @@
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
         "m": "S721B",
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
+        "m": "S942B",
+        "s": "ANGLE ((Samsung Xclipse 960) on Vulkan 1.4.304)"
       },
       {
         "d": "Adreno__TM__740",
