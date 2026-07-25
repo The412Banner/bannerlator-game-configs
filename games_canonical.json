@@ -459,7 +459,7 @@
     "name": "Mafia II: Definitive Edition"
   },
   "1030840": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -470,10 +470,16 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__829",
+        "m": "motorola_signature",
+        "s": "Adreno (TM) 829"
       }
     ],
     "folders": [
-      "Mafia__Definitive_Edition"
+      "Mafia__Definitive_Edition",
+      "Mafia_Definitive_Edition"
     ],
     "name": "Mafia: Definitive Edition"
   },
@@ -693,7 +699,7 @@
     "name": "Baldur's Gate 3"
   },
   "108710": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -717,7 +723,8 @@
       }
     ],
     "folders": [
-      "Alan_Wake"
+      "Alan_Wake",
+      "Alan_Wake_Remastered"
     ],
     "name": "Alan Wake"
   },
@@ -15599,7 +15606,7 @@
     "name": "Platypus"
   },
   "307690": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -15623,7 +15630,8 @@
       }
     ],
     "folders": [
-      "Sleeping_Dogs__Definitive_Edition"
+      "Sleeping_Dogs__Definitive_Edition",
+      "Sleeping_Dogs_Definitive_Edition"
     ],
     "name": "Sleeping Dogs: Definitive Edition"
   },
@@ -16334,7 +16342,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1067,
+    "config_count": 1068,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -17197,14 +17205,14 @@
         "s": "ANGLE ((Samsung Xclipse 550) on Vulkan 1.4.304)"
       },
       {
-        "d": "256",
-        "m": "8",
-        "s": "PowerVR B-Series BXM-8-256"
-      },
-      {
         "d": "Adreno__TM__732",
         "m": "2410CRP4CG",
         "s": "Adreno (TM) 732"
+      },
+      {
+        "d": "256",
+        "m": "8",
+        "s": "PowerVR B-Series BXM-8-256"
       },
       {
         "d": "Adreno__TM__830",
@@ -18185,6 +18193,14 @@
       "EA_SPORTS_FC__26"
     ],
     "name": "EA SPORTS FC\u2122 26"
+  },
+  "3406150": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GoWR"
+    ],
+    "name": "Old World - Wrath of Gods"
   },
   "3410": {
     "config_count": 1,
@@ -20941,7 +20957,7 @@
     "name": "Uninstall Simulator"
   },
   "400": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "Portal"
@@ -24597,7 +24613,7 @@
     "name": "Oddworld: Soulstorm Enhanced Edition"
   },
   "620": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -24628,6 +24644,11 @@
         "d": "Adreno__TM__840",
         "m": "2509FPN0BC",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__829",
+        "m": "motorola_signature",
+        "s": "Adreno (TM) 829"
       }
     ],
     "folders": [
