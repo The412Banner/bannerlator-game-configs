@@ -21738,7 +21738,7 @@
     "name": "Bruisers 2D Boxing Demo"
   },
   "4355320": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -21749,6 +21749,11 @@
         "d": "Adreno__TM__640",
         "m": "RMX1931",
         "s": "Adreno (TM) 640"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "CPH2447",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
