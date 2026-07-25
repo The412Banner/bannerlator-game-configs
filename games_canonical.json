@@ -18481,7 +18481,7 @@
     "name": "Stellar Blade\u2122"
   },
   "349040": {
-    "config_count": 51,
+    "config_count": 52,
     "devices": [
       {
         "d": "G615_MC2",
@@ -23020,7 +23020,7 @@
     "name": "Praey for the Gods"
   },
   "495140": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -23031,6 +23031,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "M2007J20CG",
+        "s": "Adreno (TM) 618"
       }
     ],
     "folders": [
@@ -25675,7 +25680,7 @@
     "name": "Counter-Strike 2"
   },
   "731490": {
-    "config_count": 6,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -25695,8 +25700,7 @@
     ],
     "folders": [
       "CrashBandicootNSaneTrilogy",
-      "Crash_Bandicoot__N__Sane_Trilogy",
-      "Crash_Bandicoot_NSane_Trilogy"
+      "Crash_Bandicoot__N__Sane_Trilogy"
     ],
     "name": "Crash Bandicoot\u2122 N. Sane Trilogy"
   },
