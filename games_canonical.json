@@ -12410,7 +12410,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 22,
+    "config_count": 21,
     "devices": [
       {
         "d": "A075M",
@@ -12474,8 +12474,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes",
-      "LEGOMARVEL"
+      "LEGO__Marvel__Super_Heroes"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -19085,12 +19084,17 @@
     "name": "Middle-earth\u2122: Shadow of War\u2122"
   },
   "356310": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "256",
         "m": "8",
         "s": "PowerVR B-Series BXM-8-256"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -20456,7 +20460,7 @@
     "name": "Pacer"
   },
   "389730": {
-    "config_count": 35,
+    "config_count": 36,
     "devices": [
       {
         "d": "SM8850",
@@ -20546,6 +20550,7 @@
     ],
     "folders": [
       "TEKKEN_7",
+      "TEKKEN7",
       "Tekken_7"
     ],
     "name": "TEKKEN 7"
@@ -25212,7 +25217,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -29335,7 +29340,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2078,
+    "config_count": 2079,
     "devices": [
       {
         "d": "G52_MC2",
@@ -29988,11 +29993,6 @@
         "s": "Mali-G615 MC6"
       },
       {
-        "d": "PowerVR_Rogue_GE8320",
-        "m": "A042M",
-        "s": "PowerVR Rogue GE8320"
-      },
-      {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
         "m": "S731B",
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
@@ -30136,6 +30136,11 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "A042M",
+        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "Adreno__TM__740",
