@@ -19867,7 +19867,7 @@
     "name": "Resident Evil Requiem"
   },
   "3768760": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -19893,6 +19893,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -28729,7 +28734,7 @@
     "name": "Gridautosport"
   },
   "name:gtaiv": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -29198,7 +29203,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2067,
+    "config_count": 2068,
     "devices": [
       {
         "d": "G52_MC2",
