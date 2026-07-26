@@ -4023,7 +4023,6 @@
   },
   "INSIDE_Demo": {
     "appid": 2598040,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2598040/header.jpg",
     "method": "naive",
     "steam_name": "Inside Demo"
   },
@@ -6445,6 +6444,10 @@
     "appid": 2632240,
     "method": "naive",
     "steam_name": "Pompeii: The Legacy"
+  },
+  "PoppyPlaytime_Outra_Linha": {
+    "appid": null,
+    "method": "unresolved"
   },
   "Poppy_Playtime": {
     "appid": 1721470,
