@@ -3745,14 +3745,6 @@
     ],
     "name": "DRACU-RIOT!"
   },
-  "1340720": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "StateOfDecay"
-    ],
-    "name": "State of Decay 3"
-  },
   "1343240": {
     "config_count": 1,
     "devices": [],
@@ -16508,7 +16500,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1080,
+    "config_count": 1081,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -16829,11 +16821,6 @@
         "d": "PowerVR_Rogue_GE8322",
         "m": "GIONEE_MAX",
         "s": "PowerVR Rogue GE8322"
-      },
-      {
-        "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-        "m": "S926B",
-        "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
       },
       {
         "d": "Adreno__TM__750",
@@ -17384,6 +17371,11 @@
         "d": "Adreno__TM__619",
         "m": "NX1",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+        "m": "S926B",
+        "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
       },
       {
         "d": "Adreno__TM__830",
@@ -23310,7 +23302,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -23334,7 +23326,8 @@
       }
     ],
     "folders": [
-      "State_of_Decay_2__Juggernaut_Edition"
+      "State_of_Decay_2__Juggernaut_Edition",
+      "StateOfDecay"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
   },
@@ -27726,7 +27719,7 @@
     "name": "Volcanoids"
   },
   "952060": {
-    "config_count": 62,
+    "config_count": 63,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -27842,6 +27835,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -27902,10 +27900,17 @@
     "name": "Amazing Cultivation Simulator"
   },
   "957140": {
-    "config_count": 2,
-    "devices": [],
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__650",
+        "m": "H0",
+        "s": "Adreno (TM) 650"
+      }
+    ],
     "folders": [
-      "______Newera_Heroes__Chronicle"
+      "______Newera_Heroes__Chronicle",
+      "Newera_Heroes__Chronicle"
     ],
     "name": "\u65b0\u4e16\u52c7\u8005\u4f20 Newera Heroes' Chronicle"
   },
