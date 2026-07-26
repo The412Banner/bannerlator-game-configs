@@ -4506,7 +4506,7 @@
     "name": "Street Fighter V - Capcom Pro Tour: 2021 Premier Pass"
   },
   "1506830": {
-    "config_count": 65,
+    "config_count": 66,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -10029,7 +10029,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 11,
+    "config_count": 10,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -10053,8 +10053,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -14644,7 +14643,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "G615_MC2",
@@ -14684,7 +14683,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -14873,7 +14873,7 @@
     "name": "Attack on Titan 3 - A.O.T.3"
   },
   "292030": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "Odin2",
@@ -16423,7 +16423,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1075,
+    "config_count": 1076,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -16654,11 +16654,6 @@
         "d": "SM8735",
         "m": "25053PC47G",
         "s": "SM8735"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "NX1",
-        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__619",
@@ -17299,6 +17294,11 @@
         "d": "Adreno__TM__810",
         "m": "NX1",
         "s": "Adreno (TM) 810"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "NX1",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__830",
@@ -18952,7 +18952,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -18973,11 +18973,17 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
       "Atla",
-      "TombRaider"
+      "TombRaider",
+      "Tomb_Raider_2013"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -20476,7 +20482,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 146,
+    "config_count": 145,
     "devices": [
       {
         "d": "Pocket_FIT",
@@ -20736,8 +20742,7 @@
     ],
     "folders": [
       "Rise_of_the_Tomb_Raider_",
-      "Tomb_Raider",
-      "Tomb_Raider_2013"
+      "Tomb_Raider"
     ],
     "name": "Rise of the Tomb Raider\u2122"
   },
