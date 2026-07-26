@@ -16045,7 +16045,13 @@
   },
   "311690": {
     "config_count": 1,
-    "devices": [],
+    "devices": [
+      {
+        "d": "Adreno__TM__650",
+        "m": "Retroid_Pocket_Flip2",
+        "s": "Adreno (TM) 650"
+      }
+    ],
     "folders": [
       "Enter_the_Gungeon"
     ],
