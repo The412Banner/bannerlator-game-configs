@@ -1623,7 +1623,7 @@
     "name": "STAR WARS Jedi: Fallen Order\u2122"
   },
   "1173690": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -1632,7 +1632,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_3__Raccoon_City_Demo_"
+      "Resident_Evil_3__Raccoon_City_Demo_",
+      "RaccoonCity"
     ],
     "name": "Resident Evil 3: Raccoon City Demo"
   },
@@ -2412,7 +2413,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 30,
+    "config_count": 32,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -2493,6 +2494,11 @@
         "d": "Adreno__TM__650",
         "m": "NP03J",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -3594,7 +3600,7 @@
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
   "1328670": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -6243,6 +6249,14 @@
       "Mirror_s_Edge"
     ],
     "name": "Mirror's Edge\u2122"
+  },
+  "17460": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Mass_Effect"
+    ],
+    "name": "Mass Effect (2007)"
   },
   "17470": {
     "config_count": 21,
@@ -14369,7 +14383,7 @@
     "name": "BeamNG.drive"
   },
   "2856190": {
-    "config_count": 92,
+    "config_count": 93,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -14482,11 +14496,6 @@
         "s": "Mali-G68 MC4"
       },
       {
-        "d": "Adreno__TM__650",
-        "m": "23043RP34G",
-        "s": "Adreno (TM) 650"
-      },
-      {
         "d": "Adreno__TM__735",
         "m": "24069RA21C",
         "s": "Adreno (TM) 735"
@@ -14495,6 +14504,11 @@
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "23043RP34G",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
@@ -22127,20 +22141,6 @@
     ],
     "name": "DREAMTONE Demo"
   },
-  "4430260": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      }
-    ],
-    "folders": [
-      "speed"
-    ],
-    "name": "Beat For Speed"
-  },
   "4435490": {
     "config_count": 3,
     "devices": [
@@ -29340,7 +29340,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2079,
+    "config_count": 2080,
     "devices": [
       {
         "d": "G52_MC2",
@@ -30123,11 +30123,6 @@
         "s": "Adreno (TM) 642L"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G52",
         "m": "Mali",
         "s": "Mali-G52"
@@ -30141,6 +30136,11 @@
         "d": "PowerVR_Rogue_GE8320",
         "m": "A042M",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
