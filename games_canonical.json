@@ -3582,7 +3582,7 @@
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
   "1328670": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -6239,14 +6239,6 @@
       "Mirror_s_Edge"
     ],
     "name": "Mirror's Edge\u2122"
-  },
-  "17460": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Mass_Effect"
-    ],
-    "name": "Mass Effect (2007)"
   },
   "17470": {
     "config_count": 21,
@@ -9014,6 +9006,20 @@
     ],
     "name": "LEGO\u00ae The Lord of the Rings\u2122"
   },
+  "215247": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
+      }
+    ],
+    "folders": [
+      "Sleeping_Dogs_Pack__________________________________________"
+    ],
+    "name": "Sleeping Dogs - Street Racer Pack"
+  },
   "2153350": {
     "config_count": 1,
     "devices": [],
@@ -11513,8 +11519,14 @@
     "name": "DYNASTY WARRIORS: ORIGINS"
   },
   "238960": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "2510DPC44G",
+        "s": "Adreno (TM) 830"
+      }
+    ],
     "folders": [
       "Path_of_Exile"
     ],
@@ -16455,7 +16467,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1076,
+    "config_count": 1077,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -23273,7 +23285,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -23289,6 +23301,11 @@
         "d": "Adreno__TM__830",
         "m": "PJZ110",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Immortalis_MC11",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC11"
       }
     ],
     "folders": [
