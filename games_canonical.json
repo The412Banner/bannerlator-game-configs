@@ -11338,7 +11338,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 13,
+    "config_count": 12,
     "devices": [
       {
         "d": "G720_MC7",
@@ -11359,16 +11359,10 @@
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
       }
     ],
     "folders": [
-      "DARK_SOULS__II",
-      "DarkSoulsII"
+      "DARK_SOULS__II"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -11720,7 +11714,7 @@
     "name": "State of Decay"
   },
   "2416450": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -11771,6 +11765,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       }
     ],
     "folders": [
@@ -12411,7 +12410,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "A075M",
@@ -12475,7 +12474,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes"
+      "LEGO__Marvel__Super_Heroes",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -12623,12 +12623,17 @@
     "name": "The Binding of Isaac: Rebirth"
   },
   "251150": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
         "m": "CPH2767",
         "s": "Adreno (TM) 829"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "AYN_Thor",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -16500,7 +16505,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1081,
+    "config_count": 1083,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -19769,7 +19774,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 24,
+    "config_count": 25,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -19820,6 +19825,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
       }
     ],
     "folders": [
@@ -19827,6 +19837,7 @@
       "DARK_SOULS",
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
+      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -25193,7 +25204,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -26159,7 +26170,7 @@
     "name": "Atomicrops"
   },
   "760640": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -27909,8 +27920,8 @@
       }
     ],
     "folders": [
-      "______Newera_Heroes__Chronicle",
-      "Newera_Heroes__Chronicle"
+      "Newera_Heroes__Chronicle",
+      "______Newera_Heroes__Chronicle"
     ],
     "name": "\u65b0\u4e16\u52c7\u8005\u4f20 Newera Heroes' Chronicle"
   },
@@ -28576,7 +28587,7 @@
     "name": "Dungeons Of Infinity"
   },
   "name:efootball-2021": {
-    "config_count": 39,
+    "config_count": 43,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -28612,11 +28623,6 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
-      },
-      {
-        "d": "G68",
-        "m": "Mali",
-        "s": "Mali-G68"
       },
       {
         "d": "Adreno__TM__825",
@@ -28657,6 +28663,11 @@
         "d": "G610_MC3",
         "m": "Mali",
         "s": "Mali-G610 MC3"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
       }
     ],
     "folders": [
@@ -28953,6 +28964,20 @@
       "LunaAbyss-WinGDK-Shipping"
     ],
     "name": "Lunaabyss Wingdk Shipping"
+  },
+  "name:mgsvtpp": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Immortalis_MC12",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC12"
+      }
+    ],
+    "folders": [
+      "mgsvtpp"
+    ],
+    "name": "Mgsvtpp"
   },
   "name:mhf": {
     "config_count": 1,
@@ -29302,7 +29327,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2071,
+    "config_count": 2078,
     "devices": [
       {
         "d": "G52_MC2",
@@ -30055,11 +30080,6 @@
         "s": "Adreno (TM) 619"
       },
       {
-        "d": "G68",
-        "m": "Mali",
-        "s": "Mali-G68"
-      },
-      {
         "d": "Adreno__TM__619",
         "m": "moto_g71_5G",
         "s": "Adreno (TM) 619"
@@ -30103,6 +30123,11 @@
         "d": "G52",
         "m": "Mali",
         "s": "Mali-G52"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
       },
       {
         "d": "Adreno__TM__740",
