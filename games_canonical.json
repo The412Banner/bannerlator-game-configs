@@ -4150,9 +4150,10 @@
     "name": "It Takes Two"
   },
   "1426300": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [],
     "folders": [
+      "Binding_of_Isaac_Repentance",
       "The_Binding_of_Isaac__Repentance",
       "the_binding__of_isaac_rep_"
     ],
@@ -25289,7 +25290,7 @@
     "name": "Dream Daddy: A Dad Dating Simulator"
   },
   "655500": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G52_MC2",
@@ -25300,11 +25301,17 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
       "MX_bike",
-      "mx_bike"
+      "mx_bike",
+      "mxbikes"
     ],
     "name": "MX Bikes"
   },
@@ -31044,14 +31051,6 @@
       "TESV"
     ],
     "name": "Tesv"
-  },
-  "name:the-amazing-spider-man-2": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "The_Amazing_Spider-Man_2"
-    ],
-    "name": "The Amazing Spider Man 2"
   },
   "name:tlauncher-installer-1-9-5-1": {
     "config_count": 1,
