@@ -23934,7 +23934,7 @@
     "name": "TUNIC"
   },
   "553520": {
-    "config_count": 20,
+    "config_count": 22,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -23955,11 +23955,6 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "G720_MC8",
-        "m": "Mali",
-        "s": "Mali-G720 MC8"
       },
       {
         "d": "G720_MC7",
@@ -23985,6 +23980,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
       }
     ],
     "folders": [
@@ -28301,6 +28301,14 @@
       "Blades_of_Exile"
     ],
     "name": "Blades Of Exile"
+  },
+  "name:cm-fortress-italy": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "CM_Fortress_Italy"
+    ],
+    "name": "Cm Fortress Italy"
   },
   "name:cod-modern-warfare": {
     "config_count": 1,
