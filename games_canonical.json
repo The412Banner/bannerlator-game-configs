@@ -3588,7 +3588,7 @@
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
   "1328670": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -6236,6 +6236,14 @@
       "Mirror_s_Edge"
     ],
     "name": "Mirror's Edge\u2122"
+  },
+  "17460": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Mass_Effect"
+    ],
+    "name": "Mass Effect (2007)"
   },
   "17470": {
     "config_count": 20,
@@ -29149,7 +29157,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2057,
+    "config_count": 2060,
     "devices": [
       {
         "d": "G52_MC2",
@@ -29912,11 +29920,6 @@
         "s": "Mali-G68"
       },
       {
-        "d": "G52",
-        "m": "Mali",
-        "s": "Mali-G52"
-      },
-      {
         "d": "Adreno__TM__619",
         "m": "moto_g71_5G",
         "s": "Adreno (TM) 619"
@@ -29945,6 +29948,11 @@
         "d": "Adreno__TM__618",
         "m": "M2101K6G",
         "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "G52",
+        "m": "Mali",
+        "s": "Mali-G52"
       },
       {
         "d": "Adreno__TM__740",
@@ -30783,6 +30791,14 @@
       "Stalker_call_of_Chernobyl_gamepad"
     ],
     "name": "Stalker Call Of Chernobyl Gamepad"
+  },
+  "name:stardewmoddingapi": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "StardewModdingAPI"
+    ],
+    "name": "Stardewmoddingapi"
   },
   "name:steamclient-loader": {
     "config_count": 1,
