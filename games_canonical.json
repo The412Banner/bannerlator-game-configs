@@ -10119,7 +10119,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -10143,7 +10143,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -14801,7 +14802,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 30,
+    "config_count": 29,
     "devices": [
       {
         "d": "G615_MC2",
@@ -14841,8 +14842,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -29581,7 +29581,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2095,
+    "config_count": 2097,
     "devices": [
       {
         "d": "G52_MC2",
@@ -30084,11 +30084,6 @@
         "s": "Adreno (TM) 504"
       },
       {
-        "d": "Adreno__TM__610",
-        "m": "Redmi_Note_8",
-        "s": "Adreno (TM) 610"
-      },
-      {
         "d": "Immortalis_MC11",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC11"
@@ -30222,11 +30217,6 @@
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
         "m": "S731B",
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
-      },
-      {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
       },
       {
         "d": "Adreno__TM__610",
@@ -30382,6 +30372,16 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "Redmi_Note_8",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__740",
@@ -30541,7 +30541,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 158,
+    "config_count": 159,
     "devices": [
       {
         "d": "G615_MC2",
