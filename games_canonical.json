@@ -11142,7 +11142,7 @@
     "name": "Military Tanks"
   },
   "234670": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "G68_MC4",
@@ -11168,6 +11168,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__610",
@@ -13675,7 +13680,7 @@
     "name": "Metaphor: ReFantazio"
   },
   "268050": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -21280,6 +21285,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "F731B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
