@@ -3612,7 +3612,7 @@
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
   "1328670": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -6267,6 +6267,14 @@
       "Mirror_s_Edge"
     ],
     "name": "Mirror's Edge\u2122"
+  },
+  "17460": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Mass_Effect"
+    ],
+    "name": "Mass Effect (2007)"
   },
   "17470": {
     "config_count": 21,
@@ -9323,7 +9331,7 @@
     "name": "Warhammer 40,000: Space Marine 2"
   },
   "2184260": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -9379,20 +9387,17 @@
         "d": "Adreno__TM__720",
         "m": "NX9",
         "s": "Adreno (TM) 720"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "RMX3370",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
       "Blur"
     ],
     "name": "Ricochet Blur"
-  },
-  "2186680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "tra"
-    ],
-    "name": "Warhammer 40,000: Rogue Trader"
   },
   "2193910": {
     "config_count": 1,
@@ -19449,6 +19454,14 @@
       "Plants_vs__Zombies___Replanted"
     ],
     "name": "Plants vs. Zombies\u2122: Replanted"
+  },
+  "3656800": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "tra"
+    ],
+    "name": "Train Sim World\u00ae 6"
   },
   "3659280": {
     "config_count": 3,
@@ -31203,6 +31216,14 @@
       "ULTIMATE_SPIDERMAN"
     ],
     "name": "Ultimate Spiderman"
+  },
+  "name:walkingdead100": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "WalkingDead100"
+    ],
+    "name": "Walkingdead100"
   },
   "name:warcraft-2-ru": {
     "config_count": 1,
