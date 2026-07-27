@@ -8700,6 +8700,20 @@
     ],
     "name": "F.E.A.R. 3"
   },
+  "211010": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Alien_Shooter_2"
+    ],
+    "name": "Alien Shooter 2 Conscription"
+  },
   "2110820": {
     "config_count": 1,
     "devices": [],
@@ -10084,7 +10098,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 11,
+    "config_count": 10,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -10108,8 +10122,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -14752,7 +14765,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "G615_MC2",
@@ -14792,7 +14805,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -17933,20 +17947,6 @@
       "Cars"
     ],
     "name": "Disney\u2022Pixar Cars"
-  },
-  "33120": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "Alien_Shooter_2"
-    ],
-    "name": "Alien Shooter 2: Reloaded"
   },
   "3314070": {
     "config_count": 1,
@@ -28787,6 +28787,14 @@
     ],
     "name": "Eurotrucks2"
   },
+  "name:ffxii-tza": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "FFXII_TZA"
+    ],
+    "name": "Ffxii Tza"
+  },
   "name:fifa14-3dm": {
     "config_count": 1,
     "devices": [
@@ -30385,7 +30393,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 157,
+    "config_count": 158,
     "devices": [
       {
         "d": "G615_MC2",
@@ -30601,6 +30609,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "S928B",
+        "s": "Adreno (TM) 750"
       },
       {
         "d": "Adreno__TM__740",
