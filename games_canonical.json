@@ -2377,7 +2377,7 @@
     "name": "Grand Theft Auto: Episodes from Liberty City"
   },
   "1222670": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "G57_MC2",
@@ -2408,6 +2408,11 @@
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "A235M",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
@@ -2418,7 +2423,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 33,
+    "config_count": 31,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -2499,11 +2504,6 @@
         "d": "Adreno__TM__650",
         "m": "NP03J",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -3756,6 +3756,14 @@
       "DRACU-RIOT_"
     ],
     "name": "DRACU-RIOT!"
+  },
+  "1340720": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "StateOfDecay"
+    ],
+    "name": "State of Decay 3"
   },
   "1343240": {
     "config_count": 1,
@@ -19517,7 +19525,7 @@
     "name": "Dragon's Dogma: Dark Arisen"
   },
   "367520": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -22167,6 +22175,20 @@
     ],
     "name": "DREAMTONE Demo"
   },
+  "4430260": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "speed"
+    ],
+    "name": "Beat For Speed"
+  },
   "4435490": {
     "config_count": 3,
     "devices": [
@@ -23352,7 +23374,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -23376,8 +23398,7 @@
       }
     ],
     "folders": [
-      "State_of_Decay_2__Juggernaut_Edition",
-      "StateOfDecay"
+      "State_of_Decay_2__Juggernaut_Edition"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
   },
@@ -29386,7 +29407,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2082,
+    "config_count": 2084,
     "devices": [
       {
         "d": "G52_MC2",
@@ -29979,11 +30000,6 @@
         "s": "Mali-G71"
       },
       {
-        "d": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
-        "m": "S711B",
-        "s": "ANGLE ((Samsung Xclipse 920) on Vulkan 1.3.279)"
-      },
-      {
         "d": "Adreno__TM__730",
         "m": "S901E",
         "s": "Adreno (TM) 730"
@@ -30187,6 +30203,11 @@
         "d": "G77_MC9",
         "m": "Mali",
         "s": "Mali-G77 MC9"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
+        "m": "S711B",
+        "s": "ANGLE ((Samsung Xclipse 920) on Vulkan 1.3.279)"
       },
       {
         "d": "Adreno__TM__740",
