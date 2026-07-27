@@ -568,7 +568,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -594,16 +594,10 @@
         "d": "Adreno__TM__740",
         "m": "2211133C",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Ori_and_the_Will_of_the_Wisps",
-      "Ori",
       "Ori_and_the_will_of_the_wisps"
     ],
     "name": "Ori and the Will of the Wisps"
@@ -3617,7 +3611,7 @@
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
   "1328670": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -6277,6 +6271,14 @@
       "Mirror_s_Edge"
     ],
     "name": "Mirror's Edge\u2122"
+  },
+  "17460": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Mass_Effect"
+    ],
+    "name": "Mass Effect (2007)"
   },
   "17470": {
     "config_count": 21,
@@ -10521,7 +10523,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 159,
+    "config_count": 160,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -10694,11 +10696,6 @@
         "s": "Mali-G77 MC9"
       },
       {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
-      },
-      {
         "d": "Adreno__TM__619",
         "m": "CPH2529",
         "s": "Adreno (TM) 619"
@@ -10792,6 +10789,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       }
     ],
     "folders": [
@@ -18253,7 +18255,7 @@
     "name": "Arma 2 Free"
   },
   "339034": {
-    "config_count": 26,
+    "config_count": 27,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -18329,6 +18331,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__612",
+        "m": "A705FN",
+        "s": "Adreno (TM) 612"
       }
     ],
     "folders": [
@@ -19666,7 +19673,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "G68_MC4",
@@ -19682,11 +19689,22 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE"
+      "oriDE",
+      "Ori"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -27470,7 +27488,7 @@
     "name": "Last Epoch"
   },
   "911400": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "MT6833V_PNZA",
@@ -29496,7 +29514,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2088,
+    "config_count": 2090,
     "devices": [
       {
         "d": "G52_MC2",
@@ -29969,11 +29987,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "S928B",
-        "s": "Adreno (TM) 750"
-      },
-      {
         "d": "G72",
         "m": "Mali",
         "s": "Mali-G72"
@@ -30274,11 +30287,6 @@
         "s": "PowerVR Rogue GE8320"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G77_MC9",
         "m": "Mali",
         "s": "Mali-G77 MC9"
@@ -30297,6 +30305,16 @@
         "d": "Adreno__TM__610",
         "m": "CPH2725",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "S928B",
+        "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
