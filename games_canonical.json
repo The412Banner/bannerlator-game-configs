@@ -568,7 +568,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -594,16 +594,10 @@
         "d": "Adreno__TM__740",
         "m": "2211133C",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Ori_and_the_Will_of_the_Wisps",
-      "Ori",
       "Ori_and_the_will_of_the_wisps"
     ],
     "name": "Ori and the Will of the Wisps"
@@ -3761,14 +3755,6 @@
       "DRACU-RIOT_"
     ],
     "name": "DRACU-RIOT!"
-  },
-  "1340720": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "StateOfDecay"
-    ],
-    "name": "State of Decay 3"
   },
   "1343240": {
     "config_count": 1,
@@ -10085,7 +10071,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -10109,7 +10095,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -14752,7 +14739,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 30,
+    "config_count": 29,
     "devices": [
       {
         "d": "G615_MC2",
@@ -14792,8 +14779,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -19630,7 +19616,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "G68_MC4",
@@ -19646,11 +19632,22 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE"
+      "oriDE",
+      "Ori"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -23384,7 +23381,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -23408,7 +23405,8 @@
       }
     ],
     "folders": [
-      "State_of_Decay_2__Juggernaut_Edition"
+      "State_of_Decay_2__Juggernaut_Edition",
+      "StateOfDecay"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
   },
@@ -28874,6 +28872,14 @@
       "GH3"
     ],
     "name": "Gh3"
+  },
+  "name:giants-engine": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GIANTS_Engine"
+    ],
+    "name": "Giants Engine"
   },
   "name:gothic-1-classic": {
     "config_count": 1,
