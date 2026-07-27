@@ -1054,6 +1054,14 @@
     ],
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
+  "1110100": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Power Rangers: Battle for the Grid"
+  },
   "1110910": {
     "config_count": 1,
     "devices": [
@@ -2428,7 +2436,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 33,
+    "config_count": 31,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -2509,11 +2517,6 @@
         "d": "Adreno__TM__650",
         "m": "NP03J",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -3621,7 +3624,7 @@
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
   "1328670": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -3771,6 +3774,14 @@
       "DRACU-RIOT_"
     ],
     "name": "DRACU-RIOT!"
+  },
+  "1340720": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "StateOfDecay"
+    ],
+    "name": "State of Decay 3"
   },
   "1343240": {
     "config_count": 1,
@@ -6281,14 +6292,6 @@
       "Mirror_s_Edge"
     ],
     "name": "Mirror's Edge\u2122"
-  },
-  "17460": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Mass_Effect"
-    ],
-    "name": "Mass Effect (2007)"
   },
   "17470": {
     "config_count": 21,
@@ -12610,14 +12613,6 @@
     ],
     "name": "METAL SLUG 3"
   },
-  "2502780": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Ranger\u2019s Path: National Park Simulator"
-  },
   "2503690": {
     "config_count": 2,
     "devices": [],
@@ -16617,7 +16612,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1087,
+    "config_count": 1088,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -17405,11 +17400,6 @@
         "s": "Mali-G720 MC8"
       },
       {
-        "d": "Adreno__TM__725",
-        "m": "23049PCD8G",
-        "s": "Adreno (TM) 725"
-      },
-      {
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
@@ -17493,6 +17483,11 @@
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
         "m": "S926B",
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "Adreno__TM__725",
+        "m": "23049PCD8G",
+        "s": "Adreno (TM) 725"
       },
       {
         "d": "Adreno__TM__830",
@@ -22286,6 +22281,20 @@
     ],
     "name": "DREAMTONE Demo"
   },
+  "4430260": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "speed"
+    ],
+    "name": "Beat For Speed"
+  },
   "4435490": {
     "config_count": 3,
     "devices": [
@@ -23458,7 +23467,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -23482,8 +23491,7 @@
       }
     ],
     "folders": [
-      "State_of_Decay_2__Juggernaut_Edition",
-      "StateOfDecay"
+      "State_of_Decay_2__Juggernaut_Edition"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
   },
@@ -25482,7 +25490,7 @@
     "name": "Do Not Feed the Monkeys"
   },
   "660080": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -25503,6 +25511,11 @@
         "d": "Adreno__TM__730",
         "m": "23013PC75G",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "CPH2731",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
@@ -28645,6 +28658,14 @@
     ],
     "name": "Codwaw"
   },
+  "name:conviction-game": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Conviction_game"
+    ],
+    "name": "Conviction Game"
+  },
   "name:crysiswh": {
     "config_count": 1,
     "devices": [],
@@ -29560,7 +29581,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2092,
+    "config_count": 2095,
     "devices": [
       {
         "d": "G52_MC2",
@@ -30353,14 +30374,14 @@
         "s": "Adreno (TM) 750"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G52",
         "m": "Mali",
         "s": "Mali-G52"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
