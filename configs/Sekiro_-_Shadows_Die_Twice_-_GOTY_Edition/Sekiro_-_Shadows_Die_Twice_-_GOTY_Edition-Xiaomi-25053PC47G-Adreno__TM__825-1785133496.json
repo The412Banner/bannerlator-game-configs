@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "Xiaomi 25053PC47G",
+    "soc": "Adreno (TM) 825",
+    "bh_version": "2.8.2",
+    "steam_appid": "814380",
+    "uploader": {
+      "name": "shakavirgo"
+    },
+    "upload_token": "44105c820d976e5f",
+    "settings_count": 9,
+    "components_count": 3
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"2.7.1.1-sdk36-arm64ec\"}",
+    "pc_ls_VK3k": "{\"name\":\"3.0.1-arm64ec-0\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"WN-Turnip-1.06-b Axxx\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"Proton-11.0-3-arm64ec-4\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-original",
+    "pc_ls_AUDIO_DRIVER": "1",
+    "pc_ls_update_enable_xinput": true,
+    "pc_ls_environment_variable": "WINEDLLOVERRIDES=version=n,b;winmm=n,b;dinput=n,b;dinput8=n,b;dsound=n,b;xinput1_3=n,b;msacm32=n,b;dbghelp=n,b",
+    "bl_ext": {
+      "dxwrapper": "dxvk+vkd3d",
+      "screenSize": "1280x720",
+      "renderer": "opengl",
+      "sfCompatMode": "1",
+      "fullscreenMode": "1",
+      "frameGenEngine": "lsfg",
+      "native": "false",
+      "swapRB": "true",
+      "presentMode": "fifo",
+      "fpsLimiterEnabled": "1",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "reshadeLoadout": "[{\"name\":\"Bloom\",\"enabled\":true},{\"name\":\"Chromatic_Aberration\",\"enabled\":false},{\"name\":\"Glitch\",\"enabled\":false}]",
+      "reshadeMode": "solo",
+      "reshadeParams": "{\"Bloom\":{\"iLensdirtMixmode\":1,\"iGodraySamples\":100,\"bChapFlareEnable\":0,\"fAnamFlareCurve\":1.2000000476837158,\"fChapFlareIntensity\":100,\"fAnamFlareWideness\":2.4000000953674316,\"iChapFlareCount\":15,\"fLensdirtSaturation\":2,\"fGodrayThreshold\":0.8999999761581421,\"bAnamFlareEnable\":0,\"fAnamFlareThreshold\":0.8999999761581421,\"fChapFlareSize\":0.44999998807907104,\"fGodrayExposure\":1,\"fChapFlareDispersal\":0.25,\"fBloomAmount\":0.800000011920929,\"fGodrayDensity\":1,\"fFlareBlur\":200,\"fBloomSaturation\":0.800000011920929,\"bGodrayEnable\":0,\"fFlareLuminance\":0.0949999988079071,\"fLensdirtIntensity\":0.4000000059604645,\"fBloomThreshold\":0.800000011920929,\"fLenzIntensity\":1,\"fAnamFlareAmount\":14.5,\"fGodrayDecay\":0.9900000095367432,\"fGodrayWeight\":1.25,\"fFlareIntensity\":2.069999933242798,\"bLenzEnable\":0,\"bLensdirtEnable\":0,\"fLenzThreshold\":0.800000011920929,\"iBloomMixmode\":2,\"fChapFlareTreshold\":0.8999999761581421},\"Chromatic_Aberration\":{\"CA_shapeX\":1,\"sampleSTEPS\":58.57221984863281,\"display_depth\":1,\"CA\":93.38557434082031,\"CA_width\":1,\"depthStart\":0,\"depthEnd\":0.10000000149011612,\"enable_depth_int\":1,\"degrees\":135,\"CA_strength\":1,\"show_CA\":1,\"enable_depth_width\":1,\"CA_curve\":1,\"vignetteColor_2\":0,\"depthCurve\":1,\"CA_type\":56.06114959716797,\"vignetteColor_1\":0,\"oY\":0,\"vignetteColor_0\":0,\"CA_shapeY\":1,\"oX\":0},\"Glitch\":{\"bUseUV\":1,\"Amount\":1}}",
+      "reshadeEffect": "Bloom",
+      "emulator": "box64",
+      "box64Version": "0.4.3-0",
+      "box64Preset": "CUSTOM-1",
+      "fexcorePreset": "CUSTOM-1",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "startupSelection": "2",
+      "inputType": "4",
+      "exclusiveXInput": "1",
+      "simTouchScreen": "0",
+      "numControllers": "1",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1",
+      "lc_all": "es_MX.UTF-8",
+      "autoCloseOnExit": "1",
+      "fpsCounterConfig": "hudStyle=fusion,hudSize=full,hudLocked=0,showVram=1,showLow001=1,fpsDecimal=1,showPerCore=1,showSwap=1,showNet=1,showResolution=1,showProton=1,showWrapper=1,showDxVer=1,showSession=1,hudMode=horizontal,showFPS=1,showFPSGraph=0,showCPUUsage=1,showCPULoad=1,showGPULoad=1,showRAM=1,showPower=1,showTemp=1,showBatteryTemp=1,showEngine=1,showRenderer=1,showGpuModel=0,hudDualBattery=0,showGpuTemp=0,showBattery=0,showRuntime=0,showClock=0,showCPUGraph=0,showGPUGraph=0,tempUnit=c,tempBands=1,tempAuto=1,tempRedCpu=90,tempRedGpu=90,tempRedBat=48,hudSkin=classic,hudColor=mid,hudOutline=40,hudOutlineAccent=1,hudScale=100,hudOpacity=80,hudTransparency=0",
+      "gyroEnabled": "0",
+      "gyroTarget": "0",
+      "gyroActivator": "0",
+      "gyroActivationMode": "0",
+      "gyroMode": "0",
+      "gyroSensitivity": "2.0",
+      "gyroInvertX": "0",
+      "gyroInvertY": "0",
+      "maxGameRefreshRate": "120",
+      "unlockGameRefreshRate": "1",
+      "frameGenModel": "0",
+      "vibrationMode": "1",
+      "vibrationIntensity": "100",
+      "scalingMode": "3",
+      "dxwrapperConfig": "version=2.7.1.1-sdk36-arm64ec,framerate=0,async=0,asyncCache=0,vkd3dVersion=3.0.1-arm64ec-0,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfigFile="
+    }
+  },
+  "components": [
+    {
+      "name": "2.7.1.1-sdk36-arm64ec",
+      "type": "DXVK"
+    },
+    {
+      "name": "3.0.1-arm64ec-0",
+      "type": "VKD3D"
+    },
+    {
+      "name": "WN-Turnip-1.06-b Axxx",
+      "type": "GPU"
+    }
+  ]
+}
