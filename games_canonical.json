@@ -8194,7 +8194,7 @@
     "name": "Call of Juarez: Gunslinger"
   },
   "2050650": {
-    "config_count": 67,
+    "config_count": 68,
     "devices": [
       {
         "d": "G615_MC2",
@@ -9403,6 +9403,14 @@
       "Blur"
     ],
     "name": "Ricochet Blur"
+  },
+  "2186680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "tra"
+    ],
+    "name": "Warhammer 40,000: Rogue Trader"
   },
   "2193910": {
     "config_count": 1,
@@ -12555,16 +12563,22 @@
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
   "2492040": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__750",
         "m": "Pocket_FIT",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "V2338",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
-      "FATAL_FURY__City_of_the_Wolves"
+      "FATAL_FURY__City_of_the_Wolves",
+      "WOLV"
     ],
     "name": "FATAL FURY: City of the Wolves"
   },
@@ -19019,7 +19033,7 @@
     "name": "LEGO\u00ae Jurassic World"
   },
   "3527290": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "s5e8825",
@@ -19045,6 +19059,11 @@
         "d": "Adreno__TM__725",
         "m": "23049PCD8G",
         "s": "Adreno (TM) 725"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2520A",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -19507,14 +19526,6 @@
       "Plants_vs__Zombies___Replanted"
     ],
     "name": "Plants vs. Zombies\u2122: Replanted"
-  },
-  "3656800": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "tra"
-    ],
-    "name": "Train Sim World\u00ae 6"
   },
   "3659280": {
     "config_count": 3,
