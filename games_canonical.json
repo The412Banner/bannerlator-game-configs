@@ -1743,12 +1743,17 @@
     "name": "Red Dead Redemption 2"
   },
   "1182900": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "23013PC75G",
+        "s": "Adreno (TM) 730"
       }
     ],
     "folders": [
@@ -2377,7 +2382,7 @@
     "name": "Grand Theft Auto: Episodes from Liberty City"
   },
   "1222670": {
-    "config_count": 16,
+    "config_count": 17,
     "devices": [
       {
         "d": "G57_MC2",
@@ -3756,6 +3761,14 @@
       "DRACU-RIOT_"
     ],
     "name": "DRACU-RIOT!"
+  },
+  "1340720": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "StateOfDecay"
+    ],
+    "name": "State of Decay 3"
   },
   "1343240": {
     "config_count": 1,
@@ -23371,7 +23384,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -23395,8 +23408,7 @@
       }
     ],
     "folders": [
-      "State_of_Decay_2__Juggernaut_Edition",
-      "StateOfDecay"
+      "State_of_Decay_2__Juggernaut_Edition"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
   },
