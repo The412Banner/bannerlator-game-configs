@@ -416,7 +416,6 @@
   },
   "Atla": {
     "appid": 3558670,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3558670/header.jpg",
     "method": "naive",
     "steam_name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -9694,6 +9693,10 @@
     "appid": 703080,
     "method": "naive",
     "steam_name": "Planet Zoo"
+  },
+  "_____": {
+    "appid": null,
+    "method": "non-game"
   },
   "_____1": {
     "appid": 2552430,
