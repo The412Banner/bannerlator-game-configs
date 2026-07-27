@@ -28991,8 +28991,14 @@
     "name": "Ikenai Kozukuri"
   },
   "name:iw4sp": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      }
+    ],
     "folders": [
       "iw4sp"
     ],
