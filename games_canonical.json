@@ -8167,7 +8167,7 @@
     "name": "Call of Juarez: Gunslinger"
   },
   "2050650": {
-    "config_count": 64,
+    "config_count": 66,
     "devices": [
       {
         "d": "G615_MC2",
@@ -8245,6 +8245,11 @@
         "s": "Adreno (TM) 740"
       },
       {
+        "d": "Adreno__TM__740",
+        "m": "CPH2447",
+        "s": "Adreno (TM) 740"
+      },
+      {
         "d": "Adreno__TM__660",
         "m": "S928B",
         "s": "Adreno (TM) 660"
@@ -8256,6 +8261,7 @@
       "Resident_Evil_4_",
       "Resident_Evil_4___Biohazard_4",
       "Resident_Evil_4_____________________________________________",
+      "re4",
       "resident_evil_4"
     ],
     "name": "Resident Evil 4"
@@ -11857,7 +11863,7 @@
     "name": "Horizon Forbidden West\u2122 Complete Edition"
   },
   "242050": {
-    "config_count": 71,
+    "config_count": 72,
     "devices": [
       {
         "d": "MT6789",
@@ -22679,20 +22685,6 @@
       "Halo_Wars__Definitive_Edition"
     ],
     "name": "Halo Wars: Definitive Edition"
-  },
-  "4600470": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "CPH2447",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "re4"
-    ],
-    "name": "Season 4 Battlefield Pro - Battlefield\u2122 6 and REDSEC"
   },
   "460790": {
     "config_count": 1,
