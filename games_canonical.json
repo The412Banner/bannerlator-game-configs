@@ -859,7 +859,7 @@
     "name": "Two Point Hospital: Close Encounters"
   },
   "1103780": {
-    "config_count": 28,
+    "config_count": 30,
     "devices": [
       {
         "d": "Adreno__TM__640",
@@ -935,6 +935,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__630",
+        "m": "G9650",
+        "s": "Adreno (TM) 630"
       }
     ],
     "folders": [
@@ -2986,7 +2991,7 @@
     "name": "//TODO: today"
   },
   "1259420": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -3007,6 +3012,11 @@
         "d": "Adreno__TM__740",
         "m": "S911B",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__710",
@@ -7847,7 +7857,7 @@
     "name": "Assassin's Creed\u00ae Revelations"
   },
   "202170": {
-    "config_count": 52,
+    "config_count": 53,
     "devices": [
       {
         "d": "MT6878",
@@ -7943,6 +7953,11 @@
         "d": "Adreno__TM__810",
         "m": "2510EPC8BG",
         "s": "Adreno (TM) 810"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "24122RKC7G",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "Adreno__TM__830",
@@ -26705,7 +26720,7 @@
     "name": "Tomb Raider: Underworld"
   },
   "814380": {
-    "config_count": 42,
+    "config_count": 43,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -26811,6 +26826,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "S928B",
+        "s": "Adreno (TM) 750"
       },
       {
         "d": "Adreno__TM__730",
@@ -29528,7 +29548,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2090,
+    "config_count": 2092,
     "devices": [
       {
         "d": "G52_MC2",
@@ -30286,11 +30306,6 @@
         "s": "Adreno (TM) 642L"
       },
       {
-        "d": "G52",
-        "m": "Mali",
-        "s": "Mali-G52"
-      },
-      {
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
@@ -30329,6 +30344,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G52",
+        "m": "Mali",
+        "s": "Mali-G52"
       },
       {
         "d": "Adreno__TM__740",
