@@ -3832,6 +3832,12 @@
     "method": "naive",
     "steam_name": "Helltaker"
   },
+  "Hentai_Tales__The_Cat_s_Return": {
+    "appid": 4869360,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/4869360/header.jpg",
+    "method": "norm",
+    "steam_name": "Hentai Tales: The Cat's Return"
+  },
   "Heretic___Hexen": {
     "appid": 3286930,
     "method": "naive",
@@ -4036,7 +4042,6 @@
   },
   "IGI": {
     "appid": 1186430,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1186430/header.jpg",
     "method": "naive",
     "steam_name": "I.G.I. Origins"
   },
@@ -5421,6 +5426,12 @@
     "appid": 2594540,
     "method": "naive",
     "steam_name": "Motel Manager Simulator"
+  },
+  "MotoGP13": {
+    "appid": 240600,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/240600/header.jpg",
+    "method": "naive",
+    "steam_name": "MotoGP\u212213"
   },
   "MotoGP15": {
     "appid": 355130,
@@ -9991,11 +10002,6 @@
     "appid": 622220,
     "method": "naive",
     "steam_name": "Fate/EXTELLA LINK"
-  },
-  "fifa": {
-    "appid": 1506830,
-    "method": "naive",
-    "steam_name": "FIFA 22"
   },
   "fifa06_demo": {
     "appid": null,
