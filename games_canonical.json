@@ -3640,7 +3640,7 @@
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
   "1328670": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -6335,6 +6335,14 @@
       "Mirror_s_Edge"
     ],
     "name": "Mirror's Edge\u2122"
+  },
+  "17460": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Mass_Effect"
+    ],
+    "name": "Mass Effect (2007)"
   },
   "17470": {
     "config_count": 21,
@@ -14765,7 +14773,7 @@
     "name": "SAW: Genesis"
   },
   "286690": {
-    "config_count": 24,
+    "config_count": 25,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -16704,7 +16712,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1094,
+    "config_count": 1095,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -17580,6 +17588,11 @@
         "d": "G72",
         "m": "Mali",
         "s": "Mali-G72"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g85_5G",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__830",
@@ -30718,7 +30731,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 159,
+    "config_count": 160,
     "devices": [
       {
         "d": "G615_MC2",
