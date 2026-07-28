@@ -686,6 +686,14 @@
     ],
     "name": "Arma 3"
   },
+  "1080920": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GRID_2"
+    ],
+    "name": "Defense Grid 2 - Aftermath"
+  },
   "108600": {
     "config_count": 1,
     "devices": [],
@@ -2401,7 +2409,7 @@
     "name": "Grand Theft Auto: Episodes from Liberty City"
   },
   "1222670": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "G57_MC2",
@@ -10083,7 +10091,7 @@
     "name": "Five Nights at Freddy's: Secret of the Mimic"
   },
   "221540": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "GRID_2"
@@ -19926,7 +19934,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -19982,6 +19990,11 @@
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
