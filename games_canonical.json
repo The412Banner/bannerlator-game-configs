@@ -3660,7 +3660,7 @@
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
   "1328670": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -6355,6 +6355,14 @@
     ],
     "name": "Mirror's Edge\u2122"
   },
+  "17460": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Mass_Effect"
+    ],
+    "name": "Mass Effect (2007)"
+  },
   "17470": {
     "config_count": 21,
     "devices": [
@@ -8160,6 +8168,20 @@
       "Hitman__Absolution_"
     ],
     "name": "Hitman: Absolution\u2122"
+  },
+  "203160": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      }
+    ],
+    "folders": [
+      "Tomb_Raider_2013"
+    ],
+    "name": "Tomb Raider 2013"
   },
   "203650": {
     "config_count": 2,
