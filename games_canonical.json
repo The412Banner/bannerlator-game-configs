@@ -568,7 +568,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -594,16 +594,10 @@
         "d": "Adreno__TM__740",
         "m": "2211133C",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Ori_and_the_Will_of_the_Wisps",
-      "Ori",
       "Ori_and_the_will_of_the_wisps"
     ],
     "name": "Ori and the Will of the Wisps"
@@ -685,14 +679,6 @@
       "Arma_3"
     ],
     "name": "Arma 3"
-  },
-  "1080920": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GRID_2"
-    ],
-    "name": "Defense Grid 2 - Aftermath"
   },
   "108600": {
     "config_count": 1,
@@ -1683,7 +1669,7 @@
     "name": "FINAL FANTASY"
   },
   "1174180": {
-    "config_count": 35,
+    "config_count": 33,
     "devices": [
       {
         "d": "SM8750P",
@@ -1749,11 +1735,6 @@
         "d": "Adreno__TM__650",
         "m": "G780G",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "G610_MC6",
-        "m": "Mali",
-        "s": "Mali-G610 MC6"
       }
     ],
     "folders": [
@@ -3080,7 +3061,7 @@
     "name": "SIGNALIS"
   },
   "1262540": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "G52_MC2",
@@ -3096,11 +3077,17 @@
         "d": "Adreno__TM__610",
         "m": "A057M",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
       }
     ],
     "folders": [
       "Need_for_Speed_",
-      "need_for_speed"
+      "need_for_speed",
+      "need_for_speed_"
     ],
     "name": "Need for Speed\u2122"
   },
@@ -8948,6 +8935,20 @@
     ],
     "name": "LEGO\u00ae Batman\u2122 2: DC Super Heroes"
   },
+  "2133850": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "G610_MC6",
+        "m": "Mali",
+        "s": "Mali-G610 MC6"
+      }
+    ],
+    "folders": [
+      "re2"
+    ],
+    "name": "Broken Reality 2000"
+  },
   "213670": {
     "config_count": 2,
     "devices": [
@@ -10099,7 +10100,7 @@
     "name": "Five Nights at Freddy's: Secret of the Mimic"
   },
   "221540": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [],
     "folders": [
       "GRID_2"
@@ -16247,6 +16248,20 @@
     ],
     "name": "FINAL FANTASY XIV Online Free Trial"
   },
+  "3121490": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      }
+    ],
+    "folders": [
+      "My_Sexy_Neighbor___Prologue"
+    ],
+    "name": "My Sexy Neighbor \ud83d\udd1e Prologue"
+  },
   "312520": {
     "config_count": 1,
     "devices": [],
@@ -18653,6 +18668,20 @@
     ],
     "name": "LIGHTNING RETURNS\u2122: FINAL FANTASY\u00ae XIII"
   },
+  "346110": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      }
+    ],
+    "folders": [
+      "ARK__Survival_Evolved"
+    ],
+    "name": "ARK: Survival Evolved"
+  },
   "3468650": {
     "config_count": 1,
     "devices": [
@@ -19747,7 +19776,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "G68_MC4",
@@ -19763,11 +19792,22 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE"
+      "oriDE",
+      "Ori"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -29626,7 +29666,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2101,
+    "config_count": 2105,
     "devices": [
       {
         "d": "G52_MC2",
@@ -30384,11 +30424,6 @@
         "s": "PowerVR Rogue GE8320"
       },
       {
-        "d": "G77_MC9",
-        "m": "Mali",
-        "s": "Mali-G77 MC9"
-      },
-      {
         "d": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
         "m": "S711B",
         "s": "ANGLE ((Samsung Xclipse 920) on Vulkan 1.3.279)"
@@ -30427,6 +30462,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "G77_MC9",
+        "m": "Mali",
+        "s": "Mali-G77 MC9"
       },
       {
         "d": "Adreno__TM__740",
@@ -31169,6 +31209,20 @@
       "rungame"
     ],
     "name": "Rungame"
+  },
+  "name:sdhdship": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "sdhdship"
+    ],
+    "name": "Sdhdship"
   },
   "name:secretflashermanaka": {
     "config_count": 1,

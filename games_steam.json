@@ -79,6 +79,12 @@
     "method": "naive",
     "steam_name": "ARC Raiders"
   },
+  "ARK__Survival_Evolved": {
+    "appid": 346110,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/346110/header.jpg",
+    "method": "naive",
+    "steam_name": "ARK: Survival Evolved"
+  },
   "ASTRONEER": {
     "appid": 361420,
     "method": "naive",
@@ -5468,6 +5474,12 @@
     "appid": null,
     "method": "unresolved"
   },
+  "My_Sexy_Neighbor___Prologue": {
+    "appid": 3121490,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3121490/header.jpg",
+    "method": "naive",
+    "steam_name": "My Sexy Neighbor \ud83d\udd1e Prologue"
+  },
   "My_Summer_Car": {
     "appid": 516750,
     "method": "naive",
@@ -10284,6 +10296,12 @@
   },
   "need_for_speed": {
     "appid": 1262540,
+    "method": "naive",
+    "steam_name": "Need for Speed\u2122"
+  },
+  "need_for_speed_": {
+    "appid": 1262540,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1262540/header.jpg",
     "method": "naive",
     "steam_name": "Need for Speed\u2122"
   },
