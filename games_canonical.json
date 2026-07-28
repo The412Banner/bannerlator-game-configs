@@ -794,7 +794,7 @@
     "name": "Kelipot"
   },
   "1091500": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -28732,6 +28732,14 @@
       "AssassinsCreed_Dx9"
     ],
     "name": "Assassinscreed Dx9"
+  },
+  "name:autoplay-menu-builder": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "AutoPlay_Menu_Builder"
+    ],
+    "name": "Autoplay Menu Builder"
   },
   "name:avernum-escape-from-the-pit-1-01-gog-directx": {
     "config_count": 1,
