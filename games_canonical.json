@@ -3640,7 +3640,7 @@
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
   "1328670": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -6322,14 +6322,6 @@
     ],
     "name": "Mirror's Edge\u2122"
   },
-  "17460": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Mass_Effect"
-    ],
-    "name": "Mass Effect (2007)"
-  },
   "17470": {
     "config_count": 21,
     "devices": [
@@ -6848,7 +6840,7 @@
     "name": "Asphalt Legends "
   },
   "1817070": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "G57_MC2",
@@ -6894,6 +6886,11 @@
         "d": "Adreno__TM__619",
         "m": "RMX3661",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S931B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -16674,7 +16671,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1092,
+    "config_count": 1093,
     "devices": [
       {
         "d": "Adreno__TM__630",
