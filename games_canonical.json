@@ -3660,7 +3660,7 @@
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
   "1328670": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -5154,7 +5154,7 @@
     "name": "Cairn"
   },
   "1593500": {
-    "config_count": 127,
+    "config_count": 128,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -6354,14 +6354,6 @@
       "Mirror_s_Edge"
     ],
     "name": "Mirror's Edge\u2122"
-  },
-  "17460": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Mass_Effect"
-    ],
-    "name": "Mass Effect (2007)"
   },
   "17470": {
     "config_count": 21,
@@ -18882,14 +18874,6 @@
     ],
     "name": "Ghost Song"
   },
-  "34830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper: Ghost Warrior"
-  },
   "348470": {
     "config_count": 13,
     "devices": [
@@ -19943,6 +19927,14 @@
       "Ori"
     ],
     "name": "The Seven Deadly Sins: Origin"
+  },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
@@ -29870,7 +29862,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2110,
+    "config_count": 2111,
     "devices": [
       {
         "d": "G52_MC2",
@@ -30363,11 +30355,6 @@
         "s": "Adreno (TM) 618"
       },
       {
-        "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-        "m": "A566E",
-        "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
-      },
-      {
         "d": "Adreno__TM__504",
         "m": "T290",
         "s": "Adreno (TM) 504"
@@ -30671,6 +30658,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+        "m": "A566E",
+        "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
       },
       {
         "d": "Adreno__TM__740",
