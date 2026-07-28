@@ -1669,7 +1669,7 @@
     "name": "FINAL FANTASY"
   },
   "1174180": {
-    "config_count": 33,
+    "config_count": 35,
     "devices": [
       {
         "d": "SM8750P",
@@ -1735,6 +1735,11 @@
         "d": "Adreno__TM__650",
         "m": "G780G",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "G610_MC6",
+        "m": "Mali",
+        "s": "Mali-G610 MC6"
       }
     ],
     "folders": [
@@ -3635,7 +3640,7 @@
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
   "1328670": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -6317,6 +6322,14 @@
     ],
     "name": "Mirror's Edge\u2122"
   },
+  "17460": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Mass_Effect"
+    ],
+    "name": "Mass Effect (2007)"
+  },
   "17470": {
     "config_count": 21,
     "devices": [
@@ -6494,7 +6507,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 126,
+    "config_count": 127,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -6542,11 +6555,6 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
@@ -6570,6 +6578,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__720",
@@ -8475,7 +8488,7 @@
     "name": "Stick It to the Stickman"
   },
   "208650": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -8510,7 +8523,8 @@
     ],
     "folders": [
       "Batman__Arkham_Knight",
-      "Batman___Arkham_Knight"
+      "Batman___Arkham_Knight",
+      "Batman_Arkham_Knight"
     ],
     "name": "Batman\u2122: Arkham Knight"
   },
@@ -8939,20 +8953,6 @@
       "LEGO__Batman__2__DC_Super_Heroes"
     ],
     "name": "LEGO\u00ae Batman\u2122 2: DC Super Heroes"
-  },
-  "2133850": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "G610_MC6",
-        "m": "Mali",
-        "s": "Mali-G610 MC6"
-      }
-    ],
-    "folders": [
-      "re2"
-    ],
-    "name": "Broken Reality 2000"
   },
   "213670": {
     "config_count": 2,
@@ -16672,7 +16672,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1088,
+    "config_count": 1089,
     "devices": [
       {
         "d": "Adreno__TM__630",
