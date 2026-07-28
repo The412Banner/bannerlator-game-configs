@@ -3660,7 +3660,7 @@
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
   "1328670": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -6355,14 +6355,6 @@
     ],
     "name": "Mirror's Edge\u2122"
   },
-  "17460": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Mass_Effect"
-    ],
-    "name": "Mass Effect (2007)"
-  },
   "17470": {
     "config_count": 21,
     "devices": [
@@ -8245,7 +8237,7 @@
     "name": "Serious Sam II"
   },
   "204360": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "G720_MC7",
@@ -8256,6 +8248,11 @@
         "d": "PowerVR_Rogue_GE8320",
         "m": "A042M",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -8825,20 +8822,6 @@
       "F_E_A_R__3"
     ],
     "name": "F.E.A.R. 3"
-  },
-  "211010": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "Alien_Shooter_2"
-    ],
-    "name": "Alien Shooter 2 Conscription"
   },
   "2110820": {
     "config_count": 1,
@@ -18159,6 +18142,20 @@
     ],
     "name": "Disney\u2022Pixar Cars"
   },
+  "33120": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Alien_Shooter_2"
+    ],
+    "name": "Alien Shooter 2: Reloaded"
+  },
   "3314070": {
     "config_count": 1,
     "devices": [],
@@ -22477,7 +22474,7 @@
     "name": "DREAMTONE Demo"
   },
   "4435490": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -22486,8 +22483,7 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4",
-      "Call_of_Duty_4_Modern_Warfare"
+      "Call_of_Duty_4"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -26786,7 +26782,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "G720_MC7",
@@ -26833,7 +26829,8 @@
       "CALL_OF_DUTY_4_Modern_Warfare",
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
-      "iw3sp"
+      "iw3sp",
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
@@ -28687,7 +28684,7 @@
     "name": "Acfc"
   },
   "name:acrsp": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "ACRSP"
