@@ -1,5 +1,12 @@
 [
   {
+    "game": "ACRSP",
+    "manufacturer": "Mali",
+    "device": "G72",
+    "timestamp": 1785277150,
+    "filename": "ACRSP-samsung-SM-A515F-Mali-G72-1785277150.json"
+  },
+  {
     "game": "NSUNSR",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1785227923,
     "filename": "Metro_Last_Light-nubia-NX809J-Adreno__TM__840-1785227923.json"
-  },
-  {
-    "game": "Spec_Ops_The_Line",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1785227861,
-    "filename": "Spec_Ops_The_Line-nubia-NX809J-Adreno__TM__840-1785227861.json"
   }
 ]
