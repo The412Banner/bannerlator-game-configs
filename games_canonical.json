@@ -21433,6 +21433,14 @@
     ],
     "name": "Lost Horizon"
   },
+  "403640": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Dishonored_2"
+    ],
+    "name": "Dishonored 2"
+  },
   "40390": {
     "config_count": 2,
     "devices": [
@@ -29154,6 +29162,20 @@
       "GRIDAutosport"
     ],
     "name": "Gridautosport"
+  },
+  "name:gta-iv": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "Gta_IV"
+    ],
+    "name": "GTA Iv"
   },
   "name:gtaiv": {
     "config_count": 8,
