@@ -573,7 +573,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -599,16 +599,10 @@
         "d": "Adreno__TM__740",
         "m": "2211133C",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Ori_and_the_Will_of_the_Wisps",
-      "Ori",
       "Ori_and_the_will_of_the_wisps"
     ],
     "name": "Ori and the Will of the Wisps"
@@ -20016,7 +20010,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "G68_MC4",
@@ -20032,11 +20026,22 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE"
+      "oriDE",
+      "Ori"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -24327,7 +24332,7 @@
     "name": "RAGE 2"
   },
   "550": {
-    "config_count": 51,
+    "config_count": 52,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -24413,6 +24418,11 @@
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       },
       {
         "d": "Adreno__TM__730",
@@ -29666,6 +29676,14 @@
     ],
     "name": "Marvel S Guardians Of The Galaxy The Telltale Series"
   },
+  "name:medal-of-honor-warfighter": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Medal_of_Honor_Warfighter"
+    ],
+    "name": "Medal Of Honor Warfighter"
+  },
   "name:mgsvtpp": {
     "config_count": 1,
     "devices": [
@@ -30050,7 +30068,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2132,
+    "config_count": 2133,
     "devices": [
       {
         "d": "G52_MC2",
