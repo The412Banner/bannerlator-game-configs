@@ -9352,7 +9352,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 84,
+    "config_count": 85,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -9719,7 +9719,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 86,
+    "config_count": 87,
     "devices": [
       {
         "d": "S938B",
@@ -9812,11 +9812,6 @@
         "s": "Adreno (TM) 730"
       },
       {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      },
-      {
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
@@ -9855,6 +9850,11 @@
         "d": "Adreno__TM__710",
         "m": "moto_g96_5G",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       },
       {
         "d": "Adreno__TM__740",
@@ -15768,7 +15768,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -15787,7 +15787,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -28093,7 +28094,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 5,
     "devices": [
       {
         "d": "G615_MC6",
@@ -28112,8 +28113,7 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
