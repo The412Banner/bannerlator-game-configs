@@ -1080,14 +1080,6 @@
     ],
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
-  "1110100": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Power Rangers: Battle for the Grid"
-  },
   "1110910": {
     "config_count": 1,
     "devices": [
@@ -14404,6 +14396,14 @@
     ],
     "name": "Hospital 666"
   },
+  "2787680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Candy Rangers"
+  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -16224,7 +16224,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "G78",
@@ -16275,6 +16275,11 @@
         "d": "Adreno__TM__710",
         "m": "moto_g75_5G",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "23043RP34G",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
@@ -19403,7 +19408,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "G615_MC6",
@@ -19414,6 +19419,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__732",
+        "m": "2410CRP4CG",
+        "s": "Adreno (TM) 732"
       },
       {
         "d": "Adreno__TM__610",
@@ -19605,6 +19615,20 @@
       "The_Dark_Queen_of_Mortholme_________________________________"
     ],
     "name": "The Dark Queen of Mortholme"
+  },
+  "3595270": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
+      }
+    ],
+    "folders": [
+      "Call_of_Duty___Modern_Warfare__III"
+    ],
+    "name": "Call of Duty\u00ae: Modern Warfare\u00ae III"
   },
   "359870": {
     "config_count": 1,
@@ -28437,7 +28461,7 @@
     "name": "33 Immortals"
   },
   "960910": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G720_MC7",
@@ -28446,7 +28470,8 @@
       }
     ],
     "folders": [
-      "Heavy_Rain"
+      "Heavy_Rain",
+      "HeavyRain"
     ],
     "name": "Heavy Rain"
   },
@@ -29923,7 +29948,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2116,
+    "config_count": 2122,
     "devices": [
       {
         "d": "G52_MC2",
@@ -30686,19 +30711,9 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "S928B",
-        "s": "Adreno (TM) 750"
-      },
-      {
         "d": "G52",
         "m": "Mali",
         "s": "Mali-G52"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "Redmi_Note_8",
-        "s": "Adreno (TM) 610"
       },
       {
         "d": "G720_MC7",
@@ -30724,6 +30739,16 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "Redmi_Note_8",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "S928B",
+        "s": "Adreno (TM) 750"
       },
       {
         "d": "Adreno__TM__740",
