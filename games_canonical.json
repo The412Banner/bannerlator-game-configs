@@ -21980,7 +21980,7 @@
     "name": "Steam Machine"
   },
   "418370": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "SM7435",
@@ -22016,6 +22016,11 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "CPH2613",
+        "s": "Adreno (TM) 720"
       }
     ],
     "folders": [
@@ -22534,7 +22539,7 @@
     "name": "DREAMTONE Demo"
   },
   "4435490": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -22543,8 +22548,7 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4",
-      "Call_of_Duty_4_Modern_Warfare"
+      "Call_of_Duty_4"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -24230,7 +24234,7 @@
     "name": "RAGE 2"
   },
   "550": {
-    "config_count": 50,
+    "config_count": 51,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -26843,7 +26847,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "G720_MC7",
@@ -26890,7 +26894,8 @@
       "CALL_OF_DUTY_4_Modern_Warfare",
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
-      "iw3sp"
+      "iw3sp",
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
