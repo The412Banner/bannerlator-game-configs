@@ -21985,7 +21985,7 @@
     "name": "Steam Machine"
   },
   "418370": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "SM7435",
@@ -22021,6 +22021,11 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "CPH2613",
+        "s": "Adreno (TM) 720"
       }
     ],
     "folders": [
