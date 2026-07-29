@@ -573,7 +573,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -599,16 +599,10 @@
         "d": "Adreno__TM__740",
         "m": "2211133C",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Ori_and_the_Will_of_the_Wisps",
-      "Ori",
       "Ori_and_the_will_of_the_wisps"
     ],
     "name": "Ori and the Will of the Wisps"
@@ -1700,7 +1694,7 @@
     "name": "FINAL FANTASY"
   },
   "1174180": {
-    "config_count": 35,
+    "config_count": 36,
     "devices": [
       {
         "d": "SM8750P",
@@ -18286,14 +18280,14 @@
     "config_count": 12,
     "devices": [
       {
-        "d": "Adreno__TM__650",
-        "m": "G781B",
-        "s": "Adreno (TM) 650"
-      },
-      {
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "G781B",
+        "s": "Adreno (TM) 650"
       },
       {
         "d": "Adreno__TM__642L",
@@ -18312,9 +18306,9 @@
       }
     ],
     "folders": [
+      "Assassin_s_Creed_II",
       "Assassin_s_Creed__II",
       "AssassinsCreedIIGame",
-      "Assassin_s_Creed_II",
       "Assassin_s_Creed_2",
       "AssassinsCreedII",
       "Assassins_Creed_II"
@@ -18939,6 +18933,14 @@
       "GhostSong"
     ],
     "name": "Ghost Song"
+  },
+  "34830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper: Ghost Warrior"
   },
   "348470": {
     "config_count": 13,
@@ -19993,7 +19995,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "G68_MC4",
@@ -20009,21 +20011,24 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE"
+      "oriDE",
+      "Ori"
     ],
     "name": "The Seven Deadly Sins: Origin"
-  },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
