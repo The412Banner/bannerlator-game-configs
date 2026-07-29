@@ -3691,7 +3691,7 @@
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
   "1328670": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -6398,6 +6398,14 @@
       "Mirror_s_Edge"
     ],
     "name": "Mirror's Edge\u2122"
+  },
+  "17460": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Mass_Effect"
+    ],
+    "name": "Mass Effect (2007)"
   },
   "17470": {
     "config_count": 21,
@@ -15760,7 +15768,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -15779,8 +15787,7 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -28086,7 +28093,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -28105,7 +28112,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -31831,7 +31839,7 @@
     "name": "Tomb Raider Asia En Zh Ko Copy"
   },
   "name:tpp-main-win64": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "Tpp_main_win64"
