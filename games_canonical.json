@@ -651,8 +651,14 @@
     "name": "Halo 2: Anniversary"
   },
   "1065310": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
+      }
+    ],
     "folders": [
       "Evil_West"
     ],
@@ -4523,14 +4529,6 @@
     ],
     "name": "Tested on Humans: Escape Room"
   },
-  "1486290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "eFootball_2026"
-    ],
-    "name": "Polyleague Manager 2026: Football Evolution"
-  },
   "1491410": {
     "config_count": 1,
     "devices": [
@@ -5768,7 +5766,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 82,
+    "config_count": 83,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -5900,7 +5898,8 @@
       "pes_13_",
       "pes_2012",
       "pes_2013",
-      "pes__2013"
+      "pes__2013",
+      "eFootball_2026"
     ],
     "name": "eFootball\u2122"
   },
@@ -31313,6 +31312,14 @@
       "PES2021"
     ],
     "name": "Pes2021"
+  },
+  "name:pes3": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "pes3"
+    ],
+    "name": "Pes3"
   },
   "name:playrdr": {
     "config_count": 4,
