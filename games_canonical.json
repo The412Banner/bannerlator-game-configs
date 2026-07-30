@@ -1085,14 +1085,6 @@
     ],
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
-  "1110100": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Power Rangers: Battle for the Grid"
-  },
   "1110910": {
     "config_count": 1,
     "devices": [
@@ -10277,7 +10269,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 11,
+    "config_count": 10,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -10301,8 +10293,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -14460,6 +14451,14 @@
     ],
     "name": "Hospital 666"
   },
+  "2787680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Candy Rangers"
+  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -15034,7 +15033,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "G615_MC2",
@@ -15074,7 +15073,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -16888,7 +16888,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1113,
+    "config_count": 1115,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -17751,11 +17751,6 @@
         "s": "Mali-G72"
       },
       {
-        "d": "Adreno__TM__619",
-        "m": "moto_g85_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "NX1",
         "s": "Adreno (TM) 710"
@@ -17779,6 +17774,11 @@
         "d": "Adreno__TM__730",
         "m": "21121210G",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g85_5G",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__830",
@@ -19024,14 +19024,6 @@
     ],
     "name": "Ghost Song"
   },
-  "34830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper: Ghost Warrior"
-  },
   "348470": {
     "config_count": 13,
     "devices": [
@@ -20102,6 +20094,14 @@
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
+  },
   "3681010": {
     "config_count": 1,
     "devices": [],
@@ -20850,7 +20850,7 @@
     "name": "Ori and the Blind Forest: Definitive Edition"
   },
   "3875050": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -20861,10 +20861,16 @@
         "d": "Adreno__TM__750",
         "m": "Pocket_FIT",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
-      "MotoGP_26"
+      "MotoGP_26",
+      "motogp_"
     ],
     "name": "MotoGP\u212226"
   },
@@ -22734,7 +22740,7 @@
     "name": "DREAMTONE Demo"
   },
   "4435490": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -22743,8 +22749,7 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4",
-      "Call_of_Duty_4_Modern_Warfare"
+      "Call_of_Duty_4"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -26270,7 +26275,7 @@
     "name": "Hitman: Blood Money"
   },
   "686060": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__725",
@@ -27068,7 +27073,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "G720_MC7",
@@ -27115,7 +27120,8 @@
       "CALL_OF_DUTY_4_Modern_Warfare",
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
-      "iw3sp"
+      "iw3sp",
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
@@ -30215,7 +30221,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2162,
+    "config_count": 2164,
     "devices": [
       {
         "d": "G52_MC2",

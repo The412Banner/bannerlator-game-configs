@@ -2524,7 +2524,6 @@
   },
   "F1_2015": {
     "appid": 3059520,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3059520/header.jpg",
     "method": "fuzzy",
     "steam_name": "F1\u00ae 25"
   },
@@ -5249,6 +5248,10 @@
   "Microsoft__NET_Framework_4": {
     "appid": null,
     "method": "non-game"
+  },
+  "Microsoft__Visual_Studio_": {
+    "appid": null,
+    "method": "unresolved"
   },
   "Microsoft__Windows__Operating_System": {
     "appid": null,
@@ -8383,6 +8386,10 @@
     "appid": null,
     "method": "unresolved"
   },
+  "Tag_Team_Studio_Sparking_Launcher___________________________": {
+    "appid": null,
+    "method": "non-game"
+  },
   "Tag__The_Power_of_Paint": {
     "appid": 1808400,
     "method": "naive",
@@ -10319,6 +10326,12 @@
     "appid": 2350310,
     "method": "naive",
     "steam_name": "Monica's Newlywed Life"
+  },
+  "motogp_": {
+    "appid": 3875050,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3875050/header.jpg",
+    "method": "naive",
+    "steam_name": "MotoGP\u212226"
   },
   "msn": {
     "appid": null,
