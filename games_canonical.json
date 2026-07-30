@@ -15571,7 +15571,7 @@
     "name": "Heatwave"
   },
   "298110": {
-    "config_count": 23,
+    "config_count": 24,
     "devices": [
       {
         "d": "G720_MC7",
@@ -15629,6 +15629,7 @@
       "Far_Cry__4",
       "Far_Cry_____________________________________________________",
       "far_cry",
+      "FarCry",
       "FarCry4",
       "Far_Cry_4"
     ],
@@ -16305,7 +16306,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 26,
+    "config_count": 27,
     "devices": [
       {
         "d": "G78",
@@ -16371,7 +16372,8 @@
     "folders": [
       "BlackOps",
       "Call_of_Duty_3______________________________________________",
-      "Call_of_Duty___Black_Ops_III"
+      "Call_of_Duty___Black_Ops_III",
+      "Call_of_Duty_-_Black_Ops"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
   },
@@ -22465,17 +22467,10 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
   "42700": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
+    "config_count": 1,
+    "devices": [],
     "folders": [
-      "Call_of_Duty_Black_Ops",
-      "Call_of_Duty_-_Black_Ops"
+      "Call_of_Duty_Black_Ops"
     ],
     "name": "Call of Duty\u00ae: Black Ops"
   },
@@ -24665,7 +24660,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 10,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -24686,18 +24681,12 @@
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
       "Far_Cry_5",
       "Far_Cry_5___________________________________________________",
-      "Far_Cry__5",
-      "FarCry"
+      "Far_Cry__5"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -27439,7 +27428,7 @@
     "name": "Cash Grab - Hat Pack"
   },
   "8190": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "Odin2",
@@ -31793,6 +31782,14 @@
       "Quasimorph1"
     ],
     "name": "Quasimorph1"
+  },
+  "name:re5dx9": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "re5dx9"
+    ],
+    "name": "Re5Dx9"
   },
   "name:resident-evil-2-dx11": {
     "config_count": 1,
