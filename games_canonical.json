@@ -890,7 +890,7 @@
     "name": "Two Point Hospital: Close Encounters"
   },
   "1103780": {
-    "config_count": 30,
+    "config_count": 31,
     "devices": [
       {
         "d": "Adreno__TM__640",
@@ -971,6 +971,11 @@
         "d": "Adreno__TM__630",
         "m": "G9650",
         "s": "Adreno (TM) 630"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
@@ -9702,7 +9707,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 88,
+    "config_count": 89,
     "devices": [
       {
         "d": "S938B",
@@ -9825,11 +9830,6 @@
         "s": "Mali-G715-Immortalis MC11"
       },
       {
-        "d": "G720_MC8",
-        "m": "Mali",
-        "s": "Mali-G720 MC8"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "moto_g96_5G",
         "s": "Adreno (TM) 710"
@@ -9838,6 +9838,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
       },
       {
         "d": "Adreno__TM__740",
@@ -15561,7 +15566,7 @@
     "name": "Heatwave"
   },
   "298110": {
-    "config_count": 24,
+    "config_count": 23,
     "devices": [
       {
         "d": "G720_MC7",
@@ -15619,7 +15624,6 @@
       "Far_Cry__4",
       "Far_Cry_____________________________________________________",
       "far_cry",
-      "FarCry",
       "FarCry4",
       "Far_Cry_4"
     ],
@@ -16888,7 +16892,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1115,
+    "config_count": 1116,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -18606,7 +18610,7 @@
     "name": "Arma 2 Free"
   },
   "339034": {
-    "config_count": 27,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -18687,6 +18691,11 @@
         "d": "Adreno__TM__612",
         "m": "A705FN",
         "s": "Adreno (TM) 612"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2487",
+        "s": "Adreno (TM) 730"
       }
     ],
     "folders": [
@@ -24651,7 +24660,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -24672,12 +24681,18 @@
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
       "Far_Cry_5",
       "Far_Cry_5___________________________________________________",
-      "Far_Cry__5"
+      "Far_Cry__5",
+      "FarCry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -27268,7 +27283,7 @@
     "name": "Tomb Raider: Underworld"
   },
   "814380": {
-    "config_count": 49,
+    "config_count": 50,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -30229,7 +30244,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2164,
+    "config_count": 2166,
     "devices": [
       {
         "d": "G52_MC2",
