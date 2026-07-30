@@ -6500,6 +6500,10 @@
     "appid": 3240220,
     "method": "alias"
   },
+  "PlayGTAVOptiJuegos7Z": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "PlayRDR": {
     "appid": null,
     "method": "unresolved"
@@ -9935,6 +9939,12 @@
   "bio2_1_10": {
     "appid": null,
     "method": "unresolved"
+  },
+  "bla": {
+    "appid": 3751950,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3751950/header.jpg",
+    "method": "naive",
+    "steam_name": "Assassin's Creed Black Flag Resynced"
   },
   "ch5_pro": {
     "appid": 3250520,

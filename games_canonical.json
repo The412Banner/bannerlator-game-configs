@@ -7979,7 +7979,7 @@
     "name": "Assassin's Creed\u00ae Revelations"
   },
   "202170": {
-    "config_count": 53,
+    "config_count": 54,
     "devices": [
       {
         "d": "MT6878",
@@ -8080,6 +8080,11 @@
         "d": "Adreno__TM__830",
         "m": "24122RKC7G",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "TB321FU",
+        "s": "Adreno (TM) 750"
       },
       {
         "d": "Adreno__TM__830",
@@ -20332,10 +20337,17 @@
     "name": "Wasteland Bites"
   },
   "3751950": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
+      }
+    ],
     "folders": [
-      "bhd"
+      "bhd",
+      "bla"
     ],
     "name": "Assassin's Creed Black Flag Resynced"
   },
@@ -29577,6 +29589,20 @@
       "Gta_IV"
     ],
     "name": "GTA Iv"
+  },
+  "name:gta-san-andreas": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
+      }
+    ],
+    "folders": [
+      "GTA_San_Andreas"
+    ],
+    "name": "GTA San Andreas"
   },
   "name:gtaiv": {
     "config_count": 8,
