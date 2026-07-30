@@ -3696,7 +3696,7 @@
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
   "1328670": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -6392,6 +6392,14 @@
       "Mirror_s_Edge"
     ],
     "name": "Mirror's Edge\u2122"
+  },
+  "17460": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Mass_Effect"
+    ],
+    "name": "Mass Effect (2007)"
   },
   "17470": {
     "config_count": 21,
@@ -13907,7 +13915,7 @@
     "name": "Red Dead Redemption"
   },
   "2669320": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -13928,6 +13936,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "NX1",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -31693,6 +31706,14 @@
       "Pro_evolution_soccer"
     ],
     "name": "Pro Evolution Soccer"
+  },
+  "name:pro-evolution-soccer-2013-qpes": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Pro_Evolution_Soccer_2013_Qpes"
+    ],
+    "name": "Pro Evolution Soccer 2013 Qpes"
   },
   "name:pro-evolution-soccer-2017": {
     "config_count": 1,
