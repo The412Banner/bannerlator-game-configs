@@ -15515,7 +15515,7 @@
     "name": "Heatwave"
   },
   "298110": {
-    "config_count": 24,
+    "config_count": 23,
     "devices": [
       {
         "d": "G720_MC7",
@@ -15573,7 +15573,6 @@
       "Far_Cry__4",
       "Far_Cry_____________________________________________________",
       "far_cry",
-      "FarCry",
       "FarCry4",
       "Far_Cry_4"
     ],
@@ -16836,7 +16835,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1109,
+    "config_count": 1110,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -17609,11 +17608,6 @@
         "s": "Mali-G720 MC8"
       },
       {
-        "d": "Adreno__TM__735",
-        "m": "24069PC21G",
-        "s": "Adreno (TM) 735"
-      },
-      {
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
@@ -17722,6 +17716,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
       },
       {
         "d": "Adreno__TM__830",
@@ -22633,7 +22632,7 @@
     "name": "DREAMTONE Demo"
   },
   "4435490": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -22642,7 +22641,8 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4"
+      "Call_of_Duty_4",
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -22781,7 +22781,7 @@
     "name": "Farming Simulator 17"
   },
   "447040": {
-    "config_count": 45,
+    "config_count": 46,
     "devices": [
       {
         "d": "G720_MC7",
@@ -22877,6 +22877,11 @@
         "d": "Adreno__TM__730",
         "m": "CPH2305",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "V2429A",
+        "s": "Adreno (TM) 720"
       }
     ],
     "folders": [
@@ -24525,7 +24530,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -24546,12 +24551,18 @@
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
       "Far_Cry_5",
       "Far_Cry_5___________________________________________________",
-      "Far_Cry__5"
+      "Far_Cry__5",
+      "FarCry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -26955,7 +26966,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 19,
+    "config_count": 18,
     "devices": [
       {
         "d": "G720_MC7",
@@ -27002,8 +27013,7 @@
       "CALL_OF_DUTY_4_Modern_Warfare",
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
-      "iw3sp",
-      "Call_of_Duty_4_Modern_Warfare"
+      "iw3sp"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
@@ -27142,7 +27152,7 @@
     "name": "Tomb Raider: Underworld"
   },
   "814380": {
-    "config_count": 48,
+    "config_count": 49,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -30060,7 +30070,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2149,
+    "config_count": 2151,
     "devices": [
       {
         "d": "G52_MC2",
@@ -30718,11 +30728,6 @@
         "s": "Mali-G720 MC8"
       },
       {
-        "d": "Adreno__TM__610",
-        "m": "23129RA5FL",
-        "s": "Adreno (TM) 610"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "G781B",
         "s": "Adreno (TM) 650"
@@ -30813,11 +30818,6 @@
         "s": "Mali-G57 MC2"
       },
       {
-        "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-        "m": "A566E",
-        "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "Redmi_Note_8",
         "s": "Adreno (TM) 610"
@@ -30871,6 +30871,16 @@
         "d": "Adreno__TM__610",
         "m": "23021RAAEG",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+        "m": "A566E",
+        "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
       },
       {
         "d": "Adreno__TM__740",
