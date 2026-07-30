@@ -3158,7 +3158,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 42,
+    "config_count": 44,
     "devices": [
       {
         "d": "G57_MC2",
@@ -3219,6 +3219,11 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__22",
