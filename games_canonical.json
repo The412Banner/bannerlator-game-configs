@@ -10267,7 +10267,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -10291,7 +10291,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -12021,6 +12022,20 @@
       "MOUSE"
     ],
     "name": "MOUSE: P.I. For Hire"
+  },
+  "2417610": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "NP05J",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "METAL_GEAR_SOLID____SNAKE_EATER"
+    ],
+    "name": "METAL GEAR SOLID \u0394: SNAKE EATER"
   },
   "241930": {
     "config_count": 10,
@@ -14987,7 +15002,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 30,
+    "config_count": 29,
     "devices": [
       {
         "d": "G615_MC2",
@@ -15027,8 +15042,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -16835,7 +16849,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1110,
+    "config_count": 1111,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -30070,7 +30084,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2151,
+    "config_count": 2154,
     "devices": [
       {
         "d": "G52_MC2",
