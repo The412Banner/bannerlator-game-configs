@@ -10287,7 +10287,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -10311,7 +10311,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -10717,7 +10718,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 162,
+    "config_count": 163,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -15043,7 +15044,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 30,
+    "config_count": 29,
     "devices": [
       {
         "d": "G615_MC2",
@@ -15083,8 +15084,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -30249,7 +30249,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2166,
+    "config_count": 2167,
     "devices": [
       {
         "d": "G52_MC2",
@@ -31033,11 +31033,6 @@
       },
       {
         "d": "Adreno__TM__610",
-        "m": "23021RAAEG",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__610",
         "m": "23129RA5FL",
         "s": "Adreno (TM) 610"
       },
@@ -31060,6 +31055,11 @@
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23021RAAEG",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__740",
@@ -32133,6 +32133,14 @@
       "WarCraft_2_RU"
     ],
     "name": "Warcraft 2 Ru"
+  },
+  "name:wizard-school-exchange-student": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Wizard_School_Exchange_Student"
+    ],
+    "name": "Wizard School Exchange Student"
   },
   "name:wolverine": {
     "config_count": 1,
