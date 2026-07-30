@@ -1085,6 +1085,14 @@
     ],
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
+  "1110100": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Power Rangers: Battle for the Grid"
+  },
   "1110910": {
     "config_count": 1,
     "devices": [
@@ -3834,6 +3842,14 @@
     ],
     "name": "DRACU-RIOT!"
   },
+  "1340720": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "StateOfDecay"
+    ],
+    "name": "State of Decay 3"
+  },
   "1343240": {
     "config_count": 1,
     "devices": [],
@@ -4410,14 +4426,6 @@
       "The_Legend_of_Heroes__Sen_no_Kiseki_II_KAI_-The_Erebonian_Civil_War-"
     ],
     "name": "The Legend of Heroes: Sen no Kiseki II KAI -The Erebonian Civil War-"
-  },
-  "1451090": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Tactics_Ogre__Reborn"
-    ],
-    "name": "Tactics Ogre: Reborn"
   },
   "1451190": {
     "config_count": 2,
@@ -6565,7 +6573,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 128,
+    "config_count": 129,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -10267,7 +10275,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 11,
+    "config_count": 10,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -10291,8 +10299,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -14411,14 +14418,6 @@
     ],
     "name": "Hospital 666"
   },
-  "2787680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Candy Rangers"
-  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -14988,7 +14987,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "G615_MC2",
@@ -15028,7 +15027,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -15515,7 +15515,7 @@
     "name": "Heatwave"
   },
   "298110": {
-    "config_count": 23,
+    "config_count": 24,
     "devices": [
       {
         "d": "G720_MC7",
@@ -15573,6 +15573,7 @@
       "Far_Cry__4",
       "Far_Cry_____________________________________________________",
       "far_cry",
+      "FarCry",
       "FarCry4",
       "Far_Cry_4"
     ],
@@ -16080,7 +16081,7 @@
     "name": "MotoGP\u212225"
   },
   "307780": {
-    "config_count": 27,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -16835,7 +16836,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1108,
+    "config_count": 1109,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -17628,11 +17629,6 @@
         "s": "PowerVR Rogue GE8320"
       },
       {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
-      },
-      {
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
@@ -17721,6 +17717,11 @@
         "d": "Adreno__TM__610",
         "m": "M145F",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       },
       {
         "d": "Adreno__TM__830",
@@ -18952,14 +18953,6 @@
     ],
     "name": "Ghost Song"
   },
-  "34830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper: Ghost Warrior"
-  },
   "348470": {
     "config_count": 13,
     "devices": [
@@ -20036,6 +20029,14 @@
       "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
+  },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
@@ -23824,7 +23825,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -23848,8 +23849,7 @@
       }
     ],
     "folders": [
-      "State_of_Decay_2__Juggernaut_Edition",
-      "StateOfDecay"
+      "State_of_Decay_2__Juggernaut_Edition"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
   },
@@ -24525,7 +24525,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 10,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -24546,18 +24546,12 @@
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
       "Far_Cry_5",
       "Far_Cry_5___________________________________________________",
-      "Far_Cry__5",
-      "FarCry"
+      "Far_Cry__5"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -30066,7 +30060,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2142,
+    "config_count": 2149,
     "devices": [
       {
         "d": "G52_MC2",
@@ -30854,19 +30848,9 @@
         "s": "Mali-G51"
       },
       {
-        "d": "Adreno__TM__610",
-        "m": "23021RAAEG",
-        "s": "Adreno (TM) 610"
-      },
-      {
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
-      },
-      {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
       },
       {
         "d": "Adreno__TM__810",
@@ -30874,8 +30858,18 @@
         "s": "Adreno (TM) 810"
       },
       {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
+      },
+      {
         "d": "Adreno__TM__610",
         "m": "A057M",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23021RAAEG",
         "s": "Adreno (TM) 610"
       },
       {
