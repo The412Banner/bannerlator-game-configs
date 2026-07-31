@@ -1090,14 +1090,6 @@
     ],
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
-  "1110100": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Power Rangers: Battle for the Grid"
-  },
   "1110910": {
     "config_count": 1,
     "devices": [
@@ -14490,6 +14482,14 @@
     ],
     "name": "Hospital 666"
   },
+  "2787680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Candy Rangers"
+  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -16326,7 +16326,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 26,
+    "config_count": 27,
     "devices": [
       {
         "d": "G78",
@@ -16392,7 +16392,8 @@
     "folders": [
       "BlackOps",
       "Call_of_Duty_3______________________________________________",
-      "Call_of_Duty___Black_Ops_III"
+      "Call_of_Duty___Black_Ops_III",
+      "Call_of_Duty_-_Black_Ops"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
   },
@@ -22486,17 +22487,10 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
   "42700": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
+    "config_count": 1,
+    "devices": [],
     "folders": [
-      "Call_of_Duty_Black_Ops",
-      "Call_of_Duty_-_Black_Ops"
+      "Call_of_Duty_Black_Ops"
     ],
     "name": "Call of Duty\u00ae: Black Ops"
   },
@@ -29723,7 +29717,7 @@
     "name": "GTA San Andreas"
   },
   "name:gtaiv": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__610",
