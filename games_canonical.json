@@ -4105,7 +4105,7 @@
     "name": "Crash Bandicoot\u2122 4: It\u2019s About Time"
   },
   "1384160": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "SM8850",
@@ -4116,11 +4116,6 @@
         "d": "Adreno__TM__830",
         "m": "ASUSAI2501AP",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "23129RA5FL",
-        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
@@ -22782,7 +22777,7 @@
     "name": "DREAMTONE Demo"
   },
   "4435490": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -22791,7 +22786,8 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4"
+      "Call_of_Duty_4",
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -27121,7 +27117,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 19,
+    "config_count": 18,
     "devices": [
       {
         "d": "G720_MC7",
@@ -27168,8 +27164,7 @@
       "CALL_OF_DUTY_4_Modern_Warfare",
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
-      "iw3sp",
-      "Call_of_Duty_4_Modern_Warfare"
+      "iw3sp"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
@@ -30277,7 +30272,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2177,
+    "config_count": 2178,
     "devices": [
       {
         "d": "G52_MC2",
