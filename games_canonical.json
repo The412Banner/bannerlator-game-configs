@@ -1090,6 +1090,14 @@
     ],
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
+  "1110100": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Power Rangers: Battle for the Grid"
+  },
   "1110910": {
     "config_count": 1,
     "devices": [
@@ -4105,7 +4113,7 @@
     "name": "Crash Bandicoot\u2122 4: It\u2019s About Time"
   },
   "1384160": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "SM8850",
@@ -4116,6 +4124,11 @@
         "d": "Adreno__TM__830",
         "m": "ASUSAI2501AP",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
@@ -14481,14 +14494,6 @@
       "Hospital_666"
     ],
     "name": "Hospital 666"
-  },
-  "2787680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Candy Rangers"
   },
   "2796520": {
     "config_count": 1,
@@ -26022,13 +26027,8 @@
     "name": "The Bureau: XCOM Declassified"
   },
   "660080": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "I2401",
-        "s": "Adreno (TM) 830"
-      },
       {
         "d": "Immortalis_MC11",
         "m": "G925",
@@ -26047,6 +26047,11 @@
       {
         "d": "Adreno__TM__830",
         "m": "2510DPC44G",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "I2401",
         "s": "Adreno (TM) 830"
       }
     ],
