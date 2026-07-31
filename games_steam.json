@@ -131,6 +131,12 @@
     "appid": null,
     "method": "unresolved"
   },
+  "Acro_FS": {
+    "appid": 834880,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/834880/header.jpg",
+    "method": "naive",
+    "steam_name": "Acro FS"
+  },
   "Activision_Spider-Man_3": {
     "appid": 2651280,
     "method": "fuzzy",
@@ -4362,7 +4368,6 @@
   },
   "Kusan__City_of_Wolves": {
     "appid": 1714510,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1714510/header.jpg",
     "method": "naive",
     "steam_name": "Kusan: City of Wolves"
   },

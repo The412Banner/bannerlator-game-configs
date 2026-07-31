@@ -4604,12 +4604,17 @@
     "name": "Eternal Strands"
   },
   "1494810": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__642L",
         "m": "2109119DG",
         "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "N49",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -25145,8 +25150,14 @@
     "name": "Killer Instinct"
   },
   "578080": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "G610_MC6",
+        "m": "Mali",
+        "s": "Mali-G610 MC6"
+      }
+    ],
     "folders": [
       "PUBG__BATTLEGROUNDS"
     ],
@@ -27618,6 +27629,20 @@
       "WARRIORS_OROCHI_4"
     ],
     "name": "WARRIORS OROCHI 4"
+  },
+  "834880": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      }
+    ],
+    "folders": [
+      "Acro_FS"
+    ],
+    "name": "Acro FS"
   },
   "837470": {
     "config_count": 1,
