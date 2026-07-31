@@ -95,6 +95,20 @@
     ],
     "name": "Totally Reliable Delivery Service"
   },
+  "1012880": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
+      }
+    ],
+    "folders": [
+      "60SecondsReatomized"
+    ],
+    "name": "60 Seconds! Reatomized"
+  },
   "1013140": {
     "config_count": 1,
     "devices": [],
@@ -11667,7 +11681,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 14,
+    "config_count": 12,
     "devices": [
       {
         "d": "G720_MC7",
@@ -11688,21 +11702,10 @@
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II",
-      "DarkSoulsII"
+      "DARK_SOULS__II"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -12405,6 +12408,16 @@
     "config_count": 12,
     "devices": [
       {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_FIT",
+        "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "Odin2",
+        "s": "Adreno (TM) 740"
+      },
+      {
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
@@ -12433,24 +12446,14 @@
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_FIT",
-        "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "Odin2",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
+      "Avatar_Legends__The_Fighting_Game",
       "Avatar_legends",
       "Game",
       "game",
       "game_",
-      "Avatar_Legends__The_Fighting_Game",
       "Avatar_Legends__The_Fighting"
     ],
     "name": "Avatar Legends: The Fighting Game"
@@ -16627,8 +16630,14 @@
     "name": "My Sexy Neighbor \ud83d\udd1e Prologue"
   },
   "312520": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
     "folders": [
       "Rain_World"
     ],
@@ -20440,7 +20449,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 24,
+    "config_count": 26,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -20491,6 +20500,16 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -20498,6 +20517,7 @@
       "DARK_SOULS",
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
+      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -26283,7 +26303,7 @@
     "name": "GameGuru Starter Bundle"
   },
   "678950": {
-    "config_count": 38,
+    "config_count": 39,
     "devices": [
       {
         "d": "G68_MC4",
@@ -27703,20 +27723,6 @@
       "WARRIORS_OROCHI_4"
     ],
     "name": "WARRIORS OROCHI 4"
-  },
-  "834880": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      }
-    ],
-    "folders": [
-      "Acro_FS"
-    ],
-    "name": "Acro FS"
   },
   "837470": {
     "config_count": 1,
@@ -30425,7 +30431,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2185,
+    "config_count": 2190,
     "devices": [
       {
         "d": "G52_MC2",
@@ -31033,11 +31039,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "Adreno__TM__710",
-        "m": "A366E",
-        "s": "Adreno (TM) 710"
-      },
-      {
         "d": "Adreno__TM__810",
         "m": "NX3",
         "s": "Adreno (TM) 810"
@@ -31236,6 +31237,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "A366E",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__740",

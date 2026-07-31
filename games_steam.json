@@ -13,6 +13,10 @@
     "method": "naive",
     "steam_name": "10 Second Ninja X"
   },
+  "16100-german-truck-simulator-1-32-en-win": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "2K_Sports_NBA_2K14": {
     "appid": null,
     "method": "unresolved"
@@ -25,6 +29,12 @@
   "4gb_patch": {
     "appid": null,
     "method": "non-game"
+  },
+  "60SecondsReatomized": {
+    "appid": 1012880,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1012880/header.jpg",
+    "method": "norm",
+    "steam_name": "60 Seconds! Reatomized"
   },
   "7-Zip": {
     "appid": null,
@@ -130,11 +140,6 @@
   "Ace_Combat__Assault_Horizon": {
     "appid": null,
     "method": "unresolved"
-  },
-  "Acro_FS": {
-    "appid": 834880,
-    "method": "naive",
-    "steam_name": "Acro FS"
   },
   "Activision_Spider-Man_3": {
     "appid": 2651280,
@@ -464,7 +469,6 @@
   },
   "Avatar_Legends__The_Fighting_Game": {
     "appid": 2424420,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2424420/header.jpg",
     "method": "naive",
     "steam_name": "Avatar Legends: The Fighting Game"
   },
