@@ -8675,6 +8675,20 @@
     ],
     "name": "White Day 2: The Flower That Tells Lies - Complete Edition"
   },
+  "208480": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "Retroid_Pocket_6",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Assassin_s_Creed_III"
+    ],
+    "name": "Assassin S Creed Iii"
+  },
   "2085540": {
     "config_count": 1,
     "devices": [],
@@ -10802,7 +10816,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 168,
+    "config_count": 170,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -11070,14 +11084,14 @@
         "s": "Mali-G57 MC2"
       },
       {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "23021RAAEG",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       }
     ],
     "folders": [
@@ -22849,25 +22863,6 @@
     ],
     "name": "Pai Gow Poker by Pokerist"
   },
-  "435790": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__660",
-        "m": "LE2115",
-        "s": "Adreno (TM) 660"
-      },
-      {
-        "d": "G77_MC9",
-        "m": "Mali",
-        "s": "Mali-G77 MC9"
-      }
-    ],
-    "folders": [
-      "10_Second_Ninja_X"
-    ],
-    "name": "10 Second Ninja X"
-  },
   "4371450": {
     "config_count": 1,
     "devices": [
@@ -30487,7 +30482,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2197,
+    "config_count": 2198,
     "devices": [
       {
         "d": "G52_MC2",
@@ -31225,11 +31220,6 @@
         "s": "Adreno (TM) 810"
       },
       {
-        "d": "Adreno__TM__610",
-        "m": "A057M",
-        "s": "Adreno (TM) 610"
-      },
-      {
         "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
         "m": "A566E",
         "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
@@ -31303,6 +31293,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "A057M",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__740",
