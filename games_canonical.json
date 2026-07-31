@@ -3888,6 +3888,14 @@
     ],
     "name": "DRACU-RIOT!"
   },
+  "1340720": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "StateOfDecay"
+    ],
+    "name": "State of Decay 3"
+  },
   "1343240": {
     "config_count": 1,
     "devices": [],
@@ -22948,7 +22956,7 @@
     "name": "DREAMTONE Demo"
   },
   "4435490": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -22957,8 +22965,7 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4",
-      "Call_of_Duty_4_Modern_Warfare"
+      "Call_of_Duty_4"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -24157,7 +24164,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -24181,8 +24188,7 @@
       }
     ],
     "folders": [
-      "State_of_Decay_2__Juggernaut_Edition",
-      "StateOfDecay"
+      "State_of_Decay_2__Juggernaut_Edition"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
   },
@@ -27300,7 +27306,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "G720_MC7",
@@ -27347,7 +27353,8 @@
       "CALL_OF_DUTY_4_Modern_Warfare",
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
-      "iw3sp"
+      "iw3sp",
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
@@ -30001,6 +30008,14 @@
     ],
     "name": "Iw4Sp"
   },
+  "name:iw6sp64-ship": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "iw6sp64_ship"
+    ],
+    "name": "Iw6Sp64 Ship"
+  },
   "name:jump-force": {
     "config_count": 1,
     "devices": [],
@@ -30475,7 +30490,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2198,
+    "config_count": 2201,
     "devices": [
       {
         "d": "G52_MC2",
@@ -31008,11 +31023,6 @@
         "s": "Mali-G71"
       },
       {
-        "d": "Adreno__TM__730",
-        "m": "S901E",
-        "s": "Adreno (TM) 730"
-      },
-      {
         "d": "G76_MC4",
         "m": "Mali",
         "s": "Mali-G76 MC4"
@@ -31091,11 +31101,6 @@
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "G781B",
-        "s": "Adreno (TM) 650"
       },
       {
         "d": "Adreno__TM__710",
@@ -31291,6 +31296,16 @@
         "d": "Adreno__TM__610",
         "m": "A057M",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "G781B",
+        "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "S901E",
+        "s": "Adreno (TM) 730"
       },
       {
         "d": "Adreno__TM__740",
