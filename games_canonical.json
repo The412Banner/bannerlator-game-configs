@@ -1110,7 +1110,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1119,8 +1119,7 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid",
-      "Rangers"
+      "BattleForTheGrid"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -3894,14 +3893,6 @@
     ],
     "name": "DRACU-RIOT!"
   },
-  "1340720": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "StateOfDecay"
-    ],
-    "name": "State of Decay 3"
-  },
   "1343240": {
     "config_count": 1,
     "devices": [],
@@ -5880,7 +5871,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 83,
+    "config_count": 84,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -14614,6 +14605,14 @@
     ],
     "name": "Hospital 666"
   },
+  "2787680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Candy Rangers"
+  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -19310,7 +19309,7 @@
     "name": "Stellar Blade\u2122"
   },
   "349040": {
-    "config_count": 53,
+    "config_count": 54,
     "devices": [
       {
         "d": "G615_MC2",
@@ -19416,6 +19415,7 @@
     "folders": [
       "NARUTO_SHIPPUDEN_-_ULTIMATE_NINJA_STORM_4",
       "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+      "NARUTO_SHIPPUDEN_-_Ultimate_Ninja_STORM_4",
       "Naruto_Ultimate_Storm_4"
     ],
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
@@ -19485,7 +19485,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 24,
+    "config_count": 25,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -22422,6 +22422,20 @@
     ],
     "name": "Resident Evil 7 Biohazard"
   },
+  "4192770": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__710",
+        "m": "motorola_edge_50_fusion",
+        "s": "Adreno (TM) 710"
+      }
+    ],
+    "folders": [
+      "mushi"
+    ],
+    "name": "Mushi"
+  },
   "4195170": {
     "config_count": 1,
     "devices": [
@@ -22951,7 +22965,7 @@
     "name": "DREAMTONE Demo"
   },
   "4435490": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -22960,7 +22974,8 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4"
+      "Call_of_Duty_4",
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -24159,7 +24174,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -24183,7 +24198,8 @@
       }
     ],
     "folders": [
-      "State_of_Decay_2__Juggernaut_Edition"
+      "State_of_Decay_2__Juggernaut_Edition",
+      "StateOfDecay"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
   },
@@ -27301,7 +27317,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 19,
+    "config_count": 18,
     "devices": [
       {
         "d": "G720_MC7",
@@ -27348,8 +27364,7 @@
       "CALL_OF_DUTY_4_Modern_Warfare",
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
-      "iw3sp",
-      "Call_of_Duty_4_Modern_Warfare"
+      "iw3sp"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
@@ -30477,7 +30492,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2196,
+    "config_count": 2197,
     "devices": [
       {
         "d": "G52_MC2",
@@ -31245,11 +31260,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
         "m": "S731B",
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
@@ -31293,6 +31303,11 @@
         "d": "Adreno__TM__610",
         "m": "2201117TL",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
