@@ -133,7 +133,6 @@
   },
   "Acro_FS": {
     "appid": 834880,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/834880/header.jpg",
     "method": "naive",
     "steam_name": "Acro FS"
   },
@@ -9993,6 +9992,10 @@
     "method": "unresolved"
   },
   "cstrike15": {
+    "appid": null,
+    "method": "unresolved"
+  },
+  "cuckoocastle": {
     "appid": null,
     "method": "unresolved"
   },
