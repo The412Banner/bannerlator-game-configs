@@ -29352,8 +29352,14 @@
     "name": "Cod2Sp S"
   },
   "name:codwaw": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "220333QL",
+        "s": "Adreno (TM) 610"
+      }
+    ],
     "folders": [
       "CoDWaW"
     ],
@@ -30357,7 +30363,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2180,
+    "config_count": 2181,
     "devices": [
       {
         "d": "G52_MC2",
@@ -30900,11 +30906,6 @@
         "s": "Mali-G720-Immortalis MC12"
       },
       {
-        "d": "Adreno__TM__740",
-        "m": "S911B",
-        "s": "Adreno (TM) 740"
-      },
-      {
         "d": "G71",
         "m": "Mali",
         "s": "Mali-G71"
@@ -31168,6 +31169,11 @@
         "d": "G52",
         "m": "Mali",
         "s": "Mali-G52"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S911B",
+        "s": "Adreno (TM) 740"
       },
       {
         "d": "Adreno__TM__740",
