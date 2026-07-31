@@ -1090,14 +1090,6 @@
     ],
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
-  "1110100": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Power Rangers: Battle for the Grid"
-  },
   "1110910": {
     "config_count": 1,
     "devices": [
@@ -10718,7 +10710,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 164,
+    "config_count": 167,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -10989,6 +10981,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23021RAAEG",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
@@ -14470,6 +14467,14 @@
     ],
     "name": "Hospital 666"
   },
+  "2787680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Candy Rangers"
+  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -15571,7 +15576,7 @@
     "name": "Heatwave"
   },
   "298110": {
-    "config_count": 24,
+    "config_count": 23,
     "devices": [
       {
         "d": "G720_MC7",
@@ -15629,7 +15634,6 @@
       "Far_Cry__4",
       "Far_Cry_____________________________________________________",
       "far_cry",
-      "FarCry",
       "FarCry4",
       "Far_Cry_4"
     ],
@@ -24667,7 +24671,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -24688,12 +24692,18 @@
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
       "Far_Cry_5",
       "Far_Cry_5___________________________________________________",
-      "Far_Cry__5"
+      "Far_Cry__5",
+      "FarCry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -30244,7 +30254,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2172,
+    "config_count": 2173,
     "devices": [
       {
         "d": "G52_MC2",
