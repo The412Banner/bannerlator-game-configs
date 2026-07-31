@@ -32,7 +32,6 @@
   },
   "60SecondsReatomized": {
     "appid": 1012880,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1012880/header.jpg",
     "method": "norm",
     "steam_name": "60 Seconds! Reatomized"
   },
@@ -7901,6 +7900,12 @@
     "appid": null,
     "method": "non-game"
   },
+  "Sniper_3": {
+    "appid": 922320,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/922320/header.jpg",
+    "method": "naive",
+    "steam_name": "Sniper 3D Assassin: Free to Play"
+  },
   "Sniper_Elite_3": {
     "appid": 238090,
     "method": "naive",
@@ -10457,6 +10462,12 @@
     "appid": 3679080,
     "method": "norm",
     "steam_name": "The Seven Deadly Sins: Origin"
+  },
+  "p_s_13": {
+    "appid": 1810031,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1810031/header.jpg",
+    "method": "naive",
+    "steam_name": "Steel Division 2 - Reinforcement Pack #13 - Lucky 13"
   },
   "p_s_2013": {
     "appid": 756730,
