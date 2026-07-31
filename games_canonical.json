@@ -12165,7 +12165,7 @@
     "name": "Horizon Forbidden West\u2122 Complete Edition"
   },
   "242050": {
-    "config_count": 74,
+    "config_count": 75,
     "devices": [
       {
         "d": "MT6789",
@@ -12316,6 +12316,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__750",
@@ -12747,6 +12752,20 @@
     ],
     "name": "Forza Horizon 6"
   },
+  "2486820": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "Sonic"
+    ],
+    "name": "Sonic Racing: CrossWorlds"
+  },
   "24880": {
     "config_count": 2,
     "devices": [
@@ -12771,7 +12790,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "A075M",
@@ -12824,14 +12843,14 @@
         "s": "Mali-G57 MC2"
       },
       {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
         "d": "Adreno__TM__640",
         "m": "M2102J20SG",
         "s": "Adreno (TM) 640"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
@@ -15324,6 +15343,20 @@
     ],
     "name": "Half-Life 2: Update"
   },
+  "291650": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__725",
+        "m": "23049PCD8I",
+        "s": "Adreno (TM) 725"
+      }
+    ],
+    "folders": [
+      "Pillars_of_Eternity"
+    ],
+    "name": "Pillars of Eternity"
+  },
   "2916700": {
     "config_count": 1,
     "devices": [
@@ -16369,7 +16402,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 26,
+    "config_count": 27,
     "devices": [
       {
         "d": "G78",
@@ -16435,7 +16468,8 @@
     "folders": [
       "BlackOps",
       "Call_of_Duty_3______________________________________________",
-      "Call_of_Duty___Black_Ops_III"
+      "Call_of_Duty___Black_Ops_III",
+      "Call_of_Duty_-_Black_Ops"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
   },
@@ -16961,7 +16995,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1122,
+    "config_count": 1124,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -17799,11 +17833,6 @@
         "s": "Adreno (TM) 619"
       },
       {
-        "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-        "m": "S926B",
-        "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
-      },
-      {
         "d": "Adreno__TM__725",
         "m": "23049PCD8G",
         "s": "Adreno (TM) 725"
@@ -17857,6 +17886,11 @@
         "d": "Adreno__TM__750",
         "m": "N49",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+        "m": "S926B",
+        "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
       },
       {
         "d": "Adreno__TM__830",
@@ -22545,17 +22579,10 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
   "42700": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
+    "config_count": 1,
+    "devices": [],
     "folders": [
-      "Call_of_Duty_Black_Ops",
-      "Call_of_Duty_-_Black_Ops"
+      "Call_of_Duty_Black_Ops"
     ],
     "name": "Call of Duty\u00ae: Black Ops"
   },
@@ -22842,7 +22869,7 @@
     "name": "DREAMTONE Demo"
   },
   "4435490": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -22851,7 +22878,8 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4"
+      "Call_of_Duty_4",
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -25692,7 +25720,7 @@
     "name": "Fate/EXTELLA LINK"
   },
   "622650": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -27187,7 +27215,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 19,
+    "config_count": 18,
     "devices": [
       {
         "d": "G720_MC7",
@@ -27234,8 +27262,7 @@
       "CALL_OF_DUTY_4_Modern_Warfare",
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
-      "iw3sp",
-      "Call_of_Duty_4_Modern_Warfare"
+      "iw3sp"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
