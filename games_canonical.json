@@ -12237,7 +12237,7 @@
     "name": "Horizon Forbidden West\u2122 Complete Edition"
   },
   "242050": {
-    "config_count": 76,
+    "config_count": 77,
     "devices": [
       {
         "d": "MT6789",
@@ -12393,6 +12393,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21I",
+        "s": "Adreno (TM) 735"
       },
       {
         "d": "Adreno__TM__750",
@@ -31536,7 +31541,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 162,
+    "config_count": 163,
     "devices": [
       {
         "d": "G615_MC2",
