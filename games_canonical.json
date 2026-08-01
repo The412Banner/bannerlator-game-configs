@@ -8242,6 +8242,21 @@
     ],
     "name": "GoreBox"
   },
+  "202970": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "BlackOps",
+      "Call_of_Duty_-_Black_Ops"
+    ],
+    "name": "Call of Duty\u00ae: Black Ops II"
+  },
   "203140": {
     "config_count": 27,
     "devices": [
@@ -10387,7 +10402,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -10411,7 +10426,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -15198,7 +15214,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 30,
+    "config_count": 29,
     "devices": [
       {
         "d": "G615_MC2",
@@ -15238,8 +15254,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -16474,7 +16489,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 27,
+    "config_count": 25,
     "devices": [
       {
         "d": "G78",
@@ -16540,8 +16555,7 @@
     "folders": [
       "BlackOps",
       "Call_of_Duty_3______________________________________________",
-      "Call_of_Duty___Black_Ops_III",
-      "Call_of_Duty_-_Black_Ops"
+      "Call_of_Duty___Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
   },
@@ -27156,7 +27170,7 @@
     "name": "Electric Bench - Unreal Engine 5 Benchmark"
   },
   "774361": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "Adreno__TM__830",
