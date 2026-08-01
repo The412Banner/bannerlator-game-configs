@@ -1105,7 +1105,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1114,7 +1114,8 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid"
+      "BattleForTheGrid",
+      "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -1343,6 +1344,20 @@
       "Ember_Knights"
     ],
     "name": "Ember Knights"
+  },
+  "1139980": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "F946B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Travellers_Rest"
+    ],
+    "name": "Travellers Rest"
   },
   "1144200": {
     "config_count": 4,
@@ -6651,7 +6666,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 129,
+    "config_count": 130,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -6862,8 +6877,14 @@
     "name": "Haste"
   },
   "1796790": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "F946B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
     "folders": [
       "Chef_RPG"
     ],
@@ -14652,14 +14673,6 @@
       "Hospital_666"
     ],
     "name": "Hospital 666"
-  },
-  "2787680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Candy Rangers"
   },
   "2796520": {
     "config_count": 1,
@@ -27735,7 +27748,7 @@
     "name": "Cash Grab - Hat Pack"
   },
   "8190": {
-    "config_count": 26,
+    "config_count": 27,
     "devices": [
       {
         "d": "Odin2",
@@ -30581,7 +30594,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2206,
+    "config_count": 2208,
     "devices": [
       {
         "d": "G52_MC2",
