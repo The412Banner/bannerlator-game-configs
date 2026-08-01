@@ -2169,7 +2169,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 291,
+    "config_count": 292,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -2467,11 +2467,6 @@
         "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
       },
       {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      },
-      {
         "d": "Adreno__TM__750",
         "m": "NX9",
         "s": "Adreno (TM) 750"
@@ -2490,6 +2485,11 @@
         "d": "Adreno__TM__642L",
         "m": "2109119DG",
         "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__735",
@@ -14409,7 +14409,7 @@
     "name": "Palia"
   },
   "270880": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -14440,6 +14440,11 @@
         "d": "Adreno__TM__732",
         "m": "2410CRP4CG",
         "s": "Adreno (TM) 732"
+      },
+      {
+        "d": "G76",
+        "m": "Mali",
+        "s": "Mali-G76"
       },
       {
         "d": "Adreno__TM__610",
@@ -16565,7 +16570,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 26,
+    "config_count": 27,
     "devices": [
       {
         "d": "G78",
@@ -16631,7 +16636,8 @@
     "folders": [
       "BlackOps",
       "Call_of_Duty_3______________________________________________",
-      "Call_of_Duty___Black_Ops_III"
+      "Call_of_Duty___Black_Ops_III",
+      "Call_of_Duty_-_Black_Ops"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
   },
@@ -20598,7 +20604,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 26,
+    "config_count": 27,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -20651,6 +20657,11 @@
         "s": "Mali-G615 MC6"
       },
       {
+        "d": "Adreno__TM__735",
+        "m": "NX9",
+        "s": "Adreno (TM) 735"
+      },
+      {
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
@@ -20666,6 +20677,7 @@
       "DARK_SOULS",
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
+      "DARK_SOULS_III",
       "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
@@ -20784,7 +20796,7 @@
     "name": "Resident Evil Requiem"
   },
   "3768760": {
-    "config_count": 6,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -22809,17 +22821,10 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
   "42700": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
+    "config_count": 1,
+    "devices": [],
     "folders": [
-      "Call_of_Duty_Black_Ops",
-      "Call_of_Duty_-_Black_Ops"
+      "Call_of_Duty_Black_Ops"
     ],
     "name": "Call of Duty\u00ae: Black Ops"
   },
@@ -30706,7 +30711,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2234,
+    "config_count": 2237,
     "devices": [
       {
         "d": "G52_MC2",
@@ -31429,11 +31434,6 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "Adreno__TM__610",
-        "m": "23021RAAEG",
-        "s": "Adreno (TM) 610"
-      },
-      {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
         "m": "S731B",
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
@@ -31532,6 +31532,11 @@
         "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
         "m": "A566E",
         "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23021RAAEG",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__740",
