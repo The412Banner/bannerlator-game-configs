@@ -725,14 +725,6 @@
     ],
     "name": "Arma 3"
   },
-  "1080920": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GRID_2"
-    ],
-    "name": "Defense Grid 2 - Aftermath"
-  },
   "108600": {
     "config_count": 1,
     "devices": [],
@@ -1113,7 +1105,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1122,8 +1114,7 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid",
-      "Rangers"
+      "BattleForTheGrid"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -2961,7 +2952,7 @@
     "name": "Battlefield 3\u2122"
   },
   "1238840": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -2982,6 +2973,11 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "NX789J_V1B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -8828,7 +8824,7 @@
     "name": "Sonic Frontiers: Monster Hunter Collaboration Pack"
   },
   "209000": {
-    "config_count": 9,
+    "config_count": 14,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -8849,6 +8845,11 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
@@ -10395,7 +10396,7 @@
     "name": "Five Nights at Freddy's: Secret of the Mimic"
   },
   "221540": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [],
     "folders": [
       "GRID_2"
@@ -10878,7 +10879,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 171,
+    "config_count": 172,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -11542,7 +11543,7 @@
     "name": "Military Tanks"
   },
   "234670": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "G68_MC4",
@@ -11565,14 +11566,14 @@
         "s": "Mali-G57"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__610",
@@ -14681,6 +14682,14 @@
       "Hospital_666"
     ],
     "name": "Hospital 666"
+  },
+  "2787680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Candy Rangers"
   },
   "2796520": {
     "config_count": 1,
@@ -23050,7 +23059,7 @@
     "name": "DREAMTONE Demo"
   },
   "4435490": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23059,8 +23068,7 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4",
-      "Call_of_Duty_4_Modern_Warfare"
+      "Call_of_Duty_4"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -27428,7 +27436,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "G720_MC7",
@@ -27475,7 +27483,8 @@
       "CALL_OF_DUTY_4_Modern_Warfare",
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
-      "iw3sp"
+      "iw3sp",
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
@@ -30060,6 +30069,14 @@
     ],
     "name": "GTA San Andreas"
   },
+  "name:gta-vice-city": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GTA_Vice_City"
+    ],
+    "name": "GTA Vice City"
+  },
   "name:gtaiv": {
     "config_count": 9,
     "devices": [
@@ -30496,6 +30513,14 @@
     ],
     "name": "Nsuns2"
   },
+  "name:nsuns4": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "NSUNS4"
+    ],
+    "name": "Nsuns4"
+  },
   "name:nsunsr": {
     "config_count": 1,
     "devices": [],
@@ -30638,7 +30663,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2216,
+    "config_count": 2226,
     "devices": [
       {
         "d": "G52_MC2",
@@ -31356,11 +31381,6 @@
         "s": "Adreno (TM) 810"
       },
       {
-        "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-        "m": "A566E",
-        "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "23122PCD1G",
         "s": "Adreno (TM) 710"
@@ -31416,11 +31436,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "A057M",
         "s": "Adreno (TM) 610"
@@ -31459,6 +31474,21 @@
         "d": "Adreno__TM__619",
         "m": "moto_g84_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "23113RKC6G",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+        "m": "A566E",
+        "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
