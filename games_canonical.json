@@ -6900,6 +6900,20 @@
     ],
     "name": "The Devil Within: Satgat"
   },
+  "1803140": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_FIT",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "DeerAndBoy"
+    ],
+    "name": "Deer & Boy"
+  },
   "1805320": {
     "config_count": 1,
     "devices": [],
@@ -7912,7 +7926,7 @@
     "name": "Escape from Ever After"
   },
   "19980": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -7928,6 +7942,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "G77_MC9",
+        "m": "Mali",
+        "s": "Mali-G77 MC9"
       }
     ],
     "folders": [
@@ -16472,7 +16491,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 27,
+    "config_count": 26,
     "devices": [
       {
         "d": "G78",
@@ -16538,8 +16557,7 @@
     "folders": [
       "BlackOps",
       "Call_of_Duty_3______________________________________________",
-      "Call_of_Duty___Black_Ops_III",
-      "Call_of_Duty_-_Black_Ops"
+      "Call_of_Duty___Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
   },
@@ -22690,10 +22708,17 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
   "42700": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
     "folders": [
-      "Call_of_Duty_Black_Ops"
+      "Call_of_Duty_Black_Ops",
+      "Call_of_Duty_-_Black_Ops"
     ],
     "name": "Call of Duty\u00ae: Black Ops"
   },
@@ -22961,7 +22986,7 @@
     "name": "DREAMTONE Demo"
   },
   "4435490": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -22970,8 +22995,7 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4",
-      "Call_of_Duty_4_Modern_Warfare"
+      "Call_of_Duty_4"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -27332,7 +27356,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "G720_MC7",
@@ -27379,7 +27403,8 @@
       "CALL_OF_DUTY_4_Modern_Warfare",
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
-      "iw3sp"
+      "iw3sp",
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
@@ -27518,7 +27543,7 @@
     "name": "Tomb Raider: Underworld"
   },
   "814380": {
-    "config_count": 51,
+    "config_count": 52,
     "devices": [
       {
         "d": "Adreno__TM__650",
