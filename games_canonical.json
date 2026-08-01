@@ -10458,7 +10458,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 11,
+    "config_count": 10,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -10482,8 +10482,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -15290,7 +15289,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "G615_MC2",
@@ -15330,7 +15329,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -20299,7 +20299,7 @@
     "name": "Dragon's Dogma: Dark Arisen"
   },
   "367520": {
-    "config_count": 26,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -20355,6 +20355,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+        "m": "A566E",
+        "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
       },
       {
         "d": "Adreno__TM__610",
@@ -26475,7 +26480,7 @@
     "name": "GameGuru Starter Bundle"
   },
   "678950": {
-    "config_count": 42,
+    "config_count": 41,
     "devices": [
       {
         "d": "G68_MC4",
@@ -30688,7 +30693,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2233,
+    "config_count": 2234,
     "devices": [
       {
         "d": "G52_MC2",
@@ -31496,11 +31501,6 @@
         "s": "Adreno (TM) 740"
       },
       {
-        "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-        "m": "A566E",
-        "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
-      },
-      {
         "d": "Adreno__TM__619",
         "m": "moto_g84_5G",
         "s": "Adreno (TM) 619"
@@ -31514,6 +31514,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+        "m": "A566E",
+        "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
       },
       {
         "d": "Adreno__TM__740",
