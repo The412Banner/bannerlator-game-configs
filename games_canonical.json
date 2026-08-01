@@ -17089,7 +17089,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1127,
+    "config_count": 1128,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -17987,6 +17987,11 @@
         "s": "Mali-G77 MC9"
       },
       {
+        "d": "Adreno__TM__610",
+        "m": "V2434",
+        "s": "Adreno (TM) 610"
+      },
+      {
         "d": "Adreno__TM__830",
         "m": "NX9",
         "s": "Adreno (TM) 830"
@@ -18585,7 +18590,7 @@
     "name": "Tom Clancy S Splinter Cell Conviction"
   },
   "33230": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "G615_MC2",
@@ -18611,6 +18616,11 @@
         "d": "Adreno__TM__650",
         "m": "G780G",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
       }
     ],
     "folders": [
