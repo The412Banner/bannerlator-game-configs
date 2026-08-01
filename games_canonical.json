@@ -1105,7 +1105,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1114,8 +1114,7 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid",
-      "Rangers"
+      "BattleForTheGrid"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -8267,6 +8266,14 @@
     ],
     "name": "GoreBox"
   },
+  "202970": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "BlackOps"
+    ],
+    "name": "Call of Duty\u00ae: Black Ops II"
+  },
   "203140": {
     "config_count": 27,
     "devices": [
@@ -14646,6 +14653,14 @@
     ],
     "name": "Hospital 666"
   },
+  "2787680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Candy Rangers"
+  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -16496,7 +16511,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 26,
+    "config_count": 25,
     "devices": [
       {
         "d": "G78",
@@ -30566,7 +30581,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2203,
+    "config_count": 2206,
     "devices": [
       {
         "d": "G52_MC2",
@@ -31382,6 +31397,11 @@
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S918B",
+        "s": "Adreno (TM) 740"
       },
       {
         "d": "Adreno__TM__740",
