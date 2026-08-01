@@ -2412,6 +2412,10 @@
     "method": "naive",
     "steam_name": "ENSLAVED\u2122: Odyssey to the West\u2122 Premium Edition"
   },
+  "Epic_Games": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "Epic_Online_Services_Bootstrapper": {
     "appid": null,
     "method": "non-game"
@@ -9243,6 +9247,12 @@
   "VC__Never-Too-Late__Savegame_Editor": {
     "appid": null,
     "method": "unresolved"
+  },
+  "VERS_O_DEMO_DE_DRAGON_BALL_Z__KAKAROT": {
+    "appid": 4686840,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/4686840/header.jpg",
+    "method": "norm",
+    "steam_name": "Sons of the Arena: Pollice Verso"
   },
   "VK_com": {
     "appid": 11092,

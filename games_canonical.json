@@ -1105,7 +1105,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1114,7 +1114,8 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid"
+      "BattleForTheGrid",
+      "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -8303,7 +8304,7 @@
     "name": "Hitman: Absolution\u2122"
   },
   "203160": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G52_MC2",
@@ -8312,9 +8313,10 @@
       }
     ],
     "folders": [
-      "Tomb_Raider_2013"
+      "Tomb_Raider_2013",
+      "Tomb_Raider_Game_of_the_Year"
     ],
-    "name": "Tomb Raider 2013"
+    "name": "Tomb Raider Game of the Year"
   },
   "203650": {
     "config_count": 2,
@@ -12527,7 +12529,7 @@
     "name": "S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition"
   },
   "242760": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [],
     "folders": [
       "TheForest",
@@ -14614,14 +14616,6 @@
       "Hospital_666"
     ],
     "name": "Hospital 666"
-  },
-  "2787680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Candy Rangers"
   },
   "2796520": {
     "config_count": 1,
@@ -17072,7 +17066,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1124,
+    "config_count": 1126,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -17318,11 +17312,6 @@
         "d": "SM7325",
         "m": "22101320G",
         "s": "SM7325"
-      },
-      {
-        "d": "G77_MC9",
-        "m": "Mali",
-        "s": "Mali-G77 MC9"
       },
       {
         "d": "SM6450",
@@ -17970,6 +17959,11 @@
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
       },
       {
+        "d": "G77_MC9",
+        "m": "Mali",
+        "s": "Mali-G77 MC9"
+      },
+      {
         "d": "Adreno__TM__830",
         "m": "NX9",
         "s": "Adreno (TM) 830"
@@ -18028,6 +18022,11 @@
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "220333QL",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__840",
@@ -19245,12 +19244,17 @@
     "name": "SAMURAI WARRIORS 4-II"
   },
   "34870": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__840",
@@ -22950,7 +22954,7 @@
     "name": "DREAMTONE Demo"
   },
   "4435490": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -22959,8 +22963,7 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4",
-      "Call_of_Duty_4_Modern_Warfare"
+      "Call_of_Duty_4"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -23099,7 +23102,7 @@
     "name": "Farming Simulator 17"
   },
   "447040": {
-    "config_count": 46,
+    "config_count": 45,
     "devices": [
       {
         "d": "G720_MC7",
@@ -23545,6 +23548,20 @@
       "Alien_isolation"
     ],
     "name": "Alien: Isolation 2"
+  },
+  "4686840": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "VERS_O_DEMO_DE_DRAGON_BALL_Z__KAKAROT"
+    ],
+    "name": "Sons of the Arena: Pollice Verso"
   },
   "4704690": {
     "config_count": 2,
@@ -26334,7 +26351,7 @@
     "name": "GameGuru Starter Bundle"
   },
   "678950": {
-    "config_count": 39,
+    "config_count": 40,
     "devices": [
       {
         "d": "G68_MC4",
@@ -27301,7 +27318,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "G720_MC7",
@@ -27348,7 +27365,8 @@
       "CALL_OF_DUTY_4_Modern_Warfare",
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
-      "iw3sp"
+      "iw3sp",
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
