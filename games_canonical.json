@@ -8242,21 +8242,6 @@
     ],
     "name": "GoreBox"
   },
-  "202970": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "BlackOps",
-      "Call_of_Duty_-_Black_Ops"
-    ],
-    "name": "Call of Duty\u00ae: Black Ops II"
-  },
   "203140": {
     "config_count": 27,
     "devices": [
@@ -16489,7 +16474,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 25,
+    "config_count": 27,
     "devices": [
       {
         "d": "G78",
@@ -16555,7 +16540,8 @@
     "folders": [
       "BlackOps",
       "Call_of_Duty_3______________________________________________",
-      "Call_of_Duty___Black_Ops_III"
+      "Call_of_Duty___Black_Ops_III",
+      "Call_of_Duty_-_Black_Ops"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
   },
@@ -26372,7 +26358,7 @@
     "name": "GameGuru Starter Bundle"
   },
   "678950": {
-    "config_count": 41,
+    "config_count": 42,
     "devices": [
       {
         "d": "G68_MC4",
@@ -26458,6 +26444,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g85_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
