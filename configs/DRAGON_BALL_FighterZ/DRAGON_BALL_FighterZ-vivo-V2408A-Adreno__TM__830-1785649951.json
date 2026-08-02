@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "vivo V2408A",
+    "soc": "Adreno (TM) 830",
+    "bh_version": "2.9.2",
+    "uploader": {
+      "name": "kianFG12",
+      "avatarUrl": "https:\/\/bannerhub-configs-worker.the412banner.workers.dev\/account\/avatar?uid=0abbc49f0e48d1eaff88c8e4bef0d6b6"
+    },
+    "upload_token": "79320cc447d62a6f",
+    "settings_count": 10,
+    "components_count": 4
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"3.0-1-gplasync-arm64ec-0\"}",
+    "pc_ls_VK3k": "{\"name\":\"3.0b-arm64ec-0\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"Turnip Gen8 V33\"}",
+    "pc_set_constant_95": "{\"name\":\"2508\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"Proton-11.0-3-arm64ec-4\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-original",
+    "pc_ls_AUDIO_DRIVER": "1",
+    "pc_ls_update_enable_xinput": true,
+    "pc_ls_environment_variable": "MESA_VK_WSI_PRESENT_MODE=fifo MESA_GL_VERSION_OVERRIDE=4.6 MESA_GLSL_VERSION_OVERRIDE=460 DXVK_ASYNC=1 DXVK_STATE_CACHE=1 DXVK_STATE_CACHE_PATH=\/sdcard\/DXVK_CACHE DXVK_CONFIG_CACHE=1 VKD3D_CONFIG=dxr11 VKD3D_FEATURE_LEVEL=12_1 MESA_VK_DEVICE_SELECT_FORCE_DEFAULT_DEVICE=1 WINEFSYNC=1 WINEESYNC=1 TU_DEBUG=noconform,sysmem MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=2048MB mesa_glthread=true WINEDLLOVERRIDES=version=n,b;winmm=n,b;dinput=n,b;dinput8=n,b;dsound=n,b;xinput1_3=n,b;msacm32=n,b;dbghelp=n,b",
+    "bl_ext": {
+      "dxwrapper": "dxvk+vkd3d",
+      "screenSize": "1280x720",
+      "renderer": "vulkan",
+      "sfCompatMode": "1",
+      "fullscreenMode": "1",
+      "frameGenEngine": "lsfg",
+      "native": "false",
+      "swapRB": "false",
+      "presentMode": "fifo",
+      "fpsLimiterEnabled": "1",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "reshadeMode": "solo",
+      "reshadeEffect": "无",
+      "emulator": "fexcore",
+      "box64Version": "0.3.7",
+      "box64Preset": "EXTREME",
+      "fexcorePreset": "PERFORMANCE",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "startupSelection": "1",
+      "inputType": "4",
+      "exclusiveXInput": "1",
+      "simTouchScreen": "0",
+      "numControllers": "1",
+      "wincomponents": "direct3d=1,directsound=1,directmusic=0,directshow=0,directplay=0,xaudio=1,vcrun2010=1",
+      "lc_all": "zh_CN.UTF-8",
+      "autoCloseOnExit": "1",
+      "fpsCounterConfig": "hudStyle=fusion,hudSize=pill,hudLocked=0,showVram=1,showLow001=1,fpsDecimal=1,showPerCore=1,showSwap=1,showNet=0,showResolution=1,showProton=0,showWrapper=0,showDxVer=0,showSession=0,hudMode=horizontal,showFPS=1,showFPSGraph=1,showCPUUsage=0,showCPULoad=0,showGPULoad=1,showRAM=1,showPower=0,showTemp=1,showBatteryTemp=1,showEngine=0,showRenderer=0,showGpuModel=0,hudDualBattery=0,showGpuTemp=1,showBattery=1,showRuntime=0,showClock=1,showCPUGraph=0,showGPUGraph=0,tempUnit=c,tempBands=1,tempAuto=1,tempRedCpu=95,tempRedGpu=95,tempRedBat=50,hudSkin=classic,hudColor=vivid,hudOutline=0,hudOutlineAccent=1,hudScale=40,hudOpacity=0,hudTransparency=0",
+      "gyroEnabled": "0",
+      "gyroTarget": "0",
+      "gyroActivator": "0",
+      "gyroActivationMode": "0",
+      "gyroMode": "0",
+      "gyroSensitivity": "2.0",
+      "gyroInvertX": "0",
+      "gyroInvertY": "0",
+      "maxGameRefreshRate": "60",
+      "unlockGameRefreshRate": "0",
+      "frameGenModel": "0",
+      "vibrationMode": "1",
+      "vibrationIntensity": "15",
+      "dxwrapperConfig": "version=3.0-1-gplasync-arm64ec-0,framerate=60,async=1,asyncCache=1,vkd3dVersion=3.0b-arm64ec-0,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=Adreno 830,videoMemorySize=8192,strict_shader_math=0,OffscreenRenderingMode=fbo,renderer=vulkan,dxvkConfigFile=None"
+    }
+  },
+  "components": [
+    {
+      "name": "3.0-1-gplasync-arm64ec-0",
+      "type": "DXVK"
+    },
+    {
+      "name": "3.0b-arm64ec-0",
+      "type": "VKD3D"
+    },
+    {
+      "name": "Turnip Gen8 V33",
+      "type": "GPU"
+    },
+    {
+      "name": "2508",
+      "type": "FEXCore"
+    }
+  ]
+}
