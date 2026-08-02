@@ -3706,6 +3706,14 @@
     ],
     "name": "Cult of the Lamb"
   },
+  "1316680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "VLADiK_BRUTAL"
+    ],
+    "name": "VLADiK BRUTAL"
+  },
   "1321440": {
     "config_count": 1,
     "devices": [
@@ -16147,7 +16155,7 @@
     "name": "BEYBLADE X XONE"
   },
   "302510": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -16173,6 +16181,11 @@
         "d": "Adreno__TM__740",
         "m": "Pocket_S",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "S948B",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
@@ -21341,7 +21354,7 @@
     "name": "Pacer"
   },
   "389730": {
-    "config_count": 36,
+    "config_count": 37,
     "devices": [
       {
         "d": "SM8850",
@@ -21427,6 +21440,11 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "S948B",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
