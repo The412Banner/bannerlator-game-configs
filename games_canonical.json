@@ -24921,7 +24921,7 @@
     "name": "RAGE 2"
   },
   "550": {
-    "config_count": 54,
+    "config_count": 56,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -25012,6 +25012,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "vivo_1920",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__730",
@@ -32462,12 +32467,17 @@
     "name": "Rocket League"
   },
   "name:rottr": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__840",
         "m": "NX809J",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
       }
     ],
     "folders": [
