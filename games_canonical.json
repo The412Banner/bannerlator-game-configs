@@ -19573,7 +19573,7 @@
     "name": "Stellar Blade\u2122"
   },
   "349040": {
-    "config_count": 53,
+    "config_count": 54,
     "devices": [
       {
         "d": "G615_MC2",
@@ -19679,6 +19679,7 @@
     "folders": [
       "NARUTO_SHIPPUDEN_-_ULTIMATE_NINJA_STORM_4",
       "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+      "NARUTO_SHIPPUDEN_-_Ultimate_Ninja_STORM_4",
       "Naruto_Ultimate_Storm_4"
     ],
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
@@ -30979,7 +30980,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2264,
+    "config_count": 2266,
     "devices": [
       {
         "d": "G52_MC2",
@@ -31692,11 +31693,6 @@
         "s": "Mali-G52"
       },
       {
-        "d": "Adreno__TM__740",
-        "m": "S911B",
-        "s": "Adreno (TM) 740"
-      },
-      {
         "d": "G72",
         "m": "Mali",
         "s": "Mali-G72"
@@ -31805,6 +31801,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g84_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S911B",
+        "s": "Adreno (TM) 740"
       },
       {
         "d": "Adreno__TM__740",
