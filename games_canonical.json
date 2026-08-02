@@ -10478,7 +10478,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -10502,7 +10502,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -15306,7 +15307,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 30,
+    "config_count": 29,
     "devices": [
       {
         "d": "G615_MC2",
@@ -15346,8 +15347,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -16715,7 +16715,7 @@
     "name": "Enter the Gungeon"
   },
   "311730": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__720",
@@ -18246,6 +18246,20 @@
       "REPO"
     ],
     "name": "R.E.P.O."
+  },
+  "324570": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
+      }
+    ],
+    "folders": [
+      "Halo_-_Spartan_Strike_______________________________________"
+    ],
+    "name": "Halo: Spartan Strike"
   },
   "32470": {
     "config_count": 1,
@@ -22383,11 +22397,12 @@
     "name": "SENRAN KAGURA SHINOVI VERSUS"
   },
   "412020": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "Metro_Exodus",
-      "MetroExodus"
+      "MetroExodus",
+      "metro"
     ],
     "name": "Metro Exodus"
   },
@@ -23134,7 +23149,7 @@
     "name": "DREAMTONE Demo"
   },
   "4435490": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23143,7 +23158,8 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4"
+      "Call_of_Duty_4",
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -25894,7 +25910,7 @@
     "name": "WARRIORS ALL-STARS"
   },
   "612880": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -27517,7 +27533,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 19,
+    "config_count": 18,
     "devices": [
       {
         "d": "G720_MC7",
@@ -27564,8 +27580,7 @@
       "CALL_OF_DUTY_4_Modern_Warfare",
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
-      "iw3sp",
-      "Call_of_Duty_4_Modern_Warfare"
+      "iw3sp"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
