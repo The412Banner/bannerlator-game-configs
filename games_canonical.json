@@ -1118,7 +1118,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1127,7 +1127,8 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid"
+      "BattleForTheGrid",
+      "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -5089,6 +5090,14 @@
       "gta3"
     ],
     "name": "Grand Theft Auto III \u2013 The Definitive Edition"
+  },
+  "1546990": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Grand_Theft_Auto_Vice_City"
+    ],
+    "name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition"
   },
   "1547000": {
     "config_count": 25,
@@ -10507,7 +10516,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -10531,7 +10540,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -10937,7 +10947,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 172,
+    "config_count": 173,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -11130,11 +11140,6 @@
         "s": "Mali-G68"
       },
       {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "25118PC98G",
         "s": "Adreno (TM) 710"
@@ -11213,6 +11218,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
@@ -14746,14 +14756,6 @@
     ],
     "name": "Hospital 666"
   },
-  "2787680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Candy Rangers"
-  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -15343,7 +15345,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 30,
+    "config_count": 29,
     "devices": [
       {
         "d": "G615_MC2",
@@ -15383,8 +15385,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -17237,7 +17238,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1134,
+    "config_count": 1143,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -19903,13 +19904,8 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
-      {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      },
       {
         "d": "G57_MC2",
         "m": "Mali",
@@ -19919,6 +19915,11 @@
         "d": "Adreno__TM__732",
         "m": "2410CRP4CG",
         "s": "Adreno (TM) 732"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "G57_MC4",
@@ -25089,6 +25090,20 @@
     ],
     "name": "Red Faction\u00ae: Armageddon\u2122"
   },
+  "552100": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__810",
+        "m": "motorola_edge_70_fusion",
+        "s": "Adreno (TM) 810"
+      }
+    ],
+    "folders": [
+      "Brick_Rigs"
+    ],
+    "name": "Brick Rigs"
+  },
   "55230": {
     "config_count": 8,
     "devices": [
@@ -27313,7 +27328,7 @@
     "name": "A Plague Tale: Innocence"
   },
   "753640": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -27324,6 +27339,11 @@
         "d": "Adreno__TM__825",
         "m": "25053RT47C",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
