@@ -10228,7 +10228,7 @@
     "name": "Total Chaos"
   },
   "221040": {
-    "config_count": 60,
+    "config_count": 61,
     "devices": [
       {
         "d": "G720_MC7",
@@ -10344,6 +10344,11 @@
         "d": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
         "m": "S711B",
         "s": "ANGLE ((Samsung Xclipse 920) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "I2219",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__720",
@@ -32719,6 +32724,14 @@
       "Tpp_main_win64"
     ],
     "name": "Tpp Main Win64"
+  },
+  "name:trail-of-cold-steel-3-x86": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Trail_of_Cold_Steel_3_x86"
+    ],
+    "name": "Trail Of Cold Steel 3 X86"
   },
   "name:twfc": {
     "config_count": 1,
