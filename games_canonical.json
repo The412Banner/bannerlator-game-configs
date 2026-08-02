@@ -1131,7 +1131,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1140,7 +1140,8 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid"
+      "BattleForTheGrid",
+      "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -14778,14 +14779,6 @@
     ],
     "name": "Hospital 666"
   },
-  "2787680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Candy Rangers"
-  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -16683,7 +16676,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 27,
+    "config_count": 26,
     "devices": [
       {
         "d": "G78",
@@ -16749,8 +16742,7 @@
     "folders": [
       "BlackOps",
       "Call_of_Duty_3______________________________________________",
-      "Call_of_Duty___Black_Ops_III",
-      "Call_of_Duty_-_Black_Ops"
+      "Call_of_Duty___Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
   },
@@ -20746,7 +20738,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 27,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -20812,6 +20804,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g34_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "Retroid_Pocket_Flip2",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
@@ -22983,10 +22980,17 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
   "42700": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
     "folders": [
-      "Call_of_Duty_Black_Ops"
+      "Call_of_Duty_Black_Ops",
+      "Call_of_Duty_-_Black_Ops"
     ],
     "name": "Call of Duty\u00ae: Black Ops"
   },
@@ -27625,7 +27629,7 @@
     "name": "Phoenix Wright: Ace Attorney Trilogy"
   },
   "787860": {
-    "config_count": 23,
+    "config_count": 24,
     "devices": [
       {
         "d": "Immortalis_MC12",
@@ -27671,6 +27675,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
@@ -30963,7 +30972,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2261,
+    "config_count": 2262,
     "devices": [
       {
         "d": "G52_MC2",
