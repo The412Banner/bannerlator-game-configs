@@ -10478,7 +10478,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 11,
+    "config_count": 10,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -10502,8 +10502,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -15307,7 +15306,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "G615_MC2",
@@ -15347,7 +15346,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -26539,7 +26539,7 @@
     "name": "GameGuru Starter Bundle"
   },
   "678950": {
-    "config_count": 41,
+    "config_count": 42,
     "devices": [
       {
         "d": "G68_MC4",
@@ -26630,6 +26630,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g85_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -30772,7 +30777,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2250,
+    "config_count": 2251,
     "devices": [
       {
         "d": "G52_MC2",
@@ -31575,11 +31580,6 @@
         "s": "Mali-G57 MC2"
       },
       {
-        "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-        "m": "A566E",
-        "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
-      },
-      {
         "d": "Adreno__TM__644",
         "m": "M556B",
         "s": "Adreno (TM) 644"
@@ -31598,6 +31598,11 @@
         "d": "Adreno__TM__610",
         "m": "23021RAAEG",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+        "m": "A566E",
+        "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
       },
       {
         "d": "Adreno__TM__740",
