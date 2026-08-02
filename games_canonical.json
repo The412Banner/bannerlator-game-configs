@@ -1402,7 +1402,7 @@
     "name": "Ready or Not"
   },
   "1145350": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -1428,6 +1428,11 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "PLZ110",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
@@ -24935,7 +24940,7 @@
     "name": "RAGE 2"
   },
   "550": {
-    "config_count": 56,
+    "config_count": 57,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -25036,6 +25041,11 @@
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "PLZ110",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
@@ -32100,6 +32110,11 @@
         "d": "Adreno__TM__825",
         "m": "I2405",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "PLZ110",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
