@@ -1768,7 +1768,7 @@
     "name": "FINAL FANTASY"
   },
   "1174180": {
-    "config_count": 39,
+    "config_count": 36,
     "devices": [
       {
         "d": "SM8750P",
@@ -1834,16 +1834,6 @@
         "d": "Adreno__TM__650",
         "m": "G780G",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "G610_MC6",
-        "m": "Mali",
-        "s": "Mali-G610 MC6"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "NX769J",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -28374,7 +28364,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 87,
+    "config_count": 91,
     "devices": [
       {
         "d": "s5e8855",
@@ -28550,12 +28540,23 @@
         "d": "Adreno__TM__840",
         "m": "S948U1",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "G610_MC6",
+        "m": "Mali",
+        "s": "Mali-G610 MC6"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "NX769J",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "Resident_Evil_2",
       "Resident_Evil_2_____________________________________________",
-      "Resident_Evil_2__2019_"
+      "Resident_Evil_2__2019_",
+      "re2"
     ],
     "name": "Resident Evil 2"
   },
