@@ -3057,7 +3057,7 @@
     "name": "Jurassic World Evolution 2"
   },
   "1245620": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "SM8850",
@@ -3083,6 +3083,11 @@
         "d": "Adreno__TM__840",
         "m": "2509FPN0BC",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "CPH2653",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -10947,7 +10952,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 173,
+    "config_count": 174,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -11215,14 +11220,14 @@
         "s": "Mali-G720 MC7"
       },
       {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
-      },
-      {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       }
     ],
     "folders": [
@@ -16574,6 +16579,20 @@
       "Guns_of_Fury"
     ],
     "name": "Guns of Fury"
+  },
+  "3101040": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__730",
+        "m": "X900",
+        "s": "Adreno (TM) 730"
+      }
+    ],
+    "folders": [
+      "Magical_Girl_Witch_Trials"
+    ],
+    "name": "Magical Girl Witch Trials"
   },
   "3105440": {
     "config_count": 3,
