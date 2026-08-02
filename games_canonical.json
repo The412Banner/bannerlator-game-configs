@@ -12967,6 +12967,11 @@
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -32706,6 +32711,14 @@
       "studio64"
     ],
     "name": "Studio64"
+  },
+  "name:styxgame": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "StyxGame"
+    ],
+    "name": "Styxgame"
   },
   "name:t6mp-multiplayer-offline": {
     "config_count": 1,
