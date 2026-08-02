@@ -81,6 +81,14 @@
     ],
     "name": "Call of Duty: World at War"
   },
+  "1009850": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Settings"
+    ],
+    "name": "OVR Advanced Settings"
+  },
   "1011670": {
     "config_count": 1,
     "devices": [
@@ -17266,7 +17274,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1143,
+    "config_count": 1144,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -18124,11 +18132,6 @@
         "s": "Mali-G57"
       },
       {
-        "d": "Adreno__TM__735",
-        "m": "24069PC21G",
-        "s": "Adreno (TM) 735"
-      },
-      {
         "d": "Adreno__TM__730",
         "m": "21121210G",
         "s": "Adreno (TM) 730"
@@ -18167,6 +18170,11 @@
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
       },
       {
         "d": "Adreno__TM__830",
@@ -19025,7 +19033,7 @@
     "name": "Arma 2 Free"
   },
   "339034": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -19111,6 +19119,11 @@
         "d": "Adreno__TM__730",
         "m": "CPH2487",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       }
     ],
     "folders": [
@@ -23235,7 +23248,7 @@
     "name": "DREAMTONE Demo"
   },
   "4435490": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23244,8 +23257,7 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4",
-      "Call_of_Duty_4_Modern_Warfare"
+      "Call_of_Duty_4"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -27649,7 +27661,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "G720_MC7",
@@ -27696,7 +27708,8 @@
       "CALL_OF_DUTY_4_Modern_Warfare",
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
-      "iw3sp"
+      "iw3sp",
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
@@ -30919,7 +30932,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2252,
+    "config_count": 2253,
     "devices": [
       {
         "d": "G52_MC2",
@@ -31205,11 +31218,6 @@
         "d": "Adreno__TM__720",
         "m": "motorola_edge_50_pro",
         "s": "Adreno (TM) 720"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g32",
-        "s": "Adreno (TM) 610"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -31745,6 +31753,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g32",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__740",
