@@ -364,10 +364,11 @@
     "name": "Disciples III: Reincarnation"
   },
   "102840": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [],
     "folders": [
-      "Shank_2"
+      "Shank_2",
+      "Shank2"
     ],
     "name": "Shank 2"
   },
@@ -5118,7 +5119,7 @@
     "name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition"
   },
   "1547000": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -5136,11 +5137,6 @@
         "s": "Mali-G68 MC4"
       },
       {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      },
-      {
         "d": "G76",
         "m": "Mali",
         "s": "Mali-G76"
@@ -5149,6 +5145,11 @@
         "d": "PowerVR_Rogue_GE8322",
         "m": "itel_A665L",
         "s": "PowerVR Rogue GE8322"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       },
       {
         "d": "MT6835",
@@ -10534,7 +10535,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 11,
+    "config_count": 10,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -10558,8 +10559,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -11794,7 +11794,7 @@
     "name": "GraalOnline Era"
   },
   "2358720": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11820,6 +11820,11 @@
         "d": "Adreno__TM__710",
         "m": "2312DRA50G",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
@@ -15368,7 +15373,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "G615_MC2",
@@ -15408,7 +15413,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -21910,8 +21916,14 @@
     "name": "Undertale"
   },
   "3916260": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
+      }
+    ],
     "folders": [
       "Psalm_2"
     ],
@@ -25760,7 +25772,7 @@
     "name": "Dead Cells"
   },
   "589090": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G78",
@@ -25775,6 +25787,7 @@
     ],
     "folders": [
       "Counter-Strike_1_6__________________________________________",
+      "Counter_Strike_1_6__________________________________________",
       "Counter-Strike_1_6"
     ],
     "name": "Fantasy Grounds - CS1 After Winter's Dark: Aihrde Setting (Castles & Crusades)"
@@ -30980,7 +30993,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2266,
+    "config_count": 2268,
     "devices": [
       {
         "d": "G52_MC2",
@@ -31793,11 +31806,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__619",
         "m": "moto_g84_5G",
         "s": "Adreno (TM) 619"
@@ -31806,6 +31814,11 @@
         "d": "Adreno__TM__740",
         "m": "S911B",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
