@@ -1,5 +1,12 @@
 [
   {
+    "game": "StyxGame",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1785676469,
+    "filename": "StyxGame-samsung-SM-A166P-Mali-G57_MC2-1785676469.json"
+  },
+  {
     "game": "re2",
     "manufacturer": "2209116AG",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1785652264,
     "filename": "Need_for_Speed_Hot_Pursuit-Xiaomi-23049PCD8G-Adreno__TM__725-1785652264.json"
-  },
-  {
-    "game": "metro",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1785651622,
-    "filename": "metro-Xiaomi-25053PC47G-Adreno__TM__825-1785651622.json"
   }
 ]
