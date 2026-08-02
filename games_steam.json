@@ -3308,6 +3308,10 @@
     "method": "naive",
     "steam_name": "GUILTY GEAR -STRIVE-"
   },
+  "GVIX": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "GZDoom": {
     "appid": null,
     "method": "unresolved"
@@ -3438,6 +3442,12 @@
     "appid": 1593500,
     "method": "naive",
     "steam_name": "God of War"
+  },
+  "God_Of_War_II": {
+    "appid": 2967700,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2967700/header.jpg",
+    "method": "naive",
+    "steam_name": "WarOfGods 2"
   },
   "God_of_War": {
     "appid": 1593500,
@@ -6374,6 +6384,10 @@
     "steam_name": "PUBG: BATTLEGROUNDS"
   },
   "PUBG__Experimental_Server": {
+    "appid": null,
+    "method": "unresolved"
+  },
+  "PXG": {
     "appid": null,
     "method": "unresolved"
   },
