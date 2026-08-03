@@ -4493,7 +4493,7 @@
     "name": "You Will Die Here Tonight"
   },
   "1446780": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -4529,6 +4529,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "23127PN0CC",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -4791,7 +4796,7 @@
     "name": "Street Fighter V - Capcom Pro Tour: 2021 Premier Pass"
   },
   "1506830": {
-    "config_count": 72,
+    "config_count": 73,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -10567,7 +10572,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -10591,7 +10596,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -12069,12 +12075,17 @@
     "name": "DYNASTY WARRIORS: ORIGINS"
   },
   "238960": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "2510DPC44G",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "2304FPN6DG",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -15415,7 +15426,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 30,
+    "config_count": 29,
     "devices": [
       {
         "d": "G615_MC2",
@@ -15455,8 +15466,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -27954,7 +27964,7 @@
     "name": "Tomb Raider: Underworld"
   },
   "814380": {
-    "config_count": 53,
+    "config_count": 54,
     "devices": [
       {
         "d": "Adreno__TM__650",
