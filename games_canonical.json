@@ -1528,7 +1528,7 @@
     "name": "Horizon Zero Dawn\u2122 Complete Edition"
   },
   "115320": {
-    "config_count": 52,
+    "config_count": 53,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -1551,11 +1551,6 @@
         "s": "Adreno (TM) 619"
       },
       {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      },
-      {
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
@@ -1564,6 +1559,11 @@
         "d": "PowerVR_Rogue_GE8320",
         "m": "Infinix_X6835B",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       },
       {
         "d": "Adreno__TM__610",
@@ -5038,14 +5038,6 @@
     ],
     "name": "Are You Smarter Than A 5th Grader"
   },
-  "1521580": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Heist"
-    ],
-    "name": "Perfect Heist 2"
-  },
   "1528460": {
     "config_count": 1,
     "devices": [
@@ -7022,6 +7014,14 @@
       "Let_s_Build_a_Zoo"
     ],
     "name": "Let's Build a Zoo Soundtrack"
+  },
+  "1802470": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Heist"
+    ],
+    "name": "The Ascent - Cyber Heist"
   },
   "1802880": {
     "config_count": 2,
@@ -11013,7 +11013,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 175,
+    "config_count": 176,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -11271,11 +11271,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      },
-      {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
@@ -11289,6 +11284,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       }
     ],
     "folders": [
@@ -16113,6 +16113,14 @@
     ],
     "name": "Darwin's Paradox!"
   },
+  "2990": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "FlatOut_2"
+    ],
+    "name": "Flatout 2"
+  },
   "2993780": {
     "config_count": 2,
     "devices": [
@@ -17338,7 +17346,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1157,
+    "config_count": 1159,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -18096,11 +18104,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "G720_MC8",
-        "m": "Mali",
-        "s": "Mali-G720 MC8"
-      },
-      {
         "d": "Adreno__TM__740",
         "m": "23113RKC6C",
         "s": "Adreno (TM) 740"
@@ -18249,6 +18252,11 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
       },
       {
         "d": "Adreno__TM__830",
@@ -23351,7 +23359,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23360,8 +23368,7 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4",
-      "Call_of_Duty_4_Modern_Warfare"
+      "Call_of_Duty_4"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -24217,7 +24224,7 @@
     "name": "Speak Demo"
   },
   "48190": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "MT6789",
@@ -24256,7 +24263,8 @@
       }
     ],
     "folders": [
-      "Assassin_s_Creed__Brotherhood"
+      "Assassin_s_Creed__Brotherhood",
+      "Assassin_s_creed_brotherhood"
     ],
     "name": "Assassin\u2019s Creed\u00ae Brotherhood"
   },
@@ -27778,7 +27786,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -27825,7 +27833,8 @@
       "CALL_OF_DUTY_4_Modern_Warfare",
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
-      "iw3sp"
+      "iw3sp",
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
