@@ -4796,7 +4796,7 @@
     "name": "Street Fighter V - Capcom Pro Tour: 2021 Premier Pass"
   },
   "1506830": {
-    "config_count": 73,
+    "config_count": 74,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -4879,6 +4879,11 @@
         "s": "Mali-G720 MC8"
       },
       {
+        "d": "Adreno__TM__750",
+        "m": "S928B",
+        "s": "Adreno (TM) 750"
+      },
+      {
         "d": "SM8750",
         "m": "S938B",
         "s": "SM8750"
@@ -4902,11 +4907,6 @@
         "d": "Adreno__TM__740",
         "m": "F946U1",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "S928B",
-        "s": "Adreno (TM) 750"
       },
       {
         "d": "Adreno__TM__732",
@@ -9307,7 +9307,7 @@
     "name": "Outcore: Desktop Adventure: The Amazing Super Duper Ultra Hyper Mama Mia Papa Pipa Wawa Wee Waa Five Shekel Kosher Falafel Deluxe Extra Sugoi Mega Kawaii Gold Diamond Nirosta Plastic Director's Cut Special Edition Supporter Pack Plus PLUS"
   },
   "2129530": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "G57",
