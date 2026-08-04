@@ -8862,6 +8862,14 @@
     ],
     "name": "White Day 2: The Flower That Tells Lies - Complete Edition"
   },
+  "208140": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "ENDLESS_Space_-_Definitive_Edition"
+    ],
+    "name": "Endless Space - Definitive Edition"
+  },
   "208480": {
     "config_count": 1,
     "devices": [
@@ -16444,7 +16452,7 @@
     "name": "Unturned"
   },
   "3050220": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "2412DPC0AG",
@@ -16455,11 +16463,6 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       },
       {
         "d": "G57",
@@ -16480,6 +16483,11 @@
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -16772,7 +16780,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 27,
+    "config_count": 26,
     "devices": [
       {
         "d": "G78",
@@ -16838,8 +16846,7 @@
     "folders": [
       "BlackOps",
       "Call_of_Duty_3______________________________________________",
-      "Call_of_Duty___Black_Ops_III",
-      "Call_of_Duty_-_Black_Ops"
+      "Call_of_Duty___Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
   },
@@ -23128,10 +23135,17 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
   "42700": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
     "folders": [
-      "Call_of_Duty_Black_Ops"
+      "Call_of_Duty_Black_Ops",
+      "Call_of_Duty_-_Black_Ops"
     ],
     "name": "Call of Duty\u00ae: Black Ops"
   },
@@ -26076,7 +26090,7 @@
     "name": "Attack on Titan 2 - A.O.T.2"
   },
   "601150": {
-    "config_count": 32,
+    "config_count": 33,
     "devices": [
       {
         "d": "unknown",
@@ -26142,6 +26156,11 @@
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S931B",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "Adreno__TM__710",
