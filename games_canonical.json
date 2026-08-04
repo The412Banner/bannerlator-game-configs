@@ -1131,7 +1131,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1140,8 +1140,7 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid",
-      "Rangers"
+      "BattleForTheGrid"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -10304,7 +10303,7 @@
     "name": "Total Chaos"
   },
   "221040": {
-    "config_count": 61,
+    "config_count": 62,
     "devices": [
       {
         "d": "G720_MC7",
@@ -10387,11 +10386,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__725",
         "m": "23049PCD8G",
         "s": "Adreno (TM) 725"
@@ -10420,6 +10414,11 @@
         "d": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
         "m": "S711B",
         "s": "ANGLE ((Samsung Xclipse 920) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__710",
@@ -14844,6 +14843,14 @@
       "Hospital_666"
     ],
     "name": "Hospital 666"
+  },
+  "2787680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Candy Rangers"
   },
   "2796520": {
     "config_count": 1,
@@ -23388,7 +23395,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23397,7 +23404,8 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4"
+      "Call_of_Duty_4",
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -27830,7 +27838,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 20,
+    "config_count": 19,
     "devices": [
       {
         "d": "G720_MC7",
@@ -27877,8 +27885,7 @@
       "CALL_OF_DUTY_4_Modern_Warfare",
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
-      "iw3sp",
-      "Call_of_Duty_4_Modern_Warfare"
+      "iw3sp"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
@@ -32016,7 +32023,7 @@
     "name": "PES 2013"
   },
   "name:pes-2014": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "G57",
@@ -32042,6 +32049,11 @@
         "d": "G610_MC6",
         "m": "Mali",
         "s": "Mali-G610 MC6"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -33044,6 +33056,14 @@
       "Trail_of_Cold_Steel_3_x86"
     ],
     "name": "Trail Of Cold Steel 3 X86"
+  },
+  "name:tvp-kirikiri-z-core-scripting-platform-for-win32": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "TVP_KIRIKIRI__Z_core_Scripting_Platform_for_Win32"
+    ],
+    "name": "Tvp Kirikiri Z Core Scripting Platform For Win32"
   },
   "name:twfc": {
     "config_count": 1,
