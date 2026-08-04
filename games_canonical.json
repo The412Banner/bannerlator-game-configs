@@ -1131,7 +1131,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1140,8 +1140,7 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid",
-      "Rangers"
+      "BattleForTheGrid"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -4800,7 +4799,7 @@
     "name": "Street Fighter V - Capcom Pro Tour: 2021 Premier Pass"
   },
   "1506830": {
-    "config_count": 74,
+    "config_count": 75,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -10576,7 +10575,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -10600,7 +10599,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -11426,7 +11426,7 @@
     "name": "Farming Simulator 25"
   },
   "231120": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -11442,6 +11442,11 @@
         "d": "PowerVR_Rogue_GE8320",
         "m": "A042F",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
@@ -14840,6 +14845,14 @@
     ],
     "name": "Hospital 666"
   },
+  "2787680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Candy Rangers"
+  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -15429,7 +15442,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 30,
+    "config_count": 29,
     "devices": [
       {
         "d": "G615_MC2",
@@ -15469,8 +15482,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -20807,7 +20819,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -20858,6 +20870,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__642L",
+        "m": "22101320G",
+        "s": "Adreno (TM) 642L"
       },
       {
         "d": "Adreno__TM__735",
@@ -31107,7 +31124,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2295,
+    "config_count": 2296,
     "devices": [
       {
         "d": "G52_MC2",
