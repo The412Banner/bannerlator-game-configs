@@ -1131,7 +1131,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1140,7 +1140,8 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid"
+      "BattleForTheGrid",
+      "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -8600,7 +8601,7 @@
     "name": "Call of Juarez: Gunslinger"
   },
   "2050650": {
-    "config_count": 69,
+    "config_count": 67,
     "devices": [
       {
         "d": "G615_MC2",
@@ -8678,11 +8679,6 @@
         "s": "Adreno (TM) 740"
       },
       {
-        "d": "Adreno__TM__740",
-        "m": "CPH2447",
-        "s": "Adreno (TM) 740"
-      },
-      {
         "d": "Adreno__TM__660",
         "m": "S928B",
         "s": "Adreno (TM) 660"
@@ -8694,7 +8690,6 @@
       "Resident_Evil_4_",
       "Resident_Evil_4___Biohazard_4",
       "Resident_Evil_4_____________________________________________",
-      "re4",
       "resident_evil_4"
     ],
     "name": "Resident Evil 4"
@@ -9998,7 +9993,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 90,
+    "config_count": 91,
     "devices": [
       {
         "d": "S938B",
@@ -14845,14 +14840,6 @@
     ],
     "name": "Hospital 666"
   },
-  "2787680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Candy Rangers"
-  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -17349,7 +17336,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1161,
+    "config_count": 1162,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -17412,11 +17399,6 @@
         "s": "Adreno (TM) 618"
       },
       {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      },
-      {
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
@@ -17455,6 +17437,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       },
       {
         "d": "Adreno__TM__620",
@@ -23882,6 +23869,20 @@
       "Halo_Wars__Definitive_Edition"
     ],
     "name": "Halo Wars: Definitive Edition"
+  },
+  "4600470": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "CPH2447",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "re4"
+    ],
+    "name": "Season 4 Battlefield Pro - Battlefield\u2122 6 and REDSEC"
   },
   "460790": {
     "config_count": 1,
@@ -31124,7 +31125,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2296,
+    "config_count": 2298,
     "devices": [
       {
         "d": "G52_MC2",
