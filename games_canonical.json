@@ -9626,7 +9626,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 85,
+    "config_count": 86,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -11893,7 +11893,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 12,
+    "config_count": 14,
     "devices": [
       {
         "d": "G720_MC7",
@@ -11914,10 +11914,21 @@
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II"
+      "DARK_SOULS__II",
+      "DarkSoulsII"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -20806,7 +20817,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 29,
+    "config_count": 27,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -20869,16 +20880,6 @@
         "s": "Adreno (TM) 735"
       },
       {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -20890,7 +20891,6 @@
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
       "DARK_SOULS_III",
-      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -26005,7 +26005,7 @@
     "name": "Attack on Titan 2 - A.O.T.2"
   },
   "601150": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "unknown",
@@ -26085,7 +26085,8 @@
     ],
     "folders": [
       "Devil_May_Cry_5",
-      "DevilMayCry5"
+      "DevilMayCry5",
+      "Devil_May_Cry_V"
     ],
     "name": "Devil May Cry 5"
   },
