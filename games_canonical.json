@@ -31136,8 +31136,14 @@
     "name": "PES 0"
   },
   "name:pes-2010": {
-    "config_count": 4,
-    "devices": [],
+    "config_count": 5,
+    "devices": [
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      }
+    ],
     "folders": [
       "Pro_Evolution_Soccer_2010"
     ],
