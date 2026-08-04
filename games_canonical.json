@@ -2798,7 +2798,7 @@
     "name": "Sonic Frontiers"
   },
   "1237970": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "unknown",
@@ -8994,7 +8994,7 @@
     "name": "Street Fighter X Tekken"
   },
   "209160": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -26837,7 +26837,7 @@
     "name": "GameGuru Starter Bundle"
   },
   "678950": {
-    "config_count": 42,
+    "config_count": 43,
     "devices": [
       {
         "d": "G68_MC4",
@@ -26848,11 +26848,6 @@
         "d": "Adreno__TM__810",
         "m": "NX1",
         "s": "Adreno (TM) 810"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053RT47C",
-        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__640",
@@ -26923,6 +26918,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053RT47C",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__619",
@@ -28575,7 +28575,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 92,
+    "config_count": 93,
     "devices": [
       {
         "d": "s5e8855",
@@ -28767,6 +28767,7 @@
       "Resident_Evil_2",
       "Resident_Evil_2_____________________________________________",
       "Resident_Evil_2__2019_",
+      "Resident_Evil_2__DX11_",
       "re2"
     ],
     "name": "Resident Evil 2"
@@ -30111,7 +30112,7 @@
     "name": "Dfbhd"
   },
   "name:dirt-2": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -30122,6 +30123,11 @@
         "d": "Adreno__TM__830",
         "m": "Pocket_FIT_Elite",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "Retroid_Pocket_5",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
