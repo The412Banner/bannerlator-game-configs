@@ -11010,7 +11010,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 180,
+    "config_count": 181,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -12000,7 +12000,7 @@
     "name": "Deus Ex: Human Revolution - Director's Cut"
   },
   "238090": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -30569,7 +30569,7 @@
     "name": "Gtav"
   },
   "name:gtavlauncher": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -30585,6 +30585,11 @@
         "d": "Adreno__TM__750",
         "m": "V2403A",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "PLQ110",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
