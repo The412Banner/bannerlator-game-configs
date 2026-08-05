@@ -4209,7 +4209,7 @@
     "name": "NINJA GAIDEN 3: Razor's Edge [NINJA GAIDEN: Master Collection]"
   },
   "1371980": {
-    "config_count": 5,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -4225,12 +4225,18 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "CPH2447",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "No_Rest_for_the_Wicked",
       "RE4",
-      "Re4"
+      "Re4",
+      "re4"
     ],
     "name": "No Rest for the Wicked"
   },
@@ -15111,6 +15117,14 @@
     ],
     "name": "MOTORSLICE"
   },
+  "2832280": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Blightstone"
+    ],
+    "name": "Blightstone"
+  },
   "2835670": {
     "config_count": 2,
     "devices": [
@@ -19678,14 +19692,6 @@
     ],
     "name": "Ghost Song"
   },
-  "34830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper: Ghost Warrior"
-  },
   "348470": {
     "config_count": 13,
     "devices": [
@@ -20796,6 +20802,14 @@
       "Ori"
     ],
     "name": "The Seven Deadly Sins: Origin"
+  },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
@@ -24022,20 +24036,6 @@
       "Halo_Wars__Definitive_Edition"
     ],
     "name": "Halo Wars: Definitive Edition"
-  },
-  "4600470": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "CPH2447",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "re4"
-    ],
-    "name": "Season 4 Battlefield Pro - Battlefield\u2122 6 and REDSEC"
   },
   "460790": {
     "config_count": 1,
@@ -31337,7 +31337,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2316,
+    "config_count": 2318,
     "devices": [
       {
         "d": "G52_MC2",
@@ -32025,11 +32025,6 @@
         "s": "Mali-G72"
       },
       {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "A366E",
         "s": "Adreno (TM) 710"
@@ -32168,6 +32163,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__740",
