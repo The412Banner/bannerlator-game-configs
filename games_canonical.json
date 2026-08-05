@@ -775,7 +775,7 @@
     "name": "Baldur's Gate 3"
   },
   "108710": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -2607,7 +2607,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 34,
+    "config_count": 35,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -2650,11 +2650,6 @@
         "s": "Adreno (TM) 750"
       },
       {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
         "d": "Adreno__TM__618",
         "m": "A725M",
         "s": "Adreno (TM) 618"
@@ -2668,6 +2663,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__740",
@@ -4151,7 +4151,7 @@
     "name": "Hello Neighbor 2 Alpha 1.5"
   },
   "1369630": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -4505,7 +4505,7 @@
     "name": "You Will Die Here Tonight"
   },
   "1446780": {
-    "config_count": 10,
+    "config_count": 13,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -4546,6 +4546,11 @@
         "d": "Adreno__TM__750",
         "m": "23127PN0CC",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "motorola_edge_30_ultra",
+        "s": "Adreno (TM) 730"
       }
     ],
     "folders": [
@@ -6776,7 +6781,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 131,
+    "config_count": 132,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -8862,14 +8867,6 @@
     ],
     "name": "White Day 2: The Flower That Tells Lies - Complete Edition"
   },
-  "208140": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "ENDLESS_Space_-_Definitive_Edition"
-    ],
-    "name": "Endless Space - Definitive Edition"
-  },
   "208480": {
     "config_count": 1,
     "devices": [
@@ -10591,7 +10588,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 11,
+    "config_count": 10,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -10615,8 +10612,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -13548,7 +13544,7 @@
     "name": "HoneyCome come come party"
   },
   "254700": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "SM7435",
@@ -13619,6 +13615,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
       },
       {
         "d": "G52_MC2",
@@ -13783,6 +13784,20 @@
       "Promise_Mascot_Agency"
     ],
     "name": "Promise Mascot Agency"
+  },
+  "2590920": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
+      }
+    ],
+    "folders": [
+      "Autorun"
+    ],
+    "name": "Pixi Poxi Autorunner Lab"
   },
   "2591310": {
     "config_count": 1,
@@ -15472,7 +15487,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "G615_MC2",
@@ -15512,7 +15527,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -15609,7 +15625,7 @@
     "name": "RC Cars"
   },
   "289650": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "SM8735",
@@ -15645,6 +15661,11 @@
         "d": "PowerVR_Rogue_GE8320",
         "m": "A037F",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "Immortalis_MC11",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC11"
       },
       {
         "d": "G57_MC2",
@@ -16027,7 +16048,7 @@
     "name": "Heatwave"
   },
   "298110": {
-    "config_count": 23,
+    "config_count": 22,
     "devices": [
       {
         "d": "G720_MC7",
@@ -16780,7 +16801,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 26,
+    "config_count": 27,
     "devices": [
       {
         "d": "G78",
@@ -16846,7 +16867,8 @@
     "folders": [
       "BlackOps",
       "Call_of_Duty_3______________________________________________",
-      "Call_of_Duty___Black_Ops_III"
+      "Call_of_Duty___Black_Ops_III",
+      "Call_of_Duty_-_Black_Ops"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
   },
@@ -19594,6 +19616,14 @@
     ],
     "name": "Ghost Song"
   },
+  "34830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper: Ghost Warrior"
+  },
   "348470": {
     "config_count": 13,
     "devices": [
@@ -20689,14 +20719,6 @@
       "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
-  },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
@@ -23135,17 +23157,10 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
   "42700": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
+    "config_count": 1,
+    "devices": [],
     "folders": [
-      "Call_of_Duty_Black_Ops",
-      "Call_of_Duty_-_Black_Ops"
+      "Call_of_Duty_Black_Ops"
     ],
     "name": "Call of Duty\u00ae: Black Ops"
   },
@@ -23451,7 +23466,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23460,8 +23475,7 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4",
-      "Call_of_Duty_4_Modern_Warfare"
+      "Call_of_Duty_4"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -27849,7 +27863,7 @@
     "name": "Phoenix Wright: Ace Attorney Trilogy"
   },
   "787860": {
-    "config_count": 24,
+    "config_count": 25,
     "devices": [
       {
         "d": "Immortalis_MC12",
@@ -27882,11 +27896,6 @@
         "s": "Adreno (TM) 642L"
       },
       {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      },
-      {
         "d": "MT6878",
         "m": "A015",
         "s": "MT6878"
@@ -27900,6 +27909,11 @@
         "d": "Adreno__TM__710",
         "m": "NX1",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       }
     ],
     "folders": [
@@ -27916,7 +27930,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -27963,7 +27977,8 @@
       "CALL_OF_DUTY_4_Modern_Warfare",
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
-      "iw3sp"
+      "iw3sp",
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
@@ -31234,7 +31249,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2299,
+    "config_count": 2305,
     "devices": [
       {
         "d": "G52_MC2",
@@ -31340,11 +31355,6 @@
         "d": "Adreno__TM__710",
         "m": "motorola_edge_50_fusion",
         "s": "Adreno (TM) 710"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "2201117TG",
-        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__610",
@@ -32037,11 +32047,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "G68",
-        "m": "Mali",
-        "s": "Mali-G68"
-      },
-      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
@@ -32060,6 +32065,16 @@
         "d": "Adreno__TM__644",
         "m": "M556B",
         "s": "Adreno (TM) 644"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "2201117TG",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
       },
       {
         "d": "Adreno__TM__740",
