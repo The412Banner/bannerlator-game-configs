@@ -2018,6 +2018,20 @@
     ],
     "name": "Darksiders 4"
   },
+  "1203220": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "LX1",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "NARAKA__BLADEPOINT"
+    ],
+    "name": "NARAKA: BLADEPOINT"
+  },
   "1206070": {
     "config_count": 1,
     "devices": [],
@@ -6786,7 +6800,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 132,
+    "config_count": 133,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -10922,7 +10936,7 @@
     "name": "Squirrel Launcher"
   },
   "2254890": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "G720_MC8",
@@ -10963,6 +10977,11 @@
         "d": "Adreno__TM__650",
         "m": "PEDM00",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g53_5G",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__650",
@@ -19014,7 +19033,7 @@
     "name": "Assassin's Creed 2"
   },
   "33320": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC2",
@@ -30673,6 +30692,14 @@
       "GTA_San_Andreas"
     ],
     "name": "GTA San Andreas"
+  },
+  "name:gta-vc": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "gta_vc"
+    ],
+    "name": "GTA Vc"
   },
   "name:gtaiv": {
     "config_count": 9,
