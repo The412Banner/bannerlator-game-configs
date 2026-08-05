@@ -9228,12 +9228,17 @@
     "name": "Granny Remake"
   },
   "2114740": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "Retroid_Pocket_5",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
@@ -13322,7 +13327,7 @@
     "name": "STORY OF SEASONS: Grand Bazaar"
   },
   "250900": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -13336,7 +13341,8 @@
       }
     ],
     "folders": [
-      "The_Binding_of_Isaac__Rebirth"
+      "The_Binding_of_Isaac__Rebirth",
+      "The_Binding_of_Isaac_-_Rebirth"
     ],
     "name": "The Binding of Isaac: Rebirth"
   },
