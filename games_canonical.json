@@ -10317,7 +10317,7 @@
     "name": "Total Chaos"
   },
   "221040": {
-    "config_count": 62,
+    "config_count": 63,
     "devices": [
       {
         "d": "G720_MC7",
@@ -10433,6 +10433,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SG",
+        "s": "Adreno (TM) 650"
       },
       {
         "d": "Adreno__TM__710",
@@ -19616,14 +19621,6 @@
     ],
     "name": "Ghost Song"
   },
-  "34830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper: Ghost Warrior"
-  },
   "348470": {
     "config_count": 13,
     "devices": [
@@ -20719,6 +20716,14 @@
       "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
+  },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
@@ -31249,7 +31254,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2305,
+    "config_count": 2312,
     "devices": [
       {
         "d": "G52_MC2",
@@ -31595,11 +31600,6 @@
         "d": "ANGLE__Samsung_Xclipse_940__on_Vulkan_1_3_264",
         "m": "S921B",
         "s": "ANGLE (Samsung Xclipse 940) on Vulkan 1.3.264"
-      },
-      {
-        "d": "PowerVR_Rogue_GE8320",
-        "m": "moto_e22",
-        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "Adreno__TM__512",
@@ -32075,6 +32075,16 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5070",
+        "s": "Adreno (TM) 810"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "moto_e22",
+        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "Adreno__TM__740",
