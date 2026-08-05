@@ -1,6 +1,13 @@
 [
   {
     "game": "Resident_Evil_2",
+    "manufacturer": "I2221",
+    "device": "Adreno__TM__735",
+    "timestamp": 1785923343,
+    "filename": "Resident_Evil_2-vivo-I2221-Adreno__TM__735-1785923343.json"
+  },
+  {
+    "game": "Resident_Evil_2",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
     "timestamp": 1785920021,
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1785840863,
     "filename": "TVP_KIRIKIRI__Z_core_Scripting_Platform_for_Win32-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785840863.json"
-  },
-  {
-    "game": "Digimon_Story_Time_Stranger",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1785830436,
-    "filename": "Digimon_Story_Time_Stranger-Xiaomi-2312FPCA6G-Mali-G57_MC2-1785830436.json"
   }
 ]
