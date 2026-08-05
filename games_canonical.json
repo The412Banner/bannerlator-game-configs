@@ -10725,6 +10725,11 @@
     "config_count": 6,
     "devices": [
       {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
+      },
+      {
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
@@ -10743,17 +10748,12 @@
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
+      "POSTAL_2",
       "POSTAL_2____________________________________________________",
-      "Postal2",
-      "POSTAL_2"
+      "Postal2"
     ],
     "name": "POSTAL 2"
   },
@@ -21801,6 +21801,11 @@
     "config_count": 149,
     "devices": [
       {
+        "d": "Adreno__TM__650",
+        "m": "M2012K11AC",
+        "s": "Adreno (TM) 650"
+      },
+      {
         "d": "Pocket_FIT",
         "m": "AYANEO",
         "s": null
@@ -22059,17 +22064,12 @@
         "d": "Adreno__TM__650",
         "m": "G780G",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "M2012K11AC",
-        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
+      "Rise_of_the_Tomb_Raider",
       "Rise_of_the_Tomb_Raider_",
-      "Tomb_Raider",
-      "Rise_of_the_Tomb_Raider"
+      "Tomb_Raider"
     ],
     "name": "Rise of the Tomb Raider\u2122"
   },
