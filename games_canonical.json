@@ -253,7 +253,7 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 2 (2009)"
   },
   "1020790": {
-    "config_count": 41,
+    "config_count": 40,
     "devices": [
       {
         "d": "SM8850",
@@ -1131,7 +1131,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1140,7 +1140,8 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid"
+      "BattleForTheGrid",
+      "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -3061,7 +3062,7 @@
     "name": "Battlefield\u2122 1"
   },
   "1238860": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -3077,6 +3078,11 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S931B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -9209,6 +9215,20 @@
     ],
     "name": "Swordhaven: Iron Conspiracy"
   },
+  "21090": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__730",
+        "m": "S901E",
+        "s": "Adreno (TM) 730"
+      }
+    ],
+    "folders": [
+      "F_E_A_R_"
+    ],
+    "name": "F.E.A.R."
+  },
   "2109370": {
     "config_count": 1,
     "devices": [],
@@ -9467,7 +9487,7 @@
     "name": "Cyberpunk 2077: Phantom Liberty"
   },
   "2138710": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -9508,6 +9528,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "G610_MC4",
+        "m": "Mali",
+        "s": "Mali-G610 MC4"
       }
     ],
     "folders": [
@@ -11754,7 +11779,7 @@
     "name": "Military Tanks"
   },
   "234670": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "G68_MC4",
@@ -14953,14 +14978,6 @@
     ],
     "name": "Hospital 666"
   },
-  "2787680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Candy Rangers"
-  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -15353,6 +15370,20 @@
       "Need_for_Speed_9"
     ],
     "name": "Need for Speed\u2122 Unbound - Vol. 9 Premium Speed Pass"
+  },
+  "2858370": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "Voxel_Project"
+    ],
+    "name": "Voxel Project VR"
   },
   "285900": {
     "config_count": 3,
@@ -17490,7 +17521,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1165,
+    "config_count": 1167,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -19758,7 +19789,7 @@
     "name": "They Killed Your Cat"
   },
   "3489700": {
-    "config_count": 23,
+    "config_count": 24,
     "devices": [
       {
         "d": "G720_MC7",
@@ -19784,6 +19815,11 @@
         "d": "Adreno__TM__740",
         "m": "S918B",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
@@ -23921,12 +23957,13 @@
     "name": "My Part-Time Job With a Flirty Mistress"
   },
   "456610": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
+      "eFootball_2022",
       "pro_evolution_soccer_2017"
     ],
-    "name": "Pro Evolution Soccer 2017"
+    "name": "eFootball 2022"
   },
   "457140": {
     "config_count": 1,
@@ -24153,6 +24190,20 @@
       "Alien_isolation"
     ],
     "name": "Alien: Isolation 2"
+  },
+  "4676340": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "HoYoPlay"
+    ],
+    "name": "I'veComeToYourHouseToPlay!"
   },
   "4686840": {
     "config_count": 1,
@@ -31343,7 +31394,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2318,
+    "config_count": 2320,
     "devices": [
       {
         "d": "G52_MC2",
@@ -32166,14 +32217,14 @@
         "s": "Mali-G68"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
