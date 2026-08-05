@@ -15508,7 +15508,7 @@
     "name": "Metro 2033 Redux"
   },
   "2868840": {
-    "config_count": 16,
+    "config_count": 17,
     "devices": [
       {
         "d": "Adreno__TM__613",
@@ -17470,7 +17470,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1164,
+    "config_count": 1165,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -18358,11 +18358,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-        "m": "S731B",
-        "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
-      },
-      {
         "d": "G72",
         "m": "Mali",
         "s": "Mali-G72"
@@ -18381,6 +18376,11 @@
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+        "m": "S731B",
+        "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
       },
       {
         "d": "Adreno__TM__830",
