@@ -1903,7 +1903,7 @@
     "name": "I.G.I. Origins"
   },
   "1196590": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -1974,6 +1974,11 @@
         "d": "Adreno__TM__642L",
         "m": "22101320G",
         "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "2509FPN0BC",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
@@ -9529,7 +9534,7 @@
     "name": "Backrooms: Escape Together"
   },
   "2142790": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G57_MC2",
@@ -19666,6 +19671,14 @@
     ],
     "name": "Ghost Song"
   },
+  "34830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper: Ghost Warrior"
+  },
   "348470": {
     "config_count": 13,
     "devices": [
@@ -20776,14 +20789,6 @@
       "Ori"
     ],
     "name": "The Seven Deadly Sins: Origin"
-  },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
@@ -23517,7 +23522,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23526,8 +23531,7 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4",
-      "Call_of_Duty_4_Modern_Warfare"
+      "Call_of_Duty_4"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -27982,7 +27986,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -28029,7 +28033,8 @@
       "CALL_OF_DUTY_4_Modern_Warfare",
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
-      "iw3sp"
+      "iw3sp",
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
@@ -30499,6 +30504,14 @@
       "FFXII_TZA"
     ],
     "name": "Ffxii Tza"
+  },
+  "name:ffxiii": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "FFXIII"
+    ],
+    "name": "Ffxiii"
   },
   "name:fifa14": {
     "config_count": 1,
