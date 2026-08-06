@@ -2249,7 +2249,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 299,
+    "config_count": 300,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -17023,7 +17023,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 28,
+    "config_count": 27,
     "devices": [
       {
         "d": "G78",
@@ -17089,8 +17089,7 @@
     "folders": [
       "BlackOps",
       "Call_of_Duty_3______________________________________________",
-      "Call_of_Duty___Black_Ops_III",
-      "Call_of_Duty_-_Black_Ops"
+      "Call_of_Duty___Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
   },
@@ -19614,7 +19613,7 @@
     "name": "Megabonk"
   },
   "3405690": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G57_MC2",
@@ -22746,7 +22745,7 @@
     "name": "Godot Engine"
   },
   "4048520": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "Adreno__TM__722",
@@ -23435,10 +23434,17 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
   "42700": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
     "folders": [
-      "Call_of_Duty_Black_Ops"
+      "Call_of_Duty_Black_Ops",
+      "Call_of_Duty_-_Black_Ops"
     ],
     "name": "Call of Duty\u00ae: Black Ops"
   },
@@ -30939,12 +30945,20 @@
     "name": "GTA San Andreas"
   },
   "name:gta-vc": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "gta_vc"
     ],
     "name": "GTA Vc"
+  },
+  "name:gta-vice-city": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GTA_VICE_CITY"
+    ],
+    "name": "GTA Vice City"
   },
   "name:gtaiv": {
     "config_count": 10,
@@ -31563,7 +31577,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2327,
+    "config_count": 2328,
     "devices": [
       {
         "d": "G52_MC2",
