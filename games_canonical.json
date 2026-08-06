@@ -10864,6 +10864,20 @@
     ],
     "name": "Resident Evil 4 Chainsaw Demo"
   },
+  "22330": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "CPH2059",
+        "s": "Adreno (TM) 610"
+      }
+    ],
+    "folders": [
+      "The_Elder_Scrolls_IV__Oblivion__Game_of_the_Year_Edition__2009_"
+    ],
+    "name": "The Elder Scrolls Iv Oblivion Game Of The Year Edition 2009"
+  },
   "223470": {
     "config_count": 6,
     "devices": [
@@ -11192,7 +11206,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 185,
+    "config_count": 186,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -11548,14 +11562,6 @@
       "Remember_Me"
     ],
     "name": "Remember Me"
-  },
-  "2288627": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "ACU"
-    ],
-    "name": "Train Simulator: Norfolk Southern SD70ACU"
   },
   "2290180": {
     "config_count": 1,
@@ -15270,6 +15276,14 @@
     ],
     "name": "BOND"
   },
+  "2836100": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "ACU"
+    ],
+    "name": "Gemporium: A Cute Mining Sim"
+  },
   "283640": {
     "config_count": 2,
     "devices": [
@@ -17031,7 +17045,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 27,
+    "config_count": 28,
     "devices": [
       {
         "d": "G78",
@@ -17097,7 +17111,8 @@
     "folders": [
       "BlackOps",
       "Call_of_Duty_3______________________________________________",
-      "Call_of_Duty___Black_Ops_III"
+      "Call_of_Duty___Black_Ops_III",
+      "Call_of_Duty_-_Black_Ops"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
   },
@@ -17650,7 +17665,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1173,
+    "config_count": 1174,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -22753,7 +22768,7 @@
     "name": "Godot Engine"
   },
   "4048520": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "Adreno__TM__722",
@@ -23442,17 +23457,10 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
   "42700": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
+    "config_count": 1,
+    "devices": [],
     "folders": [
-      "Call_of_Duty_Black_Ops",
-      "Call_of_Duty_-_Black_Ops"
+      "Call_of_Duty_Black_Ops"
     ],
     "name": "Call of Duty\u00ae: Black Ops"
   },
@@ -23739,7 +23747,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23748,8 +23756,7 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4",
-      "Call_of_Duty_4_Modern_Warfare"
+      "Call_of_Duty_4"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -25492,7 +25499,7 @@
     "name": "SOULCALIBUR VI"
   },
   "548430": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -27222,7 +27229,7 @@
     "name": "GameGuru Starter Bundle"
   },
   "678950": {
-    "config_count": 43,
+    "config_count": 44,
     "devices": [
       {
         "d": "G68_MC4",
@@ -28212,7 +28219,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -28259,7 +28266,8 @@
       "CALL_OF_DUTY_4_Modern_Warfare",
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
-      "iw3sp"
+      "iw3sp",
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
@@ -29968,7 +29976,7 @@
     "name": "Mortal Kombat\u00a011"
   },
   "976730": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "SM8750",
@@ -30422,6 +30430,14 @@
       "COD__Modern_Warfare"
     ],
     "name": "Cod Modern Warfare"
+  },
+  "name:cod2mp-s": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "CoD2MP_s"
+    ],
+    "name": "Cod2Mp S"
   },
   "name:cod2sp-s": {
     "config_count": 1,
@@ -31599,7 +31615,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2328,
+    "config_count": 2330,
     "devices": [
       {
         "d": "G52_MC2",
