@@ -7216,7 +7216,7 @@
     "name": "Asphalt Legends "
   },
   "1817070": {
-    "config_count": 16,
+    "config_count": 17,
     "devices": [
       {
         "d": "G57_MC2",
@@ -7270,7 +7270,8 @@
       }
     ],
     "folders": [
-      "Marvel_s_Spider-Man_Remastered"
+      "Marvel_s_Spider-Man_Remastered",
+      "Spider-man_Remastered"
     ],
     "name": "Marvel\u2019s Spider-Man Remastered"
   },
@@ -8444,19 +8445,19 @@
     "config_count": 2,
     "devices": [
       {
-        "d": "Adreno__TM__830",
-        "m": "RMX5011",
-        "s": "Adreno (TM) 830"
-      },
-      {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "RMX5011",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
-      "Ridge_Racer__Unbounded",
-      "Ridge_Racer_Unbounded"
+      "Ridge_Racer_Unbounded",
+      "Ridge_Racer__Unbounded"
     ],
     "name": "Ridge Racer\u2122 Unbounded"
   },
@@ -11131,7 +11132,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 181,
+    "config_count": 182,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -12018,7 +12019,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 12,
+    "config_count": 14,
     "devices": [
       {
         "d": "G720_MC7",
@@ -12039,10 +12040,21 @@
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II"
+      "DARK_SOULS__II",
+      "DarkSoulsII"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -20240,7 +20252,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 19,
+    "config_count": 21,
     "devices": [
       {
         "d": "G57_MC2",
@@ -20285,7 +20297,8 @@
     ],
     "folders": [
       "Atla",
-      "TombRaider"
+      "TombRaider",
+      "Tomb_Raider"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -21043,7 +21056,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 29,
+    "config_count": 27,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -21106,16 +21119,6 @@
         "s": "Adreno (TM) 735"
       },
       {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -21127,7 +21130,6 @@
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
       "DARK_SOULS_III",
-      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -21920,7 +21922,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 153,
+    "config_count": 151,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23607,7 +23609,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23616,8 +23618,7 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4",
-      "Call_of_Duty_4_Modern_Warfare"
+      "Call_of_Duty_4"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -24646,6 +24647,11 @@
     "config_count": 61,
     "devices": [
       {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
+      },
+      {
         "d": "unknown",
         "m": "Pocket_FIT",
         "s": "unknown"
@@ -24711,11 +24717,6 @@
         "s": "Mali-G57 MC2"
       },
       {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      },
-      {
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
@@ -24762,9 +24763,9 @@
       }
     ],
     "folders": [
+      "Skyrim_-_Special_Edition",
       "The_Elder_Scrolls_V__Skyrim",
       "The_Elder_Scrolls_V__Skyrim_Special_Edition",
-      "Skyrim_-_Special_Edition",
       "Skyrim"
     ],
     "name": "The Elder Scrolls V: Skyrim Special Edition"
@@ -28074,7 +28075,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -28121,7 +28122,8 @@
       "CALL_OF_DUTY_4_Modern_Warfare",
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
-      "iw3sp"
+      "iw3sp",
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
@@ -31431,7 +31433,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2320,
+    "config_count": 2322,
     "devices": [
       {
         "d": "G52_MC2",
@@ -32254,14 +32256,14 @@
         "s": "Mali-G68"
       },
       {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      },
-      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__740",
