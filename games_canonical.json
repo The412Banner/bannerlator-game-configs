@@ -7400,6 +7400,20 @@
     ],
     "name": "DEATH STRANDING DIRECTOR'S CUT"
   },
+  "1859470": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__730",
+        "m": "Lenovo_L71091",
+        "s": "Adreno (TM) 730"
+      }
+    ],
+    "folders": [
+      "PAC-MAN_WORLD_Re-PAC"
+    ],
+    "name": "PAC-MAN WORLD Re-PAC"
+  },
   "1861250": {
     "config_count": 1,
     "devices": [
@@ -12060,7 +12074,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 14,
+    "config_count": 12,
     "devices": [
       {
         "d": "G720_MC7",
@@ -12081,21 +12095,10 @@
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II",
-      "DarkSoulsII"
+      "DARK_SOULS__II"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -15307,7 +15310,7 @@
     "name": "BeamNG.drive"
   },
   "2856190": {
-    "config_count": 95,
+    "config_count": 96,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -15438,6 +15441,11 @@
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "LX1",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
@@ -16228,7 +16236,7 @@
     "name": "Heatwave"
   },
   "298110": {
-    "config_count": 23,
+    "config_count": 22,
     "devices": [
       {
         "d": "G720_MC7",
@@ -16286,7 +16294,6 @@
       "Far_Cry__4",
       "Far_Cry_____________________________________________________",
       "far_cry",
-      "FarCry",
       "FarCry4",
       "Far_Cry_4"
     ],
@@ -16982,7 +16989,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 27,
+    "config_count": 28,
     "devices": [
       {
         "d": "G78",
@@ -17048,7 +17055,8 @@
     "folders": [
       "BlackOps",
       "Call_of_Duty_3______________________________________________",
-      "Call_of_Duty___Black_Ops_III"
+      "Call_of_Duty___Black_Ops_III",
+      "Call_of_Duty_-_Black_Ops"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
   },
@@ -17601,7 +17609,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1169,
+    "config_count": 1171,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -18512,6 +18520,11 @@
         "d": "256",
         "m": "8",
         "s": "PowerVR B-Series BXM-8-256"
+      },
+      {
+        "d": "Immortalis_MC11",
+        "m": "G715",
+        "s": "Mali-G715-Immortalis MC11"
       },
       {
         "d": "Adreno__TM__830",
@@ -19803,6 +19816,14 @@
     ],
     "name": "Ghost Song"
   },
+  "34830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper: Ghost Warrior"
+  },
   "348470": {
     "config_count": 13,
     "devices": [
@@ -20293,7 +20314,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 21,
+    "config_count": 19,
     "devices": [
       {
         "d": "G57_MC2",
@@ -20338,8 +20359,7 @@
     ],
     "folders": [
       "Atla",
-      "TombRaider",
-      "Tomb_Raider"
+      "TombRaider"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -20920,14 +20940,6 @@
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
-  },
   "3681010": {
     "config_count": 1,
     "devices": [],
@@ -21097,7 +21109,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 27,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -21160,6 +21172,16 @@
         "s": "Adreno (TM) 735"
       },
       {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
+      },
+      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -21171,6 +21193,7 @@
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
       "DARK_SOULS_III",
+      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -21963,7 +21986,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 152,
+    "config_count": 154,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23360,17 +23383,10 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
   "42700": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
+    "config_count": 1,
+    "devices": [],
     "folders": [
-      "Call_of_Duty_Black_Ops",
-      "Call_of_Duty_-_Black_Ops"
+      "Call_of_Duty_Black_Ops"
     ],
     "name": "Call of Duty\u00ae: Black Ops"
   },
@@ -25646,7 +25662,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -25667,12 +25683,18 @@
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
       "Far_Cry_5",
       "Far_Cry_5___________________________________________________",
-      "Far_Cry__5"
+      "Far_Cry__5",
+      "FarCry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -31476,7 +31498,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2324,
+    "config_count": 2325,
     "devices": [
       {
         "d": "G52_MC2",
@@ -32184,11 +32206,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "Adreno__TM__610",
-        "m": "A057M",
-        "s": "Adreno (TM) 610"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "G781B",
         "s": "Adreno (TM) 650"
@@ -32307,6 +32324,11 @@
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "A057M",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__740",
@@ -33453,6 +33475,14 @@
       "WarCraft_2_RU"
     ],
     "name": "Warcraft 2 Ru"
+  },
+  "name:warcraft-iii": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Warcraft_III"
+    ],
+    "name": "Warcraft Iii"
   },
   "name:wizard-school-exchange-student": {
     "config_count": 1,
