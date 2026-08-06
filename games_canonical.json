@@ -1265,6 +1265,20 @@
     ],
     "name": "People Playground"
   },
+  "1118272": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__618",
+        "m": "M2007J20CG",
+        "s": "Adreno (TM) 618"
+      }
+    ],
+    "folders": [
+      "dirt_3"
+    ],
+    "name": "DiRT Rally 2.0 - Peugeot 306 Maxi"
+  },
   "1118310": {
     "config_count": 1,
     "devices": [],
@@ -1383,20 +1397,6 @@
       "Travellers_Rest"
     ],
     "name": "Travellers Rest"
-  },
-  "1142800": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__618",
-        "m": "M2007J20CG",
-        "s": "Adreno (TM) 618"
-      }
-    ],
-    "folders": [
-      "dirt_3"
-    ],
-    "name": "DiRT Rally 2.0 Deluxe 2.0 (Season3+4)"
   },
   "1144200": {
     "config_count": 4,
@@ -2442,11 +2442,6 @@
         "s": "Adreno (TM) 750"
       },
       {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "2312DRA50G",
         "s": "Adreno (TM) 710"
@@ -2575,6 +2570,11 @@
         "d": "Adreno__TM__830",
         "m": "I2401",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
       },
       {
         "d": "Adreno__TM__735",
@@ -3944,7 +3944,7 @@
     "name": "Big Ambitions"
   },
   "1332010": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -3980,6 +3980,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
       }
     ],
     "folders": [
@@ -10159,7 +10164,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 91,
+    "config_count": 92,
     "devices": [
       {
         "d": "S938B",
@@ -11187,7 +11192,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 183,
+    "config_count": 185,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -11440,11 +11445,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      },
-      {
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
@@ -11463,6 +11463,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
@@ -12166,12 +12171,17 @@
     "name": "Elsword"
   },
   "2377420": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [
       {
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -13998,7 +14008,7 @@
     "name": "Pure Badminton"
   },
   "2592160": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -15749,7 +15759,7 @@
     "name": "Metro: Last Light Redux"
   },
   "287700": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "MT6789",
@@ -15770,6 +15780,11 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "PLZ110",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
@@ -17628,7 +17643,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1172,
+    "config_count": 1173,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -18946,7 +18961,7 @@
     "name": "NINJA GAIDEN 2 Black"
   },
   "329050": {
-    "config_count": 40,
+    "config_count": 41,
     "devices": [
       {
         "d": "G57",
@@ -19259,7 +19274,7 @@
     "name": "Transformice"
   },
   "3357650": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -19274,6 +19289,11 @@
       {
         "d": "Adreno__TM__830",
         "m": "I2401",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "OPD2415",
         "s": "Adreno (TM) 830"
       },
       {
@@ -19600,6 +19620,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "Infinix_X6816",
+        "s": "PowerVR Rogue GE8320"
       }
     ],
     "folders": [
@@ -21323,6 +21348,20 @@
     ],
     "name": "Resident Evil Requiem"
   },
+  "3767850": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__710",
+        "m": "2405CRPFDG",
+        "s": "Adreno (TM) 710"
+      }
+    ],
+    "folders": [
+      "SpiritVale"
+    ],
+    "name": "SpiritVale"
+  },
   "3768760": {
     "config_count": 5,
     "devices": [
@@ -22735,6 +22774,11 @@
         "s": "Mali-G57 MC2"
       },
       {
+        "d": "G51",
+        "m": "Mali",
+        "s": "Mali-G51"
+      },
+      {
         "d": "Adreno__TM__740",
         "m": "F731B",
         "s": "Adreno (TM) 740"
@@ -24060,13 +24104,12 @@
     "name": "My Part-Time Job With a Flirty Mistress"
   },
   "456610": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "eFootball_2022",
       "pro_evolution_soccer_2017"
     ],
-    "name": "eFootball 2022"
+    "name": "Pro Evolution Soccer 2017"
   },
   "457140": {
     "config_count": 1,
@@ -30298,6 +30341,20 @@
     ],
     "name": "Blades Of Exile"
   },
+  "name:bmlauncher": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      }
+    ],
+    "folders": [
+      "BmLauncher"
+    ],
+    "name": "Bmlauncher"
+  },
   "name:castlevanialosue": {
     "config_count": 1,
     "devices": [],
@@ -31506,7 +31563,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2325,
+    "config_count": 2327,
     "devices": [
       {
         "d": "G52_MC2",
@@ -32319,11 +32376,6 @@
         "s": "Mali-G68"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
@@ -32337,6 +32389,11 @@
         "d": "Adreno__TM__610",
         "m": "A057M",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
