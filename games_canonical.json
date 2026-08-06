@@ -3639,6 +3639,20 @@
     ],
     "name": "Borderlands 4"
   },
+  "1286990": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
+      }
+    ],
+    "folders": [
+      "Conscript_-_Director_s_Cut"
+    ],
+    "name": "CONSCRIPT: Director\u2019s Cut"
+  },
   "1289310": {
     "config_count": 1,
     "devices": [],
@@ -8427,16 +8441,22 @@
     "name": "Sleeping Dogs"
   },
   "202310": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "RMX5011",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
-      "Ridge_Racer__Unbounded"
+      "Ridge_Racer__Unbounded",
+      "Ridge_Racer_Unbounded"
     ],
     "name": "Ridge Racer\u2122 Unbounded"
   },
@@ -9201,20 +9221,6 @@
       "Magicraft"
     ],
     "name": "Magicraft"
-  },
-  "2104870": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "F731B",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "Guardians"
-    ],
-    "name": "Stranded: Alien Dawn - Robots and Guardians"
   },
   "2108180": {
     "config_count": 2,
@@ -12012,7 +12018,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 14,
+    "config_count": 12,
     "devices": [
       {
         "d": "G720_MC7",
@@ -12033,21 +12039,10 @@
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II",
-      "DarkSoulsII"
+      "DARK_SOULS__II"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -15487,16 +15482,22 @@
     "name": "ZERO PARADES: For Dead Spies"
   },
   "2864560": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "F731B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
-      "Rune_Factory__Guardians_of_Azuma"
+      "Rune_Factory__Guardians_of_Azuma",
+      "Guardians"
     ],
     "name": "Rune Factory: Guardians of Azuma"
   },
@@ -15509,7 +15510,7 @@
     "name": "SAW: Genesis"
   },
   "286690": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -15560,6 +15561,11 @@
         "d": "Adreno__TM__619",
         "m": "22101317C",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__840",
@@ -21037,7 +21043,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 27,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -21100,6 +21106,16 @@
         "s": "Adreno (TM) 735"
       },
       {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
+      },
+      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -21111,6 +21127,7 @@
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
       "DARK_SOULS_III",
+      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -21903,7 +21920,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 152,
+    "config_count": 153,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -22174,7 +22191,8 @@
     "folders": [
       "Rise_of_the_Tomb_Raider",
       "Rise_of_the_Tomb_Raider_",
-      "Tomb_Raider"
+      "Tomb_Raider",
+      "Tomb_Raider_-_Definitive_Edition"
     ],
     "name": "Rise of the Tomb Raider\u2122"
   },
@@ -24625,7 +24643,7 @@
     "name": "Warhammer 40,000: Gladius - Relics of War"
   },
   "489830": {
-    "config_count": 60,
+    "config_count": 61,
     "devices": [
       {
         "d": "unknown",
@@ -24746,6 +24764,7 @@
     "folders": [
       "The_Elder_Scrolls_V__Skyrim",
       "The_Elder_Scrolls_V__Skyrim_Special_Edition",
+      "Skyrim_-_Special_Edition",
       "Skyrim"
     ],
     "name": "The Elder Scrolls V: Skyrim Special Edition"
@@ -25836,7 +25855,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 40,
+    "config_count": 41,
     "devices": [
       {
         "d": "G57",
@@ -25867,11 +25886,6 @@
         "d": "Adreno__TM__650",
         "m": "motorola_edge_20_pro",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__825",
@@ -25927,6 +25941,11 @@
         "d": "Adreno__TM__840",
         "m": "NX809J",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__660",
@@ -30425,6 +30444,14 @@
       "Dragon_Ball_Fighters_Z"
     ],
     "name": "Dragon Ball Fighters Z"
+  },
+  "name:dragonballzkakarot": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "DRAGONBALLZKAKAROT"
+    ],
+    "name": "Dragonballzkakarot"
   },
   "name:dungeons-of-infinity": {
     "config_count": 1,
