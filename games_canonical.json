@@ -1265,20 +1265,6 @@
     ],
     "name": "People Playground"
   },
-  "1118272": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__618",
-        "m": "M2007J20CG",
-        "s": "Adreno (TM) 618"
-      }
-    ],
-    "folders": [
-      "dirt_3"
-    ],
-    "name": "DiRT Rally 2.0 - Peugeot 306 Maxi"
-  },
   "1118310": {
     "config_count": 1,
     "devices": [],
@@ -1397,6 +1383,20 @@
       "Travellers_Rest"
     ],
     "name": "Travellers Rest"
+  },
+  "1142800": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__618",
+        "m": "M2007J20CG",
+        "s": "Adreno (TM) 618"
+      }
+    ],
+    "folders": [
+      "dirt_3"
+    ],
+    "name": "DiRT Rally 2.0 Deluxe 2.0 (Season3+4)"
   },
   "1144200": {
     "config_count": 4,
@@ -5423,7 +5423,7 @@
     "name": "Cairn"
   },
   "1593500": {
-    "config_count": 129,
+    "config_count": 130,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -5629,6 +5629,11 @@
         "d": "Adreno__TM__619",
         "m": "2201116PG",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S918B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -6833,7 +6838,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 133,
+    "config_count": 134,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -9222,6 +9227,20 @@
       "Magicraft"
     ],
     "name": "Magicraft"
+  },
+  "2104870": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "F731B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Guardians"
+    ],
+    "name": "Stranded: Alien Dawn - Robots and Guardians"
   },
   "2108180": {
     "config_count": 2,
@@ -12019,7 +12038,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 12,
+    "config_count": 14,
     "devices": [
       {
         "d": "G720_MC7",
@@ -12040,10 +12059,21 @@
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II"
+      "DARK_SOULS__II",
+      "DarkSoulsII"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -15483,22 +15513,16 @@
     "name": "ZERO PARADES: For Dead Spies"
   },
   "2864560": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "F731B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
-      "Rune_Factory__Guardians_of_Azuma",
-      "Guardians"
+      "Rune_Factory__Guardians_of_Azuma"
     ],
     "name": "Rune Factory: Guardians of Azuma"
   },
@@ -17549,7 +17573,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1167,
+    "config_count": 1169,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -18352,11 +18376,6 @@
         "s": "Adreno (TM) 732"
       },
       {
-        "d": "256",
-        "m": "8",
-        "s": "PowerVR B-Series BXM-8-256"
-      },
-      {
         "d": "Adreno__TM__810",
         "m": "NX1",
         "s": "Adreno (TM) 810"
@@ -18460,6 +18479,11 @@
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
         "m": "S731B",
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "256",
+        "m": "8",
+        "s": "PowerVR B-Series BXM-8-256"
       },
       {
         "d": "Adreno__TM__830",
@@ -21045,7 +21069,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 29,
+    "config_count": 27,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -21108,16 +21132,6 @@
         "s": "Adreno (TM) 735"
       },
       {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -21129,7 +21143,6 @@
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
       "DARK_SOULS_III",
-      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -28008,7 +28021,7 @@
     "name": "Phoenix Wright: Ace Attorney Trilogy"
   },
   "787860": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "Immortalis_MC12",
@@ -28062,7 +28075,8 @@
       }
     ],
     "folders": [
-      "Farming_Simulator_19"
+      "Farming_Simulator_19",
+      "Farming_Simulator_19________________________________________"
     ],
     "name": "Farming Simulator 19"
   },
