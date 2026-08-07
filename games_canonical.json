@@ -4249,7 +4249,7 @@
     "name": "NINJA GAIDEN 3: Razor's Edge [NINJA GAIDEN: Master Collection]"
   },
   "1371980": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -11574,14 +11574,6 @@
     ],
     "name": "Remember Me"
   },
-  "2288627": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "ACU"
-    ],
-    "name": "Train Simulator: Norfolk Southern SD70ACU"
-  },
   "2290180": {
     "config_count": 1,
     "devices": [
@@ -15292,6 +15284,14 @@
     ],
     "name": "BOND"
   },
+  "2836100": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "ACU"
+    ],
+    "name": "Gemporium: A Cute Mining Sim"
+  },
   "283640": {
     "config_count": 2,
     "devices": [
@@ -16875,7 +16875,7 @@
     "name": "MotoGP\u212225"
   },
   "307780": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -16913,11 +16913,6 @@
         "s": "Adreno (TM) 825"
       },
       {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
         "d": "Adreno__TM__750",
         "m": "23127PN0CG",
         "s": "Adreno (TM) 750"
@@ -16926,6 +16921,11 @@
         "d": "G57_MC3",
         "m": "Mali",
         "s": "Mali-G57 MC3"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
@@ -19852,20 +19852,6 @@
       "Cradle_of_Nightmare___Flowers_to_you"
     ],
     "name": "Cradle of Nightmare : Flowers to you"
-  },
-  "3472040": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      }
-    ],
-    "folders": [
-      "NBA_2K26"
-    ],
-    "name": "NBA 2K26"
   },
   "3476660": {
     "config_count": 1,
@@ -23770,7 +23756,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23779,8 +23765,7 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4",
-      "Call_of_Duty_4_Modern_Warfare"
+      "Call_of_Duty_4"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -28243,7 +28228,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -28290,7 +28275,8 @@
       "CALL_OF_DUTY_4_Modern_Warfare",
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
-      "iw3sp"
+      "iw3sp",
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
