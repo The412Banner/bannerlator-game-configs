@@ -8673,7 +8673,7 @@
     "name": "Binary Domain"
   },
   "204030": {
-    "config_count": 4,
+    "config_count": 2,
     "devices": [
       {
         "d": "G52_MC2",
@@ -17147,7 +17147,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "G78",
@@ -17213,7 +17213,8 @@
     "folders": [
       "BlackOps",
       "Call_of_Duty_3______________________________________________",
-      "Call_of_Duty___Black_Ops_III"
+      "Call_of_Duty___Black_Ops_III",
+      "Call_of_Duty_-_Black_Ops"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
   },
@@ -19084,7 +19085,7 @@
     "name": "NINJA GAIDEN 2 Black"
   },
   "329050": {
-    "config_count": 41,
+    "config_count": 42,
     "devices": [
       {
         "d": "G57",
@@ -23568,17 +23569,10 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
   "42700": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
+    "config_count": 1,
+    "devices": [],
     "folders": [
-      "Call_of_Duty_Black_Ops",
-      "Call_of_Duty_-_Black_Ops"
+      "Call_of_Duty_Black_Ops"
     ],
     "name": "Call of Duty\u00ae: Black Ops"
   },
@@ -23865,7 +23859,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23874,8 +23868,7 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4",
-      "Call_of_Duty_4_Modern_Warfare"
+      "Call_of_Duty_4"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -28346,7 +28339,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -28393,7 +28386,8 @@
       "CALL_OF_DUTY_4_Modern_Warfare",
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
-      "iw3sp"
+      "iw3sp",
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
