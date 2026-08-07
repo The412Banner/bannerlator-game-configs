@@ -17664,7 +17664,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1175,
+    "config_count": 1176,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -18307,11 +18307,6 @@
         "s": "Adreno (TM) 650"
       },
       {
-        "d": "Adreno__TM__730",
-        "m": "S901E",
-        "s": "Adreno (TM) 730"
-      },
-      {
         "d": "Adreno__TM__619",
         "m": "CPH2527",
         "s": "Adreno (TM) 619"
@@ -18580,6 +18575,11 @@
         "d": "Adreno__TM__650",
         "m": "G780G",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "S901E",
+        "s": "Adreno (TM) 730"
       },
       {
         "d": "Adreno__TM__830",
@@ -19194,7 +19194,7 @@
     "name": "Tom Clancy S Splinter Cell Conviction"
   },
   "33230": {
-    "config_count": 16,
+    "config_count": 17,
     "devices": [
       {
         "d": "G615_MC2",
@@ -20371,7 +20371,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 20,
+    "config_count": 18,
     "devices": [
       {
         "d": "G57_MC2",
@@ -20416,8 +20416,7 @@
     ],
     "folders": [
       "Atla",
-      "TombRaider",
-      "Tomb_Raider"
+      "TombRaider"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -22071,7 +22070,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 152,
+    "config_count": 154,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -31631,7 +31630,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2332,
+    "config_count": 2337,
     "devices": [
       {
         "d": "G52_MC2",
@@ -31732,11 +31731,6 @@
         "d": "Adreno__TM__610",
         "m": "moto_g_8__plus",
         "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__710",
-        "m": "motorola_edge_50_fusion",
-        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__610",
@@ -32467,6 +32461,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "motorola_edge_50_fusion",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__740",
