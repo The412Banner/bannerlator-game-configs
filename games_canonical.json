@@ -8215,7 +8215,7 @@
     "name": "Prince of Persia\u00ae"
   },
   "200260": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "G52_MC2",
@@ -8246,10 +8246,16 @@
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
       }
     ],
     "folders": [
-      "Batman__Arkham_City_-_Game_of_the_Year_Edition"
+      "Batman__Arkham_City_-_Game_of_the_Year_Edition",
+      "Batman_-_Arkham_City_-_Game_of_the_Year_Edition"
     ],
     "name": "Batman: Arkham City - Game of the Year Edition"
   },
@@ -17052,7 +17058,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "G78",
@@ -20365,7 +20371,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 18,
+    "config_count": 20,
     "devices": [
       {
         "d": "G57_MC2",
@@ -20410,7 +20416,8 @@
     ],
     "folders": [
       "Atla",
-      "TombRaider"
+      "TombRaider",
+      "Tomb_Raider"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -22064,7 +22071,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 155,
+    "config_count": 153,
     "devices": [
       {
         "d": "Adreno__TM__650",
