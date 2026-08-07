@@ -33664,8 +33664,14 @@
     "name": "Takecareofthedog"
   },
   "name:tesv": {
-    "config_count": 2,
-    "devices": [],
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S936B",
+        "s": "Adreno (TM) 830"
+      }
+    ],
     "folders": [
       "TESV"
     ],
