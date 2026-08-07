@@ -387,7 +387,7 @@
     "name": "30XX"
   },
   "1030300": {
-    "config_count": 40,
+    "config_count": 39,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -2617,6 +2617,11 @@
         "s": "Mali-G57 MC2"
       },
       {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
+      },
+      {
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
@@ -2645,18 +2650,13 @@
         "d": "Adreno__TM__610",
         "m": "A235M",
         "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
       "Sims",
+      "The_Sims__",
       "The_Sims__4",
       "the_Sims",
-      "The_Sims__",
       "The_Sims_4"
     ],
     "name": "The Sims\u2122 4"
@@ -30773,6 +30773,14 @@
       "Dungeons_of_Infinity"
     ],
     "name": "Dungeons Of Infinity"
+  },
+  "name:dyinglightgame-thebeast-x64-rwdi": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "DyingLightGame_TheBeast_x64_rwdi"
+    ],
+    "name": "Dyinglightgame Thebeast X64 Rwdi"
   },
   "name:efootball-2021": {
     "config_count": 44,
