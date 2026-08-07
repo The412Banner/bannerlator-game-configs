@@ -1540,7 +1540,7 @@
     "name": "Horizon Zero Dawn\u2122 Complete Edition"
   },
   "115320": {
-    "config_count": 54,
+    "config_count": 55,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -1576,6 +1576,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "Adreno__TM__610",
@@ -12480,6 +12485,14 @@
       "Castlevania__Lords_of_Shadow_2"
     ],
     "name": "Castlevania: Lords of Shadow 2"
+  },
+  "2396240": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "SteamWorld_Heist_2"
+    ],
+    "name": "SteamWorld Heist II"
   },
   "240": {
     "config_count": 2,
@@ -26730,7 +26743,7 @@
     "name": "Oddworld: Soulstorm Enhanced Edition"
   },
   "620": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "Adreno__TM__650",
