@@ -2249,7 +2249,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 300,
+    "config_count": 301,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -5442,7 +5442,7 @@
     "name": "Cairn"
   },
   "1593500": {
-    "config_count": 130,
+    "config_count": 131,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -5643,6 +5643,11 @@
         "d": "Adreno__TM__825",
         "m": "CPH2731",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       },
       {
         "d": "Adreno__TM__619",
@@ -6366,7 +6371,7 @@
     "name": "Persona 5 Royal"
   },
   "1693980": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "G68",
@@ -6402,6 +6407,11 @@
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_5",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "G78",
+        "m": "Mali",
+        "s": "Mali-G78"
       }
     ],
     "folders": [
@@ -10164,7 +10174,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 93,
+    "config_count": 94,
     "devices": [
       {
         "d": "S938B",
@@ -10292,14 +10302,14 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "G720_MC8",
-        "m": "Mali",
-        "s": "Mali-G720 MC8"
-      },
-      {
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
       },
       {
         "d": "Adreno__TM__740",
@@ -11563,14 +11573,6 @@
       "Remember_Me"
     ],
     "name": "Remember Me"
-  },
-  "2288627": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "ACU"
-    ],
-    "name": "Train Simulator: Norfolk Southern SD70ACU"
   },
   "2290180": {
     "config_count": 1,
@@ -15274,6 +15276,14 @@
     ],
     "name": "BOND"
   },
+  "2836100": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "ACU"
+    ],
+    "name": "Gemporium: A Cute Mining Sim"
+  },
   "283640": {
     "config_count": 2,
     "devices": [
@@ -16181,7 +16191,7 @@
     "name": "Solateria"
   },
   "2947440": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -17034,7 +17044,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 27,
+    "config_count": 28,
     "devices": [
       {
         "d": "G78",
@@ -17100,7 +17110,8 @@
     "folders": [
       "BlackOps",
       "Call_of_Duty_3______________________________________________",
-      "Call_of_Duty___Black_Ops_III"
+      "Call_of_Duty___Black_Ops_III",
+      "Call_of_Duty_-_Black_Ops"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
   },
@@ -17653,7 +17664,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1174,
+    "config_count": 1175,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -18436,11 +18447,6 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "Adreno__TM__650",
-        "m": "G780G",
-        "s": "Adreno (TM) 650"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "A366B",
         "s": "Adreno (TM) 710"
@@ -18569,6 +18575,11 @@
         "d": "Immortalis_MC11",
         "m": "G715",
         "s": "Mali-G715-Immortalis MC11"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "G780G",
+        "s": "Adreno (TM) 650"
       },
       {
         "d": "Adreno__TM__830",
@@ -20360,7 +20371,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 18,
+    "config_count": 20,
     "devices": [
       {
         "d": "G57_MC2",
@@ -20405,7 +20416,8 @@
     ],
     "folders": [
       "Atla",
-      "TombRaider"
+      "TombRaider",
+      "Tomb_Raider"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -22059,7 +22071,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 154,
+    "config_count": 152,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23461,17 +23473,10 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
   "42700": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
+    "config_count": 1,
+    "devices": [],
     "folders": [
-      "Call_of_Duty_Black_Ops",
-      "Call_of_Duty_-_Black_Ops"
+      "Call_of_Duty_Black_Ops"
     ],
     "name": "Call of Duty\u00ae: Black Ops"
   },
@@ -23758,7 +23763,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23767,7 +23772,8 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4"
+      "Call_of_Duty_4",
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -28230,7 +28236,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 20,
+    "config_count": 19,
     "devices": [
       {
         "d": "G720_MC7",
@@ -28277,8 +28283,7 @@
       "CALL_OF_DUTY_4_Modern_Warfare",
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
-      "iw3sp",
-      "Call_of_Duty_4_Modern_Warfare"
+      "iw3sp"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
@@ -31626,7 +31631,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2331,
+    "config_count": 2332,
     "devices": [
       {
         "d": "G52_MC2",
