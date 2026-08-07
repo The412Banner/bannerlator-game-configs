@@ -10164,7 +10164,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 92,
+    "config_count": 93,
     "devices": [
       {
         "d": "S938B",
@@ -10292,14 +10292,14 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      },
-      {
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       },
       {
         "d": "Adreno__TM__740",
@@ -11563,6 +11563,14 @@
       "Remember_Me"
     ],
     "name": "Remember Me"
+  },
+  "2288627": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "ACU"
+    ],
+    "name": "Train Simulator: Norfolk Southern SD70ACU"
   },
   "2290180": {
     "config_count": 1,
@@ -15265,14 +15273,6 @@
       "Bond"
     ],
     "name": "BOND"
-  },
-  "2836100": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "ACU"
-    ],
-    "name": "Gemporium: A Cute Mining Sim"
   },
   "283640": {
     "config_count": 2,
@@ -21044,7 +21044,7 @@
     "name": "Thrifty Business"
   },
   "371660": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -21060,6 +21060,11 @@
         "d": "Adreno__TM__750",
         "m": "ASUS_AI2401_D",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "CPH2653",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -31621,7 +31626,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2330,
+    "config_count": 2331,
     "devices": [
       {
         "d": "G52_MC2",
@@ -33142,6 +33147,20 @@
       "Polaris-Win64-Shipping"
     ],
     "name": "Polaris Win64 Shipping"
+  },
+  "name:postal2-copy": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "Postal2_Copy"
+    ],
+    "name": "Postal2 Copy"
   },
   "name:pro-evolution-soccer": {
     "config_count": 1,
