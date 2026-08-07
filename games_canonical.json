@@ -8215,7 +8215,7 @@
     "name": "Prince of Persia\u00ae"
   },
   "200260": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "G52_MC2",
@@ -8246,6 +8246,11 @@
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "G68_MC4",
@@ -16319,7 +16324,7 @@
     "name": "Heatwave"
   },
   "298110": {
-    "config_count": 22,
+    "config_count": 24,
     "devices": [
       {
         "d": "G720_MC7",
@@ -16365,6 +16370,11 @@
         "d": "Adreno__TM__740",
         "m": "S916B",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "2201116PG",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__750",
@@ -17072,7 +17082,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 29,
+    "config_count": 28,
     "devices": [
       {
         "d": "G78",
@@ -17138,8 +17148,7 @@
     "folders": [
       "BlackOps",
       "Call_of_Duty_3______________________________________________",
-      "Call_of_Duty___Black_Ops_III",
-      "Call_of_Duty_-_Black_Ops"
+      "Call_of_Duty___Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
   },
@@ -20385,7 +20394,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 20,
+    "config_count": 18,
     "devices": [
       {
         "d": "G57_MC2",
@@ -20430,8 +20439,7 @@
     ],
     "folders": [
       "Atla",
-      "TombRaider",
-      "Tomb_Raider"
+      "TombRaider"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -22085,7 +22093,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 153,
+    "config_count": 155,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23487,10 +23495,17 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
   "42700": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
     "folders": [
-      "Call_of_Duty_Black_Ops"
+      "Call_of_Duty_Black_Ops",
+      "Call_of_Duty_-_Black_Ops"
     ],
     "name": "Call of Duty\u00ae: Black Ops"
   },
@@ -23777,7 +23792,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23786,7 +23801,8 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4"
+      "Call_of_Duty_4",
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -28249,7 +28265,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 20,
+    "config_count": 19,
     "devices": [
       {
         "d": "G720_MC7",
@@ -28296,8 +28312,7 @@
       "CALL_OF_DUTY_4_Modern_Warfare",
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
-      "iw3sp",
-      "Call_of_Duty_4_Modern_Warfare"
+      "iw3sp"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
