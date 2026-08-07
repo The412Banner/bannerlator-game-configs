@@ -15161,6 +15161,14 @@
     ],
     "name": "Hospital 666"
   },
+  "2787680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Candy Rangers"
+  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -15244,14 +15252,6 @@
       "Battlefield__6"
     ],
     "name": "Battlefield\u2122 6"
-  },
-  "2812820": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Pape Rangers"
   },
   "2815070": {
     "config_count": 2,
@@ -23859,7 +23859,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23868,7 +23868,8 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4"
+      "Call_of_Duty_4",
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -28339,7 +28340,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 20,
+    "config_count": 19,
     "devices": [
       {
         "d": "G720_MC7",
@@ -28386,8 +28387,7 @@
       "CALL_OF_DUTY_4_Modern_Warfare",
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
-      "iw3sp",
-      "Call_of_Duty_4_Modern_Warfare"
+      "iw3sp"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
@@ -31773,7 +31773,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2350,
+    "config_count": 2351,
     "devices": [
       {
         "d": "G52_MC2",
@@ -32221,11 +32221,6 @@
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
       },
       {
-        "d": "Adreno__TM__610",
-        "m": "23028RA60L",
-        "s": "Adreno (TM) 610"
-      },
-      {
         "d": "Adreno__TM__506",
         "m": "motorola_one",
         "s": "Adreno (TM) 506"
@@ -32611,6 +32606,11 @@
         "s": "Mali-G720 MC7"
       },
       {
+        "d": "Adreno__TM__610",
+        "m": "23028RA60L",
+        "s": "Adreno (TM) 610"
+      },
+      {
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
@@ -32783,7 +32783,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 166,
+    "config_count": 167,
     "devices": [
       {
         "d": "G615_MC2",
