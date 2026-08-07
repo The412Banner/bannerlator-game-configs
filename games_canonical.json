@@ -8557,7 +8557,7 @@
     "name": "GoreBox"
   },
   "203140": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "G610_MC3",
@@ -8568,11 +8568,6 @@
         "d": "Adreno__TM__610",
         "m": "25062RN2DL",
         "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
       },
       {
         "d": "Immortalis_MC12",
@@ -8608,6 +8603,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       }
     ],
     "folders": [
@@ -10825,6 +10825,20 @@
       "Insurgency"
     ],
     "name": "Insurgency"
+  },
+  "2229870": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
+      }
+    ],
+    "folders": [
+      "Command_and_Conquer_Generals_Deluxe_Edition"
+    ],
+    "name": "Command & Conquer\u2122 Generals"
   },
   "22300": {
     "config_count": 17,
@@ -23786,7 +23800,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23795,7 +23809,8 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4"
+      "Call_of_Duty_4",
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -28258,7 +28273,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 20,
+    "config_count": 19,
     "devices": [
       {
         "d": "G720_MC7",
@@ -28305,8 +28320,7 @@
       "CALL_OF_DUTY_4_Modern_Warfare",
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
-      "iw3sp",
-      "Call_of_Duty_4_Modern_Warfare"
+      "iw3sp"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
@@ -31659,7 +31673,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2338,
+    "config_count": 2339,
     "devices": [
       {
         "d": "G52_MC2",
