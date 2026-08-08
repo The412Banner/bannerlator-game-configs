@@ -16460,7 +16460,7 @@
     "name": "Heatwave"
   },
   "298110": {
-    "config_count": 26,
+    "config_count": 25,
     "devices": [
       {
         "d": "G720_MC7",
@@ -16523,7 +16523,6 @@
       "Far_Cry__4",
       "Far_Cry_____________________________________________________",
       "far_cry",
-      "FarCry",
       "FarCry4",
       "Far_Cry_4"
     ],
@@ -17864,7 +17863,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1187,
+    "config_count": 1188,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24014,7 +24013,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -24023,7 +24022,8 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4"
+      "Call_of_Duty_4",
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -26012,7 +26012,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -26033,12 +26033,18 @@
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
       "Far_Cry_5",
       "Far_Cry_5___________________________________________________",
-      "Far_Cry__5"
+      "Far_Cry__5",
+      "FarCry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -28487,7 +28493,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 21,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -28535,7 +28541,6 @@
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
       "iw3sp",
-      "Call_of_Duty_4_Modern_Warfare",
       "Call_of_Duty__4__Modern_Warfare___2007_"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
@@ -30690,6 +30695,14 @@
     ],
     "name": "Bmlauncher"
   },
+  "name:bootstrappackagedgame": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "BootstrapPackagedGame"
+    ],
+    "name": "Bootstrappackagedgame"
+  },
   "name:castlevanialosue": {
     "config_count": 1,
     "devices": [],
@@ -31964,7 +31977,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2368,
+    "config_count": 2370,
     "devices": [
       {
         "d": "G52_MC2",
@@ -32622,11 +32635,6 @@
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
       },
       {
-        "d": "G52",
-        "m": "Mali",
-        "s": "Mali-G52"
-      },
-      {
         "d": "G72",
         "m": "Mali",
         "s": "Mali-G72"
@@ -32742,11 +32750,6 @@
         "s": "Mali-G615 MC6"
       },
       {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "A057M",
         "s": "Adreno (TM) 610"
@@ -32800,6 +32803,16 @@
         "d": "Adreno__TM__610",
         "m": "moto_g_9__play",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "G52",
+        "m": "Mali",
+        "s": "Mali-G52"
       },
       {
         "d": "Adreno__TM__740",
