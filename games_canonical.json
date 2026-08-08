@@ -15199,14 +15199,6 @@
     ],
     "name": "Hospital 666"
   },
-  "2787680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Candy Rangers"
-  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -15290,6 +15282,14 @@
       "Battlefield__6"
     ],
     "name": "Battlefield\u2122 6"
+  },
+  "2812820": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Pape Rangers"
   },
   "2815070": {
     "config_count": 2,
@@ -16425,7 +16425,7 @@
     "name": "Heatwave"
   },
   "298110": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "G720_MC7",
@@ -16488,6 +16488,7 @@
       "Far_Cry__4",
       "Far_Cry_____________________________________________________",
       "far_cry",
+      "FarCry",
       "FarCry4",
       "Far_Cry_4"
     ],
@@ -23913,7 +23914,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23922,7 +23923,8 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4"
+      "Call_of_Duty_4",
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -25915,7 +25917,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 10,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -25936,18 +25938,12 @@
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
       "Far_Cry_5",
       "Far_Cry_5___________________________________________________",
-      "Far_Cry__5",
-      "FarCry"
+      "Far_Cry__5"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -28393,7 +28389,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 21,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -28441,7 +28437,6 @@
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
       "iw3sp",
-      "Call_of_Duty_4_Modern_Warfare",
       "Call_of_Duty__4__Modern_Warfare___2007_"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
