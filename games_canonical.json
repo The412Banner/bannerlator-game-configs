@@ -1336,7 +1336,7 @@
     "name": "EVERSPACE\u2122 2"
   },
   "113200": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -2073,7 +2073,7 @@
     "name": "WorldBox - God Simulator"
   },
   "1209490": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G52_MC2",
@@ -8183,7 +8183,7 @@
     "name": "Digimon Story Time Stranger"
   },
   "19900": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -8214,11 +8214,17 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "23117RK66C",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "Far_Cry_2",
-      "Far_Cry__2"
+      "Far_Cry__2",
+      "farcry2"
     ],
     "name": "Far Cry\u00ae 2"
   },
@@ -16851,6 +16857,14 @@
     ],
     "name": "INSIDE"
   },
+  "3044350": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Nazi_Zombies__Portable"
+    ],
+    "name": "Nazi Zombies"
+  },
   "304650": {
     "config_count": 1,
     "devices": [],
@@ -17207,7 +17221,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 30,
+    "config_count": 31,
     "devices": [
       {
         "d": "G78",
@@ -27931,7 +27945,7 @@
     "name": "Overcooked! 2"
   },
   "729040": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "Borderlands_Game_of_the_Year_Enhanced"
@@ -29188,7 +29202,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 94,
+    "config_count": 95,
     "devices": [
       {
         "d": "s5e8855",
@@ -29269,11 +29283,6 @@
         "d": "Adreno__TM__830",
         "m": "NX789S_V1B",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
       },
       {
         "d": "Adreno__TM__740",
@@ -29359,6 +29368,11 @@
         "d": "Adreno__TM__720",
         "m": "NX9",
         "s": "Adreno (TM) 720"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       },
       {
         "d": "Adreno__TM__840",
@@ -31887,7 +31901,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2359,
+    "config_count": 2361,
     "devices": [
       {
         "d": "G52_MC2",
@@ -32715,14 +32729,14 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "moto_g_30_",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
