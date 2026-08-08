@@ -21305,7 +21305,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 27,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -26143,7 +26143,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 43,
+    "config_count": 41,
     "devices": [
       {
         "d": "G57",
@@ -26244,8 +26244,6 @@
     "folders": [
       "DARK_SOULS__REMASTERED",
       "DARK_SOULS___REMASTERED",
-      "DARKSOULS",
-      "DarkSoulsRemastered",
       "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
@@ -33257,12 +33255,17 @@
     "name": "Pes2014"
   },
   "name:pes2018": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__840",
         "m": "AN00",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S918B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
