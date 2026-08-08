@@ -20008,6 +20008,14 @@
     ],
     "name": "Ghost Song"
   },
+  "34830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper: Ghost Warrior"
+  },
   "348470": {
     "config_count": 13,
     "devices": [
@@ -21136,14 +21144,6 @@
       "Ori"
     ],
     "name": "The Seven Deadly Sins: Origin"
-  },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
@@ -28878,6 +28878,14 @@
     ],
     "name": "Space Hulk: Deathwing Enhanced Edition - Skulls for the Skull Throne DLC"
   },
+  "846110": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "The_friends_of_Ringo_Ishikawa"
+    ],
+    "name": "The Friends Of Ringo Ishikawa"
+  },
   "846770": {
     "config_count": 1,
     "devices": [
@@ -31817,7 +31825,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2354,
+    "config_count": 2356,
     "devices": [
       {
         "d": "G52_MC2",
@@ -32197,11 +32205,6 @@
       {
         "d": "Adreno__TM__610",
         "m": "CPH2727",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g_30_",
         "s": "Adreno (TM) 610"
       },
       {
@@ -32645,13 +32648,18 @@
         "s": "Adreno (TM) 610"
       },
       {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
+      },
+      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__610",
-        "m": "23129RA5FL",
+        "m": "moto_g_30_",
         "s": "Adreno (TM) 610"
       },
       {
