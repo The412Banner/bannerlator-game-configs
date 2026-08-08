@@ -1900,7 +1900,7 @@
     "name": "A Plague Tale: Requiem"
   },
   "1186430": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G52_MC2",
@@ -1909,7 +1909,8 @@
       }
     ],
     "folders": [
-      "IGI"
+      "IGI",
+      "igi"
     ],
     "name": "I.G.I. Origins"
   },
@@ -30598,20 +30599,6 @@
       "BmLauncher"
     ],
     "name": "Bmlauncher"
-  },
-  "name:burnout-paradise-the-ultimate-box": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
-      }
-    ],
-    "folders": [
-      "Burnout_Paradise_The_Ultimate_Box"
-    ],
-    "name": "Burnout Paradise The Ultimate Box"
   },
   "name:castlevanialosue": {
     "config_count": 1,
