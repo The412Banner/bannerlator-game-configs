@@ -15781,7 +15781,7 @@
     "name": "Rune Factory: Guardians of Azuma"
   },
   "286690": {
-    "config_count": 27,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -19886,20 +19886,6 @@
     ],
     "name": "Quarantine Zone: The Last Check"
   },
-  "341960": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "F731B",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "DP"
-    ],
-    "name": "DP Animation Maker"
-  },
   "3429280": {
     "config_count": 2,
     "devices": [
@@ -22976,7 +22962,7 @@
     "name": "Godot Engine"
   },
   "4048520": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "Adreno__TM__722",
@@ -23012,6 +22998,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "F731B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -24013,7 +24004,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -24022,8 +24013,7 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4",
-      "Call_of_Duty_4_Modern_Warfare"
+      "Call_of_Duty_4"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -28487,7 +28477,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "G720_MC7",
@@ -28535,6 +28525,7 @@
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
       "iw3sp",
+      "Call_of_Duty_4_Modern_Warfare",
       "Call_of_Duty__4__Modern_Warfare___2007_"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
