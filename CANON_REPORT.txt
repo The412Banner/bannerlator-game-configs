@@ -1,16 +1,16 @@
-raw folders: 2363   total configs: 12054
-non-game (filtered out): 125
-MERGED canonical games (have appid): 1676
-  folders collapsed by merge: 504
-still-unresolved real games (no appid): 528
-GAME-COUNT RATE: 1676/2204 = 76%  (vs 67% raw baseline)
-CONFIG-COVERAGE (matters for matching): 11615/12520 = 93%
+raw folders: 0   total configs: 0
+non-game (filtered out): 0
+MERGED canonical games (have appid): 514
+  folders collapsed by merge: 100
+still-unresolved real games (no appid): 0
+GAME-COUNT RATE: 514/514 = 100%  (vs 67% raw baseline)
+CONFIG-COVERAGE (matters for matching): 862/862 = 100%
 top-merged examples:
-  appid 1665460: 19 folders, 85 configs, 23 devices  ['PES', 'PES_13', 'PES_2013']
-  appid name:pes-2013: 16 folders, 2356 configs, 173 devices  ['PES2013', 'PES_2013_Fix', 'PES_2013_LEND_RIO_']
-  appid 3240220: 15 folders, 1182 configs, 202 devices  ['GTA_4', 'Grand_Theft_Auto_5', 'Grand_Theft_Auto_V']
-  appid 1506830: 14 folders, 75 configs, 29 devices  ['FIFA_06_____________________________________________________', 'FIFA_13', 'FIFA_14']
-  appid 1262560: 13 folders, 46 configs, 17 devices  ['Need_For_Speed__Most_Wanted__2005_', 'Need_for_Speed_-_Most_Wanted________________________________', 'Need_for_Speed_Most_Wanted']
-  appid 374320: 8 folders, 29 configs, 15 devices  ['DARKSOULS', 'DARK_SOULS', 'DARK_SOULS__III']
-  appid 298110: 7 folders, 26 configs, 11 devices  ['Far_Cry_', 'Far_Cry__4', 'Far_Cry_____________________________________________________']
-  appid 447040: 7 folders, 45 configs, 20 devices  ['WatchDogs2', 'Watch_Dogs', 'Watch_Dogs_']
+  appid 3240220: 8 folders, 28 configs, 9 devices  ['GTA5', 'GTA_V', 'Grand_Theft_Auto_5']
+  appid 374320: 7 folders, 9 configs, 5 devices  ['DARKSOULS', 'DARK_SOULS_III', 'DARK_SOULS__III']
+  appid 33230: 5 folders, 10 configs, 4 devices  ['Assassin_s_Creed_2', 'Assassin_s_Creed_II', 'AssassinsCreedII']
+  appid 1262560: 5 folders, 6 configs, 4 devices  ['Need_For_Speed_Most_Wanted_', 'Need_for_Speed_-_Most_Wanted', 'Need_for_Speed__Most_Wanted_2005']
+  appid 242050: 4 folders, 7 configs, 1 devices  ['AC4BFSP', 'Assassin_s_Creed_4_Black_Flag', 'Assassin_s_Creed_IV_Black_Flag']
+  appid 329050: 4 folders, 6 configs, 2 devices  ['DEVIL_MAY_CRY_4', 'DevilMayCry4SpecialEdition', 'Devil_May_Cry_4']
+  appid 221040: 4 folders, 4 configs, 4 devices  ['RESIDENT_EVIL_6', 'Resident_Evil_6', 'Resident_evil_6']
+  appid 883710: 4 folders, 9 configs, 4 devices  ['Resident_Evil_2', 'Resident_Evil_2__2019_', 'Resident_Evil_2__DX11_']
