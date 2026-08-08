@@ -30525,7 +30525,13 @@
   },
   "name:blazblue-central-fiction": {
     "config_count": 1,
-    "devices": [],
+    "devices": [
+      {
+        "d": "Adreno__TM__710",
+        "m": "A366B",
+        "s": "Adreno (TM) 710"
+      }
+    ],
     "folders": [
       "BlazBlue_Central_Fiction"
     ],
