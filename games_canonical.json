@@ -4092,14 +4092,6 @@
     ],
     "name": "DRACU-RIOT!"
   },
-  "1340720": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "StateOfDecay"
-    ],
-    "name": "State of Decay 3"
-  },
   "1343240": {
     "config_count": 1,
     "devices": [],
@@ -20031,6 +20023,14 @@
     ],
     "name": "Ghost Song"
   },
+  "34830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper: Ghost Warrior"
+  },
   "348470": {
     "config_count": 13,
     "devices": [
@@ -21148,14 +21148,6 @@
       "Ori"
     ],
     "name": "The Seven Deadly Sins: Origin"
-  },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
@@ -25193,7 +25185,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -25217,7 +25209,8 @@
       }
     ],
     "folders": [
-      "State_of_Decay_2__Juggernaut_Edition"
+      "State_of_Decay_2__Juggernaut_Edition",
+      "StateOfDecay"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
   },
@@ -27739,7 +27732,7 @@
     "name": "SUPER ARMY OF TENTACLES 3, Winter Outfit Pack I: War of the Old Gods"
   },
   "699130": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -31880,7 +31873,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2358,
+    "config_count": 2359,
     "devices": [
       {
         "d": "G52_MC2",
@@ -33917,6 +33910,20 @@
       "Wolverine"
     ],
     "name": "Wolverine"
+  },
+  "name:wwzretail": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "TB322FC",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "wwzRetail"
+    ],
+    "name": "Wwzretail"
   },
   "name:x-men-origins-wolverine": {
     "config_count": 1,
