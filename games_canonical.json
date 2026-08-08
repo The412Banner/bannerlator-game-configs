@@ -1136,7 +1136,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1145,8 +1145,7 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid",
-      "Rangers"
+      "BattleForTheGrid"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -4079,14 +4078,6 @@
       "DRACU-RIOT_"
     ],
     "name": "DRACU-RIOT!"
-  },
-  "1340720": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "StateOfDecay"
-    ],
-    "name": "State of Decay 3"
   },
   "1343240": {
     "config_count": 1,
@@ -9866,7 +9857,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 87,
+    "config_count": 88,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -10815,7 +10806,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 11,
+    "config_count": 10,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -10839,8 +10830,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -15080,7 +15070,7 @@
     "name": "GOALS"
   },
   "2753970": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -15200,6 +15190,14 @@
       "Hospital_666"
     ],
     "name": "Hospital 666"
+  },
+  "2787680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Candy Rangers"
   },
   "2796520": {
     "config_count": 1,
@@ -15834,7 +15832,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "G615_MC2",
@@ -15874,7 +15872,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -16418,7 +16417,7 @@
     "name": "Heatwave"
   },
   "298110": {
-    "config_count": 26,
+    "config_count": 25,
     "devices": [
       {
         "d": "G720_MC7",
@@ -16481,7 +16480,6 @@
       "Far_Cry__4",
       "Far_Cry_____________________________________________________",
       "far_cry",
-      "FarCry",
       "FarCry4",
       "Far_Cry_4"
     ],
@@ -22547,7 +22545,7 @@
     "name": "MDS: Metro dispatcher simulator"
   },
   "391720": {
-    "config_count": 30,
+    "config_count": 31,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -22603,6 +22601,11 @@
         "d": "Adreno__TM__642L",
         "m": "22101320G",
         "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "A366E",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
@@ -25167,7 +25170,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -25191,7 +25194,8 @@
       }
     ],
     "folders": [
-      "State_of_Decay_2__Juggernaut_Edition"
+      "State_of_Decay_2__Juggernaut_Edition",
+      "StateOfDecay"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
   },
@@ -25905,7 +25909,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -25926,12 +25930,18 @@
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
       "Far_Cry_5",
       "Far_Cry_5___________________________________________________",
-      "Far_Cry__5"
+      "Far_Cry__5",
+      "FarCry"
     ],
     "name": "Far Cry\u00ae 5"
   },
