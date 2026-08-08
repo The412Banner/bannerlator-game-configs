@@ -4923,7 +4923,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 75,
+    "config_count": 77,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -9215,7 +9215,7 @@
     "name": "Street Fighter X Tekken"
   },
   "209160": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -9238,14 +9238,14 @@
         "s": "Adreno (TM) 740"
       },
       {
-        "d": "Adreno__TM__840",
-        "m": "25102PCBEG",
-        "s": "Adreno (TM) 840"
-      },
-      {
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "25102PCBEG",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
@@ -17443,6 +17443,14 @@
     ],
     "name": "METAL SLUG X"
   },
+  "3126330": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Kiosk"
+    ],
+    "name": "Kiosk"
+  },
   "3127280": {
     "config_count": 2,
     "devices": [],
@@ -19877,6 +19885,20 @@
       "Quarantine_Zone__The_Last_Check"
     ],
     "name": "Quarantine Zone: The Last Check"
+  },
+  "341960": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "F731B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "DP"
+    ],
+    "name": "DP Animation Maker"
   },
   "3429280": {
     "config_count": 2,
@@ -22954,7 +22976,7 @@
     "name": "Godot Engine"
   },
   "4048520": {
-    "config_count": 15,
+    "config_count": 14,
     "devices": [
       {
         "d": "Adreno__TM__722",
@@ -22990,11 +23012,6 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "F731B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -23996,7 +24013,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -24005,7 +24022,8 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4"
+      "Call_of_Duty_4",
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -28469,7 +28487,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 21,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -28517,7 +28535,6 @@
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
       "iw3sp",
-      "Call_of_Duty_4_Modern_Warfare",
       "Call_of_Duty__4__Modern_Warfare___2007_"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
