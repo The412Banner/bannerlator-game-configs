@@ -1144,7 +1144,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1153,8 +1153,7 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid",
-      "Rangers"
+      "BattleForTheGrid"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -10307,7 +10306,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 94,
+    "config_count": 95,
     "devices": [
       {
         "d": "S938B",
@@ -15258,6 +15257,14 @@
     ],
     "name": "Hospital 666"
   },
+  "2787680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Candy Rangers"
+  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -16451,7 +16458,7 @@
     "name": "Heatwave"
   },
   "298110": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "G720_MC7",
@@ -16514,6 +16521,7 @@
       "Far_Cry__4",
       "Far_Cry_____________________________________________________",
       "far_cry",
+      "FarCry",
       "FarCry4",
       "Far_Cry_4"
     ],
@@ -21144,7 +21152,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 13,
+    "config_count": 12,
     "devices": [
       {
         "d": "G68_MC4",
@@ -21160,22 +21168,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "2211133C",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE",
-      "Ori"
+      "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -23867,6 +23864,25 @@
     ],
     "name": "Bruisers 2D Boxing Demo"
   },
+  "435150": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Ori"
+    ],
+    "name": "Divinity: Original Sin 2 - Definitive Edition"
+  },
   "4355320": {
     "config_count": 13,
     "devices": [
@@ -25978,7 +25994,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 10,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -25999,18 +26015,12 @@
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
       "Far_Cry_5",
       "Far_Cry_5___________________________________________________",
-      "Far_Cry__5",
-      "FarCry"
+      "Far_Cry__5"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -27245,7 +27255,7 @@
     "name": "Jurassic World Evolution"
   },
   "648800": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "G720_MC7",
@@ -27261,6 +27271,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "moto_g75_5G",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
