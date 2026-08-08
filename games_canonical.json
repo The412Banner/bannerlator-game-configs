@@ -738,6 +738,14 @@
     ],
     "name": "Morningdew Farms: A Gay Farming Game"
   },
+  "1070940": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Aster"
+    ],
+    "name": "Aster"
+  },
   "107410": {
     "config_count": 1,
     "devices": [],
@@ -12245,7 +12253,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 14,
+    "config_count": 12,
     "devices": [
       {
         "d": "G720_MC7",
@@ -12266,21 +12274,10 @@
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II",
-      "DarkSoulsII"
+      "DARK_SOULS__II"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -13736,7 +13733,7 @@
     "name": "Desktop Explorer"
   },
   "2527500": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "G57",
@@ -13764,11 +13761,6 @@
         "s": "Adreno (TM) 825"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
         "m": "S721B",
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
@@ -13777,6 +13769,11 @@
         "d": "Adreno__TM__642L",
         "m": "A528B",
         "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -16454,7 +16451,7 @@
     "name": "Heatwave"
   },
   "298110": {
-    "config_count": 26,
+    "config_count": 25,
     "devices": [
       {
         "d": "G720_MC7",
@@ -16517,7 +16514,6 @@
       "Far_Cry__4",
       "Far_Cry_____________________________________________________",
       "far_cry",
-      "FarCry",
       "FarCry4",
       "Far_Cry_4"
     ],
@@ -17842,7 +17838,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1185,
+    "config_count": 1187,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -19902,6 +19898,20 @@
     ],
     "name": "That's not my Neighbor"
   },
+  "3440580": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
+      }
+    ],
+    "folders": [
+      "Agony_______________________________________________________"
+    ],
+    "name": "Agony Increment"
+  },
   "3441460": {
     "config_count": 1,
     "devices": [
@@ -21329,7 +21339,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 27,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -21392,6 +21402,16 @@
         "s": "Adreno (TM) 735"
       },
       {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
+      },
+      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -21403,6 +21423,7 @@
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
       "DARK_SOULS_III",
+      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -25957,7 +25978,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -25978,12 +25999,18 @@
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
       "Far_Cry_5",
       "Far_Cry_5___________________________________________________",
-      "Far_Cry__5"
+      "Far_Cry__5",
+      "FarCry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -31904,7 +31931,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2363,
+    "config_count": 2367,
     "devices": [
       {
         "d": "G52_MC2",
@@ -32627,11 +32654,6 @@
         "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
       },
       {
-        "d": "Adreno__TM__610",
-        "m": "moto_g32",
-        "s": "Adreno (TM) 610"
-      },
-      {
         "d": "Adreno__TM__619",
         "m": "moto_g84_5G",
         "s": "Adreno (TM) 619"
@@ -32728,11 +32750,6 @@
       },
       {
         "d": "Adreno__TM__610",
-        "m": "23129RA5FL",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__610",
         "m": "moto_g_30_",
         "s": "Adreno (TM) 610"
       },
@@ -32740,6 +32757,16 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g32",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__740",
