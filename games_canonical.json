@@ -12237,7 +12237,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 14,
+    "config_count": 12,
     "devices": [
       {
         "d": "G720_MC7",
@@ -12258,21 +12258,10 @@
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II",
-      "DarkSoulsII"
+      "DARK_SOULS__II"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -21320,7 +21309,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 27,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -21383,6 +21372,16 @@
         "s": "Adreno (TM) 735"
       },
       {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
+      },
+      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -21394,6 +21393,7 @@
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
       "DARK_SOULS_III",
+      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -31548,6 +31548,20 @@
     ],
     "name": "My Ditzy Mom Got Picked Up By A Playboy At The Beach"
   },
+  "name:mystery-case-files-dire-grove": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      }
+    ],
+    "folders": [
+      "Mystery_Case_Files_-_Dire_Grove"
+    ],
+    "name": "Mystery Case Files Dire Grove"
+  },
   "name:nba2k14": {
     "config_count": 4,
     "devices": [
@@ -33918,20 +33932,6 @@
       "Wolverine"
     ],
     "name": "Wolverine"
-  },
-  "name:wwzretail": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "TB322FC",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "wwzRetail"
-    ],
-    "name": "Wwzretail"
   },
   "name:x-men-origins-wolverine": {
     "config_count": 1,
