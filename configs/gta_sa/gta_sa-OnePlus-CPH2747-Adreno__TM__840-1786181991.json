@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "OnePlus CPH2747",
+    "soc": "Adreno (TM) 840",
+    "bh_version": "2.9.7",
+    "upload_token": "2b40f8c71a289a6e",
+    "settings_count": 10,
+    "components_count": 4
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"1.10.3-0\"}",
+    "pc_ls_VK3k": "{\"name\":\"None\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"Mesa Turnip v26.3.0-20260724-r4-A8xx\"}",
+    "pc_set_constant_95": "{\"name\":\"2508\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"Proton-9.0-x86_64-0\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-gamenative",
+    "pc_ls_AUDIO_DRIVER": "1",
+    "pc_ls_update_enable_xinput": true,
+    "pc_ls_environment_variable": "WINEDLLOVERRIDES=version=n,b;winmm=n,b;dinput=n,b;dinput8=n,b;dsound=n,b;xinput1_3=n,b;msacm32=n,b;dbghelp=n,b",
+    "bl_ext": {
+      "dxwrapper": "dxvk+vkd3d",
+      "screenSize": "1584x720",
+      "renderer": "vulkan",
+      "sfCompatMode": "1",
+      "fullscreenMode": "3",
+      "frameGenEngine": "lsfg",
+      "native": "false",
+      "swapRB": "false",
+      "presentMode": "fifo",
+      "fpsLimiterEnabled": "1",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "reshadeMode": "solo",
+      "reshadeEffect": "None",
+      "emulator": "fexcore",
+      "box64Version": "Box64-0.4.2-0",
+      "box64Preset": "PERFORMANCE",
+      "fexcorePreset": "INTERMEDIATE",
+      "cpuList": "2,4,5,6,7",
+      "startupSelection": "2",
+      "inputType": "4",
+      "exclusiveXInput": "1",
+      "simTouchScreen": "1",
+      "numControllers": "1",
+      "wincomponents": "direct3d=1,directsound=1,directmusic=1,directshow=0,directplay=0,xaudio=1,vcrun2010=1",
+      "lc_all": "en_ES.UTF-8",
+      "autoCloseOnExit": "1",
+      "fpsCounterConfig": "hudStyle=classic,hudMode=horizontal,showFPS=0,showFPSGraph=0,showCPUUsage=0,showCPULoad=0,showGPULoad=0,showRAM=0,showPower=0,showTemp=0,showBatteryTemp=0,showEngine=0,showRenderer=0,showGpuModel=0,hudDualBattery=0,showGpuTemp=0,showBattery=0,showRuntime=0,showClock=0,showCPUGraph=0,showGPUGraph=0,hudSkin=classic,hudColor=mid,hudOutline=40,hudOutlineAccent=1,hudScale=100,hudOpacity=80,hudTransparency=0",
+      "gyroEnabled": "0",
+      "gyroTarget": "0",
+      "gyroActivator": "0",
+      "gyroActivationMode": "0",
+      "gyroMode": "0",
+      "gyroSensitivity": "2.0",
+      "gyroInvertX": "0",
+      "gyroInvertY": "0",
+      "maxGameRefreshRate": "0",
+      "unlockGameRefreshRate": "1",
+      "frameGenModel": "0",
+      "vibrationMode": "1",
+      "vibrationIntensity": "100",
+      "scalingMode": "0",
+      "dxwrapperConfig": "version=1.10.3-0,framerate=30,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=9_3,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfigFile="
+    }
+  },
+  "components": [
+    {
+      "name": "1.10.3-0",
+      "type": "DXVK"
+    },
+    {
+      "name": "None",
+      "type": "VKD3D"
+    },
+    {
+      "name": "Mesa Turnip v26.3.0-20260724-r4-A8xx",
+      "type": "GPU"
+    },
+    {
+      "name": "2508",
+      "type": "FEXCore"
+    }
+  ]
+}
