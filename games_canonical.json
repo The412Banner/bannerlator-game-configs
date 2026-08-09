@@ -6954,7 +6954,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 137,
+    "config_count": 138,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -7140,6 +7140,11 @@
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "CPH2691",
+        "s": "Adreno (TM) 750"
       },
       {
         "d": "Adreno__TM__830",
@@ -17089,7 +17094,7 @@
     "name": "MotoGP\u212225"
   },
   "307780": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -17140,6 +17145,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "CPH2573",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -24900,7 +24910,7 @@
     "name": "Speak Demo"
   },
   "48190": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "MT6789",
@@ -24936,11 +24946,17 @@
         "d": "Adreno__TM__618",
         "m": "CPH2159",
         "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "A725F",
+        "s": "Adreno (TM) 618"
       }
     ],
     "folders": [
       "Assassin_s_Creed__Brotherhood",
-      "Assassin_s_creed_brotherhood"
+      "Assassin_s_creed_brotherhood",
+      "AssassinsCreedBrotherhood"
     ],
     "name": "Assassin\u2019s Creed\u00ae Brotherhood"
   },
