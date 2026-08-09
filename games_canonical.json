@@ -1948,6 +1948,20 @@
     ],
     "name": "Acc"
   },
+  "1190000": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__735",
+        "m": "W09",
+        "s": "Adreno (TM) 735"
+      }
+    ],
+    "folders": [
+      "Car_Mechanic_Simulator_2021"
+    ],
+    "name": "Car Mechanic Simulator 2021"
+  },
   "1196590": {
     "config_count": 32,
     "devices": [
@@ -3912,7 +3926,7 @@
     "name": "Nioh 2 \u2013 The Complete Edition"
   },
   "1326470": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "G615_MC6",
@@ -3921,7 +3935,8 @@
       }
     ],
     "folders": [
-      "Sons_Of_The_Forest"
+      "Sons_Of_The_Forest",
+      "SonsOfTheForest"
     ],
     "name": "Sons Of The Forest"
   },
@@ -14521,7 +14536,7 @@
     "name": "Subnautica"
   },
   "2651280": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -14532,6 +14547,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "NX659J",
+        "s": "Adreno (TM) 650"
       },
       {
         "d": "Adreno__TM__840",
@@ -19661,7 +19681,7 @@
     "name": "Arma 2 Free"
   },
   "339034": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -19752,6 +19772,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "RMX2170",
+        "s": "Adreno (TM) 618"
       }
     ],
     "folders": [
@@ -19924,20 +19949,6 @@
       "Quarantine_Zone__The_Last_Check"
     ],
     "name": "Quarantine Zone: The Last Check"
-  },
-  "341960": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "F731B",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "DP"
-    ],
-    "name": "DP Animation Maker"
   },
   "3429280": {
     "config_count": 2,
@@ -20612,7 +20623,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 19,
+    "config_count": 22,
     "devices": [
       {
         "d": "G57_MC2",
@@ -20662,7 +20673,8 @@
     ],
     "folders": [
       "Atla",
-      "TombRaider"
+      "TombRaider",
+      "Tomb_Raider"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -22287,7 +22299,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 158,
+    "config_count": 155,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23016,7 +23028,7 @@
     "name": "Godot Engine"
   },
   "4048520": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "Adreno__TM__722",
@@ -23052,6 +23064,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "F731B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -25345,7 +25362,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "50130": {
-    "config_count": 23,
+    "config_count": 24,
     "devices": [
       {
         "d": "MT6781",
@@ -25401,6 +25418,11 @@
         "d": "Adreno__TM__830",
         "m": "NX789S_V1B",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__A32",
+        "m": "S928B",
+        "s": "Adreno (TM) A32"
       }
     ],
     "folders": [
@@ -32025,7 +32047,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2376,
+    "config_count": 2381,
     "devices": [
       {
         "d": "G52_MC2",
@@ -32768,11 +32790,6 @@
         "s": "PowerVR Rogue GE8320"
       },
       {
-        "d": "G68",
-        "m": "Mali",
-        "s": "Mali-G68"
-      },
-      {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
@@ -32813,11 +32830,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "23129RA5FL",
         "s": "Adreno (TM) 610"
@@ -32848,11 +32860,6 @@
         "s": "Adreno (TM) 825"
       },
       {
-        "d": "Adreno__TM__619",
-        "m": "moto_g84_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "PowerVR_Rogue_GE8320",
         "m": "A042M",
         "s": "PowerVR Rogue GE8320"
@@ -32861,6 +32868,21 @@
         "d": "Adreno__TM__710",
         "m": "23122PCD1G",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g84_5G",
+        "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
       },
       {
         "d": "Adreno__TM__740",
