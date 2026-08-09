@@ -12814,7 +12814,7 @@
     "name": "Horizon Forbidden West\u2122 Complete Edition"
   },
   "242050": {
-    "config_count": 77,
+    "config_count": 78,
     "devices": [
       {
         "d": "MT6789",
@@ -12947,11 +12947,6 @@
         "s": "ANGLE ((Samsung Xclipse 950) on Vulkan 1.3.279)"
       },
       {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      },
-      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
@@ -12975,6 +12970,11 @@
         "d": "Adreno__TM__735",
         "m": "24069PC21I",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       },
       {
         "d": "Adreno__TM__750",
@@ -15576,7 +15576,7 @@
     "name": "BeamNG.drive"
   },
   "2856190": {
-    "config_count": 96,
+    "config_count": 97,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -15627,11 +15627,6 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
-      },
-      {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
       },
       {
         "d": "Adreno__TM__840",
@@ -15712,6 +15707,11 @@
         "d": "Adreno__TM__610",
         "m": "LX1",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
@@ -29642,7 +29642,7 @@
     "name": "Assassin's Creed\u00ae III Remastered"
   },
   "913670": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G57_MC2",
@@ -29651,7 +29651,8 @@
       }
     ],
     "folders": [
-      "Wow"
+      "Wow",
+      "wow"
     ],
     "name": "Supaplex WOW!"
   },
@@ -33034,7 +33035,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 167,
+    "config_count": 170,
     "devices": [
       {
         "d": "G615_MC2",
@@ -33255,6 +33256,11 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "G998U",
+        "s": "Adreno (TM) 660"
       },
       {
         "d": "Adreno__TM__740",
