@@ -9364,20 +9364,6 @@
     ],
     "name": "Magicraft"
   },
-  "2104870": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "F731B",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "Guardians"
-    ],
-    "name": "Stranded: Alien Dawn - Robots and Guardians"
-  },
   "2108180": {
     "config_count": 2,
     "devices": [
@@ -15784,16 +15770,22 @@
     "name": "ZERO PARADES: For Dead Spies"
   },
   "2864560": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "F731B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
-      "Rune_Factory__Guardians_of_Azuma"
+      "Rune_Factory__Guardians_of_Azuma",
+      "Guardians"
     ],
     "name": "Rune Factory: Guardians of Azuma"
   },
@@ -19895,6 +19887,20 @@
     ],
     "name": "Quarantine Zone: The Last Check"
   },
+  "341960": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "F731B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "DP"
+    ],
+    "name": "DP Animation Maker"
+  },
   "3429280": {
     "config_count": 2,
     "devices": [
@@ -22583,6 +22589,11 @@
     "config_count": 32,
     "devices": [
       {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_5",
         "s": "Adreno (TM) 650"
@@ -22628,11 +22639,6 @@
         "s": "Adreno (TM) 735"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__642L",
         "m": "22101320G",
         "s": "Adreno (TM) 642L"
@@ -22644,8 +22650,8 @@
       }
     ],
     "folders": [
-      "____2016",
-      "2016"
+      "2016",
+      "____2016"
     ],
     "name": "Layers of Fear (2016)"
   },
@@ -22972,7 +22978,7 @@
     "name": "Godot Engine"
   },
   "4048520": {
-    "config_count": 15,
+    "config_count": 14,
     "devices": [
       {
         "d": "Adreno__TM__722",
@@ -23008,11 +23014,6 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "F731B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -26462,8 +26463,8 @@
       }
     ],
     "folders": [
-      "Monster_Hunter__World",
       "MONSTER_HUNTER__WORLD",
+      "Monster_Hunter__World",
       "MONSTER_HUNTER_-_WORLD"
     ],
     "name": "Monster Hunter: World"
@@ -30964,6 +30965,14 @@
       "DyingLightGame_TheBeast_x64_rwdi"
     ],
     "name": "Dyinglightgame Thebeast X64 Rwdi"
+  },
+  "name:dynasty-warriors-4-hyper": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Dynasty_Warriors_4_Hyper"
+    ],
+    "name": "Dynasty Warriors 4 Hyper"
   },
   "name:efootball-2021": {
     "config_count": 44,
