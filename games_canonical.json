@@ -14516,7 +14516,7 @@
     "name": "Subnautica"
   },
   "2651280": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -14542,6 +14542,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
       },
       {
         "d": "Adreno__TM__619",
@@ -23926,7 +23931,7 @@
     "name": "Divinity: Original Sin 2 - Definitive Edition"
   },
   "4355320": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "Adreno__TM__740",
