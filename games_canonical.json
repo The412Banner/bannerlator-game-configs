@@ -387,7 +387,7 @@
     "name": "30XX"
   },
   "1030300": {
-    "config_count": 39,
+    "config_count": 40,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -453,6 +453,11 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
+      },
+      {
+        "d": "Ultra_MC12",
+        "m": "G1",
+        "s": "Mali-G1-Ultra MC12"
       },
       {
         "d": "G610_MC2",
@@ -1144,7 +1149,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1153,7 +1158,8 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid"
+      "BattleForTheGrid",
+      "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -1547,7 +1553,7 @@
     "name": "Horizon Zero Dawn\u2122 Complete Edition"
   },
   "115320": {
-    "config_count": 55,
+    "config_count": 56,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -1815,7 +1821,7 @@
     "name": "FINAL FANTASY"
   },
   "1174180": {
-    "config_count": 38,
+    "config_count": 39,
     "devices": [
       {
         "d": "SM8750P",
@@ -1886,6 +1892,11 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       },
       {
         "d": "Adreno__TM__650",
@@ -5754,14 +5765,6 @@
       "God_of_War__________________________________________________"
     ],
     "name": "God of War"
-  },
-  "1599420": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Rusty Rangers"
   },
   "1604030": {
     "config_count": 1,
@@ -11965,7 +11968,7 @@
     "name": "Sky: Children of the Light"
   },
   "232890": {
-    "config_count": 10,
+    "config_count": 12,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -15202,7 +15205,7 @@
     "name": "GOALS"
   },
   "2753970": {
-    "config_count": 16,
+    "config_count": 17,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -15243,10 +15246,16 @@
         "d": "G72",
         "m": "Mali",
         "s": "Mali-G72"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "MARVEL_Cosmic_Invasion"
+      "MARVEL_Cosmic_Invasion",
+      "MARVELCosmicInvasion"
     ],
     "name": "MARVEL Cosmic Invasion"
   },
@@ -17929,7 +17938,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1191,
+    "config_count": 1192,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -18637,11 +18646,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "Immortalis_MC11",
-        "m": "G925",
-        "s": "Mali-G925-Immortalis MC11"
-      },
-      {
         "d": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
         "m": "S711B",
         "s": "ANGLE ((Samsung Xclipse 920) on Vulkan 1.3.279)"
@@ -18845,6 +18849,11 @@
         "d": "G76_MC4",
         "m": "Mali",
         "s": "Mali-G76 MC4"
+      },
+      {
+        "d": "Immortalis_MC11",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC11"
       },
       {
         "d": "Adreno__TM__830",
@@ -32072,7 +32081,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2386,
+    "config_count": 2392,
     "devices": [
       {
         "d": "G52_MC2",
@@ -32760,11 +32769,6 @@
         "s": "Adreno (TM) 740"
       },
       {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
         "m": "A566E",
         "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
@@ -32900,14 +32904,19 @@
         "s": "Mali-G68"
       },
       {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
+      },
+      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
       },
       {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__740",
