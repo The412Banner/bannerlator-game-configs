@@ -13150,7 +13150,7 @@
     "name": "S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition"
   },
   "242760": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [],
     "folders": [
       "TheForest",
@@ -19950,6 +19950,20 @@
     ],
     "name": "Quarantine Zone: The Last Check"
   },
+  "341960": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "F731B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "DP"
+    ],
+    "name": "DP Animation Maker"
+  },
   "3429280": {
     "config_count": 2,
     "devices": [
@@ -23028,7 +23042,7 @@
     "name": "Godot Engine"
   },
   "4048520": {
-    "config_count": 15,
+    "config_count": 14,
     "devices": [
       {
         "d": "Adreno__TM__722",
@@ -23064,11 +23078,6 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "F731B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -25669,7 +25678,7 @@
     "name": "Vampire: The Masquerade\u00ae - Bloodlines\u2122 2"
   },
   "534380": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "G57_MC2",
@@ -25705,6 +25714,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       }
     ],
     "folders": [
@@ -32047,7 +32061,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2381,
+    "config_count": 2382,
     "devices": [
       {
         "d": "G52_MC2",
