@@ -3365,7 +3365,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 46,
+    "config_count": 45,
     "devices": [
       {
         "d": "G57_MC2",
@@ -3458,7 +3458,6 @@
       "Need_for_Speed_-_Most_Wanted________________________________",
       "Need_for_Speed_Most_Wanted",
       "Need_for_Speed_Most_Wanted_",
-      "Need_for_Speed_Most_Wanted_2005_____________________________",
       "Need_for_Speed__Most_Wanted",
       "Need_for_Speed__Most_Wanted_________________________________",
       "need_for_speed_most_wanted_",
@@ -28932,7 +28931,7 @@
     "name": "Cash Grab - Hat Pack"
   },
   "8190": {
-    "config_count": 26,
+    "config_count": 27,
     "devices": [
       {
         "d": "Odin2",
@@ -29013,6 +29012,11 @@
         "d": "Adreno__TM__650",
         "m": "N986N",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "G610",
+        "m": "Mali",
+        "s": "Mali-G610"
       }
     ],
     "folders": [
