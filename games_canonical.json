@@ -4443,7 +4443,7 @@
     "name": "Midnight Fight Express"
   },
   "1392860": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -4469,10 +4469,16 @@
         "d": "Adreno__TM__830",
         "m": "TB322FC",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
-      "Little_Nightmares_III"
+      "Little_Nightmares_III",
+      "LittleNightmaresIII"
     ],
     "name": "Little Nightmares III"
   },
