@@ -6,11 +6,11 @@ still-unresolved real games (no appid): 534
 GAME-COUNT RATE: 1687/2221 = 76%  (vs 67% raw baseline)
 CONFIG-COVERAGE (matters for matching): 11770/12688 = 93%
 top-merged examples:
-  appid 1665460: 19 folders, 87 configs, 0 devices  ['PES', 'PES_13', 'PES_2013']
-  appid name:pes-2013: 16 folders, 2395 configs, 3 devices  ['PES2013', 'PES_2013_Fix', 'PES_2013_LEND_RIO_']
-  appid 3240220: 15 folders, 1192 configs, 11 devices  ['GTA_4', 'Grand_Theft_Auto_5', 'Grand_Theft_Auto_V']
-  appid 1506830: 14 folders, 77 configs, 2 devices  ['FIFA_06_____________________________________________________', 'FIFA_13', 'FIFA_14']
-  appid 1262560: 12 folders, 45 configs, 4 devices  ['Need_For_Speed__Most_Wanted__2005_', 'Need_for_Speed_-_Most_Wanted________________________________', 'Need_for_Speed_Most_Wanted']
-  appid 374320: 8 folders, 30 configs, 5 devices  ['DARKSOULS', 'DARK_SOULS', 'DARK_SOULS__III']
-  appid 2424420: 7 folders, 14 configs, 0 devices  ['Avatar_Legends__The_Fighting_Game', 'Avatar_Legends___The_Fighting_Game', 'Avatar_legends']
-  appid 447040: 7 folders, 46 configs, 1 devices  ['WatchDogs2', 'Watch_Dogs', 'Watch_Dogs_']
+  appid 1665460: 19 folders, 87 configs, 24 devices  ['PES', 'PES_13', 'PES_2013']
+  appid name:pes-2013: 16 folders, 2395 configs, 173 devices  ['PES2013', 'PES_2013_Fix', 'PES_2013_LEND_RIO_']
+  appid 3240220: 15 folders, 1192 configs, 203 devices  ['GTA_4', 'Grand_Theft_Auto_5', 'Grand_Theft_Auto_V']
+  appid 1506830: 14 folders, 77 configs, 29 devices  ['FIFA_06_____________________________________________________', 'FIFA_13', 'FIFA_14']
+  appid 1262560: 12 folders, 45 configs, 17 devices  ['Need_For_Speed__Most_Wanted__2005_', 'Need_for_Speed_-_Most_Wanted________________________________', 'Need_for_Speed_Most_Wanted']
+  appid 374320: 8 folders, 30 configs, 15 devices  ['DARKSOULS', 'DARK_SOULS', 'DARK_SOULS__III']
+  appid 2424420: 7 folders, 14 configs, 9 devices  ['Avatar_Legends__The_Fighting_Game', 'Avatar_Legends___The_Fighting_Game', 'Avatar_legends']
+  appid 447040: 7 folders, 46 configs, 20 devices  ['WatchDogs2', 'Watch_Dogs', 'Watch_Dogs_']
