@@ -7721,7 +7721,7 @@
     "name": "ANTONBLAST"
   },
   "1888930": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -7732,6 +7732,11 @@
         "d": "Adreno__TM__830",
         "m": "CPH2649",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -9082,6 +9087,14 @@
       "AirMech"
     ],
     "name": "AirMech"
+  },
+  "2068510": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Lil__Horror_Stories__The_Camp_Fire_Demo"
+    ],
+    "name": "Lil' Horror Stories: The Camp Fire Demo"
   },
   "2071280": {
     "config_count": 1,
@@ -15917,7 +15930,7 @@
     "name": "Rune Factory: Guardians of Azuma"
   },
   "286690": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -15978,6 +15991,11 @@
         "d": "Adreno__TM__840",
         "m": "S948B",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__840",
@@ -18008,7 +18026,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1193,
+    "config_count": 1194,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -22838,7 +22856,7 @@
     "name": "OPEN FOR BUSINESS: Game & Movie Store Simulator"
   },
   "39210": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -24194,7 +24212,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -24203,7 +24221,8 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4"
+      "Call_of_Duty_4",
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -28700,7 +28719,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 21,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -28748,7 +28767,6 @@
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
       "iw3sp",
-      "Call_of_Duty_4_Modern_Warfare",
       "Call_of_Duty__4__Modern_Warfare___2007_"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
@@ -29483,7 +29501,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 96,
+    "config_count": 97,
     "devices": [
       {
         "d": "s5e8855",
@@ -29654,6 +29672,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938U1",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "Adreno__TM__840",
@@ -30486,7 +30509,7 @@
     "name": "Sniper Ghost Warrior Contracts"
   },
   "976310": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -30502,6 +30525,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__642L",
+        "m": "NX9",
+        "s": "Adreno (TM) 642L"
       }
     ],
     "folders": [
@@ -32224,7 +32252,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2395,
+    "config_count": 2396,
     "devices": [
       {
         "d": "G52_MC2",
@@ -33663,7 +33691,7 @@
     "name": "PES 6"
   },
   "name:pes-lxpes": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "PES_LXPES"
