@@ -10024,7 +10024,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 87,
+    "config_count": 88,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -10135,6 +10135,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g84_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -12084,7 +12089,7 @@
     "name": "Castlevania: Lords of Shadow \u2013 Ultimate Edition"
   },
   "234140": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -12102,14 +12107,14 @@
         "s": "Adreno (TM) 750"
       },
       {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "motorola_edge_50_fusion",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       },
       {
         "d": "Adreno__TM__735",
@@ -17069,7 +17074,7 @@
     "name": "The Long Dark"
   },
   "3059520": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "G57_MC2",
@@ -17100,6 +17105,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
@@ -19957,12 +19967,17 @@
     "name": "Heavy Weapon Deluxe"
   },
   "341940": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__740",
         "m": "Pocket_S",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "motorola_edge_50_fusion",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
@@ -20680,7 +20695,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 19,
+    "config_count": 22,
     "devices": [
       {
         "d": "G57_MC2",
@@ -20730,7 +20745,8 @@
     ],
     "folders": [
       "Atla",
-      "TombRaider"
+      "TombRaider",
+      "Tomb_Raider"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -22355,7 +22371,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 158,
+    "config_count": 155,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -26393,7 +26409,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 41,
+    "config_count": 42,
     "devices": [
       {
         "d": "G57",
@@ -26484,6 +26500,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "A235F",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__660",
@@ -31963,7 +31984,7 @@
     "name": "Nsuns2"
   },
   "name:nsuns4": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "NSUNS4"
