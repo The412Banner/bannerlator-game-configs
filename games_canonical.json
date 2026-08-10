@@ -398,7 +398,7 @@
     "name": "30XX"
   },
   "1030300": {
-    "config_count": 40,
+    "config_count": 41,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -10002,7 +10002,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 88,
+    "config_count": 89,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -10956,7 +10956,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -10985,8 +10985,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -11007,12 +11006,17 @@
     "name": "MEMOLITH: Forsaken by Light"
   },
   "222880": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "24129PN74G",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -13346,12 +13350,17 @@
     "name": "Bomb Squad"
   },
   "2464280": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
@@ -15995,7 +16004,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 30,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -16036,6 +16045,7 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
+      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -20937,12 +20947,17 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae III"
   },
   "359870": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__840",
         "m": "S948N",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
@@ -22795,7 +22810,7 @@
     "name": "OPEN FOR BUSINESS: Game & Movie Store Simulator"
   },
   "39210": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "G68_MC4",
@@ -22816,11 +22831,17 @@
         "d": "Adreno__TM__650",
         "m": "M2102J2SC",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
       "____14_____",
-      "_____1"
+      "_____1",
+      "Final_Fantasy_XI_"
     ],
     "name": "FINAL FANTASY XIV Online"
   },
@@ -24140,7 +24161,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -24149,8 +24170,7 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4",
-      "Call_of_Duty_4_Modern_Warfare"
+      "Call_of_Duty_4"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -25557,7 +25577,7 @@
     "name": "Batman\u2122: Arkham VR"
   },
   "504230": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -28647,7 +28667,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "G720_MC7",
@@ -28695,6 +28715,7 @@
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
       "iw3sp",
+      "Call_of_Duty_4_Modern_Warfare",
       "Call_of_Duty__4__Modern_Warfare___2007_"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
