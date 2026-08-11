@@ -11065,7 +11065,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -11095,7 +11095,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev"
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -13874,6 +13875,14 @@
     ],
     "name": "The Legend of Heroes: Trails in the Sky"
   },
+  "2512830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "NOTTOLOT"
+    ],
+    "name": "Nottolot"
+  },
   "2512840": {
     "config_count": 1,
     "devices": [
@@ -16153,7 +16162,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -16193,8 +16202,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -24625,6 +24633,14 @@
     ],
     "name": "Pub Encounter"
   },
+  "4475790": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Warband"
+    ],
+    "name": "Warband"
+  },
   "447960": {
     "config_count": 1,
     "devices": [
@@ -25315,7 +25331,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -25330,8 +25346,7 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband",
-      "Warband"
+      "Mount_Blade_Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -32477,7 +32492,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2417,
+    "config_count": 2418,
     "devices": [
       {
         "d": "G52_MC2",
@@ -33195,11 +33210,6 @@
         "s": "Adreno (TM) 810"
       },
       {
-        "d": "PowerVR_Rogue_GE8320",
-        "m": "moto_e22",
-        "s": "PowerVR Rogue GE8320"
-      },
-      {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
@@ -33318,6 +33328,11 @@
         "d": "G52",
         "m": "Mali",
         "s": "Mali-G52"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "moto_e22",
+        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "Adreno__TM__740",
