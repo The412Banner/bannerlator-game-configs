@@ -1682,17 +1682,17 @@
     "name": "Titan Quest II"
   },
   "1155490": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
       {
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -9327,7 +9327,7 @@
     "name": "Batman\u2122: Arkham Origins"
   },
   "209120": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Immortalis_MC11",
@@ -11037,7 +11037,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -11066,8 +11066,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -14804,7 +14803,7 @@
     "name": "POOLS"
   },
   "2668510": {
-    "config_count": 34,
+    "config_count": 35,
     "devices": [
       {
         "d": "SM8635",
@@ -16117,7 +16116,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 33,
     "devices": [
       {
         "d": "G615_MC2",
@@ -16158,6 +16157,7 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
+      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -20826,7 +20826,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 22,
+    "config_count": 19,
     "devices": [
       {
         "d": "G57_MC2",
@@ -20876,8 +20876,7 @@
     ],
     "folders": [
       "Atla",
-      "TombRaider",
-      "Tomb_Raider"
+      "TombRaider"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -22532,7 +22531,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 156,
+    "config_count": 159,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -26355,7 +26354,7 @@
     "name": "TUNIC"
   },
   "553520": {
-    "config_count": 24,
+    "config_count": 25,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -26411,6 +26410,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "motorola_edge_70_fusion",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
@@ -32366,7 +32370,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2411,
+    "config_count": 2412,
     "devices": [
       {
         "d": "G52_MC2",
@@ -32757,11 +32761,6 @@
         "d": "49_1_0_",
         "m": "G57",
         "s": "ANGLE (ARM, Vulkan 1.3.278 (Mali-G57 (0x90910010)), Mali-G57-49.1.0)"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g53_5G",
-        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__610",
@@ -33207,6 +33206,11 @@
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g53_5G",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__740",
@@ -34185,6 +34189,14 @@
       "Spec_Ops_The_Line"
     ],
     "name": "Spec Ops The Line"
+  },
+  "name:sr-hv": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "sr_hv"
+    ],
+    "name": "Sr Hv"
   },
   "name:ssfiv": {
     "config_count": 1,
