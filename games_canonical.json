@@ -2320,7 +2320,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 309,
+    "config_count": 310,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -2638,14 +2638,14 @@
         "s": "Mali-G76 MC4"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__735",
@@ -11038,7 +11038,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 11,
+    "config_count": 13,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -11067,7 +11067,9 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -11316,6 +11318,14 @@
       "Into_the_Dead__Our_Darkest_Days"
     ],
     "name": "Into the Dead: Our Darkest Days"
+  },
+  "224060": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Deadpool"
+    ],
+    "name": "Deadpool"
   },
   "224760": {
     "config_count": 1,
@@ -16117,7 +16127,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 33,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -16157,9 +16167,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "rerev",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -32387,7 +32395,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2412,
+    "config_count": 2413,
     "devices": [
       {
         "d": "G52_MC2",
