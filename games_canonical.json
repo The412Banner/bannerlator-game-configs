@@ -7025,7 +7025,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 140,
+    "config_count": 141,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -19372,7 +19372,7 @@
     "name": "NINJA GAIDEN 2 Black"
   },
   "329050": {
-    "config_count": 43,
+    "config_count": 44,
     "devices": [
       {
         "d": "G57",
@@ -19473,6 +19473,11 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
@@ -26063,7 +26068,7 @@
     "name": "RAGE 2"
   },
   "550": {
-    "config_count": 57,
+    "config_count": 58,
     "devices": [
       {
         "d": "Adreno__TM__830",
