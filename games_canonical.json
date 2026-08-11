@@ -1419,6 +1419,20 @@
     ],
     "name": "Ember Knights"
   },
+  "1135690": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G52",
+        "m": "Mali",
+        "s": "Mali-G52"
+      }
+    ],
+    "folders": [
+      "Unpacking"
+    ],
+    "name": "Unpacking"
+  },
   "1138320": {
     "config_count": 1,
     "devices": [],
@@ -18101,7 +18115,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1202,
+    "config_count": 1204,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -19022,6 +19036,11 @@
         "d": "Adreno__TM__610",
         "m": "A235F",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "CPH2707",
+        "s": "Adreno (TM) 735"
       },
       {
         "d": "Adreno__TM__830",
@@ -31634,6 +31653,14 @@
       "GIANTS_Engine"
     ],
     "name": "Giants Engine"
+  },
+  "name:gnsunsr": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "gNSUNSR"
+    ],
+    "name": "Gnsunsr"
   },
   "name:gothic-1-classic": {
     "config_count": 1,
