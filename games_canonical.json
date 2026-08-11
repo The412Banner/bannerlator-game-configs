@@ -31656,7 +31656,13 @@
   },
   "name:gnsunsr": {
     "config_count": 1,
-    "devices": [],
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
     "folders": [
       "gNSUNSR"
     ],
