@@ -1,5 +1,12 @@
 [
   {
+    "game": "LoK",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1786460647,
+    "filename": "LoK-ITEL-itel_S667LN-Mali-G52_MC2-1786460647.json"
+  },
+  {
     "game": "sr_hv",
     "manufacturer": "2510EPC8BG",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1786343418,
     "filename": "re2-samsung-SM-S928B-Adreno__TM__750-1786343418.json"
-  },
-  {
-    "game": "SPARKING_ZERO",
-    "manufacturer": "Mali",
-    "device": "G715",
-    "timestamp": 1786342878,
-    "filename": "SPARKING_ZERO-Google-Pixel_9_Pro_XL-Mali-G715-1786342878.json"
   }
 ]
