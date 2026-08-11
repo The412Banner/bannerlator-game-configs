@@ -22564,8 +22564,14 @@
     "name": "TEKKEN 7"
   },
   "3906660": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
     "folders": [
       "Sacred"
     ],
