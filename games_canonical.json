@@ -1174,7 +1174,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1183,7 +1183,8 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid"
+      "BattleForTheGrid",
+      "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -2017,7 +2018,7 @@
     "name": "Car Mechanic Simulator 2021"
   },
   "1196590": {
-    "config_count": 32,
+    "config_count": 33,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -2085,14 +2086,14 @@
         "s": "Adreno (TM) 750"
       },
       {
-        "d": "Adreno__TM__642L",
-        "m": "22101320G",
-        "s": "Adreno (TM) 642L"
-      },
-      {
         "d": "Adreno__TM__840",
         "m": "2509FPN0BC",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__642L",
+        "m": "22101320G",
+        "s": "Adreno (TM) 642L"
       }
     ],
     "folders": [
@@ -5633,7 +5634,7 @@
     "name": "Cairn"
   },
   "1593500": {
-    "config_count": 133,
+    "config_count": 134,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -5729,11 +5730,6 @@
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__750",
@@ -5844,6 +5840,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__619",
@@ -9559,6 +9560,20 @@
     ],
     "name": "Magicraft"
   },
+  "2104870": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "F731B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Guardians"
+    ],
+    "name": "Stranded: Alien Dawn - Robots and Guardians"
+  },
   "2108180": {
     "config_count": 2,
     "devices": [
@@ -12472,7 +12487,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 12,
+    "config_count": 14,
     "devices": [
       {
         "d": "G720_MC7",
@@ -12493,10 +12508,21 @@
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II"
+      "DARK_SOULS__II",
+      "DarkSoulsII"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -15572,14 +15598,6 @@
     ],
     "name": "Hospital 666"
   },
-  "2787680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Candy Rangers"
-  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -16087,22 +16105,16 @@
     "name": "ZERO PARADES: For Dead Spies"
   },
   "2864560": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "F731B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
-      "Rune_Factory__Guardians_of_Azuma",
-      "Guardians"
+      "Rune_Factory__Guardians_of_Azuma"
     ],
     "name": "Rune Factory: Guardians of Azuma"
   },
@@ -18217,7 +18229,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1209,
+    "config_count": 1208,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -19246,7 +19258,6 @@
       }
     ],
     "folders": [
-      "GTA_4",
       "Grand_Theft_Auto_5",
       "Grand_Theft_Auto_V",
       "Grand_Theft_Auto_V_",
@@ -21002,7 +21013,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 19,
+    "config_count": 22,
     "devices": [
       {
         "d": "G57_MC2",
@@ -21052,7 +21063,8 @@
     ],
     "folders": [
       "Atla",
-      "TombRaider"
+      "TombRaider",
+      "Tomb_Raider"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -21798,7 +21810,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 31,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -21861,16 +21873,6 @@
         "s": "Adreno (TM) 735"
       },
       {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -21882,7 +21884,6 @@
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
       "DARK_SOULS_III",
-      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -22708,7 +22709,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 159,
+    "config_count": 156,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -32623,7 +32624,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2427,
+    "config_count": 2430,
     "devices": [
       {
         "d": "G52_MC2",
@@ -33296,11 +33297,6 @@
         "s": "Adreno (TM) 740"
       },
       {
-        "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-        "m": "A566E",
-        "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
-      },
-      {
         "d": "Adreno__TM__740",
         "m": "S911B",
         "s": "Adreno (TM) 740"
@@ -33464,6 +33460,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+        "m": "A566E",
+        "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
       },
       {
         "d": "Adreno__TM__740",
