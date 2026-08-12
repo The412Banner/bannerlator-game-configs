@@ -4071,7 +4071,7 @@
     "name": "Big Ambitions"
   },
   "1332010": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -4107,6 +4107,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Samsung_Xclipse_540",
@@ -9574,20 +9579,6 @@
       "Magicraft"
     ],
     "name": "Magicraft"
-  },
-  "2104870": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "F731B",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "Guardians"
-    ],
-    "name": "Stranded: Alien Dawn - Robots and Guardians"
   },
   "2108180": {
     "config_count": 2,
@@ -16117,16 +16108,22 @@
     "name": "ZERO PARADES: For Dead Spies"
   },
   "2864560": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "F731B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
-      "Rune_Factory__Guardians_of_Azuma"
+      "Rune_Factory__Guardians_of_Azuma",
+      "Guardians"
     ],
     "name": "Rune Factory: Guardians of Azuma"
   },
@@ -18241,7 +18238,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1207,
+    "config_count": 1208,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24471,7 +24468,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -24480,7 +24477,9 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4"
+      "Call_of_Duty_4",
+      "Call_of_Duty_4_Modern_Warfare",
+      "call_of_duty_4_modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -29039,7 +29038,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 22,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -29087,9 +29086,7 @@
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
       "iw3sp",
-      "Call_of_Duty_4_Modern_Warfare",
-      "Call_of_Duty__4__Modern_Warfare___2007_",
-      "call_of_duty_4_modern_Warfare"
+      "Call_of_Duty__4__Modern_Warfare___2007_"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
