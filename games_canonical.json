@@ -2684,7 +2684,7 @@
     "name": "Grand Theft Auto: Episodes from Liberty City"
   },
   "1222670": {
-    "config_count": 24,
+    "config_count": 25,
     "devices": [
       {
         "d": "G57_MC2",
@@ -2730,6 +2730,11 @@
         "d": "Adreno__TM__830",
         "m": "RMX5090",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5051",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
