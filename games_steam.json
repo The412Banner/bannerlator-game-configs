@@ -938,7 +938,6 @@
   },
   "Brawlhalla": {
     "appid": 291550,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/291550/header.jpg",
     "method": "naive",
     "steam_name": "Brawlhalla"
   },
@@ -3016,6 +3015,12 @@
   "FarmingSimulator2019Game": {
     "appid": null,
     "method": "unresolved"
+  },
+  "Farming_Simulator_15": {
+    "appid": 313160,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/313160/header.jpg",
+    "method": "naive",
+    "steam_name": "Farming Simulator 15"
   },
   "Farming_Simulator_15________________________________________": {
     "appid": 313160,
@@ -6849,7 +6854,6 @@
   },
   "Portrait_of_a_Torn_-_Demo": {
     "appid": 3059500,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3059500/header.jpg",
     "method": "norm",
     "steam_name": "Portrait of a Torn"
   },

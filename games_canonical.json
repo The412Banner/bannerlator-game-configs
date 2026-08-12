@@ -5639,7 +5639,7 @@
     "name": "Cairn"
   },
   "1593500": {
-    "config_count": 136,
+    "config_count": 137,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -5837,11 +5837,6 @@
         "s": "Mali-G615 MC2"
       },
       {
-        "d": "Adreno__TM__810",
-        "m": "2509ARPBDG",
-        "s": "Adreno (TM) 810"
-      },
-      {
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
@@ -5850,6 +5845,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "2509ARPBDG",
+        "s": "Adreno (TM) 810"
       },
       {
         "d": "Adreno__TM__619",
@@ -11096,7 +11096,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 13,
+    "config_count": 11,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -11125,8 +11125,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -14432,7 +14431,7 @@
     "name": "Pure Badminton"
   },
   "2592160": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -14448,6 +14447,11 @@
         "d": "Adreno__TM__830",
         "m": "ASUSAI2501B",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
@@ -15088,7 +15092,7 @@
     "name": "Outbound"
   },
   "268910": {
-    "config_count": 35,
+    "config_count": 36,
     "devices": [
       {
         "d": "23043RP34G",
@@ -15169,6 +15173,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "RMX5555",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
@@ -16241,7 +16250,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 34,
     "devices": [
       {
         "d": "G615_MC2",
@@ -16282,6 +16291,7 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
+      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -17864,7 +17874,7 @@
     "name": "Way of the Samurai 4"
   },
   "313160": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "G68",
@@ -17878,7 +17888,8 @@
       }
     ],
     "folders": [
-      "Farming_Simulator_15________________________________________"
+      "Farming_Simulator_15________________________________________",
+      "Farming_Simulator_15"
     ],
     "name": "Farming Simulator 15"
   },
@@ -22753,7 +22764,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 159,
+    "config_count": 160,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -32536,14 +32547,6 @@
     ],
     "name": "Nsunsr"
   },
-  "name:nwjs": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "nwjs"
-    ],
-    "name": "Nwjs"
-  },
   "name:oblivion-lost-remake": {
     "config_count": 1,
     "devices": [
@@ -32684,7 +32687,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2436,
+    "config_count": 2440,
     "devices": [
       {
         "d": "G52_MC2",
@@ -33487,19 +33490,9 @@
         "s": "Adreno (TM) 619"
       },
       {
-        "d": "G52",
-        "m": "Mali",
-        "s": "Mali-G52"
-      },
-      {
         "d": "PowerVR_Rogue_GE8320",
         "m": "moto_e22",
         "s": "PowerVR Rogue GE8320"
-      },
-      {
-        "d": "G68",
-        "m": "Mali",
-        "s": "Mali-G68"
       },
       {
         "d": "G57_MC2",
@@ -33525,6 +33518,21 @@
         "d": "Adreno__TM__644",
         "m": "M556B",
         "s": "Adreno (TM) 644"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
+      },
+      {
+        "d": "G52",
+        "m": "Mali",
+        "s": "Mali-G52"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "motorola_edge_20_pro",
+        "s": "Adreno (TM) 650"
       },
       {
         "d": "Adreno__TM__740",
