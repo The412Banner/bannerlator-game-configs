@@ -7367,8 +7367,14 @@
     "name": "Deer & Boy"
   },
   "1805320": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__722",
+        "m": "motorola_edge_70",
+        "s": "Adreno (TM) 722"
+      }
+    ],
     "folders": [
       "Romestead"
     ],
@@ -10468,7 +10474,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 97,
+    "config_count": 98,
     "devices": [
       {
         "d": "S938B",
@@ -11051,7 +11057,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 13,
+    "config_count": 12,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -11081,8 +11087,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -16170,7 +16175,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -16210,7 +16215,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -24404,7 +24410,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -24414,6 +24420,7 @@
     ],
     "folders": [
       "Call_of_Duty_4",
+      "Call_of_Duty_4_Modern_Warfare",
       "call_of_duty_4_modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
@@ -28973,7 +28980,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 21,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -29021,7 +29028,6 @@
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
       "iw3sp",
-      "Call_of_Duty_4_Modern_Warfare",
       "Call_of_Duty__4__Modern_Warfare___2007_"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
