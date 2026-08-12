@@ -4793,12 +4793,17 @@
     "name": "The Outer Worlds 2"
   },
   "1450090": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
         "m": "S711B",
         "s": "ANGLE ((Samsung Xclipse 920) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "motorola_edge_30_pro",
+        "s": "Adreno (TM) 730"
       }
     ],
     "folders": [
@@ -5619,7 +5624,7 @@
     "name": "Cairn"
   },
   "1593500": {
-    "config_count": 131,
+    "config_count": 132,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -5825,6 +5830,11 @@
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "2509ARPBDG",
+        "s": "Adreno (TM) 810"
       },
       {
         "d": "Adreno__TM__619",
@@ -7547,7 +7557,7 @@
     "name": "Marvel\u2019s Spider-Man Remastered"
   },
   "1817190": {
-    "config_count": 18,
+    "config_count": 20,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -7585,20 +7595,34 @@
         "s": "Mali-G610 MC6"
       },
       {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      },
-      {
         "d": "Adreno__TM__619",
         "m": "RMX3661",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
       "Marvel_s_Spider-Man__Miles_Morales"
     ],
     "name": "Marvel\u2019s Spider-Man: Miles Morales"
+  },
+  "1817230": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "HiFi_Rush"
+    ],
+    "name": "Hi-Fi RUSH"
   },
   "1845250": {
     "config_count": 1,
@@ -15284,15 +15308,21 @@
     "name": "The Rogue Prince of Persia"
   },
   "2723810": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
+      }
+    ],
     "folders": [
       "SB"
     ],
     "name": "SBcatfight game"
   },
   "272510": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__725",
@@ -15303,6 +15333,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
+        "m": "S711B",
+        "s": "ANGLE ((Samsung Xclipse 920) on Vulkan 1.3.279)"
       },
       {
         "d": "G57_MC2",
@@ -32555,7 +32590,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2423,
+    "config_count": 2424,
     "devices": [
       {
         "d": "G52_MC2",
@@ -33388,14 +33423,14 @@
         "s": "PowerVR Rogue GE8320"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
@@ -33958,7 +33993,7 @@
     "name": "PES 5"
   },
   "name:pes-6": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -33989,6 +34024,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "G78",
+        "m": "Mali",
+        "s": "Mali-G78"
       }
     ],
     "folders": [
