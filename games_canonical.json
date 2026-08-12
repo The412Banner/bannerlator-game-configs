@@ -1174,7 +1174,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1183,8 +1183,7 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid",
-      "Rangers"
+      "BattleForTheGrid"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -1592,7 +1591,7 @@
     "name": "Horizon Zero Dawn\u2122 Complete Edition"
   },
   "115320": {
-    "config_count": 58,
+    "config_count": 59,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -1635,6 +1634,11 @@
         "s": "Adreno (TM) 830"
       },
       {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
+      },
+      {
         "d": "Adreno__TM__610",
         "m": "M2010J19CG",
         "s": "Adreno (TM) 610"
@@ -1658,11 +1662,6 @@
         "d": "Adreno__TM__825",
         "m": "CPH2731",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__740",
@@ -5624,7 +5623,7 @@
     "name": "Cairn"
   },
   "1593500": {
-    "config_count": 132,
+    "config_count": 133,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -5802,11 +5801,6 @@
         "s": "Mali-G57 MC2"
       },
       {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      },
-      {
         "d": "Adreno__TM__730",
         "m": "22081212UG",
         "s": "Adreno (TM) 730"
@@ -5835,6 +5829,11 @@
         "d": "Adreno__TM__810",
         "m": "2509ARPBDG",
         "s": "Adreno (TM) 810"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       },
       {
         "d": "Adreno__TM__619",
@@ -8875,8 +8874,33 @@
     "name": "Hitman: Absolution\u2122"
   },
   "203160": {
-    "config_count": 3,
+    "config_count": 13,
     "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
+      },
       {
         "d": "G52_MC2",
         "m": "Mali",
@@ -8889,10 +8913,11 @@
       }
     ],
     "folders": [
+      "TombRaider",
       "Tomb_Raider_2013",
       "Tomb_Raider_Game_of_the_Year"
     ],
-    "name": "Tomb Raider 2013"
+    "name": "Tomb Raider Game of the Year"
   },
   "203650": {
     "config_count": 3,
@@ -9549,6 +9574,20 @@
       "Magicraft"
     ],
     "name": "Magicraft"
+  },
+  "2104870": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "F731B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Guardians"
+    ],
+    "name": "Stranded: Alien Dawn - Robots and Guardians"
   },
   "2108180": {
     "config_count": 2,
@@ -11081,7 +11120,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -11110,8 +11149,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -15564,6 +15602,14 @@
     ],
     "name": "Hospital 666"
   },
+  "2787680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Candy Rangers"
+  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -16071,22 +16117,16 @@
     "name": "ZERO PARADES: For Dead Spies"
   },
   "2864560": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "F731B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
-      "Rune_Factory__Guardians_of_Azuma",
-      "Guardians"
+      "Rune_Factory__Guardians_of_Azuma"
     ],
     "name": "Rune Factory: Guardians of Azuma"
   },
@@ -16211,7 +16251,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 35,
     "devices": [
       {
         "d": "G615_MC2",
@@ -16252,6 +16292,7 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
+      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -20975,7 +21016,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 19,
+    "config_count": 9,
     "devices": [
       {
         "d": "G57_MC2",
@@ -21001,31 +21042,10 @@
         "d": "G57_MC4",
         "m": "Mali",
         "s": "Mali-G57 MC4"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
-      "Atla",
-      "TombRaider"
+      "Atla"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -24446,7 +24466,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -24455,8 +24475,7 @@
       }
     ],
     "folders": [
-      "Call_of_Duty_4",
-      "Call_of_Duty_4_Modern_Warfare"
+      "Call_of_Duty_4"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -25729,7 +25748,7 @@
     "name": "State of Decay 2: Juggernaut Edition"
   },
   "500": {
-    "config_count": 9,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -29015,7 +29034,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "G720_MC7",
@@ -29063,6 +29082,7 @@
       "Call_of_Duty_4__Modern_Warfare",
       "iw3mp",
       "iw3sp",
+      "Call_of_Duty_4_Modern_Warfare",
       "Call_of_Duty__4__Modern_Warfare___2007_",
       "call_of_duty_4_modern_Warfare"
     ],
