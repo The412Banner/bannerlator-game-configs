@@ -936,6 +936,12 @@
     "method": "naive",
     "steam_name": "Bot Vice"
   },
+  "Brawlhalla": {
+    "appid": 291550,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/291550/header.jpg",
+    "method": "naive",
+    "steam_name": "Brawlhalla"
+  },
   "Brick_Rigs": {
     "appid": 552100,
     "method": "naive",
@@ -5813,6 +5819,10 @@
     "appid": null,
     "method": "unresolved"
   },
+  "NBA_2K14": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "NBA_2K17": {
     "appid": null,
     "method": "unresolved"
@@ -6836,6 +6846,12 @@
     "appid": 620,
     "method": "naive",
     "steam_name": "Portal 2"
+  },
+  "Portrait_of_a_Torn_-_Demo": {
+    "appid": 3059500,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3059500/header.jpg",
+    "method": "norm",
+    "steam_name": "Portrait of a Torn"
   },
   "Postal2": {
     "appid": 223470,
