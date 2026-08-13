@@ -18366,7 +18366,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1217,
+    "config_count": 1218,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -21012,7 +21012,7 @@
     "name": "LEGO\u00ae Jurassic World"
   },
   "3527290": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "s5e8825",
@@ -21033,6 +21033,11 @@
         "d": "Adreno__TM__722",
         "m": "RMX5131",
         "s": "Adreno (TM) 722"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__725",
