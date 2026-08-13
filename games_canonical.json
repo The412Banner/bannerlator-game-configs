@@ -28775,7 +28775,7 @@
     "name": "Borderlands Game of the Year Enhanced"
   },
   "730": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "G78",
@@ -32866,7 +32866,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2451,
+    "config_count": 2456,
     "devices": [
       {
         "d": "G52_MC2",
@@ -33147,11 +33147,6 @@
         "d": "Adreno__TM__508",
         "m": "moto_g_6__plus",
         "s": "Adreno (TM) 508"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "CPH3669",
-        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__610",
@@ -33712,6 +33707,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "CPH3669",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__740",
