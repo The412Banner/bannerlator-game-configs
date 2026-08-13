@@ -89,11 +89,6 @@
     "method": "naive",
     "steam_name": "ANTONBLAST"
   },
-  "ARC_Raiders": {
-    "appid": 1808500,
-    "method": "naive",
-    "steam_name": "ARC Raiders"
-  },
   "ARK__Survival_Evolved": {
     "appid": 346110,
     "method": "naive",
@@ -7637,6 +7632,10 @@
     "appid": 1963610,
     "method": "naive",
     "steam_name": "Road to Vostok"
+  },
+  "Roblox": {
+    "appid": null,
+    "method": "unresolved"
   },
   "Roblox_Bootstrapper": {
     "appid": null,

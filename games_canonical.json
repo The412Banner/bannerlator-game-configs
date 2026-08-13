@@ -1486,7 +1486,7 @@
     "name": "Ready or Not"
   },
   "1145350": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -1504,14 +1504,14 @@
         "s": "Adreno (TM) 750"
       },
       {
-        "d": "Adreno__TM__640",
-        "m": "Redmi_K20_Pro",
-        "s": "Adreno (TM) 640"
-      },
-      {
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__640",
+        "m": "Redmi_K20_Pro",
+        "s": "Adreno (TM) 640"
       },
       {
         "d": "Adreno__TM__840",
@@ -1526,7 +1526,7 @@
     "name": "Hades II"
   },
   "1145360": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -7123,7 +7123,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 141,
+    "config_count": 142,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -7444,10 +7444,9 @@
     "name": "Tag: The Power of Paint"
   },
   "1808500": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "ARC_Raiders",
       "Arc"
     ],
     "name": "ARC Raiders"
@@ -11146,7 +11145,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 14,
+    "config_count": 13,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -11176,8 +11175,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -14087,7 +14085,7 @@
     "name": "Desktop Explorer"
   },
   "2527500": {
-    "config_count": 19,
+    "config_count": 21,
     "devices": [
       {
         "d": "G57",
@@ -14128,6 +14126,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S918B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -14796,14 +14799,6 @@
       "TokyoXtremeRacer"
     ],
     "name": "Tokyo Xtreme Racer"
-  },
-  "2637940": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Cars"
-    ],
-    "name": "Used Cars Simulator"
   },
   "2638050": {
     "config_count": 1,
@@ -16348,7 +16343,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -16388,7 +16383,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -19825,6 +19821,14 @@
       "Garten_of_Banban_0"
     ],
     "name": "Garten of Banban 0"
+  },
+  "331160": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Cars"
+    ],
+    "name": "Disney\u2022Pixar Cars"
   },
   "33120": {
     "config_count": 2,
@@ -29454,7 +29458,7 @@
     "name": "Tomb Raider: Underworld"
   },
   "814380": {
-    "config_count": 57,
+    "config_count": 58,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -30568,7 +30572,7 @@
     "name": "Life is Strange: True Colors"
   },
   "937890": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -30589,6 +30593,11 @@
         "d": "Adreno__TM__830",
         "m": "2510DPC44G",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "I2220",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -32857,7 +32866,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2448,
+    "config_count": 2450,
     "devices": [
       {
         "d": "G52_MC2",
@@ -33038,11 +33047,6 @@
         "d": "Adreno__TM__618",
         "m": "CPH2113",
         "s": "Adreno (TM) 618"
-      },
-      {
-        "d": "G77",
-        "m": "Mali",
-        "s": "Mali-G77"
       },
       {
         "d": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
@@ -33703,6 +33707,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g34_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G77",
+        "m": "Mali",
+        "s": "Mali-G77"
       },
       {
         "d": "Adreno__TM__740",
