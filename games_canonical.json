@@ -12611,6 +12611,20 @@
     ],
     "name": "Elsword"
   },
+  "2373990": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "AN00",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Solo_Leveling_ARISE_OVERDRIVE"
+    ],
+    "name": "Solo Leveling: ARISE OVERDRIVE"
+  },
   "2377420": {
     "config_count": 3,
     "devices": [
@@ -24954,14 +24968,6 @@
     ],
     "name": "Pub Encounter"
   },
-  "4475790": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Warband"
-    ],
-    "name": "Warband"
-  },
   "447960": {
     "config_count": 1,
     "devices": [
@@ -25666,7 +25672,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -25681,7 +25687,8 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband"
+      "Mount_Blade_Warband",
+      "Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -32866,7 +32873,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2456,
+    "config_count": 2460,
     "devices": [
       {
         "d": "G52_MC2",
@@ -33012,11 +33019,6 @@
         "d": "Adreno__TM__640",
         "m": "M2102J20SG",
         "s": "Adreno (TM) 640"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "RMX3890",
-        "s": "Adreno (TM) 610"
       },
       {
         "d": "G610_MC3",
@@ -33524,11 +33526,6 @@
         "s": "Adreno (TM) 740"
       },
       {
-        "d": "G720_MC8",
-        "m": "Mali",
-        "s": "Mali-G720 MC8"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "moto_g52",
         "s": "Adreno (TM) 610"
@@ -33707,6 +33704,16 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "RMX3890",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__610",
