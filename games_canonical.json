@@ -9325,10 +9325,17 @@
     "name": "Assassin S Creed Iii"
   },
   "2085540": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_FIT",
+        "s": "Adreno (TM) 750"
+      }
+    ],
     "folders": [
-      "Stick_It_To_The_Stickman"
+      "Stick_It_To_The_Stickman",
+      "Stick_It_to_the_Stickman"
     ],
     "name": "Stick It to the Stickman"
   },
@@ -13423,7 +13430,7 @@
     "name": "Banished"
   },
   "2434462": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "QCS8550",
@@ -13434,6 +13441,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "24122RKC7G",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -17144,7 +17156,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -17163,7 +17175,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -18328,7 +18341,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1217,
+    "config_count": 1216,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -19450,7 +19463,7 @@
     "name": "STAR WARS\u2122: The Force Unleashed\u2122 II"
   },
   "3250520": {
-    "config_count": 30,
+    "config_count": 31,
     "devices": [
       {
         "d": "G68_MC4",
@@ -27684,7 +27697,7 @@
     "name": "Bendy and the Ink Machine"
   },
   "627270": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -27700,6 +27713,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "24122RKC7G",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -29380,7 +29398,7 @@
     "name": "Tomb Raider: Underworld"
   },
   "814380": {
-    "config_count": 56,
+    "config_count": 57,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -30406,7 +30424,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 5,
     "devices": [
       {
         "d": "G615_MC6",
@@ -30425,8 +30443,7 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
