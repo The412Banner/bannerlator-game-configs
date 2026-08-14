@@ -7559,7 +7559,7 @@
     "name": "Asphalt Legends "
   },
   "1817070": {
-    "config_count": 17,
+    "config_count": 16,
     "devices": [
       {
         "d": "G57_MC2",
@@ -7613,8 +7613,7 @@
       }
     ],
     "folders": [
-      "Marvel_s_Spider-Man_Remastered",
-      "Spider-man_Remastered"
+      "Marvel_s_Spider-Man_Remastered"
     ],
     "name": "Marvel\u2019s Spider-Man Remastered"
   },
@@ -14937,7 +14936,7 @@
     "name": "Subnautica"
   },
   "2651280": {
-    "config_count": 22,
+    "config_count": 23,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -14983,13 +14982,19 @@
         "d": "Adreno__TM__730",
         "m": "motorola_edge_30_ultra",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
       "Activision_Spider-Man_3",
       "Marvel_s_Spider-Man_2",
       "Spider-Man_3",
-      "Spider-Man"
+      "Spider-Man",
+      "Spider-man_Remastered"
     ],
     "name": "Marvel's Spider-Man 2"
   },
@@ -15521,6 +15526,11 @@
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
       }
     ],
     "folders": [
@@ -17520,7 +17530,7 @@
     "name": "Portrait of a Torn"
   },
   "3059520": {
-    "config_count": 16,
+    "config_count": 17,
     "devices": [
       {
         "d": "G57_MC2",
