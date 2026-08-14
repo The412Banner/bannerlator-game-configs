@@ -5547,7 +5547,7 @@
     "name": "SuperTux"
   },
   "1574140": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -5556,7 +5556,6 @@
       }
     ],
     "folders": [
-      "DiRT4",
       "Dirt4"
     ],
     "name": "TIME FOR YOU - CHAPTER 02 - DIRTY THOUGHTS AND CORPORATE BOTS"
@@ -10743,7 +10742,7 @@
     "name": "Far Cry 3"
   },
   "220440": {
-    "config_count": 29,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -10855,8 +10854,7 @@
       "DmC_Devil_May_Cry",
       "DmC_Devil_May_Cry___________________________________________",
       "DmC__Devil_May_Cry",
-      "DMC-DevilMayCry",
-      "DMC-DevilMayCry_2013"
+      "DMC-DevilMayCry"
     ],
     "name": "DmC: Devil May Cry"
   },
@@ -12223,7 +12221,7 @@
     "name": "Sky: Children of the Light"
   },
   "232890": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -12237,7 +12235,8 @@
       }
     ],
     "folders": [
-      "__Stronghold_Crusader"
+      "__Stronghold_Crusader",
+      "Stronghold_Crusader_HD"
     ],
     "name": "Stronghold Crusader 2"
   },
@@ -22090,7 +22089,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 29,
+    "config_count": 32,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -22156,6 +22155,11 @@
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "S928B",
+        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
@@ -22165,7 +22169,8 @@
       "DarkSoulsRemastered",
       "DARK_SOULS_III",
       "DarkSoulsIII",
-      "Dark_Souls_III"
+      "Dark_Souls_III",
+      "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122 III"
   },
@@ -23797,6 +23802,14 @@
     ],
     "name": "Disney/Pixar Toy Story 3 Complete Edition"
   },
+  "405820": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Turok_______________________________________________________"
+    ],
+    "name": "Turok"
+  },
   "405900": {
     "config_count": 3,
     "devices": [
@@ -23860,14 +23873,6 @@
       "MallRivals"
     ],
     "name": "Mall Rivals"
-  },
-  "40970": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Stronghold_Crusader_HD"
-    ],
-    "name": "Stronghold Crusader HD (2012)"
   },
   "409710": {
     "config_count": 3,
@@ -25536,6 +25541,20 @@
     ],
     "name": "Dragon Age: Origins - Ultimate Edition"
   },
+  "4784420": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__829",
+        "m": "I2508",
+        "s": "Adreno (TM) 829"
+      }
+    ],
+    "folders": [
+      "Tom_Clancy_s_Ghost_Recon_Wildlands_-_Predator_Premium_Pack"
+    ],
+    "name": "Tom Clancy S Ghost Recon Wildlands - Predator Premium Pack"
+  },
   "47890": {
     "config_count": 2,
     "devices": [],
@@ -27083,7 +27102,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 43,
+    "config_count": 40,
     "devices": [
       {
         "d": "G57",
@@ -27179,17 +27198,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
-      },
-      {
-        "d": "Adreno__TM__660",
-        "m": "S928B",
-        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
       "DARK_SOULS__REMASTERED",
-      "DARK_SOULS___REMASTERED",
-      "Dark_Souls_Remastered"
+      "DARK_SOULS___REMASTERED"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
   },
@@ -27581,6 +27594,20 @@
       "Devil_May_Cry_V"
     ],
     "name": "Devil May Cry 5"
+  },
+  "601360": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "Portal__Revolution"
+    ],
+    "name": "Portal: Revolution"
   },
   "601430": {
     "config_count": 3,
@@ -31822,6 +31849,20 @@
     ],
     "name": "Dirt Showdown"
   },
+  "name:dirt4": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__650",
+        "m": "G988N",
+        "s": "Adreno (TM) 650"
+      }
+    ],
+    "folders": [
+      "DiRT4"
+    ],
+    "name": "Dirt4"
+  },
   "name:dirtfish-dirt4": {
     "config_count": 1,
     "devices": [],
@@ -31851,6 +31892,20 @@
       "DiscordSetup"
     ],
     "name": "Discordsetup"
+  },
+  "name:dmc-devilmaycry-2013": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2487",
+        "s": "Adreno (TM) 730"
+      }
+    ],
+    "folders": [
+      "DMC-DevilMayCry_2013"
+    ],
+    "name": "Dmc Devilmaycry 2013"
   },
   "name:dragon-ball-fighters-z": {
     "config_count": 1,
@@ -32947,7 +33002,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2463,
+    "config_count": 2464,
     "devices": [
       {
         "d": "G52_MC2",
@@ -33735,11 +33790,6 @@
         "s": "Adreno (TM) 644"
       },
       {
-        "d": "G68",
-        "m": "Mali",
-        "s": "Mali-G68"
-      },
-      {
         "d": "G52",
         "m": "Mali",
         "s": "Mali-G52"
@@ -33793,6 +33843,11 @@
         "d": "Adreno__TM__710",
         "m": "A366E",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
       },
       {
         "d": "Adreno__TM__740",
