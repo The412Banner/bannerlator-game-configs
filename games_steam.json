@@ -317,6 +317,10 @@
     "appid": 33900,
     "method": "alias"
   },
+  "ArmA_2__Combined_Operations": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "Arma_2__Operation_Arrowhead": {
     "appid": 33930,
     "method": "naive",
@@ -803,6 +807,10 @@
     "method": "norm",
     "steam_name": "Call of Duty\u00ae: Black Ops III"
   },
+  "BlackOpsMP": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "BlackOps_1_PLUTONIUM": {
     "appid": null,
     "method": "unresolved"
@@ -1131,6 +1139,12 @@
   "Call_of_Duty_R___World_at_War_Game": {
     "appid": null,
     "method": "unresolved"
+  },
+  "Call_of_Duty__4__Modern_Warfare___2007_": {
+    "appid": 7940,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/7940/header.jpg",
+    "method": "naive",
+    "steam_name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
   "Call_of_Duty__World_at_War": {
     "appid": 10090,
@@ -6877,7 +6891,6 @@
   },
   "Portal__Revolution": {
     "appid": 601360,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/601360/header.jpg",
     "method": "naive",
     "steam_name": "Portal: Revolution"
   },
@@ -9483,7 +9496,6 @@
   },
   "Turok_______________________________________________________": {
     "appid": 405820,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/405820/header.jpg",
     "method": "naive",
     "steam_name": "Turok"
   },
