@@ -21887,7 +21887,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "G68_MC4",
@@ -21903,11 +21903,22 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE"
+      "oriDE",
+      "Ori"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -27279,25 +27290,6 @@
       "MONSTER_HUNTER_-_WORLD"
     ],
     "name": "Monster Hunter: World"
-  },
-  "582160": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "2211133C",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "Ori"
-    ],
-    "name": "Assassin's Creed\u00ae Origins"
   },
   "582660": {
     "config_count": 1,
