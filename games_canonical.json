@@ -1871,7 +1871,7 @@
     "name": "FINAL FANTASY"
   },
   "1174180": {
-    "config_count": 40,
+    "config_count": 42,
     "devices": [
       {
         "d": "SM8750P",
@@ -1952,6 +1952,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "NP05J",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "Adreno__TM__650",
@@ -7939,8 +7944,13 @@
     "name": "Ib"
   },
   "1903340": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
       {
         "d": "Adreno__TM__850",
         "m": "ASUS_AI2401_A",
@@ -9776,7 +9786,7 @@
     "name": "FTL: Faster Than Light"
   },
   "2128470": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "MT6835",
@@ -9797,6 +9807,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "G76_MC4",
+        "m": "Mali",
+        "s": "Mali-G76 MC4"
       }
     ],
     "folders": [
@@ -11145,7 +11160,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 14,
+    "config_count": 11,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -11174,9 +11189,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -13093,7 +13106,7 @@
     "name": "Horizon Forbidden West\u2122 Complete Edition"
   },
   "242050": {
-    "config_count": 79,
+    "config_count": 80,
     "devices": [
       {
         "d": "MT6789",
@@ -13169,11 +13182,6 @@
         "d": "Adreno__TM__740",
         "m": "23113RKC6G",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
       },
       {
         "d": "G57",
@@ -13254,6 +13262,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__750",
@@ -16366,7 +16379,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 34,
     "devices": [
       {
         "d": "G615_MC2",
@@ -16406,7 +16419,9 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -17738,7 +17753,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G78",
@@ -17799,6 +17814,11 @@
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
@@ -18384,7 +18404,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1223,
+    "config_count": 1225,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -19277,11 +19297,6 @@
         "s": "Adreno (TM) 650"
       },
       {
-        "d": "Adreno__TM__650",
-        "m": "22021211RG",
-        "s": "Adreno (TM) 650"
-      },
-      {
         "d": "G76_MC4",
         "m": "Mali",
         "s": "Mali-G76 MC4"
@@ -19315,6 +19330,16 @@
         "d": "Adreno__TM__710",
         "m": "NX1",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G77",
+        "m": "Mali",
+        "s": "Mali-G77"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "22021211RG",
+        "s": "Adreno (TM) 650"
       },
       {
         "d": "Adreno__TM__830",
@@ -21810,7 +21835,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 13,
+    "config_count": 12,
     "devices": [
       {
         "d": "G68_MC4",
@@ -21826,22 +21851,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "2211133C",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE",
-      "Ori"
+      "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -22234,7 +22248,7 @@
     "name": "SpiritVale"
   },
   "3768760": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -27224,6 +27238,25 @@
       "MONSTER_HUNTER_-_WORLD"
     ],
     "name": "Monster Hunter: World"
+  },
+  "582160": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Ori"
+    ],
+    "name": "Assassin's Creed\u00ae Origins"
   },
   "582660": {
     "config_count": 1,
@@ -32881,7 +32914,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2461,
+    "config_count": 2463,
     "devices": [
       {
         "d": "G52_MC2",
@@ -33494,11 +33527,6 @@
         "s": "Mali-G72"
       },
       {
-        "d": "Adreno__TM__710",
-        "m": "A366E",
-        "s": "Adreno (TM) 710"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "moto_g_8__power",
         "s": "Adreno (TM) 610"
@@ -33602,11 +33630,6 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "PowerVR_Rogue_GE8320",
-        "m": "A042M",
-        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "Adreno__TM__710",
@@ -33727,6 +33750,16 @@
         "d": "Adreno__TM__610",
         "m": "CPH3669",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "A042M",
+        "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "A366E",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__740",
