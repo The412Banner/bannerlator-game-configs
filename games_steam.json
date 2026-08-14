@@ -12,6 +12,12 @@
     "appid": null,
     "method": "unresolved"
   },
+  "1954_Alcatraz": {
+    "appid": 255280,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/255280/header.jpg",
+    "method": "naive",
+    "steam_name": "1954 Alcatraz"
+  },
   "2016": {
     "appid": 391720,
     "method": "naive",
@@ -1122,6 +1128,10 @@
     "appid": 830461,
     "method": "naive",
     "steam_name": "Call of Duty\u00ae: Black Ops III - Revelations Zombies Map"
+  },
+  "Call_of_Duty_R___World_at_War_Game": {
+    "appid": null,
+    "method": "unresolved"
   },
   "Call_of_Duty__World_at_War": {
     "appid": 10090,

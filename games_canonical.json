@@ -2350,7 +2350,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 313,
+    "config_count": 314,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -2633,11 +2633,6 @@
         "s": "Adreno (TM) 642L"
       },
       {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "NX1",
         "s": "Adreno (TM) 710"
@@ -2676,6 +2671,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__735",
@@ -14413,6 +14413,20 @@
     ],
     "name": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue"
   },
+  "255280": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "2304FPN6DG",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "1954_Alcatraz"
+    ],
+    "name": "1954 Alcatraz"
+  },
   "2558620": {
     "config_count": 2,
     "devices": [
@@ -21835,7 +21849,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "G68_MC4",
@@ -21851,11 +21865,22 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE"
+      "oriDE",
+      "Ori"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -22027,7 +22052,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -24093,6 +24118,14 @@
       "mywintercar"
     ],
     "name": "My Winter Car"
+  },
+  "4165870": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Control_Ultimate_Edition"
+    ],
+    "name": "Steam Controller"
   },
   "4165910": {
     "config_count": 2,
@@ -27239,25 +27272,6 @@
     ],
     "name": "Monster Hunter: World"
   },
-  "582160": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "2211133C",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "Ori"
-    ],
-    "name": "Assassin's Creed\u00ae Origins"
-  },
   "582660": {
     "config_count": 1,
     "devices": [
@@ -30014,7 +30028,7 @@
     "name": "The Walking Dead: The Final Season"
   },
   "870780": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "CONTROL_Ultimate_Edition",
@@ -30652,14 +30666,6 @@
       "Assassin_s_Creed__Odyssey"
     ],
     "name": "Assassin's Creed\u00ae Odyssey - Season Pass"
-  },
-  "940190": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Chuckie_Egg_3"
-    ],
-    "name": "Chuckie Egg 2017"
   },
   "940910": {
     "config_count": 1,
@@ -31612,6 +31618,14 @@
       "CastlevaniaSOH"
     ],
     "name": "Castlevaniasoh"
+  },
+  "name:chuckie-egg-3": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Chuckie_Egg_3"
+    ],
+    "name": "Chuckie Egg 3"
   },
   "name:clientg": {
     "config_count": 1,
