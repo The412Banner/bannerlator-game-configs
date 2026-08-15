@@ -3465,7 +3465,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 43,
+    "config_count": 44,
     "devices": [
       {
         "d": "G57_MC2",
@@ -3546,6 +3546,11 @@
         "d": "Adreno__TM__750",
         "m": "CPH2645",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
       }
     ],
     "folders": [
@@ -3559,6 +3564,7 @@
       "Need_For_Speed_Most_Wanted_",
       "Need_for_Speed_-_Most_Wanted",
       "Need_for_Speed__Most_Wanted_2005",
+      "Need_for_Speed__Most_wanted__2012_",
       "need_for_speed_most_wa"
     ],
     "name": "Need for Speed\u2122 Most Wanted"
@@ -5044,6 +5050,20 @@
     ],
     "name": "Mortal Sin"
   },
+  "1495870": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "S928B",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "updater"
+    ],
+    "name": "PowerNap: Ultimate Game Updater"
+  },
   "1497460": {
     "config_count": 1,
     "devices": [],
@@ -5566,7 +5586,7 @@
     "name": "SuperTux"
   },
   "1574140": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -5575,6 +5595,7 @@
       }
     ],
     "folders": [
+      "DiRT4",
       "Dirt4"
     ],
     "name": "TIME FOR YOU - CHAPTER 02 - DIRTY THOUGHTS AND CORPORATE BOTS"
@@ -8720,7 +8741,7 @@
     "name": "Assassin's Creed\u00ae Revelations"
   },
   "202170": {
-    "config_count": 56,
+    "config_count": 55,
     "devices": [
       {
         "d": "MT6878",
@@ -8852,8 +8873,7 @@
       "Sleeping_Dogs",
       "Sleeping_Dogs_",
       "Sleeping_Dogs_-_Definitive_Edition__________________________",
-      "SleepingDogs",
-      "Sleeping_Dogs_Definitive_Edition"
+      "SleepingDogs"
     ],
     "name": "Sleeping Dogs"
   },
@@ -10964,7 +10984,7 @@
     "name": "Total Chaos"
   },
   "221040": {
-    "config_count": 63,
+    "config_count": 64,
     "devices": [
       {
         "d": "G720_MC7",
@@ -11090,12 +11110,18 @@
         "d": "Adreno__TM__710",
         "m": "I2219",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "CPH2613",
+        "s": "Adreno (TM) 720"
       }
     ],
     "folders": [
       "RESIDENT_EVIL_6",
       "Resident_Evil_6",
-      "Resident_evil_6"
+      "Resident_evil_6",
+      "resident_evil_6"
     ],
     "name": "Resident Evil 6"
   },
@@ -12252,6 +12278,20 @@
     ],
     "name": "Zefyr: Prologue"
   },
+  "232050": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Maleoon_910",
+        "m": "W09",
+        "s": "Maleoon 910"
+      }
+    ],
+    "folders": [
+      "Eador__Masters_of_the_Broken_World"
+    ],
+    "name": "Eador. Masters of the Broken World"
+  },
   "2321780": {
     "config_count": 2,
     "devices": [],
@@ -13020,7 +13060,7 @@
     "name": "MotoGP\u212213"
   },
   "241540": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "G78",
@@ -13039,8 +13079,7 @@
       }
     ],
     "folders": [
-      "State_of_Decay",
-      "StateOfDecay"
+      "State_of_Decay"
     ],
     "name": "State of Decay"
   },
@@ -17402,7 +17441,7 @@
     "name": "Battlefield\u2122 REDSEC"
   },
   "304240": {
-    "config_count": 6,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -17413,16 +17452,10 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__720",
-        "m": "CPH2613",
-        "s": "Adreno (TM) 720"
       }
     ],
     "folders": [
-      "Resident_Evil",
-      "resident_evil_6"
+      "Resident_Evil"
     ],
     "name": "Resident Evil"
   },
@@ -17633,7 +17666,7 @@
     "name": "Platypus"
   },
   "307690": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -17657,7 +17690,8 @@
       }
     ],
     "folders": [
-      "Sleeping_Dogs__Definitive_Edition"
+      "Sleeping_Dogs__Definitive_Edition",
+      "Sleeping_Dogs_Definitive_Edition"
     ],
     "name": "Sleeping Dogs: Definitive Edition"
   },
@@ -17852,7 +17886,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G78",
@@ -17924,7 +17958,8 @@
       "BlackOps",
       "Call_of_Duty_3______________________________________________",
       "Call_of_Duty_Black_Ops",
-      "Call_of_Duty___Black_Ops_III"
+      "Call_of_Duty___Black_Ops_III",
+      "Call_of_Duty_-_Black_Ops"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
   },
@@ -20793,7 +20828,7 @@
     "name": "SAMURAI WARRIORS 4-II"
   },
   "34870": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "G720_MC7",
@@ -21334,7 +21369,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 10,
+    "config_count": 20,
     "devices": [
       {
         "d": "G57_MC2",
@@ -21365,10 +21400,31 @@
         "d": "G57_MC4",
         "m": "Mali",
         "s": "Mali-G57 MC4"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
-      "Atla"
+      "Atla",
+      "TombRaider"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -23051,7 +23107,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 171,
+    "config_count": 161,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23322,34 +23378,13 @@
         "d": "Adreno__TM__650",
         "m": "G780G",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
       "Rise_of_the_Tomb_Raider",
       "Rise_of_the_Tomb_Raider_",
       "Tomb_Raider",
-      "Tomb_Raider_-_Definitive_Edition",
-      "TombRaider"
+      "Tomb_Raider_-_Definitive_Edition"
     ],
     "name": "Rise of the Tomb Raider\u2122"
   },
@@ -23718,7 +23753,7 @@
     "name": "The Spike Cross"
   },
   "400": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [],
     "folders": [
       "Portal"
@@ -24542,20 +24577,6 @@
       "Call_of_Duty___Modern_Warfare__3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
-  },
-  "42700": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Call_of_Duty_-_Black_Ops"
-    ],
-    "name": "Call of Duty\u00ae: Black Ops"
   },
   "427190": {
     "config_count": 5,
@@ -26148,7 +26169,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -26172,7 +26193,8 @@
       }
     ],
     "folders": [
-      "State_of_Decay_2__Juggernaut_Edition"
+      "State_of_Decay_2__Juggernaut_Edition",
+      "StateOfDecay"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
   },
@@ -31973,20 +31995,6 @@
     ],
     "name": "Dirt Showdown"
   },
-  "name:dirt4": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__650",
-        "m": "G988N",
-        "s": "Adreno (TM) 650"
-      }
-    ],
-    "folders": [
-      "DiRT4"
-    ],
-    "name": "Dirt4"
-  },
   "name:dirtfish-dirt4": {
     "config_count": 1,
     "devices": [],
@@ -32062,20 +32070,6 @@
       "DyingLightGame_TheBeast_x64_rwdi"
     ],
     "name": "Dyinglightgame Thebeast X64 Rwdi"
-  },
-  "name:eador-masters-of-the-broken-world": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Maleoon_910",
-        "m": "W09",
-        "s": "Maleoon 910"
-      }
-    ],
-    "folders": [
-      "Eador__Masters_of_the_Broken_World"
-    ],
-    "name": "Eador Masters Of The Broken World"
   },
   "name:efootball-2021": {
     "config_count": 44,
@@ -32522,6 +32516,14 @@
     ],
     "name": "Gtavlauncher"
   },
+  "name:helloneighbor-win64-shipping": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "HelloNeighbor-Win64-Shipping"
+    ],
+    "name": "Helloneighbor Win64 Shipping"
+  },
   "name:hoi4": {
     "config_count": 1,
     "devices": [],
@@ -32820,20 +32822,6 @@
       "NBA2K23"
     ],
     "name": "Nba2K23"
-  },
-  "name:need-for-speed-most-wanted-2012": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
-      }
-    ],
-    "folders": [
-      "Need_for_Speed__Most_wanted__2012_"
-    ],
-    "name": "Need For Speed Most Wanted 2012"
   },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 1,
@@ -33140,7 +33128,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2475,
+    "config_count": 2477,
     "devices": [
       {
         "d": "G52_MC2",
@@ -33978,14 +33966,14 @@
         "s": "Mali-G720 MC7"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G52",
         "m": "Mali",
         "s": "Mali-G52"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
@@ -34699,14 +34687,6 @@
       "Polaris-Win64-Shipping"
     ],
     "name": "Polaris Win64 Shipping"
-  },
-  "name:portal": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Portal"
-    ],
-    "name": "Portal"
   },
   "name:postal2-copy": {
     "config_count": 1,
