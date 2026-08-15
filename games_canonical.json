@@ -17886,7 +17886,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "G78",
@@ -17958,8 +17958,7 @@
       "BlackOps",
       "Call_of_Duty_3______________________________________________",
       "Call_of_Duty_Black_Ops",
-      "Call_of_Duty___Black_Ops_III",
-      "Call_of_Duty_-_Black_Ops"
+      "Call_of_Duty___Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
   },
@@ -22316,7 +22315,7 @@
     "name": "HELLMART"
   },
   "3764200": {
-    "config_count": 30,
+    "config_count": 31,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -22371,6 +22370,11 @@
       {
         "d": "Adreno__TM__830",
         "m": "S938B",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "2410DPN6CC",
         "s": "Adreno (TM) 830"
       }
     ],
@@ -24578,6 +24582,20 @@
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
+  "42700": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Call_of_Duty_-_Black_Ops"
+    ],
+    "name": "Call of Duty\u00ae: Black Ops"
+  },
   "427190": {
     "config_count": 5,
     "devices": [
@@ -26227,7 +26245,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "50130": {
-    "config_count": 24,
+    "config_count": 25,
     "devices": [
       {
         "d": "MT6781",
@@ -31490,8 +31508,14 @@
     "name": "Spyro\u2122 Reignited Trilogy"
   },
   "997010": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      }
+    ],
     "folders": [
       "Police_Simulator__Patrol_Officers"
     ],
@@ -33128,7 +33152,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2477,
+    "config_count": 2478,
     "devices": [
       {
         "d": "G52_MC2",
