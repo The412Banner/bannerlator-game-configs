@@ -3799,11 +3799,6 @@
     "method": "naive",
     "steam_name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition"
   },
-  "Grand_Theft_Auto__V": {
-    "appid": 3240220,
-    "method": "naive",
-    "steam_name": "Grand Theft Auto V Enhanced"
-  },
   "Granny": {
     "appid": 962400,
     "method": "naive",
@@ -4226,6 +4221,12 @@
     "appid": 613100,
     "method": "naive",
     "steam_name": "House Flipper"
+  },
+  "House_of_Necrosis": {
+    "appid": 2005870,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2005870/header.jpg",
+    "method": "naive",
+    "steam_name": "House of Necrosis"
   },
   "Human": {
     "appid": 2139460,
