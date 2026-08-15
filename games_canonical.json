@@ -5677,7 +5677,7 @@
     "name": "Cairn"
   },
   "1593500": {
-    "config_count": 137,
+    "config_count": 138,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -11212,7 +11212,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -11242,7 +11242,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev"
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -16456,7 +16457,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -16496,8 +16497,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -33070,7 +33070,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2466,
+    "config_count": 2467,
     "devices": [
       {
         "d": "G52_MC2",
@@ -33758,11 +33758,6 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "23028RA60L",
         "s": "Adreno (TM) 610"
@@ -33916,6 +33911,11 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       },
       {
         "d": "Adreno__TM__740",
@@ -34090,7 +34090,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 176,
+    "config_count": 177,
     "devices": [
       {
         "d": "G615_MC2",
