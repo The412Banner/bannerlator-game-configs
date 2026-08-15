@@ -1,6 +1,6 @@
 {
   "10": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "G52_MC2",
@@ -10,8 +10,7 @@
     ],
     "folders": [
       "Counter-Strike",
-      "Counter-Strike_1_4",
-      "Counter-Strike_2"
+      "Counter-Strike_1_4"
     ],
     "name": "Counter-Strike"
   },
@@ -572,14 +571,6 @@
       "Ultimate_Zombie_Defense"
     ],
     "name": "Ultimate Zombie Defense"
-  },
-  "1041320": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "LoK"
-    ],
-    "name": "Lords Mobile: Kingdom Wars"
   },
   "1044720": {
     "config_count": 1,
@@ -2000,7 +1991,7 @@
     "name": "A Plague Tale: Requiem"
   },
   "1186430": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G52_MC2",
@@ -2009,7 +2000,8 @@
       }
     ],
     "folders": [
-      "IGI"
+      "IGI",
+      "igi"
     ],
     "name": "I.G.I. Origins"
   },
@@ -4079,7 +4071,7 @@
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
   "1328670": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -5006,6 +4998,14 @@
       "teste"
     ],
     "name": "Tested on Humans: Escape Room"
+  },
+  "1486290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "eFootball_2026"
+    ],
+    "name": "Polyleague Manager 2026: Football Evolution"
   },
   "1491410": {
     "config_count": 1,
@@ -6956,14 +6956,6 @@
       "Mirror_s_Edge"
     ],
     "name": "Mirror's Edge\u2122"
-  },
-  "17460": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Mass_Effect"
-    ],
-    "name": "Mass Effect (2007)"
   },
   "1746860": {
     "config_count": 1,
@@ -9199,7 +9191,7 @@
     "name": "Resident Evil 4"
   },
   "205100": {
-    "config_count": 10,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -9219,8 +9211,7 @@
     ],
     "folders": [
       "Dishonored",
-      "Dishonored_-_Definitive_Edition",
-      "Dishonored_2"
+      "Dishonored_-_Definitive_Edition"
     ],
     "name": "Dishonored"
   },
@@ -10928,7 +10919,7 @@
     "name": "DmC: Devil May Cry"
   },
   "2207440": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -10937,7 +10928,8 @@
       }
     ],
     "folders": [
-      "LOK"
+      "LOK",
+      "LoK"
     ],
     "name": "LOK Digital"
   },
@@ -11732,7 +11724,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 191,
+    "config_count": 192,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -12631,7 +12623,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 15,
+    "config_count": 12,
     "devices": [
       {
         "d": "G720_MC7",
@@ -12652,21 +12644,10 @@
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II",
-      "DarkSoulsII"
+      "DARK_SOULS__II"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -15111,7 +15092,7 @@
     "name": "RC Revolution: High Voltage - \u514d\u8d39\u73a9"
   },
   "2663530": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -21958,7 +21939,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 13,
+    "config_count": 12,
     "devices": [
       {
         "d": "G68_MC4",
@@ -21974,22 +21955,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "2211133C",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE",
-      "Ori"
+      "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -22161,7 +22131,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 29,
+    "config_count": 32,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -22224,6 +22194,16 @@
         "s": "Adreno (TM) 735"
       },
       {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
+      },
+      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -22235,6 +22215,7 @@
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
       "DARK_SOULS_III",
+      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -23784,6 +23765,14 @@
       "Lost_Horizon_1"
     ],
     "name": "Lost Horizon"
+  },
+  "403640": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Dishonored_2"
+    ],
+    "name": "Dishonored 2"
   },
   "40390": {
     "config_count": 2,
@@ -27386,6 +27375,25 @@
     ],
     "name": "Monster Hunter: World"
   },
+  "582160": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Ori"
+    ],
+    "name": "Assassin's Creed\u00ae Origins"
+  },
   "582660": {
     "config_count": 1,
     "devices": [
@@ -28965,7 +28973,7 @@
     "name": "Borderlands Game of the Year Enhanced"
   },
   "730": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "G78",
@@ -30121,6 +30129,14 @@
       "Little_Nightmares_II"
     ],
     "name": "Little Nightmares II"
+  },
+  "861090": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Prototype_1"
+    ],
+    "name": "ONE PIECE World Seeker Extra Episode 1: Void Mirror Prototype"
   },
   "863570": {
     "config_count": 1,
@@ -32094,14 +32110,6 @@
     ],
     "name": "eFootball 2021"
   },
-  "name:efootball-2026": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "eFootball_2026"
-    ],
-    "name": "eFootball 2026"
-  },
   "name:emuteck-edition": {
     "config_count": 2,
     "devices": [
@@ -32479,20 +32487,6 @@
       "HorizonChase2"
     ],
     "name": "Horizonchase2"
-  },
-  "name:igi": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      }
-    ],
-    "folders": [
-      "igi"
-    ],
-    "name": "Igi"
   },
   "name:ikenai-kozukuri": {
     "config_count": 1,
@@ -33076,7 +33070,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2471,
+    "config_count": 2473,
     "devices": [
       {
         "d": "G52_MC2",
@@ -33859,11 +33853,6 @@
         "s": "Adreno (TM) 644"
       },
       {
-        "d": "G52",
-        "m": "Mali",
-        "s": "Mali-G52"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "motorola_edge_20_pro",
         "s": "Adreno (TM) 650"
@@ -33882,11 +33871,6 @@
         "d": "G77",
         "m": "Mali",
         "s": "Mali-G77"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       },
       {
         "d": "G720_MC8",
@@ -33922,6 +33906,16 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G52",
+        "m": "Mali",
+        "s": "Mali-G52"
       },
       {
         "d": "Adreno__TM__740",
@@ -34717,14 +34711,6 @@
       "ProjectZomboid64"
     ],
     "name": "Projectzomboid64"
-  },
-  "name:prototype-1": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Prototype_1"
-    ],
-    "name": "Prototype 1"
   },
   "name:re5dx9": {
     "config_count": 1,
