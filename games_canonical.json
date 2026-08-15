@@ -532,7 +532,7 @@
     "name": "Mafia II: Definitive Edition"
   },
   "1030840": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -543,16 +543,10 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__829",
-        "m": "motorola_signature",
-        "s": "Adreno (TM) 829"
       }
     ],
     "folders": [
-      "Mafia__Definitive_Edition",
-      "Mafia_Definitive_Edition"
+      "Mafia__Definitive_Edition"
     ],
     "name": "Mafia: Definitive Edition"
   },
@@ -7583,7 +7577,7 @@
     "name": "Asphalt Legends "
   },
   "1817070": {
-    "config_count": 17,
+    "config_count": 16,
     "devices": [
       {
         "d": "G57_MC2",
@@ -7637,8 +7631,7 @@
       }
     ],
     "folders": [
-      "Marvel_s_Spider-Man_Remastered",
-      "Spider-man_Remastered"
+      "Marvel_s_Spider-Man_Remastered"
     ],
     "name": "Marvel\u2019s Spider-Man Remastered"
   },
@@ -13776,14 +13769,6 @@
     ],
     "name": "SpongeBob SquarePants: Titans of the Tide"
   },
-  "248140": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "grid2"
-    ],
-    "name": "GRID 2 Demo"
-  },
   "2482940": {
     "config_count": 1,
     "devices": [
@@ -14998,7 +14983,7 @@
     "name": "Subnautica"
   },
   "2651280": {
-    "config_count": 22,
+    "config_count": 23,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -15044,13 +15029,19 @@
         "d": "Adreno__TM__730",
         "m": "motorola_edge_30_ultra",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
       "Activision_Spider-Man_3",
       "Marvel_s_Spider-Man_2",
       "Spider-Man_3",
-      "Spider-Man"
+      "Spider-Man",
+      "Spider-man_Remastered"
     ],
     "name": "Marvel's Spider-Man 2"
   },
@@ -16755,7 +16746,7 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 36,
+    "config_count": 35,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -16828,11 +16819,6 @@
         "s": "Adreno (TM) 840"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "V2425A",
-        "s": "Adreno (TM) 750"
-      },
-      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
@@ -16846,7 +16832,6 @@
     "folders": [
       "The_Witcher_3",
       "The_Witcher_3__Wild_Hunt",
-      "Witcher_1",
       "_Witcher",
       "witcher3"
     ],
@@ -20799,7 +20784,7 @@
     "name": "SAMURAI WARRIORS 4-II"
   },
   "34870": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "G720_MC7",
@@ -20815,17 +20800,11 @@
         "d": "Adreno__TM__840",
         "m": "I2501",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
       "Sniper_Ghost_Warrior_2",
-      "Sniper__Ghost_Warrior_2",
-      "SniperGhostWarrior2"
+      "Sniper__Ghost_Warrior_2"
     ],
     "name": "Sniper: Ghost Warrior 2"
   },
@@ -23983,6 +23962,20 @@
       "BioShock_2_Remastered"
     ],
     "name": "BioShock\u2122 2 Remastered"
+  },
+  "40990": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__829",
+        "m": "motorola_signature",
+        "s": "Adreno (TM) 829"
+      }
+    ],
+    "folders": [
+      "Mafia_Definitive_Edition"
+    ],
+    "name": "Mafia"
   },
   "4100940": {
     "config_count": 7,
@@ -32367,6 +32360,14 @@
     ],
     "name": "Grandchasepatcher"
   },
+  "name:grid2": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "grid2"
+    ],
+    "name": "Grid2"
+  },
   "name:gridautosport": {
     "config_count": 1,
     "devices": [
@@ -34111,7 +34112,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 177,
+    "config_count": 178,
     "devices": [
       {
         "d": "G615_MC2",
@@ -34896,6 +34897,20 @@
     ],
     "name": "Snapshot Lewd Shores"
   },
+  "name:sniperghostwarrior2": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "SniperGhostWarrior2"
+    ],
+    "name": "Sniperghostwarrior2"
+  },
   "name:sottr": {
     "config_count": 2,
     "devices": [],
@@ -35163,6 +35178,20 @@
       "Warcraft_III"
     ],
     "name": "Warcraft Iii"
+  },
+  "name:witcher-1": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "V2425A",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Witcher_1"
+    ],
+    "name": "Witcher 1"
   },
   "name:wizard-school-exchange-student": {
     "config_count": 1,
