@@ -1208,14 +1208,6 @@
     ],
     "name": "Mortal Shell"
   },
-  "1111360": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "BloodySpell"
-    ],
-    "name": "\u55dc\u8840\u5370 BloodySpell \u539f\u751f\u97f3\u4e50\u96c6"
-  },
   "1111380": {
     "config_count": 1,
     "devices": [
@@ -11309,7 +11301,7 @@
     "name": "Command & Conquer\u2122 Generals"
   },
   "22300": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -11345,7 +11337,8 @@
     "folders": [
       "Fallout_3",
       "Fallout_3_-_Game_of_the_Year_Edition",
-      "Fallout_3___________________________________________________"
+      "Fallout_3___________________________________________________",
+      "Fallout_3__Game_of_the_Year_Edition"
     ],
     "name": "Fallout 3"
   },
@@ -11437,14 +11430,6 @@
       "Contra_Galuga"
     ],
     "name": "Contra: Operation Galuga"
-  },
-  "22370": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Fallout_3__Game_of_the_Year_Edition"
-    ],
-    "name": "Fallout 3: Game of the Year Edition"
   },
   "22380": {
     "config_count": 14,
@@ -15092,7 +15077,7 @@
     "name": "RC Revolution: High Voltage - \u514d\u8d39\u73a9"
   },
   "2663530": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -22928,7 +22913,7 @@
     "name": "Pacer"
   },
   "389730": {
-    "config_count": 37,
+    "config_count": 38,
     "devices": [
       {
         "d": "SM8850",
@@ -23019,11 +23004,17 @@
         "d": "Adreno__TM__840",
         "m": "S948B",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
       "TEKKEN_7",
       "TEKKEN7",
+      "Tekken7",
       "Tekken_7"
     ],
     "name": "TEKKEN 7"
@@ -31416,6 +31407,14 @@
       "DB_FighterZ"
     ],
     "name": "DRAGON BALL FighterZ - Broly (DBS)"
+  },
+  "992300": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "BloodySpell"
+    ],
+    "name": "\u55dc\u8840\u5370 Bloody Spell"
   },
   "99300": {
     "config_count": 2,
