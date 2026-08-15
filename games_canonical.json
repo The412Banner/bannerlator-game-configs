@@ -1208,6 +1208,14 @@
     ],
     "name": "Mortal Shell"
   },
+  "1111360": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "BloodySpell"
+    ],
+    "name": "\u55dc\u8840\u5370 BloodySpell \u539f\u751f\u97f3\u4e50\u96c6"
+  },
   "1111380": {
     "config_count": 1,
     "devices": [
@@ -2757,7 +2765,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 36,
+    "config_count": 37,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -2838,6 +2846,11 @@
         "d": "Adreno__TM__650",
         "m": "NP03J",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__722",
+        "m": "CPH2825",
+        "s": "Adreno (TM) 722"
       },
       {
         "d": "G57_MC2",
@@ -4885,7 +4898,7 @@
     "name": "Majikoi! Love Me Seriously!"
   },
   "1462040": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -4901,6 +4914,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "Adreno__TM__840",
@@ -11301,7 +11319,7 @@
     "name": "Command & Conquer\u2122 Generals"
   },
   "22300": {
-    "config_count": 18,
+    "config_count": 17,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -11337,8 +11355,7 @@
     "folders": [
       "Fallout_3",
       "Fallout_3_-_Game_of_the_Year_Edition",
-      "Fallout_3___________________________________________________",
-      "Fallout_3__Game_of_the_Year_Edition"
+      "Fallout_3___________________________________________________"
     ],
     "name": "Fallout 3"
   },
@@ -11430,6 +11447,14 @@
       "Contra_Galuga"
     ],
     "name": "Contra: Operation Galuga"
+  },
+  "22370": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Fallout_3__Game_of_the_Year_Edition"
+    ],
+    "name": "Fallout 3: Game of the Year Edition"
   },
   "22380": {
     "config_count": 14,
@@ -13913,8 +13938,13 @@
     "name": "FATAL FURY: City of the Wolves"
   },
   "2499860": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
+      },
       {
         "d": "G610_MC4",
         "m": "Mali",
@@ -31407,14 +31437,6 @@
       "DB_FighterZ"
     ],
     "name": "DRAGON BALL FighterZ - Broly (DBS)"
-  },
-  "992300": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "BloodySpell"
-    ],
-    "name": "\u55dc\u8840\u5370 Bloody Spell"
   },
   "99300": {
     "config_count": 2,
