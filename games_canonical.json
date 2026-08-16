@@ -1333,20 +1333,6 @@
     ],
     "name": "People Playground"
   },
-  "1118272": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__618",
-        "m": "M2007J20CG",
-        "s": "Adreno (TM) 618"
-      }
-    ],
-    "folders": [
-      "dirt_3"
-    ],
-    "name": "DiRT Rally 2.0 - Peugeot 306 Maxi"
-  },
   "1118310": {
     "config_count": 1,
     "devices": [],
@@ -10435,7 +10421,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 90,
+    "config_count": 91,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -11740,13 +11726,8 @@
     "name": "Tomb Raider II (1997)"
   },
   "2254490": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
       {
         "d": "Adreno__TM__644",
         "m": "E556B",
@@ -11760,7 +11741,6 @@
     ],
     "folders": [
       "Launcher",
-      "Rockstar_Games_Launcher",
       "launcher"
     ],
     "name": "Squirrel Launcher"
@@ -12460,7 +12440,7 @@
     "name": "Sky: Children of the Light"
   },
   "232890": {
-    "config_count": 13,
+    "config_count": 12,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -12474,8 +12454,7 @@
       }
     ],
     "folders": [
-      "__Stronghold_Crusader",
-      "Stronghold_Crusader_HD"
+      "__Stronghold_Crusader"
     ],
     "name": "Stronghold Crusader 2"
   },
@@ -14060,7 +14039,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 23,
+    "config_count": 24,
     "devices": [
       {
         "d": "A075M",
@@ -14086,11 +14065,6 @@
         "d": "Adreno__TM__710",
         "m": "motorola_edge_50_fusion",
         "s": "Adreno (TM) 710"
-      },
-      {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
       },
       {
         "d": "256",
@@ -14121,6 +14095,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       }
     ],
     "folders": [
@@ -17660,7 +17639,7 @@
     "name": "Battlefield\u2122 REDSEC"
   },
   "304240": {
-    "config_count": 6,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -17674,8 +17653,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil",
-      "Resident_Evil_5"
+      "Resident_Evil"
     ],
     "name": "Resident Evil"
   },
@@ -21079,7 +21057,7 @@
     "name": "SAMURAI WARRIORS 4-II"
   },
   "34870": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "G720_MC7",
@@ -21095,11 +21073,17 @@
         "d": "Adreno__TM__840",
         "m": "I2501",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
       "Sniper_Ghost_Warrior_2",
-      "Sniper__Ghost_Warrior_2"
+      "Sniper__Ghost_Warrior_2",
+      "SniperGhostWarrior2"
     ],
     "name": "Sniper: Ghost Warrior 2"
   },
@@ -24223,6 +24207,14 @@
       "MallRivals"
     ],
     "name": "Mall Rivals"
+  },
+  "40970": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Stronghold_Crusader_HD"
+    ],
+    "name": "Stronghold Crusader HD (2012)"
   },
   "409710": {
     "config_count": 3,
@@ -28992,16 +28984,22 @@
     "name": "Trine 4: The Nightmare Prince"
   },
   "690790": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__750",
         "m": "MEIZU_21",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "M2007J20CG",
+        "s": "Adreno (TM) 618"
       }
     ],
     "folders": [
-      "DiRT_Rally"
+      "DiRT_Rally",
+      "dirt_3"
     ],
     "name": "DiRT Rally 2.0"
   },
@@ -30554,7 +30552,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 98,
+    "config_count": 99,
     "devices": [
       {
         "d": "s5e8855",
@@ -30732,6 +30730,11 @@
         "s": "Adreno (TM) 750"
       },
       {
+        "d": "Adreno__TM__840",
+        "m": "S948U1",
+        "s": "Adreno (TM) 840"
+      },
+      {
         "d": "G610_MC6",
         "m": "Mali",
         "s": "Mali-G610 MC6"
@@ -30745,6 +30748,7 @@
     "folders": [
       "Resident_Evil_2",
       "Resident_Evil_2_____________________________________________",
+      "Resident_Evil_2__2019_",
       "Resident_Evil_2__DX11_",
       "re2"
     ],
@@ -33412,7 +33416,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2496,
+    "config_count": 2497,
     "devices": [
       {
         "d": "G52_MC2",
@@ -34437,7 +34441,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 178,
+    "config_count": 179,
     "devices": [
       {
         "d": "G615_MC2",
@@ -34560,11 +34564,6 @@
         "s": "PowerVR B-Series BXM-8-256"
       },
       {
-        "d": "Adreno__TM__735",
-        "m": "24069PC21G",
-        "s": "Adreno (TM) 735"
-      },
-      {
         "d": "Adreno__TM__642L",
         "m": "22101320G",
         "s": "Adreno (TM) 642L"
@@ -34668,6 +34667,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
       },
       {
         "d": "Adreno__TM__740",
@@ -35075,20 +35079,6 @@
     ],
     "name": "Re5Dx9"
   },
-  "name:resident-evil-2-2019": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "S948U1",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "Resident_Evil_2__2019_"
-    ],
-    "name": "Resident Evil 2 2019"
-  },
   "name:resident-evil-2-dx11": {
     "config_count": 1,
     "devices": [],
@@ -35128,6 +35118,20 @@
       "Rocket_League_"
     ],
     "name": "Rocket League"
+  },
+  "name:rockstar-games-launcher": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Rockstar_Games_Launcher"
+    ],
+    "name": "Rockstar Games Launcher"
   },
   "name:rottr": {
     "config_count": 7,
@@ -35243,28 +35247,6 @@
       "Snapshot__Lewd_Shores"
     ],
     "name": "Snapshot Lewd Shores"
-  },
-  "name:sniper-ghost-warrior-1": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 1"
-  },
-  "name:sniperghostwarrior2": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "SniperGhostWarrior2"
-    ],
-    "name": "Sniperghostwarrior2"
   },
   "name:sottr": {
     "config_count": 2,

@@ -217,9 +217,6 @@
   "1118200": [
     "People_Playground"
   ],
-  "1118272": [
-    "dirt_3"
-  ],
   "1118310": [
     "RetroArch"
   ],
@@ -1895,7 +1892,6 @@
   ],
   "2254490": [
     "Launcher",
-    "Rockstar_Games_Launcher",
     "launcher"
   ],
   "2254890": [
@@ -1989,7 +1985,6 @@
     "Sky__Children_of_the_Light"
   ],
   "232890": [
-    "Stronghold_Crusader_HD",
     "__Stronghold_Crusader"
   ],
   "233550": [
@@ -2842,8 +2837,7 @@
     "Battlefield__REDSEC"
   ],
   "304240": [
-    "Resident_Evil",
-    "Resident_Evil_5"
+    "Resident_Evil"
   ],
   "304430": [
     "INSIDE"
@@ -3294,6 +3288,7 @@
     "SAMURAI_WARRIORS_4-II"
   ],
   "34870": [
+    "SniperGhostWarrior2",
     "Sniper_Ghost_Warrior_2",
     "Sniper__Ghost_Warrior_2"
   ],
@@ -3791,6 +3786,9 @@
   ],
   "4090330": [
     "MallRivals"
+  ],
+  "40970": [
+    "Stronghold_Crusader_HD"
   ],
   "409710": [
     "BioShock_Remastered",
@@ -4624,7 +4622,8 @@
     "Trine_4__The_Nightmare_Prince"
   ],
   "690790": [
-    "DiRT_Rally"
+    "DiRT_Rally",
+    "dirt_3"
   ],
   "690830": [
     "Foundation"
@@ -4896,6 +4895,7 @@
   ],
   "883710": [
     "Resident_Evil_2",
+    "Resident_Evil_2__2019_",
     "Resident_Evil_2__DX11_",
     "Resident_Evil_2_____________________________________________",
     "re2"
@@ -5637,9 +5637,6 @@
   "name:re5dx9": [
     "re5dx9"
   ],
-  "name:resident-evil-2-2019": [
-    "Resident_Evil_2__2019_"
-  ],
   "name:resident-evil-2-dx11": [
     "Resident_Evil_2_DX11"
   ],
@@ -5654,6 +5651,9 @@
   ],
   "name:rocket-league": [
     "Rocket_League_"
+  ],
+  "name:rockstar-games-launcher": [
+    "Rockstar_Games_Launcher"
   ],
   "name:rottr": [
     "ROTTR"
@@ -5684,12 +5684,6 @@
   ],
   "name:snapshot-lewd-shores": [
     "Snapshot__Lewd_Shores"
-  ],
-  "name:sniper-ghost-warrior-1": [
-    "Sniper_Ghost_Warrior_1"
-  ],
-  "name:sniperghostwarrior2": [
-    "SniperGhostWarrior2"
   ],
   "name:sottr": [
     "SOTTR"
