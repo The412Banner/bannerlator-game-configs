@@ -376,7 +376,13 @@
   },
   "102840": {
     "config_count": 4,
-    "devices": [],
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "25102PCBEG",
+        "s": "Adreno (TM) 840"
+      }
+    ],
     "folders": [
       "Shank_2",
       "Shank2"
@@ -1180,7 +1186,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1189,8 +1195,7 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid",
-      "Rangers"
+      "BattleForTheGrid"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -2350,7 +2355,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 315,
+    "config_count": 316,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -2765,7 +2770,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 37,
+    "config_count": 38,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -2826,6 +2831,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S911B",
+        "s": "Adreno (TM) 740"
       },
       {
         "d": "Adreno__TM__740",
@@ -5009,6 +5019,14 @@
     ],
     "name": "Tested on Humans: Escape Room"
   },
+  "1486290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "eFootball_2026"
+    ],
+    "name": "Polyleague Manager 2026: Football Evolution"
+  },
   "1491410": {
     "config_count": 1,
     "devices": [
@@ -5095,7 +5113,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 79,
+    "config_count": 80,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -5236,6 +5254,11 @@
         "d": "Adreno__TM__830",
         "m": "N49",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
@@ -5251,7 +5274,8 @@
       "FIFA_2007",
       "FIFA_22",
       "FIFA_23",
-      "FIFA22"
+      "FIFA22",
+      "fifa_12"
     ],
     "name": "FIFA 22"
   },
@@ -6353,7 +6377,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 88,
+    "config_count": 87,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -6495,8 +6519,7 @@
       "pes_13_",
       "pes_2012",
       "pes_2013",
-      "pes__2013",
-      "eFootball_2026"
+      "pes__2013"
     ],
     "name": "eFootball\u2122"
   },
@@ -7172,7 +7195,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 142,
+    "config_count": 143,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -7589,7 +7612,7 @@
     "name": "Asphalt Legends "
   },
   "1817070": {
-    "config_count": 16,
+    "config_count": 17,
     "devices": [
       {
         "d": "G57_MC2",
@@ -7643,7 +7666,8 @@
       }
     ],
     "folders": [
-      "Marvel_s_Spider-Man_Remastered"
+      "Marvel_s_Spider-Man_Remastered",
+      "Spider-man_Remastered"
     ],
     "name": "Marvel\u2019s Spider-Man Remastered"
   },
@@ -9428,7 +9452,7 @@
     "name": "Stick It to the Stickman"
   },
   "208650": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -9446,11 +9470,6 @@
         "s": "Adreno (TM) 750"
       },
       {
-        "d": "Adreno__TM__830",
-        "m": "NP05J",
-        "s": "Adreno (TM) 830"
-      },
-      {
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
@@ -9464,6 +9483,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "NP05J",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -9764,20 +9788,6 @@
       "F_E_A_R__3"
     ],
     "name": "F.E.A.R. 3"
-  },
-  "211010": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "Alien_Shooter_2"
-    ],
-    "name": "Alien Shooter 2 Conscription"
   },
   "2110820": {
     "config_count": 1,
@@ -11276,7 +11286,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 13,
+    "config_count": 11,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -11305,8 +11315,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -11775,7 +11784,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 194,
+    "config_count": 195,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -11906,11 +11915,6 @@
         "d": "Adreno__TM__610",
         "m": "CPH2725",
         "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
       },
       {
         "d": "Adreno__TM__710",
@@ -12056,6 +12060,11 @@
         "d": "Adreno__TM__610",
         "m": "W09",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       }
     ],
     "folders": [
@@ -14527,7 +14536,7 @@
     "name": "Beyond R: Rule Ripper"
   },
   "2552430": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -14543,7 +14552,8 @@
     "folders": [
       "KINGDOM_HEARTS_-HD_1_5_2_5_ReMIX-",
       "KINGDOM_HEARTS_-_Final_Mix",
-      "mi_1_1"
+      "mi_1_1",
+      "KINGDOM_HEARTS_-_Final_Mix_HD"
     ],
     "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
   },
@@ -15054,7 +15064,7 @@
     "name": "Subnautica"
   },
   "2651280": {
-    "config_count": 23,
+    "config_count": 22,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -15100,19 +15110,13 @@
         "d": "Adreno__TM__730",
         "m": "motorola_edge_30_ultra",
         "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
       "Activision_Spider-Man_3",
       "Marvel_s_Spider-Man_2",
       "Spider-Man_3",
-      "Spider-Man",
-      "Spider-man_Remastered"
+      "Spider-Man"
     ],
     "name": "Marvel's Spider-Man 2"
   },
@@ -15906,6 +15910,14 @@
     ],
     "name": "Hospital 666"
   },
+  "2787680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Candy Rangers"
+  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -16553,7 +16565,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 34,
     "devices": [
       {
         "d": "G615_MC2",
@@ -16594,6 +16606,7 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
+      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -18592,7 +18605,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1228,
+    "config_count": 1231,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -19240,11 +19253,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "Adreno__TM__740",
-        "m": "F946B",
-        "s": "Adreno (TM) 740"
-      },
-      {
         "d": "Adreno__TM__840",
         "m": "NX809J",
         "s": "Adreno (TM) 840"
@@ -19528,6 +19536,11 @@
         "d": "Adreno__TM__710",
         "m": "moto_g75_5G",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "F946B",
+        "s": "Adreno (TM) 740"
       },
       {
         "d": "Adreno__TM__830",
@@ -20055,6 +20068,20 @@
       "Garten_of_Banban_0"
     ],
     "name": "Garten of Banban 0"
+  },
+  "33120": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Alien_Shooter_2"
+    ],
+    "name": "Alien Shooter 2: Reloaded"
   },
   "3314070": {
     "config_count": 1,
@@ -21206,6 +21233,20 @@
       "________2nd_"
     ],
     "name": "2nd EVE"
+  },
+  "351970": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "Retroid_Pocket_Nova",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Tales_of_Zestiria"
+    ],
+    "name": "Tales of Zestiria"
   },
   "352400": {
     "config_count": 6,
@@ -32271,20 +32312,6 @@
     ],
     "name": "Ffxiii"
   },
-  "name:fifa-12": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__710",
-        "m": "NX1",
-        "s": "Adreno (TM) 710"
-      }
-    ],
-    "folders": [
-      "fifa_12"
-    ],
-    "name": "Fifa 12"
-  },
   "name:fifa14": {
     "config_count": 1,
     "devices": [],
@@ -33201,7 +33228,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2483,
+    "config_count": 2485,
     "devices": [
       {
         "d": "G52_MC2",
@@ -34039,14 +34066,14 @@
         "s": "Mali-G52"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",

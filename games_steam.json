@@ -4224,7 +4224,6 @@
   },
   "House_of_Necrosis": {
     "appid": 2005870,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2005870/header.jpg",
     "method": "naive",
     "steam_name": "House of Necrosis"
   },
@@ -4486,8 +4485,18 @@
     "method": "naive",
     "steam_name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
   },
+  "KINGDOM_HEARTS_-_BBS_HD": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "KINGDOM_HEARTS_-_Final_Mix": {
     "appid": 2552430,
+    "method": "norm",
+    "steam_name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
+  },
+  "KINGDOM_HEARTS_-_Final_Mix_HD": {
+    "appid": 2552430,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2552430/header.jpg",
     "method": "norm",
     "steam_name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
   },
@@ -8797,6 +8806,12 @@
     "appid": 429660,
     "method": "naive",
     "steam_name": "Tales of Berseria\u2122"
+  },
+  "Tales_of_Zestiria": {
+    "appid": 351970,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/351970/header.jpg",
+    "method": "naive",
+    "steam_name": "Tales of Zestiria"
   },
   "Tanki_Online": {
     "appid": 562010,
