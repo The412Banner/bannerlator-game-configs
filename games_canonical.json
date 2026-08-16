@@ -4120,7 +4120,7 @@
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
   "1328670": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -7078,14 +7078,6 @@
       "Mirror_s_Edge"
     ],
     "name": "Mirror's Edge\u2122"
-  },
-  "17460": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Mass_Effect"
-    ],
-    "name": "Mass Effect (2007)"
   },
   "1746860": {
     "config_count": 1,
@@ -10721,7 +10713,7 @@
     "name": "Shave & Stuff"
   },
   "219990": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -10742,6 +10734,11 @@
         "d": "Adreno__TM__732",
         "m": "CPH2663",
         "s": "Adreno (TM) 732"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -14375,23 +14372,16 @@
     "name": "Valdis Story: Abyssal City"
   },
   "2523720": {
-    "config_count": 5,
+    "config_count": 2,
     "devices": [
       {
         "d": "Pocket_FIT",
         "m": "AYANEO",
         "s": null
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "Gears_of_War__Reloaded",
-      "Gears_of_War",
-      "Gears_of_War_2"
+      "Gears_of_War__Reloaded"
     ],
     "name": "Gears of War: Reloaded"
   },
@@ -17525,7 +17515,7 @@
     "name": "GET EVEN"
   },
   "3010850": {
-    "config_count": 7,
+    "config_count": 10,
     "devices": [
       {
         "d": "G57",
@@ -17541,13 +17531,19 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
       "E",
       "Gears_Of_War",
       "Gears_of_War",
-      "Gears_of_war_2"
+      "Gears_of_war_2",
+      "Gears_of_War_2"
     ],
     "name": "Gears of War: E-Day"
   },
@@ -21054,6 +21050,14 @@
     ],
     "name": "Ghost Song"
   },
+  "34830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper: Ghost Warrior"
+  },
   "348470": {
     "config_count": 13,
     "devices": [
@@ -22252,14 +22256,6 @@
       "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
-  },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
@@ -27473,7 +27469,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 43,
+    "config_count": 42,
     "devices": [
       {
         "d": "G57",
@@ -33437,7 +33433,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2497,
+    "config_count": 2498,
     "devices": [
       {
         "d": "G52_MC2",
@@ -34220,11 +34216,6 @@
         "s": "Adreno (TM) 650"
       },
       {
-        "d": "Adreno__TM__610",
-        "m": "23129RA5FL",
-        "s": "Adreno (TM) 610"
-      },
-      {
         "d": "Adreno__TM__619",
         "m": "moto_g34_5G",
         "s": "Adreno (TM) 619"
@@ -34288,6 +34279,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__740",
