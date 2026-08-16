@@ -28636,7 +28636,7 @@
     "name": "The Bureau: XCOM Declassified"
   },
   "660080": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "Immortalis_MC11",
@@ -28667,6 +28667,11 @@
         "d": "Adreno__TM__740",
         "m": "Odin2",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
