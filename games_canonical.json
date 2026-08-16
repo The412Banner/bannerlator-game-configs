@@ -13758,14 +13758,6 @@
     ],
     "name": "The Legend of Heroes: Trails into Reverie - SSS Summer Splash Set"
   },
-  "243470": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "watch_dogs"
-    ],
-    "name": "Watch_Dogs\u2122"
-  },
   "2436570": {
     "config_count": 1,
     "devices": [
@@ -20079,7 +20071,7 @@
     "name": "NINJA GAIDEN 2 Black"
   },
   "329050": {
-    "config_count": 44,
+    "config_count": 45,
     "devices": [
       {
         "d": "G57",
@@ -20175,6 +20167,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__725",
+        "m": "23049PCD8G",
+        "s": "Adreno (TM) 725"
       },
       {
         "d": "G68",
@@ -25255,7 +25252,7 @@
     "name": "Farming Simulator 17"
   },
   "447040": {
-    "config_count": 47,
+    "config_count": 48,
     "devices": [
       {
         "d": "G720_MC7",
@@ -25364,7 +25361,8 @@
       "Watch_Dogs_",
       "Watch_Dogs_2",
       "Watch_Dogs__2",
-      "watch_dogs_2"
+      "watch_dogs_2",
+      "watch_dogs"
     ],
     "name": "Watch_Dogs\u00ae 2"
   },
@@ -28753,7 +28751,7 @@
     "name": "GameGuru Starter Bundle"
   },
   "678950": {
-    "config_count": 44,
+    "config_count": 45,
     "devices": [
       {
         "d": "G68_MC4",
