@@ -6776,6 +6776,11 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       }
     ],
     "folders": [
@@ -10430,7 +10435,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 91,
+    "config_count": 90,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -12455,7 +12460,7 @@
     "name": "Sky: Children of the Light"
   },
   "232890": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -12469,7 +12474,8 @@
       }
     ],
     "folders": [
-      "__Stronghold_Crusader"
+      "__Stronghold_Crusader",
+      "Stronghold_Crusader_HD"
     ],
     "name": "Stronghold Crusader 2"
   },
@@ -17654,7 +17660,7 @@
     "name": "Battlefield\u2122 REDSEC"
   },
   "304240": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -17668,7 +17674,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil"
+      "Resident_Evil",
+      "Resident_Evil_5"
     ],
     "name": "Resident Evil"
   },
@@ -21072,7 +21079,7 @@
     "name": "SAMURAI WARRIORS 4-II"
   },
   "34870": {
-    "config_count": 6,
+    "config_count": 5,
     "devices": [
       {
         "d": "G720_MC7",
@@ -21088,17 +21095,11 @@
         "d": "Adreno__TM__840",
         "m": "I2501",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
       "Sniper_Ghost_Warrior_2",
-      "Sniper__Ghost_Warrior_2",
-      "SniperGhostWarrior2"
+      "Sniper__Ghost_Warrior_2"
     ],
     "name": "Sniper: Ghost Warrior 2"
   },
@@ -24222,14 +24223,6 @@
       "MallRivals"
     ],
     "name": "Mall Rivals"
-  },
-  "40970": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Stronghold_Crusader_HD"
-    ],
-    "name": "Stronghold Crusader HD (2012)"
   },
   "409710": {
     "config_count": 3,
@@ -30561,7 +30554,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 99,
+    "config_count": 98,
     "devices": [
       {
         "d": "s5e8855",
@@ -30739,11 +30732,6 @@
         "s": "Adreno (TM) 750"
       },
       {
-        "d": "Adreno__TM__840",
-        "m": "S948U1",
-        "s": "Adreno (TM) 840"
-      },
-      {
         "d": "G610_MC6",
         "m": "Mali",
         "s": "Mali-G610 MC6"
@@ -30757,7 +30745,6 @@
     "folders": [
       "Resident_Evil_2",
       "Resident_Evil_2_____________________________________________",
-      "Resident_Evil_2__2019_",
       "Resident_Evil_2__DX11_",
       "re2"
     ],
@@ -35088,6 +35075,20 @@
     ],
     "name": "Re5Dx9"
   },
+  "name:resident-evil-2-2019": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "S948U1",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "Resident_Evil_2__2019_"
+    ],
+    "name": "Resident Evil 2 2019"
+  },
   "name:resident-evil-2-dx11": {
     "config_count": 1,
     "devices": [],
@@ -35242,6 +35243,28 @@
       "Snapshot__Lewd_Shores"
     ],
     "name": "Snapshot Lewd Shores"
+  },
+  "name:sniper-ghost-warrior-1": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 1"
+  },
+  "name:sniperghostwarrior2": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "SniperGhostWarrior2"
+    ],
+    "name": "Sniperghostwarrior2"
   },
   "name:sottr": {
     "config_count": 2,
