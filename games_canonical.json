@@ -1617,8 +1617,13 @@
     "name": "Horizon Zero Dawn\u2122 Complete Edition"
   },
   "115320": {
-    "config_count": 59,
+    "config_count": 60,
     "devices": [
+      {
+        "d": "Adreno__TM__640",
+        "m": "M2102J20SG",
+        "s": "Adreno (TM) 640"
+      },
       {
         "d": "Adreno__TM__750",
         "m": "V2425A",
@@ -2369,7 +2374,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 317,
+    "config_count": 318,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3950,7 +3955,7 @@
     "name": "Lost Ruins"
   },
   "1307710": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -3961,6 +3966,11 @@
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_5",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -9107,8 +9117,33 @@
     "name": "Hitman: Absolution\u2122"
   },
   "203160": {
-    "config_count": 3,
+    "config_count": 13,
     "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
+      },
       {
         "d": "G52_MC2",
         "m": "Mali",
@@ -9121,10 +9156,11 @@
       }
     ],
     "folders": [
+      "TombRaider",
       "Tomb_Raider_2013",
       "Tomb_Raider_Game_of_the_Year"
     ],
-    "name": "Tomb Raider 2013"
+    "name": "Tomb Raider Game of the Year"
   },
   "203650": {
     "config_count": 3,
@@ -13721,6 +13757,14 @@
       "SSSS"
     ],
     "name": "The Legend of Heroes: Trails into Reverie - SSS Summer Splash Set"
+  },
+  "243470": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "watch_dogs"
+    ],
+    "name": "Watch_Dogs\u2122"
   },
   "2436570": {
     "config_count": 1,
@@ -21564,7 +21608,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 20,
+    "config_count": 10,
     "devices": [
       {
         "d": "G57_MC2",
@@ -21595,31 +21639,10 @@
         "d": "G57_MC4",
         "m": "Mali",
         "s": "Mali-G57 MC4"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
-      "Atla",
-      "TombRaider"
+      "Atla"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -25232,7 +25255,7 @@
     "name": "Farming Simulator 17"
   },
   "447040": {
-    "config_count": 48,
+    "config_count": 47,
     "devices": [
       {
         "d": "G720_MC7",
@@ -25341,8 +25364,7 @@
       "Watch_Dogs_",
       "Watch_Dogs_2",
       "Watch_Dogs__2",
-      "watch_dogs_2",
-      "watch_dogs"
+      "watch_dogs_2"
     ],
     "name": "Watch_Dogs\u00ae 2"
   },
@@ -31785,6 +31807,14 @@
       "ACBSP"
     ],
     "name": "Acbsp"
+  },
+  "name:ace7game": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Ace7Game"
+    ],
+    "name": "Ace7Game"
   },
   "name:acfc": {
     "config_count": 2,
