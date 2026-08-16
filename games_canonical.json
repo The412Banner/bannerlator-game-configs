@@ -1333,6 +1333,20 @@
     ],
     "name": "People Playground"
   },
+  "1118272": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__618",
+        "m": "M2007J20CG",
+        "s": "Adreno (TM) 618"
+      }
+    ],
+    "folders": [
+      "dirt_3"
+    ],
+    "name": "DiRT Rally 2.0 - Peugeot 306 Maxi"
+  },
   "1118310": {
     "config_count": 1,
     "devices": [],
@@ -2360,7 +2374,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 318,
+    "config_count": 319,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -2683,14 +2697,14 @@
         "s": "Mali-G615 MC6"
       },
       {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      },
-      {
         "d": "Adreno__TM__618",
         "m": "M2101K6I",
         "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       },
       {
         "d": "Adreno__TM__735",
@@ -11386,7 +11400,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 11,
+    "config_count": 13,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -11415,7 +11429,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -11726,8 +11741,13 @@
     "name": "Tomb Raider II (1997)"
   },
   "2254490": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      },
       {
         "d": "Adreno__TM__644",
         "m": "E556B",
@@ -11741,6 +11761,7 @@
     ],
     "folders": [
       "Launcher",
+      "Rockstar_Games_Launcher",
       "launcher"
     ],
     "name": "Squirrel Launcher"
@@ -14346,16 +14367,23 @@
     "name": "Valdis Story: Abyssal City"
   },
   "2523720": {
-    "config_count": 2,
+    "config_count": 5,
     "devices": [
       {
         "d": "Pocket_FIT",
         "m": "AYANEO",
         "s": null
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "Gears_of_War__Reloaded"
+      "Gears_of_War__Reloaded",
+      "Gears_of_War",
+      "Gears_of_War_2"
     ],
     "name": "Gears of War: Reloaded"
   },
@@ -15119,14 +15147,6 @@
       "TokyoXtremeRacer"
     ],
     "name": "Tokyo Xtreme Racer"
-  },
-  "2637940": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Cars"
-    ],
-    "name": "Used Cars Simulator"
   },
   "2638050": {
     "config_count": 1,
@@ -16699,7 +16719,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -16740,7 +16760,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -17498,7 +17517,7 @@
     "name": "GET EVEN"
   },
   "3010850": {
-    "config_count": 10,
+    "config_count": 7,
     "devices": [
       {
         "d": "G57",
@@ -17514,19 +17533,13 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
       "E",
       "Gears_Of_War",
       "Gears_of_War",
-      "Gears_of_war_2",
-      "Gears_of_War_2"
+      "Gears_of_war_2"
     ],
     "name": "Gears of War: E-Day"
   },
@@ -17809,7 +17822,7 @@
     "name": "Portrait of a Torn"
   },
   "3059520": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "G57_MC2",
@@ -21028,14 +21041,6 @@
     ],
     "name": "Ghost Song"
   },
-  "34830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper: Ghost Warrior"
-  },
   "348470": {
     "config_count": 13,
     "devices": [
@@ -21281,7 +21286,7 @@
     "name": "DreadOut Remastered Collection"
   },
   "3501070": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G615_MC6",
@@ -21290,7 +21295,8 @@
       }
     ],
     "folders": [
-      "CarServiceTogether"
+      "CarServiceTogether",
+      "Cars"
     ],
     "name": "Car Service Together"
   },
@@ -22233,6 +22239,14 @@
       "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
+  },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
@@ -28984,22 +28998,16 @@
     "name": "Trine 4: The Nightmare Prince"
   },
   "690790": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__750",
         "m": "MEIZU_21",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__618",
-        "m": "M2007J20CG",
-        "s": "Adreno (TM) 618"
       }
     ],
     "folders": [
-      "DiRT_Rally",
-      "dirt_3"
+      "DiRT_Rally"
     ],
     "name": "DiRT Rally 2.0"
   },
@@ -35118,20 +35126,6 @@
       "Rocket_League_"
     ],
     "name": "Rocket League"
-  },
-  "name:rockstar-games-launcher": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Rockstar_Games_Launcher"
-    ],
-    "name": "Rockstar Games Launcher"
   },
   "name:rottr": {
     "config_count": 7,
