@@ -4496,7 +4496,6 @@
   },
   "KINGDOM_HEARTS_-_Final_Mix_HD": {
     "appid": 2552430,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2552430/header.jpg",
     "method": "norm",
     "steam_name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
   },
@@ -8809,7 +8808,6 @@
   },
   "Tales_of_Zestiria": {
     "appid": 351970,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/351970/header.jpg",
     "method": "naive",
     "steam_name": "Tales of Zestiria"
   },
@@ -10701,6 +10699,12 @@
     "appid": null,
     "method": "unresolved"
   },
+  "kaneandlynch": {
+    "appid": 28000,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/28000/header.jpg",
+    "method": "naive",
+    "steam_name": "Kane & Lynch 2: Dog Days"
+  },
   "kb": {
     "appid": 2202024,
     "method": "naive",
@@ -11134,6 +11138,10 @@
     "steam_name": "Sister Other Paranoia"
   },
   "sm64_r96x": {
+    "appid": null,
+    "method": "unresolved"
+  },
+  "snaepr": {
     "appid": null,
     "method": "unresolved"
   },
