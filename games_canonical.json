@@ -13987,7 +13987,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 23,
+    "config_count": 22,
     "devices": [
       {
         "d": "A075M",
@@ -14051,8 +14051,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes",
-      "LEGOMARVEL"
+      "LEGO__Marvel__Super_Heroes"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -16918,7 +16917,7 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 36,
+    "config_count": 37,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -16991,6 +16990,11 @@
         "s": "Adreno (TM) 840"
       },
       {
+        "d": "Adreno__TM__830",
+        "m": "PLQ110",
+        "s": "Adreno (TM) 830"
+      },
+      {
         "d": "Adreno__TM__750",
         "m": "V2425A",
         "s": "Adreno (TM) 750"
@@ -17009,6 +17013,7 @@
     "folders": [
       "The_Witcher_3",
       "The_Witcher_3__Wild_Hunt",
+      "The_Witcher_3_-_Wild_Hunt",
       "Witcher_1",
       "_Witcher",
       "witcher3"
@@ -28418,7 +28423,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
