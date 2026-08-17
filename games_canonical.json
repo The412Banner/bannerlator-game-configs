@@ -4120,7 +4120,7 @@
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
   "1328670": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -7084,14 +7084,6 @@
       "Mirror_s_Edge"
     ],
     "name": "Mirror's Edge\u2122"
-  },
-  "17460": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Mass_Effect"
-    ],
-    "name": "Mass Effect (2007)"
   },
   "1746860": {
     "config_count": 1,
@@ -14086,7 +14078,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 24,
+    "config_count": 23,
     "devices": [
       {
         "d": "A075M",
@@ -14150,8 +14142,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes",
-      "LEGOMARVEL"
+      "LEGO__Marvel__Super_Heroes"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -18788,7 +18779,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1235,
+    "config_count": 1236,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -19696,11 +19687,6 @@
         "s": "Mali-G925-Immortalis MC11"
       },
       {
-        "d": "Adreno__TM__710",
-        "m": "NX1",
-        "s": "Adreno (TM) 710"
-      },
-      {
         "d": "G77",
         "m": "Mali",
         "s": "Mali-G77"
@@ -19724,6 +19710,11 @@
         "d": "Adreno__TM__740",
         "m": "F946B",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__830",
@@ -28558,7 +28549,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -31552,7 +31543,7 @@
     "name": "33 Immortals"
   },
   "960910": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G720_MC7",
