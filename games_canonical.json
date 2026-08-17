@@ -409,7 +409,7 @@
     "name": "30XX"
   },
   "1030300": {
-    "config_count": 41,
+    "config_count": 42,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -480,6 +480,11 @@
         "d": "Ultra_MC12",
         "m": "G1",
         "s": "Mali-G1-Ultra MC12"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "AYN_Thor",
+        "s": "Adreno (TM) 740"
       },
       {
         "d": "G610_MC2",
@@ -1837,7 +1842,7 @@
     "name": "Foretales"
   },
   "1172380": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "MT6899",
@@ -1853,6 +1858,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "2510DPC44G",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -2379,7 +2389,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 319,
+    "config_count": 321,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -2557,11 +2567,6 @@
         "s": "Adreno (TM) 650"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "S928B",
-        "s": "Adreno (TM) 750"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "2312DRA50G",
         "s": "Adreno (TM) 710"
@@ -2710,6 +2715,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "S928B",
+        "s": "Adreno (TM) 750"
       },
       {
         "d": "Adreno__TM__735",
@@ -3328,7 +3338,7 @@
     "name": "Jurassic World Evolution 2"
   },
   "1245620": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "SM8850",
@@ -3354,6 +3364,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "Odin2",
+        "s": "Adreno (TM) 740"
       },
       {
         "d": "Adreno__TM__840",
@@ -6633,12 +6648,17 @@
     "name": "Islets"
   },
   "1671210": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_5",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "G76",
+        "m": "Mali",
+        "s": "Mali-G76"
       }
     ],
     "folders": [
@@ -9894,6 +9914,20 @@
     ],
     "name": "F.E.A.R. 3"
   },
+  "211010": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Alien_Shooter_2"
+    ],
+    "name": "Alien Shooter 2 Conscription"
+  },
   "2110820": {
     "config_count": 1,
     "devices": [],
@@ -12343,7 +12377,7 @@
     "name": "Universe Sandbox"
   },
   "231120": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -12369,6 +12403,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
@@ -13785,14 +13824,6 @@
     ],
     "name": "The Legend of Heroes: Trails into Reverie - SSS Summer Splash Set"
   },
-  "243470": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "watch_dogs"
-    ],
-    "name": "Watch_Dogs\u2122"
-  },
   "2436570": {
     "config_count": 1,
     "devices": [
@@ -14084,7 +14115,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 23,
+    "config_count": 24,
     "devices": [
       {
         "d": "A075M",
@@ -14148,7 +14179,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes"
+      "LEGO__Marvel__Super_Heroes",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -15170,6 +15202,14 @@
       "TokyoXtremeRacer"
     ],
     "name": "Tokyo Xtreme Racer"
+  },
+  "2637940": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Cars"
+    ],
+    "name": "Used Cars Simulator"
   },
   "2638050": {
     "config_count": 1,
@@ -18129,7 +18169,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 32,
+    "config_count": 33,
     "devices": [
       {
         "d": "G78",
@@ -18790,7 +18830,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1237,
+    "config_count": 1238,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -19851,7 +19891,7 @@
     "name": "Grand Theft Auto V Enhanced"
   },
   "3241660": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "G77_MC9",
@@ -19862,6 +19902,11 @@
         "d": "Adreno__TM__830",
         "m": "RMX5010",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "2405CRPFDG",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__825",
@@ -20258,20 +20303,6 @@
       "Garten_of_Banban_0"
     ],
     "name": "Garten of Banban 0"
-  },
-  "33120": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "Alien_Shooter_2"
-    ],
-    "name": "Alien Shooter 2: Reloaded"
   },
   "3314070": {
     "config_count": 1,
@@ -21318,7 +21349,7 @@
     "name": "DreadOut Remastered Collection"
   },
   "3501070": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G615_MC6",
@@ -21327,8 +21358,7 @@
       }
     ],
     "folders": [
-      "CarServiceTogether",
-      "Cars"
+      "CarServiceTogether"
     ],
     "name": "Car Service Together"
   },
@@ -24144,9 +24174,10 @@
     "name": "Lost Horizon"
   },
   "403640": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
+      "Dishonored_2________________________________________________",
       "Dishonored_2"
     ],
     "name": "Dishonored 2"
@@ -25346,7 +25377,7 @@
     "name": "Farming Simulator 17"
   },
   "447040": {
-    "config_count": 47,
+    "config_count": 48,
     "devices": [
       {
         "d": "G720_MC7",
@@ -25455,7 +25486,8 @@
       "Watch_Dogs_",
       "Watch_Dogs_2",
       "Watch_Dogs__2",
-      "watch_dogs_2"
+      "watch_dogs_2",
+      "watch_dogs"
     ],
     "name": "Watch_Dogs\u00ae 2"
   },
@@ -28184,7 +28216,7 @@
     "name": "WARRIORS ALL-STARS"
   },
   "612880": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -28195,6 +28227,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "Retroid_Pocket_5",
@@ -28585,7 +28622,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -29593,6 +29630,20 @@
     ],
     "name": "Outer Wilds"
   },
+  "755073": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      }
+    ],
+    "folders": [
+      "kw"
+    ],
+    "name": "DashPanel - KW Studios Full Data"
+  },
   "756730": {
     "config_count": 6,
     "devices": [
@@ -30306,12 +30357,17 @@
     "name": "Just Cause 2"
   },
   "830461": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S911B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -35507,6 +35563,14 @@
       "The_Lust_Voyage"
     ],
     "name": "The Lust Voyage"
+  },
+  "name:the-sims-2-launcher": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "The_Sims_2_Launcher"
+    ],
+    "name": "The Sims 2 Launcher"
   },
   "name:tlauncher-installer-1-9-5-1": {
     "config_count": 1,

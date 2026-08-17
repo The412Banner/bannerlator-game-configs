@@ -49,10 +49,6 @@
     "appid": null,
     "method": "non-game"
   },
-  "7Launcher_-_Resident_Evil_4_1_7_0_7_________________________": {
-    "appid": null,
-    "method": "non-game"
-  },
   "AC3SP": {
     "appid": 911400,
     "method": "alias"
@@ -2210,6 +2206,12 @@
     "appid": 205100,
     "method": "naive",
     "steam_name": "Dishonored"
+  },
+  "Dishonored_2________________________________________________": {
+    "appid": 403640,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/403640/header.jpg",
+    "method": "naive",
+    "steam_name": "Dishonored 2"
   },
   "Disney_Dreamlight_Valley_": {
     "appid": 1401590,
@@ -10769,6 +10771,12 @@
     "appid": 2629230,
     "method": "naive",
     "steam_name": "The Adventures of Sir Kicksalot"
+  },
+  "kw": {
+    "appid": 755073,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/755073/header.jpg",
+    "method": "naive",
+    "steam_name": "DashPanel - KW Studios Full Data"
   },
   "l2": {
     "appid": 2138330,
