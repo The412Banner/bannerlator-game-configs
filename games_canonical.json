@@ -1199,7 +1199,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1208,8 +1208,7 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid",
-      "Rangers"
+      "BattleForTheGrid"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -9004,7 +9003,7 @@
     "name": "Sleeping Dogs"
   },
   "202310": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [
       {
         "d": "G615_MC6",
@@ -9015,11 +9014,17 @@
         "d": "Adreno__TM__830",
         "m": "RMX5011",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "Odin2_Portal",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Ridge_Racer_Unbounded",
-      "Ridge_Racer__Unbounded"
+      "Ridge_Racer__Unbounded",
+      "RidgeRacerUnbound"
     ],
     "name": "Ridge Racer\u2122 Unbounded"
   },
@@ -9380,7 +9385,7 @@
     "name": "Resident Evil 4"
   },
   "205100": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -14072,7 +14077,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 24,
+    "config_count": 23,
     "devices": [
       {
         "d": "A075M",
@@ -14136,8 +14141,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes",
-      "LEGOMARVEL"
+      "LEGO__Marvel__Super_Heroes"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -14379,16 +14383,23 @@
     "name": "Valdis Story: Abyssal City"
   },
   "2523720": {
-    "config_count": 2,
+    "config_count": 5,
     "devices": [
       {
         "d": "Pocket_FIT",
         "m": "AYANEO",
         "s": null
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "Gears_of_War__Reloaded"
+      "Gears_of_War__Reloaded",
+      "Gears_of_War",
+      "Gears_of_War_2"
     ],
     "name": "Gears of War: Reloaded"
   },
@@ -15152,6 +15163,14 @@
       "TokyoXtremeRacer"
     ],
     "name": "Tokyo Xtreme Racer"
+  },
+  "2637940": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Cars"
+    ],
+    "name": "Used Cars Simulator"
   },
   "2638050": {
     "config_count": 1,
@@ -16068,6 +16087,14 @@
       "Hospital_666"
     ],
     "name": "Hospital 666"
+  },
+  "2787680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Candy Rangers"
   },
   "2796520": {
     "config_count": 1,
@@ -17521,7 +17548,7 @@
     "name": "GET EVEN"
   },
   "3010850": {
-    "config_count": 10,
+    "config_count": 7,
     "devices": [
       {
         "d": "G57",
@@ -17537,19 +17564,13 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
       "E",
       "Gears_Of_War",
       "Gears_of_War",
-      "Gears_of_war_2",
-      "Gears_of_War_2"
+      "Gears_of_war_2"
     ],
     "name": "Gears of War: E-Day"
   },
@@ -18773,7 +18794,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1234,
+    "config_count": 1235,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -21301,7 +21322,7 @@
     "name": "DreadOut Remastered Collection"
   },
   "3501070": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G615_MC6",
@@ -21310,8 +21331,7 @@
       }
     ],
     "folders": [
-      "CarServiceTogether",
-      "Cars"
+      "CarServiceTogether"
     ],
     "name": "Car Service Together"
   },
@@ -28515,7 +28535,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -33444,7 +33464,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2498,
+    "config_count": 2501,
     "devices": [
       {
         "d": "G52_MC2",
@@ -34272,11 +34292,6 @@
         "s": "Mali-G720 MC8"
       },
       {
-        "d": "G52",
-        "m": "Mali",
-        "s": "Mali-G52"
-      },
-      {
         "d": "Ultra_MC12",
         "m": "G1",
         "s": "Mali-G1-Ultra MC12"
@@ -34287,14 +34302,19 @@
         "s": "Adreno (TM) 610"
       },
       {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
+      },
+      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
       },
       {
-        "d": "Adreno__TM__610",
-        "m": "23129RA5FL",
-        "s": "Adreno (TM) 610"
+        "d": "G52",
+        "m": "Mali",
+        "s": "Mali-G52"
       },
       {
         "d": "Adreno__TM__740",
