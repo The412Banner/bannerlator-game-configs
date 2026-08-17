@@ -150,7 +150,7 @@
     "name": "Prototype"
   },
   "1017180": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G720_MC7",
@@ -7284,7 +7284,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 143,
+    "config_count": 142,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -9139,33 +9139,8 @@
     "name": "Hitman: Absolution\u2122"
   },
   "203160": {
-    "config_count": 14,
+    "config_count": 3,
     "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
-      },
       {
         "d": "G52_MC2",
         "m": "Mali",
@@ -9178,11 +9153,10 @@
       }
     ],
     "folders": [
-      "TombRaider",
       "Tomb_Raider_2013",
       "Tomb_Raider_Game_of_the_Year"
     ],
-    "name": "Tomb Raider Game of the Year"
+    "name": "Tomb Raider 2013"
   },
   "203650": {
     "config_count": 3,
@@ -10433,12 +10407,17 @@
     "name": "Bionic Commando"
   },
   "21680": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__710",
         "m": "_2024",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
@@ -11417,7 +11396,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 11,
+    "config_count": 14,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -11446,7 +11425,9 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -12276,6 +12257,20 @@
       "Remember_Me"
     ],
     "name": "Remember Me"
+  },
+  "2285550": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "Retroid_Pocket_6",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Doloc_Town"
+    ],
+    "name": "Doloc Town"
   },
   "2288627": {
     "config_count": 1,
@@ -15163,14 +15158,6 @@
     ],
     "name": "Tokyo Xtreme Racer"
   },
-  "2637940": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Cars"
-    ],
-    "name": "Used Cars Simulator"
-  },
   "2638050": {
     "config_count": 1,
     "devices": [],
@@ -16742,7 +16729,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -16782,9 +16769,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "rerev",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -21315,7 +21300,7 @@
     "name": "DreadOut Remastered Collection"
   },
   "3501070": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G615_MC6",
@@ -21324,7 +21309,8 @@
       }
     ],
     "folders": [
-      "CarServiceTogether"
+      "CarServiceTogether",
+      "Cars"
     ],
     "name": "Car Service Together"
   },
@@ -21646,7 +21632,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 10,
+    "config_count": 21,
     "devices": [
       {
         "d": "G57_MC2",
@@ -21677,10 +21663,31 @@
         "d": "G57_MC4",
         "m": "Mali",
         "s": "Mali-G57 MC4"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
-      "Atla"
+      "Atla",
+      "TombRaider"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -32864,20 +32871,6 @@
       "GTAVLauncher"
     ],
     "name": "Gtavlauncher"
-  },
-  "name:halo-2-for-windows-vista": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
-      }
-    ],
-    "folders": [
-      "Halo_2_for_Windows_Vista"
-    ],
-    "name": "Halo 2 For Windows Vista"
   },
   "name:helloneighbor-win64-shipping": {
     "config_count": 1,
