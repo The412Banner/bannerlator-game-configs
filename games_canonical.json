@@ -1617,7 +1617,7 @@
     "name": "Horizon Zero Dawn\u2122 Complete Edition"
   },
   "115320": {
-    "config_count": 60,
+    "config_count": 62,
     "devices": [
       {
         "d": "Adreno__TM__640",
@@ -1668,6 +1668,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "A725F",
+        "s": "Adreno (TM) 618"
       },
       {
         "d": "Adreno__TM__610",
@@ -1895,7 +1900,7 @@
     "name": "FINAL FANTASY"
   },
   "1174180": {
-    "config_count": 41,
+    "config_count": 42,
     "devices": [
       {
         "d": "SM8750P",
@@ -1990,7 +1995,8 @@
     ],
     "folders": [
       "Red_Dead_Redemption_2",
-      "re2"
+      "re2",
+      "RED_DEAD_REDEMPTION_2"
     ],
     "name": "Red Dead Redemption 2"
   },
@@ -13385,7 +13391,7 @@
     "name": "Horizon Forbidden West\u2122 Complete Edition"
   },
   "242050": {
-    "config_count": 82,
+    "config_count": 83,
     "devices": [
       {
         "d": "MT6789",
@@ -13543,11 +13549,6 @@
         "s": "Mali-G720 MC7"
       },
       {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
@@ -13556,6 +13557,11 @@
         "d": "Adreno__TM__618",
         "m": "V2040",
         "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__750",
@@ -13778,6 +13784,14 @@
       "SSSS"
     ],
     "name": "The Legend of Heroes: Trails into Reverie - SSS Summer Splash Set"
+  },
+  "243470": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "watch_dogs"
+    ],
+    "name": "Watch_Dogs\u2122"
   },
   "2436570": {
     "config_count": 1,
@@ -14070,7 +14084,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 24,
+    "config_count": 23,
     "devices": [
       {
         "d": "A075M",
@@ -14134,8 +14148,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes",
-      "LEGOMARVEL"
+      "LEGO__Marvel__Super_Heroes"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -16609,7 +16622,7 @@
     "name": "Rune Factory: Guardians of Azuma"
   },
   "286690": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -16675,6 +16688,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "26022PCACI",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__840",
@@ -18772,7 +18790,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1236,
+    "config_count": 1237,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25328,7 +25346,7 @@
     "name": "Farming Simulator 17"
   },
   "447040": {
-    "config_count": 48,
+    "config_count": 47,
     "devices": [
       {
         "d": "G720_MC7",
@@ -25437,8 +25455,7 @@
       "Watch_Dogs_",
       "Watch_Dogs_2",
       "Watch_Dogs__2",
-      "watch_dogs_2",
-      "watch_dogs"
+      "watch_dogs_2"
     ],
     "name": "Watch_Dogs\u00ae 2"
   },
@@ -26016,12 +26033,17 @@
     "name": "Rescue Dogs vs Aliens Tower Defense"
   },
   "48000": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G76",
         "m": "Mali",
         "s": "Mali-G76"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Immortalis_MC12",
@@ -28563,7 +28585,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -32228,7 +32250,7 @@
     "name": "Colony City 27 Lambda"
   },
   "name:conviction-game": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "Conviction_game"
@@ -35162,14 +35184,6 @@
       "re5dx9"
     ],
     "name": "Re5Dx9"
-  },
-  "name:red-dead-redemption-2": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "RED_DEAD_REDEMPTION_2"
-    ],
-    "name": "Red Dead Redemption 2"
   },
   "name:resident-evil-2-dx11": {
     "config_count": 1,
