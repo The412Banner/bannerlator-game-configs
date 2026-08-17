@@ -4120,7 +4120,7 @@
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
   "1328670": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -7084,6 +7084,14 @@
       "Mirror_s_Edge"
     ],
     "name": "Mirror's Edge\u2122"
+  },
+  "17460": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Mass_Effect"
+    ],
+    "name": "Mass Effect (2007)"
   },
   "1746860": {
     "config_count": 1,
@@ -11417,7 +11425,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 14,
+    "config_count": 13,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -11447,8 +11455,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -16744,7 +16751,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -16784,7 +16791,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -22933,6 +22941,20 @@
       "FishingPlanet"
     ],
     "name": "Fishing Planet"
+  },
+  "3809910": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__619",
+        "m": "22111317PG",
+        "s": "Adreno (TM) 619"
+      }
+    ],
+    "folders": [
+      "MidnightShiftswithFemboy"
+    ],
+    "name": "Midnight Shifts with Femboy"
   },
   "381210": {
     "config_count": 3,
@@ -33471,7 +33493,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2502,
+    "config_count": 2506,
     "devices": [
       {
         "d": "G52_MC2",
