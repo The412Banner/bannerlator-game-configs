@@ -1895,7 +1895,7 @@
     "name": "FINAL FANTASY"
   },
   "1174180": {
-    "config_count": 42,
+    "config_count": 41,
     "devices": [
       {
         "d": "SM8750P",
@@ -1990,8 +1990,7 @@
     ],
     "folders": [
       "Red_Dead_Redemption_2",
-      "re2",
-      "RED_DEAD_REDEMPTION_2"
+      "re2"
     ],
     "name": "Red Dead Redemption 2"
   },
@@ -14071,7 +14070,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 23,
+    "config_count": 24,
     "devices": [
       {
         "d": "A075M",
@@ -14135,7 +14134,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes"
+      "LEGO__Marvel__Super_Heroes",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -28563,7 +28563,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -32664,6 +32664,14 @@
     ],
     "name": "Ge2Rb"
   },
+  "name:gears-of-war-2-hollow": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Gears_of_War_2_Hollow"
+    ],
+    "name": "Gears Of War 2 Hollow"
+  },
   "name:gears-of-war-3-jacinto-v1-1-2-by-hi-helios-installation": {
     "config_count": 1,
     "devices": [],
@@ -35154,6 +35162,14 @@
       "re5dx9"
     ],
     "name": "Re5Dx9"
+  },
+  "name:red-dead-redemption-2": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "RED_DEAD_REDEMPTION_2"
+    ],
+    "name": "Red Dead Redemption 2"
   },
   "name:resident-evil-2-dx11": {
     "config_count": 1,
