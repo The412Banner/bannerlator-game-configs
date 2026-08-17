@@ -1204,7 +1204,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1213,8 +1213,7 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid",
-      "Rangers"
+      "BattleForTheGrid"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -9577,7 +9576,7 @@
     "name": "Stick It to the Stickman"
   },
   "208650": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -16126,6 +16125,14 @@
     ],
     "name": "Hospital 666"
   },
+  "2787680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Candy Rangers"
+  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -18829,7 +18836,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1242,
+    "config_count": 1243,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25254,7 +25261,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -25264,6 +25271,7 @@
     ],
     "folders": [
       "Call_of_Duty_4",
+      "COD__Modern_Warfare",
       "Call_of_Duty_4_Modern_Warfare",
       "call_of_duty_4_modern_Warfare"
     ],
@@ -31140,12 +31148,17 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "920490": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__618",
         "m": "Redmi_Note_9S",
         "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "256",
+        "m": "8",
+        "s": "PowerVR B-Series BXM-8-256"
       }
     ],
     "folders": [
@@ -32266,14 +32279,6 @@
     ],
     "name": "Cm Fortress Italy"
   },
-  "name:cod-modern-warfare": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "COD__Modern_Warfare"
-    ],
-    "name": "Cod Modern Warfare"
-  },
   "name:cod2mp-s": {
     "config_count": 1,
     "devices": [],
@@ -32325,6 +32330,14 @@
       "Conviction_game"
     ],
     "name": "Conviction Game"
+  },
+  "name:crysis64": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Crysis64"
+    ],
+    "name": "Crysis64"
   },
   "name:crysiswh": {
     "config_count": 1,
