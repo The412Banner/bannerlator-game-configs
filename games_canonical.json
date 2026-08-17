@@ -11417,7 +11417,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 13,
+    "config_count": 11,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -11446,8 +11446,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -15165,6 +15164,14 @@
     ],
     "name": "Tokyo Xtreme Racer"
   },
+  "2637940": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Cars"
+    ],
+    "name": "Used Cars Simulator"
+  },
   "2638050": {
     "config_count": 1,
     "devices": [],
@@ -16736,7 +16743,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 34,
     "devices": [
       {
         "d": "G615_MC2",
@@ -16777,6 +16784,7 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
+      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -21308,7 +21316,7 @@
     "name": "DreadOut Remastered Collection"
   },
   "3501070": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G615_MC6",
@@ -21317,8 +21325,7 @@
       }
     ],
     "folders": [
-      "CarServiceTogether",
-      "Cars"
+      "CarServiceTogether"
     ],
     "name": "Car Service Together"
   },
@@ -32858,6 +32865,20 @@
       "GTAVLauncher"
     ],
     "name": "Gtavlauncher"
+  },
+  "name:halo-2-for-windows-vista": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
+      }
+    ],
+    "folders": [
+      "Halo_2_for_Windows_Vista"
+    ],
+    "name": "Halo 2 For Windows Vista"
   },
   "name:helloneighbor-win64-shipping": {
     "config_count": 1,
