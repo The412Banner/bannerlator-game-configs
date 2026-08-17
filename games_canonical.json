@@ -1199,7 +1199,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1208,7 +1208,8 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid"
+      "BattleForTheGrid",
+      "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -9006,6 +9007,11 @@
     "config_count": 4,
     "devices": [
       {
+        "d": "Adreno__TM__740",
+        "m": "Odin2_Portal",
+        "s": "Adreno (TM) 740"
+      },
+      {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
@@ -9014,17 +9020,12 @@
         "d": "Adreno__TM__830",
         "m": "RMX5011",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "Odin2_Portal",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
+      "RidgeRacerUnbound",
       "Ridge_Racer_Unbounded",
-      "Ridge_Racer__Unbounded",
-      "RidgeRacerUnbound"
+      "Ridge_Racer__Unbounded"
     ],
     "name": "Ridge Racer\u2122 Unbounded"
   },
@@ -12879,7 +12880,7 @@
     "name": "Lumines Arise"
   },
   "237110": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "Mortal_Kombat_Komplete_Edition"
@@ -16087,14 +16088,6 @@
       "Hospital_666"
     ],
     "name": "Hospital 666"
-  },
-  "2787680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Candy Rangers"
   },
   "2796520": {
     "config_count": 1,
@@ -22318,6 +22311,20 @@
     ],
     "name": "Assassin's Creed\u00ae Syndicate"
   },
+  "3716310": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      }
+    ],
+    "folders": [
+      "Electronic_Arts_AutoRun"
+    ],
+    "name": "Runeblade Automaton"
+  },
   "371660": {
     "config_count": 5,
     "devices": [
@@ -23380,7 +23387,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 161,
+    "config_count": 162,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23468,11 +23475,6 @@
         "s": "Mali-G720 MC8"
       },
       {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      },
-      {
         "d": "Adreno__TM__825",
         "m": "25097RP43I",
         "s": "Adreno (TM) 825"
@@ -23486,6 +23488,11 @@
         "d": "Adreno__TM__810",
         "m": "NX1",
         "s": "Adreno (TM) 810"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       },
       {
         "d": "QCS8550",
@@ -33464,7 +33471,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2501,
+    "config_count": 2502,
     "devices": [
       {
         "d": "G52_MC2",

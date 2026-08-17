@@ -863,6 +863,10 @@
     "method": "naive",
     "steam_name": "Blazing Chrome"
   },
+  "Blizzard_North_Diablo_II": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "BloodStrike": {
     "appid": 3199170,
     "method": "naive",
@@ -2494,6 +2498,12 @@
     "appid": 1108590,
     "method": "naive",
     "steam_name": "Eldest Souls"
+  },
+  "Electronic_Arts_AutoRun": {
+    "appid": 3716310,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3716310/header.jpg",
+    "method": "fuzzy",
+    "steam_name": "Runeblade Automaton"
   },
   "Electronic_Arts_Canada_Setup": {
     "appid": null,
@@ -7632,7 +7642,6 @@
   },
   "RidgeRacerUnbound": {
     "appid": 202310,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/202310/header.jpg",
     "method": "norm",
     "steam_name": "Ridge Racer\u2122 Unbounded"
   },
