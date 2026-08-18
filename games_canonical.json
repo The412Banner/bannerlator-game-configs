@@ -2820,7 +2820,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 35,
+    "config_count": 39,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -2911,13 +2911,19 @@
         "d": "Adreno__TM__722",
         "m": "CPH2825",
         "s": "Adreno (TM) 722"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
       "Need_for_Speed__Heat",
       "nfs",
       "speed",
-      "Need_for_Speed_Heat"
+      "Need_for_Speed_Heat",
+      "Speed"
     ],
     "name": "Need for Speed\u2122 Heat"
   },
@@ -3338,7 +3344,7 @@
     "name": "Jurassic World Evolution 2"
   },
   "1245620": {
-    "config_count": 13,
+    "config_count": 12,
     "devices": [
       {
         "d": "SM8850",
@@ -7874,21 +7880,6 @@
       "_Dragon_Age______________"
     ],
     "name": "Dragon Age\u2122: The Veilguard"
-  },
-  "1846380": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      }
-    ],
-    "folders": [
-      "Speed",
-      "speed"
-    ],
-    "name": "Need for Speed\u2122 Unbound"
   },
   "1850050": {
     "config_count": 1,
@@ -15202,14 +15193,6 @@
     ],
     "name": "Tokyo Xtreme Racer"
   },
-  "2637940": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Cars"
-    ],
-    "name": "Used Cars Simulator"
-  },
   "2638050": {
     "config_count": 1,
     "devices": [],
@@ -21364,7 +21347,7 @@
     "name": "DreadOut Remastered Collection"
   },
   "3501070": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G615_MC6",
@@ -21373,7 +21356,8 @@
       }
     ],
     "folders": [
-      "CarServiceTogether"
+      "CarServiceTogether",
+      "Cars"
     ],
     "name": "Car Service Together"
   },
@@ -22520,7 +22504,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 33,
+    "config_count": 34,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -33599,7 +33583,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2517,
+    "config_count": 2518,
     "devices": [
       {
         "d": "G52_MC2",
@@ -34442,14 +34426,14 @@
         "s": "Mali-G52"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "PowerVR_Rogue_GE8320",
         "m": "moto_g22",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
