@@ -269,7 +269,7 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 2 (2009)"
   },
   "1020790": {
-    "config_count": 42,
+    "config_count": 43,
     "devices": [
       {
         "d": "SM8850",
@@ -15248,6 +15248,14 @@
     ],
     "name": "Tokyo Xtreme Racer"
   },
+  "2637940": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Cars"
+    ],
+    "name": "Used Cars Simulator"
+  },
   "2638050": {
     "config_count": 1,
     "devices": [],
@@ -20369,14 +20377,6 @@
     ],
     "name": "Garten of Banban 0"
   },
-  "331160": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Cars"
-    ],
-    "name": "Disney\u2022Pixar Cars"
-  },
   "3314070": {
     "config_count": 1,
     "devices": [],
@@ -21902,7 +21902,7 @@
     "name": "Isekai Bistro"
   },
   "357190": {
-    "config_count": 16,
+    "config_count": 18,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -21938,6 +21938,11 @@
         "d": "Adreno__TM__610",
         "m": "A057M",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
@@ -33404,6 +33409,11 @@
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "NX789J",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
