@@ -4151,7 +4151,7 @@
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
   "1328670": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -7126,6 +7126,14 @@
       "Mirror_s_Edge"
     ],
     "name": "Mirror's Edge\u2122"
+  },
+  "17460": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Mass_Effect"
+    ],
+    "name": "Mass Effect (2007)"
   },
   "1746860": {
     "config_count": 1,
@@ -13957,6 +13965,20 @@
     ],
     "name": "Hoop Land"
   },
+  "2457220": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "NX779J",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Avowed"
+    ],
+    "name": "Avowed"
+  },
   "2458830": {
     "config_count": 1,
     "devices": [],
@@ -18095,6 +18117,14 @@
       "Prop_Sumo"
     ],
     "name": "Prop Sumo"
+  },
+  "3091140": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "LootBound"
+    ],
+    "name": "Lootbound"
   },
   "3092360": {
     "config_count": 1,
@@ -33636,7 +33666,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2519,
+    "config_count": 2520,
     "devices": [
       {
         "d": "G52_MC2",

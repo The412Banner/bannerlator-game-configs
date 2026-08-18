@@ -530,6 +530,12 @@
     "method": "naive",
     "steam_name": "Avatar Legends: The Fighting Game"
   },
+  "Avowed": {
+    "appid": 2457220,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2457220/header.jpg",
+    "method": "naive",
+    "steam_name": "Avowed"
+  },
   "Awaria": {
     "appid": 3274300,
     "method": "naive",
@@ -2286,7 +2292,6 @@
   },
   "Dragon_Age__Inquisition": {
     "appid": 1222690,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1222690/header.jpg",
     "method": "naive",
     "steam_name": "Dragon Age\u2122 Inquisition"
   },
@@ -9811,6 +9816,10 @@
     "appid": 2490990,
     "method": "naive",
     "steam_name": "Visions of Mana"
+  },
+  "Vista_Engine": {
+    "appid": null,
+    "method": "unresolved"
   },
   "Vita3K": {
     "appid": null,
