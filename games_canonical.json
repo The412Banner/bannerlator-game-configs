@@ -647,7 +647,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -673,10 +673,16 @@
         "d": "Adreno__TM__740",
         "m": "2211133C",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Ori_and_the_Will_of_the_Wisps",
+      "Ori",
       "Ori_and_the_will_of_the_wisps"
     ],
     "name": "Ori and the Will of the Wisps"
@@ -4156,7 +4162,7 @@
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
   "1328670": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -7131,6 +7137,14 @@
       "Mirror_s_Edge"
     ],
     "name": "Mirror's Edge\u2122"
+  },
+  "17460": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Mass_Effect"
+    ],
+    "name": "Mass Effect (2007)"
   },
   "1746860": {
     "config_count": 1,
@@ -22382,7 +22396,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 13,
+    "config_count": 12,
     "devices": [
       {
         "d": "G68_MC4",
@@ -22398,22 +22412,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "2211133C",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE",
-      "Ori"
+      "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -32216,6 +32219,14 @@
     ],
     "name": "Batmanac"
   },
+  "name:bbcf": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "BBCF"
+    ],
+    "name": "Bbcf"
+  },
   "name:beastofreincarnation-win64-shipping": {
     "config_count": 1,
     "devices": [],
@@ -33748,7 +33759,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2528,
+    "config_count": 2529,
     "devices": [
       {
         "d": "G52_MC2",
@@ -34741,7 +34752,7 @@
     "name": "PES 2015"
   },
   "name:pes-2016": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "G57",
@@ -34756,6 +34767,11 @@
       {
         "d": "Adreno__TM__610",
         "m": "A235F",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "A057F",
         "s": "Adreno (TM) 610"
       },
       {
