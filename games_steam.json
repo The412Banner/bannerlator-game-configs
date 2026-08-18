@@ -532,7 +532,6 @@
   },
   "Avowed": {
     "appid": 2457220,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2457220/header.jpg",
     "method": "naive",
     "steam_name": "Avowed"
   },
@@ -1635,6 +1634,12 @@
   },
   "Cyberpunk_2077": {
     "appid": 1091500,
+    "method": "naive",
+    "steam_name": "Cyberpunk 2077"
+  },
+  "Cyberpunk_2077______________________________________________": {
+    "appid": 1091500,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1091500/header.jpg",
     "method": "naive",
     "steam_name": "Cyberpunk 2077"
   },
@@ -4545,6 +4550,12 @@
   },
   "KINGDOM_HEARTS_-_Final_Mix_HD": {
     "appid": 2552430,
+    "method": "norm",
+    "steam_name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
+  },
+  "KINGDOM_HEARTS_-_HD_1_5_2_5": {
+    "appid": 2552430,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2552430/header.jpg",
     "method": "norm",
     "steam_name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
   },

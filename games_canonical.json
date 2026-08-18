@@ -647,7 +647,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -673,16 +673,10 @@
         "d": "Adreno__TM__740",
         "m": "2211133C",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Ori_and_the_Will_of_the_Wisps",
-      "Ori",
       "Ori_and_the_will_of_the_wisps"
     ],
     "name": "Ori and the Will of the Wisps"
@@ -926,7 +920,7 @@
     "name": "Kelipot"
   },
   "1091500": {
-    "config_count": 12,
+    "config_count": 14,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -957,11 +951,17 @@
         "d": "G52",
         "m": "Mali",
         "s": "Mali-G52"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
       "Cyberpunk",
-      "Cyberpunk_2077"
+      "Cyberpunk_2077",
+      "Cyberpunk_2077______________________________________________"
     ],
     "name": "Cyberpunk 2077"
   },
@@ -1628,7 +1628,7 @@
     "name": "Horizon Zero Dawn\u2122 Complete Edition"
   },
   "115320": {
-    "config_count": 62,
+    "config_count": 63,
     "devices": [
       {
         "d": "Adreno__TM__640",
@@ -14787,7 +14787,7 @@
     "name": "Beyond R: Rule Ripper"
   },
   "2552430": {
-    "config_count": 5,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -14798,13 +14798,19 @@
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "AYN_Thor",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "KINGDOM_HEARTS_-HD_1_5_2_5_ReMIX-",
       "KINGDOM_HEARTS_-_Final_Mix",
       "KINGDOM_HEARTS_-_Final_Mix_HD",
-      "mi_1_1"
+      "mi_1_1",
+      "KINGDOM_HEARTS_-_HD_1_5_2_5"
     ],
     "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
   },
@@ -22366,7 +22372,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "G68_MC4",
@@ -22382,11 +22388,22 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE"
+      "oriDE",
+      "Ori"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -33666,7 +33683,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2520,
+    "config_count": 2521,
     "devices": [
       {
         "d": "G52_MC2",
@@ -34304,11 +34321,6 @@
         "s": "Adreno (TM) 740"
       },
       {
-        "d": "Adreno__TM__610",
-        "m": "moto_g52",
-        "s": "Adreno (TM) 610"
-      },
-      {
         "d": "Adreno__TM__730",
         "m": "S901E",
         "s": "Adreno (TM) 730"
@@ -34517,6 +34529,11 @@
         "d": "Adreno__TM__644",
         "m": "M556B",
         "s": "Adreno (TM) 644"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g52",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__740",
@@ -35328,6 +35345,20 @@
       "re5dx9"
     ],
     "name": "Re5Dx9"
+  },
+  "name:reschanger": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Ultra_MC12",
+        "m": "G1",
+        "s": "Mali-G1-Ultra MC12"
+      }
+    ],
+    "folders": [
+      "ResChanger"
+    ],
+    "name": "Reschanger"
   },
   "name:resident-evil-2-dx11": {
     "config_count": 1,
