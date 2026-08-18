@@ -4156,7 +4156,7 @@
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
   "1328670": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -7131,14 +7131,6 @@
       "Mirror_s_Edge"
     ],
     "name": "Mirror's Edge\u2122"
-  },
-  "17460": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Mass_Effect"
-    ],
-    "name": "Mass Effect (2007)"
   },
   "1746860": {
     "config_count": 1,
@@ -11470,7 +11462,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 11,
+    "config_count": 13,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -11499,7 +11491,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -16190,6 +16183,14 @@
     ],
     "name": "Hospital 666"
   },
+  "278080": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "DYNASTY_WARRIORS_8_-_Xtreme_Legends_Complete_Edition"
+    ],
+    "name": "Dynasty Warriors 8 - Xtreme Legends Complete Edition"
+  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -16850,7 +16851,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -16891,7 +16892,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -18903,7 +18903,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1249,
+    "config_count": 1250,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -19841,6 +19841,11 @@
         "s": "Adreno (TM) 710"
       },
       {
+        "d": "G76",
+        "m": "Mali",
+        "s": "Mali-G76"
+      },
+      {
         "d": "Adreno__TM__830",
         "m": "NX9",
         "s": "Adreno (TM) 830"
@@ -19849,11 +19854,6 @@
         "d": "Adreno__TM__735",
         "m": "W09",
         "s": "Adreno (TM) 735"
-      },
-      {
-        "d": "G76",
-        "m": "Mali",
-        "s": "Mali-G76"
       },
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
