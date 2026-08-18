@@ -2395,7 +2395,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 321,
+    "config_count": 322,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -2698,11 +2698,6 @@
         "s": "Mali-G720 MC8"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
@@ -2726,6 +2721,11 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__735",
@@ -3344,7 +3344,7 @@
     "name": "Jurassic World Evolution 2"
   },
   "1245620": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "SM8850",
@@ -6465,7 +6465,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 88,
+    "config_count": 91,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -6473,14 +6473,14 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
-      },
-      {
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       },
       {
         "d": "G57_MC2",
@@ -9920,20 +9920,6 @@
     ],
     "name": "F.E.A.R. 3"
   },
-  "211010": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "Alien_Shooter_2"
-    ],
-    "name": "Alien Shooter 2 Conscription"
-  },
   "2110820": {
     "config_count": 1,
     "devices": [],
@@ -11441,7 +11427,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 14,
+    "config_count": 11,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -11470,9 +11456,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -16792,7 +16776,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 34,
     "devices": [
       {
         "d": "G615_MC2",
@@ -16832,7 +16816,9 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -18835,7 +18821,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1244,
+    "config_count": 1245,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -20308,6 +20294,20 @@
       "Garten_of_Banban_0"
     ],
     "name": "Garten of Banban 0"
+  },
+  "33120": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Alien_Shooter_2"
+    ],
+    "name": "Alien Shooter 2: Reloaded"
   },
   "3314070": {
     "config_count": 1,
@@ -29646,7 +29646,7 @@
     "name": "DashPanel - KW Studios Full Data"
   },
   "756730": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G57",
@@ -29657,6 +29657,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       }
     ],
     "folders": [
@@ -33584,7 +33589,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2515,
+    "config_count": 2517,
     "devices": [
       {
         "d": "G52_MC2",
@@ -34042,11 +34047,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "PowerVR_Rogue_GE8320",
-        "m": "moto_g22",
-        "s": "PowerVR Rogue GE8320"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "25118PC98G",
         "s": "Adreno (TM) 710"
@@ -34435,6 +34435,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "moto_g22",
+        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "Adreno__TM__740",
