@@ -3259,6 +3259,12 @@
     "method": "naive",
     "steam_name": "Five Nights at Freddy's: Secret of the Mimic"
   },
+  "FlatOut2": {
+    "appid": 2990,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2990/header.jpg",
+    "method": "naive",
+    "steam_name": "FlatOut 2"
+  },
   "FlatOut_Ultimate_Carnage": {
     "appid": 12360,
     "method": "naive",
@@ -3464,6 +3470,10 @@
     "steam_name": "G-senjou no Maou - The Devil on G-String"
   },
   "GTA-7-VC": {
+    "appid": null,
+    "method": "unresolved"
+  },
+  "GTAIV": {
     "appid": null,
     "method": "unresolved"
   },
@@ -4375,6 +4385,10 @@
     "method": "unresolved"
   },
   "IW3SP-MOD": {
+    "appid": null,
+    "method": "unresolved"
+  },
+  "IW4x": {
     "appid": null,
     "method": "unresolved"
   },

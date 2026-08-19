@@ -647,7 +647,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -673,16 +673,10 @@
         "d": "Adreno__TM__740",
         "m": "2211133C",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Ori_and_the_Will_of_the_Wisps",
-      "Ori",
       "Ori_and_the_will_of_the_wisps"
     ],
     "name": "Ori and the Will of the Wisps"
@@ -1221,7 +1215,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1230,8 +1224,7 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid",
-      "Rangers"
+      "BattleForTheGrid"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -2406,7 +2399,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 323,
+    "config_count": 326,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -2709,11 +2702,6 @@
         "s": "Mali-G720 MC8"
       },
       {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
@@ -2737,6 +2725,16 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "22081212UG",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__735",
@@ -3782,12 +3780,17 @@
     "name": "Construction Simulator"
   },
   "1274600": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__611",
+        "m": "24116PCC1I",
+        "s": "Adreno (TM) 611"
       }
     ],
     "folders": [
@@ -4612,12 +4615,17 @@
     "name": "Sim Racing Telemetry - F1 2020"
   },
   "1390410": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "OPD2413",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       }
     ],
     "folders": [
@@ -5826,7 +5834,7 @@
     "name": "Cairn"
   },
   "1593500": {
-    "config_count": 139,
+    "config_count": 142,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -5979,11 +5987,6 @@
         "s": "Adreno (TM) 840"
       },
       {
-        "d": "Immortalis_MC11",
-        "m": "G925",
-        "s": "Mali-G925-Immortalis MC11"
-      },
-      {
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
@@ -6037,6 +6040,11 @@
         "d": "Adreno__TM__810",
         "m": "2509ARPBDG",
         "s": "Adreno (TM) 810"
+      },
+      {
+        "d": "Immortalis_MC11",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC11"
       },
       {
         "d": "Adreno__TM__619",
@@ -8939,7 +8947,7 @@
     "name": "Assassin's Creed\u00ae Revelations"
   },
   "202170": {
-    "config_count": 55,
+    "config_count": 57,
     "devices": [
       {
         "d": "MT6878",
@@ -9050,6 +9058,11 @@
         "d": "Immortalis_MC11",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC11"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "22081212UG",
+        "s": "Adreno (TM) 730"
       },
       {
         "d": "Adreno__TM__830",
@@ -9216,8 +9229,33 @@
     "name": "Hitman: Absolution\u2122"
   },
   "203160": {
-    "config_count": 3,
+    "config_count": 14,
     "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
+      },
       {
         "d": "G52_MC2",
         "m": "Mali",
@@ -9230,10 +9268,11 @@
       }
     ],
     "folders": [
+      "TombRaider",
       "Tomb_Raider_2013",
       "Tomb_Raider_Game_of_the_Year"
     ],
-    "name": "Tomb Raider 2013"
+    "name": "Tomb Raider Game of the Year"
   },
   "203650": {
     "config_count": 3,
@@ -11991,7 +12030,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 196,
+    "config_count": 197,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -12107,11 +12146,6 @@
         "d": "Adreno__TM__650",
         "m": "23043RP34G",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Immortalis_MC11",
-        "m": "G925",
-        "s": "Mali-G925-Immortalis MC11"
       },
       {
         "d": "Adreno__TM__630",
@@ -12272,6 +12306,11 @@
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "Immortalis_MC11",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC11"
       }
     ],
     "folders": [
@@ -13091,7 +13130,7 @@
     "name": "Pinball Arcade"
   },
   "238320": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "23043RP34G",
@@ -13117,6 +13156,11 @@
         "d": "G52",
         "m": "Mali",
         "s": "Mali-G52"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "22081212UG",
+        "s": "Adreno (TM) 730"
       }
     ],
     "folders": [
@@ -14185,7 +14229,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 23,
+    "config_count": 24,
     "devices": [
       {
         "d": "A075M",
@@ -14249,7 +14293,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes"
+      "LEGO__Marvel__Super_Heroes",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -14274,12 +14319,17 @@
     "name": "FATAL FURY: City of the Wolves"
   },
   "2499860": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "Pocket_S",
+        "s": "Adreno (TM) 740"
       },
       {
         "d": "G610_MC4",
@@ -15296,14 +15346,6 @@
     ],
     "name": "Tokyo Xtreme Racer"
   },
-  "2637940": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Cars"
-    ],
-    "name": "Used Cars Simulator"
-  },
   "2638050": {
     "config_count": 1,
     "devices": [],
@@ -16252,6 +16294,14 @@
       "DYNASTY_WARRIORS_8_-_Xtreme_Legends_Complete_Edition"
     ],
     "name": "Dynasty Warriors 8 - Xtreme Legends Complete Edition"
+  },
+  "2787680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Candy Rangers"
   },
   "2796520": {
     "config_count": 1,
@@ -17638,6 +17688,14 @@
     ],
     "name": "Darwin's Paradox!"
   },
+  "2990": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "FlatOut2"
+    ],
+    "name": "FlatOut 2"
+  },
   "2993780": {
     "config_count": 2,
     "devices": [
@@ -18985,7 +19043,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1256,
+    "config_count": 1257,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -19926,6 +19984,11 @@
         "d": "Adreno__TM__720",
         "m": "NX9",
         "s": "Adreno (TM) 720"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "22081212UG",
+        "s": "Adreno (TM) 730"
       },
       {
         "d": "Adreno__TM__830",
@@ -21529,7 +21592,7 @@
     "name": "DreadOut Remastered Collection"
   },
   "3501070": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G615_MC6",
@@ -21538,7 +21601,8 @@
       }
     ],
     "folders": [
-      "CarServiceTogether"
+      "CarServiceTogether",
+      "Cars"
     ],
     "name": "Car Service Together"
   },
@@ -21571,7 +21635,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -21617,6 +21681,11 @@
         "d": "Adreno__TM__610",
         "m": "moto_g32",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -21860,7 +21929,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 21,
+    "config_count": 10,
     "devices": [
       {
         "d": "G57_MC2",
@@ -21891,31 +21960,10 @@
         "d": "G57_MC4",
         "m": "Mali",
         "s": "Mali-G57 MC4"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
-      "Atla",
-      "TombRaider"
+      "Atla"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -22009,7 +22057,7 @@
     "name": "Isekai Bistro"
   },
   "357190": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -22379,7 +22427,7 @@
     "name": "Dragon's Dogma: Dark Arisen"
   },
   "367520": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -22442,6 +22490,11 @@
         "s": "Mali-G615 MC6"
       },
       {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
         "d": "Adreno__TM__610",
         "m": "25062RN2DL",
         "s": "Adreno (TM) 610"
@@ -22489,7 +22542,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "G68_MC4",
@@ -22505,11 +22558,22 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE"
+      "oriDE",
+      "Ori"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -22921,7 +22985,7 @@
     "name": "SpiritVale"
   },
   "3768760": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -23043,7 +23107,7 @@
     "name": "G-senjou no Maou - The Devil on G-String"
   },
   "377840": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Retroid_Pocket_5",
@@ -23059,6 +23123,11 @@
         "d": "Immortalis_MC12",
         "m": "G720",
         "s": "Mali-G720-Immortalis MC12"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -28838,7 +28907,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -32791,7 +32860,7 @@
     "name": "Dyinglightgame Thebeast X64 Rwdi"
   },
   "name:efootball-2021": {
-    "config_count": 45,
+    "config_count": 46,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -33918,7 +33987,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2535,
+    "config_count": 2537,
     "devices": [
       {
         "d": "G52_MC2",
@@ -34646,11 +34715,6 @@
         "s": "Mali-G715"
       },
       {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
-      },
-      {
         "d": "Adreno__TM__619",
         "m": "moto_g53_5G",
         "s": "Adreno (TM) 619"
@@ -34769,6 +34833,11 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       },
       {
         "d": "Adreno__TM__740",
@@ -34948,7 +35017,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 181,
+    "config_count": 182,
     "devices": [
       {
         "d": "G615_MC2",
