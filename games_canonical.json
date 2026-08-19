@@ -647,7 +647,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -673,10 +673,16 @@
         "d": "Adreno__TM__740",
         "m": "2211133C",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Ori_and_the_Will_of_the_Wisps",
+      "Ori",
       "Ori_and_the_will_of_the_wisps"
     ],
     "name": "Ori and the Will of the Wisps"
@@ -9965,20 +9971,6 @@
     ],
     "name": "F.E.A.R. 3"
   },
-  "211010": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "Alien_Shooter_2"
-    ],
-    "name": "Alien Shooter 2 Conscription"
-  },
   "2110820": {
     "config_count": 1,
     "devices": [],
@@ -18993,7 +18985,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1255,
+    "config_count": 1256,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -20466,6 +20458,20 @@
       "Garten_of_Banban_0"
     ],
     "name": "Garten of Banban 0"
+  },
+  "33120": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Alien_Shooter_2"
+    ],
+    "name": "Alien Shooter 2: Reloaded"
   },
   "3314070": {
     "config_count": 1,
@@ -22483,7 +22489,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 13,
+    "config_count": 12,
     "devices": [
       {
         "d": "G68_MC4",
@@ -22499,22 +22505,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "2211133C",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE",
-      "Ori"
+      "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
