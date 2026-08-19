@@ -647,7 +647,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -673,10 +673,16 @@
         "d": "Adreno__TM__740",
         "m": "2211133C",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Ori_and_the_Will_of_the_Wisps",
+      "Ori",
       "Ori_and_the_will_of_the_wisps"
     ],
     "name": "Ori and the Will of the Wisps"
@@ -14229,7 +14235,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 24,
+    "config_count": 23,
     "devices": [
       {
         "d": "A075M",
@@ -14293,8 +14299,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes",
-      "LEGOMARVEL"
+      "LEGO__Marvel__Super_Heroes"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -22542,7 +22547,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 13,
+    "config_count": 12,
     "devices": [
       {
         "d": "G68_MC4",
@@ -22558,22 +22563,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "2211133C",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE",
-      "Ori"
+      "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -28142,10 +28136,11 @@
     "name": "Trailmakers"
   },
   "586140": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [],
     "folders": [
-      "BLAZBLUE_CENTRALFICTION"
+      "BLAZBLUE_CENTRALFICTION",
+      "BlazBlue_Centralfiction"
     ],
     "name": "BlazBlue Centralfiction"
   },
@@ -28907,7 +28902,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -33987,7 +33982,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2537,
+    "config_count": 2539,
     "devices": [
       {
         "d": "G52_MC2",
@@ -34830,14 +34825,14 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "G68",
-        "m": "Mali",
-        "s": "Mali-G68"
-      },
-      {
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
       },
       {
         "d": "Adreno__TM__740",
