@@ -2349,7 +2349,6 @@
   },
   "DreamEcho___________________________________________________": {
     "appid": 3226060,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3226060/header.jpg",
     "method": "naive",
     "steam_name": "DreamEcho"
   },
@@ -2928,6 +2927,12 @@
   "FS19_ANDROID": {
     "appid": null,
     "method": "unresolved"
+  },
+  "FS_17": {
+    "appid": 471891,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/471891/header.jpg",
+    "method": "naive",
+    "steam_name": "FSX Steam Edition: C-17 Globemaster III\u2122 Add-On"
   },
   "FS_22_": {
     "appid": 1995890,
