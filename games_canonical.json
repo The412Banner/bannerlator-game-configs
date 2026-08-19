@@ -269,7 +269,7 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 2 (2009)"
   },
   "1020790": {
-    "config_count": 43,
+    "config_count": 44,
     "devices": [
       {
         "d": "SM8850",
@@ -1010,7 +1010,7 @@
     "name": "Commandos 2 - HD Remaster"
   },
   "1103780": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "Adreno__TM__640",
@@ -1071,6 +1071,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "A057M",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__619",
@@ -1216,7 +1221,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1225,8 +1230,7 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid",
-      "Rangers"
+      "BattleForTheGrid"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -6786,7 +6790,7 @@
     "name": "Persona 5 Royal"
   },
   "1693980": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "G68",
@@ -9192,33 +9196,8 @@
     "name": "Hitman: Absolution\u2122"
   },
   "203160": {
-    "config_count": 14,
+    "config_count": 3,
     "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
-      },
       {
         "d": "G52_MC2",
         "m": "Mali",
@@ -9231,11 +9210,10 @@
       }
     ],
     "folders": [
-      "TombRaider",
       "Tomb_Raider_2013",
       "Tomb_Raider_Game_of_the_Year"
     ],
-    "name": "Tomb Raider Game of the Year"
+    "name": "Tomb Raider 2013"
   },
   "203650": {
     "config_count": 3,
@@ -11064,7 +11042,7 @@
     "name": "Far Cry 3"
   },
   "220440": {
-    "config_count": 30,
+    "config_count": 31,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -15279,14 +15257,6 @@
     ],
     "name": "Tokyo Xtreme Racer"
   },
-  "2637940": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Cars"
-    ],
-    "name": "Used Cars Simulator"
-  },
   "2638050": {
     "config_count": 1,
     "devices": [],
@@ -15638,6 +15608,20 @@
       "Metaphor__ReFantazio"
     ],
     "name": "Metaphor: ReFantazio"
+  },
+  "2680010": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "2308CPXD0C",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "The_First_Berserker__Khazan"
+    ],
+    "name": "The First Berserker: Khazan"
   },
   "268050": {
     "config_count": 5,
@@ -16221,6 +16205,14 @@
       "DYNASTY_WARRIORS_8_-_Xtreme_Legends_Complete_Edition"
     ],
     "name": "Dynasty Warriors 8 - Xtreme Legends Complete Edition"
+  },
+  "2787680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Candy Rangers"
   },
   "2796520": {
     "config_count": 1,
@@ -18935,7 +18927,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1252,
+    "config_count": 1253,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -20473,14 +20465,14 @@
         "s": "Mali-G615 MC2"
       },
       {
-        "d": "Adreno__TM__650",
-        "m": "G781B",
-        "s": "Adreno (TM) 650"
-      },
-      {
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "G781B",
+        "s": "Adreno (TM) 650"
       },
       {
         "d": "Adreno__TM__642L",
@@ -20505,9 +20497,9 @@
     ],
     "folders": [
       "Assassin_s_Creed_II",
+      "Assassin_s_Creed_II_________________________________________",
       "Assassin_s_Creed__II",
       "AssassinsCreedIIGame",
-      "Assassin_s_Creed_II_________________________________________",
       "Assassin_s_Creed_2",
       "AssassinsCreedII",
       "Assassins_Creed_II"
@@ -20739,7 +20731,7 @@
     "name": "Arma 2 Free"
   },
   "339034": {
-    "config_count": 30,
+    "config_count": 31,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -20835,6 +20827,11 @@
         "d": "Adreno__TM__618",
         "m": "RMX2170",
         "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "A057M",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
@@ -21326,7 +21323,7 @@
     "name": "Stellar Blade\u2122"
   },
   "349040": {
-    "config_count": 55,
+    "config_count": 56,
     "devices": [
       {
         "d": "G615_MC2",
@@ -21460,7 +21457,7 @@
     "name": "DreadOut Remastered Collection"
   },
   "3501070": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G615_MC6",
@@ -21469,7 +21466,8 @@
       }
     ],
     "folders": [
-      "CarServiceTogether"
+      "CarServiceTogether",
+      "Cars"
     ],
     "name": "Car Service Together"
   },
@@ -21791,7 +21789,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 10,
+    "config_count": 21,
     "devices": [
       {
         "d": "G57_MC2",
@@ -21822,10 +21820,31 @@
         "d": "G57_MC4",
         "m": "Mali",
         "s": "Mali-G57 MC4"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
-      "Atla"
+      "Atla",
+      "TombRaider"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -32663,7 +32682,7 @@
     "name": "Dyinglightgame Thebeast X64 Rwdi"
   },
   "name:efootball-2021": {
-    "config_count": 44,
+    "config_count": 45,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -33770,7 +33789,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2531,
+    "config_count": 2532,
     "devices": [
       {
         "d": "G52_MC2",
@@ -34598,11 +34617,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "G52",
-        "m": "Mali",
-        "s": "Mali-G52"
-      },
-      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
@@ -34621,6 +34635,11 @@
         "d": "PowerVR_Rogue_GE8320",
         "m": "moto_g22",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "G52",
+        "m": "Mali",
+        "s": "Mali-G52"
       },
       {
         "d": "Adreno__TM__740",
