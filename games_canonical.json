@@ -9202,33 +9202,8 @@
     "name": "Hitman: Absolution\u2122"
   },
   "203160": {
-    "config_count": 14,
+    "config_count": 3,
     "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
-      },
       {
         "d": "G52_MC2",
         "m": "Mali",
@@ -9241,11 +9216,10 @@
       }
     ],
     "folders": [
-      "TombRaider",
       "Tomb_Raider_2013",
       "Tomb_Raider_Game_of_the_Year"
     ],
-    "name": "Tomb Raider Game of the Year"
+    "name": "Tomb Raider 2013"
   },
   "203650": {
     "config_count": 3,
@@ -15074,6 +15048,14 @@
     ],
     "name": "Dead Signal"
   },
+  "2599690": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Better_Than_Dead"
+    ],
+    "name": "Better Than Dead"
+  },
   "260210": {
     "config_count": 7,
     "devices": [
@@ -18286,7 +18268,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 33,
+    "config_count": 32,
     "devices": [
       {
         "d": "G78",
@@ -18358,8 +18340,7 @@
       "BlackOps",
       "Call_of_Duty_3______________________________________________",
       "Call_of_Duty_Black_Ops",
-      "Call_of_Duty___Black_Ops_III",
-      "Call_of_Duty_-_Black_Ops"
+      "Call_of_Duty___Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
   },
@@ -18947,7 +18928,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1253,
+    "config_count": 1254,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -19550,11 +19531,6 @@
         "s": "Mali-G52"
       },
       {
-        "d": "Adreno__TM__720",
-        "m": "NX9",
-        "s": "Adreno (TM) 720"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "23124RA7EO",
         "s": "Adreno (TM) 610"
@@ -19888,6 +19864,11 @@
         "d": "G76",
         "m": "Mali",
         "s": "Mali-G76"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "NX9",
+        "s": "Adreno (TM) 720"
       },
       {
         "d": "Adreno__TM__830",
@@ -21823,7 +21804,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 10,
+    "config_count": 21,
     "devices": [
       {
         "d": "G57_MC2",
@@ -21854,10 +21835,31 @@
         "d": "G57_MC4",
         "m": "Mali",
         "s": "Mali-G57 MC4"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
-      "Atla"
+      "Atla",
+      "TombRaider"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -25085,6 +25087,20 @@
       "Call_of_Duty___Modern_Warfare__3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
+  },
+  "42700": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Call_of_Duty_-_Black_Ops"
+    ],
+    "name": "Call of Duty\u00ae: Black Ops"
   },
   "427190": {
     "config_count": 5,
@@ -33816,7 +33832,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2532,
+    "config_count": 2533,
     "devices": [
       {
         "d": "G52_MC2",
@@ -34484,11 +34500,6 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "Adreno__TM__710",
-        "m": "motorola_edge_50_fusion",
-        "s": "Adreno (TM) 710"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "23028RA60L",
         "s": "Adreno (TM) 610"
@@ -34667,6 +34678,11 @@
         "d": "G52",
         "m": "Mali",
         "s": "Mali-G52"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "motorola_edge_50_fusion",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__740",
