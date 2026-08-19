@@ -2406,7 +2406,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 322,
+    "config_count": 323,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -7759,13 +7759,8 @@
     "name": "Asphalt Legends "
   },
   "1817070": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
       {
         "d": "Adreno__TM__840",
         "m": "NX809J",
@@ -7805,6 +7800,11 @@
         "d": "Adreno__TM__619",
         "m": "RMX3661",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__830",
@@ -9132,7 +9132,7 @@
     "name": "Call of Duty\u00ae: Black Ops II"
   },
   "203140": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G610_MC3",
