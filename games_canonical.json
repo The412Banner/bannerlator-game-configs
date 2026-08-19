@@ -3525,7 +3525,7 @@
     "name": "Party Animals"
   },
   "1262540": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G52_MC2",
@@ -3551,7 +3551,8 @@
     "folders": [
       "Need_for_Speed_",
       "need_for_speed",
-      "need_for_speed_"
+      "need_for_speed_",
+      "Need_for_speed__2005_"
     ],
     "name": "Need for Speed\u2122"
   },
@@ -7332,6 +7333,14 @@
     ],
     "name": "The Coma 2B: Catacomb"
   },
+  "1782120": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "ZERO_Sievert"
+    ],
+    "name": "ZERO Sievert"
+  },
   "1782210": {
     "config_count": 1,
     "devices": [
@@ -8663,7 +8672,7 @@
     "name": "Digimon Story Time Stranger"
   },
   "19900": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -9962,6 +9971,20 @@
     ],
     "name": "F.E.A.R. 3"
   },
+  "211010": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Alien_Shooter_2"
+    ],
+    "name": "Alien Shooter 2 Conscription"
+  },
   "2110820": {
     "config_count": 1,
     "devices": [],
@@ -10881,7 +10904,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 102,
+    "config_count": 103,
     "devices": [
       {
         "d": "S938B",
@@ -11017,6 +11040,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "ASUS_I005DA",
+        "s": "Adreno (TM) 660"
       },
       {
         "d": "Adreno__TM__740",
@@ -14689,7 +14717,7 @@
     "name": "HoneyCome come come party"
   },
   "254700": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "SM7435",
@@ -14770,6 +14798,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "S901E",
+        "s": "Adreno (TM) 730"
       }
     ],
     "folders": [
@@ -14988,7 +15021,7 @@
     "name": "Pure Badminton"
   },
   "2592160": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -15276,6 +15309,14 @@
       "TokyoXtremeRacer"
     ],
     "name": "Tokyo Xtreme Racer"
+  },
+  "2637940": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Cars"
+    ],
+    "name": "Used Cars Simulator"
   },
   "2638050": {
     "config_count": 1,
@@ -16942,7 +16983,7 @@
     "name": "Metro: Last Light Redux"
   },
   "287700": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "MT6789",
@@ -16962,6 +17003,11 @@
       {
         "d": "Adreno__TM__750",
         "m": "S928B",
+        "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "S928N",
         "s": "Adreno (TM) 750"
       },
       {
@@ -18278,7 +18324,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 32,
+    "config_count": 33,
     "devices": [
       {
         "d": "G78",
@@ -18350,7 +18396,8 @@
       "BlackOps",
       "Call_of_Duty_3______________________________________________",
       "Call_of_Duty_Black_Ops",
-      "Call_of_Duty___Black_Ops_III"
+      "Call_of_Duty___Black_Ops_III",
+      "Call_of_Duty_-_Black_Ops"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
   },
@@ -18938,7 +18985,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1254,
+    "config_count": 1255,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -20412,20 +20459,6 @@
     ],
     "name": "Garten of Banban 0"
   },
-  "33120": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "Alien_Shooter_2"
-    ],
-    "name": "Alien Shooter 2: Reloaded"
-  },
   "3314070": {
     "config_count": 1,
     "devices": [],
@@ -20532,7 +20565,7 @@
     "name": "Assassin's Creed 2"
   },
   "332800": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__618",
@@ -20541,6 +20574,7 @@
       }
     ],
     "folders": [
+      "FiveNightsatFreddys_3",
       "Five_Nights_At_Freddys_2"
     ],
     "name": "Five Nights at Freddy's 2"
@@ -21482,7 +21516,7 @@
     "name": "DreadOut Remastered Collection"
   },
   "3501070": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G615_MC6",
@@ -21491,8 +21525,7 @@
       }
     ],
     "folders": [
-      "CarServiceTogether",
-      "Cars"
+      "CarServiceTogether"
     ],
     "name": "Car Service Together"
   },
@@ -21699,20 +21732,6 @@
     ],
     "name": "Aces of the Luftwaffe"
   },
-  "354140": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__618",
-        "m": "M2007J20CG",
-        "s": "Adreno (TM) 618"
-      }
-    ],
-    "folders": [
-      "FiveNightsatFreddys_3"
-    ],
-    "name": "Five Nights at Freddy's 3"
-  },
   "354160": {
     "config_count": 1,
     "devices": [
@@ -21814,7 +21833,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 21,
+    "config_count": 24,
     "devices": [
       {
         "d": "G57_MC2",
@@ -21869,7 +21888,8 @@
     ],
     "folders": [
       "Atla",
-      "TombRaider"
+      "TombRaider",
+      "Tomb_Raider"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -22929,7 +22949,7 @@
     "name": "Professor Teaches\u00ae Excel 2013 & 365"
   },
   "377160": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "SM8750P",
@@ -23608,7 +23628,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 162,
+    "config_count": 159,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -25097,20 +25117,6 @@
       "Call_of_Duty___Modern_Warfare__3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
-  },
-  "42700": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Call_of_Duty_-_Black_Ops"
-    ],
-    "name": "Call of Duty\u00ae: Black Ops"
   },
   "427190": {
     "config_count": 5,
@@ -30905,7 +30911,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 102,
+    "config_count": 103,
     "devices": [
       {
         "d": "s5e8855",
@@ -31028,11 +31034,6 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "Adreno__TM__735",
-        "m": "24069PC21G",
-        "s": "Adreno (TM) 735"
-      },
-      {
         "d": "Adreno__TM__640",
         "m": "M2102J20SG",
         "s": "Adreno (TM) 640"
@@ -31091,6 +31092,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
       },
       {
         "d": "Adreno__TM__840",
@@ -33871,7 +33877,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2533,
+    "config_count": 2534,
     "devices": [
       {
         "d": "G52_MC2",
