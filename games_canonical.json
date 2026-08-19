@@ -2831,7 +2831,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 39,
+    "config_count": 40,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -2897,6 +2897,11 @@
         "d": "Adreno__TM__740",
         "m": "S911B",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__740",
@@ -3656,7 +3661,7 @@
     "name": "Need for Speed\u2122 Most Wanted"
   },
   "1262580": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -9615,7 +9620,7 @@
     "name": "Stick It to the Stickman"
   },
   "208650": {
-    "config_count": 16,
+    "config_count": 17,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -9651,6 +9656,11 @@
         "d": "Adreno__TM__830",
         "m": "NP05J",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -25561,7 +25571,7 @@
     "name": "Farming Simulator 17"
   },
   "447040": {
-    "config_count": 48,
+    "config_count": 49,
     "devices": [
       {
         "d": "G720_MC7",
@@ -29906,7 +29916,7 @@
     "name": "Electric Bench - Unreal Engine 5 Benchmark"
   },
   "774361": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -30560,12 +30570,17 @@
     "name": "Call of Duty\u00ae: Black Ops III - Revelations Zombies Map"
   },
   "831560": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__640",
         "m": "M2102J20SG",
         "s": "Adreno (TM) 640"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -30890,7 +30905,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 101,
+    "config_count": 102,
     "devices": [
       {
         "d": "s5e8855",
@@ -31073,6 +31088,11 @@
         "s": "Adreno (TM) 740"
       },
       {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
+      },
+      {
         "d": "Adreno__TM__840",
         "m": "S948U1",
         "s": "Adreno (TM) 840"
@@ -31169,7 +31189,7 @@
     "name": "Last Epoch"
   },
   "911400": {
-    "config_count": 34,
+    "config_count": 35,
     "devices": [
       {
         "d": "MT6833V_PNZA",
@@ -31230,6 +31250,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__829",
@@ -32069,6 +32094,20 @@
       "DB_FighterZ"
     ],
     "name": "DRAGON BALL FighterZ - Broly (DBS)"
+  },
+  "992300": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
+      }
+    ],
+    "folders": [
+      "____Bloody_Spell"
+    ],
+    "name": "\u55dc\u8840\u5370 Bloody Spell"
   },
   "99300": {
     "config_count": 2,
