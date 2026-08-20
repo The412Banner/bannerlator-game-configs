@@ -4534,7 +4534,7 @@
     "name": "NINJA GAIDEN 3: Razor's Edge [NINJA GAIDEN: Master Collection]"
   },
   "1371980": {
-    "config_count": 5,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -4550,12 +4550,18 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "CPH2447",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "No_Rest_for_the_Wicked",
       "RE4",
-      "Re4"
+      "Re4",
+      "re4"
     ],
     "name": "No Rest for the Wicked"
   },
@@ -26025,17 +26031,10 @@
     "name": "Halo Wars: Definitive Edition"
   },
   "4600470": {
-    "config_count": 7,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "CPH2447",
-        "s": "Adreno (TM) 740"
-      }
-    ],
+    "config_count": 1,
+    "devices": [],
     "folders": [
-      "RE_6",
-      "re4"
+      "RE_6"
     ],
     "name": "Season 4 Battlefield Pro - Battlefield\u2122 6 and REDSEC"
   },
