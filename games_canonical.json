@@ -1215,7 +1215,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1224,7 +1224,8 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid"
+      "BattleForTheGrid",
+      "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -9992,6 +9993,20 @@
     ],
     "name": "F.E.A.R. 3"
   },
+  "211010": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Alien_Shooter_2"
+    ],
+    "name": "Alien Shooter 2 Conscription"
+  },
   "2110820": {
     "config_count": 1,
     "devices": [],
@@ -14217,7 +14232,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 23,
+    "config_count": 24,
     "devices": [
       {
         "d": "A075M",
@@ -14281,7 +14296,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes"
+      "LEGO__Marvel__Super_Heroes",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -15333,14 +15349,6 @@
     ],
     "name": "Tokyo Xtreme Racer"
   },
-  "2637940": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Cars"
-    ],
-    "name": "Used Cars Simulator"
-  },
   "2638050": {
     "config_count": 1,
     "devices": [],
@@ -16289,14 +16297,6 @@
       "DYNASTY_WARRIORS_8_-_Xtreme_Legends_Complete_Edition"
     ],
     "name": "Dynasty Warriors 8 - Xtreme Legends Complete Edition"
-  },
-  "2787680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Candy Rangers"
   },
   "2796520": {
     "config_count": 1,
@@ -20520,20 +20520,6 @@
     ],
     "name": "Garten of Banban 0"
   },
-  "33120": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "Alien_Shooter_2"
-    ],
-    "name": "Alien Shooter 2: Reloaded"
-  },
   "3314070": {
     "config_count": 1,
     "devices": [],
@@ -21590,7 +21576,7 @@
     "name": "DreadOut Remastered Collection"
   },
   "3501070": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G615_MC6",
@@ -21599,7 +21585,8 @@
       }
     ],
     "folders": [
-      "CarServiceTogether"
+      "CarServiceTogether",
+      "Cars"
     ],
     "name": "Car Service Together"
   },
@@ -28945,7 +28932,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
