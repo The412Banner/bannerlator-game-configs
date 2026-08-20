@@ -2089,7 +2089,7 @@
     "name": "Car Mechanic Simulator 2021"
   },
   "1196590": {
-    "config_count": 34,
+    "config_count": 35,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -2165,6 +2165,11 @@
         "d": "Adreno__TM__642L",
         "m": "22101320G",
         "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -3185,7 +3190,7 @@
     "name": "Burnout\u2122 Paradise Remastered"
   },
   "1238810": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "SM8735",
@@ -3561,7 +3566,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 44,
+    "config_count": 45,
     "devices": [
       {
         "d": "G57_MC2",
@@ -3627,6 +3632,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "24117RK2CG",
+        "s": "Adreno (TM) 750"
       },
       {
         "d": "Adreno__TM__22",
@@ -4182,7 +4192,7 @@
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
   "1328670": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -7154,14 +7164,6 @@
       "Mirror_s_Edge"
     ],
     "name": "Mirror's Edge\u2122"
-  },
-  "17460": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Mass_Effect"
-    ],
-    "name": "Mass Effect (2007)"
   },
   "1746860": {
     "config_count": 1,
@@ -15325,6 +15327,14 @@
     ],
     "name": "Tokyo Xtreme Racer"
   },
+  "2637940": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Cars"
+    ],
+    "name": "Used Cars Simulator"
+  },
   "2638050": {
     "config_count": 1,
     "devices": [],
@@ -17795,7 +17805,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -17814,7 +17824,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -19026,7 +19037,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1260,
+    "config_count": 1261,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -19674,11 +19685,6 @@
         "s": "Adreno (TM) 840"
       },
       {
-        "d": "Adreno__TM__720",
-        "m": "W00",
-        "s": "Adreno (TM) 720"
-      },
-      {
         "d": "PowerVR_Rogue_GE8322",
         "m": "itel_A667LP",
         "s": "PowerVR Rogue GE8322"
@@ -19972,6 +19978,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "W00",
+        "s": "Adreno (TM) 720"
       },
       {
         "d": "Adreno__TM__830",
@@ -21330,6 +21341,14 @@
     ],
     "name": "Ghost Song"
   },
+  "34830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper: Ghost Warrior"
+  },
   "348470": {
     "config_count": 13,
     "devices": [
@@ -21575,7 +21594,7 @@
     "name": "DreadOut Remastered Collection"
   },
   "3501070": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G615_MC6",
@@ -21584,8 +21603,7 @@
       }
     ],
     "folders": [
-      "CarServiceTogether",
-      "Cars"
+      "CarServiceTogether"
     ],
     "name": "Car Service Together"
   },
@@ -22569,14 +22587,6 @@
       "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
-  },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
@@ -25533,7 +25543,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -25543,8 +25553,8 @@
     ],
     "folders": [
       "Call_of_Duty_4",
-      "COD__Modern_Warfare",
       "Call_of_Duty_4_Modern_Warfare",
+      "COD__Modern_Warfare",
       "call_of_duty_4_modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
@@ -26026,6 +26036,20 @@
       "Bayonetta"
     ],
     "name": "Bayonetta"
+  },
+  "460810": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "S918U1",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Vanquish"
+    ],
+    "name": "Vanquish"
   },
   "460930": {
     "config_count": 1,
@@ -28991,7 +29015,7 @@
     "name": "Dream Daddy: A Dad Dating Simulator"
   },
   "655500": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "G52_MC2",
@@ -30409,7 +30433,7 @@
     "name": "Tomb Raider: Underworld"
   },
   "814380": {
-    "config_count": 59,
+    "config_count": 60,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -30512,11 +30536,6 @@
         "s": "Adreno (TM) 740"
       },
       {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      },
-      {
         "d": "Adreno__TM__740",
         "m": "24018RPACG",
         "s": "Adreno (TM) 740"
@@ -30525,6 +30544,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__750",
@@ -31470,7 +31494,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -31489,8 +31513,7 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -34001,7 +34024,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2542,
+    "config_count": 2546,
     "devices": [
       {
         "d": "G52_MC2",
@@ -34852,6 +34875,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "ANGLE__Samsung_Xclipse_530__on_Vulkan_1_3_231",
+        "m": "A556E",
+        "s": "ANGLE (Samsung Xclipse 530) on Vulkan 1.3.231"
       },
       {
         "d": "Adreno__TM__740",
