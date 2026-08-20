@@ -332,11 +332,6 @@
     "method": "fuzzy",
     "steam_name": "Ashes Cricket"
   },
-  "Asphalt_Legends_": {
-    "appid": 1815780,
-    "method": "naive",
-    "steam_name": "Asphalt Legends "
-  },
   "Assassin_s_Creed_4_Black_Flag": {
     "appid": 242050,
     "method": "norm",
@@ -3772,6 +3767,12 @@
     "appid": 2157560,
     "method": "naive",
     "steam_name": "Granblue Fantasy Versus: Rising"
+  },
+  "GrandChase": {
+    "appid": 985810,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/985810/header.jpg",
+    "method": "norm",
+    "steam_name": "GrandChase"
   },
   "GrandTheftAuto_Launcher": {
     "appid": null,
