@@ -2953,7 +2953,7 @@
     "name": "Need for Speed\u2122 Heat"
   },
   "1222690": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -2964,6 +2964,11 @@
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "N49",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -7360,7 +7365,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 143,
+    "config_count": 144,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -7561,6 +7566,11 @@
         "d": "Adreno__TM__740",
         "m": "23113RKC6G",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "N49",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "Adreno__TM__830",
@@ -12639,7 +12649,7 @@
     "name": "Need for Speed\u2122 Unbound \u2013 Trick or Street Swag Pack"
   },
   "234080": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -12660,10 +12670,16 @@
         "d": "Adreno__TM__616",
         "m": "Mi_9_Lite",
         "s": "Adreno (TM) 616"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "N49",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
-      "Castlevania__Lords_of_Shadow___Ultimate_Edition"
+      "Castlevania__Lords_of_Shadow___Ultimate_Edition",
+      "Castlevania__Lords_of_Shadow"
     ],
     "name": "Castlevania: Lords of Shadow \u2013 Ultimate Edition"
   },
@@ -16484,6 +16500,20 @@
       "Jotunnslayer"
     ],
     "name": "Jotunnslayer: Hordes of Hel"
+  },
+  "282530": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "N49",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "Castlevania_Lords_of_Shadow___Mirror_of_Fate_HD"
+    ],
+    "name": "Castlevania Lords Of Shadow Mirror Of Fate Hd"
   },
   "2830030": {
     "config_count": 1,
@@ -20447,7 +20477,7 @@
     "name": "NINJA GAIDEN 2 Black"
   },
   "329050": {
-    "config_count": 46,
+    "config_count": 47,
     "devices": [
       {
         "d": "G57",
@@ -20563,6 +20593,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "N49",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -21181,6 +21216,14 @@
       "Heavy_Weapon"
     ],
     "name": "Heavy Weapon Deluxe"
+  },
+  "3419290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN"
   },
   "341940": {
     "config_count": 3,
@@ -24463,14 +24506,6 @@
     ],
     "name": "The Spike Cross"
   },
-  "3985080": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN - Costume Expansion Pack"
-  },
   "400": {
     "config_count": 4,
     "devices": [],
@@ -26016,6 +26051,20 @@
       "pro_evolution_soccer_2017"
     ],
     "name": "Pro Evolution Soccer 2017"
+  },
+  "4570720": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "N49",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "DragonSword___Awakening"
+    ],
+    "name": "Dragonsword Awakening"
   },
   "457140": {
     "config_count": 1,
