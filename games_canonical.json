@@ -13273,7 +13273,7 @@
     "name": "Thief"
   },
   "239250": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -13299,11 +13299,17 @@
         "d": "Adreno__TM__610",
         "m": "23021RAAEG",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "N49",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
       "Castlevania__Lords_of_Shadow_2",
-      "Castlevania_-_Lords_of_Shadow_2"
+      "Castlevania_-_Lords_of_Shadow_2",
+      "Castlevania_Lords_of_Shadow_2"
     ],
     "name": "Castlevania: Lords of Shadow 2"
   },
@@ -34193,7 +34199,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2556,
+    "config_count": 2557,
     "devices": [
       {
         "d": "G52_MC2",
@@ -35049,6 +35055,11 @@
         "d": "Adreno__TM__730",
         "m": "S901E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__506",
+        "m": "A207M",
+        "s": "Adreno (TM) 506"
       },
       {
         "d": "Adreno__TM__740",
