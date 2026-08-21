@@ -1638,7 +1638,7 @@
     "name": "Horizon Zero Dawn\u2122 Complete Edition"
   },
   "115320": {
-    "config_count": 65,
+    "config_count": 66,
     "devices": [
       {
         "d": "Adreno__TM__640",
@@ -1714,6 +1714,11 @@
         "d": "Adreno__TM__618",
         "m": "M2101K6G",
         "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       },
       {
         "d": "Adreno__TM__825",
@@ -1926,7 +1931,7 @@
     "name": "FINAL FANTASY"
   },
   "1174180": {
-    "config_count": 42,
+    "config_count": 43,
     "devices": [
       {
         "d": "SM8750P",
@@ -2012,6 +2017,11 @@
         "d": "Adreno__TM__830",
         "m": "NP05J",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__650",
@@ -5243,7 +5253,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 80,
+    "config_count": 81,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -6325,6 +6335,20 @@
       "King_s_Bounty_II"
     ],
     "name": "King's Bounty II - Digital Soundtrack"
+  },
+  "1643320": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "V2425A",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "STALKER"
+    ],
+    "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl"
   },
   "1649240": {
     "config_count": 1,
@@ -7833,7 +7857,7 @@
     "name": "Marvel\u2019s Spider-Man Remastered"
   },
   "1817190": {
-    "config_count": 22,
+    "config_count": 23,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -7889,6 +7913,11 @@
         "d": "Adreno__TM__830",
         "m": "PLQ110",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053RT47C",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
@@ -10524,7 +10553,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 91,
+    "config_count": 92,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -10639,6 +10668,11 @@
       {
         "d": "Adreno__TM__619",
         "m": "moto_g84_5G",
+        "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
       }
     ],
@@ -11514,7 +11548,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 14,
+    "config_count": 13,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -11544,8 +11578,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -13231,7 +13264,7 @@
     "name": "Papers, Please"
   },
   "239140": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "SM8750",
@@ -13267,6 +13300,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Immortalis_MC12",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC12"
       }
     ],
     "folders": [
@@ -17019,7 +17057,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -17059,7 +17097,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -21217,14 +21256,6 @@
     ],
     "name": "Heavy Weapon Deluxe"
   },
-  "3419290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN"
-  },
   "341940": {
     "config_count": 3,
     "devices": [
@@ -23086,20 +23117,6 @@
     ],
     "name": "Resident Evil Requiem"
   },
-  "3765020": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__750",
-        "m": "V2425A",
-        "s": "Adreno (TM) 750"
-      }
-    ],
-    "folders": [
-      "STALKER"
-    ],
-    "name": "S.T.A.L.K.E.R. 2: Cost of Hope"
-  },
   "3767850": {
     "config_count": 1,
     "devices": [
@@ -24505,6 +24522,14 @@
       "The_Spike"
     ],
     "name": "The Spike Cross"
+  },
+  "3985080": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN - Costume Expansion Pack"
   },
   "400": {
     "config_count": 4,
@@ -33959,6 +33984,20 @@
     ],
     "name": "Need For Speed Underground"
   },
+  "name:need-for-speed-underground-2": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "N49",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "Need_for_speed_Underground_2"
+    ],
+    "name": "Need For Speed Underground 2"
+  },
   "name:nfs-most-wanted": {
     "config_count": 2,
     "devices": [
@@ -34248,7 +34287,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2557,
+    "config_count": 2558,
     "devices": [
       {
         "d": "G52_MC2",
