@@ -1300,6 +1300,12 @@
     "method": "naive",
     "steam_name": "Chained Echoes"
   },
+  "Chapter1_": {
+    "appid": 3344930,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3344930/header.jpg",
+    "method": "naive",
+    "steam_name": "Darker: Chapter 1"
+  },
   "Chef_RPG": {
     "appid": 1796790,
     "method": "naive",
@@ -3813,6 +3819,12 @@
   },
   "Grand_Theft_Auto_IV__The_Complete_Edition": {
     "appid": 12210,
+    "method": "naive",
+    "steam_name": "Grand Theft Auto IV: The Complete Edition"
+  },
+  "Grand_Theft_Auto_IV__The_Complete_Edition_": {
+    "appid": 12210,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/12210/header.jpg",
     "method": "naive",
     "steam_name": "Grand Theft Auto IV: The Complete Edition"
   },
@@ -8087,6 +8099,10 @@
     "appid": null,
     "method": "unresolved"
   },
+  "Samsung_USB_Driver_for_Mobile_Phones": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "Satisfactory": {
     "appid": 526870,
     "method": "naive",
@@ -9765,6 +9781,12 @@
     "method": "naive",
     "steam_name": "Unravel Two"
   },
+  "UnrealGame": {
+    "appid": 1890170,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1890170/header.jpg",
+    "method": "norm",
+    "steam_name": "An Indie Game a Month: Unreal Journey"
+  },
   "Unreal_Engine": {
     "appid": 773700,
     "method": "naive",
@@ -11139,6 +11161,12 @@
   },
   "pes_2013": {
     "appid": 1665460,
+    "method": "fuzzy",
+    "steam_name": "eFootball\u2122"
+  },
+  "pes_2013_": {
+    "appid": 1665460,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1665460/header.jpg",
     "method": "fuzzy",
     "steam_name": "eFootball\u2122"
   },
