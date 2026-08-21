@@ -18871,8 +18871,14 @@
     "name": "Football Life Simulator"
   },
   "3159330": {
-    "config_count": 2,
-    "devices": [],
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__810",
+        "m": "V2502",
+        "s": "Adreno (TM) 810"
+      }
+    ],
     "folders": [
       "Assassin_s_Creed_________",
       "Assassin_s_Creed"
