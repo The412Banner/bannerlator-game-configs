@@ -2841,7 +2841,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 40,
+    "config_count": 41,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -4193,7 +4193,7 @@
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
   "1328670": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -5607,7 +5607,7 @@
     "name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition"
   },
   "1547000": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -6385,7 +6385,7 @@
     "name": "Eiyuden Chronicle: Hundred Heroes"
   },
   "1659040": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -7145,6 +7145,14 @@
       "Mirror_s_Edge"
     ],
     "name": "Mirror's Edge\u2122"
+  },
+  "17460": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Mass_Effect"
+    ],
+    "name": "Mass Effect (2007)"
   },
   "1746860": {
     "config_count": 1,
@@ -12918,7 +12926,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 15,
+    "config_count": 12,
     "devices": [
       {
         "d": "G720_MC7",
@@ -12939,21 +12947,10 @@
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II",
-      "DarkSoulsII"
+      "DARK_SOULS__II"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -17826,7 +17823,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -17845,7 +17842,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -19087,7 +19085,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1271,
+    "config_count": 1272,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -21401,6 +21399,14 @@
     ],
     "name": "Ghost Song"
   },
+  "34830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper: Ghost Warrior"
+  },
   "348470": {
     "config_count": 13,
     "devices": [
@@ -22619,14 +22625,6 @@
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
-  },
   "3681010": {
     "config_count": 1,
     "devices": [],
@@ -22801,7 +22799,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 31,
+    "config_count": 34,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -22864,6 +22862,16 @@
         "s": "Adreno (TM) 735"
       },
       {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
+      },
+      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -22875,6 +22883,7 @@
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
       "DARK_SOULS_III",
+      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -31522,6 +31531,20 @@
     ],
     "name": "Cat Quest II"
   },
+  "915190": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      }
+    ],
+    "folders": [
+      "Cars_2"
+    ],
+    "name": "Cartoony Cars 2"
+  },
   "917040": {
     "config_count": 1,
     "devices": [],
@@ -31580,7 +31603,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -31599,8 +31622,7 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -34125,7 +34147,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2550,
+    "config_count": 2554,
     "devices": [
       {
         "d": "G52_MC2",
