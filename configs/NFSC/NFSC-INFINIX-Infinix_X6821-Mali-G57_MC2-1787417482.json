@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "INFINIX Infinix X6821",
+    "soc": "Mali-G57 MC2",
+    "bh_version": "2.9.9",
+    "upload_token": "7513b6d96a50b45b",
+    "settings_count": 9,
+    "components_count": 4
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"2.3.1-arm64ec-gplasync\"}",
+    "pc_ls_VK3k": "{\"name\":\"3.0b-Tfix-0\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"ARM Mali-G57 MC2\"}",
+    "pc_set_constant_95": "{\"name\":\"FEXCore-2608-stable-0\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"Proton-11.0-5-arm64ec-1\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-legacy",
+    "pc_ls_AUDIO_DRIVER": "0",
+    "pc_ls_environment_variable": "WRAPPER_MAX_IMAGE_COUNT=0 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=512MB mesa_glthread=true WINEESYNC=1 TU_DEBUG=noconform,sysmem DXVK_HUD=fps",
+    "bl_ext": {
+      "dxwrapper": "dxvk+vkd3d",
+      "screenSize": "1280x720",
+      "renderer": "vulkan",
+      "fullscreenMode": "2",
+      "frameGenEngine": "off",
+      "native": "false",
+      "swapRB": "false",
+      "presentMode": "mailbox",
+      "reshadeMode": "solo",
+      "reshadeEffect": "None",
+      "emulator": "fexcore",
+      "box64Version": "0.3.7",
+      "box64Preset": "COMPATIBILITY",
+      "fexcorePreset": "PERFORMANCE",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1",
+      "lc_all": "ru_RU.UTF-8",
+      "fpsCounterConfig": "hudStyle=fusion,hudEnabled=1,hudMode=horizontal,showFPS=1,showCPULoad=1,showGPULoad=1,showRAM=1,showRenderer=1,showBatteryTemp=1,hudScale=100,hudSize=pill,showVram=1,showLow001=1,fpsDecimal=1,hudLocked=0,showPerCore=1,showSwap=1,showNet=1,showResolution=1,showProton=1,showWrapper=1,showDxVer=1,showSession=1",
+      "gyroEnabled": "0",
+      "gyroTarget": "0",
+      "gyroActivator": "0",
+      "gyroActivationMode": "0",
+      "gyroMode": "0",
+      "gyroSensitivity": "2.0",
+      "gyroInvertX": "0",
+      "gyroInvertY": "0",
+      "maxGameRefreshRate": "0",
+      "unlockGameRefreshRate": "1",
+      "frameGenModel": "0",
+      "vibrationMode": "1",
+      "vibrationIntensity": "100",
+      "dxwrapperConfig": "version=2.3.1-arm64ec-gplasync,framerate=0,async=1,asyncCache=0,vkd3dVersion=3.0b-Tfix-0,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,d7vkVersion=Bundled (default),dxvkConfigFile="
+    }
+  },
+  "components": [
+    {
+      "name": "2.3.1-arm64ec-gplasync",
+      "type": "DXVK"
+    },
+    {
+      "name": "3.0b-Tfix-0",
+      "type": "VKD3D"
+    },
+    {
+      "name": "ARM Mali-G57 MC2",
+      "type": "GPU"
+    },
+    {
+      "name": "FEXCore-2608-stable-0",
+      "type": "FEXCore"
+    }
+  ]
+}
