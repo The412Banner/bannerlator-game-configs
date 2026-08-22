@@ -12532,7 +12532,7 @@
     "name": "Doloc Town"
   },
   "2288627": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "ACU"
@@ -15209,14 +15209,6 @@
       "Promise_Mascot_Agency"
     ],
     "name": "Promise Mascot Agency"
-  },
-  "2590240": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "metro"
-    ],
-    "name": "METRO 2039"
   },
   "2590920": {
     "config_count": 1,
@@ -18030,7 +18022,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -18049,8 +18041,7 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -25003,11 +24994,12 @@
     "name": "SENRAN KAGURA SHINOVI VERSUS"
   },
   "412020": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "Metro_Exodus",
-      "MetroExodus"
+      "MetroExodus",
+      "metro"
     ],
     "name": "Metro Exodus"
   },
@@ -31902,7 +31894,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G615_MC6",
@@ -31921,7 +31913,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
