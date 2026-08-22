@@ -647,7 +647,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -673,10 +673,16 @@
         "d": "Adreno__TM__740",
         "m": "2211133C",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Ori_and_the_Will_of_the_Wisps",
+      "Ori",
       "Ori_and_the_will_of_the_wisps"
     ],
     "name": "Ori and the Will of the Wisps"
@@ -6866,7 +6872,7 @@
     "name": "Ultra Age"
   },
   "1687950": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -15540,6 +15546,14 @@
     ],
     "name": "Tokyo Xtreme Racer"
   },
+  "2637940": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Cars"
+    ],
+    "name": "Used Cars Simulator"
+  },
   "2638050": {
     "config_count": 1,
     "devices": [],
@@ -18585,7 +18599,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 34,
+    "config_count": 33,
     "devices": [
       {
         "d": "G78",
@@ -18662,8 +18676,7 @@
       "BlackOps",
       "Call_of_Duty_3______________________________________________",
       "Call_of_Duty_Black_Ops",
-      "Call_of_Duty___Black_Ops_III",
-      "Call_of_Duty_-_Black_Ops"
+      "Call_of_Duty___Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
   },
@@ -20792,14 +20805,6 @@
     ],
     "name": "Garten of Banban 0"
   },
-  "331160": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Cars"
-    ],
-    "name": "Disney\u2022Pixar Cars"
-  },
   "33120": {
     "config_count": 2,
     "devices": [
@@ -22844,7 +22849,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 13,
+    "config_count": 12,
     "devices": [
       {
         "d": "G68_MC4",
@@ -22860,22 +22865,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "2211133C",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE",
-      "Ori"
+      "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -25531,6 +25525,20 @@
       "Call_of_Duty___Modern_Warfare__3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
+  },
+  "42700": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Call_of_Duty_-_Black_Ops"
+    ],
+    "name": "Call of Duty\u00ae: Black Ops"
   },
   "427190": {
     "config_count": 5,
@@ -31428,7 +31436,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 104,
+    "config_count": 103,
     "devices": [
       {
         "d": "s5e8855",
