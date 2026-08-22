@@ -9005,7 +9005,7 @@
     "name": "Wolfenstein: The New Order"
   },
   "201870": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "G68_MC4",
@@ -11634,7 +11634,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 11,
+    "config_count": 13,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -11663,7 +11663,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -12060,8 +12061,14 @@
     "name": "The Killing Antidote"
   },
   "225540": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
+      }
+    ],
     "folders": [
       "Just_Cause__3"
     ],
@@ -14358,7 +14365,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 23,
+    "config_count": 24,
     "devices": [
       {
         "d": "A075M",
@@ -14422,7 +14429,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes"
+      "LEGO__Marvel__Super_Heroes",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -15518,14 +15526,6 @@
     ],
     "name": "Tokyo Xtreme Racer"
   },
-  "2637940": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Cars"
-    ],
-    "name": "Used Cars Simulator"
-  },
   "2638050": {
     "config_count": 1,
     "devices": [],
@@ -16199,7 +16199,7 @@
     "name": "The Rogue Prince of Persia"
   },
   "2723810": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -17149,7 +17149,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -17190,7 +17190,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -20779,6 +20778,14 @@
     ],
     "name": "Garten of Banban 0"
   },
+  "331160": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Cars"
+    ],
+    "name": "Disney\u2022Pixar Cars"
+  },
   "33120": {
     "config_count": 2,
     "devices": [
@@ -21137,7 +21144,7 @@
     "name": "Arma 2 Free"
   },
   "339034": {
-    "config_count": 32,
+    "config_count": 33,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -21384,14 +21391,6 @@
     ],
     "name": "Heavy Weapon Deluxe"
   },
-  "3419290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN"
-  },
   "341940": {
     "config_count": 3,
     "devices": [
@@ -21547,8 +21546,14 @@
     "name": "Sniper at Work"
   },
   "345350": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
+      }
+    ],
     "folders": [
       "LIGHTNING_RETURNS___FINAL_FANTASY__XIII"
     ],
@@ -22874,7 +22879,7 @@
     "name": "Kingdom: Classic"
   },
   "368500": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "G57",
@@ -24653,6 +24658,14 @@
     ],
     "name": "The Spike Cross"
   },
+  "3985080": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN - Costume Expansion Pack"
+  },
   "400": {
     "config_count": 4,
     "devices": [],
@@ -25953,7 +25966,7 @@
     "name": "Farming Simulator 17"
   },
   "447040": {
-    "config_count": 50,
+    "config_count": 51,
     "devices": [
       {
         "d": "G720_MC7",
@@ -26760,7 +26773,7 @@
     "name": "Speak Demo"
   },
   "48190": {
-    "config_count": 22,
+    "config_count": 23,
     "devices": [
       {
         "d": "MT6789",
@@ -26801,6 +26814,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__618",
@@ -29253,7 +29271,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -32128,7 +32146,7 @@
     "name": "Volcanoids"
   },
   "952060": {
-    "config_count": 70,
+    "config_count": 71,
     "devices": [
       {
         "d": "Adreno__TM__750",
