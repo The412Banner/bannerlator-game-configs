@@ -16456,6 +16456,20 @@
     ],
     "name": "MARVEL Cosmic Invasion"
   },
+  "2757670": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "NODE"
+    ],
+    "name": "NODE"
+  },
   "2758290": {
     "config_count": 1,
     "devices": [],
@@ -18639,7 +18653,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 34,
+    "config_count": 33,
     "devices": [
       {
         "d": "G78",
@@ -18716,8 +18730,7 @@
       "BlackOps",
       "Call_of_Duty_3______________________________________________",
       "Call_of_Duty_Black_Ops",
-      "Call_of_Duty___Black_Ops_III",
-      "Call_of_Duty_-_Black_Ops"
+      "Call_of_Duty___Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
   },
@@ -25577,6 +25590,20 @@
       "Call_of_Duty___Modern_Warfare__3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
+  },
+  "42700": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Call_of_Duty_-_Black_Ops"
+    ],
+    "name": "Call of Duty\u00ae: Black Ops"
   },
   "427190": {
     "config_count": 5,
@@ -34311,6 +34338,14 @@
     ],
     "name": "Nfs13"
   },
+  "name:nfsc": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "NFSC"
+    ],
+    "name": "Nfsc"
+  },
   "name:nierautomatacompat": {
     "config_count": 1,
     "devices": [
@@ -34527,7 +34562,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2571,
+    "config_count": 2572,
     "devices": [
       {
         "d": "G52_MC2",
@@ -35365,11 +35400,6 @@
         "s": "Mali-G68"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "ANGLE__Samsung_Xclipse_530__on_Vulkan_1_3_231",
         "m": "A556E",
         "s": "ANGLE (Samsung Xclipse 530) on Vulkan 1.3.231"
@@ -35398,6 +35428,11 @@
         "d": "ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_",
         "m": "A576B",
         "s": "ANGLE ((Samsung Xclipse 550) on Vulkan 1.4.304)"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
