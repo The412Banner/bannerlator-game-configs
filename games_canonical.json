@@ -9067,7 +9067,7 @@
     "name": "Assassin's Creed\u00ae Revelations"
   },
   "202170": {
-    "config_count": 58,
+    "config_count": 59,
     "devices": [
       {
         "d": "MT6878",
@@ -9183,6 +9183,11 @@
         "d": "Adreno__TM__730",
         "m": "22081212UG",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Immortalis_MC12",
+        "m": "G720",
+        "s": "Mali-G720-Immortalis MC12"
       },
       {
         "d": "Adreno__TM__830",
@@ -11642,7 +11647,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 11,
+    "config_count": 14,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -11671,7 +11676,9 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -15877,7 +15884,7 @@
     "name": "Minami Lane"
   },
   "2679460": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -15886,7 +15893,8 @@
       }
     ],
     "folders": [
-      "Metaphor__ReFantazio"
+      "Metaphor__ReFantazio",
+      "METAPHOR"
     ],
     "name": "Metaphor: ReFantazio"
   },
@@ -17161,7 +17169,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -17201,9 +17209,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "rerev",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
