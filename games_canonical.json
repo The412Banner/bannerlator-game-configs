@@ -2867,7 +2867,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 42,
+    "config_count": 37,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -2963,19 +2963,13 @@
         "d": "Adreno__TM__722",
         "m": "CPH2825",
         "s": "Adreno (TM) 722"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
       "Need_for_Speed__Heat",
       "nfs",
       "speed",
-      "Need_for_Speed_Heat",
-      "Speed"
+      "Need_for_Speed_Heat"
     ],
     "name": "Need for Speed\u2122 Heat"
   },
@@ -7484,7 +7478,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 144,
+    "config_count": 145,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -7565,6 +7559,11 @@
         "d": "Adreno__TM__740",
         "m": "S916B",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "motorola_edge_70_fusion_plus",
+        "s": "Adreno (TM) 810"
       },
       {
         "d": "Adreno__TM__720",
@@ -11691,7 +11690,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 11,
+    "config_count": 14,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -11720,7 +11719,9 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -13733,7 +13734,7 @@
     "name": "Horizon Forbidden West\u2122 Complete Edition"
   },
   "242050": {
-    "config_count": 84,
+    "config_count": 85,
     "devices": [
       {
         "d": "MT6789",
@@ -13896,14 +13897,14 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "Adreno__TM__618",
-        "m": "V2040",
-        "s": "Adreno (TM) 618"
-      },
-      {
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "V2040",
+        "s": "Adreno (TM) 618"
       },
       {
         "d": "Adreno__TM__750",
@@ -17230,7 +17231,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -17270,9 +17271,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "rerev",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -19136,6 +19135,21 @@
     ],
     "name": "Mall Simulator"
   },
+  "3183760": {
+    "config_count": 5,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "Speed",
+      "speed"
+    ],
+    "name": "SpeedRunners 2: King of Speed"
+  },
   "3186190": {
     "config_count": 1,
     "devices": [
@@ -19366,7 +19380,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1280,
+    "config_count": 1282,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -20264,11 +20278,6 @@
         "s": "Adreno (TM) 650"
       },
       {
-        "d": "Adreno__TM__740",
-        "m": "S911B",
-        "s": "Adreno (TM) 740"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "moto_g75_5G",
         "s": "Adreno (TM) 710"
@@ -20316,6 +20325,11 @@
       {
         "d": "Adreno__TM__740",
         "m": "F946B",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S911B",
         "s": "Adreno (TM) 740"
       },
       {
@@ -34568,7 +34582,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2573,
+    "config_count": 2574,
     "devices": [
       {
         "d": "G52_MC2",
