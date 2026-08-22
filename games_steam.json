@@ -200,6 +200,12 @@
     "method": "naive",
     "steam_name": "Alba: A Wildlife Adventure"
   },
+  "AlekhinesGun": {
+    "appid": 406720,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/406720/header.jpg",
+    "method": "naive",
+    "steam_name": "Alekhine's Gun"
+  },
   "Alice__Madness_Returns": {
     "appid": 19680,
     "method": "naive",
@@ -6125,7 +6131,6 @@
   },
   "NODE": {
     "appid": 2757670,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2757670/header.jpg",
     "method": "naive",
     "steam_name": "NODE"
   },
