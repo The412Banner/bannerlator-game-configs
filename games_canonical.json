@@ -647,7 +647,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -673,10 +673,16 @@
         "d": "Adreno__TM__740",
         "m": "2211133C",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Ori_and_the_Will_of_the_Wisps",
+      "Ori",
       "Ori_and_the_will_of_the_wisps"
     ],
     "name": "Ori and the Will of the Wisps"
@@ -3731,7 +3737,7 @@
     "name": "Need for Speed\u2122 Payback"
   },
   "1262600": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "SM8635",
@@ -6789,6 +6795,20 @@
     ],
     "name": "DELTARUNE"
   },
+  "1672500": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
+      }
+    ],
+    "folders": [
+      "GUNDAM_BREAKER_4"
+    ],
+    "name": "GUNDAM BREAKER 4"
+  },
   "1672810": {
     "config_count": 4,
     "devices": [
@@ -8985,12 +9005,17 @@
     "name": "Uncharted Space - project 3062"
   },
   "2011780": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_5",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "Retroid_Pocket_6",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -10935,7 +10960,7 @@
     "name": "Shave & Stuff"
   },
   "219990": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -11647,7 +11672,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 14,
+    "config_count": 13,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -11677,8 +11702,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -12478,12 +12502,17 @@
     "name": "Castle of Illusion"
   },
   "2277560": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__840",
         "m": "CPH2745",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -17169,7 +17198,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -17209,7 +17238,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -17770,7 +17800,7 @@
     "name": "Heatwave"
   },
   "298110": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "G720_MC7",
@@ -17821,6 +17851,11 @@
         "d": "Adreno__TM__619",
         "m": "2201116PG",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "Retroid_Pocket_6",
+        "s": "Adreno (TM) 740"
       },
       {
         "d": "Adreno__TM__750",
@@ -19298,7 +19333,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1278,
+    "config_count": 1280,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -20206,11 +20241,6 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "Adreno__TM__740",
-        "m": "F946B",
-        "s": "Adreno (TM) 740"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "NX1",
         "s": "Adreno (TM) 710"
@@ -20249,6 +20279,11 @@
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "F946B",
+        "s": "Adreno (TM) 740"
       },
       {
         "d": "Adreno__TM__830",
@@ -20643,7 +20678,7 @@
     "name": "NINJA GAIDEN 2 Black"
   },
   "329050": {
-    "config_count": 47,
+    "config_count": 48,
     "devices": [
       {
         "d": "G57",
@@ -20748,6 +20783,11 @@
       {
         "d": "Adreno__TM__740",
         "m": "S918N",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "Retroid_Pocket_6",
         "s": "Adreno (TM) 740"
       },
       {
@@ -21338,7 +21378,7 @@
     "name": "Dead as Disco"
   },
   "3405340": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -21354,6 +21394,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "Retroid_Pocket_6",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -22841,7 +22886,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 13,
+    "config_count": 12,
     "devices": [
       {
         "d": "G68_MC4",
@@ -22857,22 +22902,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "2211133C",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE",
-      "Ori"
+      "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -30821,7 +30855,7 @@
     "name": "Tomb Raider: Underworld"
   },
   "814380": {
-    "config_count": 60,
+    "config_count": 61,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -30889,11 +30923,6 @@
         "s": "Adreno (TM) 740"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "23122PCD1G",
         "s": "Adreno (TM) 710"
@@ -30937,6 +30966,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__750",
@@ -35524,7 +35558,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 184,
+    "config_count": 185,
     "devices": [
       {
         "d": "G615_MC2",
@@ -35755,6 +35789,11 @@
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Maleoon_920C",
+        "m": "W09",
+        "s": "Maleoon 920C"
       },
       {
         "d": "Adreno__TM__740",
