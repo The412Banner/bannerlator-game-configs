@@ -4243,7 +4243,7 @@
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
   "1328670": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -7263,14 +7263,6 @@
       "Mirror_s_Edge"
     ],
     "name": "Mirror's Edge\u2122"
-  },
-  "17460": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Mass_Effect"
-    ],
-    "name": "Mass Effect (2007)"
   },
   "1746860": {
     "config_count": 1,
@@ -11701,7 +11693,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 11,
+    "config_count": 14,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -11730,7 +11722,9 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -17248,7 +17242,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -17288,9 +17282,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "rerev",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
