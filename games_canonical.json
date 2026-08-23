@@ -8815,7 +8815,7 @@
     "name": "SAND LAND"
   },
   "1984270": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -8826,6 +8826,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
       }
     ],
     "folders": [
@@ -14434,7 +14439,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 23,
+    "config_count": 24,
     "devices": [
       {
         "d": "A075M",
@@ -14498,7 +14503,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes"
+      "LEGO__Marvel__Super_Heroes",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -15267,6 +15273,14 @@
       "Promise_Mascot_Agency"
     ],
     "name": "Promise Mascot Agency"
+  },
+  "2590240": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "metro"
+    ],
+    "name": "METRO 2039"
   },
   "2590920": {
     "config_count": 1,
@@ -19386,7 +19400,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1283,
+    "config_count": 1284,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -20337,6 +20351,11 @@
         "d": "Adreno__TM__740",
         "m": "S911B",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__644",
+        "m": "NX9",
+        "s": "Adreno (TM) 644"
       },
       {
         "d": "Adreno__TM__830",
@@ -25121,12 +25140,11 @@
     "name": "SENRAN KAGURA SHINOVI VERSUS"
   },
   "412020": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "Metro_Exodus",
-      "MetroExodus",
-      "metro"
+      "MetroExodus"
     ],
     "name": "Metro Exodus"
   },
@@ -29405,7 +29423,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -34598,7 +34616,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2578,
+    "config_count": 2580,
     "devices": [
       {
         "d": "G52_MC2",
