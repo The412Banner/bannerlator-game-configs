@@ -5503,6 +5503,20 @@
     ],
     "name": "Assassin's Creed\u2122: Director's Cut Edition"
   },
+  "1515900": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "V2250",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "HeavenDust2"
+    ],
+    "name": "Heaven Dust 2"
+  },
   "15170": {
     "config_count": 3,
     "devices": [
@@ -12888,7 +12902,7 @@
     "name": "Castlevania: Lords of Shadow \u2013 Ultimate Edition"
   },
   "234140": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -12914,6 +12928,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__735",
@@ -31594,7 +31613,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 104,
+    "config_count": 105,
     "devices": [
       {
         "d": "s5e8855",
@@ -31795,6 +31814,11 @@
         "d": "Adreno__TM__750",
         "m": "NX769J",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "V2502",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
@@ -34655,7 +34679,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2584,
+    "config_count": 2585,
     "devices": [
       {
         "d": "G52_MC2",
