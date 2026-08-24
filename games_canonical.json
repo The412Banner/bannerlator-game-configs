@@ -7531,7 +7531,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 146,
+    "config_count": 147,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -7742,6 +7742,11 @@
         "d": "Adreno__TM__642L",
         "m": "LX9",
         "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S918B",
+        "s": "Adreno (TM) 740"
       },
       {
         "d": "Adreno__TM__830",
@@ -19501,7 +19506,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1290,
+    "config_count": 1291,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -27238,7 +27243,7 @@
     "name": "Warhammer 40,000: Gladius - Relics of War"
   },
   "489830": {
-    "config_count": 61,
+    "config_count": 62,
     "devices": [
       {
         "d": "G615_MC6",
@@ -27360,7 +27365,8 @@
       "Skyrim_-_Special_Edition",
       "The_Elder_Scrolls_V__Skyrim",
       "The_Elder_Scrolls_V__Skyrim_Special_Edition",
-      "Skyrim"
+      "Skyrim",
+      "The_Elder_Scrolls_V_-_Skyrim_Special_Edition"
     ],
     "name": "The Elder Scrolls V: Skyrim Special Edition"
   },
@@ -28968,7 +28974,7 @@
     "name": "Attack on Titan 2 - A.O.T.2"
   },
   "601150": {
-    "config_count": 38,
+    "config_count": 39,
     "devices": [
       {
         "d": "unknown",
@@ -34834,7 +34840,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2591,
+    "config_count": 2593,
     "devices": [
       {
         "d": "G52_MC2",
@@ -35552,11 +35558,6 @@
         "s": "Adreno (TM) 619"
       },
       {
-        "d": "PowerVR_Rogue_GE8320",
-        "m": "moto_e22",
-        "s": "PowerVR Rogue GE8320"
-      },
-      {
         "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
         "m": "A566E",
         "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
@@ -35705,6 +35706,11 @@
         "d": "G72",
         "m": "Mali",
         "s": "Mali-G72"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "moto_e22",
+        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "Adreno__TM__740",
