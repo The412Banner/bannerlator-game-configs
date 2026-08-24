@@ -1359,7 +1359,7 @@
     "name": "Yes, Your Grace"
   },
   "1118200": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -1370,6 +1370,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "M236L",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -4264,7 +4269,7 @@
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
   "1328670": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -5344,7 +5349,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 81,
+    "config_count": 82,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -5470,6 +5475,11 @@
         "d": "Adreno__TM__810",
         "m": "24115RA8EG",
         "s": "Adreno (TM) 810"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "NP05J",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "Adreno__TM__710",
@@ -7325,14 +7335,6 @@
     ],
     "name": "Mirror's Edge\u2122"
   },
-  "17460": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Mass_Effect"
-    ],
-    "name": "Mass Effect (2007)"
-  },
   "1746860": {
     "config_count": 1,
     "devices": [],
@@ -8560,7 +8562,7 @@
     "name": "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars"
   },
   "1934680": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -10157,6 +10159,20 @@
       "Crysis_3_Remastered"
     ],
     "name": "Crysis 3 Remastered"
+  },
+  "2097570": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "StarVaders"
+    ],
+    "name": "StarVaders"
   },
   "210019": {
     "config_count": 1,
@@ -24288,7 +24304,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 163,
+    "config_count": 164,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -24564,6 +24580,11 @@
         "d": "Adreno__TM__830",
         "m": "25019PNF3C",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__725",
+        "m": "23049PCD8G",
+        "s": "Adreno (TM) 725"
       }
     ],
     "folders": [
@@ -26433,14 +26454,6 @@
     ],
     "name": "Pub Encounter"
   },
-  "4475790": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Warband"
-    ],
-    "name": "Warband"
-  },
   "447960": {
     "config_count": 1,
     "devices": [
@@ -26543,12 +26556,19 @@
     "name": "My Part-Time Job With a Flirty Mistress"
   },
   "456610": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__829",
+        "m": "I2508",
+        "s": "Adreno (TM) 829"
+      }
+    ],
     "folders": [
+      "PES_2017",
       "pro_evolution_soccer_2017"
     ],
-    "name": "Pro Evolution Soccer 2017"
+    "name": "PES 2017"
   },
   "4570720": {
     "config_count": 1,
@@ -26753,20 +26773,6 @@
       "Forza_Horizon_4"
     ],
     "name": "Forza Horizon 6 1998 Nissan Skyline GT-R 40th Anniversary"
-  },
-  "4611360": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "TMNT"
-    ],
-    "name": "TMNT: Splintered Fate - Slash"
   },
   "462780": {
     "config_count": 2,
@@ -27241,7 +27247,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -27256,7 +27262,8 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband"
+      "Mount_Blade_Warband",
+      "Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -34915,7 +34922,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2593,
+    "config_count": 2594,
     "devices": [
       {
         "d": "G52_MC2",
@@ -35693,11 +35700,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "Adreno__TM__610",
-        "m": "23129RA5FL",
-        "s": "Adreno (TM) 610"
-      },
-      {
         "d": "Adreno__TM__644",
         "m": "M556B",
         "s": "Adreno (TM) 644"
@@ -35786,6 +35788,11 @@
         "d": "PowerVR_Rogue_GE8320",
         "m": "moto_e22",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__740",

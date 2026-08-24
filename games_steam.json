@@ -8672,6 +8672,12 @@
     "method": "naive",
     "steam_name": "Star Crafter"
   },
+  "StarVaders": {
+    "appid": 2097570,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2097570/header.jpg",
+    "method": "naive",
+    "steam_name": "StarVaders"
+  },
   "Star_Trek_Armada_2": {
     "appid": null,
     "method": "unresolved"
@@ -11056,7 +11062,6 @@
   },
   "mad_max": {
     "appid": 234140,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/234140/header.jpg",
     "method": "naive",
     "steam_name": "Mad Max"
   },
