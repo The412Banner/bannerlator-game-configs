@@ -24559,7 +24559,7 @@
     "name": "FINAL FANTASY VIII"
   },
   "391540": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -24575,6 +24575,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G71",
+        "m": "Mali",
+        "s": "Mali-G71"
       }
     ],
     "folders": [
