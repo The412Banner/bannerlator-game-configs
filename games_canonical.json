@@ -4638,7 +4638,7 @@
     "name": "RuneScape: Dragonwilds"
   },
   "1378990": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -4654,10 +4654,16 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "Crash_Bandicoot__4__It_s_About_Time"
+      "Crash_Bandicoot__4__It_s_About_Time",
+      "Crash_Bandicoot_4"
     ],
     "name": "Crash Bandicoot\u2122 4: It\u2019s About Time"
   },
@@ -11768,7 +11774,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 11,
+    "config_count": 13,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -11797,7 +11803,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -13291,7 +13298,7 @@
     "name": "Lumines Arise"
   },
   "237110": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "Mortal_Kombat_Komplete_Edition"
@@ -17350,7 +17357,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -17391,7 +17398,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -23876,7 +23882,7 @@
     "name": "Psychonauts"
   },
   "383150": {
-    "config_count": 9,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__750",
