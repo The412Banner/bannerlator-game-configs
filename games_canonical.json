@@ -4261,7 +4261,7 @@
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
   "1328670": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -7327,6 +7327,14 @@
     ],
     "name": "Mirror's Edge\u2122"
   },
+  "17460": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Mass_Effect"
+    ],
+    "name": "Mass Effect (2007)"
+  },
   "1746860": {
     "config_count": 1,
     "devices": [],
@@ -10230,12 +10238,17 @@
     "name": "Swordhaven: Iron Conspiracy"
   },
   "21090": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__730",
         "m": "S901E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       }
     ],
     "folders": [
@@ -10443,6 +10456,20 @@
       "REANIMAL"
     ],
     "name": "REANIMAL"
+  },
+  "2130460": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__720",
+        "m": "V2427",
+        "s": "Adreno (TM) 720"
+      }
+    ],
+    "folders": [
+      "FATAL_FRAME___PROJECT_ZERO__Mask_of_the_Lunar_Eclipse"
+    ],
+    "name": "FATAL FRAME / PROJECT ZERO: Mask of the Lunar Eclipse"
   },
   "213330": {
     "config_count": 6,
@@ -11089,7 +11116,7 @@
     "name": "Shave & Stuff"
   },
   "219990": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -14881,23 +14908,16 @@
     "name": "Valdis Story: Abyssal City"
   },
   "2523720": {
-    "config_count": 5,
+    "config_count": 2,
     "devices": [
       {
         "d": "Pocket_FIT",
         "m": "AYANEO",
         "s": null
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "Gears_of_War__Reloaded",
-      "Gears_of_War",
-      "Gears_of_War_2"
+      "Gears_of_War__Reloaded"
     ],
     "name": "Gears of War: Reloaded"
   },
@@ -18220,7 +18240,7 @@
     "name": "GET EVEN"
   },
   "3010850": {
-    "config_count": 7,
+    "config_count": 10,
     "devices": [
       {
         "d": "G57",
@@ -18236,13 +18256,19 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
       "E",
       "Gears_Of_War",
       "Gears_of_War",
-      "Gears_of_war_2"
+      "Gears_of_war_2",
+      "Gears_of_War_2"
     ],
     "name": "Gears of War: E-Day"
   },
@@ -19549,7 +19575,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1291,
+    "config_count": 1292,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -32477,6 +32503,14 @@
     ],
     "name": "Stranded Sails - Explorers of the Cursed Islands"
   },
+  "945360": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Among_Us"
+    ],
+    "name": "Among Us"
+  },
   "945710": {
     "config_count": 2,
     "devices": [
@@ -34919,7 +34953,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2594,
+    "config_count": 2595,
     "devices": [
       {
         "d": "G52_MC2",
@@ -35777,11 +35811,6 @@
         "s": "Mali-G720 MC8"
       },
       {
-        "d": "G72",
-        "m": "Mali",
-        "s": "Mali-G72"
-      },
-      {
         "d": "PowerVR_Rogue_GE8320",
         "m": "moto_e22",
         "s": "PowerVR Rogue GE8320"
@@ -35790,6 +35819,11 @@
         "d": "Adreno__TM__610",
         "m": "23129RA5FL",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G72",
+        "m": "Mali",
+        "s": "Mali-G72"
       },
       {
         "d": "Adreno__TM__740",

@@ -271,6 +271,12 @@
     "method": "norm",
     "steam_name": "Amnesia: The Bunker"
   },
+  "Among_Us": {
+    "appid": 945360,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/945360/header.jpg",
+    "method": "naive",
+    "steam_name": "Among Us"
+  },
   "Ancestors": {
     "appid": 536270,
     "method": "naive",
@@ -2808,6 +2814,12 @@
     "appid": 2300320,
     "method": "fuzzy",
     "steam_name": "Farming Simulator 25"
+  },
+  "FATAL_FRAME___PROJECT_ZERO__Mask_of_the_Lunar_Eclipse": {
+    "appid": 2130460,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2130460/header.jpg",
+    "method": "naive",
+    "steam_name": "FATAL FRAME / PROJECT ZERO: Mask of the Lunar Eclipse"
   },
   "FATAL_FURY__City_of_the_Wolves": {
     "appid": 2492040,
