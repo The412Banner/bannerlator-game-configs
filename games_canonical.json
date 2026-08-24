@@ -3625,7 +3625,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 45,
+    "config_count": 46,
     "devices": [
       {
         "d": "G57_MC2",
@@ -7960,7 +7960,7 @@
     "name": "Beat Banger"
   },
   "1817070": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -8006,6 +8006,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23129RAA4G",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__830",
