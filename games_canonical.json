@@ -661,7 +661,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -687,16 +687,10 @@
         "d": "Adreno__TM__740",
         "m": "2211133C",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Ori_and_the_Will_of_the_Wisps",
-      "Ori",
       "Ori_and_the_will_of_the_wisps"
     ],
     "name": "Ori and the Will of the Wisps"
@@ -855,7 +849,7 @@
     "name": "Baldur's Gate 3"
   },
   "108710": {
-    "config_count": 14,
+    "config_count": 13,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -6954,14 +6948,6 @@
     ],
     "name": "Minecraft Dungeons"
   },
-  "1675200": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Steam"
-    ],
-    "name": "Steam Deck"
-  },
   "1676840": {
     "config_count": 1,
     "devices": [],
@@ -7588,7 +7574,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 148,
+    "config_count": 149,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -11869,7 +11855,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 13,
+    "config_count": 11,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -11898,8 +11884,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -17451,7 +17436,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 34,
     "devices": [
       {
         "d": "G615_MC2",
@@ -17492,6 +17477,7 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
+      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -23196,7 +23182,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "G68_MC4",
@@ -23212,11 +23198,22 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE"
+      "oriDE",
+      "Ori"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -25593,6 +25590,14 @@
     ],
     "name": "My Winter Car"
   },
+  "4165910": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Steam"
+    ],
+    "name": "Steam Machine"
+  },
   "418240": {
     "config_count": 1,
     "devices": [],
@@ -26523,6 +26528,14 @@
     ],
     "name": "Pub Encounter"
   },
+  "4475790": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Warband"
+    ],
+    "name": "Warband"
+  },
   "447960": {
     "config_count": 1,
     "devices": [
@@ -27316,7 +27329,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -27331,8 +27344,7 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband",
-      "Warband"
+      "Mount_Blade_Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -33968,7 +33980,7 @@
     "name": "Ets2"
   },
   "name:eurotrucks2": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G76",
