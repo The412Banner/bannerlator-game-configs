@@ -4837,6 +4837,10 @@
     "method": "naive",
     "steam_name": "LEGO\u00ae Marvel Super Heroes 2"
   },
+  "LEGOMARVEL2_DX11": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "LEGOMARVELAvengers_DX11": {
     "appid": null,
     "method": "unresolved"
@@ -11049,6 +11053,12 @@
     "appid": 3495730,
     "method": "naive",
     "steam_name": "Lucid Blocks"
+  },
+  "mad_max": {
+    "appid": 234140,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/234140/header.jpg",
+    "method": "naive",
+    "steam_name": "Mad Max"
   },
   "mcclauncher": {
     "appid": null,

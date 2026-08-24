@@ -826,6 +826,14 @@
     ],
     "name": "Arma 3"
   },
+  "1080920": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GRID_2"
+    ],
+    "name": "Defense Grid 2 - Aftermath"
+  },
   "108600": {
     "config_count": 2,
     "devices": [],
@@ -5084,7 +5092,7 @@
     "name": "The Legend of Heroes: Sen no Kiseki II KAI -The Erebonian Civil War-"
   },
   "1451190": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -11728,7 +11736,7 @@
     "name": "Five Nights at Freddy's: Secret of the Mimic"
   },
   "221540": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "GRID_2"
@@ -12975,7 +12983,7 @@
     "name": "Castlevania: Lords of Shadow \u2013 Ultimate Edition"
   },
   "234140": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -13006,6 +13014,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__735",
@@ -14854,16 +14867,23 @@
     "name": "Valdis Story: Abyssal City"
   },
   "2523720": {
-    "config_count": 2,
+    "config_count": 5,
     "devices": [
       {
         "d": "Pocket_FIT",
         "m": "AYANEO",
         "s": null
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "Gears_of_War__Reloaded"
+      "Gears_of_War__Reloaded",
+      "Gears_of_War",
+      "Gears_of_War_2"
     ],
     "name": "Gears of War: Reloaded"
   },
@@ -18187,7 +18207,7 @@
     "name": "GET EVEN"
   },
   "3010850": {
-    "config_count": 10,
+    "config_count": 7,
     "devices": [
       {
         "d": "G57",
@@ -18203,19 +18223,13 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
       "E",
       "Gears_Of_War",
       "Gears_of_War",
-      "Gears_of_war_2",
-      "Gears_of_War_2"
+      "Gears_of_war_2"
     ],
     "name": "Gears of War: E-Day"
   },
@@ -23742,12 +23756,17 @@
     "name": "Kingdom Come Deliverance"
   },
   "3795980": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -26414,6 +26433,14 @@
     ],
     "name": "Pub Encounter"
   },
+  "4475790": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Warband"
+    ],
+    "name": "Warband"
+  },
   "447960": {
     "config_count": 1,
     "devices": [
@@ -26726,6 +26753,20 @@
       "Forza_Horizon_4"
     ],
     "name": "Forza Horizon 6 1998 Nissan Skyline GT-R 40th Anniversary"
+  },
+  "4611360": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "TMNT"
+    ],
+    "name": "TMNT: Splintered Fate - Slash"
   },
   "462780": {
     "config_count": 2,
@@ -27200,7 +27241,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -27215,8 +27256,7 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband",
-      "Warband"
+      "Mount_Blade_Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -36193,7 +36233,7 @@
     "name": "PES 2017"
   },
   "name:pes-2018": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "G57",
@@ -36268,6 +36308,11 @@
       {
         "d": "Adreno__TM__830",
         "m": "S938B",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "NP05J",
         "s": "Adreno (TM) 830"
       }
     ],
