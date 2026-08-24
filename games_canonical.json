@@ -13834,7 +13834,7 @@
     "name": "Horizon Forbidden West\u2122 Complete Edition"
   },
   "242050": {
-    "config_count": 85,
+    "config_count": 86,
     "devices": [
       {
         "d": "MT6789",
@@ -13997,14 +13997,14 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
         "d": "Adreno__TM__618",
         "m": "V2040",
         "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__750",
@@ -26400,6 +26400,14 @@
     ],
     "name": "Pub Encounter"
   },
+  "4475790": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Warband"
+    ],
+    "name": "Warband"
+  },
   "447960": {
     "config_count": 1,
     "devices": [
@@ -27186,7 +27194,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -27201,8 +27209,7 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband",
-      "Warband"
+      "Mount_Blade_Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -35897,7 +35904,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 186,
+    "config_count": 187,
     "devices": [
       {
         "d": "G615_MC2",
@@ -36143,6 +36150,11 @@
         "d": "Adreno__TM__825",
         "m": "I2405",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "NX9",
+        "s": "Adreno (TM) 735"
       },
       {
         "d": "Adreno__TM__840",
