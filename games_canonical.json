@@ -4641,6 +4641,11 @@
     "config_count": 6,
     "devices": [
       {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
+      },
+      {
         "d": "Adreno__TM__750",
         "m": "Pocket_FIT",
         "s": "Adreno (TM) 750"
@@ -4654,16 +4659,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g45_5G",
-        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "Crash_Bandicoot__4__It_s_About_Time",
-      "Crash_Bandicoot_4"
+      "Crash_Bandicoot_4",
+      "Crash_Bandicoot__4__It_s_About_Time"
     ],
     "name": "Crash Bandicoot\u2122 4: It\u2019s About Time"
   },
@@ -10061,7 +10061,7 @@
     "name": "Call of Duty\u00ae: Ghosts"
   },
   "20920": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__644",
@@ -10096,7 +10096,8 @@
     ],
     "folders": [
       "The_Witcher_2_Game",
-      "The_Witcher_2__Assassins_of_Kings_Enhanced_Edition"
+      "The_Witcher_2__Assassins_of_Kings_Enhanced_Edition",
+      "The_Witcher_2_-_Assassins_of_Kings_Enhanced_Edition"
     ],
     "name": "The Witcher 2: Assassins of Kings Enhanced Edition"
   },
