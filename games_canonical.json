@@ -2455,7 +2455,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 333,
+    "config_count": 334,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -5690,7 +5690,7 @@
     "name": "The Callisto Protocol\u2122"
   },
   "1546970": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "G615_MC2",
@@ -5711,6 +5711,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G78",
+        "m": "Mali",
+        "s": "Mali-G78"
       },
       {
         "d": "Adreno__TM__650",
@@ -6475,6 +6480,20 @@
     ],
     "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl"
   },
+  "1647550": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "NEO__The_World_Ends_with_You"
+    ],
+    "name": "NEO: The World Ends with You"
+  },
   "1649240": {
     "config_count": 1,
     "devices": [
@@ -6920,6 +6939,14 @@
       "Minecraft_Dungeons"
     ],
     "name": "Minecraft Dungeons"
+  },
+  "1675200": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Steam"
+    ],
+    "name": "Steam Deck"
   },
   "1676840": {
     "config_count": 1,
@@ -13298,7 +13325,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 12,
+    "config_count": 15,
     "devices": [
       {
         "d": "G720_MC7",
@@ -13319,10 +13346,21 @@
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II"
+      "DARK_SOULS__II",
+      "DarkSoulsII"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -14434,7 +14472,7 @@
     "name": "Bomb Squad"
   },
   "2464280": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "G615_MC6",
@@ -14944,7 +14982,7 @@
     "name": "Denshattack"
   },
   "2525380": {
-    "config_count": 15,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -14973,8 +15011,7 @@
       }
     ],
     "folders": [
-      "TombRaider",
-      "Tomb_Raider"
+      "TombRaider"
     ],
     "name": "Tomb Raider IV-VI Remastered"
   },
@@ -17276,7 +17313,7 @@
     "name": "Rune Factory: Guardians of Azuma"
   },
   "286690": {
-    "config_count": 30,
+    "config_count": 31,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -17347,6 +17384,11 @@
         "d": "Adreno__TM__710",
         "m": "26022PCACI",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__840",
@@ -18649,7 +18691,7 @@
     "name": "MotoGP\u212225"
   },
   "307780": {
-    "config_count": 32,
+    "config_count": 33,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -18697,11 +18739,6 @@
         "s": "Mali-G57 MC3"
       },
       {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
         "d": "Adreno__TM__750",
         "m": "CPH2573",
         "s": "Adreno (TM) 750"
@@ -18710,6 +18747,11 @@
         "d": "Adreno__TM__660",
         "m": "2107113SR",
         "s": "Adreno (TM) 660"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
@@ -19567,7 +19609,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1292,
+    "config_count": 1293,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -22760,7 +22802,7 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae III"
   },
   "359870": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -23352,7 +23394,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 36,
+    "config_count": 33,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -23415,16 +23457,6 @@
         "s": "Adreno (TM) 735"
       },
       {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -23437,7 +23469,6 @@
       "DarkSoulsRemastered",
       "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
-      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -23579,7 +23610,7 @@
     "name": "SpiritVale"
   },
   "3768760": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -24327,7 +24358,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 164,
+    "config_count": 167,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -24768,7 +24799,7 @@
     "name": "OPEN FOR BUSINESS: Game & Movie Store Simulator"
   },
   "39210": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -24804,7 +24835,8 @@
     "folders": [
       "Final_Fantasy_XI_",
       "____14_____",
-      "_____1"
+      "_____1",
+      "Final_Fantasy_XI"
     ],
     "name": "FINAL FANTASY XIV Online"
   },
@@ -25553,14 +25585,6 @@
     ],
     "name": "My Winter Car"
   },
-  "4165910": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Steam"
-    ],
-    "name": "Steam Machine"
-  },
   "418240": {
     "config_count": 1,
     "devices": [],
@@ -26183,6 +26207,20 @@
     ],
     "name": "False Echo"
   },
+  "441960": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      }
+    ],
+    "folders": [
+      "American_Truck_Simulator_Demo"
+    ],
+    "name": "American Truck Simulator Demo"
+  },
   "4419920": {
     "config_count": 1,
     "devices": [
@@ -26476,14 +26514,6 @@
       "Pub_Encounter"
     ],
     "name": "Pub Encounter"
-  },
-  "4475790": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Warband"
-    ],
-    "name": "Warband"
   },
   "447960": {
     "config_count": 1,
@@ -27278,7 +27308,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -27293,7 +27323,8 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband"
+      "Mount_Blade_Warband",
+      "Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -28439,7 +28470,7 @@
     "name": "TUNIC"
   },
   "553520": {
-    "config_count": 25,
+    "config_count": 27,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -28482,11 +28513,6 @@
         "s": "Mali-G52 MC2"
       },
       {
-        "d": "G720_MC8",
-        "m": "Mali",
-        "s": "Mali-G720 MC8"
-      },
-      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
@@ -28500,6 +28526,11 @@
         "d": "Adreno__TM__810",
         "m": "motorola_edge_70_fusion",
         "s": "Adreno (TM) 810"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
       }
     ],
     "folders": [
