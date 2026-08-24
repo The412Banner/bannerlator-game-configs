@@ -826,14 +826,6 @@
     ],
     "name": "Arma 3"
   },
-  "1080920": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GRID_2"
-    ],
-    "name": "Defense Grid 2 - Aftermath"
-  },
   "108600": {
     "config_count": 2,
     "devices": [],
@@ -7547,7 +7539,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 147,
+    "config_count": 148,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -7633,6 +7625,11 @@
         "d": "Adreno__TM__810",
         "m": "motorola_edge_70_fusion_plus",
         "s": "Adreno (TM) 810"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__720",
@@ -11092,7 +11089,7 @@
     "name": "Shave & Stuff"
   },
   "219990": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -11752,7 +11749,7 @@
     "name": "Five Nights at Freddy's: Secret of the Mimic"
   },
   "221540": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [],
     "folders": [
       "GRID_2"
@@ -11804,7 +11801,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 11,
+    "config_count": 13,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -11833,7 +11830,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -17391,7 +17389,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -17432,7 +17430,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
