@@ -3782,7 +3782,7 @@
     "name": "Need for Speed\u2122 Payback"
   },
   "1262600": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "SM8635",
@@ -4656,7 +4656,7 @@
     "name": "RuneScape: Dragonwilds"
   },
   "1378990": {
-    "config_count": 6,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -7584,7 +7584,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 149,
+    "config_count": 151,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -9698,7 +9698,7 @@
     "name": "Call of Juarez: Gunslinger"
   },
   "2050650": {
-    "config_count": 66,
+    "config_count": 67,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -9764,6 +9764,11 @@
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__740",
@@ -10609,7 +10614,7 @@
     "name": "Cyberpunk 2077: Phantom Liberty"
   },
   "2138710": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -13370,7 +13375,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 12,
+    "config_count": 15,
     "devices": [
       {
         "d": "G720_MC7",
@@ -13391,10 +13396,21 @@
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II"
+      "DARK_SOULS__II",
+      "DarkSoulsII"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -14662,7 +14678,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 23,
+    "config_count": 24,
     "devices": [
       {
         "d": "A075M",
@@ -14726,7 +14742,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes"
+      "LEGO__Marvel__Super_Heroes",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -15556,19 +15573,19 @@
     "config_count": 2,
     "devices": [
       {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
-      },
-      {
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       }
     ],
     "folders": [
-      "Signal___",
-      "Signal"
+      "Signal",
+      "Signal___"
     ],
     "name": "Dead Signal"
   },
@@ -16167,7 +16184,7 @@
     "name": "The First Berserker: Khazan"
   },
   "268050": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -16183,6 +16200,11 @@
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -18058,7 +18080,7 @@
     "name": "Heatwave"
   },
   "298110": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "G720_MC7",
@@ -23410,7 +23432,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 36,
+    "config_count": 33,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -23473,16 +23495,6 @@
         "s": "Adreno (TM) 735"
       },
       {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -23495,7 +23507,6 @@
       "DarkSoulsRemastered",
       "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
-      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -24385,7 +24396,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 167,
+    "config_count": 168,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -24666,6 +24677,11 @@
         "d": "Adreno__TM__725",
         "m": "23049PCD8G",
         "s": "Adreno (TM) 725"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -25613,7 +25629,7 @@
     "name": "My Winter Car"
   },
   "4165910": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "Steam"
@@ -29253,7 +29269,7 @@
     "name": "Portal: Revolution"
   },
   "601430": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -29776,7 +29792,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -35058,7 +35074,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2606,
+    "config_count": 2607,
     "devices": [
       {
         "d": "G52_MC2",
