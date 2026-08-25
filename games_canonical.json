@@ -661,7 +661,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -687,10 +687,16 @@
         "d": "Adreno__TM__740",
         "m": "2211133C",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Ori_and_the_Will_of_the_Wisps",
+      "Ori",
       "Ori_and_the_will_of_the_wisps"
     ],
     "name": "Ori and the Will of the Wisps"
@@ -7552,7 +7558,7 @@
     "name": "The Coma 2B: Catacomb"
   },
   "1782120": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "ZERO_Sievert"
@@ -9524,8 +9530,33 @@
     "name": "Hitman: Absolution\u2122"
   },
   "203160": {
-    "config_count": 3,
+    "config_count": 15,
     "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
+      },
       {
         "d": "G52_MC2",
         "m": "Mali",
@@ -9538,10 +9569,11 @@
       }
     ],
     "folders": [
+      "TombRaider",
       "Tomb_Raider_2013",
       "Tomb_Raider_Game_of_the_Year"
     ],
-    "name": "Tomb Raider 2013"
+    "name": "Tomb Raider Game of the Year"
   },
   "203650": {
     "config_count": 3,
@@ -11855,7 +11887,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 11,
+    "config_count": 15,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -11881,10 +11913,16 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G610_MC3",
+        "m": "Mali",
+        "s": "Mali-G610 MC3"
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -14969,40 +15007,6 @@
     ],
     "name": "Denshattack"
   },
-  "2525380": {
-    "config_count": 12,
-    "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
-      }
-    ],
-    "folders": [
-      "TombRaider"
-    ],
-    "name": "Tomb Raider IV-VI Remastered"
-  },
   "2527160": {
     "config_count": 3,
     "devices": [],
@@ -17433,7 +17437,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -17474,7 +17478,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -23171,7 +23174,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 13,
+    "config_count": 12,
     "devices": [
       {
         "d": "G68_MC4",
@@ -23187,22 +23190,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "2211133C",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE",
-      "Ori"
+      "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -24228,7 +24220,7 @@
     "name": "Pacer"
   },
   "389730": {
-    "config_count": 38,
+    "config_count": 39,
     "devices": [
       {
         "d": "SM8850",
@@ -26528,14 +26520,6 @@
     ],
     "name": "Pub Encounter"
   },
-  "4475790": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Warband"
-    ],
-    "name": "Warband"
-  },
   "447960": {
     "config_count": 1,
     "devices": [
@@ -27329,7 +27313,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -27344,7 +27328,8 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband"
+      "Mount_Blade_Warband",
+      "Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -35033,7 +35018,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2597,
+    "config_count": 2604,
     "devices": [
       {
         "d": "G52_MC2",
@@ -35284,11 +35269,6 @@
         "d": "Adreno__TM__720",
         "m": "motorola_edge_50_pro",
         "s": "Adreno (TM) 720"
-      },
-      {
-        "d": "PowerVR_Rogue_GE8320",
-        "m": "A037M",
-        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "Adreno__TM__610",
@@ -35899,6 +35879,11 @@
         "d": "G72",
         "m": "Mali",
         "s": "Mali-G72"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "A037M",
+        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "G57_MC2",
