@@ -661,7 +661,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -687,10 +687,16 @@
         "d": "Adreno__TM__740",
         "m": "2211133C",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Ori_and_the_Will_of_the_Wisps",
+      "Ori",
       "Ori_and_the_will_of_the_wisps"
     ],
     "name": "Ori and the Will of the Wisps"
@@ -5359,7 +5365,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 82,
+    "config_count": 83,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -5425,6 +5431,11 @@
         "d": "Adreno__TM__730",
         "m": "S901E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "23043RP34G",
+        "s": "Adreno (TM) 650"
       },
       {
         "d": "G615_MC6",
@@ -12833,12 +12844,17 @@
     "name": "Train Simulator: Norfolk Southern SD70ACU"
   },
   "2290180": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -16338,12 +16354,17 @@
     "name": "Dex"
   },
   "2698940": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [
       {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -17083,7 +17104,7 @@
     "name": "BeamNG.drive"
   },
   "2856190": {
-    "config_count": 100,
+    "config_count": 101,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -17224,6 +17245,11 @@
         "d": "Adreno__TM__730",
         "m": "2201122G",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__612",
+        "m": "M2101K7AG",
+        "s": "Adreno (TM) 612"
       }
     ],
     "folders": [
@@ -20921,6 +20947,14 @@
     ],
     "name": "Awaria"
   },
+  "3274580": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Anno"
+    ],
+    "name": "Anno 117: Pax Romana"
+  },
   "3275460": {
     "config_count": 6,
     "devices": [
@@ -23234,7 +23268,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 13,
+    "config_count": 12,
     "devices": [
       {
         "d": "G68_MC4",
@@ -23250,22 +23284,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "2211133C",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE",
-      "Ori"
+      "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -26615,14 +26638,6 @@
     ],
     "name": "Pub Encounter"
   },
-  "4475790": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Warband"
-    ],
-    "name": "Warband"
-  },
   "447960": {
     "config_count": 1,
     "devices": [
@@ -27416,7 +27431,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -27431,7 +27446,8 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband"
+      "Mount_Blade_Warband",
+      "Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
