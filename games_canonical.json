@@ -2463,7 +2463,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 334,
+    "config_count": 335,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3006,12 +3006,17 @@
     "name": "Need for Speed\u2122 Heat"
   },
   "1222690": {
-    "config_count": 3,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__740",
         "m": "F731B",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__735",
@@ -5998,7 +6003,7 @@
     "name": "Cairn"
   },
   "1593500": {
-    "config_count": 144,
+    "config_count": 145,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -6186,11 +6191,6 @@
         "s": "Adreno (TM) 825"
       },
       {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
-      },
-      {
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
@@ -6219,6 +6219,11 @@
         "d": "Adreno__TM__720",
         "m": "V2348",
         "s": "Adreno (TM) 720"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       },
       {
         "d": "Adreno__TM__619",
@@ -7584,7 +7589,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 151,
+    "config_count": 152,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -7599,11 +7604,6 @@
       {
         "d": "Adreno__TM__750",
         "m": "ASUS_AI2401_D",
-        "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
       },
       {
@@ -7675,6 +7675,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "24117RK2CG",
+        "s": "Adreno (TM) 750"
       },
       {
         "d": "Adreno__TM__720",
@@ -8012,7 +8017,7 @@
     "name": "Beat Banger"
   },
   "1817070": {
-    "config_count": 20,
+    "config_count": 22,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -8063,6 +8068,11 @@
         "d": "Adreno__TM__610",
         "m": "23129RAA4G",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__830",
@@ -9698,7 +9708,7 @@
     "name": "Call of Juarez: Gunslinger"
   },
   "2050650": {
-    "config_count": 67,
+    "config_count": 68,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -11901,7 +11911,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 13,
+    "config_count": 16,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -11935,7 +11945,9 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -17466,7 +17478,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -17506,9 +17518,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "rerev",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -19633,7 +19643,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1294,
+    "config_count": 1296,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -20261,11 +20271,6 @@
         "s": "Adreno (TM) 619"
       },
       {
-        "d": "Adreno__TM__710",
-        "m": "motorola_edge_50_fusion",
-        "s": "Adreno (TM) 710"
-      },
-      {
         "d": "Adreno__TM__660",
         "m": "motorola_edge_30_fusion",
         "s": "Adreno (TM) 660"
@@ -20589,6 +20594,11 @@
         "d": "Adreno__TM__644",
         "m": "NX9",
         "s": "Adreno (TM) 644"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "motorola_edge_50_fusion",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__830",
@@ -22076,7 +22086,7 @@
     "name": "They Killed Your Cat"
   },
   "3489700": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "G720_MC7",
@@ -22112,6 +22122,11 @@
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -22297,7 +22312,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 26,
+    "config_count": 27,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -22353,7 +22368,8 @@
     "folders": [
       "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
       "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_Arkham_Asylum"
+      "Batman_Arkham_Asylum",
+      "Batman__Arkham_Asylum_GOTY_Edition"
     ],
     "name": "Batman: Arkham Asylum Game of the Year Edition"
   },
@@ -22843,6 +22859,20 @@
       "Femboy_Futa_House"
     ],
     "name": "FEMBOY FUTA HOUSE"
+  },
+  "360430": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Mafia_III__Definitive_Edition"
+    ],
+    "name": "Mafia III: Definitive Edition"
   },
   "361420": {
     "config_count": 1,
@@ -23421,7 +23451,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 32,
+    "config_count": 36,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -23504,6 +23534,7 @@
       "DARK_SOULS",
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
+      "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
       "DarkSoulsII",
       "DarkSoulsIII",
@@ -26451,7 +26482,7 @@
     "name": "Farming Simulator 17"
   },
   "447040": {
-    "config_count": 54,
+    "config_count": 56,
     "devices": [
       {
         "d": "G720_MC7",
@@ -26522,6 +26553,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
       },
       {
         "d": "Adreno__TM__750",
@@ -28764,7 +28800,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 46,
+    "config_count": 42,
     "devices": [
       {
         "d": "G57",
@@ -28870,9 +28906,6 @@
     "folders": [
       "DARK_SOULS__REMASTERED",
       "DARK_SOULS___REMASTERED",
-      "DARKSOULS",
-      "DARK_SOULS_-_REMASTERED",
-      "DarkSoulsRemastered",
       "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
@@ -31961,7 +31994,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 105,
+    "config_count": 106,
     "devices": [
       {
         "d": "s5e8855",
@@ -32012,11 +32045,6 @@
         "d": "Adreno__TM__22",
         "m": "Retroid_Pocket_G2",
         "s": "Adreno (TM) 22"
-      },
-      {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
       },
       {
         "d": "256",
@@ -32147,6 +32175,11 @@
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__840",
@@ -32717,7 +32750,7 @@
     "name": "Volcanoids"
   },
   "952060": {
-    "config_count": 71,
+    "config_count": 72,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -33143,12 +33176,17 @@
     "name": "Eastward"
   },
   "978780": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__618",
@@ -35097,7 +35135,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2607,
+    "config_count": 2612,
     "devices": [
       {
         "d": "G52_MC2",
