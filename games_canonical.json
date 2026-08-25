@@ -661,7 +661,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -687,16 +687,10 @@
         "d": "Adreno__TM__740",
         "m": "2211133C",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Ori_and_the_Will_of_the_Wisps",
-      "Ori",
       "Ori_and_the_will_of_the_wisps"
     ],
     "name": "Ori and the Will of the Wisps"
@@ -2469,7 +2463,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 333,
+    "config_count": 334,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -2805,6 +2799,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "PLE110",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__735",
@@ -3644,7 +3643,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 46,
+    "config_count": 47,
     "devices": [
       {
         "d": "G57_MC2",
@@ -5999,7 +5998,7 @@
     "name": "Cairn"
   },
   "1593500": {
-    "config_count": 143,
+    "config_count": 144,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -6215,6 +6214,11 @@
         "d": "G610_MC4",
         "m": "Mali",
         "s": "Mali-G610 MC4"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "V2348",
+        "s": "Adreno (TM) 720"
       },
       {
         "d": "Adreno__TM__619",
@@ -8955,7 +8959,7 @@
     "name": "Digimon Story Time Stranger"
   },
   "19900": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -8986,6 +8990,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "Immortalis_MC12",
+        "m": "G720",
+        "s": "Mali-G720-Immortalis MC12"
       },
       {
         "d": "Adreno__TM__750",
@@ -11887,7 +11896,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 15,
+    "config_count": 13,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -11921,8 +11930,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -14654,7 +14662,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 24,
+    "config_count": 23,
     "devices": [
       {
         "d": "A075M",
@@ -14718,8 +14726,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes",
-      "LEGOMARVEL"
+      "LEGO__Marvel__Super_Heroes"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -15016,7 +15023,7 @@
     "name": "Desktop Explorer"
   },
   "2527500": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "G57",
@@ -15062,6 +15069,11 @@
         "d": "Adreno__TM__740",
         "m": "S918B",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938U",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -15541,16 +15553,22 @@
     "name": "Inside Demo"
   },
   "2599300": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
       }
     ],
     "folders": [
-      "Signal___"
+      "Signal___",
+      "Signal"
     ],
     "name": "Dead Signal"
   },
@@ -15843,7 +15861,7 @@
     "name": "Subnautica"
   },
   "2651280": {
-    "config_count": 22,
+    "config_count": 23,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -17437,7 +17455,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 34,
     "devices": [
       {
         "d": "G615_MC2",
@@ -17478,6 +17496,7 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
+      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -23174,7 +23193,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "G68_MC4",
@@ -23190,11 +23209,22 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE"
+      "oriDE",
+      "Ori"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -27638,12 +27668,17 @@
     "name": "State of Decay 2: Juggernaut Edition"
   },
   "500": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
@@ -29218,7 +29253,7 @@
     "name": "Portal: Revolution"
   },
   "601430": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -29234,6 +29269,11 @@
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -29736,7 +29776,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -35018,7 +35058,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2604,
+    "config_count": 2606,
     "devices": [
       {
         "d": "G52_MC2",
