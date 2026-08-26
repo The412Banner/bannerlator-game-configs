@@ -833,6 +833,14 @@
     ],
     "name": "Arma 3"
   },
+  "1080920": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GRID_2"
+    ],
+    "name": "Defense Grid 2 - Aftermath"
+  },
   "108600": {
     "config_count": 2,
     "devices": [],
@@ -7536,6 +7544,20 @@
     ],
     "name": "DRAGON BALL Z: KAKAROT Demo"
   },
+  "1763740": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "Cover_Fire"
+    ],
+    "name": "Cover Fire: Offline Shooting Game"
+  },
   "1766060": {
     "config_count": 1,
     "devices": [
@@ -11955,7 +11977,7 @@
     "name": "Five Nights at Freddy's: Secret of the Mimic"
   },
   "221540": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "GRID_2"
@@ -12007,7 +12029,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 15,
+    "config_count": 13,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12041,8 +12063,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -12379,7 +12400,7 @@
     "name": "Squirrel Launcher"
   },
   "2254890": {
-    "config_count": 19,
+    "config_count": 18,
     "devices": [
       {
         "d": "G720_MC8",
@@ -12425,16 +12446,10 @@
         "d": "Adreno__TM__619",
         "m": "moto_g53_5G",
         "s": "Adreno (TM) 619"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "22081281AC",
-        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
-      "The_Killing_Antidote",
-      "TheKillingAntidote"
+      "The_Killing_Antidote"
     ],
     "name": "The Killing Antidote"
   },
@@ -12517,7 +12532,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 209,
+    "config_count": 210,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -12755,11 +12770,6 @@
         "s": "Mali-G720 MC7"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
@@ -12808,6 +12818,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -13492,7 +13507,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 12,
+    "config_count": 15,
     "devices": [
       {
         "d": "G720_MC7",
@@ -13513,10 +13528,21 @@
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II"
+      "DARK_SOULS__II",
+      "DarkSoulsII"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -14784,7 +14810,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 24,
+    "config_count": 23,
     "devices": [
       {
         "d": "A075M",
@@ -14848,8 +14874,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes",
-      "LEGOMARVEL"
+      "LEGO__Marvel__Super_Heroes"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -17605,7 +17630,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 34,
     "devices": [
       {
         "d": "G615_MC2",
@@ -17646,6 +17671,7 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
+      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -22156,6 +22182,14 @@
     ],
     "name": "Ghost Song"
   },
+  "34830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper: Ghost Warrior"
+  },
   "348470": {
     "config_count": 13,
     "devices": [
@@ -23424,14 +23458,6 @@
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
-  },
   "3681010": {
     "config_count": 1,
     "devices": [],
@@ -23606,7 +23632,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 36,
+    "config_count": 34,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -23664,19 +23690,14 @@
         "s": "Adreno (TM) 830"
       },
       {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
+      },
+      {
         "d": "Adreno__TM__735",
         "m": "NX9",
         "s": "Adreno (TM) 735"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__650",
@@ -23691,7 +23712,6 @@
       "DarkSoulsRemastered",
       "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
-      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -27801,14 +27821,6 @@
     ],
     "name": "Bot Vice"
   },
-  "492720": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Tropico_6"
-    ],
-    "name": "Tropico 6"
-  },
   "494430": {
     "config_count": 1,
     "devices": [
@@ -27940,7 +27952,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -27951,11 +27963,6 @@
         "d": "Adreno__TM__830",
         "m": "PLQ110",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "V2425A",
-        "s": "Adreno (TM) 750"
       },
       {
         "d": "G57_MC2",
@@ -27976,7 +27983,6 @@
     "folders": [
       "The_Witcher_3",
       "The_Witcher_3_-_Wild_Hunt",
-      "Witcher_1",
       "_Witcher",
       "witcher3"
     ],
@@ -29214,7 +29220,7 @@
     "name": "PUBG: BATTLEGROUNDS"
   },
   "582010": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -29225,6 +29231,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -30061,7 +30072,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -37454,6 +37465,20 @@
     ],
     "name": "The Sims 2 Launcher"
   },
+  "name:thekillingantidote": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__650",
+        "m": "22081281AC",
+        "s": "Adreno (TM) 650"
+      }
+    ],
+    "folders": [
+      "TheKillingAntidote"
+    ],
+    "name": "Thekillingantidote"
+  },
   "name:tlauncher-installer-1-9-5-1": {
     "config_count": 1,
     "devices": [],
@@ -37509,6 +37534,14 @@
       "Trail_of_Cold_Steel_3_x86"
     ],
     "name": "Trail Of Cold Steel 3 X86"
+  },
+  "name:tropico-6": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Tropico_6"
+    ],
+    "name": "Tropico 6"
   },
   "name:tvp-kirikiri-z-core-scripting-platform-for-win32": {
     "config_count": 1,
@@ -37591,6 +37624,20 @@
       "Warcraft_III"
     ],
     "name": "Warcraft Iii"
+  },
+  "name:witcher-1": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "V2425A",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Witcher_1"
+    ],
+    "name": "Witcher 1"
   },
   "name:wizard-school-exchange-student": {
     "config_count": 1,
