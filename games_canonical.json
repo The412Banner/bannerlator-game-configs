@@ -414,6 +414,14 @@
     ],
     "name": "30XX"
   },
+  "1029550": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Torque_Drift"
+    ],
+    "name": "Torque Drift"
+  },
   "1030300": {
     "config_count": 42,
     "devices": [
@@ -3764,7 +3772,7 @@
     "name": "Need for Speed\u2122 Most Wanted"
   },
   "1262580": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -13441,7 +13449,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 12,
+    "config_count": 15,
     "devices": [
       {
         "d": "G720_MC7",
@@ -13462,10 +13470,21 @@
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II"
+      "DARK_SOULS__II",
+      "DarkSoulsII"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -14733,7 +14752,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 24,
+    "config_count": 23,
     "devices": [
       {
         "d": "A075M",
@@ -14797,8 +14816,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes",
-      "LEGOMARVEL"
+      "LEGO__Marvel__Super_Heroes"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -23513,7 +23531,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 32,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -23576,16 +23594,6 @@
         "s": "Adreno (TM) 735"
       },
       {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -23597,7 +23605,6 @@
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
       "DARK_SOULS_III",
-      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -29970,7 +29977,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -33089,7 +33096,7 @@
     "name": "\u65b0\u4e16\u52c7\u8005\u4f20 Newera Heroes' Chronicle"
   },
   "958400": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "SM8735",
@@ -33100,6 +33107,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "CPH2747",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
