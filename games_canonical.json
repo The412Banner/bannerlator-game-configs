@@ -22188,6 +22188,14 @@
     ],
     "name": "Ghost Song"
   },
+  "34830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper: Ghost Warrior"
+  },
   "348470": {
     "config_count": 13,
     "devices": [
@@ -23455,14 +23463,6 @@
       "Ori"
     ],
     "name": "The Seven Deadly Sins: Origin"
-  },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
@@ -37339,7 +37339,7 @@
     "name": "Sparkingzero Win64 Shipping"
   },
   "name:spec-ops-the-line": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -37348,6 +37348,7 @@
       }
     ],
     "folders": [
+      "Spec_Ops_-_The_Line",
       "Spec_Ops_The_Line"
     ],
     "name": "Spec Ops The Line"
