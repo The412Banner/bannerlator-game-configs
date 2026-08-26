@@ -6363,7 +6363,13 @@
   },
   "1621690": {
     "config_count": 1,
-    "devices": [],
+    "devices": [
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5070",
+        "s": "Adreno (TM) 810"
+      }
+    ],
     "folders": [
       "CoreKeeper"
     ],
