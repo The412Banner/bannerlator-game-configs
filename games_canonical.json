@@ -1329,7 +1329,7 @@
     "name": "Persona 4 Golden"
   },
   "1113560": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -1338,7 +1338,8 @@
       }
     ],
     "folders": [
-      "NieR_Replicant__ver_1_22474487139___"
+      "NieR_Replicant__ver_1_22474487139___",
+      "NieR_Replicant_ver_1_22474487139"
     ],
     "name": "NieR Replicant\u2122 ver.1.22474487139..."
   },
@@ -8810,7 +8811,7 @@
     "name": "Strikers Club"
   },
   "1954200": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -8824,7 +8825,8 @@
       }
     ],
     "folders": [
-      "Kena__Bridge_of_Spirits"
+      "Kena__Bridge_of_Spirits",
+      "Kena_Bridge_of_Spirits"
     ],
     "name": "Kena: Bridge of Spirits"
   },
@@ -9023,7 +9025,7 @@
     "name": "SAND LAND"
   },
   "1984270": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -17447,16 +17449,22 @@
     "name": "ZERO PARADES: For Dead Spies"
   },
   "2864560": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "NP05J",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
-      "Rune_Factory__Guardians_of_Azuma"
+      "Rune_Factory__Guardians_of_Azuma",
+      "Rune_Factory_Guardians_of_Azuma"
     ],
     "name": "Rune Factory: Guardians of Azuma"
   },
@@ -26880,7 +26888,7 @@
     "name": "PES 2017"
   },
   "4570720": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -26889,9 +26897,10 @@
       }
     ],
     "folders": [
+      "DragonSword_Awakening",
       "DragonSword___Awakening"
     ],
-    "name": "Dragonsword Awakening"
+    "name": "DragonSword : Awakening"
   },
   "457140": {
     "config_count": 1,
@@ -29409,7 +29418,7 @@
     "name": "Attack on Titan 2 - A.O.T.2"
   },
   "601150": {
-    "config_count": 39,
+    "config_count": 40,
     "devices": [
       {
         "d": "unknown",
@@ -31249,10 +31258,11 @@
     "name": "Blasphemous"
   },
   "775500": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [],
     "folders": [
-      "SCARLET_NEXUS"
+      "SCARLET_NEXUS",
+      "Scarlet_Nexus"
     ],
     "name": "SCARLET NEXUS"
   },
