@@ -669,7 +669,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -690,6 +690,11 @@
         "d": "Adreno__TM__619",
         "m": "2201116PG",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "CPH2747",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__740",
@@ -3159,7 +3164,7 @@
     "name": "Sonic Frontiers"
   },
   "1237970": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "unknown",
@@ -3179,7 +3184,8 @@
     ],
     "folders": [
       "Titanfall_2",
-      "Titanfall__2"
+      "Titanfall__2",
+      "Titanfall2"
     ],
     "name": "Titanfall\u00ae 2"
   },
@@ -8658,9 +8664,16 @@
     "name": "Nomad Survival"
   },
   "1932640": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "S918B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
     "folders": [
+      "Suikoden_I_II_HD_Remaster_Gate_Rune_and_Dunan_Unification_Wars",
       "Suikoden_I_and_II_HD_Remaster"
     ],
     "name": "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars"
@@ -8929,7 +8942,7 @@
     "name": "Backpack Hero"
   },
   "1971650": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
@@ -8945,6 +8958,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S918B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -13449,7 +13467,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 15,
+    "config_count": 12,
     "devices": [
       {
         "d": "G720_MC7",
@@ -13470,21 +13488,10 @@
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II",
-      "DarkSoulsII"
+      "DARK_SOULS__II"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -19491,6 +19498,20 @@
     ],
     "name": "Tempus Triad DEMO"
   },
+  "3194360": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "CPH2747",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "Formula_Legends"
+    ],
+    "name": "Formula Legends"
+  },
   "3195790": {
     "config_count": 1,
     "devices": [],
@@ -23531,7 +23552,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 29,
+    "config_count": 36,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -23594,6 +23615,16 @@
         "s": "Adreno (TM) 735"
       },
       {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
+      },
+      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -23604,7 +23635,9 @@
       "DARK_SOULS",
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
+      "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
+      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -24494,12 +24527,17 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 169,
+    "config_count": 170,
     "devices": [
       {
         "d": "Adreno__TM__650",
         "m": "M2012K11AC",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Pocket_FIT",
@@ -24775,11 +24813,6 @@
         "d": "Adreno__TM__725",
         "m": "23049PCD8G",
         "s": "Adreno (TM) 725"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g45_5G",
-        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -25369,6 +25402,20 @@
       "Disgaea_PC"
     ],
     "name": "Disgaea PC"
+  },
+  "406350": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "CPH2747",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "KartKraft_"
+    ],
+    "name": "KartKraft\u2122"
   },
   "406720": {
     "config_count": 1,
@@ -26688,6 +26735,14 @@
     ],
     "name": "Pub Encounter"
   },
+  "4475790": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Warband"
+    ],
+    "name": "Warband"
+  },
   "447960": {
     "config_count": 1,
     "devices": [
@@ -27481,7 +27536,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -27496,8 +27551,7 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband",
-      "Warband"
+      "Mount_Blade_Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -28920,7 +28974,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 46,
+    "config_count": 42,
     "devices": [
       {
         "d": "G57",
@@ -29026,9 +29080,6 @@
     "folders": [
       "DARK_SOULS__REMASTERED",
       "DARK_SOULS___REMASTERED",
-      "DARKSOULS",
-      "DARK_SOULS_-_REMASTERED",
-      "DarkSoulsRemastered",
       "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
