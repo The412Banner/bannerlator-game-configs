@@ -18550,7 +18550,7 @@
     "name": "Trove"
   },
   "304240": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -18561,6 +18561,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
       }
     ],
     "folders": [
@@ -23590,7 +23595,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 29,
+    "config_count": 33,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -23663,6 +23668,7 @@
       "DARK_SOULS",
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
+      "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
       "DarkSoulsIII",
       "Dark_Souls_III"
@@ -23859,7 +23865,7 @@
     "name": "Professor Teaches\u00ae Excel 2013 & 365"
   },
   "377160": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "SM8750P",
@@ -23895,6 +23901,11 @@
         "d": "Adreno__TM__830",
         "m": "AN00",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "CPH2747",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__740",
@@ -28994,7 +29005,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 46,
+    "config_count": 42,
     "devices": [
       {
         "d": "G57",
@@ -29100,9 +29111,6 @@
     "folders": [
       "DARK_SOULS__REMASTERED",
       "DARK_SOULS___REMASTERED",
-      "DARKSOULS",
-      "DARK_SOULS_-_REMASTERED",
-      "DarkSoulsRemastered",
       "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
