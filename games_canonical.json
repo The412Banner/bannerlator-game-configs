@@ -1990,7 +1990,7 @@
     "name": "FINAL FANTASY"
   },
   "1174180": {
-    "config_count": 45,
+    "config_count": 46,
     "devices": [
       {
         "d": "SM8750P",
@@ -12033,7 +12033,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 13,
+    "config_count": 16,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12067,7 +12067,9 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -13380,7 +13382,7 @@
     "name": "Invincible VS"
   },
   "235460": {
-    "config_count": 26,
+    "config_count": 27,
     "devices": [
       {
         "d": "G57",
@@ -16614,7 +16616,7 @@
     "name": "American Truck Simulator"
   },
   "271590": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "gta_data"
@@ -17637,7 +17639,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -17677,9 +17679,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "rerev",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -22195,14 +22195,6 @@
     ],
     "name": "Ghost Song"
   },
-  "34830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper: Ghost Warrior"
-  },
   "348470": {
     "config_count": 13,
     "devices": [
@@ -23471,6 +23463,14 @@
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
+  },
   "3681010": {
     "config_count": 1,
     "devices": [],
@@ -23645,7 +23645,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 37,
+    "config_count": 38,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -23701,6 +23701,11 @@
         "d": "Adreno__TM__830",
         "m": "2510DPC44G",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
       },
       {
         "d": "Samsung_Xclipse_540",
@@ -35423,7 +35428,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2626,
+    "config_count": 2627,
     "devices": [
       {
         "d": "G52_MC2",
