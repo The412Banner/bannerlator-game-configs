@@ -1545,7 +1545,6 @@
   },
   "Cover_Fire": {
     "appid": 1763740,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1763740/header.jpg",
     "method": "naive",
     "steam_name": "Cover Fire: Offline Shooting Game"
   },
@@ -1911,6 +1910,10 @@
     "appid": 846770,
     "method": "naive",
     "steam_name": "DYSMANTLE"
+  },
+  "Daisenka": {
+    "appid": null,
+    "method": "unresolved"
   },
   "Danganronpa__Trigger_Happy_Havoc": {
     "appid": 413410,

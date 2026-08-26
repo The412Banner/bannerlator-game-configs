@@ -423,7 +423,7 @@
     "name": "Torque Drift"
   },
   "1030300": {
-    "config_count": 42,
+    "config_count": 44,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -499,6 +499,11 @@
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G76",
+        "m": "Mali",
+        "s": "Mali-G76"
       },
       {
         "d": "G610_MC2",
@@ -832,14 +837,6 @@
       "Arma_3"
     ],
     "name": "Arma 3"
-  },
-  "1080920": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GRID_2"
-    ],
-    "name": "Defense Grid 2 - Aftermath"
   },
   "108600": {
     "config_count": 2,
@@ -11977,7 +11974,7 @@
     "name": "Five Nights at Freddy's: Secret of the Mimic"
   },
   "221540": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [],
     "folders": [
       "GRID_2"
@@ -12400,7 +12397,7 @@
     "name": "Squirrel Launcher"
   },
   "2254890": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "G720_MC8",
@@ -12446,10 +12443,16 @@
         "d": "Adreno__TM__619",
         "m": "moto_g53_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "22081281AC",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
-      "The_Killing_Antidote"
+      "The_Killing_Antidote",
+      "TheKillingAntidote"
     ],
     "name": "The Killing Antidote"
   },
@@ -25351,6 +25354,14 @@
     ],
     "name": "Beat The Champions"
   },
+  "4032350": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "EA"
+    ],
+    "name": "EA SPORTS\u2122 College Football 27"
+  },
   "40350": {
     "config_count": 1,
     "devices": [
@@ -27821,6 +27832,14 @@
     ],
     "name": "Bot Vice"
   },
+  "492720": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Tropico_6"
+    ],
+    "name": "Tropico 6"
+  },
   "494430": {
     "config_count": 1,
     "devices": [
@@ -27952,7 +27971,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -27963,6 +27982,11 @@
         "d": "Adreno__TM__830",
         "m": "PLQ110",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "V2425A",
+        "s": "Adreno (TM) 750"
       },
       {
         "d": "G57_MC2",
@@ -27983,6 +28007,7 @@
     "folders": [
       "The_Witcher_3",
       "The_Witcher_3_-_Wild_Hunt",
+      "Witcher_1",
       "_Witcher",
       "witcher3"
     ],
@@ -35377,7 +35402,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2623,
+    "config_count": 2624,
     "devices": [
       {
         "d": "G52_MC2",
@@ -36225,11 +36250,6 @@
         "s": "PowerVR Rogue GE8320"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
@@ -36248,6 +36268,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
@@ -37465,20 +37490,6 @@
     ],
     "name": "The Sims 2 Launcher"
   },
-  "name:thekillingantidote": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__650",
-        "m": "22081281AC",
-        "s": "Adreno (TM) 650"
-      }
-    ],
-    "folders": [
-      "TheKillingAntidote"
-    ],
-    "name": "Thekillingantidote"
-  },
   "name:tlauncher-installer-1-9-5-1": {
     "config_count": 1,
     "devices": [],
@@ -37534,14 +37545,6 @@
       "Trail_of_Cold_Steel_3_x86"
     ],
     "name": "Trail Of Cold Steel 3 X86"
-  },
-  "name:tropico-6": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Tropico_6"
-    ],
-    "name": "Tropico 6"
   },
   "name:tvp-kirikiri-z-core-scripting-platform-for-win32": {
     "config_count": 1,
@@ -37624,20 +37627,6 @@
       "Warcraft_III"
     ],
     "name": "Warcraft Iii"
-  },
-  "name:witcher-1": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__750",
-        "m": "V2425A",
-        "s": "Adreno (TM) 750"
-      }
-    ],
-    "folders": [
-      "Witcher_1"
-    ],
-    "name": "Witcher 1"
   },
   "name:wizard-school-exchange-student": {
     "config_count": 1,
