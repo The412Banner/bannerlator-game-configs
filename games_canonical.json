@@ -9721,12 +9721,17 @@
     "name": "Binary Domain"
   },
   "204030": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2012K11AG",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
@@ -12031,7 +12036,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 16,
+    "config_count": 15,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12066,8 +12071,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -12462,6 +12466,14 @@
       "TheKillingAntidote"
     ],
     "name": "The Killing Antidote"
+  },
+  "2255370": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Directive8020"
+    ],
+    "name": "Directive 8020"
   },
   "225540": {
     "config_count": 3,
@@ -17637,7 +17649,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -17677,7 +17689,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
