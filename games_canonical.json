@@ -4039,6 +4039,14 @@
     ],
     "name": "Helltaker"
   },
+  "1289670": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "EA"
+    ],
+    "name": "EA Play"
+  },
   "1292940": {
     "config_count": 1,
     "devices": [
@@ -5389,7 +5397,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 84,
+    "config_count": 87,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -8702,7 +8710,7 @@
     "name": "Nomad Survival"
   },
   "1932640": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -8981,7 +8989,7 @@
     "name": "Backpack Hero"
   },
   "1971650": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
@@ -10463,20 +10471,6 @@
       "F_E_A_R__3"
     ],
     "name": "F.E.A.R. 3"
-  },
-  "211010": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "Alien_Shooter_2"
-    ],
-    "name": "Alien Shooter 2 Conscription"
   },
   "2110820": {
     "config_count": 1,
@@ -12039,7 +12033,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 16,
+    "config_count": 13,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12073,9 +12067,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -12550,7 +12542,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 210,
+    "config_count": 211,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -17645,7 +17637,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 34,
     "devices": [
       {
         "d": "G615_MC2",
@@ -17685,7 +17677,9 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -18504,7 +18498,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -18523,8 +18517,7 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -19816,7 +19809,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1307,
+    "config_count": 1309,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -20774,6 +20767,11 @@
         "s": "Mali-G57"
       },
       {
+        "d": "Adreno__TM__710",
+        "m": "A366E",
+        "s": "Adreno (TM) 710"
+      },
+      {
         "d": "Adreno__TM__830",
         "m": "NX9",
         "s": "Adreno (TM) 830"
@@ -21337,6 +21335,20 @@
       "Cars"
     ],
     "name": "Disney\u2022Pixar Cars"
+  },
+  "33120": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Alien_Shooter_2"
+    ],
+    "name": "Alien Shooter 2: Reloaded"
   },
   "3314070": {
     "config_count": 1,
@@ -23637,7 +23649,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 33,
+    "config_count": 38,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -23700,6 +23712,11 @@
         "s": "Mali-G720 MC8"
       },
       {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
+      },
+      {
         "d": "Adreno__TM__735",
         "m": "NX9",
         "s": "Adreno (TM) 735"
@@ -23725,6 +23742,7 @@
       "DARK_SOULS",
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
+      "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
       "DarkSoulsII",
       "DarkSoulsIII",
@@ -25365,14 +25383,6 @@
       "BeatTheChampions"
     ],
     "name": "Beat The Champions"
-  },
-  "4032350": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "EA"
-    ],
-    "name": "EA SPORTS\u2122 College Football 27"
   },
   "40350": {
     "config_count": 1,
@@ -28227,7 +28237,7 @@
     "name": "Steel Wolverines: Modern Armored Combat"
   },
   "516750": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "G57_MC2",
@@ -28772,7 +28782,7 @@
     "name": "Brick Rigs"
   },
   "55230": {
-    "config_count": 8,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -29069,7 +29079,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 47,
+    "config_count": 42,
     "devices": [
       {
         "d": "G57",
@@ -29167,11 +29177,6 @@
         "s": "Mali-G720 MC7"
       },
       {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
-      },
-      {
         "d": "Adreno__TM__660",
         "m": "S928B",
         "s": "Adreno (TM) 660"
@@ -29180,9 +29185,6 @@
     "folders": [
       "DARK_SOULS__REMASTERED",
       "DARK_SOULS___REMASTERED",
-      "DARKSOULS",
-      "DARK_SOULS_-_REMASTERED",
-      "DarkSoulsRemastered",
       "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
@@ -29423,12 +29425,17 @@
     "name": "Freedom Planet 2"
   },
   "597820": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__740",
         "m": "Odin2_Portal",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "TB321FU",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -32268,7 +32275,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 106,
+    "config_count": 107,
     "devices": [
       {
         "d": "s5e8855",
@@ -32748,7 +32755,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G615_MC6",
@@ -32767,7 +32774,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -35427,7 +35435,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2636,
+    "config_count": 2637,
     "devices": [
       {
         "d": "G52_MC2",
