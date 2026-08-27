@@ -838,14 +838,6 @@
     ],
     "name": "Arma 3"
   },
-  "1080920": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GRID_2"
-    ],
-    "name": "Defense Grid 2 - Aftermath"
-  },
   "108600": {
     "config_count": 2,
     "devices": [],
@@ -3819,7 +3811,7 @@
     "name": "Need for Speed\u2122 Payback"
   },
   "1262600": {
-    "config_count": 22,
+    "config_count": 23,
     "devices": [
       {
         "d": "SM8635",
@@ -10472,6 +10464,20 @@
     ],
     "name": "F.E.A.R. 3"
   },
+  "211010": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Alien_Shooter_2"
+    ],
+    "name": "Alien Shooter 2 Conscription"
+  },
   "2110820": {
     "config_count": 1,
     "devices": [],
@@ -11981,7 +11987,7 @@
     "name": "Five Nights at Freddy's: Secret of the Mimic"
   },
   "221540": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [],
     "folders": [
       "GRID_2"
@@ -19068,7 +19074,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 34,
+    "config_count": 35,
     "devices": [
       {
         "d": "G78",
@@ -19089,11 +19095,6 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__750",
@@ -19139,6 +19140,11 @@
         "d": "Adreno__TM__750",
         "m": "NX779J",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
@@ -19810,7 +19816,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1305,
+    "config_count": 1307,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -21331,20 +21337,6 @@
       "Cars"
     ],
     "name": "Disney\u2022Pixar Cars"
-  },
-  "33120": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "Alien_Shooter_2"
-    ],
-    "name": "Alien Shooter 2: Reloaded"
   },
   "3314070": {
     "config_count": 1,
@@ -28122,12 +28114,17 @@
     "name": "Mafia II (Classic)"
   },
   "501590": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__750",
         "m": "TB321FU",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053RT47C",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
@@ -35428,7 +35425,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2627,
+    "config_count": 2636,
     "devices": [
       {
         "d": "G52_MC2",
