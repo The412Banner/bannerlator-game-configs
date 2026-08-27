@@ -1982,7 +1982,7 @@
     "name": "FINAL FANTASY"
   },
   "1174180": {
-    "config_count": 46,
+    "config_count": 47,
     "devices": [
       {
         "d": "SM8750P",
@@ -2083,6 +2083,11 @@
         "d": "Adreno__TM__740",
         "m": "Odin2_Portal",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "CPH2477",
+        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "Adreno__TM__650",
@@ -9721,7 +9726,7 @@
     "name": "Binary Domain"
   },
   "204030": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "G52_MC2",
@@ -12036,7 +12041,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12071,7 +12076,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev"
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -12554,7 +12560,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 213,
+    "config_count": 214,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -14821,7 +14827,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 23,
+    "config_count": 24,
     "devices": [
       {
         "d": "A075M",
@@ -14885,7 +14891,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes"
+      "LEGO__Marvel__Super_Heroes",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -15754,7 +15761,7 @@
     "name": "Better Than Dead"
   },
   "260210": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "G68_MC4",
@@ -15782,14 +15789,14 @@
         "s": "Adreno (TM) 829"
       },
       {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      },
-      {
         "d": "Adreno__TM__830",
         "m": "S931B",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
@@ -17649,7 +17656,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -17689,8 +17696,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -19821,7 +19827,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1311,
+    "config_count": 1313,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -20782,6 +20788,11 @@
         "d": "Adreno__TM__710",
         "m": "A366E",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8322",
+        "m": "A07",
+        "s": "PowerVR Rogue GE8322"
       },
       {
         "d": "Adreno__TM__830",
@@ -26120,6 +26131,14 @@
     ],
     "name": "Sister Other Paranoia"
   },
+  "4241690": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Hydra"
+    ],
+    "name": "Hydra Heli 2"
+  },
   "424280": {
     "config_count": 1,
     "devices": [
@@ -26867,6 +26886,14 @@
       "Pub_Encounter"
     ],
     "name": "Pub Encounter"
+  },
+  "4475790": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Warband"
+    ],
+    "name": "Warband"
   },
   "447960": {
     "config_count": 1,
@@ -27662,7 +27689,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -27677,8 +27704,7 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband",
-      "Warband"
+      "Mount_Blade_Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -29512,7 +29538,7 @@
     "name": "The Coma: Recut"
   },
   "601050": {
-    "config_count": 8,
+    "config_count": 10,
     "devices": [
       {
         "d": "G615_MC6",
@@ -29523,6 +29549,11 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       }
     ],
     "folders": [
@@ -30156,7 +30187,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -34297,7 +34328,7 @@
     "name": "Dyinglightgame Thebeast X64 Rwdi"
   },
   "name:efootball-2021": {
-    "config_count": 46,
+    "config_count": 48,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -34378,6 +34409,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "CPH2477",
+        "s": "PowerVR Rogue GE8320"
       }
     ],
     "folders": [
@@ -35474,7 +35510,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2640,
+    "config_count": 2641,
     "devices": [
       {
         "d": "G52_MC2",
@@ -36257,11 +36293,6 @@
         "s": "Mali-G615 MC2"
       },
       {
-        "d": "G68",
-        "m": "Mali",
-        "s": "Mali-G68"
-      },
-      {
         "d": "Adreno__TM__730",
         "m": "S901E",
         "s": "Adreno (TM) 730"
@@ -36350,6 +36381,11 @@
         "d": "Adreno__TM__830",
         "m": "25091RP04G",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
       },
       {
         "d": "Adreno__TM__740",
