@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "Xiaomi 25053PC47G",
+    "soc": "Adreno (TM) 825",
+    "bh_version": "3.0.1",
+    "uploader": {
+      "name": "scaramouche",
+      "avatarUrl": "https:\/\/bannerhub-configs-worker.the412banner.workers.dev\/account\/avatar?uid=2d6e4d434c51558fd9e48b95ece247b3"
+    },
+    "upload_token": "5998f71053f58039",
+    "settings_count": 10,
+    "components_count": 4
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"2.3.1-arm64ec-gplasync\"}",
+    "pc_ls_VK3k": "{\"name\":\"3.0.1-arm64ec-0\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"A8XX Turnip v29\"}",
+    "pc_set_constant_95": "{\"name\":\"FEXCore-2608-stable-0\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"Proton-10.0-4-arm64ec-3\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-original",
+    "pc_ls_AUDIO_DRIVER": "1",
+    "pc_ls_update_enable_xinput": true,
+    "pc_ls_environment_variable": "WINEDLLOVERRIDES=version=n,b",
+    "bl_ext": {
+      "dxwrapper": "dxvk+vkd3d",
+      "screenSize": "1280x720",
+      "renderer": "vulkan",
+      "sfCompatMode": "1",
+      "fullscreenMode": "2",
+      "frameGenEngine": "off",
+      "native": "false",
+      "swapRB": "false",
+      "presentMode": "fifo",
+      "fpsLimiterEnabled": "1",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "reshadeMode": "solo",
+      "reshadeEffect": "None",
+      "emulator": "fexcore",
+      "box64Version": "0.4.3-0",
+      "box64Preset": "CUSTOM-4",
+      "fexcorePreset": "CUSTOM-5",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "startupSelection": "2",
+      "inputType": "4",
+      "exclusiveXInput": "1",
+      "simTouchScreen": "0",
+      "numControllers": "1",
+      "controlsProfile": "8",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1",
+      "lc_all": "in_ID.UTF-8",
+      "autoCloseOnExit": "1",
+      "fpsCounterConfig": "hudStyle=classic,hudEnabled=0,hudSize=full,hudLocked=0,showVram=1,showLow001=1,fpsDecimal=1,showPerCore=1,showSwap=1,showNet=1,showResolution=1,showProton=1,showWrapper=1,showDxVer=1,showSession=1,hudMode=horizontal,showFPS=0,showFPSGraph=0,showCPUUsage=0,showCPULoad=0,showGPULoad=0,showRAM=0,showPower=0,showTemp=0,showBatteryTemp=0,showEngine=0,showRenderer=0,showGpuModel=0,hudDualBattery=0,showGpuTemp=0,showBattery=0,showRuntime=0,showClock=0,showCPUGraph=0,showGPUGraph=0,tempUnit=c,tempBands=1,tempAuto=1,tempRedCpu=90,tempRedGpu=90,tempRedBat=48,hudSkin=classic,hudColor=mid,hudOutline=40,hudOutlineAccent=1,hudScale=100,hudOpacity=80,hudTransparency=0",
+      "gyroEnabled": "0",
+      "gyroTarget": "0",
+      "gyroActivator": "0",
+      "gyroActivationMode": "0",
+      "gyroMode": "0",
+      "gyroSensitivity": "2.0",
+      "gyroInvertX": "0",
+      "gyroInvertY": "0",
+      "maxGameRefreshRate": "0",
+      "unlockGameRefreshRate": "1",
+      "frameGenModel": "0",
+      "vibrationMode": "1",
+      "vibrationIntensity": "100",
+      "dxwrapperConfig": "version=2.3.1-arm64ec-gplasync,framerate=0,async=1,asyncCache=1,vkd3dVersion=3.0.1-arm64ec-0,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfigFile=,d7vkVersion=Bundled (default)"
+    }
+  },
+  "components": [
+    {
+      "name": "2.3.1-arm64ec-gplasync",
+      "type": "DXVK"
+    },
+    {
+      "name": "3.0.1-arm64ec-0",
+      "type": "VKD3D"
+    },
+    {
+      "name": "A8XX Turnip v29",
+      "type": "GPU"
+    },
+    {
+      "name": "FEXCore-2608-stable-0",
+      "type": "FEXCore"
+    }
+  ]
+}
