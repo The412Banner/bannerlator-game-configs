@@ -4039,14 +4039,6 @@
     ],
     "name": "Helltaker"
   },
-  "1289670": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "EA"
-    ],
-    "name": "EA Play"
-  },
   "1292940": {
     "config_count": 1,
     "devices": [
@@ -12033,7 +12025,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 13,
+    "config_count": 15,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12067,7 +12059,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -17637,7 +17630,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -17678,7 +17671,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -25384,6 +25376,14 @@
     ],
     "name": "Beat The Champions"
   },
+  "4032350": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "EA"
+    ],
+    "name": "EA SPORTS\u2122 College Football 27"
+  },
   "40350": {
     "config_count": 1,
     "devices": [
@@ -31665,7 +31665,7 @@
     "name": "Tomb Raider: Underworld"
   },
   "814380": {
-    "config_count": 62,
+    "config_count": 63,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -37517,6 +37517,14 @@
       "The_Amazing_Spider-Man"
     ],
     "name": "The Amazing Spider Man"
+  },
+  "name:the-amazing-spider-man-2": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "The_Amazing_Spider-Man_2"
+    ],
+    "name": "The Amazing Spider Man 2"
   },
   "name:the-lust-voyage": {
     "config_count": 1,
