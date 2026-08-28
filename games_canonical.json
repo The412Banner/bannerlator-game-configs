@@ -24766,7 +24766,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 173,
+    "config_count": 174,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -25571,7 +25571,7 @@
     "name": "Godot Engine"
   },
   "4048520": {
-    "config_count": 14,
+    "config_count": 17,
     "devices": [
       {
         "d": "Adreno__TM__722",
@@ -35630,7 +35630,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2656,
+    "config_count": 2658,
     "devices": [
       {
         "d": "G52_MC2",
@@ -36488,11 +36488,6 @@
         "s": "Mali-G68"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__619",
         "m": "motorola_edge_30_neo",
         "s": "Adreno (TM) 619"
@@ -36511,6 +36506,11 @@
         "d": "Adreno__TM__610",
         "m": "23129RA5FL",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
