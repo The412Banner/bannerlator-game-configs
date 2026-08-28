@@ -14733,6 +14733,20 @@
     ],
     "name": "HUNTDOWN: OVERTIME"
   },
+  "2473480": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "N49",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "Tails_of_Iron_2_Whiskers_of_Winter"
+    ],
+    "name": "Tails Of Iron 2 Whiskers Of Winter"
+  },
   "247430": {
     "config_count": 1,
     "devices": [],
@@ -19868,7 +19882,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1314,
+    "config_count": 1315,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -20821,11 +20835,6 @@
         "s": "Mali-G610 MC6"
       },
       {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "A366E",
         "s": "Adreno (TM) 710"
@@ -20834,6 +20843,11 @@
         "d": "PowerVR_Rogue_GE8322",
         "m": "A07",
         "s": "PowerVR Rogue GE8322"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       },
       {
         "d": "Adreno__TM__830",
@@ -35549,7 +35563,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2654,
+    "config_count": 2655,
     "devices": [
       {
         "d": "G52_MC2",
@@ -35745,11 +35759,6 @@
         "d": "Adreno__TM__610",
         "m": "25062PC34G",
         "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__642L",
-        "m": "motorola_edge_20",
-        "s": "Adreno (TM) 642L"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -36430,6 +36439,11 @@
         "d": "G76",
         "m": "Mali",
         "s": "Mali-G76"
+      },
+      {
+        "d": "Adreno__TM__642L",
+        "m": "motorola_edge_20",
+        "s": "Adreno (TM) 642L"
       },
       {
         "d": "Adreno__TM__740",
