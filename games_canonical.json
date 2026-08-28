@@ -24211,12 +24211,17 @@
     "name": "Len's Island - Gothic Building Style"
   },
   "379720": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__750",
         "m": "Pocket_FIT",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "Adreno__TM__750",
@@ -26935,6 +26940,14 @@
     ],
     "name": "Pub Encounter"
   },
+  "4475790": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Warband"
+    ],
+    "name": "Warband"
+  },
   "447960": {
     "config_count": 1,
     "devices": [
@@ -27729,7 +27742,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -27744,8 +27757,7 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband",
-      "Warband"
+      "Mount_Blade_Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -34498,7 +34510,7 @@
     "name": "Ets2"
   },
   "name:eurotrucks2": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "G76",
@@ -34509,6 +34521,11 @@
         "d": "Adreno__TM__740",
         "m": "23113RKC6G",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "Redmi_Note_8",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
