@@ -428,7 +428,7 @@
     "name": "Torque Drift"
   },
   "1030300": {
-    "config_count": 44,
+    "config_count": 41,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -509,16 +509,6 @@
         "d": "G76",
         "m": "Mali",
         "s": "Mali-G76"
-      },
-      {
-        "d": "G610_MC2",
-        "m": "Mali",
-        "s": "Mali-G610 MC2"
-      },
-      {
-        "d": "Adreno__TM__840",
-        "m": "PLZ110",
-        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
@@ -679,7 +669,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -705,16 +695,10 @@
         "d": "Adreno__TM__840",
         "m": "CPH2747",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "2211133C",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
-      "Ori_and_the_Will_of_the_Wisps",
-      "Ori_and_the_will_of_the_wisps"
+      "Ori_and_the_Will_of_the_Wisps"
     ],
     "name": "Ori and the Will of the Wisps"
   },
@@ -872,7 +856,7 @@
     "name": "Baldur's Gate 3"
   },
   "108710": {
-    "config_count": 14,
+    "config_count": 13,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -896,8 +880,7 @@
       }
     ],
     "folders": [
-      "Alan_Wake",
-      "Alan_Wake_Remastered"
+      "Alan_Wake"
     ],
     "name": "Alan Wake"
   },
@@ -1266,16 +1249,9 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__730",
-        "m": "2201123G",
-        "s": "Adreno (TM) 730"
-      }
-    ],
+    "config_count": 1,
+    "devices": [],
     "folders": [
-      "BattleForTheGrid",
       "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
@@ -1665,6 +1641,14 @@
       "Hades"
     ],
     "name": "Hades"
+  },
+  "1151340": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Fallout_3__Game_of_the_Year_Edition"
+    ],
+    "name": "Fallout 76"
   },
   "1151380": {
     "config_count": 1,
@@ -2492,7 +2476,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 343,
+    "config_count": 334,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3477,7 +3461,7 @@
     "name": "Jurassic World Evolution 2"
   },
   "1245620": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "SM8850",
@@ -3513,11 +3497,6 @@
         "d": "Adreno__TM__840",
         "m": "2509FPN0BC",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "CPH2653",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -3651,7 +3630,7 @@
     "name": "Party Animals"
   },
   "1262540": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "G52_MC2",
@@ -3677,13 +3656,12 @@
     "folders": [
       "Need_for_Speed_",
       "need_for_speed",
-      "need_for_speed_",
-      "Need_for_speed__2005_"
+      "need_for_speed_"
     ],
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 48,
+    "config_count": 47,
     "devices": [
       {
         "d": "G57_MC2",
@@ -3786,7 +3764,6 @@
       "need_for_speed_most_wanted_",
       "Need_For_Speed_Most_Wanted_",
       "Need_for_Speed_-_Most_Wanted",
-      "Need_for_Speed__Most_Wanted_2005",
       "Need_for_Speed__Most_wanted__2012_",
       "need_for_speed_most_wa",
       "need_for_speed_most_wanted_2005"
@@ -4937,12 +4914,11 @@
     "name": "It Takes Two"
   },
   "1426300": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "Binding_of_Isaac_Repentance",
-      "The_Binding_of_Isaac__Repentance",
-      "the_binding__of_isaac_rep_"
+      "The_Binding_of_Isaac__Repentance"
     ],
     "name": "The Binding of Isaac: Repentance"
   },
@@ -5217,7 +5193,7 @@
     "name": "FINAL FANTASY VII REMAKE INTERGRADE"
   },
   "1465360": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "SnowRunner"
@@ -5679,14 +5655,6 @@
       "Are_You_Smarter_than_a_5th_Grader_"
     ],
     "name": "Are You Smarter Than A 5th Grader"
-  },
-  "1521580": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Heist"
-    ],
-    "name": "Perfect Heist 2"
   },
   "1528460": {
     "config_count": 2,
@@ -7245,7 +7213,7 @@
     "name": "Kusan: City of Wolves"
   },
   "1715130": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -8860,7 +8828,7 @@
     "name": "Strikers Club"
   },
   "1954200": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -8874,8 +8842,7 @@
       }
     ],
     "folders": [
-      "Kena__Bridge_of_Spirits",
-      "Kena_Bridge_of_Spirits"
+      "Kena__Bridge_of_Spirits"
     ],
     "name": "Kena: Bridge of Spirits"
   },
@@ -9598,14 +9565,6 @@
       "GoreBox"
     ],
     "name": "GoreBox"
-  },
-  "202970": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Call_of_Duty_-_Black_Ops_II"
-    ],
-    "name": "Call of Duty\u00ae: Black Ops II"
   },
   "203140": {
     "config_count": 32,
@@ -11314,14 +11273,6 @@
     ],
     "name": "Ricochet Blur"
   },
-  "2186680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "tra"
-    ],
-    "name": "Warhammer 40,000: Rogue Trader"
-  },
   "2193910": {
     "config_count": 1,
     "devices": [
@@ -11642,7 +11593,7 @@
     "name": "Far Cry 3"
   },
   "220440": {
-    "config_count": 31,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -11759,8 +11710,7 @@
       "DmC_Devil_May_Cry",
       "DmC_Devil_May_Cry___________________________________________",
       "DmC__Devil_May_Cry",
-      "DMC-DevilMayCry",
-      "DMC-DevilMayCry_2013"
+      "DMC-DevilMayCry"
     ],
     "name": "DmC: Devil May Cry"
   },
@@ -12301,14 +12251,6 @@
     ],
     "name": "Contra: Operation Galuga"
   },
-  "22370": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Fallout_3__Game_of_the_Year_Edition"
-    ],
-    "name": "Fallout 3: Game of the Year Edition"
-  },
   "22380": {
     "config_count": 14,
     "devices": [
@@ -12358,20 +12300,6 @@
       "Thronefall"
     ],
     "name": "Thronefall"
-  },
-  "2239710": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__730",
-        "m": "ASUS_AI2201_C",
-        "s": "Adreno (TM) 730"
-      }
-    ],
-    "folders": [
-      "Into_the_Dead__Our_Darkest_Days"
-    ],
-    "name": "Into the Dead: Our Darkest Days"
   },
   "224060": {
     "config_count": 1,
@@ -12429,7 +12357,7 @@
     "name": "Tomb Raider II (1997)"
   },
   "2254490": {
-    "config_count": 12,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -12448,7 +12376,6 @@
       }
     ],
     "folders": [
-      "Launcher",
       "Rockstar_Games_Launcher",
       "launcher"
     ],
@@ -13198,6 +13125,25 @@
     ],
     "name": "Starship Troopers: Ultimate Bug War!"
   },
+  "2322010": {
+    "config_count": 10,
+    "devices": [
+      {
+        "d": "Adreno__TM__640",
+        "m": "RMX1931",
+        "s": "Adreno (TM) 640"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "CPH2447",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "GoW"
+    ],
+    "name": "God of War Ragnar\u00f6k"
+  },
   "2325290": {
     "config_count": 3,
     "devices": [
@@ -13730,7 +13676,7 @@
     "name": "Deus Ex: Human Revolution - Director's Cut"
   },
   "238090": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -13744,8 +13690,7 @@
       }
     ],
     "folders": [
-      "Sniper_Elite_3",
-      "SniperElite3"
+      "Sniper_Elite_3"
     ],
     "name": "Sniper Elite 3"
   },
@@ -13993,20 +13938,6 @@
       "Counter-Strike__Source"
     ],
     "name": "Counter-Strike: Source"
-  },
-  "2405060": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "NX809J",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "Kiborg"
-    ],
-    "name": "KIBORG"
   },
   "240600": {
     "config_count": 1,
@@ -14887,7 +14818,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 23,
+    "config_count": 24,
     "devices": [
       {
         "d": "A075M",
@@ -14951,7 +14882,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes"
+      "LEGO__Marvel__Super_Heroes",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -14974,6 +14906,20 @@
       "WOLV"
     ],
     "name": "FATAL FURY: City of the Wolves"
+  },
+  "2499040": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "L22",
+        "s": "Adreno (TM) 610"
+      }
+    ],
+    "folders": [
+      "Volkolak"
+    ],
+    "name": "Volkolak: The Will of Gods"
   },
   "2499860": {
     "config_count": 3,
@@ -16092,7 +16038,7 @@
     "name": "Subnautica"
   },
   "2651280": {
-    "config_count": 23,
+    "config_count": 21,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -16133,18 +16079,12 @@
         "d": "Adreno__TM__619",
         "m": "moto_g71_5G",
         "s": "Adreno (TM) 619"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "motorola_edge_30_ultra",
-        "s": "Adreno (TM) 730"
       }
     ],
     "folders": [
       "Activision_Spider-Man_3",
       "Marvel_s_Spider-Man_2",
-      "Spider-Man_3",
-      "Spider-Man"
+      "Spider-Man_3"
     ],
     "name": "Marvel's Spider-Man 2"
   },
@@ -16201,17 +16141,12 @@
     "name": "RC Revolution: High Voltage - \u514d\u8d39\u73a9"
   },
   "2663530": {
-    "config_count": 3,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "M2007J3SY",
-        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
@@ -17187,14 +17122,6 @@
       "MOTORSLICE"
     ],
     "name": "MOTORSLICE"
-  },
-  "2832280": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Blightstone"
-    ],
-    "name": "Blightstone"
   },
   "2835570": {
     "config_count": 2,
@@ -18538,7 +18465,7 @@
     "name": "GET EVEN"
   },
   "3010850": {
-    "config_count": 10,
+    "config_count": 9,
     "devices": [
       {
         "d": "G57",
@@ -18565,8 +18492,7 @@
       "E",
       "Gears_Of_War",
       "Gears_of_War",
-      "Gears_of_war_2",
-      "Gears_of_War_2"
+      "Gears_of_war_2"
     ],
     "name": "Gears of War: E-Day"
   },
@@ -18862,7 +18788,7 @@
     "name": "Portrait of a Torn"
   },
   "3059520": {
-    "config_count": 18,
+    "config_count": 17,
     "devices": [
       {
         "d": "G57_MC2",
@@ -18898,11 +18824,6 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "23129RA5FL",
-        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
@@ -19155,7 +19076,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 35,
+    "config_count": 34,
     "devices": [
       {
         "d": "G78",
@@ -19232,8 +19153,7 @@
       "BlackOps",
       "Call_of_Duty_3______________________________________________",
       "Call_of_Duty_Black_Ops",
-      "Call_of_Duty___Black_Ops_III",
-      "Call_of_Duty_-_Black_Ops"
+      "Call_of_Duty___Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
   },
@@ -19281,7 +19201,7 @@
     "name": "Enter the Gungeon"
   },
   "311730": {
-    "config_count": 11,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__720",
@@ -19302,19 +19222,13 @@
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__720",
-        "m": "I2218",
-        "s": "Adreno (TM) 720"
       }
     ],
     "folders": [
       "DEAD_OR_ALIVE_5_Last_Round",
       "DEAD_OR_ALIVE_5_Last_Round__Core_Fighters",
       "Dead_or_Alive_5_",
-      "Dead_or_Alive_5__Last_Round",
-      "DEAD_OR_ALIVE_5_Last_Round_-_Core_Fighters"
+      "Dead_or_Alive_5__Last_Round"
     ],
     "name": "DEAD OR ALIVE 5 Last Round: Core Fighters"
   },
@@ -19516,17 +19430,10 @@
     "name": "Football Life Simulator"
   },
   "3159330": {
-    "config_count": 3,
-    "devices": [
-      {
-        "d": "Adreno__TM__810",
-        "m": "V2502",
-        "s": "Adreno (TM) 810"
-      }
-    ],
+    "config_count": 1,
+    "devices": [],
     "folders": [
-      "Assassin_s_Creed_________",
-      "Assassin_s_Creed"
+      "Assassin_s_Creed_________"
     ],
     "name": "Assassin\u2019s Creed Shadows"
   },
@@ -19567,14 +19474,6 @@
       "POLYARIS_Demo"
     ],
     "name": "POLYARIS Demo"
-  },
-  "3167020": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Duckov"
-    ],
-    "name": "Escape From Duckov"
   },
   "3167920": {
     "config_count": 1,
@@ -19644,7 +19543,7 @@
     "name": "Mall Simulator"
   },
   "3183760": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "G57_MC2",
@@ -19653,7 +19552,6 @@
       }
     ],
     "folders": [
-      "Speed",
       "speed"
     ],
     "name": "SpeedRunners 2: King of Speed"
@@ -19903,7 +19801,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1319,
+    "config_count": 1318,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -20986,7 +20884,6 @@
       "Grand_Theft_Auto_V__________________________________________",
       "PlayGTAV",
       "_____5",
-      "gta",
       "GTA5",
       "GTA_V",
       "Grand_Theft_Auto___V"
@@ -21268,7 +21165,7 @@
     "name": "NINJA GAIDEN 2 Black"
   },
   "329050": {
-    "config_count": 48,
+    "config_count": 43,
     "devices": [
       {
         "d": "G57",
@@ -21381,16 +21278,6 @@
         "s": "Adreno (TM) 740"
       },
       {
-        "d": "G68",
-        "m": "Mali",
-        "s": "Mali-G68"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
         "d": "Adreno__TM__830",
         "m": "N49",
         "s": "Adreno (TM) 830"
@@ -21399,9 +21286,7 @@
     "folders": [
       "Devil_May_Cry_4",
       "Devil_May_Cry_4_",
-      "Devil_May_Cry_4_Special_Edition",
-      "DEVIL_MAY_CRY_4",
-      "DevilMayCry4SpecialEdition"
+      "Devil_May_Cry_4_Special_Edition"
     ],
     "name": "Devil May Cry 4 Special Edition"
   },
@@ -21434,20 +21319,6 @@
       "Cars"
     ],
     "name": "Disney\u2022Pixar Cars"
-  },
-  "33120": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "Alien_Shooter_2"
-    ],
-    "name": "Alien Shooter 2: Reloaded"
   },
   "3314070": {
     "config_count": 1,
@@ -21505,7 +21376,7 @@
     "name": "Tom Clancy S Splinter Cell Conviction"
   },
   "33230": {
-    "config_count": 18,
+    "config_count": 14,
     "devices": [
       {
         "d": "G615_MC2",
@@ -21523,24 +21394,9 @@
         "s": "Adreno (TM) 650"
       },
       {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      },
-      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "G780G",
-        "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
       }
     ],
     "folders": [
@@ -21549,13 +21405,12 @@
       "Assassin_s_Creed__II",
       "AssassinsCreedIIGame",
       "Assassin_s_Creed_2",
-      "AssassinsCreedII",
       "Assassins_Creed_II"
     ],
     "name": "Assassin's Creed 2"
   },
   "332800": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__618",
@@ -21564,6 +21419,7 @@
       }
     ],
     "folders": [
+      "FiveNightsatFreddys_3",
       "Five_Nights_At_Freddys_2"
     ],
     "name": "Five Nights at Freddy's 2"
@@ -21741,14 +21597,6 @@
       "citadel"
     ],
     "name": "Beyond Citadel"
-  },
-  "3372630": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "PlagueProject"
-    ],
-    "name": "Project Plague"
   },
   "337320": {
     "config_count": 1,
@@ -22031,28 +21879,6 @@
     ],
     "name": "EA SPORTS FC\u2122 26"
   },
-  "3406150": {
-    "config_count": 3,
-    "devices": [
-      {
-        "d": "Adreno__TM__750",
-        "m": "24117RK2CG",
-        "s": "Adreno (TM) 750"
-      }
-    ],
-    "folders": [
-      "GoWR"
-    ],
-    "name": "Old World - Wrath of Gods"
-  },
-  "3410": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Heavy_Weapon"
-    ],
-    "name": "Heavy Weapon Deluxe"
-  },
   "341940": {
     "config_count": 3,
     "devices": [
@@ -22324,7 +22150,7 @@
     "name": "SAMURAI WARRIORS 4-II"
   },
   "34870": {
-    "config_count": 6,
+    "config_count": 5,
     "devices": [
       {
         "d": "G720_MC7",
@@ -22340,17 +22166,11 @@
         "d": "Adreno__TM__840",
         "m": "I2501",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
       "Sniper_Ghost_Warrior_2",
-      "Sniper__Ghost_Warrior_2",
-      "SniperGhostWarrior2"
+      "Sniper__Ghost_Warrior_2"
     ],
     "name": "Sniper: Ghost Warrior 2"
   },
@@ -22595,7 +22415,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 27,
+    "config_count": 26,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -22651,7 +22471,6 @@
     "folders": [
       "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
       "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_Arkham_Asylum",
       "Batman__Arkham_Asylum_GOTY_Edition"
     ],
     "name": "Batman: Arkham Asylum Game of the Year Edition"
@@ -22774,20 +22593,6 @@
       "Aces_of_the_Luftwaffe"
     ],
     "name": "Aces of the Luftwaffe"
-  },
-  "354140": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__618",
-        "m": "M2007J20CG",
-        "s": "Adreno (TM) 618"
-      }
-    ],
-    "folders": [
-      "FiveNightsatFreddys_3"
-    ],
-    "name": "Five Nights at Freddy's 3"
   },
   "354160": {
     "config_count": 1,
@@ -23085,20 +22890,6 @@
     ],
     "name": "Bro, Did You Even Shower? 2 :The Ultimate Roast Game"
   },
-  "3580340": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__650",
-        "m": "M2007J3SY",
-        "s": "Adreno (TM) 650"
-      }
-    ],
-    "folders": [
-      "Existential_Treads"
-    ],
-    "name": "Ash & Adam's Existential Treads"
-  },
   "3587610": {
     "config_count": 1,
     "devices": [],
@@ -23385,6 +23176,14 @@
     ],
     "name": "Drift Legends 2"
   },
+  "3669870": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Control_Ultimate_Edition"
+    ],
+    "name": "CONTROL Resonant"
+  },
   "367450": {
     "config_count": 1,
     "devices": [],
@@ -23392,14 +23191,6 @@
       "Poly_Bridge"
     ],
     "name": "Poly Bridge"
-  },
-  "367480": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Batman_Arkham_Knight_-_Season_Pass"
-    ],
-    "name": "Batman\u2122: Arkham Knight Season Pass"
   },
   "367500": {
     "config_count": 4,
@@ -23759,7 +23550,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 38,
+    "config_count": 35,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -23822,29 +23613,19 @@
         "s": "Mali-G720 MC8"
       },
       {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
-      },
-      {
         "d": "Adreno__TM__735",
         "m": "NX9",
         "s": "Adreno (TM) 735"
       },
       {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "S928B",
+        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
@@ -23852,11 +23633,10 @@
       "DARK_SOULS",
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
-      "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
-      "DarkSoulsII",
       "DarkSoulsIII",
-      "Dark_Souls_III"
+      "Dark_Souls_III",
+      "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122 III"
   },
@@ -23875,16 +23655,22 @@
     "name": "Wasteland Bites"
   },
   "3751950": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [
       {
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "V2502",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
-      "bla"
+      "bla",
+      "Assassin_s_Creed"
     ],
     "name": "Assassin's Creed Black Flag Resynced"
   },
@@ -24719,20 +24505,6 @@
     ],
     "name": "TEKKEN 7"
   },
-  "3906660": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred 2 Remaster"
-  },
   "3909960": {
     "config_count": 1,
     "devices": [
@@ -25444,7 +25216,7 @@
     "name": "Portal"
   },
   "4000": {
-    "config_count": 10,
+    "config_count": 9,
     "devices": [
       {
         "d": "G57_MC2",
@@ -25849,14 +25621,6 @@
       "ZAT"
     ],
     "name": "Z.A.T.O. - Digital Art Pack"
-  },
-  "4123760": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Football_Life_2026"
-    ],
-    "name": "Football Life"
   },
   "413150": {
     "config_count": 5,
@@ -26548,21 +26312,11 @@
     "name": "Bruisers 2D Boxing Demo"
   },
   "4355320": {
-    "config_count": 15,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__740",
         "m": "S911B",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__640",
-        "m": "RMX1931",
-        "s": "Adreno (TM) 640"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "CPH2447",
         "s": "Adreno (TM) 740"
       }
     ],
@@ -26972,14 +26726,6 @@
       "Pub_Encounter"
     ],
     "name": "Pub Encounter"
-  },
-  "4475790": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Warband"
-    ],
-    "name": "Warband"
   },
   "447960": {
     "config_count": 1,
@@ -27545,11 +27291,10 @@
     "name": "Tom Clancy S Ghost Recon Wildlands - Predator Premium Pack"
   },
   "47890": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "The_Sims_3",
-      "Sims_3"
+      "The_Sims_3"
     ],
     "name": "The Sims\u2122 3"
   },
@@ -27670,7 +27415,7 @@
     "name": "Speak Demo"
   },
   "48190": {
-    "config_count": 23,
+    "config_count": 22,
     "devices": [
       {
         "d": "MT6789",
@@ -27716,17 +27461,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
-      },
-      {
-        "d": "Adreno__TM__618",
-        "m": "A725F",
-        "s": "Adreno (TM) 618"
       }
     ],
     "folders": [
       "Assassin_s_Creed__Brotherhood",
-      "Assassin_s_creed_brotherhood",
-      "AssassinsCreedBrotherhood"
+      "Assassin_s_creed_brotherhood"
     ],
     "name": "Assassin\u2019s Creed\u00ae Brotherhood"
   },
@@ -27775,7 +27514,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -27790,7 +27529,8 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband"
+      "Mount_Blade_Warband",
+      "Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -27838,7 +27578,7 @@
     "name": "Warhammer 40,000: Gladius - Relics of War"
   },
   "489830": {
-    "config_count": 63,
+    "config_count": 62,
     "devices": [
       {
         "d": "G615_MC6",
@@ -27960,7 +27700,6 @@
       "Skyrim_-_Special_Edition",
       "The_Elder_Scrolls_V__Skyrim",
       "The_Elder_Scrolls_V__Skyrim_Special_Edition",
-      "Skyrim",
       "The_Elder_Scrolls_V_-_Skyrim_Special_Edition"
     ],
     "name": "The Elder Scrolls V: Skyrim Special Edition"
@@ -28584,14 +28323,6 @@
     ],
     "name": "Dying Light 2 Stay Human: Reloaded Edition"
   },
-  "534550": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Guacamelee_2"
-    ],
-    "name": "Guacamelee! 2"
-  },
   "536270": {
     "config_count": 1,
     "devices": [],
@@ -28921,7 +28652,7 @@
     "name": "Brick Rigs"
   },
   "55230": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -28950,7 +28681,8 @@
       }
     ],
     "folders": [
-      "Saints_Row__The_Third"
+      "Saints_Row__The_Third",
+      "Saints_Row___The_Third__Remastered"
     ],
     "name": "Saints Row: The Third"
   },
@@ -29175,20 +28907,6 @@
     ],
     "name": "Tattletail"
   },
-  "568220": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "256",
-        "m": "8",
-        "s": "PowerVR B-Series BXM-8-256"
-      }
-    ],
-    "folders": [
-      "LobotomyCorp"
-    ],
-    "name": "Lobotomy Corporation | Monster Management Simulation"
-  },
   "568570": {
     "config_count": 1,
     "devices": [
@@ -29218,7 +28936,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 42,
+    "config_count": 39,
     "devices": [
       {
         "d": "G57",
@@ -29314,17 +29032,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
-      },
-      {
-        "d": "Adreno__TM__660",
-        "m": "S928B",
-        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
       "DARK_SOULS__REMASTERED",
-      "DARK_SOULS___REMASTERED",
-      "Dark_Souls_Remastered"
+      "DARK_SOULS___REMASTERED"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
   },
@@ -29521,23 +29233,17 @@
     "name": "Dead Cells"
   },
   "589090": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
-      },
-      {
-        "d": "Adreno__TM__735",
-        "m": "24069PC21G",
-        "s": "Adreno (TM) 735"
       }
     ],
     "folders": [
       "Counter-Strike_1_6__________________________________________",
-      "Counter_Strike_1_6__________________________________________",
-      "Counter-Strike_1_6"
+      "Counter_Strike_1_6__________________________________________"
     ],
     "name": "Fantasy Grounds - CS1 After Winter's Dark: Aihrde Setting (Castles & Crusades)"
   },
@@ -29597,7 +29303,7 @@
     "name": "Carcassonne - Tiles & Tactics"
   },
   "599140": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -29648,7 +29354,7 @@
     "name": "Attack on Titan 2 - A.O.T.2"
   },
   "601150": {
-    "config_count": 40,
+    "config_count": 37,
     "devices": [
       {
         "d": "unknown",
@@ -29729,16 +29435,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
-      },
-      {
-        "d": "Adreno__TM__710",
-        "m": "23122PCD1I",
-        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
       "Devil_May_Cry_5",
-      "DevilMayCry5",
+      "DEVIL_MAY_CRY_4",
       "Devil_May_Cry_V"
     ],
     "name": "Devil May Cry 5"
@@ -30286,7 +29987,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -30702,14 +30403,6 @@
       "UndeadDevelopment"
     ],
     "name": "Undead Development"
-  },
-  "683320": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GRIS"
-    ],
-    "name": "GRIS"
   },
   "6850": {
     "config_count": 1,
@@ -31492,11 +31185,10 @@
     "name": "Blasphemous"
   },
   "775500": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [],
     "folders": [
-      "SCARLET_NEXUS",
-      "Scarlet_Nexus"
+      "SCARLET_NEXUS"
     ],
     "name": "SCARLET NEXUS"
   },
@@ -32360,7 +32052,7 @@
     "name": "The Walking Dead: The Final Season"
   },
   "870780": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "CONTROL_Ultimate_Edition",
@@ -32659,16 +32351,8 @@
     ],
     "name": "Resident Evil 2"
   },
-  "8850": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Bioshock_2"
-    ],
-    "name": "BioShock\u00ae 2"
-  },
   "8870": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "G720_MC7",
@@ -32690,7 +32374,8 @@
       "BioShock",
       "BioShock_",
       "BioShock_Infinite",
-      "Bioshock"
+      "Bioshock",
+      "Bioshock_2"
     ],
     "name": "BioShock Infinite"
   },
@@ -32945,20 +32630,6 @@
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
-  "922050": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "DOOMBLADE"
-    ],
-    "name": "DOOMBLADE"
-  },
   "922320": {
     "config_count": 1,
     "devices": [
@@ -32974,7 +32645,7 @@
     "name": "Sniper 3D Assassin: Free to Play"
   },
   "934700": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -32989,8 +32660,7 @@
     ],
     "folders": [
       "Dead_Island",
-      "Dead_Island_2",
-      "DeadIsland"
+      "Dead_Island_2"
     ],
     "name": "Dead Island 2"
   },
@@ -33056,14 +32726,6 @@
       "Far_Cry__New_Dawn"
     ],
     "name": "Far Cry\u00ae New Dawn"
-  },
-  "940190": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Chuckie_Egg_3"
-    ],
-    "name": "Chuckie Egg 2017"
   },
   "940910": {
     "config_count": 1,
@@ -33628,14 +33290,6 @@
     ],
     "name": "Eastward"
   },
-  "978300": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Saints_Row___The_Third__Remastered"
-    ],
-    "name": "Saints Row\u00ae: The Third\u2122 Remastered"
-  },
   "978780": {
     "config_count": 3,
     "devices": [
@@ -33889,6 +33543,28 @@
     ],
     "name": "Aio Graphics Test 64Bit"
   },
+  "name:alan-wake-remastered": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Alan_Wake_Remastered"
+    ],
+    "name": "Alan Wake Remastered"
+  },
+  "name:alien-shooter-2": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Alien_Shooter_2"
+    ],
+    "name": "Alien Shooter 2"
+  },
   "name:am2r": {
     "config_count": 1,
     "devices": [
@@ -33935,6 +33611,49 @@
     ],
     "name": "Assassinscreed Dx9"
   },
+  "name:assassinscreedbrotherhood": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__618",
+        "m": "A725F",
+        "s": "Adreno (TM) 618"
+      }
+    ],
+    "folders": [
+      "AssassinsCreedBrotherhood"
+    ],
+    "name": "Assassinscreedbrotherhood"
+  },
+  "name:assassinscreedii": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "G780G",
+        "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      }
+    ],
+    "folders": [
+      "AssassinsCreedII"
+    ],
+    "name": "Assassinscreedii"
+  },
   "name:autoplay-menu-builder": {
     "config_count": 1,
     "devices": [],
@@ -33971,6 +33690,22 @@
     ],
     "name": "Avernum Escape From The Pit 1 01 Gog Directx"
   },
+  "name:batman-arkham-asylum": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Batman_Arkham_Asylum"
+    ],
+    "name": "Batman Arkham Asylum"
+  },
+  "name:batman-arkham-knight-season-pass": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Batman_Arkham_Knight_-_Season_Pass"
+    ],
+    "name": "Batman Arkham Knight Season Pass"
+  },
   "name:batmanac": {
     "config_count": 1,
     "devices": [],
@@ -33978,6 +33713,20 @@
       "BatmanAC"
     ],
     "name": "Batmanac"
+  },
+  "name:battleforthegrid": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__730",
+        "m": "2201123G",
+        "s": "Adreno (TM) 730"
+      }
+    ],
+    "folders": [
+      "BattleForTheGrid"
+    ],
+    "name": "Battleforthegrid"
   },
   "name:bbcf": {
     "config_count": 1,
@@ -34107,6 +33856,14 @@
     ],
     "name": "Blazblue Central Fiction"
   },
+  "name:blightstone": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Blightstone"
+    ],
+    "name": "Blightstone"
+  },
   "name:bmlauncher": {
     "config_count": 2,
     "devices": [
@@ -34135,6 +33892,28 @@
     ],
     "name": "Bootstrappackagedgame"
   },
+  "name:call-of-duty-black-ops": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Call_of_Duty_-_Black_Ops"
+    ],
+    "name": "Call Of Duty Black Ops"
+  },
+  "name:call-of-duty-black-ops-ii": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Call_of_Duty_-_Black_Ops_II"
+    ],
+    "name": "Call Of Duty Black Ops Ii"
+  },
   "name:castlevanialosue": {
     "config_count": 1,
     "devices": [],
@@ -34150,6 +33929,14 @@
       "CastlevaniaSOH"
     ],
     "name": "Castlevaniasoh"
+  },
+  "name:chuckie-egg-3": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Chuckie_Egg_3"
+    ],
+    "name": "Chuckie Egg 3"
   },
   "name:clientg": {
     "config_count": 1,
@@ -34233,6 +34020,28 @@
     ],
     "name": "Conviction Game"
   },
+  "name:counter-strike-1-6": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
+      }
+    ],
+    "folders": [
+      "Counter-Strike_1_6"
+    ],
+    "name": "Counter Strike 1 6"
+  },
+  "name:crysis-remastered": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Crysis_Remastered"
+    ],
+    "name": "Crysis Remastered"
+  },
   "name:crysis64": {
     "config_count": 1,
     "devices": [],
@@ -34263,6 +34072,61 @@
     ],
     "name": "Daorigins"
   },
+  "name:dark-souls-iii": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "DARK_SOULS__III"
+    ],
+    "name": "Dark Souls Iii"
+  },
+  "name:dark-souls-remastered": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
+      }
+    ],
+    "folders": [
+      "DARK_SOULS_-_REMASTERED"
+    ],
+    "name": "Dark Souls Remastered"
+  },
+  "name:darksoulsii": {
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
+      }
+    ],
+    "folders": [
+      "DarkSoulsII"
+    ],
+    "name": "Darksoulsii"
+  },
+  "name:darksoulsremastered": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
+      }
+    ],
+    "folders": [
+      "DarkSoulsRemastered"
+    ],
+    "name": "Darksoulsremastered"
+  },
   "name:dawn-of-war-soulstorm": {
     "config_count": 1,
     "devices": [],
@@ -34287,6 +34151,28 @@
     ],
     "name": "Dbxv"
   },
+  "name:dead-or-alive-5-last-round-core-fighters": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__720",
+        "m": "I2218",
+        "s": "Adreno (TM) 720"
+      }
+    ],
+    "folders": [
+      "DEAD_OR_ALIVE_5_Last_Round_-_Core_Fighters"
+    ],
+    "name": "Dead Or Alive 5 Last Round Core Fighters"
+  },
+  "name:deadisland": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "DeadIsland"
+    ],
+    "name": "Deadisland"
+  },
   "name:deus-ex-human-revolution-dc": {
     "config_count": 1,
     "devices": [],
@@ -34294,6 +34180,49 @@
       "Deus_Ex__Human_Revolution_DC"
     ],
     "name": "Deus Ex Human Revolution Dc"
+  },
+  "name:devilmaycry4specialedition": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "DevilMayCry4SpecialEdition"
+    ],
+    "name": "Devilmaycry4Specialedition"
+  },
+  "name:devilmaycry5": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "Adreno__TM__710",
+        "m": "23122PCD1I",
+        "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
+      }
+    ],
+    "folders": [
+      "DevilMayCry5"
+    ],
+    "name": "Devilmaycry5"
   },
   "name:dfbhd": {
     "config_count": 1,
@@ -34371,6 +34300,34 @@
     ],
     "name": "Discordsetup"
   },
+  "name:dmc-devil-may-cry": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "DmC_Devil_May_Cry"
+    ],
+    "name": "Dmc Devil May Cry"
+  },
+  "name:dmc-devilmaycry-2013": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2487",
+        "s": "Adreno (TM) 730"
+      }
+    ],
+    "folders": [
+      "DMC-DevilMayCry_2013"
+    ],
+    "name": "Dmc Devilmaycry 2013"
+  },
   "name:domesticlover": {
     "config_count": 1,
     "devices": [
@@ -34384,6 +34341,20 @@
       "DomesticLover"
     ],
     "name": "Domesticlover"
+  },
+  "name:doomblade": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "DOOMBLADE"
+    ],
+    "name": "Doomblade"
   },
   "name:dragon-ball-fighters-z": {
     "config_count": 1,
@@ -34408,6 +34379,14 @@
       "Driver_San_Francisco"
     ],
     "name": "Driver San Francisco"
+  },
+  "name:duckov": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Duckov"
+    ],
+    "name": "Duckov"
   },
   "name:dungeons-of-infinity": {
     "config_count": 1,
@@ -34525,6 +34504,20 @@
     ],
     "name": "eFootball 2021"
   },
+  "name:elden-ring": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "CPH2653",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "ELDEN_RING"
+    ],
+    "name": "Elden Ring"
+  },
   "name:emuteck-edition": {
     "config_count": 2,
     "devices": [
@@ -34570,6 +34563,34 @@
       "eurotrucks2"
     ],
     "name": "Eurotrucks2"
+  },
+  "name:existential-treads": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
+      }
+    ],
+    "folders": [
+      "Existential_Treads"
+    ],
+    "name": "Existential Treads"
+  },
+  "name:f1-2014": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
+      }
+    ],
+    "folders": [
+      "F1_2014"
+    ],
+    "name": "F1 2014"
   },
   "name:farmingsimulator2022game": {
     "config_count": 1,
@@ -34675,6 +34696,14 @@
     ],
     "name": "Final Fantasy 7 Steamrip Read Description"
   },
+  "name:football-life-2026": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Football_Life_2026"
+    ],
+    "name": "Football Life 2026"
+  },
   "name:frozen-throne": {
     "config_count": 1,
     "devices": [
@@ -34705,6 +34734,14 @@
     ],
     "name": "Gangland Freegog 2 0 0 7"
   },
+  "name:garry-s-mod": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Garry_s_Mod"
+    ],
+    "name": "Garry S Mod"
+  },
   "name:gavi-patch": {
     "config_count": 2,
     "devices": [],
@@ -34720,6 +34757,14 @@
       "GE2RB"
     ],
     "name": "Ge2Rb"
+  },
+  "name:gears-of-war-2": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Gears_of_War_2"
+    ],
+    "name": "Gears Of War 2"
   },
   "name:gears-of-war-2-hollow": {
     "config_count": 1,
@@ -34803,6 +34848,34 @@
     ],
     "name": "Gow2Hollow"
   },
+  "name:gowr": {
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "24117RK2CG",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "GoWR"
+    ],
+    "name": "Gowr"
+  },
+  "name:grand-theft-auto-iv": {
+    "config_count": 9,
+    "devices": [
+      {
+        "d": "Adreno__TM__735",
+        "m": "NX9",
+        "s": "Adreno (TM) 735"
+      }
+    ],
+    "folders": [
+      "Grand_Theft_Auto_IV"
+    ],
+    "name": "Grand Theft Auto Iv"
+  },
   "name:grandchasepatcher": {
     "config_count": 1,
     "devices": [
@@ -34817,6 +34890,20 @@
     ],
     "name": "Grandchasepatcher"
   },
+  "name:graveyard-keeper": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
+      }
+    ],
+    "folders": [
+      "Graveyard_Keeper"
+    ],
+    "name": "Graveyard Keeper"
+  },
   "name:gridautosport": {
     "config_count": 1,
     "devices": [
@@ -34830,6 +34917,14 @@
       "GRIDAutosport"
     ],
     "name": "Gridautosport"
+  },
+  "name:gris": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GRIS"
+    ],
+    "name": "Gris"
   },
   "name:gta-iv": {
     "config_count": 1,
@@ -34937,6 +35032,30 @@
     ],
     "name": "Gtavlauncher"
   },
+  "name:guacamelee-2": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Guacamelee_2"
+    ],
+    "name": "Guacamelee 2"
+  },
+  "name:heavy-weapon": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Heavy_Weapon"
+    ],
+    "name": "Heavy Weapon"
+  },
+  "name:heist": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Heist"
+    ],
+    "name": "Heist"
+  },
   "name:helloneighbor-win64-shipping": {
     "config_count": 1,
     "devices": [],
@@ -34952,6 +35071,25 @@
       "hoi4"
     ],
     "name": "Hoi4"
+  },
+  "name:hollow-knight-silksong": {
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "G610_MC2",
+        "m": "Mali",
+        "s": "Mali-G610 MC2"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "PLZ110",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "Hollow_Knight_Silksong"
+    ],
+    "name": "Hollow Knight Silksong"
   },
   "name:horizonchase2": {
     "config_count": 1,
@@ -34983,6 +35121,20 @@
     ],
     "name": "Internet Download Manager Idm"
   },
+  "name:into-the-dead-our-darkest-days": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__730",
+        "m": "ASUS_AI2201_C",
+        "s": "Adreno (TM) 730"
+      }
+    ],
+    "folders": [
+      "Into_the_Dead__Our_Darkest_Days"
+    ],
+    "name": "Into The Dead Our Darkest Days"
+  },
   "name:iw4sp": {
     "config_count": 3,
     "devices": [
@@ -35012,6 +35164,28 @@
       "JUMP_FORCE"
     ],
     "name": "Jump Force"
+  },
+  "name:kena-bridge-of-spirits": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Kena_Bridge_of_Spirits"
+    ],
+    "name": "Kena Bridge Of Spirits"
+  },
+  "name:kiborg": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "Kiborg"
+    ],
+    "name": "Kiborg"
   },
   "name:kinebox": {
     "config_count": 1,
@@ -35043,6 +35217,14 @@
     ],
     "name": "Kofxv Steam"
   },
+  "name:launcher": {
+    "config_count": 7,
+    "devices": [],
+    "folders": [
+      "Launcher"
+    ],
+    "name": "Launcher"
+  },
   "name:legobatmanlotdk": {
     "config_count": 1,
     "devices": [],
@@ -35064,6 +35246,20 @@
       "Little_Nightmares_Enhanced"
     ],
     "name": "Little Nightmares Enhanced"
+  },
+  "name:lobotomycorp": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "256",
+        "m": "8",
+        "s": "PowerVR B-Series BXM-8-256"
+      }
+    ],
+    "folders": [
+      "LobotomyCorp"
+    ],
+    "name": "Lobotomycorp"
   },
   "name:lunaabyss-wingdk-shipping": {
     "config_count": 1,
@@ -35249,6 +35445,14 @@
     ],
     "name": "Nba2K23"
   },
+  "name:need-for-speed-2005": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Need_for_speed__2005_"
+    ],
+    "name": "Need For Speed 2005"
+  },
   "name:need-for-speed-black-edition": {
     "config_count": 1,
     "devices": [
@@ -35262,6 +35466,14 @@
       "Need_for_Speed_Black_Edition_"
     ],
     "name": "Need For Speed Black Edition"
+  },
+  "name:need-for-speed-most-wanted-2005": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Need_for_Speed__Most_Wanted_2005"
+    ],
+    "name": "Need For Speed Most Wanted 2005"
   },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 1,
@@ -35492,6 +35704,20 @@
       "Oblivion_Lost_Remake"
     ],
     "name": "Oblivion Lost Remake"
+  },
+  "name:ori-and-the-will-of-the-wisps": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Ori_and_the_will_of_the_wisps"
+    ],
+    "name": "Ori And The Will Of The Wisps"
   },
   "name:oriwotw": {
     "config_count": 1,
@@ -37244,6 +37470,14 @@
     ],
     "name": "Pkhdgame Win32 Shipping"
   },
+  "name:plagueproject": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "PlagueProject"
+    ],
+    "name": "Plagueproject"
+  },
   "name:playrdr": {
     "config_count": 4,
     "devices": [],
@@ -37259,6 +37493,20 @@
       "Polaris-Win64-Shipping"
     ],
     "name": "Polaris Win64 Shipping"
+  },
+  "name:pools": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
+      }
+    ],
+    "folders": [
+      "POOLS"
+    ],
+    "name": "Pools"
   },
   "name:postal2-copy": {
     "config_count": 1,
@@ -37453,6 +37701,28 @@
     ],
     "name": "Rungame"
   },
+  "name:sacred": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred"
+  },
+  "name:scarlet-nexus": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Scarlet_Nexus"
+    ],
+    "name": "Scarlet Nexus"
+  },
   "name:sdhdship": {
     "config_count": 2,
     "devices": [
@@ -37511,6 +37781,22 @@
     ],
     "name": "Shproto"
   },
+  "name:sims-3": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sims_3"
+    ],
+    "name": "Sims 3"
+  },
+  "name:skyrim": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Skyrim"
+    ],
+    "name": "Skyrim"
+  },
   "name:skyrimse": {
     "config_count": 2,
     "devices": [],
@@ -37526,6 +37812,42 @@
       "Snapshot__Lewd_Shores"
     ],
     "name": "Snapshot Lewd Shores"
+  },
+  "name:sniperelite3": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "SniperElite3"
+    ],
+    "name": "Sniperelite3"
+  },
+  "name:sniperghostwarrior2": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "SniperGhostWarrior2"
+    ],
+    "name": "Sniperghostwarrior2"
+  },
+  "name:snowrunner": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "SnowRunner"
+    ],
+    "name": "Snowrunner"
   },
   "name:sottr": {
     "config_count": 2,
@@ -37565,6 +37887,28 @@
       "SpecOpsTheLine"
     ],
     "name": "Specopstheline"
+  },
+  "name:speed": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Speed"
+    ],
+    "name": "Speed"
+  },
+  "name:spider-man": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__730",
+        "m": "motorola_edge_30_ultra",
+        "s": "Adreno (TM) 730"
+      }
+    ],
+    "folders": [
+      "Spider-Man"
+    ],
+    "name": "Spider Man"
   },
   "name:sr-hv": {
     "config_count": 1,
@@ -37715,6 +38059,14 @@
     ],
     "name": "The Amazing Spider Man 2"
   },
+  "name:the-binding-of-isaac-rep": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "the_binding__of_isaac_rep_"
+    ],
+    "name": "The Binding Of Isaac Rep"
+  },
   "name:the-lust-voyage": {
     "config_count": 1,
     "devices": [],
@@ -37786,6 +38138,14 @@
       "Tpp_main_win64"
     ],
     "name": "Tpp Main Win64"
+  },
+  "name:tra": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "tra"
+    ],
+    "name": "Tra"
   },
   "name:trail-of-cold-steel-3-x86": {
     "config_count": 1,
