@@ -1,16 +1,16 @@
-raw folders: 2505   total configs: 13327
+raw folders: 2507   total configs: 13329
 non-game (filtered out): 131
-MERGED canonical games (have appid): 1842
-  folders collapsed by merge: 578
-still-unresolved real games (no appid): 572
-GAME-COUNT RATE: 1842/2414 = 76%  (vs 67% raw baseline)
-CONFIG-COVERAGE (matters for matching): 13091/14104 = 93%
+MERGED canonical games (have appid): 2110
+  folders collapsed by merge: 423
+still-unresolved real games (no appid): 573
+GAME-COUNT RATE: 2110/2683 = 79%  (vs 67% raw baseline)
+CONFIG-COVERAGE (matters for matching): 13093/14107 = 93%
 top-merged examples:
   appid 1665460: 20 folders, 92 configs, 24 devices  ['PES', 'PES_13', 'PES_2013']
   appid name:pes-2013: 16 folders, 2654 configs, 182 devices  ['PES2013', 'PES_2013_Fix', 'PES_2013_LEND_RIO_']
-  appid 1506830: 14 folders, 87 configs, 32 devices  ['FIFA_06_____________________________________________________', 'FIFA_13', 'FIFA_14']
-  appid 3240220: 13 folders, 1314 configs, 214 devices  ['Grand_Theft_Auto_5', 'Grand_Theft_Auto_V', 'Grand_Theft_Auto_V_']
-  appid 1262560: 13 folders, 48 configs, 18 devices  ['Need_For_Speed__Most_Wanted__2005_', 'Need_for_Speed_-_Most_Wanted________________________________', 'Need_for_Speed_Most_Wanted']
-  appid 374320: 9 folders, 38 configs, 17 devices  ['DARKSOULS', 'DARK_SOULS', 'DARK_SOULS__III']
-  appid 2424420: 8 folders, 17 configs, 10 devices  ['Avatar', 'Avatar_Legends__The_Fighting_Game', 'Avatar_Legends___The_Fighting_Game']
-  appid 33230: 7 folders, 18 configs, 7 devices  ['Assassin_s_Creed_II', 'Assassin_s_Creed_II_________________________________________', 'Assassin_s_Creed__II']
+  appid 1506830: 12 folders, 82 configs, 31 devices  ['FIFA_06_____________________________________________________', 'FIFA_13', 'FIFA_14']
+  appid 3240220: 10 folders, 1294 configs, 212 devices  ['Grand_Theft_Auto_5', 'Grand_Theft_Auto_V', 'Grand_Theft_Auto_V_']
+  appid 2424420: 7 folders, 16 configs, 10 devices  ['Avatar', 'Avatar_Legends__The_Fighting_Game', 'Avatar_Legends___The_Fighting_Game']
+  appid 1262560: 7 folders, 40 configs, 16 devices  ['Need_For_Speed__Most_Wanted__2005_', 'Need_for_Speed_-_Most_Wanted________________________________', 'Need_for_Speed_Most_Wanted']
+  appid 4100940: 6 folders, 7 configs, 4 devices  ['Poppy_Playtime_Chapter_5', 'Poppy_Playtime_Chapter__5', 'Poppy_Playtime_chapter_5_']
+  appid 21690: 6 folders, 90 configs, 25 devices  ['RESIDENT_EVIL_5', 'Resident_Evil_5', 'Resident_Evil_5_']
