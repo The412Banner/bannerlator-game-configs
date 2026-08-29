@@ -433,7 +433,7 @@
     "name": "Torque Drift"
   },
   "1030300": {
-    "config_count": 44,
+    "config_count": 45,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -514,6 +514,11 @@
         "d": "G76",
         "m": "Mali",
         "s": "Mali-G76"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       },
       {
         "d": "G610_MC2",
@@ -5870,7 +5875,7 @@
     "name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition"
   },
   "1547000": {
-    "config_count": 30,
+    "config_count": 31,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -13468,7 +13473,7 @@
     "name": "Military Tanks"
   },
   "234670": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "G68_MC4",
@@ -13499,6 +13504,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       },
       {
         "d": "Adreno__TM__610",
@@ -14993,7 +15003,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 26,
+    "config_count": 25,
     "devices": [
       {
         "d": "A075M",
@@ -15057,8 +15067,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes",
-      "LEGOMARVEL"
+      "LEGO__Marvel__Super_Heroes"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -15699,6 +15708,20 @@
       "1954_Alcatraz"
     ],
     "name": "1954 Alcatraz"
+  },
+  "255710": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      }
+    ],
+    "folders": [
+      "Cities__Skylines"
+    ],
+    "name": "Cities: Skylines"
   },
   "2558620": {
     "config_count": 2,
@@ -18706,7 +18729,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -18725,7 +18748,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -18987,7 +19011,7 @@
     "name": "Portrait of a Torn"
   },
   "3059520": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "G57_MC2",
@@ -19008,6 +19032,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       },
       {
         "d": "Adreno__TM__650",
@@ -27131,14 +27160,6 @@
     ],
     "name": "Pub Encounter"
   },
-  "4475790": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Warband"
-    ],
-    "name": "Warband"
-  },
   "447960": {
     "config_count": 1,
     "devices": [
@@ -27933,7 +27954,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -27948,7 +27969,8 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband"
+      "Mount_Blade_Warband",
+      "Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -30445,7 +30467,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -33091,7 +33113,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -33110,8 +33132,7 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },

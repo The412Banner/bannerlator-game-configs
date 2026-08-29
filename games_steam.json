@@ -1379,6 +1379,12 @@
     "appid": null,
     "method": "unresolved"
   },
+  "Cities__Skylines": {
+    "appid": 255710,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/255710/header.jpg",
+    "method": "naive",
+    "steam_name": "Cities: Skylines"
+  },
   "Clair_Obscur__Expedition_33": {
     "appid": 1903340,
     "method": "naive",
@@ -3626,6 +3632,10 @@
     "method": "non-game"
   },
   "GTA_VI": {
+    "appid": null,
+    "method": "unresolved"
+  },
+  "GTA_V_Language_Changer": {
     "appid": null,
     "method": "unresolved"
   },
