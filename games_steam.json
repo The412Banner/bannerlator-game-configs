@@ -1357,7 +1357,6 @@
   },
   "Christmas_Massacre": {
     "appid": 1840490,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1840490/header.jpg",
     "method": "naive",
     "steam_name": "Christmas Massacre"
   },
@@ -6786,6 +6785,10 @@
     "appid": 1665460,
     "method": "naive",
     "steam_name": "eFootball\u2122"
+  },
+  "PES13_": {
+    "appid": null,
+    "method": "unresolved"
   },
   "PES2008": {
     "appid": null,
