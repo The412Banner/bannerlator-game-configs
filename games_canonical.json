@@ -1434,7 +1434,7 @@
     "name": "People Playground"
   },
   "1118272": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__618",
@@ -1443,7 +1443,6 @@
       }
     ],
     "folders": [
-      "DiRT_3",
       "dirt_3"
     ],
     "name": "DiRT Rally 2.0 - Peugeot 306 Maxi"
@@ -4508,14 +4507,6 @@
       "DRACU-RIOT_"
     ],
     "name": "DRACU-RIOT!"
-  },
-  "1340720": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "StateOfDecay"
-    ],
-    "name": "State of Decay 3"
   },
   "1343240": {
     "config_count": 1,
@@ -14002,7 +13993,7 @@
     "name": "Thief"
   },
   "239250": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -14033,6 +14024,11 @@
         "d": "Adreno__TM__830",
         "m": "N49",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "2510EPC8BG",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
@@ -19997,7 +19993,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1325,
+    "config_count": 1326,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -27076,14 +27072,6 @@
     ],
     "name": "Pub Encounter"
   },
-  "4475790": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Warband"
-    ],
-    "name": "Warband"
-  },
   "447960": {
     "config_count": 1,
     "devices": [
@@ -27878,7 +27866,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -27893,7 +27881,8 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband"
+      "Mount_Blade_Warband",
+      "Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -28172,7 +28161,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -28196,7 +28185,8 @@
       }
     ],
     "folders": [
-      "State_of_Decay_2__Juggernaut_Edition"
+      "State_of_Decay_2__Juggernaut_Edition",
+      "StateOfDecay"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
   },
@@ -28837,7 +28827,7 @@
     "name": "RAGE 2"
   },
   "550": {
-    "config_count": 58,
+    "config_count": 59,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -28905,11 +28895,6 @@
         "s": "Mali-G610 MC6"
       },
       {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "M2007J3SY",
         "s": "Adreno (TM) 650"
@@ -28933,6 +28918,11 @@
         "d": "Adreno__TM__740",
         "m": "23113RKC6G",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       },
       {
         "d": "Adreno__TM__730",
