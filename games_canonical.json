@@ -4729,7 +4729,7 @@
     "name": "NINJA GAIDEN 3: Razor's Edge [NINJA GAIDEN: Master Collection]"
   },
   "1371980": {
-    "config_count": 5,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -4745,12 +4745,18 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "CPH2447",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "No_Rest_for_the_Wicked",
       "RE4",
-      "Re4"
+      "Re4",
+      "re4"
     ],
     "name": "No Rest for the Wicked"
   },
@@ -8466,7 +8472,7 @@
     "name": "Baladins"
   },
   "1868140": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -8477,6 +8483,11 @@
         "d": "Adreno__TM__830",
         "m": "S938B",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       }
     ],
     "folders": [
@@ -10979,6 +10990,14 @@
     ],
     "name": "Backrooms: Escape Together"
   },
+  "2141910": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "The"
+    ],
+    "name": "Magic: The Gathering Arena"
+  },
   "2142790": {
     "config_count": 2,
     "devices": [
@@ -12183,7 +12202,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 16,
+    "config_count": 13,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12217,9 +12236,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -12561,7 +12578,7 @@
     "name": "Squirrel Launcher"
   },
   "2254890": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC8",
@@ -17851,7 +17868,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 34,
     "devices": [
       {
         "d": "G615_MC2",
@@ -17891,7 +17908,9 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -18112,12 +18131,17 @@
     "name": "FINAL FANTASY VII REBIRTH"
   },
   "291550": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
         "m": "motorola_edge_30_pro",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
@@ -19642,8 +19666,13 @@
     "name": "Laundry Store Simulator"
   },
   "3156330": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
+      },
       {
         "d": "Adreno__TM__750",
         "m": "Pocket_FIT",
@@ -20065,7 +20094,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1330,
+    "config_count": 1331,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24156,7 +24185,7 @@
     "name": "SpiritVale"
   },
   "3768760": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -24187,6 +24216,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "F946B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -27160,6 +27194,14 @@
     ],
     "name": "Pub Encounter"
   },
+  "4475790": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Warband"
+    ],
+    "name": "Warband"
+  },
   "447960": {
     "config_count": 1,
     "devices": [
@@ -27387,17 +27429,10 @@
     "name": "Halo Wars: Definitive Edition"
   },
   "4600470": {
-    "config_count": 7,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "CPH2447",
-        "s": "Adreno (TM) 740"
-      }
-    ],
+    "config_count": 1,
+    "devices": [],
     "folders": [
-      "RE_6",
-      "re4"
+      "RE_6"
     ],
     "name": "Season 4 Battlefield Pro - Battlefield\u2122 6 and REDSEC"
   },
@@ -27954,7 +27989,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -27969,8 +28004,7 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband",
-      "Warband"
+      "Mount_Blade_Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -32886,7 +32920,7 @@
     "name": "BioShock Infinite"
   },
   "892970": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G615_MC2",
@@ -35810,7 +35844,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2668,
+    "config_count": 2669,
     "devices": [
       {
         "d": "G52_MC2",
@@ -36538,11 +36572,6 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      },
-      {
         "d": "Ultra_MC12",
         "m": "G1",
         "s": "Mali-G1-Ultra MC12"
@@ -36691,6 +36720,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       },
       {
         "d": "Adreno__TM__740",
