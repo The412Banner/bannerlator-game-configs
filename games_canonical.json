@@ -5409,7 +5409,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 87,
+    "config_count": 88,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -5500,6 +5500,11 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "G780G",
+        "s": "Adreno (TM) 650"
       },
       {
         "d": "SM8750",
@@ -5817,7 +5822,7 @@
     "name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition"
   },
   "1547000": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -8269,6 +8274,20 @@
       "HiFi_Rush"
     ],
     "name": "Hi-Fi RUSH"
+  },
+  "1840490": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "Christmas_Massacre"
+    ],
+    "name": "Christmas Massacre"
   },
   "1845250": {
     "config_count": 1,
@@ -12095,7 +12114,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 16,
+    "config_count": 15,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12130,8 +12149,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -12442,8 +12460,13 @@
     "name": "Tomb Raider II (1997)"
   },
   "2254490": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      },
       {
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
@@ -14900,7 +14923,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 24,
+    "config_count": 25,
     "devices": [
       {
         "d": "A075M",
@@ -14943,11 +14966,6 @@
         "s": "Mali-G57"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__640",
         "m": "M2102J20SG",
         "s": "Adreno (TM) 640"
@@ -14961,6 +14979,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -17734,7 +17757,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -17774,7 +17797,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -27008,6 +27032,14 @@
     ],
     "name": "Pub Encounter"
   },
+  "4475790": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Warband"
+    ],
+    "name": "Warband"
+  },
   "447960": {
     "config_count": 1,
     "devices": [
@@ -27802,7 +27834,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -27817,8 +27849,7 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband",
-      "Warband"
+      "Mount_Blade_Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
