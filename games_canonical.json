@@ -2314,20 +2314,6 @@
     ],
     "name": "A Space for the Unbound"
   },
-  "1203170": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
-      }
-    ],
-    "folders": [
-      "Darksiders"
-    ],
-    "name": "Darksiders 4"
-  },
   "1203220": {
     "config_count": 2,
     "devices": [
@@ -4729,7 +4715,7 @@
     "name": "NINJA GAIDEN 3: Razor's Edge [NINJA GAIDEN: Master Collection]"
   },
   "1371980": {
-    "config_count": 11,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -4745,18 +4731,12 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "CPH2447",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "No_Rest_for_the_Wicked",
       "RE4",
-      "Re4",
-      "re4"
+      "Re4"
     ],
     "name": "No Rest for the Wicked"
   },
@@ -10989,14 +10969,6 @@
       "Backrooms__Escape_Together"
     ],
     "name": "Backrooms: Escape Together"
-  },
-  "2141910": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "The"
-    ],
-    "name": "Magic: The Gathering Arena"
   },
   "2142790": {
     "config_count": 2,
@@ -17924,7 +17896,7 @@
     "name": "Metro: Last Light Redux"
   },
   "287700": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "MT6789",
@@ -18953,7 +18925,7 @@
     "name": "Unturned"
   },
   "3050220": {
-    "config_count": 24,
+    "config_count": 25,
     "devices": [
       {
         "d": "2412DPC0AG",
@@ -27429,10 +27401,17 @@
     "name": "Halo Wars: Definitive Edition"
   },
   "4600470": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 7,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "CPH2447",
+        "s": "Adreno (TM) 740"
+      }
+    ],
     "folders": [
-      "RE_6"
+      "RE_6",
+      "re4"
     ],
     "name": "Season 4 Battlefield Pro - Battlefield\u2122 6 and REDSEC"
   },
@@ -31164,7 +31143,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -31180,6 +31159,11 @@
         "d": "Adreno__TM__A32",
         "m": "Pocket_Fit_G3_Gen3",
         "s": "Adreno (TM) A32"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
