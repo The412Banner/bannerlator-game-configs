@@ -12187,7 +12187,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 15,
+    "config_count": 13,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12221,8 +12221,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -17860,7 +17859,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 34,
     "devices": [
       {
         "d": "G615_MC2",
@@ -17901,6 +17900,7 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
+      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -19979,6 +19979,20 @@
       "Super_Woden_Rally_Edge"
     ],
     "name": "Super Woden: Rally Edge"
+  },
+  "3219630": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "256",
+        "m": "8",
+        "s": "PowerVR B-Series BXM-8-256"
+      }
+    ],
+    "folders": [
+      "Game"
+    ],
+    "name": "Halloween: The Game"
   },
   "322170": {
     "config_count": 1,
