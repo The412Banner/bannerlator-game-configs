@@ -546,7 +546,7 @@
     "name": "Hollow Knight: Silksong"
   },
   "1030830": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "G57_MC2",
@@ -16643,7 +16643,7 @@
     "name": "Outbound"
   },
   "268910": {
-    "config_count": 36,
+    "config_count": 38,
     "devices": [
       {
         "d": "23043RP34G",
@@ -16659,11 +16659,6 @@
         "d": "Adreno__TM__650",
         "m": "23043RP34G",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
       },
       {
         "d": "G68_MC4",
@@ -16729,6 +16724,11 @@
         "d": "Adreno__TM__610",
         "m": "RMX5555",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       }
     ],
     "folders": [
@@ -32072,12 +32072,17 @@
     "name": "Disgaea 5 Complete"
   },
   "805550": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "TB322FC",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "S928B",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
