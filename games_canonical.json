@@ -18744,7 +18744,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -18763,7 +18763,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -19704,7 +19705,7 @@
     "name": "Assassin\u2019s Creed Shadows"
   },
   "3164500": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "G52",
@@ -19720,6 +19721,11 @@
         "d": "256",
         "m": "8",
         "s": "PowerVR B-Series BXM-8-256"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "V2061",
+        "s": "Adreno (TM) 618"
       }
     ],
     "folders": [
@@ -23938,7 +23944,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 39,
+    "config_count": 38,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -33147,7 +33153,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -33166,8 +33172,7 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -35845,7 +35850,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2669,
+    "config_count": 2673,
     "devices": [
       {
         "d": "G52_MC2",
