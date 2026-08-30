@@ -11780,7 +11780,7 @@
     "name": "Far Cry 3"
   },
   "220440": {
-    "config_count": 32,
+    "config_count": 33,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -12220,7 +12220,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 16,
+    "config_count": 13,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12254,9 +12254,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -17909,7 +17907,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 34,
     "devices": [
       {
         "d": "G615_MC2",
@@ -17949,7 +17947,9 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -29768,12 +29768,17 @@
     "name": "Sonic Mania"
   },
   "585420": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "RMX6699",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G610_MC3",
+        "m": "Mali",
+        "s": "Mali-G610 MC3"
       },
       {
         "d": "Adreno__TM__710",
@@ -37514,6 +37519,14 @@
       "pes2014"
     ],
     "name": "Pes2014"
+  },
+  "name:pes2015": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "PES2015"
+    ],
+    "name": "Pes2015"
   },
   "name:pes2016": {
     "config_count": 2,
