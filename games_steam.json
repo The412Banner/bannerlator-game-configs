@@ -367,7 +367,6 @@
   },
   "Assassin_S_creed_3_": {
     "appid": 3159330,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3159330/header.jpg",
     "method": "fuzzy",
     "steam_name": "Assassin\u2019s Creed Shadows"
   },
@@ -3656,6 +3655,12 @@
   "GTA_V_Launcher_Done": {
     "appid": null,
     "method": "non-game"
+  },
+  "GTR2": {
+    "appid": 8790,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/8790/header.jpg",
+    "method": "naive",
+    "steam_name": "GTR 2 FIA GT Racing Game"
   },
   "GT_Legends": {
     "appid": 44690,

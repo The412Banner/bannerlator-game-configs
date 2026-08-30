@@ -285,7 +285,7 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 2 (2009)"
   },
   "1020790": {
-    "config_count": 44,
+    "config_count": 45,
     "devices": [
       {
         "d": "SM8850",
@@ -328,11 +328,6 @@
         "s": "Adreno (TM) 740"
       },
       {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      },
-      {
         "d": "G610_MC6",
         "m": "Mali",
         "s": "Mali-G610 MC6"
@@ -371,6 +366,11 @@
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       }
     ],
     "folders": [
@@ -11351,7 +11351,7 @@
     "name": "Warhammer 40,000: Space Marine 2"
   },
   "2184260": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -18744,7 +18744,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -18763,8 +18763,7 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -19699,8 +19698,8 @@
       }
     ],
     "folders": [
-      "Assassin_s_Creed_________",
       "Assassin_S_creed_3_",
+      "Assassin_s_Creed_________",
       "Assassin_s_Creed"
     ],
     "name": "Assassin\u2019s Creed Shadows"
@@ -32647,6 +32646,14 @@
     ],
     "name": "Shenmue III"
   },
+  "8790": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GTR2"
+    ],
+    "name": "GTR 2 FIA GT Racing Game"
+  },
   "881100": {
     "config_count": 2,
     "devices": [],
@@ -33171,7 +33178,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G615_MC6",
@@ -33190,7 +33197,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
