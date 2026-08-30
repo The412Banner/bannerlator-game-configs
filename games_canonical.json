@@ -1306,16 +1306,22 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__730",
         "m": "2201123G",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
       "BattleForTheGrid",
+      "GRID",
       "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
@@ -6870,7 +6876,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 92,
+    "config_count": 93,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -15032,7 +15038,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "A075M",
@@ -15096,7 +15102,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes"
+      "LEGO__Marvel__Super_Heroes",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -18777,7 +18784,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -18796,7 +18803,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -20147,7 +20155,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1337,
+    "config_count": 1338,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -23588,22 +23596,16 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
-      "Off_The_Grid",
-      "GRID"
+      "Off_The_Grid"
     ],
     "name": "Off The Grid"
   },
@@ -25393,13 +25395,8 @@
     "name": "MDS: Metro dispatcher simulator"
   },
   "391720": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
       {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_5",
@@ -25446,6 +25443,11 @@
         "s": "Adreno (TM) 735"
       },
       {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
         "d": "Adreno__TM__642L",
         "m": "22101320G",
         "s": "Adreno (TM) 642L"
@@ -25457,7 +25459,6 @@
       }
     ],
     "folders": [
-      "2016",
       "____2016"
     ],
     "name": "Layers of Fear (2016)"
@@ -26724,12 +26725,17 @@
     "name": "Factorio"
   },
   "429050": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       }
     ],
     "folders": [
@@ -30587,7 +30593,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -33247,7 +33253,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -33266,8 +33272,7 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -38069,6 +38074,20 @@
       "The_Sims_2_Launcher"
     ],
     "name": "The Sims 2 Launcher"
+  },
+  "name:thps12": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "THPS12"
+    ],
+    "name": "Thps12"
   },
   "name:tjoc-halloween": {
     "config_count": 1,
