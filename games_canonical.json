@@ -967,12 +967,17 @@
     "name": "Marvel's Guardians of the Galaxy"
   },
   "1089090": {
-    "config_count": 2,
+    "config_count": 5,
     "devices": [
       {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Immortalis_MC11",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC11"
       }
     ],
     "folders": [
@@ -9500,7 +9505,7 @@
     "name": "Assassin's Creed\u00ae Revelations"
   },
   "202170": {
-    "config_count": 63,
+    "config_count": 65,
     "devices": [
       {
         "d": "MT6878",
@@ -9631,6 +9636,11 @@
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__613",
+        "m": "23076RN4BI",
+        "s": "Adreno (TM) 613"
       },
       {
         "d": "Adreno__TM__830",
@@ -18784,7 +18794,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -18803,8 +18813,7 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -20155,7 +20164,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1340,
+    "config_count": 1339,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -33260,7 +33269,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G615_MC6",
@@ -33279,7 +33288,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -35965,7 +35975,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2675,
+    "config_count": 2676,
     "devices": [
       {
         "d": "G52_MC2",
