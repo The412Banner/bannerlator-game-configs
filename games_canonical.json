@@ -1306,22 +1306,16 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
         "m": "2201123G",
         "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
       "BattleForTheGrid",
-      "GRID",
       "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
@@ -7132,6 +7126,14 @@
       "Minecraft_Dungeons"
     ],
     "name": "Minecraft Dungeons"
+  },
+  "1675200": {
+    "config_count": 3,
+    "devices": [],
+    "folders": [
+      "Steam"
+    ],
+    "name": "Steam Deck"
   },
   "1676840": {
     "config_count": 1,
@@ -23590,16 +23592,22 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
-      "Off_The_Grid"
+      "Off_The_Grid",
+      "GRID"
     ],
     "name": "Off The Grid"
   },
@@ -26298,14 +26306,6 @@
     ],
     "name": "My Winter Car"
   },
-  "4165910": {
-    "config_count": 3,
-    "devices": [],
-    "folders": [
-      "Steam"
-    ],
-    "name": "Steam Machine"
-  },
   "418240": {
     "config_count": 1,
     "devices": [],
@@ -27828,7 +27828,7 @@
     "name": "Tom Clancy S Ghost Recon Wildlands - Predator Premium Pack"
   },
   "47890": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "The_Sims_3",
