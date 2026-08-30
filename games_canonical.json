@@ -29929,7 +29929,7 @@
     "name": "Attack on Titan 2 - A.O.T.2"
   },
   "601150": {
-    "config_count": 40,
+    "config_count": 41,
     "devices": [
       {
         "d": "unknown",
@@ -30015,6 +30015,11 @@
         "d": "Adreno__TM__710",
         "m": "23122PCD1I",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__640",
+        "m": "M2102J20SG",
+        "s": "Adreno (TM) 640"
       }
     ],
     "folders": [
