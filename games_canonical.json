@@ -12187,7 +12187,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 16,
+    "config_count": 15,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12222,8 +12222,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -17861,7 +17860,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -17901,7 +17900,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -19690,7 +19690,7 @@
     "name": "Football Life Simulator"
   },
   "3159330": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__810",
@@ -19700,6 +19700,7 @@
     ],
     "folders": [
       "Assassin_s_Creed_________",
+      "Assassin_S_creed_3_",
       "Assassin_s_Creed"
     ],
     "name": "Assassin\u2019s Creed Shadows"
@@ -23949,7 +23950,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 38,
+    "config_count": 39,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -26162,7 +26163,7 @@
     "name": "DEAD OR ALIVE 6 Last Round"
   },
   "4145490": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -26178,6 +26179,11 @@
         "d": "Adreno__TM__740",
         "m": "S918N",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
       }
     ],
     "folders": [
@@ -32679,7 +32685,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 107,
+    "config_count": 108,
     "devices": [
       {
         "d": "s5e8855",
@@ -32892,7 +32898,8 @@
       "Resident_Evil_2_____________________________________________",
       "Resident_Evil_2__2019_",
       "Resident_Evil_2__DX11_",
-      "re2"
+      "re2",
+      "resident_evil_2"
     ],
     "name": "Resident Evil 2"
   },
