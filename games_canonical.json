@@ -2544,7 +2544,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 346,
+    "config_count": 347,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -2890,6 +2890,11 @@
         "d": "Adreno__TM__610",
         "m": "A057M",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "S948B",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__735",
@@ -4386,7 +4391,7 @@
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
   "1328670": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -7551,6 +7556,14 @@
       "Mirror_s_Edge"
     ],
     "name": "Mirror's Edge\u2122"
+  },
+  "17460": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Mass_Effect"
+    ],
+    "name": "Mass Effect (2007)"
   },
   "1746860": {
     "config_count": 1,
@@ -12222,7 +12235,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 13,
+    "config_count": 15,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12256,7 +12269,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -17909,7 +17923,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -17950,7 +17964,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -18794,7 +18807,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -18813,7 +18826,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -28439,7 +28453,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -28470,6 +28484,11 @@
         "d": "Adreno__TM__735",
         "m": "RMX3851",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "24117RK2CG",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -33269,7 +33288,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -33288,8 +33307,7 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -35975,7 +35993,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2676,
+    "config_count": 2678,
     "devices": [
       {
         "d": "G52_MC2",
