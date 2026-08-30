@@ -16355,7 +16355,7 @@
     "name": "RC Revolution: High Voltage - \u514d\u8d39\u73a9"
   },
   "2663530": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -19823,12 +19823,17 @@
     "name": "Mall Simulator"
   },
   "3183760": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
@@ -24833,7 +24838,7 @@
     "name": "Pacer"
   },
   "389730": {
-    "config_count": 38,
+    "config_count": 39,
     "devices": [
       {
         "d": "SM8850",
@@ -24924,11 +24929,17 @@
         "d": "Adreno__TM__840",
         "m": "S948B",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
       "TEKKEN_7",
       "TEKKEN7",
+      "Tekken7",
       "Tekken_7"
     ],
     "name": "TEKKEN 7"
@@ -34779,7 +34790,7 @@
     "name": "Ets2"
   },
   "name:eurotrucks2": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "G76",
