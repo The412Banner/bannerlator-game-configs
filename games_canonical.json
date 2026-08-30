@@ -3532,7 +3532,7 @@
     "name": "Jurassic World Evolution 2"
   },
   "1245620": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "SM8850",
@@ -3563,6 +3563,11 @@
         "d": "Adreno__TM__740",
         "m": "Odin2",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__840",
@@ -14632,8 +14637,14 @@
     "name": "S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition"
   },
   "242760": {
-    "config_count": 7,
-    "devices": [],
+    "config_count": 8,
+    "devices": [
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
+      }
+    ],
     "folders": [
       "TheForest",
       "The_Forest"
@@ -38085,7 +38096,7 @@
     "name": "Warcraft 2 Ru"
   },
   "name:warcraft-iii": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "Warcraft_III"
