@@ -1,16 +1,16 @@
-raw folders: 2518   total configs: 13430
+raw folders: 2519   total configs: 13431
 non-game (filtered out): 131
-MERGED canonical games (have appid): 1859
-  folders collapsed by merge: 584
+MERGED canonical games (have appid): 1900
+  folders collapsed by merge: 561
 still-unresolved real games (no appid): 577
-GAME-COUNT RATE: 1859/2436 = 76%  (vs 67% raw baseline)
-CONFIG-COVERAGE (matters for matching): 13224/14246 = 93%
+GAME-COUNT RATE: 1900/2477 = 77%  (vs 67% raw baseline)
+CONFIG-COVERAGE (matters for matching): 13226/14248 = 93%
 top-merged examples:
   appid 1665460: 20 folders, 92 configs, 24 devices  ['PES', 'PES_13', 'PES_2013']
   appid name:pes-2013: 16 folders, 2673 configs, 182 devices  ['PES2013', 'PES_2013_Fix', 'PES_2013_LEND_RIO_']
-  appid 1506830: 14 folders, 89 configs, 33 devices  ['FIFA_06_____________________________________________________', 'FIFA_13', 'FIFA_14']
-  appid 1262560: 13 folders, 48 configs, 18 devices  ['Need_For_Speed__Most_Wanted__2005_', 'Need_for_Speed_-_Most_Wanted________________________________', 'Need_for_Speed_Most_Wanted']
-  appid 3240220: 12 folders, 1332 configs, 215 devices  ['Grand_Theft_Auto_5', 'Grand_Theft_Auto_V', 'Grand_Theft_Auto_V_']
-  appid 374320: 9 folders, 39 configs, 17 devices  ['DARKSOULS', 'DARK_SOULS', 'DARK_SOULS__III']
-  appid 2424420: 8 folders, 17 configs, 10 devices  ['Avatar', 'Avatar_Legends__The_Fighting_Game', 'Avatar_Legends___The_Fighting_Game']
-  appid 33230: 7 folders, 18 configs, 7 devices  ['Assassin_s_Creed_II', 'Assassin_s_Creed_II_________________________________________', 'Assassin_s_Creed__II']
+  appid 1506830: 13 folders, 88 configs, 32 devices  ['FIFA_06_____________________________________________________', 'FIFA_13', 'FIFA_14']
+  appid 3240220: 11 folders, 1322 configs, 213 devices  ['Grand_Theft_Auto_5', 'Grand_Theft_Auto_V', 'Grand_Theft_Auto_V_']
+  appid 1262560: 9 folders, 44 configs, 17 devices  ['Need_For_Speed__Most_Wanted__2005_', 'Need_for_Speed_-_Most_Wanted________________________________', 'Need_for_Speed_Most_Wanted']
+  appid 374320: 8 folders, 37 configs, 16 devices  ['DARKSOULS', 'DARK_SOULS', 'DARK_SOULS__III']
+  appid 2424420: 7 folders, 16 configs, 10 devices  ['Avatar', 'Avatar_Legends__The_Fighting_Game', 'Avatar_Legends___The_Fighting_Game']
+  appid 447040: 7 folders, 56 configs, 21 devices  ['WatchDogs2', 'Watch_Dogs', 'Watch_Dogs_']
