@@ -1312,22 +1312,16 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
         "m": "2201123G",
         "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
       "BattleForTheGrid",
-      "GRID",
       "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
@@ -4571,14 +4565,6 @@
       "DRACU-RIOT_"
     ],
     "name": "DRACU-RIOT!"
-  },
-  "1340720": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "StateOfDecay"
-    ],
-    "name": "State of Decay 3"
   },
   "1343240": {
     "config_count": 1,
@@ -13781,16 +13767,22 @@
     "name": "DARK SOULS\u2122 II"
   },
   "2365810": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       }
     ],
     "folders": [
-      "pse"
+      "pse",
+      "PSE_2013"
     ],
     "name": "Pseudoregalia"
   },
@@ -23627,16 +23619,22 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
-      "Off_The_Grid"
+      "Off_The_Grid",
+      "GRID"
     ],
     "name": "Off The Grid"
   },
@@ -27316,6 +27314,14 @@
     ],
     "name": "Pub Encounter"
   },
+  "4475790": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Warband"
+    ],
+    "name": "Warband"
+  },
   "447960": {
     "config_count": 1,
     "devices": [
@@ -28110,7 +28116,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -28125,8 +28131,7 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband",
-      "Warband"
+      "Mount_Blade_Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -28411,7 +28416,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -28435,7 +28440,8 @@
       }
     ],
     "folders": [
-      "State_of_Decay_2__Juggernaut_Edition"
+      "State_of_Decay_2__Juggernaut_Edition",
+      "StateOfDecay"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
   },
@@ -35394,9 +35400,10 @@
     "name": "Iw6Sp64 Ship"
   },
   "name:jump-force": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [],
     "folders": [
+      "JUMP-FORCE",
       "JUMP_FORCE"
     ],
     "name": "Jump Force"
