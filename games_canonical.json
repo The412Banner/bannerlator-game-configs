@@ -638,14 +638,6 @@
     ],
     "name": "New Super Lucky's Tale"
   },
-  "1041320": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "LoK"
-    ],
-    "name": "Lords Mobile: Kingdom Wars"
-  },
   "1044720": {
     "config_count": 1,
     "devices": [
@@ -759,7 +751,7 @@
     "name": "Dinkum"
   },
   "1063040": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "G52_MC2",
@@ -778,7 +770,8 @@
       }
     ],
     "folders": [
-      "Ben_10__Power_Trip"
+      "Ben_10__Power_Trip",
+      "Ben_10_-_Power_Trip"
     ],
     "name": "Ben 10: Power Trip"
   },
@@ -3743,7 +3736,7 @@
     "name": "Party Animals"
   },
   "1262540": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G52_MC2",
@@ -3769,7 +3762,8 @@
     "folders": [
       "Need_for_Speed_",
       "need_for_speed",
-      "need_for_speed_"
+      "need_for_speed_",
+      "Need_for_speed__2005_"
     ],
     "name": "Need for Speed\u2122"
   },
@@ -4406,7 +4400,7 @@
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
   "1328670": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -5500,7 +5494,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 87,
+    "config_count": 89,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -7374,7 +7368,7 @@
     "name": "Kusan: City of Wolves"
   },
   "1715130": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -7571,6 +7565,14 @@
       "Mirror_s_Edge"
     ],
     "name": "Mirror's Edge\u2122"
+  },
+  "17460": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Mass_Effect"
+    ],
+    "name": "Mass Effect (2007)"
   },
   "1746860": {
     "config_count": 1,
@@ -10522,7 +10524,7 @@
     "name": "Crysis 2 Remastered"
   },
   "2096610": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "G720_MC7",
@@ -10533,8 +10535,7 @@
     "folders": [
       "Crysis",
       "Crysis_3",
-      "Crysis_3_Remastered",
-      "Crysis_Remastered"
+      "Crysis_3_Remastered"
     ],
     "name": "Crysis 3 Remastered"
   },
@@ -11099,6 +11100,14 @@
       "Sleeping_Dogs_Pack__________________________________________"
     ],
     "name": "Sleeping Dogs - Street Racer Pack"
+  },
+  "2153350": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Brothers_-_A_Tale_of_Two_Sons_-_Remake"
+    ],
+    "name": "Brothers: A Tale of Two Sons Remake"
   },
   "2157560": {
     "config_count": 1,
@@ -11905,7 +11914,7 @@
     "name": "DmC: Devil May Cry"
   },
   "2207440": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11914,7 +11923,8 @@
       }
     ],
     "folders": [
-      "LOK"
+      "LOK",
+      "LoK"
     ],
     "name": "LOK Digital"
   },
@@ -12574,12 +12584,17 @@
     "name": "Tomb Raider II (1997)"
   },
   "2254490": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__644",
@@ -12594,6 +12609,7 @@
     ],
     "folders": [
       "Launcher",
+      "Rockstar_Games_Launcher",
       "launcher"
     ],
     "name": "Squirrel Launcher"
@@ -13341,25 +13357,6 @@
       "Starship_Troopers__Ultimate_Bug_War_"
     ],
     "name": "Starship Troopers: Ultimate Bug War!"
-  },
-  "2322010": {
-    "config_count": 10,
-    "devices": [
-      {
-        "d": "Adreno__TM__640",
-        "m": "RMX1931",
-        "s": "Adreno (TM) 640"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "CPH2447",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "GoW"
-    ],
-    "name": "God of War Ragnar\u00f6k"
   },
   "2325290": {
     "config_count": 3,
@@ -14779,6 +14776,14 @@
       "Assetto_Corsa"
     ],
     "name": "Assetto Corsa"
+  },
+  "244450": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Men_of_War_-_Assault_Squad_2"
+    ],
+    "name": "Men of War: Assault Squad 2"
   },
   "2444750": {
     "config_count": 1,
@@ -24597,6 +24602,20 @@
     ],
     "name": "Fishing Planet"
   },
+  "3809910": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__619",
+        "m": "22111317PG",
+        "s": "Adreno (TM) 619"
+      }
+    ],
+    "folders": [
+      "MidnightShiftswithFemboy"
+    ],
+    "name": "Midnight Shifts with Femboy"
+  },
   "381210": {
     "config_count": 3,
     "devices": [
@@ -26873,11 +26892,21 @@
     "name": "Bruisers 2D Boxing Demo"
   },
   "4355320": {
-    "config_count": 5,
+    "config_count": 15,
     "devices": [
       {
         "d": "Adreno__TM__740",
         "m": "S911B",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__640",
+        "m": "RMX1931",
+        "s": "Adreno (TM) 640"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "CPH2447",
         "s": "Adreno (TM) 740"
       }
     ],
@@ -27287,14 +27316,6 @@
       "Pub_Encounter"
     ],
     "name": "Pub Encounter"
-  },
-  "4475790": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Warband"
-    ],
-    "name": "Warband"
   },
   "447960": {
     "config_count": 1,
@@ -28090,7 +28111,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -28105,7 +28126,8 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband"
+      "Mount_Blade_Warband",
+      "Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -29844,17 +29866,23 @@
     "name": "Dead Cells"
   },
   "589090": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
       }
     ],
     "folders": [
       "Counter-Strike_1_6__________________________________________",
-      "Counter_Strike_1_6__________________________________________"
+      "Counter_Strike_1_6__________________________________________",
+      "Counter-Strike_1_6"
     ],
     "name": "Fantasy Grounds - CS1 After Winter's Dark: Aihrde Setting (Castles & Crusades)"
   },
@@ -30495,14 +30523,6 @@
       "Journey"
     ],
     "name": "Journey"
-  },
-  "64000": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Men_of_War_-_Assault_Squad_2"
-    ],
-    "name": "Men of War: Assault Squad"
   },
   "640590": {
     "config_count": 1,
@@ -31965,7 +31985,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 22,
+    "config_count": 23,
     "devices": [
       {
         "d": "G720_MC7",
@@ -33370,13 +33390,8 @@
     "name": "Life is Strange: True Colors"
   },
   "937890": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "NX809J",
-        "s": "Adreno (TM) 840"
-      },
       {
         "d": "G57_MC2",
         "m": "Mali",
@@ -33396,6 +33411,11 @@
         "d": "Adreno__TM__750",
         "m": "I2220",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
@@ -33416,6 +33436,14 @@
       "Far_Cry__New_Dawn"
     ],
     "name": "Far Cry\u00ae New Dawn"
+  },
+  "940190": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Chuckie_Egg_3"
+    ],
+    "name": "Chuckie Egg 2017"
   },
   "940910": {
     "config_count": 1,
@@ -34369,14 +34397,6 @@
     ],
     "name": "Bejewelled 3"
   },
-  "name:ben-10-power-trip": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Ben_10_-_Power_Trip"
-    ],
-    "name": "Ben 10 Power Trip"
-  },
   "name:bf3": {
     "config_count": 5,
     "devices": [
@@ -34503,14 +34523,6 @@
     ],
     "name": "Bootstrappackagedgame"
   },
-  "name:brothers-a-tale-of-two-sons-remake": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Brothers_-_A_Tale_of_Two_Sons_-_Remake"
-    ],
-    "name": "Brothers A Tale Of Two Sons Remake"
-  },
   "name:castlevanialosue": {
     "config_count": 1,
     "devices": [],
@@ -34526,14 +34538,6 @@
       "CastlevaniaSOH"
     ],
     "name": "Castlevaniasoh"
-  },
-  "name:chuckie-egg-3": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Chuckie_Egg_3"
-    ],
-    "name": "Chuckie Egg 3"
   },
   "name:clientg": {
     "config_count": 1,
@@ -34616,20 +34620,6 @@
       "Conviction_game"
     ],
     "name": "Conviction Game"
-  },
-  "name:counter-strike-1-6": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__735",
-        "m": "24069PC21G",
-        "s": "Adreno (TM) 735"
-      }
-    ],
-    "folders": [
-      "Counter-Strike_1_6"
-    ],
-    "name": "Counter Strike 1 6"
   },
   "name:crysis64": {
     "config_count": 1,
@@ -34992,20 +34982,6 @@
       "FFXIII"
     ],
     "name": "Ffxiii"
-  },
-  "name:fifa-23": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "FIFA_23"
-    ],
-    "name": "Fifa 23"
   },
   "name:fifa14": {
     "config_count": 1,
@@ -35549,20 +35525,6 @@
     ],
     "name": "Mhf"
   },
-  "name:midnightshiftswithfemboy": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__619",
-        "m": "22111317PG",
-        "s": "Adreno (TM) 619"
-      }
-    ],
-    "folders": [
-      "MidnightShiftswithFemboy"
-    ],
-    "name": "Midnightshiftswithfemboy"
-  },
   "name:misidefull": {
     "config_count": 2,
     "devices": [
@@ -35696,14 +35658,6 @@
       "NBA2K23"
     ],
     "name": "Nba2K23"
-  },
-  "name:need-for-speed-2005": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Need_for_speed__2005_"
-    ],
-    "name": "Need For Speed 2005"
   },
   "name:need-for-speed-black-edition": {
     "config_count": 1,
@@ -37885,20 +37839,6 @@
       "Rocket_League_"
     ],
     "name": "Rocket League"
-  },
-  "name:rockstar-games-launcher": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Rockstar_Games_Launcher"
-    ],
-    "name": "Rockstar Games Launcher"
   },
   "name:rottr": {
     "config_count": 7,
