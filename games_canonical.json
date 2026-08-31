@@ -14344,7 +14344,7 @@
     "name": "Horizon Forbidden West\u2122 Complete Edition"
   },
   "242050": {
-    "config_count": 88,
+    "config_count": 89,
     "devices": [
       {
         "d": "MT6789",
@@ -14420,11 +14420,6 @@
         "d": "Adreno__TM__740",
         "m": "23113RKC6G",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
       },
       {
         "d": "G720_MC8",
@@ -14515,6 +14510,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       },
       {
         "d": "Adreno__TM__750",
@@ -16933,7 +16933,7 @@
     "name": "The Rogue Prince of Persia"
   },
   "2723810": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -36029,7 +36029,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2690,
+    "config_count": 2691,
     "devices": [
       {
         "d": "G52_MC2",
@@ -36877,11 +36877,6 @@
         "s": "Adreno (TM) 642L"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
@@ -36915,6 +36910,11 @@
         "d": "Adreno__TM__616",
         "m": "RMX1971",
         "s": "Adreno (TM) 616"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
