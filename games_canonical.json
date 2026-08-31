@@ -4406,7 +4406,7 @@
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
   "1328670": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -4571,6 +4571,14 @@
       "DRACU-RIOT_"
     ],
     "name": "DRACU-RIOT!"
+  },
+  "1340720": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "StateOfDecay"
+    ],
+    "name": "State of Decay 3"
   },
   "1343240": {
     "config_count": 1,
@@ -7563,6 +7571,14 @@
       "Mirror_s_Edge"
     ],
     "name": "Mirror's Edge\u2122"
+  },
+  "17460": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Mass_Effect"
+    ],
+    "name": "Mass Effect (2007)"
   },
   "1746860": {
     "config_count": 1,
@@ -25816,14 +25832,6 @@
     ],
     "name": "Beat The Champions"
   },
-  "4032350": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "EA"
-    ],
-    "name": "EA SPORTS\u2122 College Football 27"
-  },
   "40350": {
     "config_count": 1,
     "devices": [
@@ -25990,6 +25998,14 @@
       "My_Car_My_Life_Demo"
     ],
     "name": "My Car My Life Demo"
+  },
+  "4080220": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "EA"
+    ],
+    "name": "EA SPORTS FC\u2122 27"
   },
   "4081840": {
     "config_count": 1,
@@ -28403,7 +28419,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -28427,8 +28443,7 @@
       }
     ],
     "folders": [
-      "State_of_Decay_2__Juggernaut_Edition",
-      "StateOfDecay"
+      "State_of_Decay_2__Juggernaut_Edition"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
   },
@@ -32816,7 +32831,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 108,
+    "config_count": 109,
     "devices": [
       {
         "d": "s5e8855",
@@ -32989,11 +33004,6 @@
         "s": "Adreno (TM) 740"
       },
       {
-        "d": "Adreno__TM__619",
-        "m": "moto_g45_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
@@ -33002,6 +33012,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__840",
@@ -35489,6 +35504,20 @@
       "Medal_of_Honor_Warfighter"
     ],
     "name": "Medal Of Honor Warfighter"
+  },
+  "name:metal-gear-solid-master-collection-vol-2-multi6-elamigos": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      }
+    ],
+    "folders": [
+      "Metal_Gear_Solid_Master_Collection_Vol_2_MULTi6_-_ElAmigos"
+    ],
+    "name": "Metal Gear Solid Master Collection Vol 2 Multi6 Elamigos"
   },
   "name:mgsvtpp": {
     "config_count": 1,
