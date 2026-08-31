@@ -2333,6 +2333,20 @@
     ],
     "name": "A Space for the Unbound"
   },
+  "1203170": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Darksiders"
+    ],
+    "name": "Darksiders 4"
+  },
   "1203220": {
     "config_count": 2,
     "devices": [
@@ -4391,7 +4405,7 @@
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
   "1328670": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -4556,6 +4570,14 @@
       "DRACU-RIOT_"
     ],
     "name": "DRACU-RIOT!"
+  },
+  "1340720": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "StateOfDecay"
+    ],
+    "name": "State of Decay 3"
   },
   "1343240": {
     "config_count": 1,
@@ -7143,14 +7165,6 @@
     ],
     "name": "Minecraft Dungeons"
   },
-  "1675200": {
-    "config_count": 3,
-    "devices": [],
-    "folders": [
-      "Steam"
-    ],
-    "name": "Steam Deck"
-  },
   "1676840": {
     "config_count": 1,
     "devices": [],
@@ -7557,14 +7571,6 @@
     ],
     "name": "Mirror's Edge\u2122"
   },
-  "17460": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Mass_Effect"
-    ],
-    "name": "Mass Effect (2007)"
-  },
   "1746860": {
     "config_count": 1,
     "devices": [],
@@ -7791,7 +7797,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 153,
+    "config_count": 154,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -7844,11 +7850,6 @@
         "s": "PowerVR B-Series BXM-8-256"
       },
       {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      },
-      {
         "d": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
         "m": "A376B",
         "s": "ANGLE ((Samsung Xclipse 530) on Vulkan 1.3.279)"
@@ -7882,6 +7883,11 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       },
       {
         "d": "Adreno__TM__720",
@@ -8592,20 +8598,6 @@
       "Little_Noah__Scion_of_Paradise"
     ],
     "name": "Little Noah Scion Of Paradise"
-  },
-  "1887400": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
-      }
-    ],
-    "folders": [
-      "ANTONBLAST"
-    ],
-    "name": "ANTONBLAST"
   },
   "1888930": {
     "config_count": 4,
@@ -11795,7 +11787,7 @@
     "name": "Far Cry 3"
   },
   "220440": {
-    "config_count": 33,
+    "config_count": 34,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -11868,11 +11860,6 @@
         "s": "Adreno (TM) 735"
       },
       {
-        "d": "Adreno__TM__619",
-        "m": "moto_g84_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "A057M",
         "s": "Adreno (TM) 610"
@@ -11896,6 +11883,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g84_5G",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__660",
@@ -12235,7 +12227,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12270,7 +12262,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev"
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -12548,7 +12541,7 @@
     "name": "FEZ"
   },
   "2248760": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -12559,10 +12552,16 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "motorola_edge_plus",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
-      "Car_For_Sale_Simulator_2023"
+      "Car_For_Sale_Simulator_2023",
+      "Car_For_Sale_Simulator"
     ],
     "name": "Car For Sale Simulator 2023"
   },
@@ -14026,7 +14025,7 @@
     "name": "Papers, Please"
   },
   "239140": {
-    "config_count": 16,
+    "config_count": 17,
     "devices": [
       {
         "d": "SM8750",
@@ -14059,14 +14058,14 @@
         "s": "Adreno (TM) 619"
       },
       {
-        "d": "Immortalis_MC12",
-        "m": "G925",
-        "s": "Mali-G925-Immortalis MC12"
-      },
-      {
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Immortalis_MC12",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC12"
       }
     ],
     "folders": [
@@ -17071,7 +17070,7 @@
     "name": "GOALS"
   },
   "2753970": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -17112,6 +17111,11 @@
         "d": "G72",
         "m": "Mali",
         "s": "Mali-G72"
+      },
+      {
+        "d": "Immortalis_MC11",
+        "m": "G715",
+        "s": "Mali-G715-Immortalis MC11"
       },
       {
         "d": "Adreno__TM__825",
@@ -17923,7 +17927,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -17963,8 +17967,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -18525,7 +18528,7 @@
     "name": "Heatwave"
   },
   "298110": {
-    "config_count": 29,
+    "config_count": 31,
     "devices": [
       {
         "d": "G720_MC7",
@@ -18586,6 +18589,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       },
       {
         "d": "Adreno__TM__750",
@@ -18807,7 +18815,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -18826,8 +18834,7 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -20178,7 +20185,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1339,
+    "config_count": 1342,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -20564,11 +20571,6 @@
         "d": "Adreno__TM__810",
         "m": "24115RA8EG",
         "s": "Adreno (TM) 810"
-      },
-      {
-        "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-        "m": "A566E",
-        "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
       },
       {
         "d": "Adreno__TM__740",
@@ -21149,6 +21151,16 @@
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+        "m": "A566E",
+        "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "22111317PI",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__830",
@@ -26332,6 +26344,14 @@
     ],
     "name": "My Winter Car"
   },
+  "4165910": {
+    "config_count": 3,
+    "devices": [],
+    "folders": [
+      "Steam"
+    ],
+    "name": "Steam Machine"
+  },
   "418240": {
     "config_count": 1,
     "devices": [],
@@ -28390,7 +28410,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -28414,8 +28434,7 @@
       }
     ],
     "folders": [
-      "State_of_Decay_2__Juggernaut_Edition",
-      "StateOfDecay"
+      "State_of_Decay_2__Juggernaut_Edition"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
   },
@@ -31286,7 +31305,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -31302,11 +31321,6 @@
         "d": "Adreno__TM__A32",
         "m": "Pocket_Fit_G3_Gen3",
         "s": "Adreno (TM) A32"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -33288,7 +33302,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G615_MC6",
@@ -33307,7 +33321,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -34284,6 +34299,14 @@
       "ASM2Launcher"
     ],
     "name": "Asm2Launcher"
+  },
+  "name:asn-app-pcdx9-final": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "ASN_App_PcDx9_Final"
+    ],
+    "name": "Asn App Pcdx9 Final"
   },
   "name:assasins-creed-iv-black-flag": {
     "config_count": 1,
@@ -35993,7 +36016,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2678,
+    "config_count": 2685,
     "devices": [
       {
         "d": "G52_MC2",
@@ -36781,11 +36804,6 @@
         "s": "ANGLE (Samsung Xclipse 530) on Vulkan 1.3.231"
       },
       {
-        "d": "G720_MC8",
-        "m": "Mali",
-        "s": "Mali-G720 MC8"
-      },
-      {
         "d": "PowerVR_Rogue_GE8320",
         "m": "moto_e22",
         "s": "PowerVR Rogue GE8320"
@@ -36831,11 +36849,6 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "G68",
-        "m": "Mali",
-        "s": "Mali-G68"
-      },
-      {
         "d": "Adreno__TM__619",
         "m": "motorola_edge_30_neo",
         "s": "Adreno (TM) 619"
@@ -36874,6 +36887,16 @@
         "d": "Adreno__TM__619",
         "m": "moto_g53_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
       },
       {
         "d": "Adreno__TM__740",

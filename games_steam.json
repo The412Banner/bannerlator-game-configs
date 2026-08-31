@@ -84,11 +84,6 @@
     "method": "naive",
     "steam_name": "AI: The Somnium Files"
   },
-  "ANTONBLAST": {
-    "appid": 1887400,
-    "method": "naive",
-    "steam_name": "ANTONBLAST"
-  },
   "ARK__Survival_Evolved": {
     "appid": 346110,
     "method": "naive",
@@ -1265,6 +1260,12 @@
     "appid": 1114150,
     "method": "naive",
     "steam_name": "CarX Street"
+  },
+  "Car_For_Sale_Simulator": {
+    "appid": 2248760,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2248760/header.jpg",
+    "method": "naive",
+    "steam_name": "Car For Sale Simulator"
   },
   "Car_For_Sale_Simulator_2023": {
     "appid": 2248760,
@@ -5306,6 +5307,12 @@
     "method": "naive",
     "steam_name": "Mafia II: Definitive Edition"
   },
+  "MARVELCosmicInvasion": {
+    "appid": 2753970,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2753970/header.jpg",
+    "method": "norm",
+    "steam_name": "MARVEL Cosmic Invasion"
+  },
   "MARVEL_Cosmic_Invasion": {
     "appid": 2753970,
     "method": "naive",
@@ -6840,10 +6847,6 @@
     "appid": 1665460,
     "method": "naive",
     "steam_name": "eFootball\u2122"
-  },
-  "PES13_": {
-    "appid": null,
-    "method": "unresolved"
   },
   "PES2008": {
     "appid": null,
