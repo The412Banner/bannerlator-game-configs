@@ -13770,19 +13770,19 @@
     "config_count": 2,
     "devices": [
       {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      },
-      {
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
-      "pse",
-      "PSE_2013"
+      "PSE_2013",
+      "pse"
     ],
     "name": "Pseudoregalia"
   },
@@ -22337,6 +22337,14 @@
     ],
     "name": "Heavy Weapon Deluxe"
   },
+  "3419290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN"
+  },
   "341940": {
     "config_count": 3,
     "devices": [
@@ -23312,7 +23320,7 @@
     "name": "Isekai Bistro"
   },
   "357190": {
-    "config_count": 20,
+    "config_count": 24,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -23353,6 +23361,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "NX3",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
@@ -25745,14 +25758,6 @@
     ],
     "name": "The Spike Cross"
   },
-  "3985080": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN - Costume Expansion Pack"
-  },
   "400": {
     "config_count": 4,
     "devices": [],
@@ -26355,7 +26360,7 @@
     "name": "Shadow Tactics: Blades of the Shogun"
   },
   "418370": {
-    "config_count": 30,
+    "config_count": 31,
     "devices": [
       {
         "d": "SM7435",
@@ -26398,11 +26403,6 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "256",
-        "m": "8",
-        "s": "PowerVR B-Series BXM-8-256"
-      },
-      {
         "d": "Adreno__TM__740",
         "m": "F731B",
         "s": "Adreno (TM) 740"
@@ -26416,6 +26416,11 @@
         "d": "Adreno__TM__825",
         "m": "PLE110",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "256",
+        "m": "8",
+        "s": "PowerVR B-Series BXM-8-256"
       },
       {
         "d": "Adreno__TM__720",
@@ -27314,14 +27319,6 @@
     ],
     "name": "Pub Encounter"
   },
-  "4475790": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Warband"
-    ],
-    "name": "Warband"
-  },
   "447960": {
     "config_count": 1,
     "devices": [
@@ -28116,7 +28113,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -28131,7 +28128,8 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband"
+      "Mount_Blade_Warband",
+      "Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -36036,7 +36034,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2691,
+    "config_count": 2693,
     "devices": [
       {
         "d": "G52_MC2",
