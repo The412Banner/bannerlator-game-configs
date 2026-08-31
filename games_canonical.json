@@ -35308,7 +35308,7 @@
     "name": "Gtav"
   },
   "name:gtavlauncher": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -36045,7 +36045,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2686,
+    "config_count": 2687,
     "devices": [
       {
         "d": "G52_MC2",
@@ -36266,11 +36266,6 @@
         "d": "Adreno__TM__610",
         "m": "moto_g42",
         "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "PowerVR_Rogue_GE8320",
-        "m": "A125M",
-        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "Adreno__TM__610",
@@ -36926,6 +36921,16 @@
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "A125M",
+        "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "Adreno__TM__616",
+        "m": "RMX1971",
+        "s": "Adreno (TM) 616"
       },
       {
         "d": "Adreno__TM__740",
