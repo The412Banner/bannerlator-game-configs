@@ -3774,7 +3774,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 48,
+    "config_count": 47,
     "devices": [
       {
         "d": "G57_MC2",
@@ -3879,8 +3879,7 @@
       "Need_for_Speed_-_Most_Wanted",
       "Need_for_Speed__Most_Wanted_2005",
       "Need_for_Speed__Most_wanted__2012_",
-      "need_for_speed_most_wa",
-      "need_for_speed_most_wanted_2005"
+      "need_for_speed_most_wa"
     ],
     "name": "Need for Speed\u2122 Most Wanted"
   },
@@ -27316,14 +27315,6 @@
     ],
     "name": "Pub Encounter"
   },
-  "4475790": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Warband"
-    ],
-    "name": "Warband"
-  },
   "447960": {
     "config_count": 1,
     "devices": [
@@ -28118,7 +28109,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -28133,7 +28124,8 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband"
+      "Mount_Blade_Warband",
+      "Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -33585,7 +33577,7 @@
     "name": "Volcanoids"
   },
   "952060": {
-    "config_count": 74,
+    "config_count": 75,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -35679,6 +35671,14 @@
       "Need_for_Speed_Black_Edition_"
     ],
     "name": "Need For Speed Black Edition"
+  },
+  "name:need-for-speed-most-wanted-2005": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "need_for_speed_most_wanted_2005"
+    ],
+    "name": "Need For Speed Most Wanted 2005"
   },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 1,
@@ -37945,14 +37945,6 @@
       "SHProto"
     ],
     "name": "Shproto"
-  },
-  "name:sims-3-starter": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sims_3_Starter"
-    ],
-    "name": "Sims 3 Starter"
   },
   "name:skyrimse": {
     "config_count": 2,
