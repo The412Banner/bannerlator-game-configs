@@ -751,7 +751,7 @@
     "name": "Dinkum"
   },
   "1063040": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "G52_MC2",
@@ -770,7 +770,8 @@
       }
     ],
     "folders": [
-      "Ben_10__Power_Trip"
+      "Ben_10__Power_Trip",
+      "Ben_10_-_Power_Trip"
     ],
     "name": "Ben 10: Power Trip"
   },
@@ -4570,14 +4571,6 @@
       "DRACU-RIOT_"
     ],
     "name": "DRACU-RIOT!"
-  },
-  "1340720": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "StateOfDecay"
-    ],
-    "name": "State of Decay 3"
   },
   "1343240": {
     "config_count": 1,
@@ -12544,6 +12537,11 @@
     "config_count": 6,
     "devices": [
       {
+        "d": "Adreno__TM__650",
+        "m": "motorola_edge_plus",
+        "s": "Adreno (TM) 650"
+      },
+      {
         "d": "Adreno__TM__610",
         "m": "23124RA7EO",
         "s": "Adreno (TM) 610"
@@ -12552,18 +12550,13 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "motorola_edge_plus",
-        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
-      "Car_For_Sale_Simulator_2023",
-      "Car_For_Sale_Simulator"
+      "Car_For_Sale_Simulator",
+      "Car_For_Sale_Simulator_2023"
     ],
-    "name": "Car For Sale Simulator 2023"
+    "name": "Car For Sale Simulator"
   },
   "225300": {
     "config_count": 1,
@@ -17073,6 +17066,11 @@
     "config_count": 18,
     "devices": [
       {
+        "d": "Immortalis_MC11",
+        "m": "G715",
+        "s": "Mali-G715-Immortalis MC11"
+      },
+      {
         "d": "Adreno__TM__830",
         "m": "NP05J",
         "s": "Adreno (TM) 830"
@@ -17113,19 +17111,14 @@
         "s": "Mali-G72"
       },
       {
-        "d": "Immortalis_MC11",
-        "m": "G715",
-        "s": "Mali-G715-Immortalis MC11"
-      },
-      {
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "MARVEL_Cosmic_Invasion",
-      "MARVELCosmicInvasion"
+      "MARVELCosmicInvasion",
+      "MARVEL_Cosmic_Invasion"
     ],
     "name": "MARVEL Cosmic Invasion"
   },
@@ -28410,7 +28403,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -28434,7 +28427,8 @@
       }
     ],
     "folders": [
-      "State_of_Decay_2__Juggernaut_Edition"
+      "State_of_Decay_2__Juggernaut_Edition",
+      "StateOfDecay"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
   },
@@ -32771,8 +32765,14 @@
     "name": "Shenmue III"
   },
   "8790": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
+      }
+    ],
     "folders": [
       "GTR2"
     ],
@@ -33579,7 +33579,7 @@
     "name": "Volcanoids"
   },
   "952060": {
-    "config_count": 73,
+    "config_count": 74,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -36016,7 +36016,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2685,
+    "config_count": 2686,
     "devices": [
       {
         "d": "G52_MC2",
