@@ -2365,10 +2365,11 @@
     "name": "Phonopolis"
   },
   "1206560": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
-      "WorldBox_-_God_Simulator"
+      "WorldBox_-_God_Simulator",
+      "worldbox"
     ],
     "name": "WorldBox - God Simulator"
   },
@@ -2422,7 +2423,7 @@
     "name": "She Will Punish Them"
   },
   "12140": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -2431,7 +2432,8 @@
       }
     ],
     "folders": [
-      "MaxPayne_1"
+      "MaxPayne_1",
+      "Max_Payne_3"
     ],
     "name": "Max Payne"
   },
@@ -3767,7 +3769,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 48,
+    "config_count": 47,
     "devices": [
       {
         "d": "G57_MC2",
@@ -3853,11 +3855,6 @@
         "d": "Adreno__TM__750",
         "m": "CPH2645",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
       }
     ],
     "folders": [
@@ -3871,7 +3868,6 @@
       "Need_For_Speed_Most_Wanted_",
       "Need_for_Speed_-_Most_Wanted",
       "Need_for_Speed__Most_Wanted_2005",
-      "Need_for_Speed__Most_wanted__2012_",
       "need_for_speed_most_wa",
       "need_for_speed_most_wanted_2005"
     ],
@@ -9898,7 +9894,7 @@
     "name": "Fable - The Lost Chapters"
   },
   "204100": {
-    "config_count": 14,
+    "config_count": 13,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11625,7 +11621,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 105,
+    "config_count": 104,
     "devices": [
       {
         "d": "S938B",
@@ -11787,7 +11783,6 @@
       "Far_Cry_3",
       "Far_Cry_3___________________________________________________",
       "Far_Cry__3",
-      "FAR_CRY_3",
       "farcry3"
     ],
     "name": "Far Cry 3"
@@ -17382,20 +17377,6 @@
     ],
     "name": "This War of Mine"
   },
-  "2820820": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__735",
-        "m": "NX9",
-        "s": "Adreno (TM) 735"
-      }
-    ],
-    "folders": [
-      "Jotunnslayer"
-    ],
-    "name": "Jotunnslayer: Hordes of Hel"
-  },
   "282530": {
     "config_count": 1,
     "devices": [
@@ -18784,7 +18765,7 @@
     "name": "GET EVEN"
   },
   "3010850": {
-    "config_count": 10,
+    "config_count": 9,
     "devices": [
       {
         "d": "G57",
@@ -18811,8 +18792,7 @@
       "E",
       "Gears_Of_War",
       "Gears_of_War",
-      "Gears_of_war_2",
-      "Gears_of_War_2"
+      "Gears_of_war_2"
     ],
     "name": "Gears of War: E-Day"
   },
@@ -22348,14 +22328,6 @@
     ],
     "name": "Old World - Wrath of Gods"
   },
-  "3410": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Heavy_Weapon"
-    ],
-    "name": "Heavy Weapon Deluxe"
-  },
   "3419290": {
     "config_count": 1,
     "devices": [],
@@ -25783,10 +25755,17 @@
     "name": "The Spike Cross"
   },
   "400": {
-    "config_count": 4,
-    "devices": [],
+    "config_count": 6,
+    "devices": [
+      {
+        "d": "Adreno__TM__829",
+        "m": "motorola_signature",
+        "s": "Adreno (TM) 829"
+      }
+    ],
     "folders": [
-      "Portal"
+      "Portal",
+      "Portal_2"
     ],
     "name": "Portal"
   },
@@ -26204,14 +26183,6 @@
       "ZAT"
     ],
     "name": "Z.A.T.O. - Digital Art Pack"
-  },
-  "4123760": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Football_Life_2026"
-    ],
-    "name": "Football Life"
   },
   "413150": {
     "config_count": 5,
@@ -29328,7 +29299,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -29360,6 +29331,7 @@
       "Far_Cry_5",
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
+      "FAR_CRY_3",
       "FarCry"
     ],
     "name": "Far Cry\u00ae 5"
@@ -29580,19 +29552,19 @@
     "config_count": 3,
     "devices": [
       {
-        "d": "Adreno__TM__650",
-        "m": "N986N",
-        "s": "Adreno (TM) 650"
-      },
-      {
         "d": "Adreno__TM__840",
         "m": "F9710",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "N986N",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
-      "dota2",
-      "Dota_2"
+      "Dota_2",
+      "dota2"
     ],
     "name": "Dota 2"
   },
@@ -30334,7 +30306,7 @@
     "name": "Oddworld: Soulstorm Enhanced Edition"
   },
   "620": {
-    "config_count": 18,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -30365,11 +30337,6 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__829",
-        "m": "motorola_signature",
-        "s": "Adreno (TM) 829"
       }
     ],
     "folders": [
@@ -35125,6 +35092,14 @@
     ],
     "name": "Final Fantasy 7 Steamrip Read Description"
   },
+  "name:football-life-2026": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Football_Life_2026"
+    ],
+    "name": "Football Life 2026"
+  },
   "name:frozen-throne": {
     "config_count": 1,
     "devices": [
@@ -35170,6 +35145,14 @@
       "GE2RB"
     ],
     "name": "Ge2Rb"
+  },
+  "name:gears-of-war-2": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Gears_of_War_2"
+    ],
+    "name": "Gears Of War 2"
   },
   "name:gears-of-war-2-hollow": {
     "config_count": 1,
@@ -35387,6 +35370,14 @@
     ],
     "name": "Gtavlauncher"
   },
+  "name:heavy-weapon": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Heavy_Weapon"
+    ],
+    "name": "Heavy Weapon"
+  },
   "name:helloneighbor-win64-shipping": {
     "config_count": 1,
     "devices": [],
@@ -35454,6 +35445,20 @@
       "iw6sp64_ship"
     ],
     "name": "Iw6Sp64 Ship"
+  },
+  "name:jotunnslayer": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__735",
+        "m": "NX9",
+        "s": "Adreno (TM) 735"
+      }
+    ],
+    "folders": [
+      "Jotunnslayer"
+    ],
+    "name": "Jotunnslayer"
   },
   "name:jump-force": {
     "config_count": 3,
@@ -35735,6 +35740,20 @@
       "Need_for_Speed_Black_Edition_"
     ],
     "name": "Need For Speed Black Edition"
+  },
+  "name:need-for-speed-most-wanted-2012": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
+      }
+    ],
+    "folders": [
+      "Need_for_Speed__Most_wanted__2012_"
+    ],
+    "name": "Need For Speed Most Wanted 2012"
   },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 1,
@@ -38389,14 +38408,6 @@
       "Wizard_School_Exchange_Student"
     ],
     "name": "Wizard School Exchange Student"
-  },
-  "name:worldbox": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "worldbox"
-    ],
-    "name": "Worldbox"
   },
   "name:x-men-origins-wolverine": {
     "config_count": 1,
