@@ -12242,7 +12242,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 16,
+    "config_count": 15,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12277,8 +12277,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -17952,7 +17951,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -17992,7 +17991,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -22361,14 +22361,6 @@
     ],
     "name": "Heavy Weapon Deluxe"
   },
-  "3419290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN"
-  },
   "341940": {
     "config_count": 3,
     "devices": [
@@ -25767,6 +25759,14 @@
       "The_Spike"
     ],
     "name": "The Spike Cross"
+  },
+  "3985080": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN - Costume Expansion Pack"
   },
   "400": {
     "config_count": 4,
@@ -34990,6 +34990,14 @@
       "eurotrucks2"
     ],
     "name": "Eurotrucks2"
+  },
+  "name:fallout-new-vegas-pcr": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Fallout__New_Vegas_PCR"
+    ],
+    "name": "Fallout New Vegas Pcr"
   },
   "name:farmingsimulator2022game": {
     "config_count": 1,
