@@ -3997,6 +3997,12 @@
     "method": "naive",
     "steam_name": "Grand Theft Auto V Enhanced"
   },
+  "Grand_Theft_Auto_V_Enhanced_________________________________": {
+    "appid": 3240220,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3240220/header.jpg",
+    "method": "naive",
+    "steam_name": "Grand Theft Auto V Enhanced"
+  },
   "Grand_Theft_Auto_V_Legacy": {
     "appid": 3240220,
     "method": "alias"
@@ -4923,6 +4929,10 @@
     "appid": 313690,
     "method": "naive",
     "steam_name": "LEGO\u00ae Batman\u2122 3: Beyond Gotham"
+  },
+  "LEGOCloneWars": {
+    "appid": null,
+    "method": "unresolved"
   },
   "LEGOJurassicWorld": {
     "appid": 352400,
@@ -11639,6 +11649,10 @@
     "method": "unresolved"
   },
   "sh2pc": {
+    "appid": null,
+    "method": "unresolved"
+  },
+  "shadPS4": {
     "appid": null,
     "method": "unresolved"
   },

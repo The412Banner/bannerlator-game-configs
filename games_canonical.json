@@ -2328,20 +2328,6 @@
     ],
     "name": "A Space for the Unbound"
   },
-  "1203170": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
-      }
-    ],
-    "folders": [
-      "Darksiders"
-    ],
-    "name": "Darksiders 4"
-  },
   "1203220": {
     "config_count": 2,
     "devices": [
@@ -2553,7 +2539,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 350,
+    "config_count": 351,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -17537,6 +17523,14 @@
     ],
     "name": "BeamNG.drive"
   },
+  "2848230": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "TwoSides"
+    ],
+    "name": "Two Sides"
+  },
   "2856190": {
     "config_count": 101,
     "devices": [
@@ -20193,7 +20187,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1346,
+    "config_count": 1347,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -21291,6 +21285,7 @@
       "Grand_Theft_Auto_V__________________________________________",
       "PlayGTAV",
       "_____5",
+      "Grand_Theft_Auto_V_Enhanced_________________________________",
       "GTA5",
       "GTA_V",
       "Grand_Theft_Auto___V"
@@ -31339,7 +31334,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -31355,6 +31350,11 @@
         "d": "Adreno__TM__A32",
         "m": "Pocket_Fit_G3_Gen3",
         "s": "Adreno (TM) A32"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
