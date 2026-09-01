@@ -20069,12 +20069,17 @@
     "name": "Super Woden: Rally Edge"
   },
   "3219630": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "256",
         "m": "8",
         "s": "PowerVR B-Series BXM-8-256"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -22360,6 +22365,14 @@
       "Heavy_Weapon"
     ],
     "name": "Heavy Weapon Deluxe"
+  },
+  "3419290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN"
   },
   "341940": {
     "config_count": 3,
@@ -25759,14 +25772,6 @@
       "The_Spike"
     ],
     "name": "The Spike Cross"
-  },
-  "3985080": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN - Costume Expansion Pack"
   },
   "400": {
     "config_count": 4,
