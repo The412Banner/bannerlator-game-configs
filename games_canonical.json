@@ -12234,7 +12234,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12269,7 +12269,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev"
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -17943,7 +17944,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -17983,8 +17984,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -27345,14 +27345,6 @@
     ],
     "name": "Pub Encounter"
   },
-  "4475790": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Warband"
-    ],
-    "name": "Warband"
-  },
   "447960": {
     "config_count": 1,
     "devices": [
@@ -28152,7 +28144,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -28167,7 +28159,8 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband"
+      "Mount_Blade_Warband",
+      "Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -29585,16 +29578,22 @@
     "name": "Force of Nature"
   },
   "570": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__650",
         "m": "N986N",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "F9710",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
-      "dota2"
+      "dota2",
+      "Dota_2"
     ],
     "name": "Dota 2"
   },
