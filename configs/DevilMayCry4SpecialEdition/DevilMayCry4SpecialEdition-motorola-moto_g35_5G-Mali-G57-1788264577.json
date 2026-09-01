@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "motorola moto g35 5G",
+    "soc": "Mali-G57",
+    "bh_version": "3.0.3",
+    "upload_token": "7e3bd464ffcc3aa3",
+    "settings_count": 10,
+    "components_count": 4
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"1.7.2-0\"}",
+    "pc_ls_VK3k": "{\"name\":\"None\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"System\"}",
+    "pc_set_constant_95": "{\"name\":\"2505-1\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"Proton-10.0-arm64ec-0\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-gamenative",
+    "pc_ls_AUDIO_DRIVER": "1",
+    "pc_ls_update_enable_xinput": true,
+    "pc_ls_environment_variable": "BANNER_AUDIO_ALSA_PRESET=auto BANNER_AUDIO_ALSA_PERF=1 BANNER_AUDIO_ALSA_ADAPTIVE=1 BANNER_AUDIO_ALSA_LAT=100 BANNER_AUDIO_PULSE_PRESET=auto BANNER_AUDIO_PULSE_PERF=1 BANNER_AUDIO_PULSE_ADAPTIVE=1 BANNER_AUDIO_PULSE_LAT=100",
+    "bl_ext": {
+      "dxwrapper": "dxvk+vkd3d",
+      "screenSize": "960x544",
+      "renderer": "opengl",
+      "sfCompatMode": "1",
+      "fullscreenMode": "2",
+      "frameGenEngine": "bionic",
+      "native": "false",
+      "swapRB": "false",
+      "presentMode": "immediate",
+      "fpsLimiterEnabled": "1",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "reshadeMode": "solo",
+      "reshadeEffect": "None",
+      "emulator": "fexcore",
+      "box64Version": "0.3.7",
+      "box64Preset": "PERFORMANCE_MALI",
+      "fexcorePreset": "PERFORMANCE_TSO",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "startupSelection": "3",
+      "inputType": "4",
+      "exclusiveXInput": "1",
+      "simTouchScreen": "0",
+      "numControllers": "1",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1",
+      "midiSoundFont": "wt_210k_G.sf2",
+      "lc_all": "pt_BR.UTF-8",
+      "autoCloseOnExit": "1",
+      "fpsCounterConfig": "hudStyle=classic,hudEnabled=1,hudSize=tiles,hudLocked=1,showVram=1,showLow001=1,fpsDecimal=1,showPerCore=1,showSwap=1,showNet=1,showResolution=1,showProton=1,showWrapper=1,showDxVer=1,showSession=1,hudMode=horizontal,showFPS=1,showFPSGraph=0,showCPUUsage=1,showCPULoad=1,showGPULoad=1,showRAM=1,showPower=1,showTemp=1,showBatteryTemp=1,showEngine=1,showRenderer=1,showGpuModel=1,hudDualBattery=0,showGpuTemp=0,showBattery=1,showRuntime=0,showClock=1,showCPUGraph=1,showGPUGraph=1,tempUnit=c,tempBands=0,tempAuto=1,tempRedCpu=90,tempRedGpu=90,tempRedBat=48,hudSkin=classic,hudColor=vivid,hudOutline=38,hudOutlineAccent=0,hudScale=100,hudOpacity=80,hudTransparency=0",
+      "gyroEnabled": "0",
+      "gyroTarget": "0",
+      "gyroActivator": "0",
+      "gyroActivationMode": "0",
+      "gyroMode": "0",
+      "gyroSensitivity": "2.0",
+      "gyroInvertX": "0",
+      "gyroInvertY": "0",
+      "maxGameRefreshRate": "0",
+      "unlockGameRefreshRate": "1",
+      "frameGenModel": "4",
+      "vibrationMode": "1",
+      "vibrationIntensity": "100",
+      "scalingMode": "0",
+      "dxwrapperConfig": "version=1.7.2-0,framerate=0,async=0,asyncCache=0,vkd3dVersion=None,vkd3dLevel=12_2,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,d7vkVersion=Bundled (default),dxvkConfigFile="
+    }
+  },
+  "components": [
+    {
+      "name": "1.7.2-0",
+      "type": "DXVK"
+    },
+    {
+      "name": "None",
+      "type": "VKD3D"
+    },
+    {
+      "name": "System",
+      "type": "GPU"
+    },
+    {
+      "name": "2505-1",
+      "type": "FEXCore"
+    }
+  ]
+}
