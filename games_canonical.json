@@ -2553,7 +2553,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 348,
+    "config_count": 349,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -5649,6 +5649,11 @@
         "s": "Adreno (TM) 830"
       },
       {
+        "d": "Adreno__TM__840",
+        "m": "S942U",
+        "s": "Adreno (TM) 840"
+      },
+      {
         "d": "Adreno__TM__710",
         "m": "NX1",
         "s": "Adreno (TM) 710"
@@ -6165,7 +6170,7 @@
     "name": "Cairn"
   },
   "1593500": {
-    "config_count": 146,
+    "config_count": 147,
     "devices": [
       {
         "d": "Adreno__TM__750",
