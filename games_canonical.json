@@ -1077,8 +1077,14 @@
     "name": "Helvetii"
   },
   "1096580": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
+      }
+    ],
     "folders": [
       "CLOS2"
     ],
@@ -1312,7 +1318,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1321,7 +1327,8 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid"
+      "BattleForTheGrid",
+      "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -17400,14 +17407,6 @@
     ],
     "name": "RIDE 6"
   },
-  "2816870": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Mighty Morphin Power Rangers: Rita's Rewind"
-  },
   "281940": {
     "config_count": 1,
     "devices": [],
@@ -18900,7 +18899,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -18919,7 +18918,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -19484,7 +19484,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 34,
+    "config_count": 35,
     "devices": [
       {
         "d": "G78",
@@ -19561,7 +19561,8 @@
       "BlackOps",
       "Call_of_Duty_3______________________________________________",
       "Call_of_Duty_Black_Ops",
-      "Call_of_Duty___Black_Ops_III"
+      "Call_of_Duty___Black_Ops_III",
+      "Call_of_Duty_-_Black_Ops"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
   },
@@ -26794,20 +26795,6 @@
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
-  "42700": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Call_of_Duty_-_Black_Ops"
-    ],
-    "name": "Call of Duty\u00ae: Black Ops"
-  },
   "427190": {
     "config_count": 5,
     "devices": [
@@ -33433,7 +33420,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -33452,8 +33439,7 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -36198,7 +36184,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2705,
+    "config_count": 2707,
     "devices": [
       {
         "d": "G52_MC2",
@@ -36926,11 +36912,6 @@
         "s": "Mali-G615 MC2"
       },
       {
-        "d": "Adreno__TM__730",
-        "m": "S901E",
-        "s": "Adreno (TM) 730"
-      },
-      {
         "d": "Adreno__TM__506",
         "m": "A207M",
         "s": "Adreno (TM) 506"
@@ -37084,6 +37065,11 @@
         "d": "G77",
         "m": "Mali",
         "s": "Mali-G77"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "S901E",
+        "s": "Adreno (TM) 730"
       },
       {
         "d": "Adreno__TM__740",
