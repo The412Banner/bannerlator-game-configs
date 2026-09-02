@@ -19436,7 +19436,7 @@
     "name": "Geometry Wars\u2122 3: Dimensions Evolved"
   },
   "310950": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -19475,7 +19475,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 35,
+    "config_count": 34,
     "devices": [
       {
         "d": "G78",
@@ -19552,8 +19552,7 @@
       "BlackOps",
       "Call_of_Duty_3______________________________________________",
       "Call_of_Duty_Black_Ops",
-      "Call_of_Duty___Black_Ops_III",
-      "Call_of_Duty_-_Black_Ops"
+      "Call_of_Duty___Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
   },
@@ -20130,7 +20129,7 @@
     "name": "Super Woden: Rally Edge"
   },
   "3219630": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "256",
@@ -20263,7 +20262,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1354,
+    "config_count": 1355,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -26794,6 +26793,20 @@
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
+  "42700": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Call_of_Duty_-_Black_Ops"
+    ],
+    "name": "Call of Duty\u00ae: Black Ops"
+  },
   "427190": {
     "config_count": 5,
     "devices": [
@@ -30892,7 +30905,7 @@
     "name": "The Bureau: XCOM Declassified"
   },
   "660080": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "Immortalis_MC11",
@@ -30928,6 +30941,11 @@
         "d": "Adreno__TM__840",
         "m": "NX809J",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
       }
     ],
     "folders": [
