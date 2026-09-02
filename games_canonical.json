@@ -995,7 +995,7 @@
     "name": "Kelipot"
   },
   "1091500": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -1312,7 +1312,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1321,8 +1321,7 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid",
-      "Rangers"
+      "BattleForTheGrid"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -2327,6 +2326,20 @@
       "A_Space_for_the_Unbound"
     ],
     "name": "A Space for the Unbound"
+  },
+  "1203170": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Darksiders"
+    ],
+    "name": "Darksiders 4"
   },
   "1203220": {
     "config_count": 2,
@@ -5669,7 +5682,7 @@
     "name": "FIFA 22"
   },
   "15100": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -5977,7 +5990,7 @@
     "name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition"
   },
   "1551360": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -5988,6 +6001,11 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -9739,7 +9757,7 @@
     "name": "Call of Duty\u00ae: Black Ops II"
   },
   "203140": {
-    "config_count": 32,
+    "config_count": 33,
     "devices": [
       {
         "d": "G610_MC3",
@@ -9800,6 +9818,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2012K11AG",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
@@ -12230,7 +12253,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 16,
+    "config_count": 15,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12265,8 +12288,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -12760,7 +12782,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 216,
+    "config_count": 217,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -13033,11 +13055,6 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "2312DRA50G",
         "s": "Adreno (TM) 710"
@@ -13051,6 +13068,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -13238,7 +13260,7 @@
     "name": "Universe Sandbox"
   },
   "231120": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -13256,11 +13278,6 @@
         "s": "PowerVR Rogue GE8320"
       },
       {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      },
-      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
@@ -13269,6 +13286,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
@@ -13745,7 +13767,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 13,
+    "config_count": 16,
     "devices": [
       {
         "d": "G720_MC7",
@@ -13771,10 +13793,21 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II"
+      "DARK_SOULS__II",
+      "DarkSoulsII"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -17349,6 +17382,14 @@
     ],
     "name": "RIDE 6"
   },
+  "2816870": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Mighty Morphin Power Rangers: Rita's Rewind"
+  },
   "281940": {
     "config_count": 1,
     "devices": [],
@@ -17542,7 +17583,7 @@
     "name": "Two Sides"
   },
   "2856190": {
-    "config_count": 101,
+    "config_count": 102,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -17688,6 +17729,11 @@
         "d": "Adreno__TM__612",
         "m": "M2101K7AG",
         "s": "Adreno (TM) 612"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2012K11AG",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
@@ -17948,7 +17994,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -17988,7 +18034,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -18836,7 +18883,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -18855,8 +18902,7 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -18938,7 +18984,7 @@
     "name": "Trove"
   },
   "304240": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -19887,7 +19933,7 @@
     "name": "Warhammer 40,000: Space Marine - Master Crafted Edition"
   },
   "3180070": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__720",
@@ -19898,11 +19944,17 @@
         "d": "Adreno__TM__710",
         "m": "2312CRAD3C",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
       "NoImNotAHuman",
-      "No_Im_not_a_Human___________________________________________"
+      "No_Im_not_a_Human___________________________________________",
+      "noimnotahuman-"
     ],
     "name": "No, I'm not a Human"
   },
@@ -20198,7 +20250,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1347,
+    "config_count": 1350,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24081,7 +24133,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 39,
+    "config_count": 36,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -24154,16 +24206,6 @@
         "s": "Adreno (TM) 735"
       },
       {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -24176,7 +24218,6 @@
       "DarkSoulsRemastered",
       "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
-      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -25853,6 +25894,14 @@
     ],
     "name": "Beat The Champions"
   },
+  "4032350": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "EA"
+    ],
+    "name": "EA SPORTS\u2122 College Football 27"
+  },
   "40350": {
     "config_count": 1,
     "devices": [
@@ -26019,14 +26068,6 @@
       "My_Car_My_Life_Demo"
     ],
     "name": "My Car My Life Demo"
-  },
-  "4080220": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "EA"
-    ],
-    "name": "EA SPORTS FC\u2122 27"
   },
   "4081840": {
     "config_count": 1,
@@ -31345,7 +31386,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -31361,11 +31402,6 @@
         "d": "Adreno__TM__A32",
         "m": "Pocket_Fit_G3_Gen3",
         "s": "Adreno (TM) A32"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -33353,7 +33389,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G615_MC6",
@@ -33372,7 +33408,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -33441,7 +33478,7 @@
     "name": "Life is Strange: True Colors"
   },
   "937890": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "G57_MC2",
@@ -36103,7 +36140,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2702,
+    "config_count": 2704,
     "devices": [
       {
         "d": "G52_MC2",
@@ -36771,11 +36808,6 @@
         "s": "Adreno (TM) 650"
       },
       {
-        "d": "G77",
-        "m": "Mali",
-        "s": "Mali-G77"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "RMX3890",
         "s": "Adreno (TM) 610"
@@ -36991,6 +37023,11 @@
         "s": "Adreno (TM) 506"
       },
       {
+        "d": "G77",
+        "m": "Mali",
+        "s": "Mali-G77"
+      },
+      {
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
@@ -37042,7 +37079,7 @@
     "name": "PES 2013"
   },
   "name:pes-2014": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "G57",
@@ -37078,6 +37115,11 @@
         "d": "Adreno__TM__830",
         "m": "S938B",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G77",
+        "m": "Mali",
+        "s": "Mali-G77"
       }
     ],
     "folders": [
