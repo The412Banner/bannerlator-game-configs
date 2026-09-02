@@ -285,7 +285,7 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 2 (2009)"
   },
   "1020790": {
-    "config_count": 45,
+    "config_count": 46,
     "devices": [
       {
         "d": "SM8850",
@@ -1312,7 +1312,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1321,8 +1321,7 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid",
-      "Rangers"
+      "BattleForTheGrid"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -2327,6 +2326,20 @@
       "A_Space_for_the_Unbound"
     ],
     "name": "A Space for the Unbound"
+  },
+  "1203170": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Darksiders"
+    ],
+    "name": "Darksiders 4"
   },
   "1203220": {
     "config_count": 2,
@@ -13778,7 +13791,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "G720_MC7",
@@ -13804,6 +13817,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "A366E",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
@@ -17382,6 +17400,14 @@
     ],
     "name": "RIDE 6"
   },
+  "2816870": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Mighty Morphin Power Rangers: Rita's Rewind"
+  },
   "281940": {
     "config_count": 1,
     "devices": [],
@@ -19458,7 +19484,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 35,
+    "config_count": 34,
     "devices": [
       {
         "d": "G78",
@@ -19535,8 +19561,7 @@
       "BlackOps",
       "Call_of_Duty_3______________________________________________",
       "Call_of_Duty_Black_Ops",
-      "Call_of_Duty___Black_Ops_III",
-      "Call_of_Duty_-_Black_Ops"
+      "Call_of_Duty___Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
   },
@@ -20246,7 +20271,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1352,
+    "config_count": 1353,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -20722,11 +20747,6 @@
         "d": "Adreno__TM__830",
         "m": "NX799J",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "23129RA5FL",
-        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__710",
@@ -21222,6 +21242,11 @@
         "d": "256",
         "m": "8",
         "s": "PowerVR B-Series BXM-8-256"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__830",
@@ -26769,6 +26794,20 @@
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
+  "42700": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Call_of_Duty_-_Black_Ops"
+    ],
+    "name": "Call of Duty\u00ae: Black Ops"
+  },
   "427190": {
     "config_count": 5,
     "devices": [
@@ -31389,7 +31428,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -31405,11 +31444,6 @@
         "d": "Adreno__TM__A32",
         "m": "Pocket_Fit_G3_Gen3",
         "s": "Adreno (TM) A32"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
