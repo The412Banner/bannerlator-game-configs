@@ -19000,6 +19000,11 @@
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
@@ -23976,7 +23981,7 @@
     "name": "Kingdom: Classic"
   },
   "368500": {
-    "config_count": 16,
+    "config_count": 17,
     "devices": [
       {
         "d": "G57",
@@ -23987,6 +23992,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__642L",
+        "m": "V2270A",
+        "s": "Adreno (TM) 642L"
       }
     ],
     "folders": [
