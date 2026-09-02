@@ -1452,6 +1452,20 @@
     ],
     "name": "People Playground"
   },
+  "1118272": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__618",
+        "m": "M2007J20CG",
+        "s": "Adreno (TM) 618"
+      }
+    ],
+    "folders": [
+      "dirt_3"
+    ],
+    "name": "DiRT Rally 2.0 - Peugeot 306 Maxi"
+  },
   "1118310": {
     "config_count": 1,
     "devices": [],
@@ -2313,20 +2327,6 @@
       "A_Space_for_the_Unbound"
     ],
     "name": "A Space for the Unbound"
-  },
-  "1203170": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
-      }
-    ],
-    "folders": [
-      "Darksiders"
-    ],
-    "name": "Darksiders 4"
   },
   "1203220": {
     "config_count": 2,
@@ -3850,6 +3850,11 @@
         "d": "Adreno__TM__650",
         "m": "22021211RG",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
       }
     ],
     "folders": [
@@ -3863,6 +3868,7 @@
       "Need_For_Speed_Most_Wanted_",
       "Need_for_Speed_-_Most_Wanted",
       "Need_for_Speed__Most_Wanted_2005",
+      "Need_for_Speed__Most_wanted__2012_",
       "need_for_speed_most_wa",
       "need_for_speed_most_wanted_2005"
     ],
@@ -7578,6 +7584,14 @@
       "Mass_Effect"
     ],
     "name": "Mass Effect (2007)"
+  },
+  "1746860": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "The_Elder_Scrolls_V_-_Skyrim_Anniversary_Upgrade"
+    ],
+    "name": "The Elder Scrolls V: Skyrim Anniversary Upgrade"
   },
   "17470": {
     "config_count": 21,
@@ -24759,7 +24773,7 @@
     "name": "Psychonauts"
   },
   "383150": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -27097,7 +27111,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 7,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -27109,8 +27123,7 @@
       "Call_of_Duty_4",
       "Call_of_Duty_4_Modern_Warfare",
       "COD__Modern_Warfare",
-      "Call_of_duty_Modern_Warfare",
-      "call_of_duty_4_modern_Warfare"
+      "Call_of_duty_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -27520,20 +27533,6 @@
       "Oxygen_Not_Included"
     ],
     "name": "Oxygen Not Included"
-  },
-  "4572120": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__618",
-        "m": "M2007J20CG",
-        "s": "Adreno (TM) 618"
-      }
-    ],
-    "folders": [
-      "dirt_3"
-    ],
-    "name": "Dirt Clicker"
   },
   "4574330": {
     "config_count": 1,
@@ -31339,10 +31338,11 @@
     "name": "Half-Life"
   },
   "7000": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
-      "Tomb_Raider__Legend"
+      "Tomb_Raider__Legend",
+      "Tomb_Raider_-_Legend"
     ],
     "name": "Tomb Raider: Legend"
   },
@@ -31389,7 +31389,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -31405,6 +31405,11 @@
         "d": "Adreno__TM__A32",
         "m": "Pocket_Fit_G3_Gen3",
         "s": "Adreno (TM) A32"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -32075,7 +32080,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 23,
+    "config_count": 25,
     "devices": [
       {
         "d": "G720_MC7",
@@ -32128,7 +32133,9 @@
       "Call_of_Duty_4__Modern_Warfare",
       "Call_of_Duty__4__Modern_Warfare___2007_",
       "iw3mp",
-      "iw3sp"
+      "iw3sp",
+      "Call_of_Duty_4_Modern_Warfare",
+      "call_of_duty_4_modern_Warfare"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
@@ -35801,20 +35808,6 @@
     ],
     "name": "Need For Speed Black Edition"
   },
-  "name:need-for-speed-most-wanted-2012": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
-      }
-    ],
-    "folders": [
-      "Need_for_Speed__Most_wanted__2012_"
-    ],
-    "name": "Need For Speed Most Wanted 2012"
-  },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 1,
     "devices": [],
@@ -38290,14 +38283,6 @@
     ],
     "name": "The Amazing Spider Man 2"
   },
-  "name:the-elder-scrolls-v-skyrim-anniversary-upgrade": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "The_Elder_Scrolls_V_-_Skyrim_Anniversary_Upgrade"
-    ],
-    "name": "The Elder Scrolls V Skyrim Anniversary Upgrade"
-  },
   "name:the-lust-voyage": {
     "config_count": 1,
     "devices": [],
@@ -38375,14 +38360,6 @@
       "Tomb_Raider_Defenitive_Edition"
     ],
     "name": "Tomb Raider Defenitive Edition"
-  },
-  "name:tomb-raider-legend": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Tomb_Raider_-_Legend"
-    ],
-    "name": "Tomb Raider Legend"
   },
   "name:tpp-main-win64": {
     "config_count": 2,
