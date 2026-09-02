@@ -1452,20 +1452,6 @@
     ],
     "name": "People Playground"
   },
-  "1118272": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__618",
-        "m": "M2007J20CG",
-        "s": "Adreno (TM) 618"
-      }
-    ],
-    "folders": [
-      "dirt_3"
-    ],
-    "name": "DiRT Rally 2.0 - Peugeot 306 Maxi"
-  },
   "1118310": {
     "config_count": 1,
     "devices": [],
@@ -3864,11 +3850,6 @@
         "d": "Adreno__TM__650",
         "m": "22021211RG",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
       }
     ],
     "folders": [
@@ -3882,7 +3863,6 @@
       "Need_For_Speed_Most_Wanted_",
       "Need_for_Speed_-_Most_Wanted",
       "Need_for_Speed__Most_Wanted_2005",
-      "Need_for_Speed__Most_wanted__2012_",
       "need_for_speed_most_wa",
       "need_for_speed_most_wanted_2005"
     ],
@@ -7598,14 +7578,6 @@
       "Mass_Effect"
     ],
     "name": "Mass Effect (2007)"
-  },
-  "1746860": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "The_Elder_Scrolls_V_-_Skyrim_Anniversary_Upgrade"
-    ],
-    "name": "The Elder Scrolls V: Skyrim Anniversary Upgrade"
   },
   "17470": {
     "config_count": 21,
@@ -27549,6 +27521,20 @@
     ],
     "name": "Oxygen Not Included"
   },
+  "4572120": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__618",
+        "m": "M2007J20CG",
+        "s": "Adreno (TM) 618"
+      }
+    ],
+    "folders": [
+      "dirt_3"
+    ],
+    "name": "Dirt Clicker"
+  },
   "4574330": {
     "config_count": 1,
     "devices": [],
@@ -31353,11 +31339,10 @@
     "name": "Half-Life"
   },
   "7000": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "Tomb_Raider__Legend",
-      "Tomb_Raider_-_Legend"
+      "Tomb_Raider__Legend"
     ],
     "name": "Tomb Raider: Legend"
   },
@@ -35087,6 +35072,20 @@
     ],
     "name": "Fallout New Vegas Pcr"
   },
+  "name:far-cry-3-language-selector": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "23113RKC6G",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Far_Cry_3_Language_Selector"
+    ],
+    "name": "Far Cry 3 Language Selector"
+  },
   "name:farmingsimulator2022game": {
     "config_count": 1,
     "devices": [],
@@ -35801,6 +35800,20 @@
       "Need_for_Speed_Black_Edition_"
     ],
     "name": "Need For Speed Black Edition"
+  },
+  "name:need-for-speed-most-wanted-2012": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
+      }
+    ],
+    "folders": [
+      "Need_for_Speed__Most_wanted__2012_"
+    ],
+    "name": "Need For Speed Most Wanted 2012"
   },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 1,
@@ -38277,6 +38290,14 @@
     ],
     "name": "The Amazing Spider Man 2"
   },
+  "name:the-elder-scrolls-v-skyrim-anniversary-upgrade": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "The_Elder_Scrolls_V_-_Skyrim_Anniversary_Upgrade"
+    ],
+    "name": "The Elder Scrolls V Skyrim Anniversary Upgrade"
+  },
   "name:the-lust-voyage": {
     "config_count": 1,
     "devices": [],
@@ -38354,6 +38375,14 @@
       "Tomb_Raider_Defenitive_Edition"
     ],
     "name": "Tomb Raider Defenitive Edition"
+  },
+  "name:tomb-raider-legend": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Tomb_Raider_-_Legend"
+    ],
+    "name": "Tomb Raider Legend"
   },
   "name:tpp-main-win64": {
     "config_count": 2,
