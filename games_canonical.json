@@ -1312,7 +1312,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1321,7 +1321,8 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid"
+      "BattleForTheGrid",
+      "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -3772,7 +3773,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 48,
+    "config_count": 49,
     "devices": [
       {
         "d": "G57_MC2",
@@ -3858,6 +3859,11 @@
         "d": "Adreno__TM__750",
         "m": "CPH2645",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "22021211RG",
+        "s": "Adreno (TM) 650"
       },
       {
         "d": "Samsung_Xclipse_540",
@@ -5136,7 +5142,7 @@
     "name": "You Will Die Here Tonight"
   },
   "1446780": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -5182,6 +5188,11 @@
         "d": "Adreno__TM__730",
         "m": "motorola_edge_30_ultra",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "TB321FU",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -7166,6 +7177,14 @@
     ],
     "name": "Minecraft Dungeons"
   },
+  "1675200": {
+    "config_count": 3,
+    "devices": [],
+    "folders": [
+      "Steam"
+    ],
+    "name": "Steam Deck"
+  },
   "1676840": {
     "config_count": 1,
     "devices": [],
@@ -8304,7 +8323,7 @@
     "name": "Marvel\u2019s Spider-Man Remastered"
   },
   "1817190": {
-    "config_count": 23,
+    "config_count": 24,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -8365,6 +8384,11 @@
         "d": "Adreno__TM__825",
         "m": "25053RT47C",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
       }
     ],
     "folders": [
@@ -12253,7 +12277,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12288,7 +12312,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev"
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -13767,7 +13792,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 16,
+    "config_count": 13,
     "devices": [
       {
         "d": "G720_MC7",
@@ -13793,21 +13818,10 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II",
-      "DarkSoulsII"
+      "DARK_SOULS__II"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -17382,14 +17396,6 @@
     ],
     "name": "RIDE 6"
   },
-  "2816870": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Mighty Morphin Power Rangers: Rita's Rewind"
-  },
   "281940": {
     "config_count": 1,
     "devices": [],
@@ -17994,7 +18000,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -18034,8 +18040,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -20255,7 +20260,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1350,
+    "config_count": 1352,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -22420,14 +22425,6 @@
     ],
     "name": "Heavy Weapon Deluxe"
   },
-  "3419290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN"
-  },
   "341940": {
     "config_count": 3,
     "devices": [
@@ -24143,7 +24140,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 36,
+    "config_count": 39,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -24216,6 +24213,16 @@
         "s": "Adreno (TM) 735"
       },
       {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
+      },
+      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -24228,6 +24235,7 @@
       "DarkSoulsRemastered",
       "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
+      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -25840,6 +25848,14 @@
     ],
     "name": "The Spike Cross"
   },
+  "3985080": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN - Costume Expansion Pack"
+  },
   "400": {
     "config_count": 4,
     "devices": [],
@@ -26424,14 +26440,6 @@
       "mywintercar"
     ],
     "name": "My Winter Car"
-  },
-  "4165910": {
-    "config_count": 3,
-    "devices": [],
-    "folders": [
-      "Steam"
-    ],
-    "name": "Steam Machine"
   },
   "418240": {
     "config_count": 1,
@@ -36150,7 +36158,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2704,
+    "config_count": 2705,
     "devices": [
       {
         "d": "G52_MC2",
