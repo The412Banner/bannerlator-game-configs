@@ -17012,7 +17012,7 @@
     "name": "SBcatfight game"
   },
   "272510": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__725",
@@ -17033,11 +17033,17 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "24115RA8EG",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
       "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_Revolution",
-      "NARUTO_STORM_REVOLUTION"
+      "NARUTO_STORM_REVOLUTION",
+      "NARUTO_SHIPPUDEN_-_Ultimate_Ninja_STORM_Revolution"
     ],
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution"
   },
@@ -27157,7 +27163,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -27169,7 +27175,8 @@
       "Call_of_Duty_4",
       "Call_of_Duty_4_Modern_Warfare",
       "COD__Modern_Warfare",
-      "Call_of_duty_Modern_Warfare"
+      "Call_of_duty_Modern_Warfare",
+      "call_of_duty_4_modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -31896,20 +31903,6 @@
     ],
     "name": "FURIDASHI - PREMIUM CAR: 2013 SA-86"
   },
-  "757310": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      }
-    ],
-    "folders": [
-      "Sable"
-    ],
-    "name": "Sable"
-  },
   "757320": {
     "config_count": 1,
     "devices": [],
@@ -32151,7 +32144,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 25,
+    "config_count": 24,
     "devices": [
       {
         "d": "G720_MC7",
@@ -32205,8 +32198,7 @@
       "Call_of_Duty__4__Modern_Warfare___2007_",
       "iw3mp",
       "iw3sp",
-      "Call_of_Duty_4_Modern_Warfare",
-      "call_of_duty_4_modern_Warfare"
+      "Call_of_Duty_4_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
