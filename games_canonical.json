@@ -5149,7 +5149,7 @@
     "name": "You Will Die Here Tonight"
   },
   "1446780": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -7183,6 +7183,14 @@
       "Minecraft_Dungeons"
     ],
     "name": "Minecraft Dungeons"
+  },
+  "1675200": {
+    "config_count": 3,
+    "devices": [],
+    "folders": [
+      "Steam"
+    ],
+    "name": "Steam Deck"
   },
   "1676840": {
     "config_count": 1,
@@ -12288,7 +12296,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 13,
+    "config_count": 15,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12322,7 +12330,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -15135,7 +15144,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "A075M",
@@ -15199,7 +15208,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes"
+      "LEGO__Marvel__Super_Heroes",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -18043,7 +18053,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -18084,7 +18094,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -18933,7 +18942,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -18952,7 +18961,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -26486,14 +26496,6 @@
     ],
     "name": "My Winter Car"
   },
-  "4165910": {
-    "config_count": 3,
-    "devices": [],
-    "folders": [
-      "Steam"
-    ],
-    "name": "Steam Machine"
-  },
   "418240": {
     "config_count": 1,
     "devices": [],
@@ -30818,7 +30820,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -33491,7 +33493,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -33510,8 +33512,7 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -38572,6 +38573,20 @@
       "Wizard_School_Exchange_Student"
     ],
     "name": "Wizard School Exchange Student"
+  },
+  "name:wwe2k24-x64": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "CPH2731",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "WWE2K24_x64"
+    ],
+    "name": "Wwe2K24 X64"
   },
   "name:x-men-origins-wolverine": {
     "config_count": 1,
