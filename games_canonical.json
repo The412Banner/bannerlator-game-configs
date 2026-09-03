@@ -9825,7 +9825,7 @@
     "name": "Call of Duty\u00ae: Black Ops II"
   },
   "203140": {
-    "config_count": 33,
+    "config_count": 35,
     "devices": [
       {
         "d": "G610_MC3",
@@ -9891,11 +9891,17 @@
         "d": "Adreno__TM__650",
         "m": "M2012K11AG",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
       "Hitman__Absolution",
-      "Hitman__Absolution_"
+      "Hitman__Absolution_",
+      "Hitman_-_Absolution"
     ],
     "name": "Hitman: Absolution\u2122"
   },
@@ -11311,7 +11317,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 95,
+    "config_count": 98,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -11357,11 +11363,6 @@
         "d": "Adreno__TM__740",
         "m": "2211133G",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__720",
-        "m": "motorola_edge_50_pro",
-        "s": "Adreno (TM) 720"
       },
       {
         "d": "G610_MC6",
@@ -11442,6 +11443,11 @@
         "d": "Adreno__TM__740",
         "m": "23113RKC6C",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "motorola_edge_50_pro",
+        "s": "Adreno (TM) 720"
       }
     ],
     "folders": [
@@ -19032,7 +19038,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -19051,7 +19057,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -22953,7 +22960,7 @@
     "name": "Stellar Blade\u2122"
   },
   "349040": {
-    "config_count": 57,
+    "config_count": 60,
     "devices": [
       {
         "d": "G615_MC2",
@@ -23059,6 +23066,11 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "motorola_edge_50_pro",
+        "s": "Adreno (TM) 720"
       }
     ],
     "folders": [
@@ -33650,7 +33662,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -33669,8 +33681,7 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
