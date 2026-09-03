@@ -9534,7 +9534,7 @@
     "name": "Assassin's Creed\u00ae Revelations"
   },
   "202170": {
-    "config_count": 65,
+    "config_count": 66,
     "devices": [
       {
         "d": "MT6878",
@@ -9690,6 +9690,11 @@
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "Odin2_Portal",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -22190,6 +22195,14 @@
       "ToHeart"
     ],
     "name": "ToHeart"
+  },
+  "338930": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Transformers_Devastation"
+    ],
+    "name": "Transformers Devastation"
   },
   "33900": {
     "config_count": 1,
