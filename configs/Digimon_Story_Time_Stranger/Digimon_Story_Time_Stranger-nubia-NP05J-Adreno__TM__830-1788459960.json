@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "nubia NP05J",
+    "soc": "Adreno (TM) 830",
+    "bh_version": "3.0.4",
+    "upload_token": "5ab6df4a7373efa5",
+    "settings_count": 10,
+    "components_count": 4
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"2.7.3\"}",
+    "pc_ls_VK3k": "{\"name\":\"3.0.1-arm64ec-0\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"WN-Turnip-1.10-p Axxx\"}",
+    "pc_set_constant_95": "{\"name\":\"2608\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"Proton-11.0-2-arm64ec-1\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-original",
+    "pc_ls_AUDIO_DRIVER": "1",
+    "pc_ls_update_enable_xinput": true,
+    "pc_ls_environment_variable": "WRAPPER_MAX_IMAGE_COUNT=0 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=512MB mesa_glthread=true WINEESYNC=1 TU_DEBUG=noconform,sysmem",
+    "bl_ext": {
+      "dxwrapper": "vegas+vkd3d",
+      "screenSize": "1440x900",
+      "renderer": "vulkan",
+      "sfCompatMode": "1",
+      "fullscreenMode": "0",
+      "frameGenEngine": "lsfg",
+      "native": "false",
+      "swapRB": "false",
+      "presentMode": "fifo",
+      "fpsLimiterEnabled": "1",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "reshadeMode": "solo",
+      "reshadeEffect": "None",
+      "emulator": "fexcore",
+      "box64Version": "0.3.7",
+      "box64Preset": "COMPATIBILITY",
+      "fexcorePreset": "PERFORMANCE_TSO",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "startupSelection": "1",
+      "inputType": "4",
+      "exclusiveXInput": "1",
+      "simTouchScreen": "0",
+      "numControllers": "1",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1",
+      "lc_all": "en_GB.UTF-8",
+      "autoCloseOnExit": "1",
+      "fpsCounterConfig": "hudStyle=classic,hudEnabled=1,hudSize=mega,hudLocked=0,showVram=1,showLow001=1,fpsDecimal=1,showPerCore=1,showSwap=1,showNet=1,showResolution=1,showProton=1,showWrapper=1,showDxVer=1,showSession=1,hudMode=horizontal,showFPS=1,showFPSGraph=0,showCPUUsage=1,showCPULoad=1,showGPULoad=0,showRAM=0,showPower=0,showTemp=1,showBatteryTemp=1,showEngine=1,showRenderer=1,showGpuModel=0,hudDualBattery=0,showGpuTemp=0,showBattery=0,showRuntime=0,showClock=1,showCPUGraph=0,showGPUGraph=0,tempUnit=c,tempBands=1,tempAuto=1,tempRedCpu=90,tempRedGpu=90,tempRedBat=48,hudSkin=classic,hudColor=mid,hudOutline=40,hudOutlineAccent=1,hudScale=75,hudOpacity=80,hudTransparency=0",
+      "gyroEnabled": "0",
+      "gyroTarget": "0",
+      "gyroActivator": "0",
+      "gyroActivationMode": "0",
+      "gyroMode": "0",
+      "gyroSensitivity": "2.0",
+      "gyroInvertX": "0",
+      "gyroInvertY": "0",
+      "maxGameRefreshRate": "0",
+      "unlockGameRefreshRate": "1",
+      "frameGenModel": "3",
+      "vibrationMode": "0",
+      "vibrationIntensity": "100",
+      "scalingMode": "7",
+      "dxwrapperConfig": "version=2.7.3,framerate=0,async=0,asyncCache=0,vkd3dVersion=3.0.1-arm64ec-0,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,d7vkVersion=Bundled (default),dxvkConfigFile="
+    }
+  },
+  "components": [
+    {
+      "name": "2.7.3",
+      "type": "DXVK"
+    },
+    {
+      "name": "3.0.1-arm64ec-0",
+      "type": "VKD3D"
+    },
+    {
+      "name": "WN-Turnip-1.10-p Axxx",
+      "type": "GPU"
+    },
+    {
+      "name": "2608",
+      "type": "FEXCore"
+    }
+  ]
+}
