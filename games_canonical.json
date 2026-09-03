@@ -20345,7 +20345,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1363,
+    "config_count": 1364,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -22105,7 +22105,7 @@
     "name": "skate."
   },
   "3357650": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -22146,6 +22146,11 @@
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "NP05J",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -27538,6 +27543,14 @@
     ],
     "name": "Pub Encounter"
   },
+  "4475790": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Warband"
+    ],
+    "name": "Warband"
+  },
   "447960": {
     "config_count": 1,
     "devices": [
@@ -28338,7 +28351,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -28353,8 +28366,7 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband",
-      "Warband"
+      "Mount_Blade_Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -36346,7 +36358,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2714,
+    "config_count": 2715,
     "devices": [
       {
         "d": "G52_MC2",
