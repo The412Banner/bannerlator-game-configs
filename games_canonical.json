@@ -1664,7 +1664,7 @@
     "name": "Hades II"
   },
   "1145360": {
-    "config_count": 18,
+    "config_count": 20,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -1690,6 +1690,11 @@
         "d": "Adreno__TM__640",
         "m": "Redmi_K20_Pro",
         "s": "Adreno (TM) 640"
+      },
+      {
+        "d": "Adreno__TM__A12",
+        "m": "RG_55G1",
+        "s": "Adreno (TM) A12"
       },
       {
         "d": "Adreno__TM__735",
@@ -4150,14 +4155,6 @@
       "Helltaker"
     ],
     "name": "Helltaker"
-  },
-  "1289670": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "EA"
-    ],
-    "name": "EA Play"
   },
   "1292940": {
     "config_count": 1,
@@ -7830,7 +7827,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 154,
+    "config_count": 155,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -13672,7 +13669,7 @@
     "name": "Invincible VS"
   },
   "235460": {
-    "config_count": 27,
+    "config_count": 28,
     "devices": [
       {
         "d": "G57",
@@ -13713,6 +13710,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "24117RK2CG",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -18932,7 +18934,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -18951,7 +18953,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -19987,7 +19990,7 @@
     "name": "Warhammer 40,000: Space Marine - Master Crafted Edition"
   },
   "3180070": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__720",
@@ -20003,12 +20006,18 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
       }
     ],
     "folders": [
       "NoImNotAHuman",
       "No_Im_not_a_Human___________________________________________",
-      "noimnotahuman-"
+      "noimnotahuman-",
+      "no_im_not_a_human"
     ],
     "name": "No, I'm not a Human"
   },
@@ -20304,7 +20313,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1360,
+    "config_count": 1363,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -21012,11 +21021,6 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "Adreno__TM__710",
-        "m": "A366B",
-        "s": "Adreno (TM) 710"
-      },
-      {
         "d": "ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_",
         "m": "A576B",
         "s": "ANGLE ((Samsung Xclipse 550) on Vulkan 1.4.304)"
@@ -21280,6 +21284,11 @@
         "d": "Adreno__TM__610",
         "m": "LX2",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "A366B",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__830",
@@ -25978,6 +25987,14 @@
     ],
     "name": "Beat The Champions"
   },
+  "4032350": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "EA"
+    ],
+    "name": "EA SPORTS\u2122 College Football 27"
+  },
   "40350": {
     "config_count": 1,
     "devices": [
@@ -27481,6 +27498,14 @@
     ],
     "name": "Pub Encounter"
   },
+  "4475790": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Warband"
+    ],
+    "name": "Warband"
+  },
   "447960": {
     "config_count": 1,
     "devices": [
@@ -28281,7 +28306,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -28296,8 +28321,7 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband",
-      "Warband"
+      "Mount_Blade_Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -33496,7 +33520,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -33515,8 +33539,7 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
