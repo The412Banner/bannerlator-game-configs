@@ -27003,7 +27003,13 @@
   },
   "435150": {
     "config_count": 1,
-    "devices": [],
+    "devices": [
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
+      }
+    ],
     "folders": [
       "Divinity_-_Original_Sin_2_-_Definitive_Edition"
     ],
