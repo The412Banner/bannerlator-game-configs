@@ -7189,14 +7189,6 @@
     ],
     "name": "Minecraft Dungeons"
   },
-  "1675200": {
-    "config_count": 3,
-    "devices": [],
-    "folders": [
-      "Steam"
-    ],
-    "name": "Steam Deck"
-  },
   "1676840": {
     "config_count": 1,
     "devices": [],
@@ -13816,7 +13808,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 17,
+    "config_count": 14,
     "devices": [
       {
         "d": "G720_MC7",
@@ -13847,21 +13839,10 @@
         "d": "Adreno__TM__710",
         "m": "A366E",
         "s": "Adreno (TM) 710"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II",
-      "DarkSoulsII"
+      "DARK_SOULS__II"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -24218,7 +24199,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 36,
+    "config_count": 39,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -24291,6 +24272,16 @@
         "s": "Adreno (TM) 735"
       },
       {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
+      },
+      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -24303,6 +24294,7 @@
       "DarkSoulsRemastered",
       "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
+      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -26499,6 +26491,14 @@
       "mywintercar"
     ],
     "name": "My Winter Car"
+  },
+  "4165910": {
+    "config_count": 3,
+    "devices": [],
+    "folders": [
+      "Steam"
+    ],
+    "name": "Steam Machine"
   },
   "418240": {
     "config_count": 1,
@@ -38190,6 +38190,14 @@
       "SHProto"
     ],
     "name": "Shproto"
+  },
+  "name:skse64-loader": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "skse64_loader"
+    ],
+    "name": "Skse64 Loader"
   },
   "name:skyrimse": {
     "config_count": 2,
