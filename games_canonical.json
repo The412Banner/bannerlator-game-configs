@@ -5880,7 +5880,7 @@
     "name": "The Callisto Protocol\u2122"
   },
   "1546970": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "G615_MC2",
@@ -5906,6 +5906,11 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__650",
@@ -11279,7 +11284,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 94,
+    "config_count": 95,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -11405,6 +11410,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "23113RKC6C",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -11453,6 +11463,14 @@
       "Warhammer_40_000_Space_Marine"
     ],
     "name": "Warhammer 40,000: Space Marine 2"
+  },
+  "2184020": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Lifted"
+    ],
+    "name": "LIFTED"
   },
   "2184260": {
     "config_count": 18,
@@ -15150,7 +15168,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "A075M",
@@ -15214,7 +15232,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes"
+      "LEGO__Marvel__Super_Heroes",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -22499,6 +22518,14 @@
     ],
     "name": "Heavy Weapon Deluxe"
   },
+  "3419290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN"
+  },
   "341940": {
     "config_count": 3,
     "devices": [
@@ -25928,14 +25955,6 @@
     ],
     "name": "The Spike Cross"
   },
-  "3985080": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN - Costume Expansion Pack"
-  },
   "400": {
     "config_count": 4,
     "devices": [],
@@ -27122,6 +27141,14 @@
       "ChopChopInc"
     ],
     "name": "Chop Chop Inc."
+  },
+  "4371450": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Fuel"
+    ],
+    "name": "Arctic Shift: Fuel Station"
   },
   "438100": {
     "config_count": 3,
@@ -30139,6 +30166,20 @@
     ],
     "name": "BIOMUTANT"
   },
+  "598550": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_FIT",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "HUNTDOWN"
+    ],
+    "name": "HUNTDOWN"
+  },
   "598810": {
     "config_count": 1,
     "devices": [
@@ -30853,7 +30894,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -36305,7 +36346,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2712,
+    "config_count": 2713,
     "devices": [
       {
         "d": "G52_MC2",
@@ -36983,11 +37024,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "Adreno__TM__710",
-        "m": "A366E",
-        "s": "Adreno (TM) 710"
-      },
-      {
         "d": "Ultra_MC12",
         "m": "G1",
         "s": "Mali-G1-Ultra MC12"
@@ -37191,6 +37227,11 @@
         "d": "PowerVR_Rogue_GE8320",
         "m": "A042M",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "A366E",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__740",
