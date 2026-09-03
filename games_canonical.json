@@ -4145,6 +4145,14 @@
     ],
     "name": "Helltaker"
   },
+  "1289670": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "EA"
+    ],
+    "name": "EA Play"
+  },
   "1292940": {
     "config_count": 1,
     "devices": [
@@ -12280,7 +12288,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 15,
+    "config_count": 13,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12314,8 +12322,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -15128,7 +15135,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 26,
+    "config_count": 25,
     "devices": [
       {
         "d": "A075M",
@@ -15192,8 +15199,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes",
-      "LEGOMARVEL"
+      "LEGO__Marvel__Super_Heroes"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -18037,7 +18043,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 34,
     "devices": [
       {
         "d": "G615_MC2",
@@ -18078,6 +18084,7 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
+      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -20298,7 +20305,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1357,
+    "config_count": 1358,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -22470,6 +22477,14 @@
       "Heavy_Weapon"
     ],
     "name": "Heavy Weapon Deluxe"
+  },
+  "3419290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN"
   },
   "341940": {
     "config_count": 3,
@@ -25211,7 +25226,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 175,
+    "config_count": 176,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -25252,11 +25267,6 @@
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
       },
       {
         "d": "Adreno__TM__740",
@@ -25322,6 +25332,11 @@
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       },
       {
         "d": "QCS8550",
@@ -25894,14 +25909,6 @@
     ],
     "name": "The Spike Cross"
   },
-  "3985080": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN - Costume Expansion Pack"
-  },
   "400": {
     "config_count": 4,
     "devices": [],
@@ -25965,14 +25972,6 @@
       "BeatTheChampions"
     ],
     "name": "Beat The Champions"
-  },
-  "4032350": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "EA"
-    ],
-    "name": "EA SPORTS\u2122 College Football 27"
   },
   "40350": {
     "config_count": 1,
@@ -27477,14 +27476,6 @@
     ],
     "name": "Pub Encounter"
   },
-  "4475790": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Warband"
-    ],
-    "name": "Warband"
-  },
   "447960": {
     "config_count": 1,
     "devices": [
@@ -28285,7 +28276,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -28300,7 +28291,8 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband"
+      "Mount_Blade_Warband",
+      "Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -29397,7 +29389,7 @@
     "name": "art of rally"
   },
   "55100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G57_MC2",
@@ -30826,7 +30818,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
