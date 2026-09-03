@@ -1377,7 +1377,7 @@
     "name": "Persona 4 Golden"
   },
   "1113560": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -1387,7 +1387,8 @@
     ],
     "folders": [
       "NieR_Replicant__ver_1_22474487139___",
-      "NieR_Replicant_ver_1_22474487139"
+      "NieR_Replicant_ver_1_22474487139",
+      "NieR_Replicant_ver_1_22474487139___"
     ],
     "name": "NieR Replicant\u2122 ver.1.22474487139..."
   },
@@ -5291,7 +5292,7 @@
     "name": "Majikoi! Love Me Seriously!"
   },
   "1462040": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -5322,6 +5323,7 @@
     "folders": [
       "FINAL_FANTASY_VII_REMAKE_INTERGRADE",
       "REM",
+      "FINAL_FANTASY_VII_REMAKE",
       "Final_Fantasy_VII_Remake"
     ],
     "name": "FINAL FANTASY VII REMAKE INTERGRADE"
@@ -7770,6 +7772,14 @@
     ],
     "name": "Death's Gambit: Afterlife Soundtrack"
   },
+  "1776380": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "STAR_OCEAN_THE_DIVINE_FORCE"
+    ],
+    "name": "STAR OCEAN THE DIVINE FORCE"
+  },
   "1778820": {
     "config_count": 7,
     "devices": [
@@ -8597,7 +8607,7 @@
     "name": "RPG Maker MV - City Exterior Tileset"
   },
   "1875580": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -9030,7 +9040,7 @@
     "name": "Strikers Club"
   },
   "1954200": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -9041,10 +9051,21 @@
         "d": "Adreno__TM__830",
         "m": "TB322FC",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "NP05J",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
       "Kena__Bridge_of_Spirits",
+      "Kena_-_Bridge_of_Spirits",
       "Kena_Bridge_of_Spirits"
     ],
     "name": "Kena: Bridge of Spirits"
@@ -9236,8 +9257,14 @@
     "name": "Anger Foot"
   },
   "1979440": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "NP05J",
+        "s": "Adreno (TM) 830"
+      }
+    ],
     "folders": [
       "SAND_LAND"
     ],
@@ -13693,7 +13720,7 @@
     "name": "Invincible VS"
   },
   "235460": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "G57",
@@ -13739,6 +13766,11 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "NP05J",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -14296,6 +14328,14 @@
       "MotoGP13"
     ],
     "name": "MotoGP\u212213"
+  },
+  "2407270": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "AI_LIMIT"
+    ],
+    "name": "AI LIMIT"
   },
   "241540": {
     "config_count": 6,
@@ -14976,8 +15016,14 @@
     "name": "Avowed"
   },
   "2458830": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "NP05J",
+        "s": "Adreno (TM) 830"
+      }
+    ],
     "folders": [
       "Towerborne"
     ],
@@ -15256,6 +15302,14 @@
       "WOLV"
     ],
     "name": "FATAL FURY: City of the Wolves"
+  },
+  "2492670": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version"
+    ],
+    "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version"
   },
   "2499040": {
     "config_count": 1,
@@ -16693,7 +16747,7 @@
     "name": "Minami Lane"
   },
   "2679460": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -16703,7 +16757,8 @@
     ],
     "folders": [
       "Metaphor__ReFantazio",
-      "METAPHOR"
+      "METAPHOR",
+      "Metaphor_-_ReFantazio"
     ],
     "name": "Metaphor: ReFantazio"
   },
@@ -17203,7 +17258,7 @@
     "name": "GOALS"
   },
   "2753970": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "Immortalis_MC11",
@@ -17923,7 +17978,7 @@
     "name": "ZERO PARADES: For Dead Spies"
   },
   "2864560": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -17944,6 +17999,7 @@
     "folders": [
       "Rune_Factory__Guardians_of_Azuma",
       "Guardians",
+      "Rune_Factory_-_Guardians_of_Azuma",
       "Rune_Factory_Guardians_of_Azuma"
     ],
     "name": "Rune Factory: Guardians of Azuma"
@@ -18077,6 +18133,14 @@
       "Slay_the_Spire_2"
     ],
     "name": "Slay the Spire 2"
+  },
+  "2870350": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Pipistrello_and_the_Cursed_Yoyo"
+    ],
+    "name": "Pipistrello and the Cursed Yoyo"
   },
   "287290": {
     "config_count": 31,
@@ -18842,7 +18906,7 @@
     "name": "FlatOut 2"
   },
   "2993780": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -18857,7 +18921,8 @@
     ],
     "folders": [
       "FantasyLife_i",
-      "Fantasy_Life_i__The_Girl_Who_Steals_Time"
+      "Fantasy_Life_i__The_Girl_Who_Steals_Time",
+      "FANTASY_LIFE_i_The_Girl_Who_Steals_Time"
     ],
     "name": "FANTASY LIFE i: The Girl Who Steals Time"
   },
@@ -28196,7 +28261,7 @@
     "name": "LIMBO"
   },
   "480490": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -28714,7 +28779,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -30429,7 +30494,7 @@
     "name": "Moonlighter"
   },
   "606280": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -32122,7 +32187,7 @@
     "name": "Blasphemous"
   },
   "775500": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [],
     "folders": [
       "SCARLET_NEXUS",
