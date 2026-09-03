@@ -1312,7 +1312,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1321,7 +1321,8 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid"
+      "BattleForTheGrid",
+      "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -2552,7 +2553,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 354,
+    "config_count": 355,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -17431,14 +17432,6 @@
       "RIDE_6"
     ],
     "name": "RIDE 6"
-  },
-  "2816870": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Mighty Morphin Power Rangers: Rita's Rewind"
   },
   "281940": {
     "config_count": 1,
@@ -38190,14 +38183,6 @@
       "SHProto"
     ],
     "name": "Shproto"
-  },
-  "name:skse64-loader": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "skse64_loader"
-    ],
-    "name": "Skse64 Loader"
   },
   "name:skyrimse": {
     "config_count": 2,
