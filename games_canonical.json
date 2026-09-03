@@ -546,7 +546,7 @@
     "name": "Hollow Knight: Silksong"
   },
   "1030830": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "G57_MC2",
@@ -7827,7 +7827,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 155,
+    "config_count": 156,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -8058,6 +8058,11 @@
         "d": "Adreno__TM__830",
         "m": "NX789J_V1B",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Immortalis_MC11",
+        "m": "G715",
+        "s": "Mali-G715-Immortalis MC11"
       }
     ],
     "folders": [
@@ -12291,7 +12296,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12326,7 +12331,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev"
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -15144,7 +15150,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 26,
+    "config_count": 25,
     "devices": [
       {
         "d": "A075M",
@@ -15208,8 +15214,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes",
-      "LEGOMARVEL"
+      "LEGO__Marvel__Super_Heroes"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -16944,7 +16949,7 @@
     "name": "Palia"
   },
   "270880": {
-    "config_count": 23,
+    "config_count": 24,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -16985,6 +16990,11 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__610",
@@ -17041,7 +17051,7 @@
     "name": "SBcatfight game"
   },
   "272510": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__725",
@@ -17057,6 +17067,11 @@
         "d": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
         "m": "S711B",
         "s": "ANGLE ((Samsung Xclipse 920) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       },
       {
         "d": "G57_MC2",
@@ -18045,7 +18060,7 @@
     "name": "Slay the Spire 2"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -18085,8 +18100,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -18934,7 +18948,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -18953,8 +18967,7 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -20003,21 +20016,21 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
       "NoImNotAHuman",
       "No_Im_not_a_Human___________________________________________",
-      "noimnotahuman-",
-      "no_im_not_a_human"
+      "no_im_not_a_human",
+      "noimnotahuman-"
     ],
     "name": "No, I'm not a Human"
   },
@@ -27498,14 +27511,6 @@
     ],
     "name": "Pub Encounter"
   },
-  "4475790": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Warband"
-    ],
-    "name": "Warband"
-  },
   "447960": {
     "config_count": 1,
     "devices": [
@@ -28306,7 +28311,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -28321,7 +28326,8 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband"
+      "Mount_Blade_Warband",
+      "Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -30847,7 +30853,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -33520,7 +33526,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G615_MC6",
@@ -33539,7 +33545,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
