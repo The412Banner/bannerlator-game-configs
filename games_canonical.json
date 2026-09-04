@@ -2333,6 +2333,20 @@
     ],
     "name": "A Space for the Unbound"
   },
+  "1203170": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Darksiders"
+    ],
+    "name": "Darksiders 4"
+  },
   "1203220": {
     "config_count": 2,
     "devices": [
@@ -12877,7 +12891,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 218,
+    "config_count": 219,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -19864,6 +19878,20 @@
       "Rain_World"
     ],
     "name": "Rain World"
+  },
+  "312540": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
+      }
+    ],
+    "folders": [
+      "Ys_VI_-_The_Ark_of_Napishtim"
+    ],
+    "name": "Ys VI: The Ark of Napishtim"
   },
   "312610": {
     "config_count": 1,
@@ -31697,7 +31725,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -31713,11 +31741,6 @@
         "d": "Adreno__TM__A32",
         "m": "Pocket_Fit_G3_Gen3",
         "s": "Adreno (TM) A32"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
