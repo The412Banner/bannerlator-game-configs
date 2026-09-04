@@ -1312,7 +1312,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1321,8 +1321,7 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid",
-      "Rangers"
+      "BattleForTheGrid"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -2559,7 +2558,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 355,
+    "config_count": 356,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -2872,11 +2871,6 @@
         "s": "Adreno (TM) 730"
       },
       {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
@@ -2920,6 +2914,11 @@
         "d": "Adreno__TM__610",
         "m": "CPH2819",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__735",
@@ -15220,7 +15219,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 26,
+    "config_count": 25,
     "devices": [
       {
         "d": "A075M",
@@ -15284,8 +15283,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes",
-      "LEGOMARVEL"
+      "LEGO__Marvel__Super_Heroes"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -17529,6 +17527,14 @@
       "RIDE_6"
     ],
     "name": "RIDE 6"
+  },
+  "2816870": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Mighty Morphin Power Rangers: Rita's Rewind"
   },
   "281940": {
     "config_count": 1,
@@ -20416,7 +20422,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1364,
+    "config_count": 1365,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -21392,6 +21398,11 @@
         "d": "Adreno__TM__710",
         "m": "A366B",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "25102PCBEG",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__830",
@@ -30989,7 +31000,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -35347,6 +35358,14 @@
     ],
     "name": "Eurotrucks2"
   },
+  "name:eurotrucks2-32": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "eurotrucks2_32"
+    ],
+    "name": "Eurotrucks2 32"
+  },
   "name:fallout-new-vegas-pcr": {
     "config_count": 1,
     "devices": [],
@@ -36440,7 +36459,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2716,
+    "config_count": 2720,
     "devices": [
       {
         "d": "G52_MC2",
@@ -36521,11 +36540,6 @@
         "d": "Adreno__TM__504",
         "m": "T295",
         "s": "Adreno (TM) 504"
-      },
-      {
-        "d": "Adreno__TM__616",
-        "m": "motorola_one_fusion",
-        "s": "Adreno (TM) 616"
       },
       {
         "d": "Adreno__TM__610",
@@ -36671,11 +36685,6 @@
         "d": "Adreno__TM__610",
         "m": "23129RAA4G",
         "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__720",
-        "m": "motorola_edge_50_pro",
-        "s": "Adreno (TM) 720"
       },
       {
         "d": "Adreno__TM__610",
@@ -37326,6 +37335,16 @@
         "d": "Adreno__TM__710",
         "m": "A366E",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "motorola_edge_50_pro",
+        "s": "Adreno (TM) 720"
+      },
+      {
+        "d": "Adreno__TM__616",
+        "m": "motorola_one_fusion",
+        "s": "Adreno (TM) 616"
       },
       {
         "d": "Adreno__TM__740",
