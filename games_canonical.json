@@ -15332,7 +15332,7 @@
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
   "2492040": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -15343,6 +15343,11 @@
         "d": "Adreno__TM__710",
         "m": "V2338",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "24122RKC7G",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
