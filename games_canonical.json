@@ -1312,7 +1312,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1321,7 +1321,8 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid"
+      "BattleForTheGrid",
+      "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -3668,6 +3669,20 @@
       "Test_Drive_Unlimited_Solar_Crown"
     ],
     "name": "Test Drive Unlimited Solar Crown"
+  },
+  "1256670": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      }
+    ],
+    "folders": [
+      "LibraryOfRuina"
+    ],
+    "name": "Library Of Ruina"
   },
   "1258480": {
     "config_count": 1,
@@ -17543,14 +17558,6 @@
     ],
     "name": "RIDE 6"
   },
-  "2816870": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Mighty Morphin Power Rangers: Rita's Rewind"
-  },
   "281940": {
     "config_count": 1,
     "devices": [],
@@ -24373,7 +24380,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 39,
+    "config_count": 33,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -24436,11 +24443,6 @@
         "s": "Mali-G720 MC8"
       },
       {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
-      },
-      {
         "d": "Adreno__TM__735",
         "m": "NX9",
         "s": "Adreno (TM) 735"
@@ -24466,7 +24468,6 @@
       "DARK_SOULS",
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
-      "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
       "DarkSoulsII",
       "DarkSoulsIII",
@@ -26848,6 +26849,20 @@
     ],
     "name": "Jujutsu Kaisen Phantom Parade"
   },
+  "4225980": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
+      }
+    ],
+    "folders": [
+      "Trails_in_the_Sky"
+    ],
+    "name": "Trails in the Sky 2nd Chapter"
+  },
   "423230": {
     "config_count": 2,
     "devices": [
@@ -27694,14 +27709,6 @@
     ],
     "name": "Pub Encounter"
   },
-  "4475790": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Warband"
-    ],
-    "name": "Warband"
-  },
   "447960": {
     "config_count": 1,
     "devices": [
@@ -28502,7 +28509,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -28517,7 +28524,8 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband"
+      "Mount_Blade_Warband",
+      "Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -29896,6 +29904,14 @@
     ],
     "name": "Fire Pro Wrestling World"
   },
+  "567640": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Danganronpa_V3__Killing_Harmony"
+    ],
+    "name": "Danganronpa V3: Killing Harmony"
+  },
   "568090": {
     "config_count": 3,
     "devices": [
@@ -29960,7 +29976,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 42,
+    "config_count": 48,
     "devices": [
       {
         "d": "G57",
@@ -30058,6 +30074,11 @@
         "s": "Mali-G720 MC7"
       },
       {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
+      },
+      {
         "d": "Adreno__TM__660",
         "m": "S928B",
         "s": "Adreno (TM) 660"
@@ -30066,6 +30087,9 @@
     "folders": [
       "DARK_SOULS__REMASTERED",
       "DARK_SOULS___REMASTERED",
+      "DARKSOULS",
+      "DARK_SOULS_-_REMASTERED",
+      "DarkSoulsRemastered",
       "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
