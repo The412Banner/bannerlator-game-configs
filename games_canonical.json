@@ -6659,8 +6659,14 @@
     "name": "Muck"
   },
   "1627720": {
-    "config_count": 3,
-    "devices": [],
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "I2501",
+        "s": "Adreno (TM) 840"
+      }
+    ],
     "folders": [
       "Lies_of_P"
     ],
@@ -7841,7 +7847,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 156,
+    "config_count": 157,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -15219,7 +15225,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "A075M",
@@ -15283,7 +15289,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes"
+      "LEGO__Marvel__Super_Heroes",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -31007,7 +31014,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -33731,6 +33738,14 @@
       "Sniper_3"
     ],
     "name": "Sniper 3D Assassin: Free to Play"
+  },
+  "924970": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Back_4_Blood"
+    ],
+    "name": "Back 4 Blood"
   },
   "934700": {
     "config_count": 5,
