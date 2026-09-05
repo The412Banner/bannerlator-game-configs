@@ -2344,6 +2344,20 @@
     ],
     "name": "A Space for the Unbound"
   },
+  "1203170": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Darksiders"
+    ],
+    "name": "Darksiders 4"
+  },
   "1203220": {
     "config_count": 2,
     "devices": [
@@ -19480,7 +19494,7 @@
     "name": "MotoGP\u212225"
   },
   "307780": {
-    "config_count": 33,
+    "config_count": 35,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -19541,6 +19555,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -27299,7 +27318,7 @@
     "name": "Divinity - Original Sin 2 - Definitive Edition"
   },
   "4355320": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -27315,6 +27334,11 @@
         "d": "Adreno__TM__740",
         "m": "CPH2447",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Immortalis_MC12",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC12"
       }
     ],
     "folders": [
@@ -27739,6 +27763,14 @@
       "Pub_Encounter"
     ],
     "name": "Pub Encounter"
+  },
+  "4475790": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Warband"
+    ],
+    "name": "Warband"
   },
   "447960": {
     "config_count": 1,
@@ -28540,7 +28572,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -28555,8 +28587,7 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband",
-      "Warband"
+      "Mount_Blade_Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -31780,7 +31811,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -31796,11 +31827,6 @@
         "d": "Adreno__TM__A32",
         "m": "Pocket_Fit_G3_Gen3",
         "s": "Adreno (TM) A32"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -33618,7 +33644,7 @@
     "name": "Last Epoch"
   },
   "911400": {
-    "config_count": 36,
+    "config_count": 35,
     "devices": [
       {
         "d": "MT6833V_PNZA",
