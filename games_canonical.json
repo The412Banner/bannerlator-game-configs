@@ -6282,7 +6282,7 @@
     "name": "Cairn"
   },
   "1593500": {
-    "config_count": 149,
+    "config_count": 150,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -6518,6 +6518,11 @@
         "d": "Adreno__TM__722",
         "m": "CPH2825",
         "s": "Adreno (TM) 722"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "24122RKC7G",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
