@@ -891,7 +891,7 @@
     "name": "Baldur's Gate 3"
   },
   "108710": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -912,6 +912,11 @@
         "d": "Adreno__TM__650",
         "m": "M2012K11AG",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -11338,7 +11343,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 98,
+    "config_count": 99,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -12376,7 +12381,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 16,
+    "config_count": 13,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12410,9 +12415,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -18197,7 +18200,7 @@
     "name": "Pipistrello and the Cursed Yoyo"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 34,
     "devices": [
       {
         "d": "G615_MC2",
@@ -18237,7 +18240,9 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -20492,7 +20497,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1371,
+    "config_count": 1373,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24401,7 +24406,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 41,
+    "config_count": 35,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -24464,11 +24469,6 @@
         "s": "Mali-G720 MC8"
       },
       {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
-      },
-      {
         "d": "Adreno__TM__735",
         "m": "NX9",
         "s": "Adreno (TM) 735"
@@ -24494,7 +24494,6 @@
       "DARK_SOULS",
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
-      "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
       "DarkSoulsII",
       "DarkSoulsIII",
@@ -28234,7 +28233,7 @@
     "name": "Human Fall Flat"
   },
   "47780": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "Retroid_Pocket_5",
@@ -30008,7 +30007,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 42,
+    "config_count": 48,
     "devices": [
       {
         "d": "G57",
@@ -30106,6 +30105,11 @@
         "s": "Mali-G720 MC7"
       },
       {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
+      },
+      {
         "d": "Adreno__TM__660",
         "m": "S928B",
         "s": "Adreno (TM) 660"
@@ -30114,6 +30118,9 @@
     "folders": [
       "DARK_SOULS__REMASTERED",
       "DARK_SOULS___REMASTERED",
+      "DARKSOULS",
+      "DARK_SOULS_-_REMASTERED",
+      "DarkSoulsRemastered",
       "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
@@ -36611,7 +36618,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2724,
+    "config_count": 2725,
     "devices": [
       {
         "d": "G52_MC2",
@@ -37304,11 +37311,6 @@
         "s": "PowerVR Rogue GE8320"
       },
       {
-        "d": "Adreno__TM__710",
-        "m": "motorola_edge_50_fusion",
-        "s": "Adreno (TM) 710"
-      },
-      {
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
@@ -37497,6 +37499,11 @@
         "d": "G52",
         "m": "Mali",
         "s": "Mali-G52"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "motorola_edge_50_fusion",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__740",
