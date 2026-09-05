@@ -12426,7 +12426,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 13,
+    "config_count": 15,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12460,7 +12460,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -18245,7 +18246,7 @@
     "name": "Pipistrello and the Cursed Yoyo"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -18286,7 +18287,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -22395,14 +22395,6 @@
       "KuloNiku"
     ],
     "name": "KuloNiku: Bowl Up!"
-  },
-  "3358440": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Persona_3_Reload_Demo"
-    ],
-    "name": "Persona 3 Reload Demo"
   },
   "3365030": {
     "config_count": 1,
@@ -28685,7 +28677,7 @@
     "name": "Warhammer 40,000: Gladius - Relics of War"
   },
   "489830": {
-    "config_count": 63,
+    "config_count": 64,
     "devices": [
       {
         "d": "G615_MC6",
@@ -28796,6 +28788,11 @@
         "d": "Adreno__TM__740",
         "m": "F731B",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
       },
       {
         "d": "Adreno__TM__740",
