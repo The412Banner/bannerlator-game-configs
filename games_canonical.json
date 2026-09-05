@@ -3495,7 +3495,7 @@
     "name": "Battlefield 3\u2122"
   },
   "1238840": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -3526,6 +3526,11 @@
         "d": "Adreno__TM__840",
         "m": "NX809J",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "CPH2653",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -5372,6 +5377,20 @@
       "SnowRunner"
     ],
     "name": "SnowRunner"
+  },
+  "1466640": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__650",
+        "m": "Retroid_Pocket_Flip2",
+        "s": "Adreno (TM) 650"
+      }
+    ],
+    "folders": [
+      "Road_96"
+    ],
+    "name": "Road 96 \ud83d\udee3\ufe0f"
   },
   "1472560": {
     "config_count": 1,
@@ -7236,6 +7255,14 @@
       "Minecraft_Dungeons"
     ],
     "name": "Minecraft Dungeons"
+  },
+  "1675200": {
+    "config_count": 3,
+    "devices": [],
+    "folders": [
+      "Steam"
+    ],
+    "name": "Steam Deck"
   },
   "1676840": {
     "config_count": 1,
@@ -9197,6 +9224,20 @@
     ],
     "name": "Lethal Company"
   },
+  "1967630": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__722",
+        "m": "RMX5131",
+        "s": "Adreno (TM) 722"
+      }
+    ],
+    "folders": [
+      "Survival_Fountain_of_Youth"
+    ],
+    "name": "Survival: Fountain of Youth"
+  },
   "19680": {
     "config_count": 10,
     "devices": [
@@ -9959,7 +10000,7 @@
     "name": "Hitman: Absolution\u2122"
   },
   "203160": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -10000,6 +10041,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24091RPADG",
+        "s": "Adreno (TM) 735"
       }
     ],
     "folders": [
@@ -12428,7 +12474,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 15,
+    "config_count": 13,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12462,8 +12508,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -14923,12 +14968,17 @@
     "name": "S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition"
   },
   "242760": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__722",
+        "m": "RMX5131",
+        "s": "Adreno (TM) 722"
       }
     ],
     "folders": [
@@ -18248,7 +18298,7 @@
     "name": "Pipistrello and the Cursed Yoyo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 34,
     "devices": [
       {
         "d": "G615_MC2",
@@ -18289,6 +18339,7 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
+      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -20565,7 +20616,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1373,
+    "config_count": 1374,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -21353,11 +21404,6 @@
         "s": "Adreno (TM) 750"
       },
       {
-        "d": "G720_MC8",
-        "m": "Mali",
-        "s": "Mali-G720 MC8"
-      },
-      {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
         "m": "S731B",
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
@@ -21546,6 +21592,11 @@
         "d": "Adreno__TM__840",
         "m": "25102PCBEG",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
       },
       {
         "d": "Adreno__TM__830",
@@ -26788,14 +26839,6 @@
     ],
     "name": "My Winter Car"
   },
-  "4165910": {
-    "config_count": 3,
-    "devices": [],
-    "folders": [
-      "Steam"
-    ],
-    "name": "Steam Machine"
-  },
   "418240": {
     "config_count": 1,
     "devices": [],
@@ -27437,7 +27480,7 @@
     "name": "Arctic Shift: Fuel Station"
   },
   "438100": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -27453,6 +27496,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "OPPO_A3",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
@@ -27831,14 +27879,6 @@
       "Pub_Encounter"
     ],
     "name": "Pub Encounter"
-  },
-  "4475790": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Warband"
-    ],
-    "name": "Warband"
   },
   "447960": {
     "config_count": 1,
@@ -28640,7 +28680,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -28655,7 +28695,8 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband"
+      "Mount_Blade_Warband",
+      "Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -36713,7 +36754,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2726,
+    "config_count": 2731,
     "devices": [
       {
         "d": "G52_MC2",
@@ -37501,11 +37542,6 @@
         "s": "Mali-G720 MC7"
       },
       {
-        "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-        "m": "S731B",
-        "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
-      },
-      {
         "d": "Adreno__TM__619",
         "m": "moto_g53_5G",
         "s": "Adreno (TM) 619"
@@ -37519,11 +37555,6 @@
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
-      },
-      {
-        "d": "PowerVR_Rogue_GE8320",
-        "m": "A125M",
-        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "Adreno__TM__616",
@@ -37599,6 +37630,21 @@
         "d": "Adreno__TM__710",
         "m": "23122PCD1G",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "A125M",
+        "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "M2101K6P",
+        "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+        "m": "S731B",
+        "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
       },
       {
         "d": "Adreno__TM__740",
