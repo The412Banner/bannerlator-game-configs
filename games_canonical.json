@@ -7275,14 +7275,6 @@
     ],
     "name": "Minecraft Dungeons"
   },
-  "1675200": {
-    "config_count": 3,
-    "devices": [],
-    "folders": [
-      "Steam"
-    ],
-    "name": "Steam Deck"
-  },
   "1676840": {
     "config_count": 1,
     "devices": [],
@@ -15386,7 +15378,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "A075M",
@@ -15450,7 +15442,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes"
+      "LEGO__Marvel__Super_Heroes",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -26873,6 +26866,14 @@
     ],
     "name": "My Winter Car"
   },
+  "4165910": {
+    "config_count": 3,
+    "devices": [],
+    "folders": [
+      "Steam"
+    ],
+    "name": "Steam Machine"
+  },
   "418240": {
     "config_count": 1,
     "devices": [],
@@ -27914,6 +27915,14 @@
     ],
     "name": "Pub Encounter"
   },
+  "4475790": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Warband"
+    ],
+    "name": "Warband"
+  },
   "447960": {
     "config_count": 1,
     "devices": [
@@ -28742,7 +28751,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -28757,8 +28766,7 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband",
-      "Warband"
+      "Mount_Blade_Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -31311,7 +31319,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -35941,6 +35949,20 @@
       "gNSUNSR"
     ],
     "name": "Gnsunsr"
+  },
+  "name:god-of-war-ragnar-k": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "24122RKC7G",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "God_of_War_Ragnar_k"
+    ],
+    "name": "God Of War Ragnar K"
   },
   "name:gothic-1-classic": {
     "config_count": 1,
