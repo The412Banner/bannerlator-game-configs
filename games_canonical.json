@@ -751,7 +751,7 @@
     "name": "Dinkum"
   },
   "1063040": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "G52_MC2",
@@ -1723,6 +1723,14 @@
     ],
     "name": "Hades"
   },
+  "1148590": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "DOOM64"
+    ],
+    "name": "DOOM 64"
+  },
   "1151380": {
     "config_count": 1,
     "devices": [
@@ -2045,7 +2053,7 @@
     "name": "FINAL FANTASY"
   },
   "1174180": {
-    "config_count": 49,
+    "config_count": 50,
     "devices": [
       {
         "d": "SM8750P",
@@ -10858,7 +10866,7 @@
     "name": "Fears to Fathom - Carson House"
   },
   "2124490": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -10874,6 +10882,11 @@
         "d": "Adreno__TM__750",
         "m": "V2425A",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "TB322FC",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "A566E",
@@ -15276,7 +15289,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "A075M",
@@ -15340,7 +15353,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes"
+      "LEGO__Marvel__Super_Heroes",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -18337,6 +18351,20 @@
     ],
     "name": "Fable Anniversary"
   },
+  "2890150": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "S948B",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "u4"
+    ],
+    "name": "U4iA - Season 1"
+  },
   "2890830": {
     "config_count": 2,
     "devices": [
@@ -19109,7 +19137,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -19128,7 +19156,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -19498,7 +19527,7 @@
     "name": "MotoGP\u212225"
   },
   "307780": {
-    "config_count": 35,
+    "config_count": 36,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -19556,14 +19585,14 @@
         "s": "Adreno (TM) 660"
       },
       {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
@@ -24267,7 +24296,7 @@
     "name": "Kingdom: Classic"
   },
   "368500": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "G57",
@@ -24283,6 +24312,11 @@
         "d": "Adreno__TM__642L",
         "m": "V2270A",
         "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -27774,14 +27808,6 @@
     ],
     "name": "Pub Encounter"
   },
-  "4475790": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Warband"
-    ],
-    "name": "Warband"
-  },
   "447960": {
     "config_count": 1,
     "devices": [
@@ -28582,7 +28608,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -28597,7 +28623,8 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband"
+      "Mount_Blade_Warband",
+      "Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -31145,7 +31172,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -33837,7 +33864,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -33856,8 +33883,7 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
