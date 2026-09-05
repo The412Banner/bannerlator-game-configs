@@ -3233,6 +3233,20 @@
     ],
     "name": "ULTRAKILL"
   },
+  "1230530": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "G57_MC4",
+        "m": "Mali",
+        "s": "Mali-G57 MC4"
+      }
+    ],
+    "folders": [
+      "Atla"
+    ],
+    "name": "Atlas Fallen: Reign Of Sand"
+  },
   "1232460": {
     "config_count": 1,
     "devices": [
@@ -11861,7 +11875,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 106,
+    "config_count": 107,
     "devices": [
       {
         "d": "S938B",
@@ -11927,11 +11941,6 @@
         "d": "Adreno__TM__830",
         "m": "AN10",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__730",
@@ -12007,6 +12016,11 @@
         "d": "Immortalis_MC11",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC11"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__740",
@@ -14625,7 +14639,7 @@
     "name": "Horizon Forbidden West\u2122 Complete Edition"
   },
   "242050": {
-    "config_count": 89,
+    "config_count": 90,
     "devices": [
       {
         "d": "MT6789",
@@ -14778,11 +14792,6 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "Adreno__TM__618",
-        "m": "V2040",
-        "s": "Adreno (TM) 618"
-      },
-      {
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
@@ -14796,6 +14805,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "V2040",
+        "s": "Adreno (TM) 618"
       },
       {
         "d": "Adreno__TM__750",
@@ -20083,7 +20097,7 @@
     "name": "Way of the Samurai 4"
   },
   "313160": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "G57_MC2",
@@ -22987,16 +23001,22 @@
     "name": "ARK: Survival Evolved"
   },
   "3468650": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
-      "Cricket_26"
+      "Cricket_26",
+      "Cricket_26_-_The_Official_Game_of_the_Ashes"
     ],
     "name": "Cricket 26 - The Official Game of the Ashes"
   },
@@ -23651,7 +23671,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 10,
+    "config_count": 6,
     "devices": [
       {
         "d": "G57_MC2",
@@ -23677,11 +23697,6 @@
         "d": "Adreno__TM__830",
         "m": "24122RKC7G",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57_MC4",
-        "m": "Mali",
-        "s": "Mali-G57 MC4"
       }
     ],
     "folders": [
@@ -27880,6 +27895,14 @@
     ],
     "name": "Pub Encounter"
   },
+  "4475790": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Warband"
+    ],
+    "name": "Warband"
+  },
   "447960": {
     "config_count": 1,
     "devices": [
@@ -27893,6 +27916,20 @@
       "xca"
     ],
     "name": "XCavalypse"
+  },
+  "4492740": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S931B",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "FlipWitch"
+    ],
+    "name": "Flipwitch - Temples of Temptation"
   },
   "4505090": {
     "config_count": 2,
@@ -28680,7 +28717,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -28695,8 +28732,7 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband",
-      "Warband"
+      "Mount_Blade_Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
