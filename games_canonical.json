@@ -4189,14 +4189,6 @@
     ],
     "name": "Helltaker"
   },
-  "1289670": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "EA"
-    ],
-    "name": "EA Play"
-  },
   "1292940": {
     "config_count": 1,
     "devices": [
@@ -25366,7 +25358,7 @@
     "name": "Pacer"
   },
   "389730": {
-    "config_count": 39,
+    "config_count": 40,
     "devices": [
       {
         "d": "SM8850",
@@ -26255,6 +26247,14 @@
       "BeatTheChampions"
     ],
     "name": "Beat The Champions"
+  },
+  "4032350": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "EA"
+    ],
+    "name": "EA SPORTS\u2122 College Football 27"
   },
   "40350": {
     "config_count": 1,
@@ -27813,6 +27813,14 @@
     ],
     "name": "Pub Encounter"
   },
+  "4475790": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Warband"
+    ],
+    "name": "Warband"
+  },
   "447960": {
     "config_count": 1,
     "devices": [
@@ -28613,7 +28621,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -28628,8 +28636,7 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband",
-      "Warband"
+      "Mount_Blade_Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -33393,7 +33400,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 110,
+    "config_count": 111,
     "devices": [
       {
         "d": "s5e8855",
@@ -33531,11 +33538,6 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
         "d": "Adreno__TM__660",
         "m": "moto_g200_5G",
         "s": "Adreno (TM) 660"
@@ -33579,6 +33581,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__840",
@@ -36688,7 +36695,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2725,
+    "config_count": 2726,
     "devices": [
       {
         "d": "G52_MC2",
@@ -37301,11 +37308,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "Adreno__TM__710",
-        "m": "23122PCD1G",
-        "s": "Adreno (TM) 710"
-      },
-      {
         "d": "Adreno__TM__619",
         "m": "moto_g84_5G",
         "s": "Adreno (TM) 619"
@@ -37573,6 +37575,11 @@
       {
         "d": "Adreno__TM__710",
         "m": "motorola_edge_50_fusion",
+        "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "23122PCD1G",
         "s": "Adreno (TM) 710"
       },
       {
