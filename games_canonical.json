@@ -2582,7 +2582,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 356,
+    "config_count": 357,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -2925,11 +2925,6 @@
         "s": "Adreno (TM) 840"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
         "m": "S721B",
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
@@ -2943,6 +2938,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__735",
@@ -3615,7 +3615,7 @@
     "name": "Jurassic World Evolution 2"
   },
   "1245620": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "SM8850",
@@ -9225,12 +9225,17 @@
     "name": "Aphelion"
   },
   "1966720": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
+        "m": "A556E",
+        "s": "ANGLE ((Samsung Xclipse 530) on Vulkan 1.3.279)"
       }
     ],
     "folders": [
@@ -22561,7 +22566,7 @@
     "name": "Arma 2 Free"
   },
   "339034": {
-    "config_count": 33,
+    "config_count": 34,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -22667,6 +22672,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "V2040",
+        "s": "Adreno (TM) 618"
       }
     ],
     "folders": [
@@ -36790,7 +36800,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2731,
+    "config_count": 2732,
     "devices": [
       {
         "d": "G52_MC2",
@@ -37643,11 +37653,6 @@
         "s": "Adreno (TM) 720"
       },
       {
-        "d": "Adreno__TM__616",
-        "m": "motorola_one_fusion",
-        "s": "Adreno (TM) 616"
-      },
-      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
@@ -37681,6 +37686,11 @@
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
         "m": "S731B",
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "Adreno__TM__616",
+        "m": "motorola_one_fusion",
+        "s": "Adreno (TM) 616"
       },
       {
         "d": "Adreno__TM__740",
