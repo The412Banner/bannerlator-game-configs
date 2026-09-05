@@ -4189,6 +4189,14 @@
     ],
     "name": "Helltaker"
   },
+  "1289670": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "EA"
+    ],
+    "name": "EA Play"
+  },
   "1292940": {
     "config_count": 1,
     "devices": [
@@ -19137,7 +19145,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -19156,8 +19164,7 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -20212,7 +20219,7 @@
     "name": "Warhammer 40,000: Space Marine - Master Crafted Edition"
   },
   "3180070": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__720",
@@ -20239,7 +20246,8 @@
       "NoImNotAHuman",
       "No_Im_not_a_Human___________________________________________",
       "no_im_not_a_human",
-      "noimnotahuman-"
+      "noimnotahuman-",
+      "No__I_m_not_a_Human"
     ],
     "name": "No, I'm not a Human"
   },
@@ -22314,7 +22322,7 @@
     "name": "skate."
   },
   "3357650": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -22328,12 +22336,12 @@
       },
       {
         "d": "Adreno__TM__830",
-        "m": "I2401",
+        "m": "OPD2415",
         "s": "Adreno (TM) 830"
       },
       {
         "d": "Adreno__TM__830",
-        "m": "OPD2415",
+        "m": "I2401",
         "s": "Adreno (TM) 830"
       },
       {
@@ -22731,6 +22739,14 @@
       "Heavy_Weapon"
     ],
     "name": "Heavy Weapon Deluxe"
+  },
+  "3419290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN"
   },
   "341940": {
     "config_count": 3,
@@ -26171,14 +26187,6 @@
     ],
     "name": "The Spike Cross"
   },
-  "3985080": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN - Costume Expansion Pack"
-  },
   "400": {
     "config_count": 4,
     "devices": [],
@@ -26242,14 +26250,6 @@
       "BeatTheChampions"
     ],
     "name": "Beat The Champions"
-  },
-  "4032350": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "EA"
-    ],
-    "name": "EA SPORTS\u2122 College Football 27"
   },
   "40350": {
     "config_count": 1,
@@ -31756,12 +31756,17 @@
     "name": "SUPER ARMY OF TENTACLES 3, Winter Outfit Pack I: War of the Old Gods"
   },
   "699130": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__740",
         "m": "Odin2EX",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "Adreno__TM__750",
@@ -33864,7 +33869,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G615_MC6",
@@ -33883,7 +33888,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
