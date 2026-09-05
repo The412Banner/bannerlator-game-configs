@@ -24562,7 +24562,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 41,
+    "config_count": 35,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -24625,11 +24625,6 @@
         "s": "Mali-G720 MC8"
       },
       {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
-      },
-      {
         "d": "Adreno__TM__735",
         "m": "NX9",
         "s": "Adreno (TM) 735"
@@ -24655,7 +24650,6 @@
       "DARK_SOULS",
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
-      "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
       "DarkSoulsII",
       "DarkSoulsIII",
@@ -27920,14 +27914,6 @@
     ],
     "name": "Pub Encounter"
   },
-  "4475790": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Warband"
-    ],
-    "name": "Warband"
-  },
   "447960": {
     "config_count": 1,
     "devices": [
@@ -28756,7 +28742,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -28771,7 +28757,8 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband"
+      "Mount_Blade_Warband",
+      "Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -30227,7 +30214,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 42,
+    "config_count": 48,
     "devices": [
       {
         "d": "G57",
@@ -30325,6 +30312,11 @@
         "s": "Mali-G720 MC7"
       },
       {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
+      },
+      {
         "d": "Adreno__TM__660",
         "m": "S928B",
         "s": "Adreno (TM) 660"
@@ -30333,6 +30325,9 @@
     "folders": [
       "DARK_SOULS__REMASTERED",
       "DARK_SOULS___REMASTERED",
+      "DARKSOULS",
+      "DARK_SOULS_-_REMASTERED",
+      "DarkSoulsRemastered",
       "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
@@ -35954,20 +35949,6 @@
       "gNSUNSR"
     ],
     "name": "Gnsunsr"
-  },
-  "name:god-of-war-ragnar-k": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "24122RKC7G",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "God_of_War_Ragnar_k"
-    ],
-    "name": "God Of War Ragnar K"
   },
   "name:gothic-1-classic": {
     "config_count": 1,
