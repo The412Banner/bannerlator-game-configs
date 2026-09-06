@@ -2357,20 +2357,6 @@
     ],
     "name": "A Space for the Unbound"
   },
-  "1203170": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
-      }
-    ],
-    "folders": [
-      "Darksiders"
-    ],
-    "name": "Darksiders 4"
-  },
   "1203220": {
     "config_count": 2,
     "devices": [
@@ -2582,7 +2568,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 358,
+    "config_count": 359,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -2948,6 +2934,11 @@
         "d": "Adreno__TM__732",
         "m": "2410CRP4CG",
         "s": "Adreno (TM) 732"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "NX799J",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "Adreno__TM__735",
@@ -12495,7 +12486,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 17,
+    "config_count": 14,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12534,9 +12525,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -18334,7 +18323,7 @@
     "name": "Pipistrello and the Cursed Yoyo"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 34,
     "devices": [
       {
         "d": "G615_MC2",
@@ -18374,7 +18363,9 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -20657,7 +20648,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1375,
+    "config_count": 1376,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -21728,6 +21719,11 @@
         "d": "Adreno__TM__640",
         "m": "N970U1",
         "s": "Adreno (TM) 640"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "Redmi_Note_9_Pro",
+        "s": "Adreno (TM) 618"
       },
       {
         "d": "Adreno__TM__710",
@@ -31997,7 +31993,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -32013,6 +32009,11 @@
         "d": "Adreno__TM__A32",
         "m": "Pocket_Fit_G3_Gen3",
         "s": "Adreno (TM) A32"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -36835,7 +36836,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2735,
+    "config_count": 2738,
     "devices": [
       {
         "d": "G52_MC2",
