@@ -14959,6 +14959,14 @@
     ],
     "name": "Rayman\u00ae Legends"
   },
+  "242570": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "hulk"
+    ],
+    "name": "Space Hulk (Classic)"
+  },
   "2426530": {
     "config_count": 1,
     "devices": [],
@@ -15383,7 +15391,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 26,
+    "config_count": 25,
     "devices": [
       {
         "d": "A075M",
@@ -15447,8 +15455,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes",
-      "LEGOMARVEL"
+      "LEGO__Marvel__Super_Heroes"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -19314,6 +19321,14 @@
     ],
     "name": "Ryse: Son of Rome"
   },
+  "3028020": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Cars"
+    ],
+    "name": "CarX Street - Deluxe Cars"
+  },
   "3028330": {
     "config_count": 1,
     "devices": [],
@@ -22186,14 +22201,6 @@
     ],
     "name": "Garten of Banban 0"
   },
-  "331160": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Cars"
-    ],
-    "name": "Disney\u2022Pixar Cars"
-  },
   "33120": {
     "config_count": 2,
     "devices": [
@@ -24562,7 +24569,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 35,
+    "config_count": 41,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -24625,6 +24632,11 @@
         "s": "Mali-G720 MC8"
       },
       {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
+      },
+      {
         "d": "Adreno__TM__735",
         "m": "NX9",
         "s": "Adreno (TM) 735"
@@ -24650,6 +24662,7 @@
       "DARK_SOULS",
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
+      "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
       "DarkSoulsII",
       "DarkSoulsIII",
@@ -25589,7 +25602,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 176,
+    "config_count": 177,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -25832,11 +25845,6 @@
         "s": "MT6899"
       },
       {
-        "d": "G76",
-        "m": "Mali",
-        "s": "Mali-G76"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "23122PCD1G",
         "s": "Adreno (TM) 710"
@@ -25875,6 +25883,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "G76",
+        "m": "Mali",
+        "s": "Mali-G76"
       }
     ],
     "folders": [
@@ -30214,7 +30227,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 48,
+    "config_count": 42,
     "devices": [
       {
         "d": "G57",
@@ -30312,11 +30325,6 @@
         "s": "Mali-G720 MC7"
       },
       {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
-      },
-      {
         "d": "Adreno__TM__660",
         "m": "S928B",
         "s": "Adreno (TM) 660"
@@ -30325,9 +30333,6 @@
     "folders": [
       "DARK_SOULS__REMASTERED",
       "DARK_SOULS___REMASTERED",
-      "DARKSOULS",
-      "DARK_SOULS_-_REMASTERED",
-      "DarkSoulsRemastered",
       "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
@@ -31319,7 +31324,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -36804,7 +36809,7 @@
     "name": "PES 2011"
   },
   "name:pes-2012": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "G57_MC2",
@@ -36815,6 +36820,11 @@
         "d": "G52",
         "m": "Mali",
         "s": "Mali-G52"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
       }
     ],
     "folders": [
@@ -36825,7 +36835,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2734,
+    "config_count": 2735,
     "devices": [
       {
         "d": "G52_MC2",
