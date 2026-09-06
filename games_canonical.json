@@ -6950,7 +6950,7 @@
     "name": "HITMAN World of Assassination"
   },
   "1659420": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -6966,6 +6966,11 @@
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
       },
       {
         "d": "Immortalis_MC11",
@@ -7053,7 +7058,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 93,
+    "config_count": 94,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -7154,6 +7159,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G710_MC10",
+        "m": "Mali",
+        "s": "Mali-G710 MC10"
       },
       {
         "d": "Adreno__TM__610",
@@ -28751,7 +28761,7 @@
     "name": "Speak Demo"
   },
   "48190": {
-    "config_count": 24,
+    "config_count": 23,
     "devices": [
       {
         "d": "MT6789",
@@ -29149,12 +29159,17 @@
     "name": "NARUTO STORM 4 : Road to Boruto Expansion"
   },
   "49520": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "NX789S_V1B",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "ASUS_AI2205_C",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [

@@ -2922,6 +2922,10 @@
     "appid": null,
     "method": "unresolved"
   },
+  "FFXiiiLauncher": {
+    "appid": null,
+    "method": "non-game"
+  },
   "FIFA08": {
     "appid": null,
     "method": "unresolved"
@@ -7776,6 +7780,10 @@
     "method": "naive",
     "steam_name": "Raft"
   },
+  "Rage_Tool_Kit": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "Rain_World": {
     "appid": 312520,
     "method": "naive",
@@ -9030,7 +9038,6 @@
   },
   "StillLife": {
     "appid": 46480,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/46480/header.jpg",
     "method": "naive",
     "steam_name": "Still Life"
   },
