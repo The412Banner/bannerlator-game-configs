@@ -15524,7 +15524,7 @@
     "name": "FATAL FURY: City of the Wolves"
   },
   "2492670": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "METAL_GEAR_SOLID_4__Guns_of_the_Patriots_-_Master_Collection_Version",
@@ -20701,7 +20701,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1377,
+    "config_count": 1378,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -21682,6 +21682,11 @@
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "A715F",
+        "s": "Adreno (TM) 618"
       },
       {
         "d": "Adreno__TM__830",
@@ -27733,12 +27738,19 @@
     ],
     "name": "This Is the Police"
   },
-  "4439830": {
-    "config_count": 2,
+  "4439810": {
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "Forza_Horizon_2_____________________________________________",
       "Forza_Horizon_2"
+    ],
+    "name": "Forza Horizon 6 2024 Koenigsegg Gemera"
+  },
+  "4439830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Forza_Horizon_2_____________________________________________"
     ],
     "name": "Forza Horizon 6 2008 Honda Civic Type R (FD2)"
   },
@@ -27973,6 +27985,14 @@
       "Pub_Encounter"
     ],
     "name": "Pub Encounter"
+  },
+  "4475790": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Warband"
+    ],
+    "name": "Warband"
   },
   "447960": {
     "config_count": 1,
@@ -28802,7 +28822,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -28817,8 +28837,7 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband",
-      "Warband"
+      "Mount_Blade_Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
