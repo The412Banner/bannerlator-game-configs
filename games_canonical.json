@@ -1995,7 +1995,7 @@
     "name": "Foretales"
   },
   "1172380": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "MT6899",
@@ -2016,6 +2016,11 @@
         "d": "Adreno__TM__830",
         "m": "2510DPC44G",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
@@ -19281,7 +19286,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -19300,7 +19305,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -20701,7 +20707,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1378,
+    "config_count": 1380,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -21687,6 +21693,11 @@
         "d": "Adreno__TM__618",
         "m": "A715F",
         "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "Adreno__TM__722",
+        "m": "CPH2825",
+        "s": "Adreno (TM) 722"
       },
       {
         "d": "Adreno__TM__830",
@@ -34087,7 +34098,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -34106,8 +34117,7 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
