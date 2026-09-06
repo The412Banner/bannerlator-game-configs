@@ -694,7 +694,7 @@
     "name": "A Short Hike"
   },
   "105600": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "Terraria"
@@ -20742,7 +20742,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1389,
+    "config_count": 1390,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24684,7 +24684,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 35,
+    "config_count": 41,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -24747,6 +24747,11 @@
         "s": "Mali-G720 MC8"
       },
       {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
+      },
+      {
         "d": "Adreno__TM__735",
         "m": "NX9",
         "s": "Adreno (TM) 735"
@@ -24772,6 +24777,7 @@
       "DARK_SOULS",
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
+      "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
       "DarkSoulsII",
       "DarkSoulsIII",
@@ -30370,7 +30376,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 48,
+    "config_count": 42,
     "devices": [
       {
         "d": "G57",
@@ -30468,11 +30474,6 @@
         "s": "Mali-G720 MC7"
       },
       {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
-      },
-      {
         "d": "Adreno__TM__660",
         "m": "S928B",
         "s": "Adreno (TM) 660"
@@ -30481,9 +30482,6 @@
     "folders": [
       "DARK_SOULS__REMASTERED",
       "DARK_SOULS___REMASTERED",
-      "DARKSOULS",
-      "DARK_SOULS_-_REMASTERED",
-      "DarkSoulsRemastered",
       "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
@@ -36382,14 +36380,6 @@
       "KOFXV_Steam"
     ],
     "name": "Kofxv Steam"
-  },
-  "name:l4d2-launcher": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "L4D2_Launcher"
-    ],
-    "name": "L4D2 Launcher"
   },
   "name:legobatmanlotdk": {
     "config_count": 1,
