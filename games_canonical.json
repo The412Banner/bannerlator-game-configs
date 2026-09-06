@@ -5618,7 +5618,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 90,
+    "config_count": 91,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -7367,7 +7367,7 @@
     "name": "Persona 5 Royal"
   },
   "1693980": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "G68",
@@ -7405,14 +7405,14 @@
         "s": "Adreno (TM) 650"
       },
       {
-        "d": "G78",
-        "m": "Mali",
-        "s": "Mali-G78"
-      },
-      {
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "G78",
+        "m": "Mali",
+        "s": "Mali-G78"
       }
     ],
     "folders": [
@@ -15434,7 +15434,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 26,
+    "config_count": 25,
     "devices": [
       {
         "d": "A075M",
@@ -15498,8 +15498,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes",
-      "LEGOMARVEL"
+      "LEGO__Marvel__Super_Heroes"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -19301,7 +19300,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -19320,8 +19319,7 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -20722,7 +20720,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1381,
+    "config_count": 1386,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -21713,6 +21711,11 @@
         "d": "Adreno__TM__722",
         "m": "CPH2825",
         "s": "Adreno (TM) 722"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "Nokia_G20",
+        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "Adreno__TM__830",
@@ -27879,7 +27882,7 @@
     "name": "Farming Simulator 17"
   },
   "447040": {
-    "config_count": 56,
+    "config_count": 57,
     "devices": [
       {
         "d": "G720_MC7",
@@ -27955,6 +27958,11 @@
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__725",
+        "m": "23049PCD8G",
+        "s": "Adreno (TM) 725"
       },
       {
         "d": "Adreno__TM__750",
@@ -28392,6 +28400,14 @@
     ],
     "name": "RUINER"
   },
+  "46480": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "StillLife"
+    ],
+    "name": "Still Life"
+  },
   "4656700": {
     "config_count": 2,
     "devices": [
@@ -28735,7 +28751,7 @@
     "name": "Speak Demo"
   },
   "48190": {
-    "config_count": 23,
+    "config_count": 24,
     "devices": [
       {
         "d": "MT6789",
@@ -28791,6 +28807,7 @@
     "folders": [
       "Assassin_s_Creed__Brotherhood",
       "Assassin_s_creed_brotherhood",
+      "Assassin_s_Creed_brotherhood",
       "AssassinsCreedBrotherhood"
     ],
     "name": "Assassin\u2019s Creed\u00ae Brotherhood"
@@ -29176,7 +29193,7 @@
     "name": "State of Decay 2: Juggernaut Edition"
   },
   "500": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -29187,6 +29204,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "23013PC75G",
+        "s": "Adreno (TM) 730"
       }
     ],
     "folders": [
@@ -31414,7 +31436,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -34111,7 +34133,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G615_MC6",
@@ -34130,7 +34152,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -36924,7 +36947,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2741,
+    "config_count": 2743,
     "devices": [
       {
         "d": "G52_MC2",

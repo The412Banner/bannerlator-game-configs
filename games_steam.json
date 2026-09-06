@@ -4799,6 +4799,10 @@
     "appid": null,
     "method": "unresolved"
   },
+  "KAHRETS_N_V4": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "KARAKARA": {
     "appid": 487430,
     "method": "naive",
@@ -9024,6 +9028,12 @@
     "method": "naive",
     "steam_name": "Stick It to the Stickman"
   },
+  "StillLife": {
+    "appid": 46480,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/46480/header.jpg",
+    "method": "naive",
+    "steam_name": "Still Life"
+  },
   "Stolen_Realm": {
     "appid": 1330000,
     "method": "naive",
@@ -11919,6 +11929,10 @@
     "appid": 1794680,
     "method": "naive",
     "steam_name": "Vampire Survivors"
+  },
+  "vlc-3_0_23-win32": {
+    "appid": null,
+    "method": "unresolved"
   },
   "vlc-media-player-3-0-23": {
     "appid": null,
