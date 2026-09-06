@@ -1111,13 +1111,8 @@
     "name": "Commandos 2 - HD Remaster"
   },
   "1103780": {
-    "config_count": 33,
+    "config_count": 34,
     "devices": [
-      {
-        "d": "Adreno__TM__640",
-        "m": "M2102J20SG",
-        "s": "Adreno (TM) 640"
-      },
       {
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
@@ -1177,6 +1172,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__640",
+        "m": "M2102J20SG",
+        "s": "Adreno (TM) 640"
       },
       {
         "d": "Adreno__TM__619",
@@ -1751,12 +1751,17 @@
     "name": "Cowboy Life Simulator"
   },
   "1151640": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__750",
         "m": "I2220",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
@@ -2356,6 +2361,20 @@
       "A_Space_for_the_Unbound"
     ],
     "name": "A Space for the Unbound"
+  },
+  "1203170": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Darksiders"
+    ],
+    "name": "Darksiders 4"
   },
   "1203220": {
     "config_count": 2,
@@ -3034,7 +3053,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 37,
+    "config_count": 38,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -3105,6 +3124,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__740",
@@ -3611,7 +3635,7 @@
     "name": "Jurassic World Evolution 2"
   },
   "1245620": {
-    "config_count": 16,
+    "config_count": 17,
     "devices": [
       {
         "d": "SM8850",
@@ -3629,11 +3653,6 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "Adreno__TM__840",
-        "m": "NX809J",
-        "s": "Adreno (TM) 840"
-      },
-      {
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
@@ -3647,6 +3666,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__840",
@@ -3761,7 +3785,7 @@
     "name": "//TODO: today"
   },
   "1259420": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -3787,6 +3811,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__710",
@@ -12505,7 +12534,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 14,
+    "config_count": 17,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12544,7 +12573,9 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -15399,7 +15430,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 26,
+    "config_count": 25,
     "devices": [
       {
         "d": "A075M",
@@ -15463,8 +15494,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes",
-      "LEGOMARVEL"
+      "LEGO__Marvel__Super_Heroes"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -18348,7 +18378,7 @@
     "name": "Pipistrello and the Cursed Yoyo"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -18388,9 +18418,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "rerev",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -19253,7 +19281,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -19272,8 +19300,7 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -22436,7 +22463,7 @@
     "name": "skate."
   },
   "3357650": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -22482,6 +22509,11 @@
         "d": "Adreno__TM__830",
         "m": "NP05J",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47I",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
@@ -27701,19 +27733,12 @@
     ],
     "name": "This Is the Police"
   },
-  "4439810": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Forza_Horizon_2"
-    ],
-    "name": "Forza Horizon 6 2024 Koenigsegg Gemera"
-  },
   "4439830": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
-      "Forza_Horizon_2_____________________________________________"
+      "Forza_Horizon_2_____________________________________________",
+      "Forza_Horizon_2"
     ],
     "name": "Forza Horizon 6 2008 Honda Civic Type R (FD2)"
   },
@@ -27948,14 +27973,6 @@
       "Pub_Encounter"
     ],
     "name": "Pub Encounter"
-  },
-  "4475790": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Warband"
-    ],
-    "name": "Warband"
   },
   "447960": {
     "config_count": 1,
@@ -28785,7 +28802,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -28800,7 +28817,8 @@
     ],
     "folders": [
       "Mount___Blade__Warband",
-      "Mount_Blade_Warband"
+      "Mount_Blade_Warband",
+      "Warband"
     ],
     "name": "Mount & Blade: Warband"
   },
@@ -31353,7 +31371,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -32026,7 +32044,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -32042,11 +32060,6 @@
         "d": "Adreno__TM__A32",
         "m": "Pocket_Fit_G3_Gen3",
         "s": "Adreno (TM) A32"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -34055,7 +34068,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G615_MC6",
@@ -34074,7 +34087,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -36868,7 +36882,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2740,
+    "config_count": 2741,
     "devices": [
       {
         "d": "G52_MC2",
@@ -37746,11 +37760,6 @@
         "s": "Adreno (TM) 616"
       },
       {
-        "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-        "m": "S731B",
-        "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
-      },
-      {
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
@@ -37759,6 +37768,11 @@
         "d": "Adreno__TM__710",
         "m": "23122PCD1G",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+        "m": "S731B",
+        "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
       },
       {
         "d": "Adreno__TM__740",
