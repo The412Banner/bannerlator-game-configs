@@ -16790,7 +16790,7 @@
     "name": "POOLS"
   },
   "2668510": {
-    "config_count": 37,
+    "config_count": 38,
     "devices": [
       {
         "d": "SM8635",
@@ -16876,6 +16876,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__722",
+        "m": "V2511",
+        "s": "Adreno (TM) 722"
       }
     ],
     "folders": [
@@ -29204,7 +29209,7 @@
     "name": "Trails in the Sky 2nd Chapter Demo"
   },
   "50130": {
-    "config_count": 26,
+    "config_count": 28,
     "devices": [
       {
         "d": "MT6781",
@@ -29220,11 +29225,6 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
       },
       {
         "d": "Adreno__TM__740",
@@ -29270,6 +29270,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
       }
     ],
     "folders": [
@@ -32235,7 +32240,7 @@
     "name": "DYNASTY WARRIORS 9"
   },
   "731490": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__840",
