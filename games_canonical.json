@@ -20721,7 +20721,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1387,
+    "config_count": 1388,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -21172,11 +21172,6 @@
         "d": "Adreno__TM__619",
         "m": "M2007J17C",
         "s": "Adreno (TM) 619"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "motorola_edge_70_fusion",
-        "s": "Adreno (TM) 810"
       },
       {
         "d": "Adreno__TM__619",
@@ -21717,6 +21712,11 @@
         "d": "PowerVR_Rogue_GE8320",
         "m": "Nokia_G20",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "motorola_edge_70_fusion",
+        "s": "Adreno (TM) 810"
       },
       {
         "d": "Adreno__TM__830",
@@ -24011,7 +24011,7 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae III"
   },
   "359870": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__840",
