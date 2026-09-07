@@ -12822,8 +12822,7 @@
       "Fallout_-_New_Vegas_Ultimate_Edition________________________",
       "Fallout__New_Vegas",
       "Fallout_-_New_Vegas",
-      "Fallout_New_Vegas",
-      "Fallout__New_Vegas_Ultimate_Edition"
+      "Fallout_New_Vegas"
     ],
     "name": "Fallout: New Vegas"
   },
@@ -27877,12 +27876,17 @@
     "name": "Mantis Burn Racing"
   },
   "4466620": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       }
     ],
     "folders": [
