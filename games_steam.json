@@ -805,6 +805,12 @@
     "method": "naive",
     "steam_name": "BioShock\u2122 Remastered"
   },
+  "BioShock__2": {
+    "appid": 8850,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/8850/header.jpg",
+    "method": "naive",
+    "steam_name": "BioShock\u00ae 2"
+  },
   "BioShock__Remastered": {
     "appid": 409710,
     "method": "naive",
@@ -2829,6 +2835,12 @@
   "Extrator": {
     "appid": null,
     "method": "unresolved"
+  },
+  "F1_2010": {
+    "appid": 379563,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/379563/header.jpg",
+    "method": "naive",
+    "steam_name": "FSX: Steam Edition - Diamond DA20-100 Katana 4X Add-On"
   },
   "F1_2011": {
     "appid": 3059520,
@@ -6204,7 +6216,6 @@
   },
   "My_Sexy_Neighbour_2___Prologue": {
     "appid": 3814970,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3814970/header.jpg",
     "method": "naive",
     "steam_name": "My Sexy Neighbour 2 | Prologue"
   },
@@ -9717,6 +9728,10 @@
     "appid": 1222670,
     "method": "naive",
     "steam_name": "The Sims\u2122 4"
+  },
+  "The_Smiling_Man": {
+    "appid": null,
+    "method": "unresolved"
   },
   "The_Spell_Brigade": {
     "appid": 2904000,

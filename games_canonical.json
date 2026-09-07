@@ -4898,7 +4898,7 @@
     "name": "RuneScape: Dragonwilds"
   },
   "1378990": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -7967,7 +7967,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 158,
+    "config_count": 159,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -8090,11 +8090,6 @@
         "s": "Adreno (TM) 22"
       },
       {
-        "d": "Adreno__TM__840",
-        "m": "NX809J",
-        "s": "Adreno (TM) 840"
-      },
-      {
         "d": "Adreno__TM__642L",
         "m": "22101320G",
         "s": "Adreno (TM) 642L"
@@ -8193,6 +8188,11 @@
         "d": "Adreno__TM__810",
         "m": "2510EPC8BG",
         "s": "Adreno (TM) 810"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__830",
@@ -19333,7 +19333,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -19352,7 +19352,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -20753,7 +20754,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1392,
+    "config_count": 1391,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24855,7 +24856,7 @@
     "name": "HELLMART"
   },
   "3764200": {
-    "config_count": 33,
+    "config_count": 34,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -24911,6 +24912,11 @@
         "d": "Adreno__TM__830",
         "m": "V2408A",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "S948B",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__830",
@@ -25169,6 +25175,20 @@
       "Kingdom_Come__Deliverance"
     ],
     "name": "Kingdom Come Deliverance"
+  },
+  "379563": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      }
+    ],
+    "folders": [
+      "F1_2010"
+    ],
+    "name": "FSX: Steam Edition - Diamond DA20-100 Katana 4X Add-On"
   },
   "3795980": {
     "config_count": 2,
@@ -25736,7 +25756,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 178,
+    "config_count": 179,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -27637,6 +27657,14 @@
       "GoW"
     ],
     "name": "Pai Gow Poker by Pokerist"
+  },
+  "435800": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Binaries"
+    ],
+    "name": "Binaries"
   },
   "4369130": {
     "config_count": 1,
@@ -33921,9 +33949,16 @@
     "name": "Resident Evil 2"
   },
   "8850": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
     "folders": [
+      "BioShock__2",
       "Bioshock_2"
     ],
     "name": "BioShock\u00ae 2"
@@ -34188,7 +34223,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -34207,8 +34242,7 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
