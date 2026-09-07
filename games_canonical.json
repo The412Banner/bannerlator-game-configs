@@ -3262,20 +3262,6 @@
     ],
     "name": "ULTRAKILL"
   },
-  "1230530": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "G57_MC4",
-        "m": "Mali",
-        "s": "Mali-G57 MC4"
-      }
-    ],
-    "folders": [
-      "Atla"
-    ],
-    "name": "Atlas Fallen: Reign Of Sand"
-  },
   "1232460": {
     "config_count": 1,
     "devices": [
@@ -12457,7 +12443,7 @@
     "name": "Assassin's Creed\u00ae Valhalla - Season Pass"
   },
   "2215200": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "G57",
@@ -12505,7 +12491,8 @@
       "LEGOBatman",
       "LEGO__Batman___Legacy_of_the_Dark_Knight",
       "LEGO__________________________________",
-      "lego_Batman_1"
+      "lego_Batman_1",
+      "LEGO_Batman_-_Legacy_of_the_Dark_Knight"
     ],
     "name": "LEGO\u00ae Batman\u2122: Legacy of the Dark Knight"
   },
@@ -12577,7 +12564,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 14,
+    "config_count": 17,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12616,7 +12603,9 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -15471,7 +15460,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 26,
+    "config_count": 25,
     "devices": [
       {
         "d": "A075M",
@@ -15535,8 +15524,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes",
-      "LEGOMARVEL"
+      "LEGO__Marvel__Super_Heroes"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -18428,7 +18416,7 @@
     "name": "Pipistrello and the Cursed Yoyo"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -18468,9 +18456,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "rerev",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -20765,7 +20751,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1392,
+    "config_count": 1394,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -23857,7 +23843,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 6,
+    "config_count": 10,
     "devices": [
       {
         "d": "G57_MC2",
@@ -23883,6 +23869,11 @@
         "d": "Adreno__TM__830",
         "m": "24122RKC7G",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC4",
+        "m": "Mali",
+        "s": "Mali-G57 MC4"
       }
     ],
     "folders": [
@@ -31552,7 +31543,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
