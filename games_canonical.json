@@ -5346,7 +5346,7 @@
     "name": "The Legend of Heroes: Sen no Kiseki II KAI -The Erebonian Civil War-"
   },
   "1451190": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -8486,7 +8486,7 @@
     "name": "Marvel\u2019s Spider-Man Remastered"
   },
   "1817190": {
-    "config_count": 24,
+    "config_count": 25,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -12443,7 +12443,7 @@
     "name": "Assassin's Creed\u00ae Valhalla - Season Pass"
   },
   "2215200": {
-    "config_count": 20,
+    "config_count": 19,
     "devices": [
       {
         "d": "G57",
@@ -12491,8 +12491,7 @@
       "LEGOBatman",
       "LEGO__Batman___Legacy_of_the_Dark_Knight",
       "LEGO__________________________________",
-      "lego_Batman_1",
-      "LEGO_Batman_-_Legacy_of_the_Dark_Knight"
+      "lego_Batman_1"
     ],
     "name": "LEGO\u00ae Batman\u2122: Legacy of the Dark Knight"
   },
@@ -15460,7 +15459,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "A075M",
@@ -15524,7 +15523,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes"
+      "LEGO__Marvel__Super_Heroes",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -19423,6 +19423,14 @@
     ],
     "name": "Ryse: Son of Rome"
   },
+  "3028020": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Cars"
+    ],
+    "name": "CarX Street - Deluxe Cars"
+  },
   "3028330": {
     "config_count": 1,
     "devices": [],
@@ -20751,7 +20759,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1394,
+    "config_count": 1395,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -22320,14 +22328,6 @@
     ],
     "name": "Garten of Banban 0"
   },
-  "331160": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Cars"
-    ],
-    "name": "Disney\u2022Pixar Cars"
-  },
   "33120": {
     "config_count": 2,
     "devices": [
@@ -23232,14 +23232,6 @@
       "GhostSong"
     ],
     "name": "Ghost Song"
-  },
-  "34830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper: Ghost Warrior"
   },
   "348470": {
     "config_count": 13,
@@ -24529,6 +24521,14 @@
       "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
+  },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
@@ -30773,6 +30773,14 @@
     ],
     "name": "Fantasy Grounds - CS1 After Winter's Dark: Aihrde Setting (Castles & Crusades)"
   },
+  "593280": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Cat_Quest"
+    ],
+    "name": "Cat Quest"
+  },
   "594330": {
     "config_count": 1,
     "devices": [
@@ -31543,7 +31551,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
