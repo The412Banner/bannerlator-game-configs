@@ -1322,7 +1322,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1331,8 +1331,7 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid",
-      "Rangers"
+      "BattleForTheGrid"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -4247,6 +4246,14 @@
       "Helltaker"
     ],
     "name": "Helltaker"
+  },
+  "1289670": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "EA"
+    ],
+    "name": "EA Play"
   },
   "1292940": {
     "config_count": 1,
@@ -11435,7 +11442,7 @@
     "name": "Aero GPX"
   },
   "2161700": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11450,7 +11457,8 @@
     ],
     "folders": [
       "Persona_3_Reload",
-      "____-_______Persona_3_Reload"
+      "____-_______Persona_3_Reload",
+      "P3R"
     ],
     "name": "Persona 3 Reload"
   },
@@ -17790,6 +17798,14 @@
     ],
     "name": "RIDE 6"
   },
+  "2816870": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Mighty Morphin Power Rangers: Rita's Rewind"
+  },
   "281940": {
     "config_count": 1,
     "devices": [],
@@ -19333,7 +19349,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -19352,8 +19368,7 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -22964,6 +22979,14 @@
     ],
     "name": "Heavy Weapon Deluxe"
   },
+  "3419290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN"
+  },
   "341940": {
     "config_count": 3,
     "devices": [
@@ -26412,14 +26435,6 @@
     ],
     "name": "The Spike Cross"
   },
-  "3985080": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN - Costume Expansion Pack"
-  },
   "400": {
     "config_count": 4,
     "devices": [],
@@ -26483,14 +26498,6 @@
       "BeatTheChampions"
     ],
     "name": "Beat The Champions"
-  },
-  "4032350": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "EA"
-    ],
-    "name": "EA SPORTS\u2122 College Football 27"
   },
   "40350": {
     "config_count": 1,
@@ -34180,7 +34187,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G615_MC6",
@@ -34199,7 +34206,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -36993,7 +37001,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2754,
+    "config_count": 2755,
     "devices": [
       {
         "d": "G52_MC2",
@@ -37851,11 +37859,6 @@
         "s": "Adreno (TM) 616"
       },
       {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "23122PCD1G",
         "s": "Adreno (TM) 710"
@@ -37884,6 +37887,11 @@
         "d": "G71",
         "m": "Mali",
         "s": "Mali-G71"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       },
       {
         "d": "Adreno__TM__740",
