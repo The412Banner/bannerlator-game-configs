@@ -7968,7 +7968,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 157,
+    "config_count": 158,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -8189,6 +8189,11 @@
         "d": "Adreno__TM__740",
         "m": "S918B",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "2510EPC8BG",
+        "s": "Adreno (TM) 810"
       },
       {
         "d": "Adreno__TM__830",
@@ -15448,7 +15453,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 26,
+    "config_count": 25,
     "devices": [
       {
         "d": "A075M",
@@ -15512,8 +15517,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes",
-      "LEGOMARVEL"
+      "LEGO__Marvel__Super_Heroes"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -28783,7 +28787,7 @@
     "name": "Speak Demo"
   },
   "48190": {
-    "config_count": 23,
+    "config_count": 24,
     "devices": [
       {
         "d": "MT6789",
@@ -31474,7 +31478,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -36984,7 +36988,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2747,
+    "config_count": 2754,
     "devices": [
       {
         "d": "G52_MC2",
@@ -37377,11 +37381,6 @@
         "s": "Mali-G720-Immortalis MC12"
       },
       {
-        "d": "G71",
-        "m": "Mali",
-        "s": "Mali-G71"
-      },
-      {
         "d": "G76_MC4",
         "m": "Mali",
         "s": "Mali-G76 MC4"
@@ -37480,11 +37479,6 @@
         "d": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
         "m": "S711B",
         "s": "ANGLE ((Samsung Xclipse 920) on Vulkan 1.3.279)"
-      },
-      {
-        "d": "G78",
-        "m": "Mali",
-        "s": "Mali-G78"
       },
       {
         "d": "Adreno__TM__610",
@@ -37875,6 +37869,16 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G78",
+        "m": "Mali",
+        "s": "Mali-G78"
+      },
+      {
+        "d": "G71",
+        "m": "Mali",
+        "s": "Mali-G71"
       },
       {
         "d": "Adreno__TM__740",
