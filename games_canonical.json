@@ -19334,7 +19334,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -19353,8 +19353,7 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -23026,6 +23025,14 @@
     ],
     "name": "DP Animation Maker"
   },
+  "342560": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Airships_-_Conquer_the_Skies"
+    ],
+    "name": "Airships: Conquer the Skies"
+  },
   "3429280": {
     "config_count": 2,
     "devices": [
@@ -25757,7 +25764,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 179,
+    "config_count": 180,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -25868,6 +25875,11 @@
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "2510DPC44G",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "QCS8550",
@@ -34229,7 +34241,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G615_MC6",
@@ -34248,7 +34260,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
