@@ -12790,7 +12790,7 @@
     "name": "Fallout 3: Game of the Year Edition"
   },
   "22380": {
-    "config_count": 16,
+    "config_count": 17,
     "devices": [
       {
         "d": "G720_MC7",
@@ -12822,7 +12822,8 @@
       "Fallout_-_New_Vegas_Ultimate_Edition________________________",
       "Fallout__New_Vegas",
       "Fallout_-_New_Vegas",
-      "Fallout_New_Vegas"
+      "Fallout_New_Vegas",
+      "Fallout__New_Vegas_Ultimate_Edition"
     ],
     "name": "Fallout: New Vegas"
   },
@@ -20746,7 +20747,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1390,
+    "config_count": 1391,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -21524,11 +21525,6 @@
         "s": "Adreno (TM) 750"
       },
       {
-        "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-        "m": "S731B",
-        "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
-      },
-      {
         "d": "Immortalis_MC11",
         "m": "G715",
         "s": "Mali-G715-Immortalis MC11"
@@ -21747,6 +21743,11 @@
         "d": "Adreno__TM__642L",
         "m": "22101320G",
         "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+        "m": "S731B",
+        "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
       },
       {
         "d": "Adreno__TM__830",
