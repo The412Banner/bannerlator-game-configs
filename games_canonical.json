@@ -9576,6 +9576,14 @@
     ],
     "name": "Prince of Persia\u00ae"
   },
+  "2000950": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Call_of_duty_Modern_Warfare"
+    ],
+    "name": "Call of Duty\u00ae: Modern Warfare\u00ae"
+  },
   "200260": {
     "config_count": 21,
     "devices": [
@@ -27759,7 +27767,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -27770,8 +27778,7 @@
     "folders": [
       "Call_of_Duty_4",
       "Call_of_Duty_4_Modern_Warfare",
-      "COD__Modern_Warfare",
-      "Call_of_duty_Modern_Warfare"
+      "COD__Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -38744,6 +38751,20 @@
       "re5dx9"
     ],
     "name": "Re5Dx9"
+  },
+  "name:remoteplayinstaller-1": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
+      }
+    ],
+    "folders": [
+      "RemotePlayInstaller-1"
+    ],
+    "name": "Remoteplayinstaller 1"
   },
   "name:reschanger": {
     "config_count": 1,
