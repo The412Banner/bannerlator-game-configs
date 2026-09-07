@@ -8325,7 +8325,7 @@
     "name": "Deer & Boy"
   },
   "1805320": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__722",
@@ -10270,7 +10270,7 @@
     "name": "Call of Juarez: Gunslinger"
   },
   "2050650": {
-    "config_count": 69,
+    "config_count": 75,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -10348,6 +10348,11 @@
         "s": "Adreno (TM) 740"
       },
       {
+        "d": "Adreno__TM__740",
+        "m": "CPH2447",
+        "s": "Adreno (TM) 740"
+      },
+      {
         "d": "Adreno__TM__660",
         "m": "S928B",
         "s": "Adreno (TM) 660"
@@ -10358,6 +10363,7 @@
       "Resident_Evil_4_",
       "Resident_Evil_4___Biohazard_4",
       "Resident_Evil_4_____________________________________________",
+      "re4",
       "resident_evil_4"
     ],
     "name": "Resident Evil 4"
@@ -23241,6 +23247,14 @@
     ],
     "name": "Ghost Song"
   },
+  "34830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper: Ghost Warrior"
+  },
   "348470": {
     "config_count": 13,
     "devices": [
@@ -24524,14 +24538,6 @@
       "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
-  },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
@@ -28394,17 +28400,10 @@
     "name": "Halo Wars: Definitive Edition"
   },
   "4600470": {
-    "config_count": 7,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "CPH2447",
-        "s": "Adreno (TM) 740"
-      }
-    ],
+    "config_count": 1,
+    "devices": [],
     "folders": [
-      "RE_6",
-      "re4"
+      "RE_6"
     ],
     "name": "Season 4 Battlefield Pro - Battlefield\u2122 6 and REDSEC"
   },
