@@ -3292,6 +3292,20 @@
     ],
     "name": "ULTRAKILL"
   },
+  "1230530": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "G57_MC4",
+        "m": "Mali",
+        "s": "Mali-G57 MC4"
+      }
+    ],
+    "folders": [
+      "Atla"
+    ],
+    "name": "Atlas Fallen: Reign Of Sand"
+  },
   "1232460": {
     "config_count": 1,
     "devices": [
@@ -4722,6 +4736,14 @@
       "DRACU-RIOT_"
     ],
     "name": "DRACU-RIOT!"
+  },
+  "1340720": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "StateOfDecay"
+    ],
+    "name": "State of Decay 3"
   },
   "1343240": {
     "config_count": 1,
@@ -7434,6 +7456,14 @@
       "ULTRA_AGE"
     ],
     "name": "Ultra Age"
+  },
+  "1686940": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Bopl_Battle"
+    ],
+    "name": "Bopl Battle"
   },
   "1687950": {
     "config_count": 6,
@@ -10849,7 +10879,7 @@
     "name": "Call of Duty\u00ae: Ghosts"
   },
   "20920": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__644",
@@ -10880,11 +10910,17 @@
         "d": "Adreno__TM__810",
         "m": "I2407",
         "s": "Adreno (TM) 810"
+      },
+      {
+        "d": "G77",
+        "m": "Mali",
+        "s": "Mali-G77"
       }
     ],
     "folders": [
       "The_Witcher_2_Game",
       "The_Witcher_2__Assassins_of_Kings_Enhanced_Edition",
+      "The_Witcher_2_-_Assassins_of_Kings_Enhanced_Edition_________",
       "The_Witcher_2_-_Assassins_of_Kings_Enhanced_Edition"
     ],
     "name": "The Witcher 2: Assassins of Kings Enhanced Edition"
@@ -12695,7 +12731,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 16,
+    "config_count": 18,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12734,7 +12770,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -18591,7 +18628,7 @@
     "name": "Pipistrello and the Cursed Yoyo"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -18632,7 +18669,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -24015,7 +24051,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 23,
+    "config_count": 19,
     "devices": [
       {
         "d": "G57_MC2",
@@ -24041,11 +24077,6 @@
         "d": "Adreno__TM__830",
         "m": "24122RKC7G",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57_MC4",
-        "m": "Mali",
-        "s": "Mali-G57 MC4"
       },
       {
         "d": "Adreno__TM__610",
@@ -29510,7 +29541,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -29534,8 +29565,7 @@
       }
     ],
     "folders": [
-      "State_of_Decay_2__Juggernaut_Edition",
-      "StateOfDecay"
+      "State_of_Decay_2__Juggernaut_Edition"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
   },
