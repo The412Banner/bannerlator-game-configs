@@ -37242,7 +37242,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2769,
+    "config_count": 2770,
     "devices": [
       {
         "d": "G52_MC2",
@@ -38030,11 +38030,6 @@
         "s": "Adreno (TM) 810"
       },
       {
-        "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-        "m": "A566E",
-        "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
-      },
-      {
         "d": "Adreno__TM__506",
         "m": "moto_g_7__power",
         "s": "Adreno (TM) 506"
@@ -38138,6 +38133,11 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+        "m": "A566E",
+        "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
       },
       {
         "d": "Adreno__TM__740",
