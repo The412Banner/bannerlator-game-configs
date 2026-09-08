@@ -901,7 +901,7 @@
     "name": "Baldur's Gate 3"
   },
   "108710": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -20950,7 +20950,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1413,
+    "config_count": 1414,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -21943,11 +21943,6 @@
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
       },
       {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
-      },
-      {
         "d": "Adreno__TM__830",
         "m": "I2401",
         "s": "Adreno (TM) 830"
@@ -21961,6 +21956,11 @@
         "d": "G610_MC6",
         "m": "Mali",
         "s": "Mali-G610 MC6"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       },
       {
         "d": "Adreno__TM__830",
@@ -24164,7 +24164,7 @@
     "name": "Isekai Bistro"
   },
   "357190": {
-    "config_count": 24,
+    "config_count": 25,
     "devices": [
       {
         "d": "Adreno__TM__750",
