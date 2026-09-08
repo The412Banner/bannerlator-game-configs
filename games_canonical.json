@@ -12749,7 +12749,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 18,
+    "config_count": 16,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12788,8 +12788,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -15676,7 +15675,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "A075M",
@@ -15740,7 +15739,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes"
+      "LEGO__Marvel__Super_Heroes",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -18646,7 +18646,7 @@
     "name": "Pipistrello and the Cursed Yoyo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 34,
     "devices": [
       {
         "d": "G615_MC2",
@@ -18687,6 +18687,7 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
+      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -19569,7 +19570,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -19588,8 +19589,7 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -20990,7 +20990,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1415,
+    "config_count": 1416,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -31832,7 +31832,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -34592,7 +34592,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G615_MC6",
@@ -34611,7 +34611,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -39801,6 +39802,14 @@
       "Wizard_School_Exchange_Student"
     ],
     "name": "Wizard School Exchange Student"
+  },
+  "name:world-of-warcraft": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "World_of_Warcraft"
+    ],
+    "name": "World Of Warcraft"
   },
   "name:wwe2k24-x64": {
     "config_count": 1,
