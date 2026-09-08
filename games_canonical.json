@@ -680,8 +680,13 @@
     "name": "Survivalist: Invisible Strain"
   },
   "1055540": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_FIT",
+        "s": "Adreno (TM) 750"
+      },
       {
         "d": "Adreno__TM__710",
         "m": "23122PCD1G",
@@ -2449,6 +2454,20 @@
     ],
     "name": "Wobbly Life"
   },
+  "1211480": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_FIT",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Colin_McRae_Rally_2005"
+    ],
+    "name": "DiRT Rally 2.0 - Colin McRae: FLAT OUT Pack"
+  },
   "12130": {
     "config_count": 2,
     "devices": [],
@@ -3236,8 +3255,14 @@
     "name": "MY HERO ONE'S JUSTICE 2 - Season Pass"
   },
   "1229240": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642",
+        "m": "M2101K9G",
+        "s": "Adreno (TM) 642"
+      }
+    ],
     "folders": [
       "Chained_Echoes"
     ],
@@ -3871,7 +3896,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 50,
+    "config_count": 51,
     "devices": [
       {
         "d": "G57_MC2",
@@ -3892,6 +3917,11 @@
         "d": "Adreno__TM__740",
         "m": "S911B",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_FIT",
+        "s": "Adreno (TM) 750"
       },
       {
         "d": "Adreno__TM__640",
@@ -4536,6 +4566,20 @@
       "F_I_S_T___Forged_In_Shadow_Torch"
     ],
     "name": "F.I.S.T.: Forged In Shadow Torch"
+  },
+  "1330890": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_FIT",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Crystal_Caves_HD"
+    ],
+    "name": "Crystal Caves HD"
   },
   "1331550": {
     "config_count": 2,
@@ -6308,7 +6352,7 @@
     "name": "Cairn"
   },
   "1593500": {
-    "config_count": 151,
+    "config_count": 152,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -6536,6 +6580,11 @@
         "s": "Adreno (TM) 810"
       },
       {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_FIT",
+        "s": "Adreno (TM) 750"
+      },
+      {
         "d": "Adreno__TM__619",
         "m": "2201116PG",
         "s": "Adreno (TM) 619"
@@ -6597,6 +6646,20 @@
       "____________ULTRA_RUMBLE"
     ],
     "name": "MY HERO ULTRA RUMBLE"
+  },
+  "1607670": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_FIT",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Secret_Agent_HD"
+    ],
+    "name": "Secret Agent HD"
   },
   "1608070": {
     "config_count": 3,
@@ -6814,7 +6877,7 @@
     "name": "Nocturnal"
   },
   "1634860": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "Minishoot__Adventures"
@@ -7640,6 +7703,14 @@
       "poppy_playtime_"
     ],
     "name": "Poppy Playtime"
+  },
+  "1728660": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "RushRallyOrigins"
+    ],
+    "name": "Rush Rally Origins"
   },
   "1729180": {
     "config_count": 1,
@@ -9232,17 +9303,17 @@
     "name": "Strikers Club"
   },
   "1954200": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_FIT",
-        "s": "Adreno (TM) 750"
-      },
       {
         "d": "Adreno__TM__830",
         "m": "TB322FC",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_FIT",
+        "s": "Adreno (TM) 750"
       },
       {
         "d": "Adreno__TM__825",
@@ -10406,7 +10477,7 @@
     "name": "Resident Evil 4"
   },
   "205100": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11770,8 +11841,14 @@
     "name": "Warhammer 40,000: Space Marine 2"
   },
   "2184020": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_FIT",
+        "s": "Adreno (TM) 750"
+      }
+    ],
     "folders": [
       "Lifted"
     ],
@@ -12624,7 +12701,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 15,
+    "config_count": 17,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12663,7 +12740,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -13809,6 +13887,20 @@
     ],
     "name": "Another World \u2013 20th Anniversary Edition"
   },
+  "233610": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_FIT",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Distance"
+    ],
+    "name": "Distance"
+  },
   "233860": {
     "config_count": 1,
     "devices": [],
@@ -14788,7 +14880,7 @@
     "name": "Horizon Forbidden West\u2122 Complete Edition"
   },
   "242050": {
-    "config_count": 90,
+    "config_count": 91,
     "devices": [
       {
         "d": "MT6789",
@@ -14959,6 +15051,11 @@
         "d": "Adreno__TM__618",
         "m": "V2040",
         "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "HTC_U24_pro",
+        "s": "Adreno (TM) 720"
       },
       {
         "d": "Adreno__TM__750",
@@ -15872,16 +15969,22 @@
     "name": "Valdis Story: Abyssal City"
   },
   "2523720": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Pocket_FIT",
         "m": "AYANEO",
         "s": null
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_FIT",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
-      "Gears_of_War__Reloaded"
+      "Gears_of_War__Reloaded",
+      "Gears_of_War_Reloaded"
     ],
     "name": "Gears of War: Reloaded"
   },
@@ -16089,6 +16192,14 @@
       "HoneyCome"
     ],
     "name": "HoneyCome come come party"
+  },
+  "2545360": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Lonely_Mountains__Snow_Riders"
+    ],
+    "name": "Lonely Mountains: Snow Riders"
   },
   "254700": {
     "config_count": 34,
@@ -18482,7 +18593,7 @@
     "name": "Pipistrello and the Cursed Yoyo"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -18523,7 +18634,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -19490,14 +19600,6 @@
       "Ryse__Son_of_Rome"
     ],
     "name": "Ryse: Son of Rome"
-  },
-  "3028020": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Cars"
-    ],
-    "name": "CarX Street - Deluxe Cars"
   },
   "3028330": {
     "config_count": 1,
@@ -22406,6 +22508,14 @@
     ],
     "name": "Garten of Banban 0"
   },
+  "331160": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Cars"
+    ],
+    "name": "Disney\u2022Pixar Cars"
+  },
   "33120": {
     "config_count": 2,
     "devices": [
@@ -22419,14 +22529,6 @@
       "Alien_Shooter_2"
     ],
     "name": "Alien Shooter 2: Reloaded"
-  },
-  "3314070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "The_Sims_2__________________________________________________"
-    ],
-    "name": "The Sims\u2122 2 Legacy Collection"
   },
   "3314790": {
     "config_count": 1,
@@ -25307,7 +25409,7 @@
     "name": "Len's Island - Gothic Building Style"
   },
   "379720": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -25565,8 +25667,14 @@
     "name": "SPARK IGNITES"
   },
   "387290": {
-    "config_count": 3,
-    "devices": [],
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_FIT",
+        "s": "Adreno (TM) 750"
+      }
+    ],
     "folders": [
       "Ori_and_the_Blind_Forest__Definitive_Edition"
     ],
@@ -26658,6 +26766,14 @@
     ],
     "name": "Risen 2: Dark Waters"
   },
+  "404680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Hob"
+    ],
+    "name": "Hob"
+  },
   "404790": {
     "config_count": 1,
     "devices": [],
@@ -26723,6 +26839,14 @@
       "Toy_Story_3"
     ],
     "name": "Disney/Pixar Toy Story 3 Complete Edition"
+  },
+  "4050060": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Shift_At_Midnight_Demo"
+    ],
+    "name": "Shift At Midnight Multiplayer Demo"
   },
   "405820": {
     "config_count": 1,
@@ -27504,22 +27628,16 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
   "42700": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "Adreno__TM__640",
-        "m": "M2102J20SG",
-        "s": "Adreno (TM) 640"
       }
     ],
     "folders": [
-      "Call_of_Duty_-_Black_Ops",
-      "Call_of_Duty__Black_Ops"
+      "Call_of_Duty_-_Black_Ops"
     ],
     "name": "Call of Duty\u00ae: Black Ops"
   },
@@ -27803,8 +27921,14 @@
     "name": "Chop Chop Inc."
   },
   "4371450": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_FIT",
+        "s": "Adreno (TM) 750"
+      }
+    ],
     "folders": [
       "Fuel"
     ],
@@ -30922,7 +31046,7 @@
     "name": "BIOMUTANT"
   },
   "598550": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -32357,8 +32481,14 @@
     "name": "Darksiders Genesis"
   },
   "711540": {
-    "config_count": 2,
-    "devices": [],
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_FIT",
+        "s": "Adreno (TM) 750"
+      }
+    ],
     "folders": [
       "Lonely_Mountains__Downhill"
     ],
@@ -34850,13 +34980,32 @@
     ],
     "name": "Resident Evil 3"
   },
-  "953490": {
+  "953330": {
     "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_FIT",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Hyper_Echelon"
+    ],
+    "name": "Hyper Echelon"
+  },
+  "953490": {
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__740",
         "m": "S918B",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_FIT",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -35227,6 +35376,14 @@
       "Hogwarts_Legacy"
     ],
     "name": "Hogwarts Legacy"
+  },
+  "990630": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "The_Last_Campfire"
+    ],
+    "name": "The Last Campfire"
   },
   "990850": {
     "config_count": 1,
@@ -35659,12 +35816,17 @@
     "name": "Bmlauncher"
   },
   "name:bootstrappackagedgame": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "AN70",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "23043RP34G",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
