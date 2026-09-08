@@ -2474,7 +2474,6 @@
   },
   "DreadOut_2": {
     "appid": 945710,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/945710/header.jpg",
     "method": "naive",
     "steam_name": "DreadOut 2"
   },
@@ -3989,7 +3988,6 @@
   },
   "Granblue_Fantasy__Relink": {
     "appid": 881020,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/881020/header.jpg",
     "method": "naive",
     "steam_name": "Granblue Fantasy: Relink"
   },
@@ -5102,6 +5100,10 @@
   "LF_Launcher": {
     "appid": null,
     "method": "non-game"
+  },
+  "LGTS": {
+    "appid": null,
+    "method": "unresolved"
   },
   "LIGHTNING_RETURNS___FINAL_FANTASY__XIII": {
     "appid": 345350,
@@ -9936,7 +9938,6 @@
   },
   "Tomb_Raider_Legend": {
     "appid": 7000,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/7000/header.jpg",
     "method": "naive",
     "steam_name": "Tomb Raider: Legend"
   },
@@ -10042,7 +10043,6 @@
   },
   "Trails_in_the_Sky_the_3rd": {
     "appid": 436670,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/436670/header.jpg",
     "method": "naive",
     "steam_name": "The Legend of Heroes: Trails in the Sky the 3rd"
   },
@@ -10740,7 +10740,6 @@
   },
   "Yanpai_Simulator": {
     "appid": 990850,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/990850/header.jpg",
     "method": "naive",
     "steam_name": "Yanpai Simulator"
   },
