@@ -285,7 +285,7 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 2 (2009)"
   },
   "1020790": {
-    "config_count": 48,
+    "config_count": 47,
     "devices": [
       {
         "d": "SM8850",
@@ -3262,6 +3262,20 @@
     ],
     "name": "ULTRAKILL"
   },
+  "1230530": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "G57_MC4",
+        "m": "Mali",
+        "s": "Mali-G57 MC4"
+      }
+    ],
+    "folders": [
+      "Atla"
+    ],
+    "name": "Atlas Fallen: Reign Of Sand"
+  },
   "1232460": {
     "config_count": 1,
     "devices": [
@@ -3380,7 +3394,7 @@
     "name": "Mass Effect\u2122 3 N7 Digital Deluxe Edition (2012)"
   },
   "1238060": {
-    "config_count": 13,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -3871,7 +3885,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 50,
+    "config_count": 48,
     "devices": [
       {
         "d": "G57_MC2",
@@ -3962,11 +3976,6 @@
         "d": "Adreno__TM__650",
         "m": "22021211RG",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
       }
     ],
     "folders": [
@@ -3979,8 +3988,6 @@
       "need_for_speed_most_wanted_",
       "Need_For_Speed_Most_Wanted_",
       "Need_for_Speed_-_Most_Wanted",
-      "Need_for_Speed__Most_Wanted_2005",
-      "Need_for_Speed__Most_wanted__2012_",
       "need_for_speed_most_wa",
       "need_for_speed_most_wanted_2005"
     ],
@@ -5520,14 +5527,6 @@
     ],
     "name": "Tested on Humans: Escape Room"
   },
-  "1486290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "eFootball_2026"
-    ],
-    "name": "Polyleague Manager 2026: Football Evolution"
-  },
   "1491410": {
     "config_count": 1,
     "devices": [
@@ -7059,7 +7058,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 94,
+    "config_count": 95,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -7207,7 +7206,8 @@
       "pes_2012",
       "pes_2013",
       "pes_2013_",
-      "pes__2013"
+      "pes__2013",
+      "eFootball_2026"
     ],
     "name": "eFootball\u2122"
   },
@@ -7386,7 +7386,7 @@
     "name": "Persona 5 Royal"
   },
   "1693980": {
-    "config_count": 20,
+    "config_count": 22,
     "devices": [
       {
         "d": "G68",
@@ -7436,7 +7436,8 @@
     ],
     "folders": [
       "Dead_Space",
-      "Dead_Space__"
+      "Dead_Space__",
+      "Dead_Space_3"
     ],
     "name": "Dead Space"
   },
@@ -7924,7 +7925,7 @@
     "name": "STAR OCEAN THE DIVINE FORCE"
   },
   "1778820": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -7940,11 +7941,17 @@
         "d": "Adreno__TM__830",
         "m": "NX9",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
       "TEKKEN_8",
-      "__8"
+      "__8",
+      "TEKKEN_7"
     ],
     "name": "TEKKEN 8"
   },
@@ -8906,20 +8913,6 @@
       "UnrealGame"
     ],
     "name": "An Indie Game a Month: Unreal Journey"
-  },
-  "1890183": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Immortalis_MC12",
-        "m": "G720",
-        "s": "Mali-G720-Immortalis MC12"
-      }
-    ],
-    "folders": [
-      "Forza_Horizon_4"
-    ],
-    "name": "Forza Horizon 5 2017 #25 Ferrari 488"
   },
   "1895880": {
     "config_count": 1,
@@ -10063,14 +10056,6 @@
       "GoreBox"
     ],
     "name": "GoreBox"
-  },
-  "202970": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Call_of_Duty_-_Black_Ops_II"
-    ],
-    "name": "Call of Duty\u00ae: Black Ops II"
   },
   "203140": {
     "config_count": 35,
@@ -12355,7 +12340,7 @@
     "name": "Total Chaos"
   },
   "221040": {
-    "config_count": 69,
+    "config_count": 68,
     "devices": [
       {
         "d": "G720_MC7",
@@ -12486,11 +12471,6 @@
         "d": "Adreno__TM__650",
         "m": "M2007J3SG",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Adreno__TM__710",
-        "m": "I2219",
-        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__720",
@@ -12680,7 +12660,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -14183,7 +14164,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 14,
+    "config_count": 17,
     "devices": [
       {
         "d": "G720_MC7",
@@ -14214,10 +14195,21 @@
         "d": "Adreno__TM__710",
         "m": "A366E",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II"
+      "DARK_SOULS__II",
+      "DarkSoulsII"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -18490,16 +18482,8 @@
     ],
     "name": "Slay the Spire 2"
   },
-  "2870350": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Pipistrello_and_the_Cursed_Yoyo"
-    ],
-    "name": "Pipistrello and the Cursed Yoyo"
-  },
   "287290": {
-    "config_count": 34,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -18540,7 +18524,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -19525,7 +19508,7 @@
     "name": "Trove"
   },
   "304240": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -19546,10 +19529,16 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "I2219",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
-      "Resident_Evil"
+      "Resident_Evil",
+      "Resident_Evil_6"
     ],
     "name": "Resident Evil"
   },
@@ -23925,7 +23914,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 10,
+    "config_count": 6,
     "devices": [
       {
         "d": "G57_MC2",
@@ -23951,11 +23940,6 @@
         "d": "Adreno__TM__830",
         "m": "24122RKC7G",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57_MC4",
-        "m": "Mali",
-        "s": "Mali-G57 MC4"
       }
     ],
     "folders": [
@@ -24426,6 +24410,14 @@
     ],
     "name": "Drift Legends 2"
   },
+  "3669870": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Control_Ultimate_Edition"
+    ],
+    "name": "CONTROL Resonant"
+  },
   "367450": {
     "config_count": 1,
     "devices": [],
@@ -24612,14 +24604,6 @@
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
-  },
   "3681010": {
     "config_count": 1,
     "devices": [],
@@ -24804,7 +24788,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 41,
+    "config_count": 38,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -24877,16 +24861,6 @@
         "s": "Adreno (TM) 735"
       },
       {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -24899,7 +24873,6 @@
       "DarkSoulsRemastered",
       "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
-      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -25730,7 +25703,7 @@
     "name": "Pacer"
   },
   "389730": {
-    "config_count": 40,
+    "config_count": 39,
     "devices": [
       {
         "d": "SM8850",
@@ -26984,14 +26957,6 @@
     ],
     "name": "Z.A.T.O. - Digital Art Pack"
   },
-  "4123760": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Football_Life_2026"
-    ],
-    "name": "Football Life"
-  },
   "413150": {
     "config_count": 5,
     "devices": [
@@ -27763,14 +27728,6 @@
       "GoW"
     ],
     "name": "Pai Gow Poker by Pokerist"
-  },
-  "435800": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Binaries"
-    ],
-    "name": "Binaries"
   },
   "436670": {
     "config_count": 1,
@@ -31648,7 +31605,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -32328,7 +32285,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 6,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -32349,8 +32306,7 @@
     "folders": [
       "Darksiders",
       "Darksiders_",
-      "Darksiders_Genesis",
-      "DarksidersGenesis"
+      "Darksiders_Genesis"
     ],
     "name": "Darksiders Genesis"
   },
@@ -33794,7 +33750,7 @@
     "name": "The Walking Dead: The Final Season"
   },
   "870780": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "CONTROL_Ultimate_Edition",
@@ -35581,6 +35537,14 @@
     ],
     "name": "Bh6"
   },
+  "name:binaries": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Binaries"
+    ],
+    "name": "Binaries"
+  },
   "name:bio4": {
     "config_count": 3,
     "devices": [
@@ -35664,6 +35628,14 @@
       "BootstrapPackagedGame"
     ],
     "name": "Bootstrappackagedgame"
+  },
+  "name:call-of-duty-black-ops-ii": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Call_of_Duty_-_Black_Ops_II"
+    ],
+    "name": "Call Of Duty Black Ops Ii"
   },
   "name:call-of-duty-world-at-war-game": {
     "config_count": 1,
@@ -35806,6 +35778,14 @@
       "daorigins"
     ],
     "name": "Daorigins"
+  },
+  "name:darksidersgenesis": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "DarksidersGenesis"
+    ],
+    "name": "Darksidersgenesis"
   },
   "name:dawn-of-war-soulstorm": {
     "config_count": 1,
@@ -36249,6 +36229,14 @@
     ],
     "name": "Final Fantasy 7 Steamrip Read Description"
   },
+  "name:football-life-2026": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Football_Life_2026"
+    ],
+    "name": "Football Life 2026"
+  },
   "name:frozen-throne": {
     "config_count": 1,
     "devices": [
@@ -36640,6 +36628,14 @@
     ],
     "name": "Legobatmanlotdk"
   },
+  "name:legomarvel": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "LEGOMARVEL"
+    ],
+    "name": "Legomarvel"
+  },
   "name:little-nightmares-enhanced": {
     "config_count": 1,
     "devices": [
@@ -36811,6 +36807,14 @@
     ],
     "name": "Mystery Case Files Dire Grove"
   },
+  "name:naruto-x-boruto-ultimate-ninja-storm-connections": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS"
+    ],
+    "name": "Naruto X Boruto Ultimate Ninja Storm Connections"
+  },
   "name:nba2k14": {
     "config_count": 4,
     "devices": [
@@ -36873,6 +36877,28 @@
       "Need_for_Speed_Black_Edition_"
     ],
     "name": "Need For Speed Black Edition"
+  },
+  "name:need-for-speed-most-wanted-2005": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Need_for_Speed__Most_Wanted_2005"
+    ],
+    "name": "Need For Speed Most Wanted 2005"
+  },
+  "name:need-for-speed-most-wanted-2012": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
+      }
+    ],
+    "folders": [
+      "Need_for_Speed__Most_wanted__2012_"
+    ],
+    "name": "Need For Speed Most Wanted 2012"
   },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 1,
@@ -38885,6 +38911,14 @@
     ],
     "name": "Pes6"
   },
+  "name:pipistrello-and-the-cursed-yoyo": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Pipistrello_and_the_Cursed_Yoyo"
+    ],
+    "name": "Pipistrello And The Cursed Yoyo"
+  },
   "name:pkhdgame-win32-shipping": {
     "config_count": 1,
     "devices": [],
@@ -39189,6 +39223,14 @@
       "Snapshot__Lewd_Shores"
     ],
     "name": "Snapshot Lewd Shores"
+  },
+  "name:sniper-ghost-warrior-1": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 1"
   },
   "name:sottr": {
     "config_count": 2,
