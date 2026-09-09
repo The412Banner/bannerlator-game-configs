@@ -21068,7 +21068,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1422,
+    "config_count": 1423,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -21871,11 +21871,6 @@
         "s": "Adreno (TM) 730"
       },
       {
-        "d": "Adreno__TM__650",
-        "m": "W09",
-        "s": "Adreno (TM) 650"
-      },
-      {
         "d": "G76_MC4",
         "m": "Mali",
         "s": "Mali-G76 MC4"
@@ -22084,6 +22079,11 @@
         "d": "Adreno__TM__735",
         "m": "24091RPADG",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "W09",
+        "s": "Adreno (TM) 650"
       },
       {
         "d": "Adreno__TM__830",
@@ -24564,6 +24564,14 @@
       "fs_19_"
     ],
     "name": "FSX: Steam Edition - Embraer E-Jets 175 & 195 Add-On"
+  },
+  "3650170": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Marsupilami_2_-_Salsa_Palombia"
+    ],
+    "name": "Marsupilami 2 - Salsa Palombia"
   },
   "365360": {
     "config_count": 1,
@@ -30703,13 +30711,8 @@
     "name": "My Friend Pedro - Blood Bullets Bananas"
   },
   "561610": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
-      {
-        "d": "G610_MC6",
-        "m": "Mali",
-        "s": "Mali-G610 MC6"
-      },
       {
         "d": "G57",
         "m": "Mali",
@@ -30719,6 +30722,11 @@
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "G610_MC6",
+        "m": "Mali",
+        "s": "Mali-G610 MC6"
       }
     ],
     "folders": [
@@ -38932,6 +38940,20 @@
       "Pro_Evolution_Soccer_2017seting"
     ],
     "name": "PES 2017"
+  },
+  "name:pes-2017-online-warriors-crack": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Samsung_Xclipse_940",
+        "m": "S926B",
+        "s": "Samsung Xclipse 940"
+      }
+    ],
+    "folders": [
+      "PES_2017_Online_Warriors_crack"
+    ],
+    "name": "PES 2017 Online Warriors Crack"
   },
   "name:pes-2018": {
     "config_count": 29,
