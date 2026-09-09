@@ -2399,6 +2399,20 @@
     ],
     "name": "A Space for the Unbound"
   },
+  "1203170": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Darksiders"
+    ],
+    "name": "Darksiders 4"
+  },
   "1203220": {
     "config_count": 2,
     "devices": [
@@ -2422,27 +2436,10 @@
     "name": "Phonopolis"
   },
   "1206560": {
-    "config_count": 14,
-    "devices": [
-      {
-        "d": "Adreno__TM__640",
-        "m": "RMX1931",
-        "s": "Adreno (TM) 640"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "CPH2447",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Immortalis_MC12",
-        "m": "G925",
-        "s": "Mali-G925-Immortalis MC12"
-      }
-    ],
+    "config_count": 3,
+    "devices": [],
     "folders": [
       "WorldBox_-_God_Simulator",
-      "GoW",
       "worldbox"
     ],
     "name": "WorldBox - God Simulator"
@@ -8946,7 +8943,7 @@
     "name": "Mina the Hollower"
   },
   "1876890": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G57_MC2",
@@ -8957,6 +8954,11 @@
         "d": "Adreno__TM__825",
         "m": "I2405",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
@@ -10297,7 +10299,7 @@
     "name": "Hitman: Absolution\u2122"
   },
   "203160": {
-    "config_count": 19,
+    "config_count": 6,
     "devices": [
       {
         "d": "G52_MC2",
@@ -12022,14 +12024,6 @@
     ],
     "name": "Ricochet Blur"
   },
-  "2186680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "tra"
-    ],
-    "name": "Warhammer 40,000: Rogue Trader"
-  },
   "2193910": {
     "config_count": 1,
     "devices": [
@@ -12800,7 +12794,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 19,
+    "config_count": 18,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12840,8 +12834,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -15748,7 +15741,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "A075M",
@@ -15812,7 +15805,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes"
+      "LEGO__Marvel__Super_Heroes",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -18305,7 +18299,7 @@
     "name": "Two Sides"
   },
   "2856190": {
-    "config_count": 102,
+    "config_count": 103,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -18388,11 +18382,6 @@
         "s": "Adreno (TM) 810"
       },
       {
-        "d": "Immortalis_MC11",
-        "m": "G925",
-        "s": "Mali-G925-Immortalis MC11"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "A057M",
         "s": "Adreno (TM) 610"
@@ -18456,6 +18445,11 @@
         "d": "Adreno__TM__650",
         "m": "M2012K11AG",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Immortalis_MC11",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC11"
       }
     ],
     "folders": [
@@ -18731,7 +18725,7 @@
     "name": "Pipistrello and the Cursed Yoyo"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -18771,7 +18765,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -21078,7 +21073,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1424,
+    "config_count": 1425,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -23801,6 +23796,14 @@
     ],
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
   },
+  "3493540": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "tra"
+    ],
+    "name": "Transport Fever 3"
+  },
   "3495730": {
     "config_count": 2,
     "devices": [],
@@ -25080,7 +25083,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 44,
+    "config_count": 41,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -25166,11 +25169,6 @@
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Adreno__TM__660",
-        "m": "S928B",
-        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
@@ -25182,8 +25180,7 @@
       "DARK_SOULS_III",
       "DarkSoulsII",
       "DarkSoulsIII",
-      "Dark_Souls_III",
-      "Dark_Souls_Remastered"
+      "Dark_Souls_III"
     ],
     "name": "DARK SOULS\u2122 III"
   },
@@ -28040,12 +28037,27 @@
     "name": "Divinity - Original Sin 2 - Definitive Edition"
   },
   "4355320": {
-    "config_count": 5,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__740",
         "m": "S911B",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__640",
+        "m": "RMX1931",
+        "s": "Adreno (TM) 640"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "CPH2447",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Immortalis_MC12",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC12"
       }
     ],
     "folders": [
@@ -28381,7 +28393,7 @@
     "name": "Farming Simulator 17"
   },
   "447040": {
-    "config_count": 55,
+    "config_count": 56,
     "devices": [
       {
         "d": "G720_MC7",
@@ -29420,7 +29432,7 @@
     "name": "Warhammer 40,000: Gladius - Relics of War"
   },
   "489830": {
-    "config_count": 64,
+    "config_count": 65,
     "devices": [
       {
         "d": "G615_MC6",
@@ -30847,7 +30859,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 39,
+    "config_count": 42,
     "devices": [
       {
         "d": "G57",
@@ -30943,11 +30955,17 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "S928B",
+        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
       "DARK_SOULS__REMASTERED",
-      "DARK_SOULS___REMASTERED"
+      "DARK_SOULS___REMASTERED",
+      "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
   },
@@ -31941,7 +31959,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -32621,7 +32639,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -32637,11 +32655,6 @@
         "d": "Adreno__TM__A32",
         "m": "Pocket_Fit_G3_Gen3",
         "s": "Adreno (TM) A32"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -37592,7 +37605,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2781,
+    "config_count": 2782,
     "devices": [
       {
         "d": "G52_MC2",
@@ -38280,11 +38293,6 @@
         "s": "ANGLE ((Samsung Xclipse 550) on Vulkan 1.4.304)"
       },
       {
-        "d": "256",
-        "m": "8",
-        "s": "PowerVR B-Series BXM-8-256"
-      },
-      {
         "d": "ANGLE__Samsung_Xclipse_530__on_Vulkan_1_3_231",
         "m": "A556E",
         "s": "ANGLE (Samsung Xclipse 530) on Vulkan 1.3.231"
@@ -38488,6 +38496,11 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "256",
+        "m": "8",
+        "s": "PowerVR B-Series BXM-8-256"
       },
       {
         "d": "Adreno__TM__740",
