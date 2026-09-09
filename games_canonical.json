@@ -4060,7 +4060,7 @@
     "name": "Need for Speed\u2122 Most Wanted"
   },
   "1262580": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -4081,6 +4081,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "AN00",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -4543,7 +4548,7 @@
     "name": "Nioh 2 \u2013 The Complete Edition"
   },
   "1326470": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "G615_MC6",
@@ -10283,8 +10288,33 @@
     "name": "Hitman: Absolution\u2122"
   },
   "203160": {
-    "config_count": 5,
+    "config_count": 18,
     "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
+      },
       {
         "d": "G52_MC2",
         "m": "Mali",
@@ -10307,10 +10337,11 @@
       }
     ],
     "folders": [
+      "TombRaider",
       "Tomb_Raider_2013",
       "Tomb_Raider_Game_of_the_Year"
     ],
-    "name": "Tomb Raider 2013"
+    "name": "Tomb Raider Game of the Year"
   },
   "203650": {
     "config_count": 3,
@@ -12773,7 +12804,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12813,7 +12844,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev"
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -13799,7 +13831,7 @@
     "name": "Universe Sandbox"
   },
   "231120": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -14967,7 +14999,7 @@
     "name": "Horizon Forbidden West\u2122 Complete Edition"
   },
   "242050": {
-    "config_count": 91,
+    "config_count": 92,
     "devices": [
       {
         "d": "MT6789",
@@ -18689,7 +18721,7 @@
     "name": "Pipistrello and the Cursed Yoyo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -18729,8 +18761,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -19617,7 +19648,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -19636,8 +19667,7 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -21038,7 +21068,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1421,
+    "config_count": 1422,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24129,7 +24159,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 19,
+    "config_count": 6,
     "devices": [
       {
         "d": "G57_MC2",
@@ -24155,31 +24185,10 @@
         "d": "Adreno__TM__830",
         "m": "24122RKC7G",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
-      "Atla",
-      "TombRaider"
+      "Atla"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -25035,7 +25044,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 35,
+    "config_count": 41,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -25098,6 +25107,11 @@
         "s": "Mali-G720 MC8"
       },
       {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
+      },
+      {
         "d": "Adreno__TM__735",
         "m": "NX9",
         "s": "Adreno (TM) 735"
@@ -25123,6 +25137,7 @@
       "DARK_SOULS",
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
+      "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
       "DarkSoulsII",
       "DarkSoulsIII",
@@ -25343,7 +25358,7 @@
     "name": "Professor Teaches\u00ae Excel 2013 & 365"
   },
   "377160": {
-    "config_count": 23,
+    "config_count": 22,
     "devices": [
       {
         "d": "SM8750P",
@@ -29748,7 +29763,7 @@
     "name": "Trails in the Sky 2nd Chapter Demo"
   },
   "50130": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "MT6781",
@@ -30805,7 +30820,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 48,
+    "config_count": 42,
     "devices": [
       {
         "d": "G57",
@@ -30903,11 +30918,6 @@
         "s": "Mali-G720 MC7"
       },
       {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
-      },
-      {
         "d": "Adreno__TM__660",
         "m": "S928B",
         "s": "Adreno (TM) 660"
@@ -30916,9 +30926,6 @@
     "folders": [
       "DARK_SOULS__REMASTERED",
       "DARK_SOULS___REMASTERED",
-      "DARKSOULS",
-      "DARK_SOULS_-_REMASTERED",
-      "DarkSoulsRemastered",
       "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
@@ -34678,7 +34685,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G615_MC6",
@@ -34697,7 +34704,8 @@
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -37553,7 +37561,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2780,
+    "config_count": 2781,
     "devices": [
       {
         "d": "G52_MC2",
