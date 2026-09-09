@@ -2394,20 +2394,6 @@
     ],
     "name": "A Space for the Unbound"
   },
-  "1203170": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
-      }
-    ],
-    "folders": [
-      "Darksiders"
-    ],
-    "name": "Darksiders 4"
-  },
   "1203220": {
     "config_count": 2,
     "devices": [
@@ -12186,7 +12172,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 110,
+    "config_count": 111,
     "devices": [
       {
         "d": "S938B",
@@ -13353,7 +13339,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 223,
+    "config_count": 224,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -13644,6 +13630,11 @@
         "d": "Adreno__TM__730",
         "m": "S901E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5070",
+        "s": "Adreno (TM) 810"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -15742,7 +15733,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 26,
+    "config_count": 25,
     "devices": [
       {
         "d": "A075M",
@@ -15806,8 +15797,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes",
-      "LEGOMARVEL"
+      "LEGO__Marvel__Super_Heroes"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -31928,7 +31918,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -32608,7 +32598,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -32624,6 +32614,11 @@
         "d": "Adreno__TM__A32",
         "m": "Pocket_Fit_G3_Gen3",
         "s": "Adreno (TM) A32"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
