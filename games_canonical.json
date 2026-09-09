@@ -1918,12 +1918,17 @@
     "name": "Dual Blade ~ Battle of The Female Ninja ~"
   },
   "1163550": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "I2407",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
@@ -4011,14 +4016,14 @@
         "s": "Adreno (TM) 22"
       },
       {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
-      },
-      {
         "d": "Adreno__TM__740",
         "m": "S918B",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       },
       {
         "d": "Adreno__TM__750",
@@ -4043,8 +4048,8 @@
       "Need_for_Speed_Most_Wanted_",
       "Need_for_Speed__Most_Wanted",
       "Need_for_Speed__Most_Wanted_________________________________",
-      "need_for_speed_most_wanted_",
       "Need_for_Speed_most_wanted",
+      "need_for_speed_most_wanted_",
       "Need_For_Speed_Most_Wanted_",
       "Need_for_Speed_-_Most_Wanted",
       "Need_for_Speed__Most_Wanted_2005",
@@ -9764,14 +9769,6 @@
     ],
     "name": "Prince of Persia\u00ae"
   },
-  "2000950": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Call_of_duty_Modern_Warfare"
-    ],
-    "name": "Call of Duty\u00ae: Modern Warfare\u00ae"
-  },
   "200260": {
     "config_count": 21,
     "devices": [
@@ -12022,6 +12019,14 @@
     ],
     "name": "Ricochet Blur"
   },
+  "2186680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "tra"
+    ],
+    "name": "Warhammer 40,000: Rogue Trader"
+  },
   "2193910": {
     "config_count": 1,
     "devices": [
@@ -13340,7 +13345,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 222,
+    "config_count": 223,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -23768,14 +23773,6 @@
     ],
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
   },
-  "3493540": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "tra"
-    ],
-    "name": "Transport Fever 3"
-  },
   "3495730": {
     "config_count": 2,
     "devices": [],
@@ -25026,7 +25023,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 41,
+    "config_count": 35,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -25089,11 +25086,6 @@
         "s": "Mali-G720 MC8"
       },
       {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
-      },
-      {
         "d": "Adreno__TM__735",
         "m": "NX9",
         "s": "Adreno (TM) 735"
@@ -25119,7 +25111,6 @@
       "DARK_SOULS",
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
-      "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
       "DarkSoulsII",
       "DarkSoulsIII",
@@ -28172,7 +28163,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -28183,7 +28174,8 @@
     "folders": [
       "Call_of_Duty_4",
       "Call_of_Duty_4_Modern_Warfare",
-      "COD__Modern_Warfare"
+      "COD__Modern_Warfare",
+      "Call_of_duty_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -30801,7 +30793,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 42,
+    "config_count": 48,
     "devices": [
       {
         "d": "G57",
@@ -30899,6 +30891,11 @@
         "s": "Mali-G720 MC7"
       },
       {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
+      },
+      {
         "d": "Adreno__TM__660",
         "m": "S928B",
         "s": "Adreno (TM) 660"
@@ -30907,6 +30904,9 @@
     "folders": [
       "DARK_SOULS__REMASTERED",
       "DARK_SOULS___REMASTERED",
+      "DARKSOULS",
+      "DARK_SOULS_-_REMASTERED",
+      "DarkSoulsRemastered",
       "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
