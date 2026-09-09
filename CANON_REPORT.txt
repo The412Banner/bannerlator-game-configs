@@ -1,13 +1,13 @@
-raw folders: 2588   total configs: 13933
+raw folders: 2588   total configs: 13941
 non-game (filtered out): 134
-MERGED canonical games (have appid): 1932
-  folders collapsed by merge: 624
+MERGED canonical games (have appid): 1931
+  folders collapsed by merge: 623
 still-unresolved real games (no appid): 598
-GAME-COUNT RATE: 1932/2530 = 76%  (vs 67% raw baseline)
-CONFIG-COVERAGE (matters for matching): 13855/14918 = 93%
+GAME-COUNT RATE: 1931/2529 = 76%  (vs 67% raw baseline)
+CONFIG-COVERAGE (matters for matching): 13863/14926 = 93%
 top-merged examples:
-  appid 1665460: 20 folders, 94 configs, 25 devices  ['PES', 'PES_13', 'PES_2013']
-  appid name:pes-2013: 16 folders, 2776 configs, 185 devices  ['PES2013', 'PES_2013_Fix', 'PES_2013_LEND_RIO_']
+  appid 1665460: 20 folders, 95 configs, 25 devices  ['PES', 'PES_13', 'PES_2013']
+  appid name:pes-2013: 16 folders, 2779 configs, 185 devices  ['PES2013', 'PES_2013_Fix', 'PES_2013_LEND_RIO_']
   appid 1506830: 14 folders, 92 configs, 35 devices  ['FIFA_06_____________________________________________________', 'FIFA_13', 'FIFA_14']
   appid 3240220: 13 folders, 1419 configs, 225 devices  ['Grand_Theft_Auto_5', 'Grand_Theft_Auto_V', 'Grand_Theft_Auto_V_']
   appid 1262560: 13 folders, 51 configs, 20 devices  ['Need_For_Speed__Most_Wanted__2005_', 'Need_for_Speed_-_Most_Wanted________________________________', 'Need_for_Speed_Most_Wanted']

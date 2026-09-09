@@ -2381,20 +2381,6 @@
     ],
     "name": "A Space for the Unbound"
   },
-  "1203170": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
-      }
-    ],
-    "folders": [
-      "Darksiders"
-    ],
-    "name": "Darksiders 4"
-  },
   "1203220": {
     "config_count": 2,
     "devices": [
@@ -2620,7 +2606,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 367,
+    "config_count": 368,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -7159,7 +7145,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 94,
+    "config_count": 95,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -8085,7 +8071,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 159,
+    "config_count": 160,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -8311,6 +8297,11 @@
         "d": "Adreno__TM__840",
         "m": "NX809J",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "A057M",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__830",
@@ -10415,7 +10406,7 @@
     "name": "Call of Juarez: Gunslinger"
   },
   "2050650": {
-    "config_count": 75,
+    "config_count": 76,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -14624,7 +14615,7 @@
     "name": "Papers, Please"
   },
   "239140": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "SM8750",
@@ -14665,6 +14656,11 @@
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -15690,7 +15686,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 26,
+    "config_count": 25,
     "devices": [
       {
         "d": "A075M",
@@ -15754,8 +15750,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes",
-      "LEGOMARVEL"
+      "LEGO__Marvel__Super_Heroes"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -31851,7 +31846,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -32531,7 +32526,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -32547,6 +32542,11 @@
         "d": "Adreno__TM__A32",
         "m": "Pocket_Fit_G3_Gen3",
         "s": "Adreno (TM) A32"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -37487,7 +37487,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2776,
+    "config_count": 2779,
     "devices": [
       {
         "d": "G52_MC2",
