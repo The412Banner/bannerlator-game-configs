@@ -2624,7 +2624,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 368,
+    "config_count": 369,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -2922,11 +2922,6 @@
         "s": "Mali-G720 MC8"
       },
       {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      },
-      {
         "d": "Adreno__TM__618",
         "m": "M2101K6I",
         "s": "Adreno (TM) 618"
@@ -3000,6 +2995,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g53_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__735",
@@ -11644,7 +11644,7 @@
     "name": "Aero GPX"
   },
   "2161700": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11670,6 +11670,11 @@
         "d": "Adreno__TM__830",
         "m": "NX9",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "PKG110",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -12024,6 +12029,14 @@
       "Blur"
     ],
     "name": "Ricochet Blur"
+  },
+  "2186680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "tra"
+    ],
+    "name": "Warhammer 40,000: Rogue Trader"
   },
   "2193910": {
     "config_count": 1,
@@ -21068,7 +21081,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1423,
+    "config_count": 1424,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -22084,6 +22097,11 @@
         "d": "Adreno__TM__650",
         "m": "W09",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "24122RKC7G",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "Adreno__TM__830",
@@ -23785,14 +23803,6 @@
       "Naruto_Ultimate_Storm_4"
     ],
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
-  },
-  "3493540": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "tra"
-    ],
-    "name": "Transport Fever 3"
   },
   "3495730": {
     "config_count": 2,
