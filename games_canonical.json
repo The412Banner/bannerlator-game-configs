@@ -1280,7 +1280,7 @@
     "name": "EARTH DEFENSE FORCE: IRON RAIN - Creation parts: T-Shirt: EDF5 Symbol"
   },
   "110800": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -1296,6 +1296,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "NP03J",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -13339,7 +13344,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 224,
+    "config_count": 225,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
