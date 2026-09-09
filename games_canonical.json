@@ -14211,7 +14211,7 @@
     "name": "Invincible VS"
   },
   "235460": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G57",
@@ -14272,6 +14272,11 @@
         "d": "Adreno__TM__830",
         "m": "NP05J",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2012K11AI",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
