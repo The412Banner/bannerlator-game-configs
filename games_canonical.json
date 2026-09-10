@@ -7804,14 +7804,6 @@
     ],
     "name": "Last Vanguard"
   },
-  "1731290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GUN"
-    ],
-    "name": "SPINE - This is Gun Fu"
-  },
   "1731460": {
     "config_count": 1,
     "devices": [
@@ -15283,6 +15275,14 @@
     ],
     "name": "Cyber Manhunt 2: New World - The Hacking Simulator"
   },
+  "2421750": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GUN"
+    ],
+    "name": "Gunman Contracts - Stand Alone"
+  },
   "2424420": {
     "config_count": 17,
     "devices": [
@@ -21178,7 +21178,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1435,
+    "config_count": 1436,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -23785,7 +23785,7 @@
     "name": "Stellar Blade\u2122"
   },
   "349040": {
-    "config_count": 62,
+    "config_count": 63,
     "devices": [
       {
         "d": "G615_MC2",
@@ -23878,11 +23878,6 @@
         "s": "Adreno (TM) 735"
       },
       {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      },
-      {
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
@@ -23896,6 +23891,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
@@ -24287,7 +24287,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 25,
+    "config_count": 19,
     "devices": [
       {
         "d": "G57_MC2",
@@ -24337,8 +24337,7 @@
     ],
     "folders": [
       "Atla",
-      "TombRaider",
-      "Tomb_Raider"
+      "TombRaider"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -26255,7 +26254,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 178,
+    "config_count": 184,
     "devices": [
       {
         "d": "Adreno__TM__650",
