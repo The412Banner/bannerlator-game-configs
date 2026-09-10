@@ -10595,6 +10595,14 @@
     ],
     "name": "Dishonored"
   },
+  "2052410": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "WITCH_ON_THE_HOLY_NIGHT"
+    ],
+    "name": "WITCH ON THE HOLY NIGHT"
+  },
   "2056900": {
     "config_count": 4,
     "devices": [
@@ -19738,7 +19746,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 4,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -19754,10 +19762,16 @@
         "d": "Adreno__TM__725",
         "m": "23049PCD8G",
         "s": "Adreno (TM) 725"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -20873,7 +20887,7 @@
     "name": "Mall Simulator"
   },
   "3183760": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "G57_MC2",
@@ -24273,7 +24287,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 19,
+    "config_count": 25,
     "devices": [
       {
         "d": "G57_MC2",
@@ -24323,7 +24337,8 @@
     ],
     "folders": [
       "Atla",
-      "TombRaider"
+      "TombRaider",
+      "Tomb_Raider"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -26240,7 +26255,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 184,
+    "config_count": 178,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -34884,7 +34899,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 8,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -34900,16 +34915,10 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
