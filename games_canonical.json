@@ -12846,7 +12846,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 18,
+    "config_count": 16,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12885,8 +12885,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -18812,7 +18811,7 @@
     "name": "Pipistrello and the Cursed Yoyo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 34,
     "devices": [
       {
         "d": "G615_MC2",
@@ -18853,6 +18852,7 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
+      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -21186,7 +21186,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1436,
+    "config_count": 1438,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -22179,11 +22179,6 @@
         "s": "Adreno (TM) 735"
       },
       {
-        "d": "G610_MC6",
-        "m": "Mali",
-        "s": "Mali-G610 MC6"
-      },
-      {
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
@@ -22212,6 +22207,16 @@
         "d": "256",
         "m": "8",
         "s": "PowerVR B-Series BXM-8-256"
+      },
+      {
+        "d": "G610_MC6",
+        "m": "Mali",
+        "s": "Mali-G610 MC6"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "LX2P",
+        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "Adreno__TM__830",
@@ -23454,25 +23459,6 @@
       "Quarantine_Zone__The_Last_Check"
     ],
     "name": "Quarantine Zone: The Last Check"
-  },
-  "341960": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "F731B",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      }
-    ],
-    "folders": [
-      "DP"
-    ],
-    "name": "DP Animation Maker"
   },
   "342560": {
     "config_count": 1,
@@ -28161,6 +28147,25 @@
       "pun"
     ],
     "name": "Pun Chan Pop"
+  },
+  "4329260": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "F731B",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      }
+    ],
+    "folders": [
+      "DP"
+    ],
+    "name": "Substance 3D Painter 2026"
   },
   "4344990": {
     "config_count": 1,
@@ -36905,6 +36910,25 @@
       "gNSUNSR"
     ],
     "name": "Gnsunsr"
+  },
+  "name:god-of-war-ragnar-k": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "24122RKC7G",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "23127PN0CC",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "God_of_War_Ragnar_k"
+    ],
+    "name": "God Of War Ragnar K"
   },
   "name:gothic-1-classic": {
     "config_count": 1,
