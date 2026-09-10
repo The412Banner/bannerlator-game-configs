@@ -11754,7 +11754,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 101,
+    "config_count": 102,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -11775,6 +11775,11 @@
         "d": "G76_MC4",
         "m": "Mali",
         "s": "Mali-G76 MC4"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       },
       {
         "d": "Adreno__TM__710",
@@ -11810,11 +11815,6 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
-      },
-      {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
       },
       {
         "d": "Adreno__TM__725",
@@ -12809,7 +12809,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 16,
+    "config_count": 18,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12848,7 +12848,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -18730,7 +18731,7 @@
     "name": "Pipistrello and the Cursed Yoyo"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -18771,7 +18772,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -25089,7 +25089,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 35,
+    "config_count": 41,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -25152,6 +25152,11 @@
         "s": "Mali-G720 MC8"
       },
       {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
+      },
+      {
         "d": "Adreno__TM__735",
         "m": "NX9",
         "s": "Adreno (TM) 735"
@@ -25177,6 +25182,7 @@
       "DARK_SOULS",
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
+      "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
       "DarkSoulsII",
       "DarkSoulsIII",
@@ -29746,7 +29752,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -29757,6 +29763,11 @@
         "d": "Adreno__TM__830",
         "m": "PLQ110",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "CPH2795",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__750",
@@ -29787,6 +29798,7 @@
     "folders": [
       "The_Witcher_3",
       "The_Witcher_3_-_Wild_Hunt",
+      "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "Witcher_1",
       "_Witcher",
       "witcher3"
@@ -30859,7 +30871,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 48,
+    "config_count": 42,
     "devices": [
       {
         "d": "G57",
@@ -30957,11 +30969,6 @@
         "s": "Mali-G720 MC7"
       },
       {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
-      },
-      {
         "d": "Adreno__TM__660",
         "m": "S928B",
         "s": "Adreno (TM) 660"
@@ -30970,9 +30977,6 @@
     "folders": [
       "DARK_SOULS__REMASTERED",
       "DARK_SOULS___REMASTERED",
-      "DARKSOULS",
-      "DARK_SOULS_-_REMASTERED",
-      "DarkSoulsRemastered",
       "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
