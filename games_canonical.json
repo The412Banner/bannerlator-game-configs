@@ -12838,7 +12838,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 16,
+    "config_count": 18,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12877,7 +12877,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -18795,7 +18796,7 @@
     "name": "Pipistrello and the Cursed Yoyo"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -18836,7 +18837,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -26904,6 +26904,14 @@
       "State_of_Decay__Year-One"
     ],
     "name": "State of Decay: Year-One Survival Edition Soundtrack"
+  },
+  "3974650": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Onimusha__Way_of_the_Sword_DEMO"
+    ],
+    "name": "Onimusha Way Of The Sword Demo"
   },
   "3978110": {
     "config_count": 3,
