@@ -446,7 +446,7 @@
     "name": "Torque Drift"
   },
   "1030300": {
-    "config_count": 47,
+    "config_count": 48,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -34876,7 +34876,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "G615_MC6",
@@ -34892,6 +34892,11 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
