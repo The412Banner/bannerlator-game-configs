@@ -20328,7 +20328,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 37,
+    "config_count": 38,
     "devices": [
       {
         "d": "G78",
@@ -20412,6 +20412,7 @@
       "Call_of_Duty_Black_Ops",
       "Call_of_Duty___Black_Ops_III",
       "___3____________",
+      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -27918,20 +27919,6 @@
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
-  "42700": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Call_of_Duty_-_Black_Ops"
-    ],
-    "name": "Call of Duty\u00ae: Black Ops"
-  },
   "427190": {
     "config_count": 5,
     "devices": [
@@ -33485,7 +33472,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 26,
+    "config_count": 27,
     "devices": [
       {
         "d": "G720_MC7",
@@ -33531,6 +33518,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G610_MC6",
+        "m": "Mali",
+        "s": "Mali-G610 MC6"
       }
     ],
     "folders": [
