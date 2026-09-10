@@ -20334,7 +20334,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 36,
+    "config_count": 37,
     "devices": [
       {
         "d": "G78",
@@ -20405,6 +20405,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "TB321FU",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -20412,6 +20417,7 @@
       "Call_of_Duty_3______________________________________________",
       "Call_of_Duty_Black_Ops",
       "Call_of_Duty___Black_Ops_III",
+      "___3____________",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
