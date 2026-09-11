@@ -2413,20 +2413,6 @@
     ],
     "name": "A Space for the Unbound"
   },
-  "1203170": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
-      }
-    ],
-    "folders": [
-      "Darksiders"
-    ],
-    "name": "Darksiders 4"
-  },
   "1203220": {
     "config_count": 2,
     "devices": [
@@ -2657,7 +2643,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 371,
+    "config_count": 372,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3010,11 +2996,6 @@
         "s": "Adreno (TM) 825"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__732",
         "m": "2410CRP4CG",
         "s": "Adreno (TM) 732"
@@ -3033,6 +3014,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__735",
@@ -4799,14 +4785,6 @@
       "DRACU-RIOT_"
     ],
     "name": "DRACU-RIOT!"
-  },
-  "1340720": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "StateOfDecay"
-    ],
-    "name": "State of Decay 3"
   },
   "1343240": {
     "config_count": 1,
@@ -7484,6 +7462,14 @@
       "Minecraft_Dungeons"
     ],
     "name": "Minecraft Dungeons"
+  },
+  "1675200": {
+    "config_count": 4,
+    "devices": [],
+    "folders": [
+      "Steam"
+    ],
+    "name": "Steam Deck"
   },
   "1676840": {
     "config_count": 1,
@@ -11827,7 +11813,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 102,
+    "config_count": 103,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -18354,7 +18340,7 @@
     "name": "SimplePlanes 2"
   },
   "284160": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -19797,7 +19783,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 4,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -19813,10 +19799,16 @@
         "d": "Adreno__TM__725",
         "m": "23049PCD8G",
         "s": "Adreno (TM) 725"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -19880,14 +19872,6 @@
       "Ryse__Son_of_Rome"
     ],
     "name": "Ryse: Son of Rome"
-  },
-  "3028020": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Cars"
-    ],
-    "name": "CarX Street - Deluxe Cars"
   },
   "3028330": {
     "config_count": 1,
@@ -21223,7 +21207,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1449,
+    "config_count": 1450,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -21976,11 +21960,6 @@
         "s": "Adreno (TM) 750"
       },
       {
-        "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-        "m": "S926B",
-        "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
-      },
-      {
         "d": "G77_MC9",
         "m": "Mali",
         "s": "Mali-G77 MC9"
@@ -22254,6 +22233,11 @@
         "d": "Adreno__TM__740",
         "m": "NX729J",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+        "m": "S926B",
+        "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
       },
       {
         "d": "Adreno__TM__830",
@@ -22821,6 +22805,14 @@
       "Garten_of_Banban_0"
     ],
     "name": "Garten of Banban 0"
+  },
+  "331160": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Cars"
+    ],
+    "name": "Disney\u2022Pixar Cars"
   },
   "33120": {
     "config_count": 2,
@@ -25259,7 +25251,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 41,
+    "config_count": 35,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -25322,11 +25314,6 @@
         "s": "Mali-G720 MC8"
       },
       {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
-      },
-      {
         "d": "Adreno__TM__735",
         "m": "NX9",
         "s": "Adreno (TM) 735"
@@ -25352,7 +25339,6 @@
       "DARK_SOULS",
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
-      "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
       "DarkSoulsII",
       "DarkSoulsIII",
@@ -27660,14 +27646,6 @@
     ],
     "name": "My Winter Car"
   },
-  "4165910": {
-    "config_count": 4,
-    "devices": [],
-    "folders": [
-      "Steam"
-    ],
-    "name": "Steam Machine"
-  },
   "418240": {
     "config_count": 1,
     "devices": [],
@@ -29915,7 +29893,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -29939,7 +29917,8 @@
       }
     ],
     "folders": [
-      "State_of_Decay_2__Juggernaut_Edition"
+      "State_of_Decay_2__Juggernaut_Edition",
+      "StateOfDecay"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
   },
@@ -30998,7 +30977,7 @@
     "name": "My Friend Pedro - Blood Bullets Bananas"
   },
   "561610": {
-    "config_count": 11,
+    "config_count": 13,
     "devices": [
       {
         "d": "G57",
@@ -31115,7 +31094,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 42,
+    "config_count": 48,
     "devices": [
       {
         "d": "G57",
@@ -31213,6 +31192,11 @@
         "s": "Mali-G720 MC7"
       },
       {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
+      },
+      {
         "d": "Adreno__TM__660",
         "m": "S928B",
         "s": "Adreno (TM) 660"
@@ -31221,6 +31205,9 @@
     "folders": [
       "DARK_SOULS__REMASTERED",
       "DARK_SOULS___REMASTERED",
+      "DARKSOULS",
+      "DARK_SOULS_-_REMASTERED",
+      "DarkSoulsRemastered",
       "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
@@ -32895,7 +32882,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -32911,6 +32898,11 @@
         "d": "Adreno__TM__A32",
         "m": "Pocket_Fit_G3_Gen3",
         "s": "Adreno (TM) A32"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -33043,7 +33035,7 @@
     "name": "Borderlands Game of the Year Enhanced"
   },
   "730": {
-    "config_count": 16,
+    "config_count": 17,
     "devices": [
       {
         "d": "G78",
@@ -33090,6 +33082,7 @@
       "Counter-Strike_2",
       "_____2",
       "_______2",
+      "___2",
       "cs",
       "csgo"
     ],
@@ -34985,7 +34978,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 8,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -35001,16 +34994,10 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -37912,7 +37899,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2809,
+    "config_count": 2813,
     "devices": [
       {
         "d": "G52_MC2",
@@ -38345,11 +38332,6 @@
         "s": "Adreno (TM) 810"
       },
       {
-        "d": "Adreno__TM__619",
-        "m": "A236M",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__720",
         "m": "NX9",
         "s": "Adreno (TM) 720"
@@ -38735,11 +38717,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "G78",
-        "m": "Mali",
-        "s": "Mali-G78"
-      },
-      {
         "d": "G71",
         "m": "Mali",
         "s": "Mali-G71"
@@ -38808,6 +38785,16 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G78",
+        "m": "Mali",
+        "s": "Mali-G78"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "A236M",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__740",

@@ -7734,6 +7734,10 @@
     "appid": null,
     "method": "non-game"
   },
+  "Project_Lightning___________________________________________": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "Project_Zomboid": {
     "appid": 108600,
     "method": "naive",
@@ -11010,6 +11014,12 @@
     "appid": 232890,
     "method": "naive",
     "steam_name": "Stronghold Crusader 2"
+  },
+  "___2": {
+    "appid": 730,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/730/header.jpg",
+    "method": "naive",
+    "steam_name": "Counter-Strike 2"
   },
   "___3____________": {
     "appid": 311210,
