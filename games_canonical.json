@@ -18833,6 +18833,20 @@
     ],
     "name": "Pipistrello and the Cursed Yoyo"
   },
+  "2870360": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__730",
+        "m": "SOG09",
+        "s": "Adreno (TM) 730"
+      }
+    ],
+    "folders": [
+      "Decktamer_Demo"
+    ],
+    "name": "Decktamer Demo"
+  },
   "287290": {
     "config_count": 32,
     "devices": [
@@ -25911,7 +25925,7 @@
     "name": "Psychonauts"
   },
   "383150": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -25922,6 +25936,11 @@
         "d": "Adreno__TM__810",
         "m": "2509ARPBDG",
         "s": "Adreno (TM) 810"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "Retroid_Pocket_6",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
