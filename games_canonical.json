@@ -3952,7 +3952,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 53,
+    "config_count": 54,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4028,6 +4028,11 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "2510DPC44G",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "Adreno__TM__22",
@@ -8140,6 +8145,25 @@
       "Crab_Game"
     ],
     "name": "Crab Game"
+  },
+  "1785910": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
+      }
+    ],
+    "folders": [
+      "SB"
+    ],
+    "name": "SBK\u212222"
   },
   "1790600": {
     "config_count": 161,
@@ -12544,7 +12568,7 @@
     "name": "DmC: Devil May Cry"
   },
   "2207440": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -17788,25 +17812,6 @@
     ],
     "name": "The Rogue Prince of Persia"
   },
-  "2723810": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "Odin3",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__735",
-        "m": "24069PC21G",
-        "s": "Adreno (TM) 735"
-      }
-    ],
-    "folders": [
-      "SB"
-    ],
-    "name": "SBcatfight game"
-  },
   "272510": {
     "config_count": 9,
     "devices": [
@@ -21222,7 +21227,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1448,
+    "config_count": 1449,
     "devices": [
       {
         "d": "Adreno__TM__630",
