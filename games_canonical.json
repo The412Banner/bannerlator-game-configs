@@ -3343,6 +3343,20 @@
     ],
     "name": "Atlas Fallen: Reign Of Sand"
   },
+  "12320": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred Gold"
+  },
   "1232460": {
     "config_count": 1,
     "devices": [
@@ -4785,14 +4799,6 @@
     ],
     "name": "DRACU-RIOT!"
   },
-  "1340720": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "StateOfDecay"
-    ],
-    "name": "State of Decay 3"
-  },
   "1343240": {
     "config_count": 1,
     "devices": [],
@@ -5733,7 +5739,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 92,
+    "config_count": 93,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -13395,7 +13401,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 229,
+    "config_count": 230,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -13658,11 +13664,6 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
@@ -13691,6 +13692,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -18675,7 +18681,7 @@
     "name": "Rune Factory: Guardians of Azuma"
   },
   "286690": {
-    "config_count": 32,
+    "config_count": 34,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -18706,11 +18712,6 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
-      },
-      {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
       },
       {
         "d": "Adreno__TM__650",
@@ -18751,6 +18752,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       },
       {
         "d": "Adreno__TM__840",
@@ -19754,7 +19760,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 4,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -19770,10 +19776,16 @@
         "d": "Adreno__TM__725",
         "m": "23049PCD8G",
         "s": "Adreno (TM) 725"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -20351,7 +20363,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 37,
+    "config_count": 38,
     "devices": [
       {
         "d": "G78",
@@ -20435,6 +20447,7 @@
       "Call_of_Duty_Black_Ops",
       "Call_of_Duty___Black_Ops_III",
       "___3____________",
+      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -21180,7 +21193,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1440,
+    "config_count": 1446,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -21248,11 +21261,6 @@
         "s": "Mali-G615 MC2"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
@@ -21296,6 +21304,11 @@
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__620",
@@ -21701,11 +21714,6 @@
         "d": "PowerVR_Rogue_GE8320",
         "m": "A045F",
         "s": "PowerVR Rogue GE8320"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "NX729J",
-        "s": "Adreno (TM) 740"
       },
       {
         "d": "Adreno__TM__642L",
@@ -22211,6 +22219,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "NX729J",
+        "s": "Adreno (TM) 740"
       },
       {
         "d": "Adreno__TM__830",
@@ -24294,7 +24307,7 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 25,
+    "config_count": 19,
     "devices": [
       {
         "d": "G57_MC2",
@@ -24344,8 +24357,7 @@
     ],
     "folders": [
       "Atla",
-      "TombRaider",
-      "Tomb_Raider"
+      "TombRaider"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -26233,20 +26245,6 @@
     ],
     "name": "TEKKEN 7"
   },
-  "3906660": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred 2 Remaster"
-  },
   "3909960": {
     "config_count": 1,
     "devices": [
@@ -26262,7 +26260,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 178,
+    "config_count": 184,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -27954,20 +27952,6 @@
       "Call_of_Duty___Modern_Warfare__3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
-  },
-  "42700": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Call_of_Duty_-_Black_Ops"
-    ],
-    "name": "Call of Duty\u00ae: Black Ops"
   },
   "427190": {
     "config_count": 5,
@@ -29841,7 +29825,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -29865,7 +29849,8 @@
       }
     ],
     "folders": [
-      "State_of_Decay_2__Juggernaut_Edition"
+      "State_of_Decay_2__Juggernaut_Edition",
+      "StateOfDecay"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
   },
@@ -34906,7 +34891,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 8,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -34922,16 +34907,10 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -37825,7 +37804,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2793,
+    "config_count": 2798,
     "devices": [
       {
         "d": "G52_MC2",
@@ -37881,11 +37860,6 @@
         "d": "Adreno__TM__619",
         "m": "22111317I",
         "s": "Adreno (TM) 619"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "M2010J19SG",
-        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__710",
@@ -38721,6 +38695,11 @@
         "d": "Adreno__TM__725",
         "m": "23049PCD8G",
         "s": "Adreno (TM) 725"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "M2010J19SG",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__740",
