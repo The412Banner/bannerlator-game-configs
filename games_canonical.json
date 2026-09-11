@@ -2652,7 +2652,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 370,
+    "config_count": 371,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -2670,14 +2670,14 @@
         "s": "Mali-G68"
       },
       {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
-      },
-      {
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       },
       {
         "d": "MT6789V_CD",
@@ -8146,25 +8146,6 @@
     ],
     "name": "Crab Game"
   },
-  "1785910": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "Odin3",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__735",
-        "m": "24069PC21G",
-        "s": "Adreno (TM) 735"
-      }
-    ],
-    "folders": [
-      "SB"
-    ],
-    "name": "SBK\u212222"
-  },
   "1790600": {
     "config_count": 161,
     "devices": [
@@ -9211,6 +9192,14 @@
       "Absolum"
     ],
     "name": "Absolum"
+  },
+  "1905180": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "OBS_Studio"
+    ],
+    "name": "OBS Studio"
   },
   "1909760": {
     "config_count": 1,
@@ -17812,6 +17801,25 @@
     ],
     "name": "The Rogue Prince of Persia"
   },
+  "2723810": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
+      }
+    ],
+    "folders": [
+      "SB"
+    ],
+    "name": "SBcatfight game"
+  },
   "272510": {
     "config_count": 9,
     "devices": [
@@ -23459,6 +23467,14 @@
     ],
     "name": "Heavy Weapon Deluxe"
   },
+  "3419290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN"
+  },
   "341940": {
     "config_count": 3,
     "devices": [
@@ -27019,14 +27035,6 @@
       "The_Spike"
     ],
     "name": "The Spike Cross"
-  },
-  "3985080": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN - Costume Expansion Pack"
   },
   "400": {
     "config_count": 4,
