@@ -4595,7 +4595,7 @@
     "name": "Sons Of The Forest"
   },
   "1328660": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -4606,6 +4606,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
@@ -9192,14 +9197,6 @@
       "Absolum"
     ],
     "name": "Absolum"
-  },
-  "1905180": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "OBS_Studio"
-    ],
-    "name": "OBS Studio"
   },
   "1909760": {
     "config_count": 1,
@@ -23467,14 +23464,6 @@
     ],
     "name": "Heavy Weapon Deluxe"
   },
-  "3419290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN"
-  },
   "341940": {
     "config_count": 3,
     "devices": [
@@ -27035,6 +27024,14 @@
       "The_Spike"
     ],
     "name": "The Spike Cross"
+  },
+  "3985080": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN - Costume Expansion Pack"
   },
   "400": {
     "config_count": 4,
