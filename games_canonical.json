@@ -4341,6 +4341,14 @@
     ],
     "name": "Helltaker"
   },
+  "1289670": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "EA"
+    ],
+    "name": "EA Play"
+  },
   "1292940": {
     "config_count": 1,
     "devices": [
@@ -7803,6 +7811,14 @@
       "Last_Vanguard"
     ],
     "name": "Last Vanguard"
+  },
+  "1731290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GUN"
+    ],
+    "name": "SPINE - This is Gun Fu"
   },
   "1731460": {
     "config_count": 1,
@@ -12838,7 +12854,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12878,7 +12894,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev"
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -14415,7 +14432,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 17,
+    "config_count": 14,
     "devices": [
       {
         "d": "G720_MC7",
@@ -14446,21 +14463,10 @@
         "d": "Adreno__TM__710",
         "m": "A366E",
         "s": "Adreno (TM) 710"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II",
-      "DarkSoulsII"
+      "DARK_SOULS__II"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -15285,14 +15291,6 @@
       "Manhunt2"
     ],
     "name": "Cyber Manhunt 2: New World - The Hacking Simulator"
-  },
-  "2421750": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GUN"
-    ],
-    "name": "Gunman Contracts - Stand Alone"
   },
   "2424420": {
     "config_count": 17,
@@ -16908,12 +16906,17 @@
     "name": "Killer is Dead - Nightmare Edition"
   },
   "2612750": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "SM6225",
         "m": "23129RAA4G",
         "s": "SM6225"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "A057M",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
@@ -17248,7 +17251,7 @@
     "name": "POOLS"
   },
   "2668510": {
-    "config_count": 38,
+    "config_count": 39,
     "devices": [
       {
         "d": "SM8635",
@@ -17339,6 +17342,11 @@
         "d": "Adreno__TM__722",
         "m": "V2511",
         "s": "Adreno (TM) 722"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
@@ -18326,7 +18334,7 @@
     "name": "SimplePlanes 2"
   },
   "284160": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -18364,14 +18372,14 @@
         "s": "Adreno (TM) 750"
       },
       {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      },
-      {
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       }
     ],
     "folders": [
@@ -18814,7 +18822,7 @@
     "name": "Pipistrello and the Cursed Yoyo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -18854,8 +18862,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -23935,14 +23942,6 @@
     ],
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
   },
-  "3493540": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "tra"
-    ],
-    "name": "Transport Fever 3"
-  },
   "3495730": {
     "config_count": 2,
     "devices": [],
@@ -25230,7 +25229,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 38,
+    "config_count": 41,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -25303,6 +25302,16 @@
         "s": "Adreno (TM) 735"
       },
       {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
+      },
+      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -25315,6 +25324,7 @@
       "DarkSoulsRemastered",
       "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
+      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -27044,14 +27054,6 @@
       "BeatTheChampions"
     ],
     "name": "Beat The Champions"
-  },
-  "4032350": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "EA"
-    ],
-    "name": "EA SPORTS\u2122 College Football 27"
   },
   "40350": {
     "config_count": 1,
@@ -29134,6 +29136,14 @@
       "HoYoPlay"
     ],
     "name": "I'veComeToYourHouseToPlay!"
+  },
+  "4678800": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "tra"
+    ],
+    "name": "Train Sim World\u00ae 7 "
   },
   "4686840": {
     "config_count": 1,
