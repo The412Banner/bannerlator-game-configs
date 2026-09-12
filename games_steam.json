@@ -1344,7 +1344,6 @@
   },
   "Castle_Crashers": {
     "appid": 204360,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/204360/header.jpg",
     "method": "naive",
     "steam_name": "Castle Crashers\u00ae"
   },
@@ -12136,6 +12135,12 @@
     "appid": 1222670,
     "method": "naive",
     "steam_name": "The Sims\u2122 4"
+  },
+  "tra": {
+    "appid": 3493540,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3493540/header.jpg",
+    "method": "naive",
+    "steam_name": "Transport Fever 3"
   },
   "tvlz": {
     "appid": null,
