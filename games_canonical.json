@@ -7482,6 +7482,14 @@
     ],
     "name": "Minecraft Dungeons"
   },
+  "1675200": {
+    "config_count": 4,
+    "devices": [],
+    "folders": [
+      "Steam"
+    ],
+    "name": "Steam Deck"
+  },
   "1676840": {
     "config_count": 1,
     "devices": [],
@@ -11829,7 +11837,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 103,
+    "config_count": 104,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -11960,6 +11968,11 @@
         "d": "Adreno__TM__720",
         "m": "motorola_edge_50_pro",
         "s": "Adreno (TM) 720"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "moto_g_60_",
+        "s": "Adreno (TM) 618"
       }
     ],
     "folders": [
@@ -14454,7 +14467,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 14,
+    "config_count": 17,
     "devices": [
       {
         "d": "G720_MC7",
@@ -14485,10 +14498,21 @@
         "d": "Adreno__TM__710",
         "m": "A366E",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II"
+      "DARK_SOULS__II",
+      "DarkSoulsII"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -21225,7 +21249,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1453,
+    "config_count": 1455,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25267,7 +25291,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 35,
+    "config_count": 32,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -25335,16 +25359,6 @@
         "s": "Adreno (TM) 735"
       },
       {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -25356,7 +25370,6 @@
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
       "DARK_SOULS_III",
-      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -27662,14 +27675,6 @@
     ],
     "name": "My Winter Car"
   },
-  "4165910": {
-    "config_count": 4,
-    "devices": [],
-    "folders": [
-      "Steam"
-    ],
-    "name": "Steam Machine"
-  },
   "418240": {
     "config_count": 1,
     "devices": [],
@@ -28497,12 +28502,19 @@
     ],
     "name": "This Is the Police"
   },
-  "4439830": {
-    "config_count": 2,
+  "4439810": {
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "Forza_Horizon_2_____________________________________________",
       "Forza_Horizon_2"
+    ],
+    "name": "Forza Horizon 6 2024 Koenigsegg Gemera"
+  },
+  "4439830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Forza_Horizon_2_____________________________________________"
     ],
     "name": "Forza Horizon 6 2008 Honda Civic Type R (FD2)"
   },
@@ -30227,6 +30239,11 @@
         "s": "Mali-G57 MC2"
       },
       {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      },
+      {
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
@@ -30240,17 +30257,12 @@
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
-      },
-      {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
       "My_Summer_Car",
-      "mysummercar",
-      "My_Summer_Car_______________________________________________"
+      "My_Summer_Car_______________________________________________",
+      "mysummercar"
     ],
     "name": "My Summer Car"
   },
