@@ -3349,6 +3349,20 @@
     ],
     "name": "Atlas Fallen: Reign Of Sand"
   },
+  "12320": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred Gold"
+  },
   "1232460": {
     "config_count": 1,
     "devices": [
@@ -19817,7 +19831,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 4,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -19833,10 +19847,16 @@
         "d": "Adreno__TM__725",
         "m": "23049PCD8G",
         "s": "Adreno (TM) 725"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -20414,7 +20434,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 38,
+    "config_count": 37,
     "devices": [
       {
         "d": "G78",
@@ -20498,7 +20518,6 @@
       "Call_of_Duty_Black_Ops",
       "Call_of_Duty___Black_Ops_III",
       "___3____________",
-      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -25303,7 +25322,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 35,
+    "config_count": 32,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -26314,20 +26333,6 @@
       "Tekken_7"
     ],
     "name": "TEKKEN 7"
-  },
-  "3906660": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred 2 Remaster"
   },
   "3909960": {
     "config_count": 1,
@@ -28037,6 +28042,20 @@
       "Call_of_Duty___Modern_Warfare__3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
+  },
+  "42700": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Call_of_Duty_-_Black_Ops"
+    ],
+    "name": "Call of Duty\u00ae: Black Ops"
   },
   "427190": {
     "config_count": 5,
@@ -34247,7 +34266,7 @@
     "name": "LUMINES REMASTERED"
   },
   "851850": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "G720_MC7",
@@ -34278,6 +34297,11 @@
         "d": "Adreno__TM__720",
         "m": "V2318",
         "s": "Adreno (TM) 720"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -35001,7 +35025,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 8,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -35017,16 +35041,10 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -37295,6 +37313,14 @@
     ],
     "name": "Jump Force"
   },
+  "name:kick-win": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "kick_win"
+    ],
+    "name": "Kick Win"
+  },
   "name:kinebox": {
     "config_count": 1,
     "devices": [
@@ -37936,7 +37962,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2816,
+    "config_count": 2817,
     "devices": [
       {
         "d": "G52_MC2",
@@ -38809,11 +38835,6 @@
         "s": "Adreno (TM) 619"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
@@ -38832,6 +38853,11 @@
         "d": "Adreno__TM__732",
         "m": "2410CRP4CG",
         "s": "Adreno (TM) 732"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
