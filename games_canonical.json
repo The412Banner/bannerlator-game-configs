@@ -6258,7 +6258,7 @@
     "name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition"
   },
   "1551360": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -18450,7 +18450,7 @@
     "name": "Two Sides"
   },
   "2856190": {
-    "config_count": 104,
+    "config_count": 105,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -19627,7 +19627,7 @@
     "name": "Far Cry\u00ae 4"
   },
   "2988580": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -19663,6 +19663,11 @@
         "d": "Adreno__TM__840",
         "m": "NX809J",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "I2304",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -20049,7 +20054,7 @@
     "name": "Unturned"
   },
   "3050220": {
-    "config_count": 26,
+    "config_count": 27,
     "devices": [
       {
         "d": "2412DPC0AG",
@@ -20090,6 +20095,11 @@
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
@@ -20434,7 +20444,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 37,
+    "config_count": 38,
     "devices": [
       {
         "d": "G78",
@@ -20518,6 +20528,7 @@
       "Call_of_Duty_Black_Ops",
       "Call_of_Duty___Black_Ops_III",
       "___3____________",
+      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -28042,20 +28053,6 @@
       "Call_of_Duty___Modern_Warfare__3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
-  },
-  "42700": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Call_of_Duty_-_Black_Ops"
-    ],
-    "name": "Call of Duty\u00ae: Black Ops"
   },
   "427190": {
     "config_count": 5,
@@ -37962,7 +37959,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2817,
+    "config_count": 2818,
     "devices": [
       {
         "d": "G52_MC2",
@@ -38858,6 +38855,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
+        "m": "A376B",
+        "s": "ANGLE ((Samsung Xclipse 530) on Vulkan 1.3.279)"
       },
       {
         "d": "Adreno__TM__740",
