@@ -15408,20 +15408,6 @@
     ],
     "name": "Space Hulk (Classic)"
   },
-  "242640": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      }
-    ],
-    "folders": [
-      "Styx_-_Master_of_Shadows"
-    ],
-    "name": "Styx: Master of Shadows"
-  },
   "2426530": {
     "config_count": 1,
     "devices": [],
@@ -23469,7 +23455,7 @@
     "name": "EA SPORTS FC\u2122 26"
   },
   "3406150": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -23480,6 +23466,11 @@
         "d": "Adreno__TM__750",
         "m": "NP03J",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__722",
+        "m": "CPH2825",
+        "s": "Adreno (TM) 722"
       }
     ],
     "folders": [
@@ -23675,20 +23666,6 @@
       "LIGHTNING_RETURNS___FINAL_FANTASY__XIII"
     ],
     "name": "LIGHTNING RETURNS\u2122: FINAL FANTASY\u00ae XIII"
-  },
-  "346110": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      }
-    ],
-    "folders": [
-      "ARK__Survival_Evolved"
-    ],
-    "name": "ARK: Survival Evolved"
   },
   "3468650": {
     "config_count": 2,
