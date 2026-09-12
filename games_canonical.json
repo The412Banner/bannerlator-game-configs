@@ -6068,6 +6068,14 @@
     ],
     "name": "Are You Smarter Than A 5th Grader"
   },
+  "1521580": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Heist"
+    ],
+    "name": "Perfect Heist 2"
+  },
   "1528460": {
     "config_count": 2,
     "devices": [
@@ -14893,10 +14901,9 @@
     "name": "Castlevania: Lords of Shadow 2"
   },
   "2396240": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "Heist",
       "SteamWorld_Heist_2"
     ],
     "name": "SteamWorld Heist II"
@@ -37229,6 +37236,20 @@
       "GTAVLauncher"
     ],
     "name": "Gtavlauncher"
+  },
+  "name:halo-trial": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G72",
+        "m": "Mali",
+        "s": "Mali-G72"
+      }
+    ],
+    "folders": [
+      "Halo_Trial"
+    ],
+    "name": "Halo Trial"
   },
   "name:helloneighbor-win64-shipping": {
     "config_count": 1,
