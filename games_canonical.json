@@ -18093,6 +18093,14 @@
     ],
     "name": "Marvel Rivals"
   },
+  "2772560": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Supermarket_Simulator__Prologue"
+    ],
+    "name": "Supermarket Simulator: Prologue"
+  },
   "2774380": {
     "config_count": 1,
     "devices": [],
@@ -19795,7 +19803,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 6,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -19811,16 +19819,10 @@
         "d": "Adreno__TM__725",
         "m": "23049PCD8G",
         "s": "Adreno (TM) 725"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -23395,7 +23397,7 @@
     "name": "Dead as Disco"
   },
   "3405340": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -23416,6 +23418,11 @@
         "d": "Adreno__TM__740",
         "m": "Retroid_Pocket_6",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__725",
+        "m": "23049PCD8G",
+        "s": "Adreno (TM) 725"
       }
     ],
     "folders": [
@@ -23732,14 +23739,6 @@
       "GhostSong"
     ],
     "name": "Ghost Song"
-  },
-  "34830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper: Ghost Warrior"
   },
   "3483510": {
     "config_count": 1,
@@ -25101,6 +25100,14 @@
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
+  },
   "3681010": {
     "config_count": 1,
     "devices": [],
@@ -25285,7 +25292,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 41,
+    "config_count": 35,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -25348,11 +25355,6 @@
         "s": "Mali-G720 MC8"
       },
       {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
-      },
-      {
         "d": "Adreno__TM__735",
         "m": "NX9",
         "s": "Adreno (TM) 735"
@@ -25378,7 +25380,6 @@
       "DARK_SOULS",
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
-      "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
       "DarkSoulsII",
       "DarkSoulsIII",
@@ -31129,7 +31130,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 42,
+    "config_count": 48,
     "devices": [
       {
         "d": "G57",
@@ -31227,6 +31228,11 @@
         "s": "Mali-G720 MC7"
       },
       {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
+      },
+      {
         "d": "Adreno__TM__660",
         "m": "S928B",
         "s": "Adreno (TM) 660"
@@ -31235,6 +31241,9 @@
     "folders": [
       "DARK_SOULS__REMASTERED",
       "DARK_SOULS___REMASTERED",
+      "DARKSOULS",
+      "DARK_SOULS_-_REMASTERED",
+      "DarkSoulsRemastered",
       "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
@@ -35005,7 +35014,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 8,
     "devices": [
       {
         "d": "G615_MC6",
@@ -35021,10 +35030,16 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -39930,6 +39945,14 @@
       "Snapshot__Lewd_Shores"
     ],
     "name": "Snapshot Lewd Shores"
+  },
+  "name:sniperv2launcher": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "SniperV2Launcher"
+    ],
+    "name": "Sniperv2Launcher"
   },
   "name:sottr": {
     "config_count": 2,
