@@ -5104,8 +5104,14 @@
     "name": "GUILTY GEAR -STRIVE-"
   },
   "1386820": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "2510DPC44G",
+        "s": "Adreno (TM) 830"
+      }
+    ],
     "folders": [
       "F1_2020"
     ],
@@ -5400,7 +5406,7 @@
     "name": "You Will Die Here Tonight"
   },
   "1446780": {
-    "config_count": 16,
+    "config_count": 15,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -12924,7 +12930,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 19,
+    "config_count": 18,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12964,8 +12970,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -14502,7 +14507,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 17,
+    "config_count": 14,
     "devices": [
       {
         "d": "G720_MC7",
@@ -14533,21 +14538,10 @@
         "d": "Adreno__TM__710",
         "m": "A366E",
         "s": "Adreno (TM) 710"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II",
-      "DarkSoulsII"
+      "DARK_SOULS__II"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -15904,7 +15898,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "A075M",
@@ -15968,7 +15962,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes"
+      "LEGO__Marvel__Super_Heroes",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -18930,7 +18925,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -18970,7 +18965,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -19881,7 +19877,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 6,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -19897,16 +19893,10 @@
         "d": "Adreno__TM__725",
         "m": "23049PCD8G",
         "s": "Adreno (TM) 725"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -21318,7 +21308,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1463,
+    "config_count": 1465,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25377,7 +25367,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 38,
+    "config_count": 35,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -25440,14 +25430,19 @@
         "s": "Mali-G720 MC8"
       },
       {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
-      },
-      {
         "d": "Adreno__TM__735",
         "m": "NX9",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__650",
@@ -25460,8 +25455,8 @@
       "DARK_SOULS",
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
-      "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
+      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -31196,7 +31191,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 42,
+    "config_count": 48,
     "devices": [
       {
         "d": "G57",
@@ -31294,6 +31289,11 @@
         "s": "Mali-G720 MC7"
       },
       {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
+      },
+      {
         "d": "Adreno__TM__660",
         "m": "S928B",
         "s": "Adreno (TM) 660"
@@ -31302,6 +31302,9 @@
     "folders": [
       "DARK_SOULS__REMASTERED",
       "DARK_SOULS___REMASTERED",
+      "DARKSOULS",
+      "DARK_SOULS_-_REMASTERED",
+      "DarkSoulsRemastered",
       "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
@@ -31647,7 +31650,7 @@
     "name": "Attack on Titan 2 - A.O.T.2"
   },
   "601150": {
-    "config_count": 42,
+    "config_count": 43,
     "devices": [
       {
         "d": "unknown",
@@ -31738,6 +31741,11 @@
         "d": "Adreno__TM__710",
         "m": "23122PCD1I",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "SM8250",
+        "m": "22021211RG",
+        "s": "SM8250"
       }
     ],
     "folders": [
@@ -32296,7 +32304,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -35072,7 +35080,7 @@
     "name": "Driver Booster for Steam"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 8,
     "devices": [
       {
         "d": "G615_MC6",
@@ -35088,10 +35096,16 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -38023,7 +38037,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2819,
+    "config_count": 2821,
     "devices": [
       {
         "d": "G52_MC2",
@@ -38706,11 +38720,6 @@
         "s": "PowerVR Rogue GE8320"
       },
       {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "CPH2727",
         "s": "Adreno (TM) 610"
@@ -38924,6 +38933,11 @@
         "d": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
         "m": "A376B",
         "s": "ANGLE ((Samsung Xclipse 530) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__740",
