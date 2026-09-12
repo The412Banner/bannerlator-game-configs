@@ -2418,20 +2418,6 @@
     ],
     "name": "A Space for the Unbound"
   },
-  "1203170": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
-      }
-    ],
-    "folders": [
-      "Darksiders"
-    ],
-    "name": "Darksiders 4"
-  },
   "1203220": {
     "config_count": 2,
     "devices": [
@@ -4592,17 +4578,12 @@
     "name": "Nioh 2 \u2013 The Complete Edition"
   },
   "1326470": {
-    "config_count": 6,
+    "config_count": 5,
     "devices": [
       {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_FIT",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -15438,6 +15419,20 @@
     ],
     "name": "Space Hulk (Classic)"
   },
+  "242640": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "Styx_-_Master_of_Shadows"
+    ],
+    "name": "Styx: Master of Shadows"
+  },
   "2426530": {
     "config_count": 1,
     "devices": [],
@@ -21264,7 +21259,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1459,
+    "config_count": 1460,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25327,7 +25322,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 32,
+    "config_count": 38,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -25390,6 +25385,11 @@
         "s": "Mali-G720 MC8"
       },
       {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
+      },
+      {
         "d": "Adreno__TM__735",
         "m": "NX9",
         "s": "Adreno (TM) 735"
@@ -25405,6 +25405,7 @@
       "DARK_SOULS",
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
+      "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
       "DarkSoulsIII",
       "Dark_Souls_III"
@@ -27106,7 +27107,7 @@
     "name": "Garry's Mod"
   },
   "4001890": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__810",
@@ -27115,6 +27116,7 @@
       }
     ],
     "folders": [
+      "How_to__",
       "How_to_Fish"
     ],
     "name": "How to Fish"
@@ -31154,7 +31156,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 48,
+    "config_count": 42,
     "devices": [
       {
         "d": "G57",
@@ -31252,11 +31254,6 @@
         "s": "Mali-G720 MC7"
       },
       {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
-      },
-      {
         "d": "Adreno__TM__660",
         "m": "S928B",
         "s": "Adreno (TM) 660"
@@ -31265,9 +31262,6 @@
     "folders": [
       "DARK_SOULS__REMASTERED",
       "DARK_SOULS___REMASTERED",
-      "DARKSOULS",
-      "DARK_SOULS_-_REMASTERED",
-      "DarkSoulsRemastered",
       "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
@@ -32942,7 +32936,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -32958,6 +32952,11 @@
         "d": "Adreno__TM__A32",
         "m": "Pocket_Fit_G3_Gen3",
         "s": "Adreno (TM) A32"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -39360,7 +39359,7 @@
     "name": "PES 2017 Online Warriors Crack"
   },
   "name:pes-2018": {
-    "config_count": 29,
+    "config_count": 31,
     "devices": [
       {
         "d": "G57",
@@ -39386,11 +39385,6 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__735",
@@ -39441,6 +39435,11 @@
         "d": "Adreno__TM__830",
         "m": "NP05J",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
