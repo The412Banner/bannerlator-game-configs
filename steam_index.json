@@ -43,9 +43,6 @@
   "10220": [
     "Postal_3____________________________________________________"
   ],
-  "1026680": [
-    "FINAL_FANTASY_VIII_REMASTERED"
-  ],
   "10270": [
     "DisciplesIII"
   ],
@@ -298,6 +295,7 @@
   "115320": [
     "Prototype",
     "Prototype_",
+    "Prototype_1",
     "Prototype_2",
     "Prototype___________________________________________________",
     "prototype2",
@@ -310,6 +308,9 @@
   "1155490": [
     "NINJA_BLADE",
     "Ninja_Blade"
+  ],
+  "1158370": [
+    "Aragami2"
   ],
   "1163550": [
     "CAPTAIN_TSUBASA_RISE_OF_NEW_CHAMPIONS",
@@ -1973,7 +1974,6 @@
   ],
   "220440": [
     "DMC-DevilMayCry",
-    "DMC-DevilMayCry_2013",
     "DmC_Devil_May_Cry",
     "DmC_Devil_May_Cry___________________________________________",
     "DmC__Devil_May_Cry"
@@ -2195,6 +2195,7 @@
     "Sky__Children_of_the_Light"
   ],
   "232890": [
+    "Stronghold_Crusader_HD",
     "__Stronghold_Crusader"
   ],
   "233550": [
@@ -2466,9 +2467,6 @@
   ],
   "2479650": [
     "pants"
-  ],
-  "248140": [
-    "grid2"
   ],
   "2482940": [
     "Little_Nightmares_VR"
@@ -3233,7 +3231,6 @@
   "311210": [
     "BlackOps",
     "Call_of_Duty_",
-    "Call_of_Duty_-_Black_Ops",
     "Call_of_Duty_3______________________________________________",
     "Call_of_Duty_Black_Ops",
     "Call_of_Duty__Black_Ops_III",
@@ -3287,9 +3284,6 @@
   ],
   "3127280": [
     "Marvel_Contest_of_Champions"
-  ],
-  "312750": [
-    "Final_Fantasy_IV__3D_Remake_"
   ],
   "312780": [
     "WayOfTheSamurai4"
@@ -3917,7 +3911,6 @@
   "374320": [
     "DARKSOULS",
     "DARK_SOULS",
-    "DARK_SOULS_-_REMASTERED",
     "DARK_SOULS_III",
     "DARK_SOULS__III",
     "DarkSoulsII",
@@ -4088,7 +4081,8 @@
     "Tomb_Raider_-_Definitive_Edition"
   ],
   "39150": [
-    "FINAL_FANTASY_VIII_-_REMASTERED"
+    "FINAL_FANTASY_VIII_-_REMASTERED",
+    "FINAL_FANTASY_VIII_REMASTERED"
   ],
   "391540": [
     "Undertale"
@@ -4242,9 +4236,6 @@
   ],
   "40960": [
     "_Stronghold_2"
-  ],
-  "40970": [
-    "Stronghold_Crusader_HD"
   ],
   "409710": [
     "BioShock_Remastered",
@@ -5414,9 +5405,6 @@
     "Little_Nightmares_2",
     "Little_Nightmares_II"
   ],
-  "861090": [
-    "Prototype_1"
-  ],
   "863570": [
     "SuperSeducer"
   ],
@@ -5782,6 +5770,9 @@
   "name:bootstrappackagedgame": [
     "BootstrapPackagedGame"
   ],
+  "name:call-of-duty-black-ops": [
+    "Call_of_Duty_-_Black_Ops"
+  ],
   "name:call-of-duty-world-at-war-game": [
     "Call_of_Duty_-_World_at_War_Game"
   ],
@@ -5824,6 +5815,9 @@
   "name:daorigins": [
     "daorigins"
   ],
+  "name:dark-souls-remastered": [
+    "DARK_SOULS_-_REMASTERED"
+  ],
   "name:dawn-of-war-soulstorm": [
     "Dawn_of_War_-_Soulstorm"
   ],
@@ -5856,6 +5850,9 @@
   ],
   "name:dlss-5-swapper": [
     "DLSS_5_Swapper"
+  ],
+  "name:dmc-devilmaycry-2013": [
+    "DMC-DevilMayCry_2013"
   ],
   "name:domesticlover": [
     "DomesticLover"
@@ -5905,6 +5902,9 @@
   "name:ffxiii": [
     "FFXIII"
   ],
+  "name:fifa-23": [
+    "FIFA_23"
+  ],
   "name:fifa14": [
     "fifa14"
   ],
@@ -5925,6 +5925,9 @@
   ],
   "name:final-fantasy-7-steamrip-read-description": [
     "Final_Fantasy_7_SteamRip__READ_DESCRIPTION_"
+  ],
+  "name:final-fantasy-iv-3d-remake": [
+    "Final_Fantasy_IV__3D_Remake_"
   ],
   "name:frozen-throne": [
     "Frozen_Throne"
@@ -5970,6 +5973,9 @@
   ],
   "name:grandchasepatcher": [
     "GrandChasePatcher"
+  ],
+  "name:grid2": [
+    "grid2"
   ],
   "name:gridautosport": [
     "GRIDAutosport"
@@ -6389,6 +6395,9 @@
   ],
   "name:sniperv2launcher": [
     "SniperV2Launcher"
+  ],
+  "name:sonicmania": [
+    "SonicMania"
   ],
   "name:sottr": [
     "SOTTR"

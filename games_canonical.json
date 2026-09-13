@@ -392,14 +392,6 @@
     ],
     "name": "Postal III"
   },
-  "1026680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "FINAL_FANTASY_VIII_REMASTERED"
-    ],
-    "name": "FINAL FANTASY VIII - REMASTERED"
-  },
   "10270": {
     "config_count": 2,
     "devices": [],
@@ -1801,7 +1793,7 @@
     "name": "Horizon Zero Dawn\u2122 Complete Edition"
   },
   "115320": {
-    "config_count": 69,
+    "config_count": 70,
     "devices": [
       {
         "d": "Adreno__TM__640",
@@ -1900,6 +1892,7 @@
       "Prototype_2",
       "Prototype___________________________________________________",
       "prototype2",
+      "Prototype_1",
       "prototype_2"
     ],
     "name": "Prototype 2"
@@ -1938,6 +1931,14 @@
       "Ninja_Blade"
     ],
     "name": "Dual Blade ~ Battle of The Female Ninja ~"
+  },
+  "1158370": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Aragami2"
+    ],
+    "name": "Aragami 2"
   },
   "1163550": {
     "config_count": 4,
@@ -5743,7 +5744,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 93,
+    "config_count": 91,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -12600,7 +12601,7 @@
     "name": "Far Cry 3"
   },
   "220440": {
-    "config_count": 35,
+    "config_count": 34,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -12717,8 +12718,7 @@
       "DmC_Devil_May_Cry",
       "DmC_Devil_May_Cry___________________________________________",
       "DmC__Devil_May_Cry",
-      "DMC-DevilMayCry",
-      "DMC-DevilMayCry_2013"
+      "DMC-DevilMayCry"
     ],
     "name": "DmC: Devil May Cry"
   },
@@ -14230,7 +14230,7 @@
     "name": "Sky: Children of the Light"
   },
   "232890": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -14244,7 +14244,8 @@
       }
     ],
     "folders": [
-      "__Stronghold_Crusader"
+      "__Stronghold_Crusader",
+      "Stronghold_Crusader_HD"
     ],
     "name": "Stronghold Crusader 2"
   },
@@ -14955,7 +14956,7 @@
     "name": "Papers, Please"
   },
   "239140": {
-    "config_count": 22,
+    "config_count": 23,
     "devices": [
       {
         "d": "G57_MC2",
@@ -15006,6 +15007,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "256",
+        "m": "8",
+        "s": "PowerVR B-Series BXM-8-256"
       }
     ],
     "folders": [
@@ -16038,14 +16044,6 @@
       "pants"
     ],
     "name": "SpongeBob SquarePants: Titans of the Tide"
-  },
-  "248140": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "grid2"
-    ],
-    "name": "GRID 2 Demo"
   },
   "2482940": {
     "config_count": 1,
@@ -20607,7 +20605,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 45,
+    "config_count": 44,
     "devices": [
       {
         "d": "G78",
@@ -20709,7 +20707,6 @@
       "___3____________",
       "________3_____________",
       "bla",
-      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -20928,14 +20925,6 @@
       "Marvel_Contest_of_Champions"
     ],
     "name": "Marvel Contest of Champions"
-  },
-  "312750": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Final_Fantasy_IV__3D_Remake_"
-    ],
-    "name": "Final Fantasy IV (3D Remake)"
   },
   "312780": {
     "config_count": 1,
@@ -25575,7 +25564,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 41,
+    "config_count": 39,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -25638,11 +25627,6 @@
         "s": "Mali-G720 MC8"
       },
       {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
-      },
-      {
         "d": "Adreno__TM__735",
         "m": "NX9",
         "s": "Adreno (TM) 735"
@@ -25668,7 +25652,6 @@
       "DARK_SOULS",
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
-      "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
       "DarkSoulsII",
       "DarkSoulsIII",
@@ -26953,10 +26936,11 @@
     "name": "Rise of the Tomb Raider\u2122"
   },
   "39150": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
-      "FINAL_FANTASY_VIII_-_REMASTERED"
+      "FINAL_FANTASY_VIII_-_REMASTERED",
+      "FINAL_FANTASY_VIII_REMASTERED"
     ],
     "name": "FINAL FANTASY VIII"
   },
@@ -27646,14 +27630,6 @@
       "_Stronghold_2"
     ],
     "name": "Stronghold 2: Steam Edition"
-  },
-  "40970": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Stronghold_Crusader_HD"
-    ],
-    "name": "Stronghold Crusader HD (2012)"
   },
   "409710": {
     "config_count": 3,
@@ -30591,7 +30567,7 @@
     "name": "Da Capo"
   },
   "524220": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "SM8850",
@@ -30637,6 +30613,11 @@
         "d": "Adreno__TM__750",
         "m": "MEIZU_21",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "motorola_edge_20_pro",
+        "s": "Adreno (TM) 650"
       },
       {
         "d": "Adreno__TM__840",
@@ -31657,7 +31638,7 @@
     "name": "Black Desert"
   },
   "584400": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "G76_MC4",
@@ -34652,14 +34633,6 @@
     ],
     "name": "Little Nightmares II"
   },
-  "861090": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Prototype_1"
-    ],
-    "name": "ONE PIECE World Seeker Extra Episode 1: Void Mirror Prototype"
-  },
   "863570": {
     "config_count": 1,
     "devices": [],
@@ -36572,6 +36545,20 @@
     ],
     "name": "Bootstrappackagedgame"
   },
+  "name:call-of-duty-black-ops": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Call_of_Duty_-_Black_Ops"
+    ],
+    "name": "Call Of Duty Black Ops"
+  },
   "name:call-of-duty-world-at-war-game": {
     "config_count": 1,
     "devices": [
@@ -36714,6 +36701,20 @@
     ],
     "name": "Daorigins"
   },
+  "name:dark-souls-remastered": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
+      }
+    ],
+    "folders": [
+      "DARK_SOULS_-_REMASTERED"
+    ],
+    "name": "Dark Souls Remastered"
+  },
   "name:dawn-of-war-soulstorm": {
     "config_count": 1,
     "devices": [],
@@ -36829,6 +36830,20 @@
       "DLSS_5_Swapper"
     ],
     "name": "Dlss 5 Swapper"
+  },
+  "name:dmc-devilmaycry-2013": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2487",
+        "s": "Adreno (TM) 730"
+      }
+    ],
+    "folders": [
+      "DMC-DevilMayCry_2013"
+    ],
+    "name": "Dmc Devilmaycry 2013"
   },
   "name:domesticlover": {
     "config_count": 1,
@@ -37089,6 +37104,20 @@
     ],
     "name": "Ffxiii"
   },
+  "name:fifa-23": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "FIFA_23"
+    ],
+    "name": "Fifa 23"
+  },
   "name:fifa14": {
     "config_count": 1,
     "devices": [],
@@ -37168,6 +37197,14 @@
       "Final_Fantasy_7_SteamRip__READ_DESCRIPTION_"
     ],
     "name": "Final Fantasy 7 Steamrip Read Description"
+  },
+  "name:final-fantasy-iv-3d-remake": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Final_Fantasy_IV__3D_Remake_"
+    ],
+    "name": "Final Fantasy Iv 3D Remake"
   },
   "name:frozen-throne": {
     "config_count": 1,
@@ -37329,6 +37366,14 @@
       "GrandChasePatcher"
     ],
     "name": "Grandchasepatcher"
+  },
+  "name:grid2": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "grid2"
+    ],
+    "name": "Grid2"
   },
   "name:gridautosport": {
     "config_count": 1,
@@ -38232,7 +38277,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2829,
+    "config_count": 2830,
     "devices": [
       {
         "d": "G52_MC2",
@@ -38358,11 +38403,6 @@
         "d": "G610_MC3",
         "m": "Mali",
         "s": "Mali-G610 MC3"
-      },
-      {
-        "d": "Adreno__TM__642L",
-        "m": "M526B",
-        "s": "Adreno (TM) 642L"
       },
       {
         "d": "PowerVR_Rogue_GE8322",
@@ -39138,6 +39178,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__642L",
+        "m": "M526B",
+        "s": "Adreno (TM) 642L"
       },
       {
         "d": "Adreno__TM__740",
@@ -40259,6 +40304,14 @@
       "SniperV2Launcher"
     ],
     "name": "Sniperv2Launcher"
+  },
+  "name:sonicmania": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "SonicMania"
+    ],
+    "name": "Sonicmania"
   },
   "name:sottr": {
     "config_count": 2,
