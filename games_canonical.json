@@ -1009,7 +1009,7 @@
     "name": "Kelipot"
   },
   "1091500": {
-    "config_count": 17,
+    "config_count": 19,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -1040,6 +1040,11 @@
         "d": "Adreno__TM__840",
         "m": "NX809J",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "G615_MC6",
@@ -5042,6 +5047,20 @@
       "Re4"
     ],
     "name": "No Rest for the Wicked"
+  },
+  "1373550": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "NX789J",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "BloodRayne_2__Terminal_Cut"
+    ],
+    "name": "Bloodrayne 2 Terminal Cut"
   },
   "1374490": {
     "config_count": 2,
@@ -15916,7 +15935,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "A075M",
@@ -15980,7 +15999,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel__Super_Heroes"
+      "LEGO__Marvel__Super_Heroes",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -19279,7 +19299,7 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 33,
+    "config_count": 34,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -20524,7 +20544,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 37,
+    "config_count": 38,
     "devices": [
       {
         "d": "G78",
@@ -20608,6 +20628,7 @@
       "Call_of_Duty_Black_Ops",
       "Call_of_Duty___Black_Ops_III",
       "___3____________",
+      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -26487,7 +26508,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 179,
+    "config_count": 180,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -26585,11 +26606,6 @@
         "s": "Adreno (TM) 810"
       },
       {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      },
-      {
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
@@ -26608,6 +26624,11 @@
         "d": "Adreno__TM__830",
         "m": "S936B",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       },
       {
         "d": "QCS8550",
@@ -28190,20 +28211,6 @@
       "Call_of_Duty___Modern_Warfare__3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
-  },
-  "42700": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Call_of_Duty_-_Black_Ops"
-    ],
-    "name": "Call of Duty\u00ae: Black Ops"
   },
   "427190": {
     "config_count": 5,
@@ -32411,7 +32418,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -38158,7 +38165,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2826,
+    "config_count": 2827,
     "devices": [
       {
         "d": "G52_MC2",
@@ -38279,11 +38286,6 @@
         "d": "Adreno__TM__650",
         "m": "M2012K11AG",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Adreno__TM__640",
-        "m": "M2102J20SG",
-        "s": "Adreno (TM) 640"
       },
       {
         "d": "G610_MC3",
@@ -39064,6 +39066,11 @@
         "d": "G51",
         "m": "Mali",
         "s": "Mali-G51"
+      },
+      {
+        "d": "Adreno__TM__640",
+        "m": "M2102J20SG",
+        "s": "Adreno (TM) 640"
       },
       {
         "d": "Adreno__TM__740",
