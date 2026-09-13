@@ -3368,20 +3368,6 @@
     ],
     "name": "Atlas Fallen: Reign Of Sand"
   },
-  "12320": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred Gold"
-  },
   "1232460": {
     "config_count": 1,
     "devices": [
@@ -12171,6 +12157,14 @@
     ],
     "name": "Ricochet Blur"
   },
+  "2186680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "tra"
+    ],
+    "name": "Warhammer 40,000: Rogue Trader"
+  },
   "2193910": {
     "config_count": 1,
     "devices": [
@@ -12947,7 +12941,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -12987,7 +12981,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev"
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -18951,7 +18946,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -18991,8 +18986,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -24103,7 +24097,7 @@
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
   },
   "3493540": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G57_MC2",
@@ -26438,6 +26432,20 @@
       "Tekken_7"
     ],
     "name": "TEKKEN 7"
+  },
+  "3906660": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred 2 Remaster"
   },
   "3909960": {
     "config_count": 1,
@@ -35111,7 +35119,7 @@
     "name": "Felix The Reaper"
   },
   "920210": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "G52_MC2",
@@ -35121,8 +35129,7 @@
     ],
     "folders": [
       "LEGO__Star_Wars___The_Skywalker_Saga",
-      "LEGO_STAR_WARS_SKYWALKER_SAGA",
-      "LEGO_Star_Wars_the_Skywalker_Saga"
+      "LEGO_STAR_WARS_SKYWALKER_SAGA"
     ],
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
