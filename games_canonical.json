@@ -2667,7 +2667,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 375,
+    "config_count": 377,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3035,11 +3035,6 @@
         "s": "Mali-G615 MC6"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
@@ -3053,6 +3048,11 @@
         "d": "Adreno__TM__840",
         "m": "CPH2745",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__735",
@@ -3977,7 +3977,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 55,
+    "config_count": 54,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4103,8 +4103,7 @@
       "Need_for_Speed_-_Most_Wanted",
       "Need_for_Speed__Most_Wanted_2005",
       "Need_for_Speed__Most_wanted__2012_",
-      "need_for_speed_most_wa",
-      "need_for_speed_most_wanted_2005"
+      "need_for_speed_most_wa"
     ],
     "name": "Need for Speed\u2122 Most Wanted"
   },
@@ -5766,7 +5765,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 93,
+    "config_count": 92,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -5937,11 +5936,6 @@
         "d": "Adreno__TM__840",
         "m": "S942U",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__710",
-        "m": "NX1",
-        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
@@ -5957,8 +5951,7 @@
       "FIFA_2007",
       "FIFA_22",
       "FIFA_23",
-      "FIFA22",
-      "fifa_12"
+      "FIFA22"
     ],
     "name": "FIFA 22"
   },
@@ -7711,7 +7704,7 @@
     "name": "Kusan: City of Wolves"
   },
   "1715130": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -11097,7 +11090,7 @@
     "name": "Crysis 2 Remastered"
   },
   "2096610": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "G720_MC7",
@@ -11108,7 +11101,8 @@
     "folders": [
       "Crysis",
       "Crysis_3",
-      "Crysis_3_Remastered"
+      "Crysis_3_Remastered",
+      "Crysis_Remastered"
     ],
     "name": "Crysis 3 Remastered"
   },
@@ -12478,7 +12472,7 @@
     "name": "Far Cry 3"
   },
   "220440": {
-    "config_count": 34,
+    "config_count": 35,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -13165,7 +13159,7 @@
     "name": "Fallout 3: Game of the Year Edition"
   },
   "22380": {
-    "config_count": 15,
+    "config_count": 14,
     "devices": [
       {
         "d": "G720_MC7",
@@ -13196,7 +13190,6 @@
     "folders": [
       "Fallout_-_New_Vegas_Ultimate_Edition________________________",
       "Fallout__New_Vegas",
-      "Fallout_-_New_Vegas",
       "Fallout_New_Vegas"
     ],
     "name": "Fallout: New Vegas"
@@ -14978,7 +14971,7 @@
     "name": "AI LIMIT"
   },
   "241540": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G78",
@@ -14997,7 +14990,8 @@
       }
     ],
     "folders": [
-      "State_of_Decay"
+      "State_of_Decay",
+      "StateOfDecay"
     ],
     "name": "State of Decay"
   },
@@ -18740,7 +18734,7 @@
     "name": "ZERO PARADES: For Dead Spies"
   },
   "2864560": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -18761,7 +18755,6 @@
     "folders": [
       "Rune_Factory__Guardians_of_Azuma",
       "Guardians",
-      "Rune_Factory_-_Guardians_of_Azuma",
       "Rune_Factory_Guardians_of_Azuma"
     ],
     "name": "Rune Factory: Guardians of Azuma"
@@ -20169,7 +20162,7 @@
     "name": "Portrait of a Torn"
   },
   "3059520": {
-    "config_count": 20,
+    "config_count": 18,
     "devices": [
       {
         "d": "G57_MC2",
@@ -20210,11 +20203,6 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "23129RA5FL",
-        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
@@ -23807,14 +23795,6 @@
       "GhostSong"
     ],
     "name": "Ghost Song"
-  },
-  "34830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper: Ghost Warrior"
   },
   "3483510": {
     "config_count": 1,
@@ -28697,7 +28677,7 @@
     "name": "Farming Simulator 17"
   },
   "447040": {
-    "config_count": 56,
+    "config_count": 55,
     "devices": [
       {
         "d": "G720_MC7",
@@ -28816,8 +28796,7 @@
       "Watch_Dogs_",
       "Watch_Dogs_2",
       "Watch_Dogs__2",
-      "watch_dogs_2",
-      "watch_dogs"
+      "watch_dogs_2"
     ],
     "name": "Watch_Dogs\u00ae 2"
   },
@@ -29997,7 +29976,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -30021,8 +30000,7 @@
       }
     ],
     "folders": [
-      "State_of_Decay_2__Juggernaut_Edition",
-      "StateOfDecay"
+      "State_of_Decay_2__Juggernaut_Edition"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
   },
@@ -30570,7 +30548,7 @@
     "name": "Da Capo 3 R"
   },
   "543870": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "moto_e13",
@@ -30598,11 +30576,6 @@
         "s": "Mali-G57"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "A057M",
         "s": "Adreno (TM) 610"
@@ -30626,6 +30599,11 @@
         "d": "Adreno__TM__512",
         "m": "Redmi_Note_7",
         "s": "Adreno (TM) 512"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -30877,7 +30855,7 @@
     "name": "Brick Rigs"
   },
   "55230": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -30907,7 +30885,8 @@
     ],
     "folders": [
       "Saints_Row__The_Third",
-      "SaintsRowTheThird"
+      "SaintsRowTheThird",
+      "Saints_Row___The_Third__Remastered"
     ],
     "name": "Saints Row: The Third"
   },
@@ -35840,14 +35819,6 @@
     ],
     "name": "Eastward"
   },
-  "978300": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Saints_Row___The_Third__Remastered"
-    ],
-    "name": "Saints Row\u00ae: The Third\u2122 Remastered"
-  },
   "978780": {
     "config_count": 3,
     "devices": [
@@ -36867,6 +36838,28 @@
     ],
     "name": "Eurotrucks2 32"
   },
+  "name:f1-2014": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
+      }
+    ],
+    "folders": [
+      "F1_2014"
+    ],
+    "name": "F1 2014"
+  },
+  "name:fallout-new-vegas": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Fallout_-_New_Vegas"
+    ],
+    "name": "Fallout New Vegas"
+  },
   "name:fallout-new-vegas-pcr": {
     "config_count": 1,
     "devices": [],
@@ -36912,6 +36905,20 @@
       "FFXIII"
     ],
     "name": "Ffxiii"
+  },
+  "name:fifa-12": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
+      }
+    ],
+    "folders": [
+      "fifa_12"
+    ],
+    "name": "Fifa 12"
   },
   "name:fifa14": {
     "config_count": 1,
@@ -37680,6 +37687,14 @@
       "Need_for_Speed_Black_Edition_"
     ],
     "name": "Need For Speed Black Edition"
+  },
+  "name:need-for-speed-most-wanted-2005": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "need_for_speed_most_wanted_2005"
+    ],
+    "name": "Need For Speed Most Wanted 2005"
   },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 1,
@@ -39962,6 +39977,14 @@
     ],
     "name": "Rpcs3"
   },
+  "name:rune-factory-guardians-of-azuma": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rune_Factory_-_Guardians_of_Azuma"
+    ],
+    "name": "Rune Factory Guardians Of Azuma"
+  },
   "name:rungame": {
     "config_count": 1,
     "devices": [],
@@ -40056,6 +40079,14 @@
       "Snapshot__Lewd_Shores"
     ],
     "name": "Snapshot Lewd Shores"
+  },
+  "name:sniper-ghost-warrior-1": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 1"
   },
   "name:sniperv2launcher": {
     "config_count": 1,
@@ -40436,6 +40467,14 @@
       "Warcraft_III"
     ],
     "name": "Warcraft Iii"
+  },
+  "name:watch-dogs": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "watch_dogs"
+    ],
+    "name": "Watch Dogs"
   },
   "name:wizard-school-exchange-student": {
     "config_count": 1,
