@@ -155,7 +155,7 @@
     "name": "Prototype"
   },
   "1017180": {
-    "config_count": 8,
+    "config_count": 10,
     "devices": [
       {
         "d": "G720_MC7",
@@ -4114,7 +4114,7 @@
     "name": "Need for Speed\u2122 Most Wanted"
   },
   "1262580": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -20511,7 +20511,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 38,
+    "config_count": 37,
     "devices": [
       {
         "d": "G78",
@@ -20595,7 +20595,6 @@
       "Call_of_Duty_Black_Ops",
       "Call_of_Duty___Black_Ops_III",
       "___3____________",
-      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -23858,6 +23857,14 @@
     ],
     "name": "Ghost Song"
   },
+  "34830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper: Ghost Warrior"
+  },
   "3483510": {
     "config_count": 1,
     "devices": [
@@ -25217,14 +25224,6 @@
       "Ori"
     ],
     "name": "The Seven Deadly Sins: Origin"
-  },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
@@ -28178,6 +28177,20 @@
       "Call_of_Duty___Modern_Warfare__3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
+  },
+  "42700": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Call_of_Duty_-_Black_Ops"
+    ],
+    "name": "Call of Duty\u00ae: Black Ops"
   },
   "427190": {
     "config_count": 5,
