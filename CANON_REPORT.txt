@@ -1,16 +1,16 @@
-raw folders: 2624   total configs: 14213
-non-game (filtered out): 136
-MERGED canonical games (have appid): 1968
-  folders collapsed by merge: 634
-still-unresolved real games (no appid): 612
-GAME-COUNT RATE: 1968/2580 = 76%  (vs 67% raw baseline)
-CONFIG-COVERAGE (matters for matching): 14193/15281 = 93%
+raw folders: 0   total configs: 0
+non-game (filtered out): 0
+MERGED canonical games (have appid): 784
+  folders collapsed by merge: 166
+still-unresolved real games (no appid): 0
+GAME-COUNT RATE: 784/784 = 100%  (vs 67% raw baseline)
+CONFIG-COVERAGE (matters for matching): 1523/1523 = 100%
 top-merged examples:
-  appid 1665460: 20 folders, 95 configs, 25 devices  ['PES', 'PES_13', 'PES_2013']
-  appid name:pes-2013: 16 folders, 2827 configs, 187 devices  ['PES2013', 'PES_2013_Fix', 'PES_2013_LEND_RIO_']
-  appid 1506830: 14 folders, 93 configs, 35 devices  ['FIFA_06_____________________________________________________', 'FIFA_13', 'FIFA_14']
-  appid 1262560: 14 folders, 55 configs, 22 devices  ['Need_For_Speed__Most_Wanted__2005_', 'Need_for_Speed_-_Most_Wanted________________________________', 'Need_for_Speed_Most_Wanted']
-  appid 3240220: 13 folders, 1472 configs, 233 devices  ['Grand_Theft_Auto_5', 'Grand_Theft_Auto_V', 'Grand_Theft_Auto_V_']
-  appid 374320: 9 folders, 41 configs, 17 devices  ['DARKSOULS', 'DARK_SOULS', 'DARK_SOULS__III']
-  appid 2424420: 8 folders, 17 configs, 10 devices  ['Avatar', 'Avatar_Legends__The_Fighting_Game', 'Avatar_Legends___The_Fighting_Game']
-  appid 33230: 7 folders, 18 configs, 7 devices  ['Assassin_s_Creed_II', 'Assassin_s_Creed_II_________________________________________', 'Assassin_s_Creed__II']
+  appid 374320: 8 folders, 17 configs, 6 devices  ['DARKSOULS', 'DARK_SOULS_-_REMASTERED', 'DARK_SOULS_III']
+  appid 3240220: 8 folders, 61 configs, 21 devices  ['GTA5', 'GTA_V', 'Grand_Theft_Auto_5']
+  appid 1262560: 7 folders, 10 configs, 5 devices  ['Need_For_Speed_Most_Wanted_', 'Need_for_Speed_-_Most_Wanted', 'Need_for_Speed_Most_Wanted']
+  appid 33230: 5 folders, 10 configs, 4 devices  ['Assassin_s_Creed_2', 'Assassin_s_Creed_II', 'AssassinsCreedII']
+  appid 7940: 5 folders, 6 configs, 1 devices  ['Call_of_Duty_4_Modern_Warfare', 'Call_of_Duty__4__Modern_Warfare___2007_', 'call_of_duty_4_modern_Warfare']
+  appid 1506830: 5 folders, 7 configs, 3 devices  ['FIFA22', 'FIFA_13', 'FIFA_22']
+  appid 883710: 5 folders, 16 configs, 7 devices  ['Resident_Evil_2', 'Resident_Evil_2__2019_', 'Resident_Evil_2__DX11_']
+  appid 5006530: 5 folders, 10 configs, 7 devices  ['The_Witcher_3', 'The_Witcher_3_-_Wild_Hunt', 'Witcher_1']
