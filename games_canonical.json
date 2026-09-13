@@ -878,7 +878,7 @@
     "name": "Arma 3"
   },
   "108600": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "Project_Zomboid"
@@ -19279,7 +19279,7 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 32,
+    "config_count": 33,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -19355,6 +19355,11 @@
         "d": "Adreno__TM__735",
         "m": "24091RPADG",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -23865,14 +23870,6 @@
     ],
     "name": "Ghost Song"
   },
-  "34830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper: Ghost Warrior"
-  },
   "3483510": {
     "config_count": 1,
     "devices": [
@@ -25232,6 +25229,14 @@
       "Ori"
     ],
     "name": "The Seven Deadly Sins: Origin"
+  },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
