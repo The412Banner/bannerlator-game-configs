@@ -2684,7 +2684,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 381,
+    "config_count": 382,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3017,11 +3017,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
         "d": "Adreno__TM__732",
         "m": "2410CRP4CG",
         "s": "Adreno (TM) 732"
@@ -3075,6 +3070,11 @@
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__735",
@@ -20607,7 +20607,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 44,
+    "config_count": 45,
     "devices": [
       {
         "d": "G78",
@@ -20709,6 +20709,7 @@
       "___3____________",
       "________3_____________",
       "bla",
+      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -20867,6 +20868,14 @@
       "Rain_World"
     ],
     "name": "Rain World"
+  },
+  "312530": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Duck_Game"
+    ],
+    "name": "Duck Game"
   },
   "312540": {
     "config_count": 2,
@@ -28283,20 +28292,6 @@
       "Call_of_Duty___Modern_Warfare__3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
-  },
-  "42700": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Call_of_Duty_-_Black_Ops"
-    ],
-    "name": "Call of Duty\u00ae: Black Ops"
   },
   "427290": {
     "config_count": 1,
