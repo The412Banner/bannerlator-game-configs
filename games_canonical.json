@@ -1342,7 +1342,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1351,7 +1351,8 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid"
+      "BattleForTheGrid",
+      "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -12271,14 +12272,6 @@
     ],
     "name": "Ricochet Blur"
   },
-  "2186680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "tra"
-    ],
-    "name": "Warhammer 40,000: Rogue Trader"
-  },
   "2191780": {
     "config_count": 1,
     "devices": [
@@ -13061,7 +13054,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 20,
+    "config_count": 19,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -13101,8 +13094,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -16147,7 +16139,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 26,
+    "config_count": 27,
     "devices": [
       {
         "d": "A075M",
@@ -18445,14 +18437,6 @@
     ],
     "name": "Dynasty Warriors 8 - Xtreme Legends Complete Edition"
   },
-  "2787680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Candy Rangers"
-  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -19205,7 +19189,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -19245,7 +19229,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -24351,7 +24336,7 @@
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
   },
   "3493540": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G57_MC2",
@@ -24455,7 +24440,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 27,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -24506,6 +24491,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
@@ -32558,7 +32548,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -32572,8 +32562,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2",
-      "LEGOMARVEL"
+      "LEGO__Marvel_Super_Heroes_2"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -34152,11 +34141,12 @@
     "name": "Acodyssey"
   },
   "813780": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "Age_of_Empires_II_HD",
-      "Age_of_Empires_II___________________________________________"
+      "Age_of_Empires_II___________________________________________",
+      "Age_of_Empires_II"
     ],
     "name": "Age of Empires II: Definitive Edition"
   },
@@ -34191,7 +34181,7 @@
     "name": "Tomb Raider: Underworld"
   },
   "814380": {
-    "config_count": 67,
+    "config_count": 68,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -34319,6 +34309,11 @@
         "s": "Adreno (TM) 660"
       },
       {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
+      },
+      {
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
@@ -34327,11 +34322,6 @@
         "d": "Adreno__TM__730",
         "m": "2203121C",
         "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__730",
@@ -34376,7 +34366,7 @@
     "name": "Cash Grab - Hat Pack"
   },
   "8190": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "Odin2",
@@ -34434,11 +34424,6 @@
         "s": "Mali-G57"
       },
       {
-        "d": "Adreno__TM__650",
-        "m": "G781B",
-        "s": "Adreno (TM) 650"
-      },
-      {
         "d": "Adreno__TM__740",
         "m": "S911B",
         "s": "Adreno (TM) 740"
@@ -34452,6 +34437,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "G781B",
+        "s": "Adreno (TM) 650"
       },
       {
         "d": "Adreno__TM__650",
