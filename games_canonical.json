@@ -1342,7 +1342,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1351,7 +1351,8 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid"
+      "BattleForTheGrid",
+      "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -9058,7 +9059,7 @@
     "name": "Mina the Hollower"
   },
   "1876890": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "G57_MC2",
@@ -9074,6 +9075,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__642L",
+        "m": "I2213",
+        "s": "Adreno (TM) 642L"
       }
     ],
     "folders": [
@@ -13056,7 +13062,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -13096,7 +13102,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev"
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -16141,7 +16148,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 27,
+    "config_count": 26,
     "devices": [
       {
         "d": "A075M",
@@ -16419,7 +16426,7 @@
     "name": "The Binding of Isaac: Rebirth"
   },
   "251150": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -16430,6 +16437,11 @@
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__642L",
+        "m": "I2213",
+        "s": "Adreno (TM) 642L"
       }
     ],
     "folders": [
@@ -18434,14 +18446,6 @@
     ],
     "name": "Dynasty Warriors 8 - Xtreme Legends Complete Edition"
   },
-  "2787680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Candy Rangers"
-  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -19194,7 +19198,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -19234,8 +19238,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -19834,7 +19837,7 @@
     "name": "Far Cry\u00ae 4"
   },
   "2988580": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -19865,6 +19868,11 @@
         "d": "Adreno__TM__740",
         "m": "NX729J",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__840",
@@ -20235,7 +20243,7 @@
     "name": "SUNLESS SEA"
   },
   "304930": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G57",
@@ -20246,6 +20254,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       }
     ],
     "folders": [
@@ -20644,7 +20657,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 44,
+    "config_count": 45,
     "devices": [
       {
         "d": "G78",
@@ -20746,6 +20759,7 @@
       "___3____________",
       "________3_____________",
       "bla",
+      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -24078,6 +24092,14 @@
     ],
     "name": "Ghost Song"
   },
+  "34830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper: Ghost Warrior"
+  },
   "3483510": {
     "config_count": 1,
     "devices": [
@@ -25418,14 +25440,6 @@
       "Ori"
     ],
     "name": "The Seven Deadly Sins: Origin"
-  },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
@@ -28328,20 +28342,6 @@
       "Call_of_Duty___Modern_Warfare__3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
-  },
-  "42700": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Call_of_Duty_-_Black_Ops"
-    ],
-    "name": "Call of Duty\u00ae: Black Ops"
   },
   "427290": {
     "config_count": 1,
@@ -32551,7 +32551,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -32565,7 +32565,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2"
+      "LEGO__Marvel_Super_Heroes_2",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -34183,7 +34184,7 @@
     "name": "Tomb Raider: Underworld"
   },
   "814380": {
-    "config_count": 66,
+    "config_count": 67,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -34319,6 +34320,11 @@
         "d": "Adreno__TM__730",
         "m": "2203121C",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__730",
