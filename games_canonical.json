@@ -4027,7 +4027,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 55,
+    "config_count": 54,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4133,11 +4133,6 @@
         "d": "Adreno__TM__650",
         "m": "22021211RG",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
       }
     ],
     "folders": [
@@ -4152,7 +4147,6 @@
       "Need_For_Speed_Most_Wanted_",
       "Need_for_Speed_-_Most_Wanted",
       "Need_for_Speed__Most_Wanted_2005",
-      "Need_for_Speed__Most_wanted__2012_",
       "need_for_speed_most_wa",
       "need_for_speed_most_wanted_2005"
     ],
@@ -9942,7 +9936,7 @@
     "name": "Prince of Persia\u00ae"
   },
   "200260": {
-    "config_count": 21,
+    "config_count": 20,
     "devices": [
       {
         "d": "G52_MC2",
@@ -9987,8 +9981,7 @@
     ],
     "folders": [
       "Batman__Arkham_City_-_Game_of_the_Year_Edition",
-      "Batman_-_Arkham_City_-_Game_of_the_Year_Edition",
-      "Batman_Arkham_City_GOTY"
+      "Batman_-_Arkham_City_-_Game_of_the_Year_Edition"
     ],
     "name": "Batman: Arkham City - Game of the Year Edition"
   },
@@ -23299,7 +23292,7 @@
     "name": "Assassin's Creed 2"
   },
   "332800": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__618",
@@ -23308,6 +23301,7 @@
       }
     ],
     "folders": [
+      "FiveNightsatFreddys_3",
       "Five_Nights_At_Freddys_2"
     ],
     "name": "Five Nights at Freddy's 2"
@@ -24629,20 +24623,6 @@
       "Aces_of_the_Luftwaffe"
     ],
     "name": "Aces of the Luftwaffe"
-  },
-  "354140": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__618",
-        "m": "M2007J20CG",
-        "s": "Adreno (TM) 618"
-      }
-    ],
-    "folders": [
-      "FiveNightsatFreddys_3"
-    ],
-    "name": "Five Nights at Freddy's 3"
   },
   "354160": {
     "config_count": 1,
@@ -36463,6 +36443,20 @@
     ],
     "name": "Baldisbasicsplusadvanced"
   },
+  "name:batman-arkham-city-goty": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
+      }
+    ],
+    "folders": [
+      "Batman_Arkham_City_GOTY"
+    ],
+    "name": "Batman Arkham City Goty"
+  },
   "name:batmanac": {
     "config_count": 1,
     "devices": [],
@@ -37930,6 +37924,20 @@
       "Need_for_Speed_Black_Edition_"
     ],
     "name": "Need For Speed Black Edition"
+  },
+  "name:need-for-speed-most-wanted-2012": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
+      }
+    ],
+    "folders": [
+      "Need_for_Speed__Most_wanted__2012_"
+    ],
+    "name": "Need For Speed Most Wanted 2012"
   },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 1,
