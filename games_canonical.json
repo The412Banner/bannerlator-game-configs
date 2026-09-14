@@ -16139,7 +16139,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 27,
+    "config_count": 26,
     "devices": [
       {
         "d": "A075M",
@@ -20663,7 +20663,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 44,
+    "config_count": 45,
     "devices": [
       {
         "d": "G78",
@@ -20765,6 +20765,7 @@
       "___3____________",
       "________3_____________",
       "bla",
+      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -28353,20 +28354,6 @@
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
-  "42700": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Call_of_Duty_-_Black_Ops"
-    ],
-    "name": "Call of Duty\u00ae: Black Ops"
-  },
   "427290": {
     "config_count": 1,
     "devices": [
@@ -32575,7 +32562,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -32589,7 +32576,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2"
+      "LEGO__Marvel_Super_Heroes_2",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -36115,7 +36103,7 @@
     "name": "Saints Row\u00ae: The Third\u2122 Remastered"
   },
   "978780": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "G57_MC2",
@@ -37619,6 +37607,14 @@
       "Hospital_Seduction"
     ],
     "name": "Hospital Seduction"
+  },
+  "name:igi2-covert-strike": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "IGI2_-_Covert_Strike"
+    ],
+    "name": "Igi2 Covert Strike"
   },
   "name:ikenai-kozukuri": {
     "config_count": 1,
