@@ -900,7 +900,7 @@
     "name": "Baldur's Gate 3"
   },
   "108710": {
-    "config_count": 14,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -4021,7 +4021,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 54,
+    "config_count": 55,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4147,7 +4147,8 @@
       "Need_for_Speed_-_Most_Wanted",
       "Need_for_Speed__Most_Wanted_2005",
       "Need_for_Speed__Most_wanted__2012_",
-      "need_for_speed_most_wa"
+      "need_for_speed_most_wa",
+      "need_for_speed_most_wanted_2005"
     ],
     "name": "Need for Speed\u2122 Most Wanted"
   },
@@ -6353,7 +6354,7 @@
     "name": "LEGO\u00ae Skylines"
   },
   "1574140": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -6362,6 +6363,7 @@
       }
     ],
     "folders": [
+      "DiRT4",
       "Dirt4"
     ],
     "name": "TIME FOR YOU - CHAPTER 02 - DIRTY THOUGHTS AND CORPORATE BOTS"
@@ -11212,6 +11214,20 @@
     ],
     "name": "Call of Duty\u00ae: Advanced Warfare - Gold Edition"
   },
+  "2096600": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G77_MC9",
+        "m": "Mali",
+        "s": "Mali-G77 MC9"
+      }
+    ],
+    "folders": [
+      "Crysis2"
+    ],
+    "name": "Crysis 2 Remastered"
+  },
   "2096610": {
     "config_count": 4,
     "devices": [
@@ -13109,6 +13125,20 @@
     ],
     "name": "Insurgency"
   },
+  "2229870": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
+      }
+    ],
+    "folders": [
+      "Command_and_Conquer_Generals_Deluxe_Edition"
+    ],
+    "name": "Command & Conquer\u2122 Generals"
+  },
   "22300": {
     "config_count": 17,
     "devices": [
@@ -14634,7 +14664,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 17,
+    "config_count": 14,
     "devices": [
       {
         "d": "G720_MC7",
@@ -14665,21 +14695,10 @@
         "d": "Adreno__TM__710",
         "m": "A366E",
         "s": "Adreno (TM) 710"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II",
-      "DarkSoulsII"
+      "DARK_SOULS__II"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -17223,16 +17242,22 @@
     "name": "Mount & Blade II: Bannerlord"
   },
   "261570": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
         "m": "M2012K11AG",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
-      "Ori_and_the_Blind_Forest"
+      "Ori_and_the_Blind_Forest",
+      "Ori_and_The_Blind_Forest_-_Definitive_Edition"
     ],
     "name": "Ori and the Blind Forest"
   },
@@ -19719,7 +19744,7 @@
     "name": "Heatwave"
   },
   "298110": {
-    "config_count": 23,
+    "config_count": 24,
     "devices": [
       {
         "d": "G68_MC4",
@@ -20297,7 +20322,7 @@
     "name": "Portrait of a Torn"
   },
   "3059520": {
-    "config_count": 18,
+    "config_count": 20,
     "devices": [
       {
         "d": "G57_MC2",
@@ -20338,6 +20363,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
@@ -20482,6 +20512,14 @@
     ],
     "name": "Prop Sumo"
   },
+  "3091140": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "LootBound"
+    ],
+    "name": "Lootbound"
+  },
   "3092360": {
     "config_count": 1,
     "devices": [],
@@ -20587,7 +20625,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 42,
+    "config_count": 44,
     "devices": [
       {
         "d": "G78",
@@ -22912,6 +22950,20 @@
     ],
     "name": "LANESPLIT"
   },
+  "3285500": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__618",
+        "m": "A715F",
+        "s": "Adreno (TM) 618"
+      }
+    ],
+    "folders": [
+      "Mushouden"
+    ],
+    "name": "Three Kingdoms Mushouden"
+  },
   "3286930": {
     "config_count": 1,
     "devices": [
@@ -23214,7 +23266,7 @@
     "name": "Assassin's Creed 2"
   },
   "332800": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__618",
@@ -23223,7 +23275,6 @@
       }
     ],
     "folders": [
-      "FiveNightsatFreddys_3",
       "Five_Nights_At_Freddys_2"
     ],
     "name": "Five Nights at Freddy's 2"
@@ -24546,6 +24597,20 @@
     ],
     "name": "Aces of the Luftwaffe"
   },
+  "354140": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__618",
+        "m": "M2007J20CG",
+        "s": "Adreno (TM) 618"
+      }
+    ],
+    "folders": [
+      "FiveNightsatFreddys_3"
+    ],
+    "name": "Five Nights at Freddy's 3"
+  },
   "354160": {
     "config_count": 1,
     "devices": [
@@ -25146,14 +25211,6 @@
     ],
     "name": "Drift Legends 2"
   },
-  "3669870": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Control_Ultimate_Edition"
-    ],
-    "name": "CONTROL Resonant"
-  },
   "367450": {
     "config_count": 1,
     "devices": [],
@@ -25535,7 +25592,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 38,
+    "config_count": 41,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -25608,6 +25665,16 @@
         "s": "Adreno (TM) 735"
       },
       {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
+      },
+      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -25620,6 +25687,7 @@
       "DarkSoulsRemastered",
       "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
+      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -28312,14 +28380,6 @@
     ],
     "name": "Factorio"
   },
-  "4282640": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "LootBound"
-    ],
-    "name": "Inferno Loot: Bullet Hell Bound"
-  },
   "429050": {
     "config_count": 2,
     "devices": [
@@ -29792,7 +29852,7 @@
     "name": "Warhammer 40,000: Gladius - Relics of War"
   },
   "489830": {
-    "config_count": 66,
+    "config_count": 67,
     "devices": [
       {
         "d": "G615_MC6",
@@ -29919,6 +29979,7 @@
       "Skyrim_-_Special_Edition",
       "The_Elder_Scrolls_V__Skyrim",
       "The_Elder_Scrolls_V__Skyrim_Special_Edition",
+      "Skyrim",
       "The_Elder_Scrolls_V_-_Skyrim_Special_Edition"
     ],
     "name": "The Elder Scrolls V: Skyrim Special Edition"
@@ -34671,7 +34732,7 @@
     "name": "The Walking Dead: The Final Season"
   },
   "870780": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [],
     "folders": [
       "CONTROL_Ultimate_Edition",
@@ -36280,14 +36341,6 @@
     ],
     "name": "Aio Graphics Test 64Bit"
   },
-  "name:alan-wake": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Alan_Wake"
-    ],
-    "name": "Alan Wake"
-  },
   "name:am2r": {
     "config_count": 1,
     "devices": [
@@ -36494,14 +36547,6 @@
     ],
     "name": "Bitsv8"
   },
-  "name:blackops": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "BlackOps"
-    ],
-    "name": "Blackops"
-  },
   "name:blades-of-exile": {
     "config_count": 1,
     "devices": [
@@ -36653,20 +36698,6 @@
     ],
     "name": "Colony City 27 Lambda"
   },
-  "name:command-and-conquer-generals-deluxe-edition": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      }
-    ],
-    "folders": [
-      "Command_and_Conquer_Generals_Deluxe_Edition"
-    ],
-    "name": "Command And Conquer Generals Deluxe Edition"
-  },
   "name:contraog": {
     "config_count": 1,
     "devices": [
@@ -36688,20 +36719,6 @@
       "Conviction_game"
     ],
     "name": "Conviction Game"
-  },
-  "name:crysis2": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "G77_MC9",
-        "m": "Mali",
-        "s": "Mali-G77 MC9"
-      }
-    ],
-    "folders": [
-      "Crysis2"
-    ],
-    "name": "Crysis2"
   },
   "name:crysis64": {
     "config_count": 1,
@@ -36810,20 +36827,6 @@
       "Dirt_Showdown"
     ],
     "name": "Dirt Showdown"
-  },
-  "name:dirt4": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__650",
-        "m": "G988N",
-        "s": "Adreno (TM) 650"
-      }
-    ],
-    "folders": [
-      "DiRT4"
-    ],
-    "name": "Dirt4"
   },
   "name:dirtfish-dirt4": {
     "config_count": 1,
@@ -37075,20 +37078,6 @@
       "eurotrucks2_32"
     ],
     "name": "Eurotrucks2 32"
-  },
-  "name:f1-2014": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "23129RA5FL",
-        "s": "Adreno (TM) 610"
-      }
-    ],
-    "folders": [
-      "F1_2014"
-    ],
-    "name": "F1 2014"
   },
   "name:fallout-new-vegas-pcr": {
     "config_count": 1,
@@ -37825,20 +37814,6 @@
     ],
     "name": "Mosscollection"
   },
-  "name:mushouden": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__618",
-        "m": "A715F",
-        "s": "Adreno (TM) 618"
-      }
-    ],
-    "folders": [
-      "Mushouden"
-    ],
-    "name": "Mushouden"
-  },
   "name:my-crush-s-mom-is-an-active-magical-girl": {
     "config_count": 1,
     "devices": [],
@@ -37931,14 +37906,6 @@
       "Need_for_Speed_Black_Edition_"
     ],
     "name": "Need For Speed Black Edition"
-  },
-  "name:need-for-speed-most-wanted-2005": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "need_for_speed_most_wanted_2005"
-    ],
-    "name": "Need For Speed Most Wanted 2005"
   },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 1,
@@ -38169,20 +38136,6 @@
       "Oblivion_Lost_Remake"
     ],
     "name": "Oblivion Lost Remake"
-  },
-  "name:ori-and-the-blind-forest-definitive-edition": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__710",
-        "m": "NX1",
-        "s": "Adreno (TM) 710"
-      }
-    ],
-    "folders": [
-      "Ori_and_The_Blind_Forest_-_Definitive_Edition"
-    ],
-    "name": "Ori And The Blind Forest Definitive Edition"
   },
   "name:oriwotw": {
     "config_count": 1,
@@ -40318,14 +40271,6 @@
       "SHProto"
     ],
     "name": "Shproto"
-  },
-  "name:skyrim": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Skyrim"
-    ],
-    "name": "Skyrim"
   },
   "name:skyrimse": {
     "config_count": 2,
