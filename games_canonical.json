@@ -3475,10 +3475,11 @@
     "name": "FlatOut: Ultimate Carnage Collector's Edition"
   },
   "1237320": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
-      "SonicFrontiers"
+      "SonicFrontiers",
+      "Sonic_Frontiers"
     ],
     "name": "Sonic Frontiers"
   },
@@ -9824,7 +9825,7 @@
     "name": "Digimon Story Time Stranger"
   },
   "19900": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -9865,6 +9866,11 @@
         "d": "Adreno__TM__619",
         "m": "22111317PI",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "V2111",
+        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "Adreno__TM__750",
@@ -25305,7 +25311,7 @@
     "name": "Dragon's Dogma: Dark Arisen"
   },
   "367520": {
-    "config_count": 32,
+    "config_count": 33,
     "devices": [
       {
         "d": "Adreno__TM__830",
