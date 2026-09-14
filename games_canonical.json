@@ -699,8 +699,14 @@
     "name": "A Short Hike"
   },
   "105600": {
-    "config_count": 3,
-    "devices": [],
+    "config_count": 5,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
+      }
+    ],
     "folders": [
       "Terraria"
     ],
@@ -1336,7 +1342,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1345,8 +1351,7 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid",
-      "Rangers"
+      "BattleForTheGrid"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -2692,7 +2697,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 382,
+    "config_count": 383,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -2763,11 +2768,6 @@
         "d": "Adreno__TM__730",
         "m": "TB320FC",
         "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "G610_MC4",
-        "m": "Mali",
-        "s": "Mali-G610 MC4"
       },
       {
         "d": "Adreno__TM__735",
@@ -3083,6 +3083,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G610_MC4",
+        "m": "Mali",
+        "s": "Mali-G610 MC4"
       },
       {
         "d": "Adreno__TM__735",
@@ -9158,7 +9163,7 @@
     "name": "An Indie Game a Month: Unreal Journey"
   },
   "1890183": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -9174,6 +9179,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "NP05J",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -13046,7 +13056,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -13086,7 +13096,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev"
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -15707,7 +15718,7 @@
     "name": "The Legend of Heroes: Trails into Reverie - SSS Summer Splash Set"
   },
   "243470": {
-    "config_count": 33,
+    "config_count": 35,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -15787,7 +15798,8 @@
     ],
     "folders": [
       "Watch_Dogs",
-      "Watch_Dogs_"
+      "Watch_Dogs_",
+      "watch_dogs"
     ],
     "name": "Watch_Dogs\u2122"
   },
@@ -18423,6 +18435,14 @@
     ],
     "name": "Dynasty Warriors 8 - Xtreme Legends Complete Edition"
   },
+  "2787680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Candy Rangers"
+  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -19175,7 +19195,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -19215,8 +19235,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -21529,7 +21548,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1472,
+    "config_count": 1473,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24059,14 +24078,6 @@
     ],
     "name": "Ghost Song"
   },
-  "34830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper: Ghost Warrior"
-  },
   "3483510": {
     "config_count": 1,
     "devices": [
@@ -25407,6 +25418,14 @@
       "Ori"
     ],
     "name": "The Seven Deadly Sins: Origin"
+  },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
@@ -28847,7 +28866,7 @@
     "name": "Farming Simulator 17"
   },
   "447040": {
-    "config_count": 23,
+    "config_count": 21,
     "devices": [
       {
         "d": "G720_MC7",
@@ -28914,9 +28933,7 @@
       "WatchDogs2",
       "Watch_Dogs_2",
       "Watch_Dogs__2",
-      "watch_dogs_2",
-      "Watch_Dogs",
-      "watch_dogs"
+      "watch_dogs_2"
     ],
     "name": "Watch_Dogs\u00ae 2"
   },
@@ -30108,7 +30125,7 @@
     "name": "NARUTO STORM 4 : Road to Boruto Expansion"
   },
   "49520": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -38268,7 +38285,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2830,
+    "config_count": 2834,
     "devices": [
       {
         "d": "G52_MC2",
@@ -39116,11 +39133,6 @@
         "s": "Adreno (TM) 619"
       },
       {
-        "d": "G78",
-        "m": "Mali",
-        "s": "Mali-G78"
-      },
-      {
         "d": "Adreno__TM__619",
         "m": "A236M",
         "s": "Adreno (TM) 619"
@@ -39174,6 +39186,11 @@
         "d": "Adreno__TM__642L",
         "m": "M526B",
         "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "G78",
+        "m": "Mali",
+        "s": "Mali-G78"
       },
       {
         "d": "Adreno__TM__740",
