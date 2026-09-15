@@ -3183,7 +3183,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 35,
+    "config_count": 46,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -3279,12 +3279,24 @@
         "d": "Adreno__TM__722",
         "m": "CPH2825",
         "s": "Adreno (TM) 722"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
       "Need_for_Speed__Heat",
       "nfs",
-      "Need_for_Speed_Heat"
+      "Need_for_Speed_Heat",
+      "Speed",
+      "speed"
     ],
     "name": "Need for Speed\u2122 Heat"
   },
@@ -9980,6 +9992,14 @@
       "Prince_of_Persia_"
     ],
     "name": "Prince of Persia\u00ae"
+  },
+  "2000950": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Call_of_duty_Modern_Warfare"
+    ],
+    "name": "Call of Duty\u00ae: Modern Warfare\u00ae"
   },
   "200260": {
     "config_count": 21,
@@ -18996,7 +19016,7 @@
     "name": "Happy Sheepies"
   },
   "2862840": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -20684,7 +20704,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 46,
+    "config_count": 45,
     "devices": [
       {
         "d": "G78",
@@ -20786,7 +20806,6 @@
       "___3____________",
       "________3_____________",
       "bla",
-      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -21271,7 +21290,7 @@
     "name": "Mall Simulator"
   },
   "3183760": {
-    "config_count": 14,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -21282,21 +21301,10 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "M2007J3SY",
-        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
-      "speed",
-      "Speed"
+      "speed"
     ],
     "name": "SpeedRunners 2: King of Speed"
   },
@@ -21589,7 +21597,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1480,
+    "config_count": 1481,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -23869,14 +23877,6 @@
       "Heavy_Weapon"
     ],
     "name": "Heavy Weapon Deluxe"
-  },
-  "3419290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN"
   },
   "341940": {
     "config_count": 3,
@@ -27051,10 +27051,17 @@
     "name": "Rise of the Tomb Raider\u2122"
   },
   "39150": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__619",
+        "m": "22111317PG",
+        "s": "Adreno (TM) 619"
+      }
+    ],
     "folders": [
-      "FINAL_FANTASY_VIII_-_REMASTERED"
+      "FINAL_FANTASY_VIII_-_REMASTERED",
+      "FINAL_FANTASY_VIII"
     ],
     "name": "FINAL FANTASY VIII"
   },
@@ -27459,6 +27466,14 @@
     ],
     "name": "The Spike Cross"
   },
+  "3985080": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN - Costume Expansion Pack"
+  },
   "400": {
     "config_count": 4,
     "devices": [],
@@ -27523,14 +27538,6 @@
       "BeatTheChampions"
     ],
     "name": "Beat The Champions"
-  },
-  "4032350": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "EA"
-    ],
-    "name": "EA SPORTS\u2122 College Football 27"
   },
   "40350": {
     "config_count": 1,
@@ -27684,6 +27691,14 @@
       "Mousetrap"
     ],
     "name": "Mousetrap: Theft & Bondage"
+  },
+  "4080220": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "EA"
+    ],
+    "name": "EA SPORTS FC\u2122 27"
   },
   "4081840": {
     "config_count": 1,
@@ -28383,6 +28398,20 @@
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
+  "42700": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Call_of_Duty_-_Black_Ops"
+    ],
+    "name": "Call of Duty\u00ae: Black Ops"
+  },
   "427290": {
     "config_count": 1,
     "devices": [
@@ -28761,7 +28790,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -28771,8 +28800,7 @@
     ],
     "folders": [
       "Call_of_Duty_4",
-      "COD__Modern_Warfare",
-      "Call_of_duty_Modern_Warfare"
+      "COD__Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -38247,8 +38275,14 @@
     "name": "Nsunsc"
   },
   "name:nsunsr": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
     "folders": [
       "NSUNSR"
     ],
@@ -38399,7 +38433,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2836,
+    "config_count": 2840,
     "devices": [
       {
         "d": "G52_MC2",
@@ -38922,11 +38956,6 @@
         "s": "Adreno (TM) 619"
       },
       {
-        "d": "Adreno__TM__610",
-        "m": "2201117TG",
-        "s": "Adreno (TM) 610"
-      },
-      {
         "d": "Adreno__TM__830",
         "m": "S938B",
         "s": "Adreno (TM) 830"
@@ -39292,11 +39321,6 @@
         "s": "Adreno (TM) 640"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__642L",
         "m": "M526B",
         "s": "Adreno (TM) 642L"
@@ -39310,6 +39334,16 @@
         "d": "Adreno__TM__710",
         "m": "moto_g67_power_5G",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "2201117TG",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__740",
