@@ -28048,7 +28048,7 @@
     "name": "DEAD OR ALIVE 6 Last Round"
   },
   "4145490": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -28069,6 +28069,11 @@
         "d": "Adreno__TM__642L",
         "m": "2109119DG",
         "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "NP03J",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -36567,6 +36572,14 @@
       "ACRSP"
     ],
     "name": "Acrsp"
+  },
+  "name:aio-graphics-test": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "AIO_Graphics_Test"
+    ],
+    "name": "Aio Graphics Test"
   },
   "name:aio-graphics-test-64bit": {
     "config_count": 1,
