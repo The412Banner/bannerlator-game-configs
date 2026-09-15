@@ -1,6 +1,6 @@
 {
   "10": {
-    "config_count": 6,
+    "config_count": 4,
     "devices": [
       {
         "d": "G52_MC2",
@@ -10,8 +10,7 @@
     ],
     "folders": [
       "Counter-Strike",
-      "Counter-Strike_1_4",
-      "Counter-Strike_2"
+      "Counter-Strike_1_4"
     ],
     "name": "Counter-Strike"
   },
@@ -392,6 +391,14 @@
       "Postal_3____________________________________________________"
     ],
     "name": "Postal III"
+  },
+  "1026680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "FINAL_FANTASY_VIII_REMASTERED"
+    ],
+    "name": "FINAL FANTASY VIII - REMASTERED"
   },
   "10270": {
     "config_count": 2,
@@ -4004,7 +4011,7 @@
     "name": "Party Animals"
   },
   "1262540": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G52_MC2",
@@ -4030,7 +4037,8 @@
     "folders": [
       "Need_for_Speed_",
       "need_for_speed",
-      "need_for_speed_"
+      "need_for_speed_",
+      "Need_for_speed__2005_"
     ],
     "name": "Need for Speed\u2122"
   },
@@ -5794,7 +5802,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 89,
+    "config_count": 93,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -5965,6 +5973,11 @@
         "d": "Adreno__TM__840",
         "m": "S942U",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
@@ -5980,7 +5993,8 @@
       "FIFA_2007",
       "FIFA_22",
       "FIFA_23",
-      "FIFA22"
+      "FIFA22",
+      "fifa_12"
     ],
     "name": "FIFA 22"
   },
@@ -6211,6 +6225,14 @@
       "gta3"
     ],
     "name": "Grand Theft Auto III \u2013 The Definitive Edition"
+  },
+  "1546990": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Grand_Theft_Auto_Vice_City"
+    ],
+    "name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition"
   },
   "1547000": {
     "config_count": 33,
@@ -8209,7 +8231,7 @@
     "name": "STAR OCEAN THE DIVINE FORCE"
   },
   "1778820": {
-    "config_count": 9,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -8223,8 +8245,7 @@
       }
     ],
     "folders": [
-      "TEKKEN_8",
-      "Tekken_7"
+      "TEKKEN_8"
     ],
     "name": "TEKKEN 8"
   },
@@ -10692,7 +10713,7 @@
     "name": "Call of Juarez: Gunslinger"
   },
   "2050650": {
-    "config_count": 78,
+    "config_count": 80,
     "devices": [
       {
         "d": "G57_MC2",
@@ -10788,6 +10809,11 @@
         "d": "Adreno__TM__740",
         "m": "CPH2447",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "S928B",
+        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
@@ -10798,7 +10824,8 @@
       "Resident_Evil_4_",
       "Resident_Evil_4___Biohazard_4",
       "Resident_Evil_4_____________________________________________",
-      "re4"
+      "re4",
+      "resident_evil_4"
     ],
     "name": "Resident Evil 4"
   },
@@ -12025,12 +12052,17 @@
     "name": "Bionic Commando"
   },
   "21680": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__710",
         "m": "_2024",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
@@ -12813,7 +12845,7 @@
     "name": "Total Chaos"
   },
   "221040": {
-    "config_count": 70,
+    "config_count": 71,
     "devices": [
       {
         "d": "G720_MC7",
@@ -12949,6 +12981,11 @@
         "d": "Adreno__TM__650",
         "m": "M2007J3SG",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "I2219",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__720",
@@ -13333,7 +13370,7 @@
     "name": "Fallout 3: Game of the Year Edition"
   },
   "22380": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "G720_MC7",
@@ -13364,6 +13401,7 @@
     "folders": [
       "Fallout_-_New_Vegas_Ultimate_Edition________________________",
       "Fallout__New_Vegas",
+      "Fallout_-_New_Vegas",
       "Fallout_New_Vegas"
     ],
     "name": "Fallout: New Vegas"
@@ -17845,7 +17883,7 @@
     "name": "Outbound"
   },
   "268910": {
-    "config_count": 38,
+    "config_count": 39,
     "devices": [
       {
         "d": "23043RP34G",
@@ -17931,6 +17969,11 @@
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
       }
     ],
     "folders": [
@@ -20191,7 +20234,7 @@
     "name": "Trove"
   },
   "304240": {
-    "config_count": 10,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -20212,22 +20255,10 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
-      },
-      {
-        "d": "Adreno__TM__710",
-        "m": "I2219",
-        "s": "Adreno (TM) 710"
-      },
-      {
-        "d": "Adreno__TM__660",
-        "m": "S928B",
-        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
-      "Resident_Evil",
-      "Resident_Evil_6",
-      "resident_evil_4"
+      "Resident_Evil"
     ],
     "name": "Resident Evil"
   },
@@ -23043,6 +23074,14 @@
     ],
     "name": "Heretic + Hexen"
   },
+  "3287490": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GBVSR"
+    ],
+    "name": "GBVSR - Deluxe Character Pass 2"
+  },
   "3287520": {
     "config_count": 1,
     "devices": [],
@@ -23866,14 +23905,6 @@
       "Heavy_Weapon"
     ],
     "name": "Heavy Weapon Deluxe"
-  },
-  "3419290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN"
   },
   "341940": {
     "config_count": 3,
@@ -25282,14 +25313,6 @@
     ],
     "name": "Drift Legends 2"
   },
-  "3669870": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Control_Ultimate_Edition"
-    ],
-    "name": "CONTROL Resonant"
-  },
   "367450": {
     "config_count": 1,
     "devices": [],
@@ -26599,7 +26622,7 @@
     "name": "Pacer"
   },
   "389730": {
-    "config_count": 38,
+    "config_count": 40,
     "devices": [
       {
         "d": "SM8850",
@@ -26700,7 +26723,8 @@
     "folders": [
       "TEKKEN_7",
       "TEKKEN7",
-      "Tekken7"
+      "Tekken7",
+      "Tekken_7"
     ],
     "name": "TEKKEN 7"
   },
@@ -27050,7 +27074,7 @@
     "name": "Rise of the Tomb Raider\u2122"
   },
   "39150": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -27060,8 +27084,7 @@
     ],
     "folders": [
       "FINAL_FANTASY_VIII",
-      "FINAL_FANTASY_VIII_-_REMASTERED",
-      "FINAL_FANTASY_VIII_REMASTERED"
+      "FINAL_FANTASY_VIII_-_REMASTERED"
     ],
     "name": "FINAL FANTASY VIII"
   },
@@ -27466,6 +27489,14 @@
     ],
     "name": "The Spike Cross"
   },
+  "3985080": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN - Costume Expansion Pack"
+  },
   "400": {
     "config_count": 4,
     "devices": [],
@@ -27475,7 +27506,7 @@
     "name": "Portal"
   },
   "4000": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "G57_MC2",
@@ -29023,6 +29054,14 @@
     ],
     "name": "Pub Encounter"
   },
+  "447530": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "VA-11_Hall_A"
+    ],
+    "name": "VA-11 Hall-A: Cyberpunk Bartender Action"
+  },
   "447960": {
     "config_count": 1,
     "devices": [
@@ -29412,6 +29451,20 @@
       "Papa_s_Mocharia_Deluxe"
     ],
     "name": "Papa's Mocharia Deluxe"
+  },
+  "4659620": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Immortalis_MC12",
+        "m": "G720",
+        "s": "Mali-G720-Immortalis MC12"
+      }
+    ],
+    "folders": [
+      "Touhou_Koumakyou_-_New_Classic_-_the_Embodiment_of_Scarlet_Devil"
+    ],
+    "name": "Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil"
   },
   "466300": {
     "config_count": 2,
@@ -33478,7 +33531,7 @@
     "name": "Borderlands Game of the Year Enhanced"
   },
   "730": {
-    "config_count": 16,
+    "config_count": 18,
     "devices": [
       {
         "d": "G78",
@@ -34837,7 +34890,7 @@
     "name": "The Walking Dead: The Final Season"
   },
   "870780": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [],
     "folders": [
       "CONTROL_Ultimate_Edition",
@@ -36643,20 +36696,6 @@
     ],
     "name": "Bio4"
   },
-  "name:bionic-commando-rearmed": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Bionic_Commando_Rearmed"
-    ],
-    "name": "Bionic Commando Rearmed"
-  },
   "name:bitsv8": {
     "config_count": 1,
     "devices": [
@@ -37208,14 +37247,6 @@
     ],
     "name": "Eurotrucks2 32"
   },
-  "name:fallout-new-vegas": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Fallout_-_New_Vegas"
-    ],
-    "name": "Fallout New Vegas"
-  },
   "name:fallout-new-vegas-pcr": {
     "config_count": 1,
     "devices": [],
@@ -37275,42 +37306,6 @@
       "FFXIII"
     ],
     "name": "Ffxiii"
-  },
-  "name:fifa-12": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__710",
-        "m": "NX1",
-        "s": "Adreno (TM) 710"
-      }
-    ],
-    "folders": [
-      "fifa_12"
-    ],
-    "name": "Fifa 12"
-  },
-  "name:fifa-13": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "FIFA_13"
-    ],
-    "name": "Fifa 13"
-  },
-  "name:fifa-23": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "FIFA_23"
-    ],
-    "name": "Fifa 23"
   },
   "name:fifa14": {
     "config_count": 1,
@@ -37422,14 +37417,6 @@
     ],
     "name": "Gangland Freegog 2 0 0 7"
   },
-  "name:garry-s-mod": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Garry_s_Mod"
-    ],
-    "name": "Garry S Mod"
-  },
   "name:gavi-patch": {
     "config_count": 2,
     "devices": [],
@@ -37437,14 +37424,6 @@
       "GAVI_PATCH"
     ],
     "name": "Gavi Patch"
-  },
-  "name:gbvsr": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GBVSR"
-    ],
-    "name": "Gbvsr"
   },
   "name:ge2rb": {
     "config_count": 1,
@@ -37554,14 +37533,6 @@
       "GoW2Hollow"
     ],
     "name": "Gow2Hollow"
-  },
-  "name:grand-theft-auto-vice-city": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Grand_Theft_Auto_Vice_City"
-    ],
-    "name": "Grand Theft Auto Vice City"
   },
   "name:grand-theft-auto-vice-city-stories": {
     "config_count": 1,
@@ -38135,14 +38106,6 @@
       "NBA2K23"
     ],
     "name": "Nba2K23"
-  },
-  "name:need-for-speed-2005": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Need_for_speed__2005_"
-    ],
-    "name": "Need For Speed 2005"
   },
   "name:need-for-speed-black-edition": {
     "config_count": 1,
@@ -40837,20 +40800,6 @@
     ],
     "name": "Tomb Raider Defenitive Edition"
   },
-  "name:touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Immortalis_MC12",
-        "m": "G720",
-        "s": "Mali-G720-Immortalis MC12"
-      }
-    ],
-    "folders": [
-      "Touhou_Koumakyou_-_New_Classic_-_the_Embodiment_of_Scarlet_Devil"
-    ],
-    "name": "Touhou Koumakyou New Classic The Embodiment Of Scarlet Devil"
-  },
   "name:tpp-main-win64": {
     "config_count": 2,
     "devices": [],
@@ -40918,14 +40867,6 @@
       "ULTIMATE_SPIDERMAN"
     ],
     "name": "Ultimate Spiderman"
-  },
-  "name:va-11-hall-a": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "VA-11_Hall_A"
-    ],
-    "name": "Va 11 Hall A"
   },
   "name:victoria-ii-civil-war-edition": {
     "config_count": 1,
