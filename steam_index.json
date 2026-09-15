@@ -1,7 +1,8 @@
 {
   "10": [
     "Counter-Strike",
-    "Counter-Strike_1_4"
+    "Counter-Strike_1_4",
+    "Counter-Strike_2"
   ],
   "1004750": [
     "WRC8"
@@ -42,9 +43,6 @@
   ],
   "10220": [
     "Postal_3____________________________________________________"
-  ],
-  "1026680": [
-    "FINAL_FANTASY_VIII_REMASTERED"
   ],
   "10270": [
     "DisciplesIII"
@@ -562,7 +560,6 @@
   ],
   "1262540": [
     "Need_for_Speed_",
-    "Need_for_speed__2005_",
     "need_for_speed",
     "need_for_speed_"
   ],
@@ -922,8 +919,7 @@
     "FIFA_20",
     "FIFA_2007",
     "FIFA_22",
-    "FIFA_23",
-    "fifa_12"
+    "FIFA_23"
   ],
   "15100": [
     "Assassin_s_Creed___Director_s_Cut_Edition"
@@ -969,9 +965,6 @@
     "Grand_Theft_Auto_III_-_The_Definitive_Edition",
     "Grand_Theft_Auto_III________________________________________",
     "gta3"
-  ],
-  "1546990": [
-    "Grand_Theft_Auto_Vice_City"
   ],
   "1547000": [
     "Grand_Theft_Auto_-_San_Andreas______________________________",
@@ -1306,7 +1299,8 @@
     "STAR_OCEAN_THE_DIVINE_FORCE"
   ],
   "1778820": [
-    "TEKKEN_8"
+    "TEKKEN_8",
+    "Tekken_7"
   ],
   "1781890": [
     "TheComa2B"
@@ -1694,8 +1688,7 @@
     "Resident_Evil_4_",
     "Resident_Evil_4___Biohazard_4",
     "Resident_Evil_4_____________________________________________",
-    "re4",
-    "resident_evil_4"
+    "re4"
   ],
   "205100": [
     "Dishonored",
@@ -2083,7 +2076,6 @@
     "Fallout_3__Game_of_the_Year_Edition"
   ],
   "22380": [
-    "Fallout_-_New_Vegas",
     "Fallout_-_New_Vegas_Ultimate_Edition________________________",
     "Fallout_New_Vegas",
     "Fallout__New_Vegas"
@@ -2932,6 +2924,9 @@
   "2820820": [
     "Jotunnslayer"
   ],
+  "2821390": [
+    "HOT_WHEELS__Infinite_Rush"
+  ],
   "282530": [
     "Castlevania_Lords_of_Shadow___Mirror_of_Fate_HD"
   ],
@@ -3178,7 +3173,9 @@
     "Trove"
   ],
   "304240": [
-    "Resident_Evil"
+    "Resident_Evil",
+    "Resident_Evil_6",
+    "resident_evil_4"
   ],
   "304430": [
     "INSIDE"
@@ -3491,9 +3488,6 @@
   "3286930": [
     "Heretic___Hexen"
   ],
-  "3287490": [
-    "GBVSR"
-  ],
   "3287520": [
     "NINJA_GAIDEN_2_Black"
   ],
@@ -3623,6 +3617,9 @@
   ],
   "3410": [
     "Heavy_Weapon"
+  ],
+  "3419290": [
+    "GodForsaken"
   ],
   "341940": [
     "Hatred"
@@ -3870,6 +3867,9 @@
   "3664010": [
     "Drift_Legends_2"
   ],
+  "3669870": [
+    "Control_Ultimate_Edition"
+  ],
   "367450": [
     "Poly_Bridge"
   ],
@@ -4092,8 +4092,7 @@
   "389730": [
     "TEKKEN7",
     "TEKKEN_7",
-    "Tekken7",
-    "Tekken_7"
+    "Tekken7"
   ],
   "3906660": [
     "Sacred"
@@ -4109,7 +4108,8 @@
   ],
   "39150": [
     "FINAL_FANTASY_VIII",
-    "FINAL_FANTASY_VIII_-_REMASTERED"
+    "FINAL_FANTASY_VIII_-_REMASTERED",
+    "FINAL_FANTASY_VIII_REMASTERED"
   ],
   "391540": [
     "Undertale"
@@ -4185,9 +4185,6 @@
   ],
   "3983810": [
     "The_Spike"
-  ],
-  "3985080": [
-    "GodForsaken"
   ],
   "400": [
     "Portal"
@@ -4512,9 +4509,6 @@
   "447190": [
     "Pub_Encounter"
   ],
-  "447530": [
-    "VA-11_Hall_A"
-  ],
   "447960": [
     "xca"
   ],
@@ -4605,9 +4599,6 @@
   ],
   "4656700": [
     "Papa_s_Mocharia_Deluxe"
-  ],
-  "4659620": [
-    "Touhou_Koumakyou_-_New_Classic_-_the_Embodiment_of_Scarlet_Devil"
   ],
   "466300": [
     "Planescape_Torment_Enhanced_Edition",
@@ -5797,6 +5788,9 @@
   "name:bio4": [
     "bio4"
   ],
+  "name:bionic-commando-rearmed": [
+    "Bionic_Commando_Rearmed"
+  ],
   "name:bitsv8": [
     "BITSv8"
   ],
@@ -5920,6 +5914,9 @@
   "name:eurotrucks2-32": [
     "eurotrucks2_32"
   ],
+  "name:fallout-new-vegas": [
+    "Fallout_-_New_Vegas"
+  ],
   "name:fallout-new-vegas-pcr": [
     "Fallout__New_Vegas_PCR"
   ],
@@ -5937,6 +5934,15 @@
   ],
   "name:ffxiii": [
     "FFXIII"
+  ],
+  "name:fifa-12": [
+    "fifa_12"
+  ],
+  "name:fifa-13": [
+    "FIFA_13"
+  ],
+  "name:fifa-23": [
+    "FIFA_23"
   ],
   "name:fifa14": [
     "fifa14"
@@ -5968,8 +5974,14 @@
   "name:gangland-freegog-2-0-0-7": [
     "GangLand_FreeGoG_2_0_0_7"
   ],
+  "name:garry-s-mod": [
+    "Garry_s_Mod"
+  ],
   "name:gavi-patch": [
     "GAVI_PATCH"
+  ],
+  "name:gbvsr": [
+    "GBVSR"
   ],
   "name:ge2rb": [
     "GE2RB"
@@ -6000,6 +6012,9 @@
   ],
   "name:gow2hollow": [
     "GoW2Hollow"
+  ],
+  "name:grand-theft-auto-vice-city": [
+    "Grand_Theft_Auto_Vice_City"
   ],
   "name:grand-theft-auto-vice-city-stories": [
     "Grand_Theft_Auto_Vice_City_Stories"
@@ -6148,6 +6163,9 @@
   ],
   "name:nba2k23": [
     "NBA2K23"
+  ],
+  "name:need-for-speed-2005": [
+    "Need_for_speed__2005_"
   ],
   "name:need-for-speed-black-edition": [
     "Need_for_Speed_Black_Edition_"
@@ -6523,6 +6541,9 @@
   "name:tomb-raider-defenitive-edition": [
     "Tomb_Raider_Defenitive_Edition"
   ],
+  "name:touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil": [
+    "Touhou_Koumakyou_-_New_Classic_-_the_Embodiment_of_Scarlet_Devil"
+  ],
   "name:tpp-main-win64": [
     "Tpp_main_win64"
   ],
@@ -6543,6 +6564,9 @@
   ],
   "name:ultimate-spiderman": [
     "ULTIMATE_SPIDERMAN"
+  ],
+  "name:va-11-hall-a": [
+    "VA-11_Hall_A"
   ],
   "name:victoria-ii-civil-war-edition": [
     "Victoria_II_-_Civil_War_Edition"
