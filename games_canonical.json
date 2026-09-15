@@ -15807,7 +15807,7 @@
     "name": "The Legend of Heroes: Trails into Reverie - SSS Summer Splash Set"
   },
   "243470": {
-    "config_count": 33,
+    "config_count": 35,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -15887,7 +15887,8 @@
     ],
     "folders": [
       "Watch_Dogs",
-      "Watch_Dogs_"
+      "Watch_Dogs_",
+      "watch_dogs"
     ],
     "name": "Watch_Dogs\u2122"
   },
@@ -20767,7 +20768,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 45,
+    "config_count": 46,
     "devices": [
       {
         "d": "G78",
@@ -20869,6 +20870,7 @@
       "___3____________",
       "________3_____________",
       "bla",
+      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -23623,14 +23625,6 @@
       "Paint_the_Town_Red"
     ],
     "name": "Paint the Town Red"
-  },
-  "3375780": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "tra"
-    ],
-    "name": "Trails in the Sky 1st Chapter"
   },
   "3378960": {
     "config_count": 1,
@@ -27997,6 +27991,14 @@
     ],
     "name": "Stardew Valley"
   },
+  "4132890": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "tra"
+    ],
+    "name": "Fright Train"
+  },
   "413410": {
     "config_count": 1,
     "devices": [
@@ -28473,20 +28475,6 @@
       "Call_of_Duty___Modern_Warfare__3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
-  },
-  "42700": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Call_of_Duty_-_Black_Ops"
-    ],
-    "name": "Call of Duty\u00ae: Black Ops"
   },
   "427290": {
     "config_count": 1,
@@ -29022,7 +29010,7 @@
     "name": "Farming Simulator 17"
   },
   "447040": {
-    "config_count": 24,
+    "config_count": 22,
     "devices": [
       {
         "d": "G720_MC7",
@@ -29089,9 +29077,7 @@
       "WatchDogs2",
       "Watch_Dogs_2",
       "Watch_Dogs__2",
-      "watch_dogs_2",
-      "Watch_Dogs",
-      "watch_dogs"
+      "watch_dogs_2"
     ],
     "name": "Watch_Dogs\u00ae 2"
   },
@@ -33355,7 +33341,7 @@
     "name": "World War Z"
   },
   "70": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__720",
@@ -38589,7 +38575,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2842,
+    "config_count": 2843,
     "devices": [
       {
         "d": "G52_MC2",
@@ -39292,11 +39278,6 @@
         "s": "Adreno (TM) 616"
       },
       {
-        "d": "Adreno__TM__610",
-        "m": "Redmi_Note_8",
-        "s": "Adreno (TM) 610"
-      },
-      {
         "d": "Adreno__TM__810",
         "m": "RMX5070",
         "s": "Adreno (TM) 810"
@@ -39500,6 +39481,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "Redmi_Note_8",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__740",
