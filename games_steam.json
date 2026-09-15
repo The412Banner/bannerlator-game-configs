@@ -197,6 +197,12 @@
     "method": "naive",
     "steam_name": "Alba: A Wildlife Adventure"
   },
+  "Albion_Online": {
+    "appid": 761890,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/761890/header.jpg",
+    "method": "naive",
+    "steam_name": "Albion Online"
+  },
   "AlekhinesGun": {
     "appid": 406720,
     "method": "naive",
@@ -2084,7 +2090,6 @@
   },
   "Darkwood": {
     "appid": 274520,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/274520/header.jpg",
     "method": "naive",
     "steam_name": "Darkwood"
   },
@@ -11491,6 +11496,10 @@
     "steam_name": "Fate/EXTELLA LINK"
   },
   "fifa06_demo": {
+    "appid": null,
+    "method": "unresolved"
+  },
+  "fifa13": {
     "appid": null,
     "method": "unresolved"
   },

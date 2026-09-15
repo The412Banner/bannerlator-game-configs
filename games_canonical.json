@@ -2706,7 +2706,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 386,
+    "config_count": 387,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3400,7 +3400,7 @@
     "name": "ULTRAKILL"
   },
   "1230530": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G57_MC2",
@@ -3426,6 +3426,11 @@
         "d": "Adreno__TM__830",
         "m": "24122RKC7G",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
@@ -7612,6 +7617,14 @@
     ],
     "name": "Minecraft Dungeons"
   },
+  "1675200": {
+    "config_count": 4,
+    "devices": [],
+    "folders": [
+      "Steam"
+    ],
+    "name": "Steam Deck"
+  },
   "1676840": {
     "config_count": 1,
     "devices": [],
@@ -8302,7 +8315,7 @@
     "name": "SBK\u212222"
   },
   "1790600": {
-    "config_count": 161,
+    "config_count": 162,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -21658,7 +21671,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1488,
+    "config_count": 1491,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -28098,14 +28111,6 @@
     ],
     "name": "My Winter Car"
   },
-  "4165910": {
-    "config_count": 4,
-    "devices": [],
-    "folders": [
-      "Steam"
-    ],
-    "name": "Steam Machine"
-  },
   "418240": {
     "config_count": 1,
     "devices": [],
@@ -33916,6 +33921,14 @@
       "Tennis_Elbow_4"
     ],
     "name": "Tennis Elbow 4"
+  },
+  "761890": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Albion_Online"
+    ],
+    "name": "Albion Online"
   },
   "764790": {
     "config_count": 2,
