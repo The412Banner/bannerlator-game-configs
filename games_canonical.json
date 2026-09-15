@@ -2449,7 +2449,7 @@
     "name": "A Space for the Unbound"
   },
   "1203170": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -2460,11 +2460,6 @@
         "d": "Adreno__TM__735",
         "m": "24069RA21C",
         "s": "Adreno (TM) 735"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -2703,7 +2698,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 385,
+    "config_count": 386,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -4158,11 +4153,11 @@
       "Need_for_Speed_-_Most_Wanted________________________________",
       "Need_for_Speed_Most_Wanted",
       "Need_for_Speed_Most_Wanted_",
+      "Need_for_Speed_Most_Wanted_2005_____________________________",
       "Need_for_Speed__Most_Wanted",
       "Need_for_Speed__Most_Wanted_________________________________",
       "Need_for_Speed_most_wanted",
       "need_for_speed_most_wanted_",
-      "Need_for_Speed_Most_Wanted_2005_____________________________",
       "Need_For_Speed_Most_Wanted_",
       "Need_for_Speed_-_Most_Wanted",
       "Need_for_Speed__Most_Wanted_2005",
@@ -9994,14 +9989,6 @@
     ],
     "name": "Prince of Persia\u00ae"
   },
-  "2000950": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Call_of_duty_Modern_Warfare"
-    ],
-    "name": "Call of Duty\u00ae: Modern Warfare\u00ae"
-  },
   "200260": {
     "config_count": 21,
     "devices": [
@@ -13120,7 +13107,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 20,
+    "config_count": 19,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -13160,8 +13147,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -19251,7 +19237,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -19291,7 +19277,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -20103,7 +20090,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 4,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -20119,10 +20106,16 @@
         "d": "Adreno__TM__725",
         "m": "23049PCD8G",
         "s": "Adreno (TM) 725"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -20710,7 +20703,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 46,
+    "config_count": 45,
     "devices": [
       {
         "d": "G78",
@@ -20812,7 +20805,6 @@
       "___3____________",
       "________3_____________",
       "bla",
-      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -23884,6 +23876,14 @@
       "Heavy_Weapon"
     ],
     "name": "Heavy Weapon Deluxe"
+  },
+  "3419290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN"
   },
   "341940": {
     "config_count": 3,
@@ -27473,14 +27473,6 @@
     ],
     "name": "The Spike Cross"
   },
-  "3985080": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN - Costume Expansion Pack"
-  },
   "400": {
     "config_count": 4,
     "devices": [],
@@ -28405,6 +28397,20 @@
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
+  "42700": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Call_of_Duty_-_Black_Ops"
+    ],
+    "name": "Call of Duty\u00ae: Black Ops"
+  },
   "427290": {
     "config_count": 1,
     "devices": [
@@ -28783,7 +28789,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -28793,7 +28799,8 @@
     ],
     "folders": [
       "Call_of_Duty_4",
-      "COD__Modern_Warfare"
+      "COD__Modern_Warfare",
+      "Call_of_duty_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -33328,16 +33335,22 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__A32",
         "m": "Pocket_Fit_G3_Gen3",
         "s": "Adreno (TM) A32"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "Darksiders_Genesis",
+      "Darksiders",
       "DarksidersGenesis"
     ],
     "name": "Darksiders Genesis"
@@ -35450,7 +35463,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 8,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -35466,16 +35479,10 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -37655,6 +37662,14 @@
       "HelloNeighbor-Win64-Shipping"
     ],
     "name": "Helloneighbor Win64 Shipping"
+  },
+  "name:hkship": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "HKShip"
+    ],
+    "name": "Hkship"
   },
   "name:hoi4": {
     "config_count": 1,
