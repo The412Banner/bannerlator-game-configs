@@ -2706,7 +2706,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 387,
+    "config_count": 390,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -12707,7 +12707,7 @@
     "name": "Far Cry 3"
   },
   "220440": {
-    "config_count": 35,
+    "config_count": 36,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -12861,7 +12861,7 @@
     "name": "Total Chaos"
   },
   "221040": {
-    "config_count": 71,
+    "config_count": 72,
     "devices": [
       {
         "d": "G720_MC7",
@@ -12959,11 +12959,6 @@
         "s": "Mali-G57"
       },
       {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
-      },
-      {
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
@@ -12992,6 +12987,11 @@
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       },
       {
         "d": "Adreno__TM__650",
@@ -13537,7 +13537,7 @@
     "name": "Squirrel Launcher"
   },
   "2254890": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "G720_MC8",
@@ -13583,6 +13583,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g53_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "Infinix_X6878",
+        "s": "Adreno (TM) 810"
       },
       {
         "d": "Adreno__TM__650",
@@ -15807,7 +15812,7 @@
     "name": "The Legend of Heroes: Trails into Reverie - SSS Summer Splash Set"
   },
   "243470": {
-    "config_count": 35,
+    "config_count": 33,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -15887,8 +15892,7 @@
     ],
     "folders": [
       "Watch_Dogs",
-      "Watch_Dogs_",
-      "watch_dogs"
+      "Watch_Dogs_"
     ],
     "name": "Watch_Dogs\u2122"
   },
@@ -16231,7 +16235,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 26,
+    "config_count": 27,
     "devices": [
       {
         "d": "A075M",
@@ -16292,11 +16296,17 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "G780G",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
       "LEGOMARVEL",
-      "LEGO__Marvel__Super_Heroes"
+      "LEGO__Marvel__Super_Heroes",
+      "LEGO__MARVEL_Super_Heroes"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -21670,7 +21680,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1491,
+    "config_count": 1492,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -23625,6 +23635,14 @@
       "Paint_the_Town_Red"
     ],
     "name": "Paint the Town Red"
+  },
+  "3375780": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "tra"
+    ],
+    "name": "Trails in the Sky 1st Chapter"
   },
   "3378960": {
     "config_count": 1,
@@ -27991,14 +28009,6 @@
     ],
     "name": "Stardew Valley"
   },
-  "4132890": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "tra"
-    ],
-    "name": "Fright Train"
-  },
   "413410": {
     "config_count": 1,
     "devices": [
@@ -29010,7 +29020,7 @@
     "name": "Farming Simulator 17"
   },
   "447040": {
-    "config_count": 22,
+    "config_count": 24,
     "devices": [
       {
         "d": "G720_MC7",
@@ -29077,7 +29087,9 @@
       "WatchDogs2",
       "Watch_Dogs_2",
       "Watch_Dogs__2",
-      "watch_dogs_2"
+      "watch_dogs_2",
+      "Watch_Dogs",
+      "watch_dogs"
     ],
     "name": "Watch_Dogs\u00ae 2"
   },
@@ -33580,7 +33592,7 @@
     "name": "Borderlands Game of the Year Enhanced"
   },
   "730": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "G78",
@@ -33611,6 +33623,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__840",
