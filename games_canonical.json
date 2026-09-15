@@ -4543,20 +4543,6 @@
     ],
     "name": "Lost Ruins"
   },
-  "1307710": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "GRID"
-    ],
-    "name": "GRID Legends"
-  },
   "1310510": {
     "config_count": 1,
     "devices": [],
@@ -12085,7 +12071,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 104,
+    "config_count": 103,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -15262,7 +15248,7 @@
     "name": "Wasteland 2: Director's Cut"
   },
   "241540": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G78",
@@ -15281,7 +15267,8 @@
       }
     ],
     "folders": [
-      "State_of_Decay"
+      "State_of_Decay",
+      "StateOfDecay"
     ],
     "name": "State of Decay"
   },
@@ -16229,7 +16216,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 26,
+    "config_count": 27,
     "devices": [
       {
         "d": "A075M",
@@ -17824,7 +17811,7 @@
     "name": "Minami Lane"
   },
   "2679460": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -17834,8 +17821,7 @@
     ],
     "folders": [
       "Metaphor__ReFantazio",
-      "METAPHOR",
-      "Metaphor_-_ReFantazio"
+      "METAPHOR"
     ],
     "name": "Metaphor: ReFantazio"
   },
@@ -18210,7 +18196,7 @@
     "name": "The Rogue Prince of Persia"
   },
   "272510": {
-    "config_count": 9,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__725",
@@ -18236,17 +18222,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "24115RA8EG",
-        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
       "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_Revolution",
-      "NARUTO_STORM_REVOLUTION",
-      "NARUTO_SHIPPUDEN_-_Ultimate_Ninja_STORM_Revolution"
+      "NARUTO_STORM_REVOLUTION"
     ],
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution"
   },
@@ -20248,7 +20228,7 @@
     "name": "Trove"
   },
   "304240": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -20272,7 +20252,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil"
+      "Resident_Evil",
+      "RESIDENT_EVIL_5"
     ],
     "name": "Resident Evil"
   },
@@ -20904,7 +20885,7 @@
     "name": "Enter the Gungeon"
   },
   "311730": {
-    "config_count": 11,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__720",
@@ -20925,19 +20906,13 @@
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__720",
-        "m": "I2218",
-        "s": "Adreno (TM) 720"
       }
     ],
     "folders": [
       "DEAD_OR_ALIVE_5_Last_Round",
       "DEAD_OR_ALIVE_5_Last_Round__Core_Fighters",
       "Dead_or_Alive_5_",
-      "Dead_or_Alive_5__Last_Round",
-      "DEAD_OR_ALIVE_5_Last_Round_-_Core_Fighters"
+      "Dead_or_Alive_5__Last_Round"
     ],
     "name": "DEAD OR ALIVE 5 Last Round: Core Fighters"
   },
@@ -21639,7 +21614,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1484,
+    "config_count": 1485,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -22637,11 +22612,6 @@
         "s": "PowerVR Rogue GE8320"
       },
       {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
-      },
-      {
         "d": "Adreno__TM__740",
         "m": "NX729J",
         "s": "Adreno (TM) 740"
@@ -22690,6 +22660,11 @@
         "d": "Adreno__TM__732",
         "m": "2410CRP4CG",
         "s": "Adreno (TM) 732"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       },
       {
         "d": "Adreno__TM__830",
@@ -23870,7 +23845,7 @@
     "name": "Megabonk"
   },
   "3405690": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G57_MC2",
@@ -23881,6 +23856,11 @@
         "d": "PowerVR_Rogue_GE8320",
         "m": "Infinix_X6816",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "G77_MC9",
+        "m": "Mali",
+        "s": "Mali-G77 MC9"
       }
     ],
     "folders": [
@@ -23919,6 +23899,14 @@
       "Heavy_Weapon"
     ],
     "name": "Heavy Weapon Deluxe"
+  },
+  "3419290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN"
   },
   "341940": {
     "config_count": 3,
@@ -25262,7 +25250,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -25283,6 +25271,11 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -25705,7 +25698,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 41,
+    "config_count": 44,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -25791,6 +25784,11 @@
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "S928B",
+        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
@@ -25802,7 +25800,8 @@
       "DARK_SOULS_III",
       "DarkSoulsII",
       "DarkSoulsIII",
-      "Dark_Souls_III"
+      "Dark_Souls_III",
+      "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122 III"
   },
@@ -27503,14 +27502,6 @@
     ],
     "name": "The Spike Cross"
   },
-  "3985080": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN - Costume Expansion Pack"
-  },
   "400": {
     "config_count": 4,
     "devices": [],
@@ -27520,7 +27511,7 @@
     "name": "Portal"
   },
   "4000": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "G57_MC2",
@@ -28281,14 +28272,6 @@
       "Furi"
     ],
     "name": "Furi"
-  },
-  "423950": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Deadlight_-_Director_s_Cut"
-    ],
-    "name": "Deadlight: Director's Cut"
   },
   "4241690": {
     "config_count": 1,
@@ -30261,7 +30244,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -30285,8 +30268,7 @@
       }
     ],
     "folders": [
-      "State_of_Decay_2__Juggernaut_Edition",
-      "StateOfDecay"
+      "State_of_Decay_2__Juggernaut_Edition"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
   },
@@ -31604,7 +31586,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 44,
+    "config_count": 41,
     "devices": [
       {
         "d": "G57",
@@ -31700,17 +31682,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
-      },
-      {
-        "d": "Adreno__TM__660",
-        "m": "S928B",
-        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
       "DARK_SOULS__REMASTERED",
-      "DARK_SOULS___REMASTERED",
-      "Dark_Souls_Remastered"
+      "DARK_SOULS___REMASTERED"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
   },
@@ -32684,7 +32660,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -32698,8 +32674,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2",
-      "LEGOMARVEL"
+      "LEGO__Marvel_Super_Heroes_2"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -36951,6 +36926,28 @@
     ],
     "name": "Dbxv"
   },
+  "name:dead-or-alive-5-last-round-core-fighters": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__720",
+        "m": "I2218",
+        "s": "Adreno (TM) 720"
+      }
+    ],
+    "folders": [
+      "DEAD_OR_ALIVE_5_Last_Round_-_Core_Fighters"
+    ],
+    "name": "Dead Or Alive 5 Last Round Core Fighters"
+  },
+  "name:deadlight-director-s-cut": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Deadlight_-_Director_s_Cut"
+    ],
+    "name": "Deadlight Director S Cut"
+  },
   "name:deus-ex-human-revolution-dc": {
     "config_count": 1,
     "devices": [],
@@ -37957,6 +37954,14 @@
     ],
     "name": "Metal Gear Solid Master Collection Vol 2 Multi6 Elamigos"
   },
+  "name:metaphor-refantazio": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Metaphor_-_ReFantazio"
+    ],
+    "name": "Metaphor Refantazio"
+  },
   "name:mgsvtpp": {
     "config_count": 1,
     "devices": [
@@ -38071,6 +38076,20 @@
       "Mystery_Case_Files_-_Dire_Grove"
     ],
     "name": "Mystery Case Files Dire Grove"
+  },
+  "name:naruto-shippuden-ultimate-ninja-storm-revolution": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__810",
+        "m": "24115RA8EG",
+        "s": "Adreno (TM) 810"
+      }
+    ],
+    "folders": [
+      "NARUTO_SHIPPUDEN_-_Ultimate_Ninja_STORM_Revolution"
+    ],
+    "name": "Naruto Shippuden Ultimate Ninja Storm Revolution"
   },
   "name:nba2k14": {
     "config_count": 4,

@@ -651,9 +651,6 @@
   "1306630": [
     "Lost_Ruins"
   ],
-  "1307710": [
-    "GRID"
-  ],
   "1310510": [
     "Harry_s_"
   ],
@@ -2362,6 +2359,7 @@
     "Wasteland_2_-_Director_s_Cut"
   ],
   "241540": [
+    "StateOfDecay",
     "State_of_Decay"
   ],
   "2416450": [
@@ -2784,7 +2782,6 @@
   ],
   "2679460": [
     "METAPHOR",
-    "Metaphor_-_ReFantazio",
     "Metaphor__ReFantazio"
   ],
   "2680010": [
@@ -2841,7 +2838,6 @@
     "The_Rogue_Prince_of_Persia"
   ],
   "272510": [
-    "NARUTO_SHIPPUDEN_-_Ultimate_Ninja_STORM_Revolution",
     "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_Revolution",
     "NARUTO_STORM_REVOLUTION"
   ],
@@ -3184,6 +3180,7 @@
     "Trove"
   ],
   "304240": [
+    "RESIDENT_EVIL_5",
     "Resident_Evil"
   ],
   "304430": [
@@ -3277,7 +3274,6 @@
   ],
   "311730": [
     "DEAD_OR_ALIVE_5_Last_Round",
-    "DEAD_OR_ALIVE_5_Last_Round_-_Core_Fighters",
     "DEAD_OR_ALIVE_5_Last_Round__Core_Fighters",
     "Dead_or_Alive_5_",
     "Dead_or_Alive_5__Last_Round"
@@ -3630,6 +3626,9 @@
   "3410": [
     "Heavy_Weapon"
   ],
+  "3419290": [
+    "GodForsaken"
+  ],
   "341940": [
     "Hatred"
   ],
@@ -3949,7 +3948,8 @@
     "DarkSoulsII",
     "DarkSoulsIII",
     "DarkSoulsRemastered",
-    "Dark_Souls_III"
+    "Dark_Souls_III",
+    "Dark_Souls_Remastered"
   ],
   "3748640": [
     "Wasteland_Bites"
@@ -4192,9 +4192,6 @@
   "3983810": [
     "The_Spike"
   ],
-  "3985080": [
-    "GodForsaken"
-  ],
   "400": [
     "Portal"
   ],
@@ -4369,9 +4366,6 @@
   ],
   "423230": [
     "Furi"
-  ],
-  "423950": [
-    "Deadlight_-_Director_s_Cut"
   ],
   "4241690": [
     "Hydra"
@@ -4750,7 +4744,6 @@
     "Borderlands_2"
   ],
   "495420": [
-    "StateOfDecay",
     "State_of_Decay_2__Juggernaut_Edition"
   ],
   "500": [
@@ -4920,8 +4913,7 @@
   ],
   "570940": [
     "DARK_SOULS__REMASTERED",
-    "DARK_SOULS___REMASTERED",
-    "Dark_Souls_Remastered"
+    "DARK_SOULS___REMASTERED"
   ],
   "571310": [
     "Dig2",
@@ -5104,7 +5096,6 @@
     "The_Crew__2"
   ],
   "647830": [
-    "LEGOMARVEL",
     "LEGO__Marvel_Super_Heroes_2"
   ],
   "648350": [
@@ -5869,6 +5860,12 @@
   "name:dbxv": [
     "DBXV"
   ],
+  "name:dead-or-alive-5-last-round-core-fighters": [
+    "DEAD_OR_ALIVE_5_Last_Round_-_Core_Fighters"
+  ],
+  "name:deadlight-director-s-cut": [
+    "Deadlight_-_Director_s_Cut"
+  ],
   "name:deus-ex-human-revolution-dc": [
     "Deus_Ex__Human_Revolution_DC"
   ],
@@ -6113,6 +6110,9 @@
   "name:metal-gear-solid-master-collection-vol-2-multi6-elamigos": [
     "Metal_Gear_Solid_Master_Collection_Vol_2_MULTi6_-_ElAmigos"
   ],
+  "name:metaphor-refantazio": [
+    "Metaphor_-_ReFantazio"
+  ],
   "name:mgsvtpp": [
     "mgsvtpp"
   ],
@@ -6142,6 +6142,9 @@
   ],
   "name:mystery-case-files-dire-grove": [
     "Mystery_Case_Files_-_Dire_Grove"
+  ],
+  "name:naruto-shippuden-ultimate-ninja-storm-revolution": [
+    "NARUTO_SHIPPUDEN_-_Ultimate_Ninja_STORM_Revolution"
   ],
   "name:nba2k14": [
     "nba2k14"
