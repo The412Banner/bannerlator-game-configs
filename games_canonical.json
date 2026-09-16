@@ -3191,7 +3191,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 46,
+    "config_count": 47,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -3405,7 +3405,7 @@
     "name": "ULTRAKILL"
   },
   "1230530": {
-    "config_count": 11,
+    "config_count": 7,
     "devices": [
       {
         "d": "G57_MC2",
@@ -3436,11 +3436,6 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
-      },
-      {
-        "d": "G57_MC4",
-        "m": "Mali",
-        "s": "Mali-G57 MC4"
       }
     ],
     "folders": [
@@ -14795,7 +14790,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 14,
+    "config_count": 17,
     "devices": [
       {
         "d": "G720_MC7",
@@ -14826,10 +14821,21 @@
         "d": "Adreno__TM__710",
         "m": "A366E",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II"
+      "DARK_SOULS__II",
+      "DarkSoulsII"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -16283,7 +16289,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 27,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -20835,7 +20841,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 46,
+    "config_count": 45,
     "devices": [
       {
         "d": "G78",
@@ -20937,7 +20943,6 @@
       "___3____________",
       "________3_____________",
       "bla",
-      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -21737,7 +21742,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1501,
+    "config_count": 1503,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24939,6 +24944,20 @@
     ],
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
+  "3558670": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "G57_MC4",
+        "m": "Mali",
+        "s": "Mali-G57 MC4"
+      }
+    ],
+    "folders": [
+      "Atla"
+    ],
+    "name": "Tomb Raider: Legacy of Atlantis"
+  },
   "356190": {
     "config_count": 4,
     "devices": [
@@ -25778,7 +25797,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 41,
+    "config_count": 38,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -25851,16 +25870,6 @@
         "s": "Adreno (TM) 735"
       },
       {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -25873,7 +25882,6 @@
       "DarkSoulsRemastered",
       "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
-      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -28509,6 +28517,20 @@
       "Call_of_Duty___Modern_Warfare__3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
+  },
+  "42700": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Call_of_Duty_-_Black_Ops"
+    ],
+    "name": "Call of Duty\u00ae: Black Ops"
   },
   "427290": {
     "config_count": 1,
@@ -32767,7 +32789,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -32781,8 +32803,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2",
-      "LEGOMARVEL"
+      "LEGO__Marvel_Super_Heroes_2"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -38649,7 +38670,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2851,
+    "config_count": 2852,
     "devices": [
       {
         "d": "G52_MC2",
