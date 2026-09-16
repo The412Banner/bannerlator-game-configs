@@ -4094,6 +4094,10 @@
     "method": "naive",
     "steam_name": "GrandChase"
   },
+  "GrandChasePatcher": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "GrandTheftAuto_Launcher": {
     "appid": null,
     "method": "non-game"
@@ -5901,6 +5905,12 @@
     "appid": 1817190,
     "method": "naive",
     "steam_name": "Marvel\u2019s Spider-Man: Miles Morales"
+  },
+  "Marvel_vs__Capcom__Infinite": {
+    "appid": 493840,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/493840/header.jpg",
+    "method": "naive",
+    "steam_name": "Marvel vs. Capcom: Infinite"
   },
   "Mass_Effect": {
     "appid": 17460,
