@@ -1,16 +1,16 @@
-raw folders: 2641   total configs: 14325
+raw folders: 2642   total configs: 14326
 non-game (filtered out): 136
-MERGED canonical games (have appid): 1997
-  folders collapsed by merge: 639
-still-unresolved real games (no appid): 615
-GAME-COUNT RATE: 1997/2612 = 76%  (vs 67% raw baseline)
-CONFIG-COVERAGE (matters for matching): 14348/15442 = 93%
+MERGED canonical games (have appid): 2027
+  folders collapsed by merge: 618
+still-unresolved real games (no appid): 616
+GAME-COUNT RATE: 2027/2643 = 77%  (vs 67% raw baseline)
+CONFIG-COVERAGE (matters for matching): 14349/15444 = 93%
 top-merged examples:
   appid 1665460: 20 folders, 96 configs, 25 devices  ['PES', 'PES_13', 'PES_2013']
   appid name:pes-2013: 16 folders, 2845 configs, 188 devices  ['PES2013', 'PES_2013_Fix', 'PES_2013_LEND_RIO_']
-  appid 1262560: 15 folders, 56 configs, 22 devices  ['Need_For_Speed__Most_Wanted__2005_', 'Need_for_Speed_-_Most_Wanted________________________________', 'Need_for_Speed_Most_Wanted']
   appid 1506830: 14 folders, 93 configs, 35 devices  ['FIFA_06_____________________________________________________', 'FIFA_13', 'FIFA_14']
-  appid 3240220: 13 folders, 1491 configs, 233 devices  ['Grand_Theft_Auto_5', 'Grand_Theft_Auto_V', 'Grand_Theft_Auto_V_']
-  appid 311210: 9 folders, 45 configs, 18 devices  ['BlackOps', 'Call_of_Duty_', 'Call_of_Duty_3______________________________________________']
-  appid 374320: 9 folders, 42 configs, 17 devices  ['DARKSOULS', 'DARK_SOULS', 'DARK_SOULS__III']
+  appid 3240220: 13 folders, 1492 configs, 233 devices  ['Grand_Theft_Auto_5', 'Grand_Theft_Auto_V', 'Grand_Theft_Auto_V_']
+  appid 1262560: 13 folders, 53 configs, 21 devices  ['Need_For_Speed__Most_Wanted__2005_', 'Need_for_Speed_-_Most_Wanted________________________________', 'Need_for_Speed_Most_Wanted']
+  appid 311210: 9 folders, 43 configs, 18 devices  ['BlackOps', 'Call_of_Duty_', 'Call_of_Duty_3______________________________________________']
+  appid 374320: 9 folders, 41 configs, 17 devices  ['DARKSOULS', 'DARK_SOULS', 'DARK_SOULS__III']
   appid 2050650: 9 folders, 81 configs, 20 devices  ['RE4', 'RE_4', 'Re4']
