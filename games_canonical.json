@@ -15812,7 +15812,7 @@
     "name": "The Legend of Heroes: Trails into Reverie - SSS Summer Splash Set"
   },
   "243470": {
-    "config_count": 33,
+    "config_count": 35,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -15892,7 +15892,8 @@
     ],
     "folders": [
       "Watch_Dogs",
-      "Watch_Dogs_"
+      "Watch_Dogs_",
+      "watch_dogs"
     ],
     "name": "Watch_Dogs\u2122"
   },
@@ -16238,6 +16239,11 @@
     "config_count": 27,
     "devices": [
       {
+        "d": "Adreno__TM__650",
+        "m": "G780G",
+        "s": "Adreno (TM) 650"
+      },
+      {
         "d": "A075M",
         "m": "SM",
         "s": null
@@ -16296,17 +16302,12 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "G780G",
-        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
       "LEGOMARVEL",
-      "LEGO__Marvel__Super_Heroes",
-      "LEGO__MARVEL_Super_Heroes"
+      "LEGO__MARVEL_Super_Heroes",
+      "LEGO__Marvel__Super_Heroes"
     ],
     "name": "LEGO\u00ae Marvel\u2122 Super Heroes"
   },
@@ -20165,7 +20166,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 6,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -20181,16 +20182,10 @@
         "d": "Adreno__TM__725",
         "m": "23049PCD8G",
         "s": "Adreno (TM) 725"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -29020,7 +29015,7 @@
     "name": "Farming Simulator 17"
   },
   "447040": {
-    "config_count": 24,
+    "config_count": 22,
     "devices": [
       {
         "d": "G720_MC7",
@@ -29087,9 +29082,7 @@
       "WatchDogs2",
       "Watch_Dogs_2",
       "Watch_Dogs__2",
-      "watch_dogs_2",
-      "Watch_Dogs",
-      "watch_dogs"
+      "watch_dogs_2"
     ],
     "name": "Watch_Dogs\u00ae 2"
   },
@@ -35580,7 +35573,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 8,
     "devices": [
       {
         "d": "G615_MC6",
@@ -35596,10 +35589,16 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
