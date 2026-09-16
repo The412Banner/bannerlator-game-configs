@@ -595,7 +595,7 @@
     "name": "Mafia II: Definitive Edition"
   },
   "1030840": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -606,10 +606,16 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__829",
+        "m": "motorola_signature",
+        "s": "Adreno (TM) 829"
       }
     ],
     "folders": [
-      "Mafia__Definitive_Edition"
+      "Mafia__Definitive_Edition",
+      "Mafia_Definitive_Edition"
     ],
     "name": "Mafia: Definitive Edition"
   },
@@ -4042,7 +4048,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 55,
+    "config_count": 56,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4167,6 +4173,7 @@
       "need_for_speed_most_wanted_",
       "Need_For_Speed_Most_Wanted_",
       "Need_for_Speed_-_Most_Wanted",
+      "Need_for_Speed__Most_Wanted_2005",
       "Need_for_Speed__Most_wanted__2012_",
       "need_for_speed_most_wa",
       "need_for_speed_most_wanted_2005"
@@ -4305,12 +4312,17 @@
     "name": "Construction Simulator"
   },
   "1274600": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__611",
+        "m": "24116PCC1I",
+        "s": "Adreno (TM) 611"
       }
     ],
     "folders": [
@@ -5169,7 +5181,7 @@
     "name": "Midnight Fight Express"
   },
   "1392860": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -5200,10 +5212,16 @@
         "d": "Adreno__TM__730",
         "m": "Lenovo_L71091",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
-      "Little_Nightmares_III"
+      "Little_Nightmares_III",
+      "LittleNightmaresIII"
     ],
     "name": "Little Nightmares III"
   },
@@ -7599,6 +7617,14 @@
     ],
     "name": "Minecraft Dungeons"
   },
+  "1675200": {
+    "config_count": 4,
+    "devices": [],
+    "folders": [
+      "Steam"
+    ],
+    "name": "Steam Deck"
+  },
   "1676840": {
     "config_count": 1,
     "devices": [],
@@ -9499,18 +9525,11 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 3,
-    "devices": [
-      {
-        "d": "Adreno__TM__829",
-        "m": "motorola_signature",
-        "s": "Adreno (TM) 829"
-      }
-    ],
+    "config_count": 2,
+    "devices": [],
     "folders": [
       "MAFIA",
-      "Mafia",
-      "Mafia_Definitive_Edition"
+      "Mafia"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -10808,7 +10827,7 @@
     "name": "Resident Evil 4"
   },
   "205100": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -10832,7 +10851,8 @@
       }
     ],
     "folders": [
-      "Dishonored"
+      "Dishonored",
+      "Dishonored_-_Definitive_Edition"
     ],
     "name": "Dishonored"
   },
@@ -13201,7 +13221,7 @@
     "name": "Command & Conquer\u2122 Generals"
   },
   "22300": {
-    "config_count": 18,
+    "config_count": 17,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -13237,8 +13257,7 @@
     "folders": [
       "Fallout_3",
       "Fallout_3_-_Game_of_the_Year_Edition",
-      "Fallout_3___________________________________________________",
-      "Fallout_3__Game_of_the_Year_Edition"
+      "Fallout_3___________________________________________________"
     ],
     "name": "Fallout 3"
   },
@@ -13338,6 +13357,14 @@
       "Contra_Galuga"
     ],
     "name": "Contra: Operation Galuga"
+  },
+  "22370": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Fallout_3__Game_of_the_Year_Edition"
+    ],
+    "name": "Fallout 3: Game of the Year Edition"
   },
   "22380": {
     "config_count": 17,
@@ -13455,7 +13482,7 @@
     "name": "Tomb Raider II (1997)"
   },
   "2254490": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "G52_MC2",
@@ -13466,6 +13493,11 @@
         "d": "Adreno__TM__840",
         "m": "25102PCBEG",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__644",
@@ -13480,6 +13512,7 @@
     ],
     "folders": [
       "Launcher",
+      "Rockstar_Games_Launcher",
       "launcher"
     ],
     "name": "Squirrel Launcher"
@@ -16192,7 +16225,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 28,
+    "config_count": 27,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -20756,7 +20789,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 46,
+    "config_count": 45,
     "devices": [
       {
         "d": "G78",
@@ -20858,7 +20891,6 @@
       "___3____________",
       "________3_____________",
       "bla",
-      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -24557,7 +24589,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 27,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -24618,6 +24650,7 @@
     "folders": [
       "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
       "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_Arkham_Asylum",
       "Batman__Arkham_Asylum_GOTY_Edition"
     ],
     "name": "Batman: Arkham Asylum Game of the Year Edition"
@@ -28101,14 +28134,6 @@
       "mywintercar"
     ],
     "name": "My Winter Car"
-  },
-  "4165910": {
-    "config_count": 4,
-    "devices": [],
-    "folders": [
-      "Steam"
-    ],
-    "name": "Steam Machine"
   },
   "418240": {
     "config_count": 1,
@@ -32728,7 +32753,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -32742,7 +32767,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2"
+      "LEGO__Marvel_Super_Heroes_2",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -35098,7 +35124,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 112,
+    "config_count": 113,
     "devices": [
       {
         "d": "s5e8855",
@@ -35286,6 +35312,11 @@
         "s": "PowerVR B-Series BXM-8-256"
       },
       {
+        "d": "Adreno__TM__840",
+        "m": "S948U1",
+        "s": "Adreno (TM) 840"
+      },
+      {
         "d": "G610_MC6",
         "m": "Mali",
         "s": "Mali-G610 MC6"
@@ -35304,6 +35335,7 @@
     "folders": [
       "Resident_Evil_2",
       "Resident_Evil_2_____________________________________________",
+      "Resident_Evil_2__2019_",
       "Resident_Evil_2__DX11_",
       "re2",
       "resident_evil_2"
@@ -35326,7 +35358,7 @@
     "name": "BioShock\u00ae 2"
   },
   "8870": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "G720_MC7",
@@ -35342,6 +35374,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g34_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__829",
+        "m": "I2508",
+        "s": "Adreno (TM) 829"
       }
     ],
     "folders": [
@@ -36683,14 +36720,6 @@
     ],
     "name": "Baldisbasicsplusadvanced"
   },
-  "name:batman-arkham-asylum": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Batman_Arkham_Asylum"
-    ],
-    "name": "Batman Arkham Asylum"
-  },
   "name:batmanac": {
     "config_count": 2,
     "devices": [],
@@ -36784,20 +36813,6 @@
       "bio4"
     ],
     "name": "Bio4"
-  },
-  "name:bioshock-infinite": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__829",
-        "m": "I2508",
-        "s": "Adreno (TM) 829"
-      }
-    ],
-    "folders": [
-      "BioShock_Infinite"
-    ],
-    "name": "Bioshock Infinite"
   },
   "name:bitsv8": {
     "config_count": 1,
@@ -37124,14 +37139,6 @@
     ],
     "name": "Discordsetup"
   },
-  "name:dishonored-definitive-edition": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Dishonored_-_Definitive_Edition"
-    ],
-    "name": "Dishonored Definitive Edition"
-  },
   "name:dlss-5-swapper": {
     "config_count": 1,
     "devices": [],
@@ -37312,14 +37319,6 @@
       "eFootball_PES_2021_SEASON_UPDATE"
     ],
     "name": "eFootball 2021"
-  },
-  "name:efootball-2026": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "eFootball_2026"
-    ],
-    "name": "eFootball 2026"
   },
   "name:emuteck-edition": {
     "config_count": 2,
@@ -38026,20 +38025,6 @@
     ],
     "name": "Little Nightmares Enhanced"
   },
-  "name:littlenightmaresiii": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "23129RA5FL",
-        "s": "Adreno (TM) 610"
-      }
-    ],
-    "folders": [
-      "LittleNightmaresIII"
-    ],
-    "name": "Littlenightmaresiii"
-  },
   "name:lunaabyss-wingdk-shipping": {
     "config_count": 1,
     "devices": [
@@ -38267,14 +38252,6 @@
       "Need_for_Speed_Black_Edition_"
     ],
     "name": "Need For Speed Black Edition"
-  },
-  "name:need-for-speed-most-wanted-2005": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Need_for_Speed__Most_Wanted_2005"
-    ],
-    "name": "Need For Speed Most Wanted 2005"
   },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 1,
@@ -40497,20 +40474,6 @@
     ],
     "name": "Reschanger"
   },
-  "name:resident-evil-2-2019": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "S948U1",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "Resident_Evil_2__2019_"
-    ],
-    "name": "Resident Evil 2 2019"
-  },
   "name:resident-evil-2-dx11": {
     "config_count": 1,
     "devices": [],
@@ -40558,20 +40521,6 @@
       "Rocket_League_"
     ],
     "name": "Rocket League"
-  },
-  "name:rockstar-games-launcher": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Rockstar_Games_Launcher"
-    ],
-    "name": "Rockstar Games Launcher"
   },
   "name:rottr": {
     "config_count": 8,
@@ -40904,20 +40853,6 @@
       "The_Amazing_Spider-Man_2"
     ],
     "name": "The Amazing Spider Man 2"
-  },
-  "name:the-last-faith": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__611",
-        "m": "24116PCC1I",
-        "s": "Adreno (TM) 611"
-      }
-    ],
-    "folders": [
-      "The_Last_Faith"
-    ],
-    "name": "The Last Faith"
   },
   "name:the-lust-voyage": {
     "config_count": 1,
