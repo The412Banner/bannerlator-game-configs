@@ -21732,7 +21732,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1503,
+    "config_count": 1504,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -22505,11 +22505,6 @@
         "s": "Mali-G715-Immortalis MC11"
       },
       {
-        "d": "Adreno__TM__650",
-        "m": "G780G",
-        "s": "Adreno (TM) 650"
-      },
-      {
         "d": "Adreno__TM__730",
         "m": "S901E",
         "s": "Adreno (TM) 730"
@@ -22793,6 +22788,11 @@
         "d": "256",
         "m": "8",
         "s": "PowerVR B-Series BXM-8-256"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "G780G",
+        "s": "Adreno (TM) 650"
       },
       {
         "d": "Adreno__TM__830",
@@ -23692,14 +23692,6 @@
       "Paint_the_Town_Red"
     ],
     "name": "Paint the Town Red"
-  },
-  "3375780": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "tra"
-    ],
-    "name": "Trails in the Sky 1st Chapter"
   },
   "3378960": {
     "config_count": 1,
@@ -28333,7 +28325,7 @@
     "name": "Jujutsu Kaisen Phantom Parade"
   },
   "4225980": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "G615_MC6",
@@ -28348,7 +28340,8 @@
     ],
     "folders": [
       "Trails_in_the_Sky",
-      "________2nd_"
+      "________2nd_",
+      "tra"
     ],
     "name": "Trails in the Sky 2nd Chapter"
   },
@@ -38657,7 +38650,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2854,
+    "config_count": 2855,
     "devices": [
       {
         "d": "G52_MC2",
@@ -39560,14 +39553,14 @@
         "s": "Mali-G615 MC2"
       },
       {
-        "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-        "m": "A566E",
-        "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
-      },
-      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+        "m": "A566E",
+        "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
       },
       {
         "d": "Adreno__TM__740",
