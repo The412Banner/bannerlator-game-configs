@@ -3138,6 +3138,12 @@
     "appid": null,
     "method": "unresolved"
   },
+  "FINAL_FANTASY_XIII": {
+    "appid": 292120,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/292120/header.jpg",
+    "method": "naive",
+    "steam_name": "FINAL FANTASY\u00ae XIII"
+  },
   "FINAL_FANTASY_XIII-2": {
     "appid": 292140,
     "method": "naive",
@@ -9405,6 +9411,10 @@
     "steam_name": "Stumble Guys"
   },
   "Stumble_Guys_Offline": {
+    "appid": null,
+    "method": "unresolved"
+  },
+  "StyxGame": {
     "appid": null,
     "method": "unresolved"
   },
