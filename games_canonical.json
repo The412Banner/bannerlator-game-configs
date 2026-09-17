@@ -3419,7 +3419,7 @@
     "name": "ULTRAKILL"
   },
   "1230530": {
-    "config_count": 7,
+    "config_count": 11,
     "devices": [
       {
         "d": "G57_MC2",
@@ -3450,6 +3450,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G57_MC4",
+        "m": "Mali",
+        "s": "Mali-G57 MC4"
       }
     ],
     "folders": [
@@ -13192,7 +13197,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 17,
+    "config_count": 19,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -13231,7 +13236,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -16302,7 +16308,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 28,
+    "config_count": 27,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -18611,6 +18617,14 @@
     ],
     "name": "Dynasty Warriors 8 - Xtreme Legends Complete Edition"
   },
+  "2787680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Candy Rangers"
+  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -18702,14 +18716,6 @@
       "Battlefield__6"
     ],
     "name": "Battlefield\u2122 6"
-  },
-  "2812820": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Pape Rangers"
   },
   "2815070": {
     "config_count": 2,
@@ -19393,7 +19399,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -19434,7 +19440,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -24949,20 +24954,6 @@
     ],
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
-  "3558670": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "G57_MC4",
-        "m": "Mali",
-        "s": "Mali-G57 MC4"
-      }
-    ],
-    "folders": [
-      "Atla"
-    ],
-    "name": "Tomb Raider: Legacy of Atlantis"
-  },
   "356190": {
     "config_count": 4,
     "devices": [
@@ -25581,7 +25572,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "G68_MC4",
@@ -25602,11 +25593,22 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE"
+      "oriDE",
+      "Ori"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -28733,29 +28735,18 @@
     "name": "Bruisers 2D Boxing Demo"
   },
   "435150": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "2211133C",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
-      "Divinity_-_Original_Sin_2_-_Definitive_Edition",
-      "Ori"
+      "Divinity_-_Original_Sin_2_-_Definitive_Edition"
     ],
-    "name": "Divinity: Original Sin 2 - Definitive Edition"
+    "name": "Divinity - Original Sin 2 - Definitive Edition"
   },
   "4355320": {
     "config_count": 16,
@@ -32821,7 +32812,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -32835,7 +32826,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2"
+      "LEGO__Marvel_Super_Heroes_2",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
