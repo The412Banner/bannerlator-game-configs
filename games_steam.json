@@ -1189,6 +1189,12 @@
     "method": "naive",
     "steam_name": "Call of Duty\u00ae: Black Ops III"
   },
+  "Call_of_Duty_-_World_at_War": {
+    "appid": 10090,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/10090/header.jpg",
+    "method": "norm",
+    "steam_name": "Call of Duty: World at War"
+  },
   "Call_of_Duty_2": {
     "appid": 2630,
     "method": "naive",
@@ -10036,6 +10042,10 @@
     "appid": 3679080,
     "method": "naive",
     "steam_name": "The Seven Deadly Sins: Origin"
+  },
+  "The_Sims_1_-_Legacy_Collection": {
+    "appid": null,
+    "method": "unresolved"
   },
   "The_Sims__": {
     "appid": 1222670,
