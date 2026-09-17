@@ -4084,7 +4084,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 53,
+    "config_count": 55,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4210,7 +4210,8 @@
       "Need_For_Speed_Most_Wanted_",
       "Need_for_Speed_-_Most_Wanted",
       "Need_for_Speed__Most_wanted__2012_",
-      "need_for_speed_most_wa"
+      "need_for_speed_most_wa",
+      "need_for_speed_most_wanted_2005"
     ],
     "name": "Need for Speed\u2122 Most Wanted"
   },
@@ -7875,7 +7876,7 @@
     "name": "Kusan: City of Wolves"
   },
   "1715130": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -8814,7 +8815,7 @@
     "name": "Asphalt Legends "
   },
   "1817070": {
-    "config_count": 22,
+    "config_count": 23,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -8884,7 +8885,8 @@
     ],
     "folders": [
       "Marvel_s_Spider-Man_Remastered",
-      "REM"
+      "REM",
+      "Spider-man_Remastered"
     ],
     "name": "Marvel\u2019s Spider-Man Remastered"
   },
@@ -11344,7 +11346,7 @@
     "name": "Crysis 2 Remastered"
   },
   "2096610": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "G720_MC7",
@@ -11355,8 +11357,7 @@
     "folders": [
       "Crysis",
       "Crysis_3",
-      "Crysis_3_Remastered",
-      "Crysis_Remastered"
+      "Crysis_3_Remastered"
     ],
     "name": "Crysis 3 Remastered"
   },
@@ -12879,7 +12880,7 @@
     "name": "Total Chaos"
   },
   "221040": {
-    "config_count": 70,
+    "config_count": 71,
     "devices": [
       {
         "d": "G720_MC7",
@@ -13025,6 +13026,7 @@
     "folders": [
       "RESIDENT_EVIL_6",
       "Resident_Evil_6",
+      "Resident_evil_6",
       "resident_evil_6"
     ],
     "name": "Resident Evil 6"
@@ -13497,7 +13499,7 @@
     "name": "Tomb Raider II (1997)"
   },
   "2254490": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "G52_MC2",
@@ -13508,6 +13510,11 @@
         "d": "Adreno__TM__840",
         "m": "25102PCBEG",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__644",
@@ -13522,6 +13529,7 @@
     ],
     "folders": [
       "Launcher",
+      "Rockstar_Games_Launcher",
       "launcher"
     ],
     "name": "Squirrel Launcher"
@@ -15258,7 +15266,7 @@
     "name": "Wasteland 2: Director's Cut"
   },
   "241540": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "G78",
@@ -15277,8 +15285,7 @@
       }
     ],
     "folders": [
-      "State_of_Decay",
-      "StateOfDecay"
+      "State_of_Decay"
     ],
     "name": "State of Decay"
   },
@@ -17529,7 +17536,7 @@
     "name": "Subnautica"
   },
   "2651280": {
-    "config_count": 25,
+    "config_count": 24,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -17580,19 +17587,13 @@
         "d": "Adreno__TM__730",
         "m": "motorola_edge_30_ultra",
         "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
       "Activision_Spider-Man_3",
       "Marvel_s_Spider-Man_2",
       "Spider-Man_3",
-      "Spider-Man",
-      "Spider-man_Remastered"
+      "Spider-Man"
     ],
     "name": "Marvel's Spider-Man 2"
   },
@@ -20288,7 +20289,7 @@
     "name": "Trove"
   },
   "304240": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -20312,8 +20313,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil",
-      "Resident_Evil_5"
+      "Resident_Evil"
     ],
     "name": "Resident Evil"
   },
@@ -25721,7 +25721,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 39,
+    "config_count": 41,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -27926,6 +27926,14 @@
     ],
     "name": "Z.A.T.O. - Digital Art Pack"
   },
+  "4123760": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Football_Life_2026"
+    ],
+    "name": "Football Life"
+  },
   "413150": {
     "config_count": 6,
     "devices": [
@@ -29243,6 +29251,14 @@
     ],
     "name": "Ultra Street Fighter\u00ae IV"
   },
+  "4576490": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "CasualtiesUnknown"
+    ],
+    "name": "Casualties: Unknown"
+  },
   "4576510": {
     "config_count": 1,
     "devices": [
@@ -30226,7 +30242,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -30256,6 +30272,7 @@
     ],
     "folders": [
       "State_of_Decay_2__Juggernaut_Edition",
+      "StateOfDecay",
       "StateOfDecay2"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
@@ -30305,7 +30322,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 44,
+    "config_count": 45,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -30408,6 +30425,11 @@
         "s": "Adreno (TM) 830"
       },
       {
+        "d": "Adreno__TM__750",
+        "m": "V2425A",
+        "s": "Adreno (TM) 750"
+      },
+      {
         "d": "Adreno__TM__735",
         "m": "RMX3851",
         "s": "Adreno (TM) 735"
@@ -30423,6 +30445,7 @@
       "The_Witcher_3__Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
+      "Witcher_1",
       "_Witcher",
       "witcher3"
     ],
@@ -31231,7 +31254,7 @@
     "name": "Brick Rigs"
   },
   "55230": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -31261,8 +31284,7 @@
     ],
     "folders": [
       "Saints_Row__The_Third",
-      "SaintsRowTheThird",
-      "Saints_Row___The_Third__Remastered"
+      "SaintsRowTheThird"
     ],
     "name": "Saints Row: The Third"
   },
@@ -33595,7 +33617,7 @@
     "name": "DYNASTY WARRIORS 9"
   },
   "731490": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -36929,14 +36951,6 @@
     ],
     "name": "Castlevaniasoh"
   },
-  "name:casualtiesunknown": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "CasualtiesUnknown"
-    ],
-    "name": "Casualtiesunknown"
-  },
   "name:clientg": {
     "config_count": 1,
     "devices": [],
@@ -37033,28 +37047,6 @@
     ],
     "name": "Conviction Game"
   },
-  "name:counter-strike-2": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      }
-    ],
-    "folders": [
-      "Counter-Strike_2"
-    ],
-    "name": "Counter Strike 2"
-  },
-  "name:crashbandicootnsanetrilogy": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "CrashBandicootNSaneTrilogy"
-    ],
-    "name": "Crashbandicootnsanetrilogy"
-  },
   "name:cricket07": {
     "config_count": 1,
     "devices": [
@@ -37098,20 +37090,6 @@
       "daorigins"
     ],
     "name": "Daorigins"
-  },
-  "name:dark-souls-remastered": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
-      }
-    ],
-    "folders": [
-      "DARK_SOULS_-_REMASTERED"
-    ],
-    "name": "Dark Souls Remastered"
   },
   "name:dawn-of-war-soulstorm": {
     "config_count": 1,
@@ -37682,14 +37660,6 @@
     ],
     "name": "Final Fantasy 7 Steamrip Read Description"
   },
-  "name:football-life-2026": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Football_Life_2026"
-    ],
-    "name": "Football Life 2026"
-  },
   "name:frozen-throne": {
     "config_count": 1,
     "devices": [
@@ -38160,25 +38130,6 @@
     ],
     "name": "Jump Force"
   },
-  "name:kena-bridge-of-spirits": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "NP05J",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "Kena_-_Bridge_of_Spirits"
-    ],
-    "name": "Kena Bridge Of Spirits"
-  },
   "name:kick-win": {
     "config_count": 1,
     "devices": [],
@@ -38238,28 +38189,6 @@
       "Little_Nightmares_Enhanced"
     ],
     "name": "Little Nightmares Enhanced"
-  },
-  "name:littlenightmaresiii": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "23129RA5FL",
-        "s": "Adreno (TM) 610"
-      }
-    ],
-    "folders": [
-      "LittleNightmaresIII"
-    ],
-    "name": "Littlenightmaresiii"
-  },
-  "name:luckyshot": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "LuckyShot"
-    ],
-    "name": "Luckyshot"
   },
   "name:lunaabyss-wingdk-shipping": {
     "config_count": 1,
@@ -38518,15 +38447,6 @@
       "Need_for_Speed_Black_Edition_"
     ],
     "name": "Need For Speed Black Edition"
-  },
-  "name:need-for-speed-most-wanted-2005": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Need_for_Speed__Most_Wanted_2005",
-      "need_for_speed_most_wanted_2005"
-    ],
-    "name": "Need For Speed Most Wanted 2005"
   },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 1,
@@ -40835,20 +40755,6 @@
     ],
     "name": "Rocket League"
   },
-  "name:rockstar-games-launcher": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Rockstar_Games_Launcher"
-    ],
-    "name": "Rockstar Games Launcher"
-  },
   "name:rottr": {
     "config_count": 8,
     "devices": [
@@ -40889,14 +40795,6 @@
       "rungame"
     ],
     "name": "Rungame"
-  },
-  "name:sally-face": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sally_Face"
-    ],
-    "name": "Sally Face"
   },
   "name:sdhdship": {
     "config_count": 3,
@@ -40984,20 +40882,6 @@
       "Snapshot__Lewd_Shores"
     ],
     "name": "Snapshot Lewd Shores"
-  },
-  "name:sniperelite3": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "SniperElite3"
-    ],
-    "name": "Sniperelite3"
   },
   "name:sniperv2launcher": {
     "config_count": 1,
@@ -41422,20 +41306,6 @@
       "Wasteland_3_Colorado_Survival_Gear_DLC"
     ],
     "name": "Wasteland 3 Colorado Survival Gear Dlc"
-  },
-  "name:witcher-1": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__750",
-        "m": "V2425A",
-        "s": "Adreno (TM) 750"
-      }
-    ],
-    "folders": [
-      "Witcher_1"
-    ],
-    "name": "Witcher 1"
   },
   "name:wizard-school-exchange-student": {
     "config_count": 1,
