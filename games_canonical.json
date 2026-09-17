@@ -14877,20 +14877,6 @@
     ],
     "name": "Europa Universalis IV"
   },
-  "2369390": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      }
-    ],
-    "folders": [
-      "FarCry"
-    ],
-    "name": "Far Cry\u00ae 6"
-  },
   "2370000": {
     "config_count": 1,
     "devices": [],
@@ -31484,7 +31470,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -31525,6 +31511,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -31533,7 +31524,8 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry"
+      "far_cry",
+      "FarCry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -36026,7 +36018,7 @@
     "name": "Volcanoids"
   },
   "952060": {
-    "config_count": 77,
+    "config_count": 78,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -38771,7 +38763,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2860,
+    "config_count": 2861,
     "devices": [
       {
         "d": "G52_MC2",
