@@ -1342,7 +1342,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1351,7 +1351,8 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid"
+      "BattleForTheGrid",
+      "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -3419,7 +3420,7 @@
     "name": "ULTRAKILL"
   },
   "1230530": {
-    "config_count": 11,
+    "config_count": 7,
     "devices": [
       {
         "d": "G57_MC2",
@@ -3450,11 +3451,6 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
-      },
-      {
-        "d": "G57_MC4",
-        "m": "Mali",
-        "s": "Mali-G57 MC4"
       }
     ],
     "folders": [
@@ -7273,7 +7269,7 @@
     "name": "Eiyuden Chronicle: Hundred Heroes"
   },
   "1659040": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -16308,7 +16304,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 27,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -16499,7 +16495,7 @@
     "name": "Selene's Unbearable Night"
   },
   "2506160": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -18616,14 +18612,6 @@
       "DYNASTY_WARRIORS_8_-_Xtreme_Legends_Complete_Edition"
     ],
     "name": "Dynasty Warriors 8 - Xtreme Legends Complete Edition"
-  },
-  "2787680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Candy Rangers"
   },
   "2796520": {
     "config_count": 1,
@@ -20867,7 +20855,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 45,
+    "config_count": 46,
     "devices": [
       {
         "d": "G78",
@@ -20969,6 +20957,7 @@
       "___3____________",
       "________3_____________",
       "bla",
+      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -24954,6 +24943,20 @@
     ],
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
+  "3558670": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "G57_MC4",
+        "m": "Mali",
+        "s": "Mali-G57 MC4"
+      }
+    ],
+    "folders": [
+      "Atla"
+    ],
+    "name": "Tomb Raider: Legacy of Atlantis"
+  },
   "356190": {
     "config_count": 4,
     "devices": [
@@ -28538,20 +28541,6 @@
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
-  "42700": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Call_of_Duty_-_Black_Ops"
-    ],
-    "name": "Call of Duty\u00ae: Black Ops"
-  },
   "427290": {
     "config_count": 1,
     "devices": [
@@ -30356,7 +30345,7 @@
     "name": "NARUTO STORM 4 : Road to Boruto Expansion"
   },
   "49520": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -32812,7 +32801,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -32826,8 +32815,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2",
-      "LEGOMARVEL"
+      "LEGO__Marvel_Super_Heroes_2"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
