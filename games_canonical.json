@@ -4663,7 +4663,7 @@
     "name": "Nioh 2 \u2013 The Complete Edition"
   },
   "1326470": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -20841,7 +20841,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 45,
+    "config_count": 46,
     "devices": [
       {
         "d": "G78",
@@ -20943,6 +20943,7 @@
       "___3____________",
       "________3_____________",
       "bla",
+      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -27169,7 +27170,7 @@
     "name": "Rise of the Tomb Raider\u2122"
   },
   "39150": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -28440,7 +28441,7 @@
     "name": "One Piece Burning Blood"
   },
   "42680": {
-    "config_count": 34,
+    "config_count": 36,
     "devices": [
       {
         "d": "Infinix_X6833B",
@@ -28483,11 +28484,6 @@
         "s": "Adreno (TM) 650"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__740",
         "m": "23113RKC6G",
         "s": "Adreno (TM) 740"
@@ -28511,26 +28507,17 @@
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
       "Call_of_Duty___Modern_Warfare__3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
-  },
-  "42700": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Call_of_Duty_-_Black_Ops"
-    ],
-    "name": "Call of Duty\u00ae: Black Ops"
   },
   "427290": {
     "config_count": 1,
@@ -38670,7 +38657,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2852,
+    "config_count": 2854,
     "devices": [
       {
         "d": "G52_MC2",
