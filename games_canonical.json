@@ -3445,6 +3445,20 @@
     ],
     "name": "ULTRAKILL"
   },
+  "1230140": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "A528B",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "ATRI_-My_Dear_Moments-"
+    ],
+    "name": "Atri -My Dear Moments-"
+  },
   "1230530": {
     "config_count": 7,
     "devices": [
@@ -4094,7 +4108,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 55,
+    "config_count": 54,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4221,8 +4235,7 @@
       "Need_for_Speed_-_Most_Wanted",
       "Need_for_Speed__Most_Wanted_2005",
       "Need_for_Speed__Most_wanted__2012_",
-      "need_for_speed_most_wa",
-      "need_for_speed_most_wanted_2005"
+      "need_for_speed_most_wa"
     ],
     "name": "Need for Speed\u2122 Most Wanted"
   },
@@ -5632,6 +5645,20 @@
       "Undisputed"
     ],
     "name": "Undisputed"
+  },
+  "1451940": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "A528B",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "NEEDY_GIRL_OVERDOSE"
+    ],
+    "name": "Needy Girl Overdose"
   },
   "1460490": {
     "config_count": 1,
@@ -10261,6 +10288,20 @@
       "Assassin_s_Creed__Revelations"
     ],
     "name": "Assassin's Creed\u00ae Revelations"
+  },
+  "2019300": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "A528B",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Dokimon_Quest"
+    ],
+    "name": "Dokimon Quest"
   },
   "202170": {
     "config_count": 70,
@@ -15368,7 +15409,7 @@
     "name": "Wasteland 2: Director's Cut"
   },
   "241540": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G78",
@@ -15387,7 +15428,8 @@
       }
     ],
     "folders": [
-      "State_of_Decay"
+      "State_of_Decay",
+      "StateOfDecay"
     ],
     "name": "State of Decay"
   },
@@ -17476,12 +17518,17 @@
     "name": "Ori and the Blind Forest"
   },
   "262060": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__22",
         "m": "Retroid_Pocket_G2",
         "s": "Adreno (TM) 22"
+      },
+      {
+        "d": "Adreno__TM__642L",
+        "m": "A528B",
+        "s": "Adreno (TM) 642L"
       }
     ],
     "folders": [
@@ -18947,6 +18994,14 @@
       "TwoSides"
     ],
     "name": "Two Sides"
+  },
+  "2854740": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Nunholy"
+    ],
+    "name": "Nunholy"
   },
   "2856190": {
     "config_count": 106,
@@ -27310,7 +27365,7 @@
     "name": "FINAL FANTASY VIII"
   },
   "391540": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -30524,7 +30579,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -30554,7 +30609,6 @@
     ],
     "folders": [
       "State_of_Decay_2__Juggernaut_Edition",
-      "StateOfDecay",
       "StateOfDecay2"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
@@ -32491,7 +32545,7 @@
     "name": "Griftlands"
   },
   "606150": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "G720_MC7",
@@ -32502,6 +32556,11 @@
         "d": "Adreno__TM__660",
         "m": "motorola_edge_30_fusion",
         "s": "Adreno (TM) 660"
+      },
+      {
+        "d": "Adreno__TM__642L",
+        "m": "A528B",
+        "s": "Adreno (TM) 642L"
       }
     ],
     "folders": [
@@ -38495,6 +38554,14 @@
       "Need_for_Speed_Black_Edition_"
     ],
     "name": "Need For Speed Black Edition"
+  },
+  "name:need-for-speed-most-wanted-2005": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "need_for_speed_most_wanted_2005"
+    ],
+    "name": "Need For Speed Most Wanted 2005"
   },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 1,
