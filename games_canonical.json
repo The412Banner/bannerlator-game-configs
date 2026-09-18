@@ -4108,7 +4108,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 55,
+    "config_count": 53,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4214,11 +4214,6 @@
         "d": "Adreno__TM__650",
         "m": "22021211RG",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
       }
     ],
     "folders": [
@@ -4234,9 +4229,7 @@
       "Need_For_Speed_Most_Wanted_",
       "Need_for_Speed_-_Most_Wanted",
       "Need_for_Speed__Most_Wanted_2005",
-      "Need_for_Speed__Most_wanted__2012_",
-      "need_for_speed_most_wa",
-      "need_for_speed_most_wanted_2005"
+      "need_for_speed_most_wa"
     ],
     "name": "Need for Speed\u2122 Most Wanted"
   },
@@ -5897,7 +5890,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 94,
+    "config_count": 92,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -7769,7 +7762,7 @@
     "name": "Persona 5 Royal"
   },
   "1693980": {
-    "config_count": 21,
+    "config_count": 24,
     "devices": [
       {
         "d": "G68",
@@ -7819,7 +7812,8 @@
     ],
     "folders": [
       "Dead_Space",
-      "Dead_Space__"
+      "Dead_Space__",
+      "Dead_Space_2"
     ],
     "name": "Dead Space"
   },
@@ -7920,7 +7914,7 @@
     "name": "Kusan: City of Wolves"
   },
   "1715130": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -9638,10 +9632,11 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
-      "MAFIA"
+      "MAFIA",
+      "Mafia"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -10595,7 +10590,7 @@
     "name": "Call of Duty\u00ae: Black Ops II"
   },
   "203140": {
-    "config_count": 35,
+    "config_count": 34,
     "devices": [
       {
         "d": "G610_MC3",
@@ -10670,8 +10665,7 @@
     ],
     "folders": [
       "Hitman__Absolution",
-      "Hitman__Absolution_",
-      "Hitman_-_Absolution"
+      "Hitman__Absolution_"
     ],
     "name": "Hitman: Absolution\u2122"
   },
@@ -11444,7 +11438,7 @@
     "name": "Crysis 2 Remastered"
   },
   "2096610": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "G720_MC7",
@@ -11455,7 +11449,8 @@
     "folders": [
       "Crysis",
       "Crysis_3",
-      "Crysis_3_Remastered"
+      "Crysis_3_Remastered",
+      "Crysis_Remastered"
     ],
     "name": "Crysis 3 Remastered"
   },
@@ -18990,14 +18985,6 @@
     ],
     "name": "BeamNG.drive"
   },
-  "2848230": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "TwoSides"
-    ],
-    "name": "Two Sides"
-  },
   "2854740": {
     "config_count": 1,
     "devices": [],
@@ -19417,7 +19404,7 @@
     "name": "Metro 2033 Redux"
   },
   "2868840": {
-    "config_count": 18,
+    "config_count": 17,
     "devices": [
       {
         "d": "Adreno__TM__613",
@@ -19801,7 +19788,7 @@
     "name": "The Witcher 3 Wild Hunt - Complete Edition"
   },
   "292120": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -19817,6 +19804,11 @@
         "d": "Adreno__TM__740",
         "m": "Odin2_Portal",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "24117RK2CG",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -24181,14 +24173,6 @@
     ],
     "name": "Heavy Weapon Deluxe"
   },
-  "3419290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN"
-  },
   "341940": {
     "config_count": 3,
     "devices": [
@@ -27795,6 +27779,14 @@
     ],
     "name": "The Spike Cross"
   },
+  "3985080": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN - Costume Expansion Pack"
+  },
   "400": {
     "config_count": 4,
     "devices": [],
@@ -28115,14 +28107,6 @@
     ],
     "name": "BioShock\u2122 2 Remastered"
   },
-  "40990": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Mafia"
-    ],
-    "name": "Mafia"
-  },
   "4100940": {
     "config_count": 7,
     "devices": [
@@ -28217,14 +28201,6 @@
       "ZAT"
     ],
     "name": "Z.A.T.O. - Digital Art Pack"
-  },
-  "4123760": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Football_Life_2026"
-    ],
-    "name": "Football Life"
   },
   "413150": {
     "config_count": 6,
@@ -28585,14 +28561,6 @@
       "Furi"
     ],
     "name": "Furi"
-  },
-  "423950": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Deadlight_-_Director_s_Cut"
-    ],
-    "name": "Deadlight: Director's Cut"
   },
   "4241690": {
     "config_count": 1,
@@ -29935,7 +29903,7 @@
     "name": "Human Fall Flat"
   },
   "47780": {
-    "config_count": 18,
+    "config_count": 15,
     "devices": [
       {
         "d": "Retroid_Pocket_5",
@@ -29976,16 +29944,10 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__710",
-        "m": "23122PCD1G",
-        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
-      "Dead_Space__2",
-      "Dead_Space_2"
+      "Dead_Space__2"
     ],
     "name": "Dead Space\u2122 2"
   },
@@ -37380,6 +37342,14 @@
     ],
     "name": "Dbxv"
   },
+  "name:deadlight-director-s-cut": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Deadlight_-_Director_s_Cut"
+    ],
+    "name": "Deadlight Director S Cut"
+  },
   "name:deus-ex-human-revolution-dc": {
     "config_count": 1,
     "devices": [],
@@ -37764,6 +37734,20 @@
     ],
     "name": "Ffxiii"
   },
+  "name:fifa-23": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "FIFA_23"
+    ],
+    "name": "Fifa 23"
+  },
   "name:fifa14": {
     "config_count": 1,
     "devices": [],
@@ -37848,6 +37832,14 @@
       "Final_Fantasy_7_SteamRip__READ_DESCRIPTION_"
     ],
     "name": "Final Fantasy 7 Steamrip Read Description"
+  },
+  "name:football-life-2026": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Football_Life_2026"
+    ],
+    "name": "Football Life 2026"
   },
   "name:frozen-throne": {
     "config_count": 1,
@@ -38159,6 +38151,14 @@
       "HelloNeighbor-Win64-Shipping"
     ],
     "name": "Helloneighbor Win64 Shipping"
+  },
+  "name:hitman-absolution": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Hitman_-_Absolution"
+    ],
+    "name": "Hitman Absolution"
   },
   "name:hitman5": {
     "config_count": 1,
@@ -38590,6 +38590,28 @@
       "Need_for_Speed_Black_Edition_"
     ],
     "name": "Need For Speed Black Edition"
+  },
+  "name:need-for-speed-most-wanted-2005": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "need_for_speed_most_wanted_2005"
+    ],
+    "name": "Need For Speed Most Wanted 2005"
+  },
+  "name:need-for-speed-most-wanted-2012": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
+      }
+    ],
+    "folders": [
+      "Need_for_Speed__Most_wanted__2012_"
+    ],
+    "name": "Need For Speed Most Wanted 2012"
   },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 1,
@@ -40993,6 +41015,14 @@
     ],
     "name": "Skyrimse"
   },
+  "name:slaythespire2": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "SlayTheSpire2"
+    ],
+    "name": "Slaythespire2"
+  },
   "name:snapshot-lewd-shores": {
     "config_count": 1,
     "devices": [],
@@ -41306,6 +41336,14 @@
       "TWFC"
     ],
     "name": "Twfc"
+  },
+  "name:twosides": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "TwoSides"
+    ],
+    "name": "Twosides"
   },
   "name:ucbrowser": {
     "config_count": 1,
