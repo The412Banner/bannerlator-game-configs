@@ -20976,7 +20976,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 44,
+    "config_count": 43,
     "devices": [
       {
         "d": "G78",
@@ -21078,7 +21078,6 @@
       "___3____________",
       "________3_____________",
       "bla",
-      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -28722,6 +28721,20 @@
       "Call_of_Duty___Modern_Warfare__3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
+  },
+  "42700": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Call_of_Duty_-_Black_Ops"
+    ],
+    "name": "Call of Duty\u00ae: Black Ops"
   },
   "427290": {
     "config_count": 1,
@@ -40791,6 +40804,14 @@
       "Rignetta_s_Adventure_ver1"
     ],
     "name": "Rignetta S Adventure Ver1"
+  },
+  "name:rise-of-the-tomb-raider-20-year-celebration": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rise_of_the_Tomb_Raider__20_Year_Celebration"
+    ],
+    "name": "Rise Of The Tomb Raider 20 Year Celebration"
   },
   "name:rise-of-the-tomb-rider": {
     "config_count": 1,
