@@ -25916,7 +25916,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 41,
+    "config_count": 42,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -25987,6 +25987,11 @@
         "d": "Adreno__TM__735",
         "m": "NX9",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "TB322FC",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "G68_MC4",
