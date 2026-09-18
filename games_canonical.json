@@ -13264,7 +13264,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 17,
+    "config_count": 19,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -13303,7 +13303,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -16392,7 +16393,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -19474,7 +19475,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -19515,7 +19516,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -21897,7 +21897,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1537,
+    "config_count": 1538,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24187,14 +24187,6 @@
     ],
     "name": "Heavy Weapon Deluxe"
   },
-  "3419290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN"
-  },
   "341940": {
     "config_count": 3,
     "devices": [
@@ -24451,14 +24443,6 @@
       "GhostSong"
     ],
     "name": "Ghost Song"
-  },
-  "34830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper: Ghost Warrior"
   },
   "3483510": {
     "config_count": 1,
@@ -25800,6 +25784,14 @@
       "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
+  },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
@@ -27445,7 +27437,7 @@
     "name": "MDS: Metro dispatcher simulator"
   },
   "391720": {
-    "config_count": 38,
+    "config_count": 41,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -27800,6 +27792,14 @@
       "The_Spike"
     ],
     "name": "The Spike Cross"
+  },
+  "3985080": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN - Costume Expansion Pack"
   },
   "400": {
     "config_count": 4,
@@ -29429,20 +29429,6 @@
       "Gold_Mining_Simulator"
     ],
     "name": "Gold Mining Simulator"
-  },
-  "4523200": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "I2501",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "SO2R"
-    ],
-    "name": "Diablo II: Resurrected - Original Soundtrack"
   },
   "4533800": {
     "config_count": 1,
@@ -33066,7 +33052,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -33080,8 +33066,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2",
-      "LEGOMARVEL"
+      "LEGO__Marvel_Super_Heroes_2"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -34317,6 +34302,20 @@
       "Russian_Fishing_4"
     ],
     "name": "Russian Fishing 4"
+  },
+  "768520": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "I2501",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "SO2R"
+    ],
+    "name": "Red Solstice 2: Survivors"
   },
   "773700": {
     "config_count": 1,
@@ -40024,7 +40023,7 @@
     "name": "PES 2015"
   },
   "name:pes-2016": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "G57",
