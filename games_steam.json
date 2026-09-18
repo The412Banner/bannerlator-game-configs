@@ -1191,7 +1191,6 @@
   },
   "Call_of_Duty_-_World_at_War": {
     "appid": 10090,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/10090/header.jpg",
     "method": "norm",
     "steam_name": "Call of Duty: World at War"
   },
@@ -2268,6 +2267,10 @@
     "appid": 2507950,
     "method": "naive",
     "steam_name": "Delta Force"
+  },
+  "Delta_Force_Alpha_Test": {
+    "appid": null,
+    "method": "unresolved"
   },
   "Deluge": {
     "appid": 3779440,

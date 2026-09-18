@@ -87,8 +87,8 @@
       }
     ],
     "folders": [
-      "Call_of_Duty__World_at_War",
-      "Call_of_Duty_-_World_at_War"
+      "Call_of_Duty_-_World_at_War",
+      "Call_of_Duty__World_at_War"
     ],
     "name": "Call of Duty: World at War"
   },
@@ -181,7 +181,7 @@
     "name": "The Long Drive"
   },
   "10180": {
-    "config_count": 41,
+    "config_count": 42,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -244,11 +244,6 @@
         "s": "Mali-G720 MC7"
       },
       {
-        "d": "Adreno__TM__740",
-        "m": "S918B",
-        "s": "Adreno (TM) 740"
-      },
-      {
         "d": "Adreno__TM__830",
         "m": "NP05J",
         "s": "Adreno (TM) 830"
@@ -277,6 +272,11 @@
         "d": "Adreno__TM__730",
         "m": "S908N",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S918B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -2712,7 +2712,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 397,
+    "config_count": 398,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -13188,7 +13188,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 20,
+    "config_count": 19,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -13228,8 +13228,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -13731,7 +13730,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 236,
+    "config_count": 237,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -13980,11 +13979,6 @@
       },
       {
         "d": "Adreno__TM__710",
-        "m": "NX1",
-        "s": "Adreno (TM) 710"
-      },
-      {
-        "d": "Adreno__TM__710",
         "m": "2312DRA50G",
         "s": "Adreno (TM) 710"
       },
@@ -14032,6 +14026,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -19368,7 +19367,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -19408,7 +19407,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -20253,7 +20253,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 6,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -20269,16 +20269,10 @@
         "d": "Adreno__TM__725",
         "m": "23049PCD8G",
         "s": "Adreno (TM) 725"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -21778,7 +21772,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1515,
+    "config_count": 1516,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -22606,11 +22600,6 @@
         "s": "Mali-G76"
       },
       {
-        "d": "Adreno__TM__720",
-        "m": "NX9",
-        "s": "Adreno (TM) 720"
-      },
-      {
         "d": "Adreno__TM__730",
         "m": "22081212UG",
         "s": "Adreno (TM) 730"
@@ -22849,6 +22838,11 @@
         "d": "Adreno__TM__735",
         "m": "RMX3851",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "NX9",
+        "s": "Adreno (TM) 720"
       },
       {
         "d": "Adreno__TM__830",
@@ -26938,7 +26932,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 182,
+    "config_count": 183,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -35736,7 +35730,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 8,
     "devices": [
       {
         "d": "G615_MC6",
@@ -35752,10 +35746,16 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
