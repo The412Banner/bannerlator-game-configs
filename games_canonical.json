@@ -4726,14 +4726,6 @@
     ],
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
-  "1328670": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Mass_Effect"
-    ],
-    "name": "Mass Effect\u2122 Legendary Edition"
-  },
   "1330000": {
     "config_count": 1,
     "devices": [],
@@ -8077,7 +8069,7 @@
     "name": "Mirror's Edge\u2122"
   },
   "17460": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -9110,7 +9102,7 @@
     "name": "Baladins"
   },
   "1868140": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -13194,7 +13186,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 17,
+    "config_count": 19,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -13233,7 +13225,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -16308,7 +16301,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 27,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -19372,7 +19365,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -19413,7 +19406,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -32896,7 +32888,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -32910,8 +32902,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2",
-      "LEGOMARVEL"
+      "LEGO__Marvel_Super_Heroes_2"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
