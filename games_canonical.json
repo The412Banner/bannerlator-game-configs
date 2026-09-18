@@ -2483,7 +2483,7 @@
     "name": "A Space for the Unbound"
   },
   "1203170": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -2494,6 +2494,11 @@
         "d": "Adreno__TM__735",
         "m": "24069RA21C",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -7673,14 +7678,6 @@
       "Minecraft_Dungeons"
     ],
     "name": "Minecraft Dungeons"
-  },
-  "1675200": {
-    "config_count": 4,
-    "devices": [],
-    "folders": [
-      "Steam"
-    ],
-    "name": "Steam Deck"
   },
   "1676840": {
     "config_count": 1,
@@ -20924,7 +20921,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 45,
+    "config_count": 43,
     "devices": [
       {
         "d": "G78",
@@ -21830,7 +21827,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1528,
+    "config_count": 1529,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -26062,7 +26059,7 @@
     "name": "HELLMART"
   },
   "3764200": {
-    "config_count": 34,
+    "config_count": 35,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -26981,7 +26978,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 183,
+    "config_count": 184,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -27149,11 +27146,6 @@
         "s": "Adreno (TM) 750"
       },
       {
-        "d": "Adreno__TM__710",
-        "m": "NX1",
-        "s": "Adreno (TM) 710"
-      },
-      {
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
@@ -27287,6 +27279,11 @@
         "d": "Adreno__TM__830",
         "m": "NX789J_V1B",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
@@ -28299,6 +28296,14 @@
     ],
     "name": "My Winter Car"
   },
+  "4165890": {
+    "config_count": 4,
+    "devices": [],
+    "folders": [
+      "Steam"
+    ],
+    "name": "Steam Frame"
+  },
   "418240": {
     "config_count": 1,
     "devices": [],
@@ -28410,6 +28415,21 @@
       "F1_2025"
     ],
     "name": "DCS: F-16C Sentry Pacific 2025 Campaign by SOB Simulations"
+  },
+  "4200780": {
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "BlackOps",
+      "Call_of_Duty_-_Black_Ops"
+    ],
+    "name": "Call of Duty\u00ae: Black Ops 7 - BlackCell (Season 06)"
   },
   "420530": {
     "config_count": 1,
@@ -28653,20 +28673,6 @@
       "Call_of_Duty___Modern_Warfare__3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
-  },
-  "42700": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Call_of_Duty_-_Black_Ops"
-    ],
-    "name": "Call of Duty\u00ae: Black Ops"
   },
   "427290": {
     "config_count": 1,
@@ -32328,7 +32334,7 @@
     "name": "Attack on Titan 2 - A.O.T.2"
   },
   "601150": {
-    "config_count": 43,
+    "config_count": 44,
     "devices": [
       {
         "d": "unknown",
@@ -32504,17 +32510,12 @@
     "name": "Moonlighter"
   },
   "606280": {
-    "config_count": 9,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__710",
         "m": "23122PCD1I",
         "s": "Adreno (TM) 710"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
       },
       {
         "d": "Immortalis_MC12",
@@ -32523,8 +32524,7 @@
       }
     ],
     "folders": [
-      "Darksiders_III",
-      "Darksiders"
+      "Darksiders_III"
     ],
     "name": "Darksiders III"
   },
@@ -38863,7 +38863,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2861,
+    "config_count": 2862,
     "devices": [
       {
         "d": "G52_MC2",
