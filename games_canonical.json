@@ -1127,7 +1127,7 @@
     "name": "Commandos 2 - HD Remaster"
   },
   "1103780": {
-    "config_count": 34,
+    "config_count": 35,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -1218,6 +1218,16 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "23122PCD1G",
+        "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "V2502",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
@@ -4726,6 +4736,14 @@
     ],
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
+  "1328670": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Mass_Effect"
+    ],
+    "name": "Mass Effect\u2122 Legendary Edition"
+  },
   "1330000": {
     "config_count": 1,
     "devices": [],
@@ -8069,7 +8087,7 @@
     "name": "Mirror's Edge\u2122"
   },
   "17460": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -9102,7 +9120,7 @@
     "name": "Baladins"
   },
   "1868140": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -16302,7 +16320,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 28,
+    "config_count": 27,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -32888,7 +32906,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -32902,7 +32920,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2"
+      "LEGO__Marvel_Super_Heroes_2",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
