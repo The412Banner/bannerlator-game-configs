@@ -4108,7 +4108,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 54,
+    "config_count": 55,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4214,6 +4214,11 @@
         "d": "Adreno__TM__650",
         "m": "22021211RG",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
       }
     ],
     "folders": [
@@ -4229,6 +4234,7 @@
       "Need_For_Speed_Most_Wanted_",
       "Need_for_Speed_-_Most_Wanted",
       "Need_for_Speed__Most_Wanted_2005",
+      "Need_for_Speed__Most_wanted__2012_",
       "need_for_speed_most_wa",
       "need_for_speed_most_wanted_2005"
     ],
@@ -4758,6 +4764,14 @@
       "Need_for_Speed_Hot_Pursuit"
     ],
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
+  },
+  "1328670": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Mass_Effect"
+    ],
+    "name": "Mass Effect\u2122 Legendary Edition"
   },
   "1330000": {
     "config_count": 1,
@@ -6478,7 +6492,7 @@
     "name": "LEGO\u00ae Skylines"
   },
   "1574140": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -6487,6 +6501,7 @@
       }
     ],
     "folders": [
+      "DiRT4",
       "Dirt4"
     ],
     "name": "TIME FOR YOU - CHAPTER 02 - DIRTY THOUGHTS AND CORPORATE BOTS"
@@ -8379,7 +8394,7 @@
     "name": "SBK\u212222"
   },
   "1790600": {
-    "config_count": 157,
+    "config_count": 162,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -8615,12 +8630,24 @@
         "d": "Adreno__TM__830",
         "m": "N49",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "NX789J_V1B",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Immortalis_MC11",
+        "m": "G715",
+        "s": "Mali-G715-Immortalis MC11"
       }
     ],
     "folders": [
       "DRAGON_BALL_Sparking__ZERO",
       "DRAGON_BALL__Sparking__ZERO",
-      "SPARKING_ZERO"
+      "DragonBall_SparkingZERO",
+      "SPARKING_ZERO",
+      "SparkingZERO"
     ],
     "name": "DRAGON BALL: Sparking! ZERO"
   },
@@ -8840,7 +8867,7 @@
     "name": "Asphalt Legends "
   },
   "1817070": {
-    "config_count": 22,
+    "config_count": 23,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -8910,7 +8937,8 @@
     ],
     "folders": [
       "Marvel_s_Spider-Man_Remastered",
-      "REM"
+      "REM",
+      "Spider-man_Remastered"
     ],
     "name": "Marvel\u2019s Spider-Man Remastered"
   },
@@ -12625,7 +12653,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 111,
+    "config_count": 112,
     "devices": [
       {
         "d": "S938B",
@@ -12797,6 +12825,7 @@
       "Far_Cry_3",
       "Far_Cry_3___________________________________________________",
       "Far_Cry__3",
+      "FAR_CRY_3",
       "farcry3"
     ],
     "name": "Far Cry 3"
@@ -13235,7 +13264,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 19,
+    "config_count": 17,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -13274,8 +13303,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -13329,7 +13357,7 @@
     "name": "Command & Conquer\u2122 Generals"
   },
   "22300": {
-    "config_count": 18,
+    "config_count": 17,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -13365,8 +13393,7 @@
     "folders": [
       "Fallout_3",
       "Fallout_3_-_Game_of_the_Year_Edition",
-      "Fallout_3___________________________________________________",
-      "Fallout_3__Game_of_the_Year_Edition"
+      "Fallout_3___________________________________________________"
     ],
     "name": "Fallout 3"
   },
@@ -13466,6 +13493,14 @@
       "Contra_Galuga"
     ],
     "name": "Contra: Operation Galuga"
+  },
+  "22370": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Fallout_3__Game_of_the_Year_Edition"
+    ],
+    "name": "Fallout 3: Game of the Year Edition"
   },
   "22380": {
     "config_count": 17,
@@ -17652,7 +17687,7 @@
     "name": "Subnautica"
   },
   "2651280": {
-    "config_count": 25,
+    "config_count": 24,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -17703,19 +17738,13 @@
         "d": "Adreno__TM__730",
         "m": "motorola_edge_30_ultra",
         "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
       "Activision_Spider-Man_3",
       "Marvel_s_Spider-Man_2",
       "Spider-Man_3",
-      "Spider-Man",
-      "Spider-man_Remastered"
+      "Spider-Man"
     ],
     "name": "Marvel's Spider-Man 2"
   },
@@ -19445,7 +19474,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 34,
     "devices": [
       {
         "d": "G615_MC2",
@@ -19486,6 +19515,7 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
+      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -21867,7 +21897,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1536,
+    "config_count": 1537,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24156,6 +24186,14 @@
       "Heavy_Weapon"
     ],
     "name": "Heavy Weapon Deluxe"
+  },
+  "3419290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN"
   },
   "341940": {
     "config_count": 3,
@@ -27591,7 +27629,7 @@
     "name": "Squad"
   },
   "3937470": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "256",
@@ -27762,14 +27800,6 @@
       "The_Spike"
     ],
     "name": "The Spike Cross"
-  },
-  "3985080": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN - Costume Expansion Pack"
   },
   "400": {
     "config_count": 4,
@@ -29616,6 +29646,14 @@
     ],
     "name": "Casualties: Unknown Demo"
   },
+  "4583890": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GBVSR"
+    ],
+    "name": "GBVSR - Additional Character Set (Id)"
+  },
   "4590200": {
     "config_count": 1,
     "devices": [],
@@ -30110,7 +30148,7 @@
     "name": "Speak Demo"
   },
   "48190": {
-    "config_count": 24,
+    "config_count": 25,
     "devices": [
       {
         "d": "MT6789",
@@ -35394,7 +35432,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 112,
+    "config_count": 113,
     "devices": [
       {
         "d": "s5e8855",
@@ -35582,6 +35620,11 @@
         "s": "PowerVR B-Series BXM-8-256"
       },
       {
+        "d": "Adreno__TM__840",
+        "m": "S948U1",
+        "s": "Adreno (TM) 840"
+      },
+      {
         "d": "G610_MC6",
         "m": "Mali",
         "s": "Mali-G610 MC6"
@@ -35600,6 +35643,7 @@
     "folders": [
       "Resident_Evil_2",
       "Resident_Evil_2_____________________________________________",
+      "Resident_Evil_2__2019_",
       "Resident_Evil_2__DX11_",
       "re2",
       "resident_evil_2"
@@ -36933,14 +36977,6 @@
     ],
     "name": "Assasins Creed Iv Black Flag"
   },
-  "name:assassin-s-creed-brotherhood": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Assassin_s_Creed__Brotherhood"
-    ],
-    "name": "Assassin S Creed Brotherhood"
-  },
   "name:assassinscreed-dx9": {
     "config_count": 2,
     "devices": [],
@@ -37396,20 +37432,6 @@
     ],
     "name": "Dirt Showdown"
   },
-  "name:dirt4": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__650",
-        "m": "G988N",
-        "s": "Adreno (TM) 650"
-      }
-    ],
-    "folders": [
-      "DiRT4"
-    ],
-    "name": "Dirt4"
-  },
   "name:dirtfish-dirt4": {
     "config_count": 1,
     "devices": [],
@@ -37469,20 +37491,6 @@
       "Dragon_Ball_Fighters_Z"
     ],
     "name": "Dragon Ball Fighters Z"
-  },
-  "name:dragonball-sparkingzero": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "NX789J_V1B",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "DragonBall_SparkingZERO"
-    ],
-    "name": "Dragonball Sparkingzero"
   },
   "name:dragonballzkakarot": {
     "config_count": 1,
@@ -37702,14 +37710,6 @@
     ],
     "name": "Fallout New Vegas Pcr"
   },
-  "name:far-cry-3": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "FAR_CRY_3"
-    ],
-    "name": "Far Cry 3"
-  },
   "name:far-cry-3-language-selector": {
     "config_count": 2,
     "devices": [
@@ -37884,14 +37884,6 @@
       "GAVI_PATCH"
     ],
     "name": "Gavi Patch"
-  },
-  "name:gbvsr": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GBVSR"
-    ],
-    "name": "Gbvsr"
   },
   "name:ge2rb": {
     "config_count": 1,
@@ -38397,14 +38389,6 @@
     ],
     "name": "Marvel S Guardians Of The Galaxy The Telltale Series"
   },
-  "name:mass-effect": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Mass_Effect"
-    ],
-    "name": "Mass Effect"
-  },
   "name:medal-of-honor-warfighter": {
     "config_count": 1,
     "devices": [],
@@ -38604,20 +38588,6 @@
       "Need_for_Speed_Black_Edition_"
     ],
     "name": "Need For Speed Black Edition"
-  },
-  "name:need-for-speed-most-wanted-2012": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
-      }
-    ],
-    "folders": [
-      "Need_for_Speed__Most_wanted__2012_"
-    ],
-    "name": "Need For Speed Most Wanted 2012"
   },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 1,
@@ -40845,20 +40815,6 @@
     ],
     "name": "Reschanger"
   },
-  "name:resident-evil-2-2019": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "S948U1",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "Resident_Evil_2__2019_"
-    ],
-    "name": "Resident Evil 2 2019"
-  },
   "name:resident-evil-2-dx11": {
     "config_count": 1,
     "devices": [],
@@ -40955,14 +40911,6 @@
       "rungame"
     ],
     "name": "Rungame"
-  },
-  "name:sally-face": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sally_Face"
-    ],
-    "name": "Sally Face"
   },
   "name:sdhdship": {
     "config_count": 3,
@@ -41066,25 +41014,6 @@
       "SOTTR"
     ],
     "name": "Sottr"
-  },
-  "name:sparkingzero": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      },
-      {
-        "d": "Immortalis_MC11",
-        "m": "G715",
-        "s": "Mali-G715-Immortalis MC11"
-      }
-    ],
-    "folders": [
-      "SparkingZERO"
-    ],
-    "name": "Sparkingzero"
   },
   "name:sparkingzero-win64-shipping": {
     "config_count": 3,
