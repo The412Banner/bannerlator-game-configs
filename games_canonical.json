@@ -2144,7 +2144,7 @@
     "name": "FINAL FANTASY"
   },
   "1174180": {
-    "config_count": 51,
+    "config_count": 52,
     "devices": [
       {
         "d": "SM8750P",
@@ -2212,11 +2212,6 @@
         "s": "Mali-G720 MC7"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "S928B",
-        "s": "Adreno (TM) 750"
-      },
-      {
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
@@ -2260,6 +2255,11 @@
         "d": "Adreno__TM__650",
         "m": "motorola_edge_20_pro",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "S928B",
+        "s": "Adreno (TM) 750"
       },
       {
         "d": "Adreno__TM__650",
@@ -23593,7 +23593,7 @@
     "name": "Five Nights at Freddy's 2"
   },
   "33320": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "G615_MC2",
