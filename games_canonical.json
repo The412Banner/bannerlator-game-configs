@@ -1688,7 +1688,7 @@
     "name": "Ready or Not"
   },
   "1145350": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -1714,6 +1714,11 @@
         "d": "Adreno__TM__640",
         "m": "Redmi_K20_Pro",
         "s": "Adreno (TM) 640"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "CPH2747",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__840",
@@ -2478,7 +2483,7 @@
     "name": "A Space for the Unbound"
   },
   "1203170": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -2489,11 +2494,6 @@
         "d": "Adreno__TM__735",
         "m": "24069RA21C",
         "s": "Adreno (TM) 735"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -2732,7 +2732,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 398,
+    "config_count": 399,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3115,11 +3115,6 @@
         "s": "Mali-G615 MC2"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__740",
         "m": "S918B",
         "s": "Adreno (TM) 740"
@@ -3133,6 +3128,11 @@
         "d": "Adreno__TM__830",
         "m": "RMX5011",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__735",
@@ -6595,7 +6595,7 @@
     "name": "Cairn"
   },
   "1593500": {
-    "config_count": 154,
+    "config_count": 155,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -6748,11 +6748,6 @@
         "s": "Adreno (TM) 840"
       },
       {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
         "d": "Adreno__TM__829",
         "m": "I2508",
         "s": "Adreno (TM) 829"
@@ -6831,6 +6826,11 @@
         "d": "Adreno__TM__830",
         "m": "V2408A",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__619",
@@ -9586,8 +9586,14 @@
     "name": "Fifa 19"
   },
   "1938090": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__650",
+        "m": "motorola_edge_20_pro",
+        "s": "Adreno (TM) 650"
+      }
+    ],
     "folders": [
       "Call_Of_Duty_MW2"
     ],
@@ -13214,7 +13220,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -13254,7 +13260,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev"
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -13756,7 +13763,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 237,
+    "config_count": 238,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -14029,11 +14036,6 @@
         "s": "PowerVR B-Series BXM-8-256"
       },
       {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
-      },
-      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
@@ -14057,6 +14059,11 @@
         "d": "Adreno__TM__710",
         "m": "NX1",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -16343,7 +16350,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -19412,7 +19419,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -19452,8 +19459,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -25684,7 +25690,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 14,
+    "config_count": 13,
     "devices": [
       {
         "d": "G68_MC4",
@@ -25705,22 +25711,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "2211133C",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE",
-      "Ori"
+      "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -28857,18 +28852,29 @@
     "name": "Bruisers 2D Boxing Demo"
   },
   "435150": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
-      "Divinity_-_Original_Sin_2_-_Definitive_Edition"
+      "Divinity_-_Original_Sin_2_-_Definitive_Edition",
+      "Ori"
     ],
-    "name": "Divinity - Original Sin 2 - Definitive Edition"
+    "name": "Divinity: Original Sin 2 - Definitive Edition"
   },
   "4355320": {
     "config_count": 16,
@@ -32485,12 +32491,17 @@
     "name": "Moonlighter"
   },
   "606280": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__710",
         "m": "23122PCD1I",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
       },
       {
         "d": "Immortalis_MC12",
@@ -32499,7 +32510,8 @@
       }
     ],
     "folders": [
-      "Darksiders_III"
+      "Darksiders_III",
+      "Darksiders"
     ],
     "name": "Darksiders III"
   },
@@ -32940,7 +32952,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -32954,8 +32966,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2",
-      "LEGOMARVEL"
+      "LEGO__Marvel_Super_Heroes_2"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
