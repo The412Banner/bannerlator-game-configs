@@ -4679,12 +4679,17 @@
     "name": "Nioh 2 \u2013 The Complete Edition"
   },
   "1326470": {
-    "config_count": 6,
+    "config_count": 8,
     "devices": [
       {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2012K11AG",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
@@ -12136,7 +12141,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 104,
+    "config_count": 105,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -12192,11 +12197,6 @@
         "d": "G610_MC6",
         "m": "Mali",
         "s": "Mali-G610 MC6"
-      },
-      {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__725",
@@ -12272,6 +12272,11 @@
         "d": "Adreno__TM__618",
         "m": "moto_g_60_",
         "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
@@ -13189,7 +13194,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 20,
+    "config_count": 17,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -13228,9 +13233,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -19369,7 +19372,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 34,
     "devices": [
       {
         "d": "G615_MC2",
@@ -19409,7 +19412,9 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -21773,7 +21778,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1516,
+    "config_count": 1520,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -27322,7 +27327,7 @@
     "name": "MDS: Metro dispatcher simulator"
   },
   "391720": {
-    "config_count": 33,
+    "config_count": 35,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -27388,6 +27393,11 @@
         "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
         "m": "A566E",
         "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       }
     ],
     "folders": [
@@ -28655,6 +28665,20 @@
       "Factorio"
     ],
     "name": "Factorio"
+  },
+  "428690": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Immortalis_MC12",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC12"
+      }
+    ],
+    "folders": [
+      "YoutubersLife"
+    ],
+    "name": "Youtubers Life"
   },
   "429050": {
     "config_count": 2,
@@ -32827,7 +32851,7 @@
     "name": "Slay the Spire"
   },
   "646910": {
-    "config_count": 19,
+    "config_count": 18,
     "devices": [
       {
         "d": "SM8750P",
