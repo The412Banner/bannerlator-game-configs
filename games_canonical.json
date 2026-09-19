@@ -16374,7 +16374,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 29,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -30993,7 +30993,7 @@
     "name": "Celeste"
   },
   "5067360": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__618",
@@ -31004,6 +31004,11 @@
         "d": "256",
         "m": "8",
         "s": "PowerVR B-Series BXM-8-256"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "V2502",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
@@ -33060,7 +33065,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -33074,7 +33079,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2"
+      "LEGO__Marvel_Super_Heroes_2",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -40068,7 +40074,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 207,
+    "config_count": 208,
     "devices": [
       {
         "d": "G615_MC2",
@@ -40329,6 +40335,11 @@
         "d": "Adreno__TM__710",
         "m": "moto_g67_power_5G",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g84_5G",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__740",
