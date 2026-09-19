@@ -2482,7 +2482,7 @@
     "name": "A Space for the Unbound"
   },
   "1203170": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -2493,6 +2493,11 @@
         "d": "Adreno__TM__735",
         "m": "24069RA21C",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -33061,8 +33066,14 @@
     "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 4K/HD EDITION"
   },
   "646570": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "A528B",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
     "folders": [
       "Slay_the_Spire"
     ],
@@ -33818,22 +33829,16 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__A32",
         "m": "Pocket_Fit_G3_Gen3",
         "s": "Adreno (TM) A32"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "Darksiders_Genesis",
-      "Darksiders",
       "DarksidersGenesis"
     ],
     "name": "Darksiders Genesis"
