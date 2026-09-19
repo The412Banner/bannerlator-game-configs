@@ -5251,7 +5251,7 @@
     "name": "Midnight Fight Express"
   },
   "1392860": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -18724,6 +18724,14 @@
     ],
     "name": "Dynasty Warriors 8 - Xtreme Legends Complete Edition"
   },
+  "2787680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Candy Rangers"
+  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -18815,14 +18823,6 @@
       "Battlefield__6"
     ],
     "name": "Battlefield\u2122 6"
-  },
-  "2812820": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Pape Rangers"
   },
   "2815070": {
     "config_count": 2,
@@ -33419,7 +33419,7 @@
     "name": "GameGuru Starter Bundle"
   },
   "678950": {
-    "config_count": 47,
+    "config_count": 48,
     "devices": [
       {
         "d": "G68_MC4",
@@ -33497,11 +33497,6 @@
         "s": "Adreno (TM) 750"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__825",
         "m": "25053RT47C",
         "s": "Adreno (TM) 825"
@@ -33510,6 +33505,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__619",
@@ -40975,6 +40975,14 @@
       "Rocket_League_"
     ],
     "name": "Rocket League"
+  },
+  "name:rocketleague": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "RocketLeague"
+    ],
+    "name": "Rocketleague"
   },
   "name:rottr": {
     "config_count": 8,
