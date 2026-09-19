@@ -30021,7 +30021,7 @@
     "name": "Human Fall Flat"
   },
   "47780": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "Retroid_Pocket_5",
@@ -30067,6 +30067,11 @@
         "d": "Adreno__TM__710",
         "m": "23122PCD1G",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
