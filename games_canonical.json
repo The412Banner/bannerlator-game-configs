@@ -5251,7 +5251,7 @@
     "name": "Midnight Fight Express"
   },
   "1392860": {
-    "config_count": 9,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -17847,7 +17847,7 @@
     "name": "POOLS"
   },
   "2668510": {
-    "config_count": 44,
+    "config_count": 45,
     "devices": [
       {
         "d": "SM8635",
@@ -18724,14 +18724,6 @@
     ],
     "name": "Dynasty Warriors 8 - Xtreme Legends Complete Edition"
   },
-  "2787680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Candy Rangers"
-  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -18823,6 +18815,14 @@
       "Battlefield__6"
     ],
     "name": "Battlefield\u2122 6"
+  },
+  "2812820": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Pape Rangers"
   },
   "2815070": {
     "config_count": 2,
@@ -21493,7 +21493,7 @@
     "name": "Assassin\u2019s Creed Shadows"
   },
   "3164500": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "G52",
@@ -21514,6 +21514,11 @@
         "d": "Adreno__TM__618",
         "m": "V2061",
         "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "22081212UG",
+        "s": "Adreno (TM) 730"
       }
     ],
     "folders": [
@@ -23409,14 +23414,6 @@
       "Heretic___Hexen"
     ],
     "name": "Heretic + Hexen"
-  },
-  "3287490": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GBVSR"
-    ],
-    "name": "GBVSR - Deluxe Character Pass 2"
   },
   "3287520": {
     "config_count": 1,
@@ -29701,6 +29698,14 @@
       "Casualties__Unknown_Demo"
     ],
     "name": "Casualties: Unknown Demo"
+  },
+  "4583890": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GBVSR"
+    ],
+    "name": "GBVSR - Additional Character Set (Id)"
   },
   "4590200": {
     "config_count": 1,
@@ -39029,7 +39034,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2863,
+    "config_count": 2864,
     "devices": [
       {
         "d": "G52_MC2",
@@ -40793,8 +40798,14 @@
     "name": "Pro Evolution Soccer 2013 Qpes"
   },
   "name:pro-evolution-soccer-2017": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
     "folders": [
       "Pro_evolution_soccer_2017"
     ],
