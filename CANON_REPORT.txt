@@ -1,16 +1,16 @@
-raw folders: 2654   total configs: 14486
+raw folders: 2654   total configs: 14490
 non-game (filtered out): 138
-MERGED canonical games (have appid): 2005
-  folders collapsed by merge: 653
+MERGED canonical games (have appid): 2026
+  folders collapsed by merge: 639
 still-unresolved real games (no appid): 622
-GAME-COUNT RATE: 2005/2627 = 76%  (vs 67% raw baseline)
-CONFIG-COVERAGE (matters for matching): 14558/15662 = 93%
+GAME-COUNT RATE: 2026/2648 = 77%  (vs 67% raw baseline)
+CONFIG-COVERAGE (matters for matching): 14561/15667 = 93%
 top-merged examples:
-  appid 1665460: 20 folders, 96 configs, 25 devices  ['PES', 'PES_13', 'PES_2013']
+  appid 1665460: 21 folders, 97 configs, 25 devices  ['PES', 'PES_13', 'PES_2013']
   appid name:pes-2013: 16 folders, 2864 configs, 189 devices  ['PES2013', 'PES_2013_Fix', 'PES_2013_LEND_RIO_']
-  appid 1262560: 15 folders, 55 configs, 22 devices  ['Need_For_Speed__Most_Wanted__2005_', 'Need_for_Speed_-_Most_Wanted________________________________', 'Need_for_Speed_Most_Wanted']
   appid 1506830: 14 folders, 94 configs, 35 devices  ['FIFA_06_____________________________________________________', 'FIFA_13', 'FIFA_14']
-  appid 3240220: 13 folders, 1542 configs, 238 devices  ['Grand_Theft_Auto_5', 'Grand_Theft_Auto_V', 'Grand_Theft_Auto_V_']
+  appid 1262560: 14 folders, 54 configs, 22 devices  ['Need_For_Speed__Most_Wanted__2005_', 'Need_for_Speed_-_Most_Wanted________________________________', 'Need_for_Speed_Most_Wanted']
+  appid 3240220: 12 folders, 1542 configs, 238 devices  ['Grand_Theft_Auto_5', 'Grand_Theft_Auto_V', 'Grand_Theft_Auto_V_']
+  appid 374320: 10 folders, 45 configs, 19 devices  ['DARKSOULS', 'DARK_SOULS', 'DARK_SOULS__III']
   appid 311210: 9 folders, 45 configs, 18 devices  ['BlackOps', 'Call_of_Duty_', 'Call_of_Duty_3______________________________________________']
-  appid 374320: 9 folders, 42 configs, 18 devices  ['DARKSOULS', 'DARK_SOULS', 'DARK_SOULS__III']
   appid 2050650: 9 folders, 81 configs, 20 devices  ['RE4', 'RE_4', 'Re4']
