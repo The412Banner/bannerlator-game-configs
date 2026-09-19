@@ -7769,7 +7769,7 @@
     "name": "Persona 5 Royal"
   },
   "1693980": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "G68",
@@ -7815,6 +7815,11 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "I2218",
+        "s": "Adreno (TM) 720"
       }
     ],
     "folders": [
@@ -21915,7 +21920,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1540,
+    "config_count": 1541,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -28646,7 +28651,7 @@
     "name": "Iron Snout"
   },
   "424840": {
-    "config_count": 12,
+    "config_count": 14,
     "devices": [
       {
         "d": "Adreno__TM__660",
@@ -28662,6 +28667,11 @@
         "d": "Adreno__TM__640",
         "m": "M2102J20SG",
         "s": "Adreno (TM) 640"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__829",
