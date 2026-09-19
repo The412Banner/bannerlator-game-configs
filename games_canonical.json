@@ -13281,7 +13281,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -13321,7 +13321,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev"
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -19514,7 +19515,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -19554,8 +19555,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -19841,7 +19841,7 @@
     "name": "The Witcher 3 Wild Hunt - Complete Edition"
   },
   "292120": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -19857,11 +19857,6 @@
         "d": "Adreno__TM__740",
         "m": "Odin2_Portal",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "24117RK2CG",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -21941,7 +21936,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1541,
+    "config_count": 1542,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -23415,6 +23410,14 @@
     ],
     "name": "Heretic + Hexen"
   },
+  "3287490": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GBVSR"
+    ],
+    "name": "GBVSR - Deluxe Character Pass 2"
+  },
   "3287520": {
     "config_count": 1,
     "devices": [],
@@ -24235,14 +24238,6 @@
       "Heavy_Weapon"
     ],
     "name": "Heavy Weapon Deluxe"
-  },
-  "3419290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN"
   },
   "341940": {
     "config_count": 3,
@@ -27863,6 +27858,14 @@
     ],
     "name": "The Spike Cross"
   },
+  "3985080": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN - Costume Expansion Pack"
+  },
   "400": {
     "config_count": 4,
     "devices": [],
@@ -29698,14 +29701,6 @@
       "Casualties__Unknown_Demo"
     ],
     "name": "Casualties: Unknown Demo"
-  },
-  "4583890": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GBVSR"
-    ],
-    "name": "GBVSR - Additional Character Set (Id)"
   },
   "4590200": {
     "config_count": 1,
@@ -40596,7 +40591,7 @@
     "name": "PES 5"
   },
   "name:pes-6": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__740",
