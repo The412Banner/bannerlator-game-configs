@@ -7038,6 +7038,12 @@
     "method": "naive",
     "steam_name": "Off The Grid"
   },
+  "Omega_Strike": {
+    "appid": 1869590,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1869590/header.jpg",
+    "method": "norm",
+    "steam_name": "Omega Strikers"
+  },
   "One-armed_cook": {
     "appid": 1977530,
     "method": "naive",
@@ -9233,6 +9239,10 @@
     "steam_name": "Marvel's Spider-Man 2"
   },
   "Spider-Man_Shattered_Dimensions": {
+    "appid": null,
+    "method": "unresolved"
+  },
+  "Spider-Man__Web_of_Shadows": {
     "appid": null,
     "method": "unresolved"
   },
