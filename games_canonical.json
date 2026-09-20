@@ -7390,7 +7390,7 @@
     "name": "HITMAN World of Assassination"
   },
   "1659420": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -7411,6 +7411,11 @@
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47I",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Immortalis_MC11",
@@ -22092,7 +22097,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1561,
+    "config_count": 1562,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -31181,6 +31186,20 @@
       "Batman___Arkham_VR"
     ],
     "name": "Batman\u2122: Arkham VR"
+  },
+  "504210": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "Shenzhen"
+    ],
+    "name": "SHENZHEN I/O"
   },
   "504230": {
     "config_count": 10,
@@ -40371,7 +40390,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 209,
+    "config_count": 210,
     "devices": [
       {
         "d": "G615_MC2",
@@ -40642,6 +40661,11 @@
         "d": "Adreno__TM__810",
         "m": "Infinix_X6878",
         "s": "Adreno (TM) 810"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "M2011K2G",
+        "s": "Adreno (TM) 660"
       },
       {
         "d": "Adreno__TM__740",
