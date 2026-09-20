@@ -4955,14 +4955,6 @@
     ],
     "name": "DRACU-RIOT!"
   },
-  "1340720": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "StateOfDecay"
-    ],
-    "name": "State of Decay 3"
-  },
   "1343240": {
     "config_count": 1,
     "devices": [],
@@ -30839,7 +30831,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -30869,6 +30861,7 @@
     ],
     "folders": [
       "State_of_Decay_2__Juggernaut_Edition",
+      "StateOfDecay",
       "StateOfDecay2"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
@@ -35974,7 +35967,7 @@
     "name": "BioShock\u00ae 2"
   },
   "8870": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "G720_MC7",
@@ -35995,13 +35988,19 @@
         "d": "Adreno__TM__829",
         "m": "I2508",
         "s": "Adreno (TM) 829"
+      },
+      {
+        "d": "Adreno__TM__722",
+        "m": "RMX5131",
+        "s": "Adreno (TM) 722"
       }
     ],
     "folders": [
       "BioShock",
       "BioShock_",
       "BioShock_Infinite",
-      "Bioshock"
+      "Bioshock",
+      "BioShock_Infinite_Complete_Edition"
     ],
     "name": "BioShock Infinite"
   },
