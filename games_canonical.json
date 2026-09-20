@@ -39131,8 +39131,14 @@
     "name": "Nfs13"
   },
   "name:nfsc": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__650",
+        "m": "22021211RG",
+        "s": "Adreno (TM) 650"
+      }
+    ],
     "folders": [
       "NFSC"
     ],
