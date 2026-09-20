@@ -1429,12 +1429,17 @@
     "name": "Persona 4 Golden"
   },
   "1113560": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "26077PC53G",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
@@ -18842,14 +18847,6 @@
     ],
     "name": "Dynasty Warriors 8 - Xtreme Legends Complete Edition"
   },
-  "2787680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Candy Rangers"
-  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -18941,6 +18938,14 @@
       "Battlefield__6"
     ],
     "name": "Battlefield\u2122 6"
+  },
+  "2812820": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Pape Rangers"
   },
   "2815070": {
     "config_count": 2,
