@@ -4659,20 +4659,6 @@
     ],
     "name": "Lost Ruins"
   },
-  "1307710": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "GRID"
-    ],
-    "name": "GRID Legends"
-  },
   "1310510": {
     "config_count": 1,
     "devices": [],
@@ -7832,7 +7818,7 @@
     "name": "Ultra Age"
   },
   "1687950": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -7846,7 +7832,8 @@
       }
     ],
     "folders": [
-      "Persona_5_Royal"
+      "Persona_5_Royal",
+      "P5R"
     ],
     "name": "Persona 5 Royal"
   },
@@ -10795,8 +10782,33 @@
     "name": "Hitman: Absolution\u2122"
   },
   "203160": {
-    "config_count": 13,
+    "config_count": 26,
     "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
+      },
       {
         "d": "Adreno__TM__740",
         "m": "S911U",
@@ -10824,11 +10836,12 @@
       }
     ],
     "folders": [
+      "TombRaider",
       "Tomb_Raider",
       "Tomb_Raider_2013",
       "Tomb_Raider_Game_of_the_Year"
     ],
-    "name": "Tomb Raider"
+    "name": "Tomb Raider Game of the Year"
   },
   "203650": {
     "config_count": 3,
@@ -11554,7 +11567,7 @@
     "name": "Call of Duty\u00ae: Advanced Warfare - Gold Edition"
   },
   "2096600": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G77_MC9",
@@ -11563,7 +11576,8 @@
       }
     ],
     "folders": [
-      "Crysis2"
+      "Crysis2",
+      "Crysis_2"
     ],
     "name": "Crysis 2 Remastered"
   },
@@ -16255,6 +16269,14 @@
       "Assetto_Corsa"
     ],
     "name": "Assetto Corsa"
+  },
+  "244450": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Men_of_War_-_Assault_Squad_2"
+    ],
+    "name": "Men of War: Assault Squad 2"
   },
   "2444750": {
     "config_count": 1,
@@ -22108,7 +22130,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1576,
+    "config_count": 1579,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -23327,6 +23349,7 @@
       "Grand_Theft_Auto_V__________________________________________",
       "PlayGTAV",
       "_____5",
+      "GTA_5",
       "GTA5",
       "GTA_V",
       "Grand_Theft_Auto___V"
@@ -24701,14 +24724,6 @@
     ],
     "name": "Ghost Song"
   },
-  "34830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper: Ghost Warrior"
-  },
   "3483510": {
     "config_count": 1,
     "devices": [
@@ -25786,7 +25801,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -25807,6 +25822,11 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -26041,6 +26061,14 @@
       "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
+  },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
@@ -27297,7 +27325,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 197,
+    "config_count": 184,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -27603,34 +27631,13 @@
         "d": "Adreno__TM__710",
         "m": "NX1",
         "s": "Adreno (TM) 710"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
       "Rise_of_the_Tomb_Raider",
       "Rise_of_the_Tomb_Raider_",
       "Tomb_Raider",
-      "Tomb_Raider_-_Definitive_Edition",
-      "TombRaider"
+      "Tomb_Raider_-_Definitive_Edition"
     ],
     "name": "Rise of the Tomb Raider\u2122"
   },
@@ -30951,7 +30958,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 45,
+    "config_count": 46,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -31054,6 +31061,11 @@
         "s": "Adreno (TM) 830"
       },
       {
+        "d": "Adreno__TM__750",
+        "m": "V2425A",
+        "s": "Adreno (TM) 750"
+      },
+      {
         "d": "Adreno__TM__735",
         "m": "RMX3851",
         "s": "Adreno (TM) 735"
@@ -31069,6 +31081,7 @@
       "The_Witcher_3__Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
+      "Witcher_1",
       "_Witcher",
       "witcher3"
     ],
@@ -33247,14 +33260,6 @@
     ],
     "name": "Journey"
   },
-  "64000": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Men_of_War_-_Assault_Squad_2"
-    ],
-    "name": "Men of War: Assault Squad"
-  },
   "640590": {
     "config_count": 1,
     "devices": [],
@@ -35087,7 +35092,7 @@
     "name": "One Piece Odyssey"
   },
   "814380": {
-    "config_count": 69,
+    "config_count": 70,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -39231,14 +39236,6 @@
     ],
     "name": "Our Cumdump Teacher Repack Games Com"
   },
-  "name:p5r": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "P5R"
-    ],
-    "name": "P5R"
-  },
   "name:patho-genic": {
     "config_count": 1,
     "devices": [],
@@ -41837,20 +41834,6 @@
       "Wasteland_3_Colorado_Survival_Gear_DLC"
     ],
     "name": "Wasteland 3 Colorado Survival Gear Dlc"
-  },
-  "name:witcher-1": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__750",
-        "m": "V2425A",
-        "s": "Adreno (TM) 750"
-      }
-    ],
-    "folders": [
-      "Witcher_1"
-    ],
-    "name": "Witcher 1"
   },
   "name:wizard-school-exchange-student": {
     "config_count": 1,
