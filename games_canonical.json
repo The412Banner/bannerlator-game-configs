@@ -10755,8 +10755,33 @@
     "name": "Hitman: Absolution\u2122"
   },
   "203160": {
-    "config_count": 13,
+    "config_count": 26,
     "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
+      },
       {
         "d": "Adreno__TM__740",
         "m": "S911U",
@@ -10784,11 +10809,12 @@
       }
     ],
     "folders": [
+      "TombRaider",
       "Tomb_Raider",
       "Tomb_Raider_2013",
       "Tomb_Raider_Game_of_the_Year"
     ],
-    "name": "Tomb Raider"
+    "name": "Tomb Raider Game of the Year"
   },
   "203650": {
     "config_count": 3,
@@ -18162,7 +18188,7 @@
     "name": "Metaphor: ReFantazio"
   },
   "2680010": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -25319,42 +25345,16 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 17,
+    "config_count": 4,
     "devices": [
       {
         "d": "G57_MC4",
         "m": "Mali",
         "s": "Mali-G57 MC4"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
-      "Atla",
-      "TombRaider"
+      "Atla"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
