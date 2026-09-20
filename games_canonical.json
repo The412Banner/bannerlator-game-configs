@@ -2493,7 +2493,7 @@
     "name": "A Space for the Unbound"
   },
   "1203170": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -2504,6 +2504,11 @@
         "d": "Adreno__TM__735",
         "m": "24069RA21C",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -6232,6 +6237,20 @@
       "Death_s_Door"
     ],
     "name": "Death's Door Soundtrack"
+  },
+  "1530160": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__710",
+        "m": "I2219",
+        "s": "Adreno (TM) 710"
+      }
+    ],
+    "folders": [
+      "Digimon_World_-_Next_Order"
+    ],
+    "name": "Digimon World - Next Order"
   },
   "1533390": {
     "config_count": 1,
@@ -25801,6 +25820,11 @@
         "d": "Adreno__TM__642L",
         "m": "RMX3363",
         "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "S948U",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
@@ -33456,7 +33480,7 @@
     "name": "Atomic Heart"
   },
   "67370": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -33946,22 +33970,16 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__A32",
         "m": "Pocket_Fit_G3_Gen3",
         "s": "Adreno (TM) A32"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "Darksiders_Genesis",
-      "Darksiders",
       "DarksidersGenesis"
     ],
     "name": "Darksiders Genesis"
@@ -37177,6 +37195,20 @@
     ],
     "name": "Amtrucks"
   },
+  "name:anno-1404-addon-history-edition": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "PLQ110",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "Anno_1404_-_Addon_-_History_Edition"
+    ],
+    "name": "Anno 1404 Addon History Edition"
+  },
   "name:asm2launcher": {
     "config_count": 1,
     "devices": [],
@@ -39180,7 +39212,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2872,
+    "config_count": 2873,
     "devices": [
       {
         "d": "G52_MC2",
