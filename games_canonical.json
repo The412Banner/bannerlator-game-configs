@@ -1668,6 +1668,14 @@
     ],
     "name": "Travellers Rest"
   },
+  "1143810": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Black_Skylands"
+    ],
+    "name": "Black Skylands"
+  },
   "1144200": {
     "config_count": 4,
     "devices": [
@@ -12795,7 +12803,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 112,
+    "config_count": 113,
     "devices": [
       {
         "d": "S938B",
@@ -12908,11 +12916,6 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      },
-      {
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
@@ -12946,6 +12949,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       },
       {
         "d": "Adreno__TM__740",
@@ -33615,7 +33623,7 @@
     "name": "MudRunner"
   },
   "67584": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G68",
@@ -33626,6 +33634,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g84_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
       }
     ],
     "folders": [
