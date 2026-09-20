@@ -22116,7 +22116,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1569,
+    "config_count": 1570,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -23064,11 +23064,6 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "G610_MC6",
-        "m": "Mali",
-        "s": "Mali-G610 MC6"
-      },
-      {
         "d": "PowerVR_Rogue_GE8320",
         "m": "LX2P",
         "s": "PowerVR Rogue GE8320"
@@ -23207,6 +23202,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "G610_MC6",
+        "m": "Mali",
+        "s": "Mali-G610 MC6"
       },
       {
         "d": "Adreno__TM__830",
@@ -41841,7 +41841,7 @@
     "name": "Wwe2K24 X64"
   },
   "name:x-men-origins-wolverine": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "X-Men_Origins_-_Wolverine"
