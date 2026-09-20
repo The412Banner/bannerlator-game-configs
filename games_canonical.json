@@ -4447,6 +4447,14 @@
     ],
     "name": "Monster Hunter Stories 2: Wings of Ruin"
   },
+  "1281630": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Anno_1404_-_History_Edition"
+    ],
+    "name": "Anno 1404 - History Edition"
+  },
   "1283190": {
     "config_count": 1,
     "devices": [],
@@ -4779,14 +4787,6 @@
       "Need_for_Speed_Hot_Pursuit"
     ],
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
-  },
-  "1328670": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Mass_Effect"
-    ],
-    "name": "Mass Effect\u2122 Legendary Edition"
   },
   "1330000": {
     "config_count": 1,
@@ -8176,7 +8176,7 @@
     "name": "Mirror's Edge\u2122"
   },
   "17460": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -13952,7 +13952,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 240,
+    "config_count": 241,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -14120,11 +14120,6 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "G52",
-        "m": "Mali",
-        "s": "Mali-G52"
-      },
-      {
         "d": "Adreno__TM__810",
         "m": "24115RA8EG",
         "s": "Adreno (TM) 810"
@@ -14253,6 +14248,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G52",
+        "m": "Mali",
+        "s": "Mali-G52"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -22089,7 +22089,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1562,
+    "config_count": 1563,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -39284,7 +39284,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2875,
+    "config_count": 2876,
     "devices": [
       {
         "d": "G52_MC2",
