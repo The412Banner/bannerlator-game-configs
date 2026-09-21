@@ -211,6 +211,7 @@
     "VK_com"
   ],
   "1110100": [
+    "BattleForTheGrid",
     "Rangers"
   ],
   "1110910": [
@@ -390,7 +391,6 @@
     "Phonopolis"
   ],
   "1206560": [
-    "GoW",
     "WorldBox_-_God_Simulator",
     "worldbox"
   ],
@@ -1548,6 +1548,9 @@
   "1942280": [
     "Brotato"
   ],
+  "1943950": [
+    "Escape_the_Backrooms"
+  ],
   "1944430": [
     "AmnesiaTheBunker"
   ],
@@ -2312,8 +2315,7 @@
     "Mass_Effect_2"
   ],
   "236430": [
-    "DARK_SOULS__II",
-    "DarkSoulsII"
+    "DARK_SOULS__II"
   ],
   "2365810": [
     "PSE_2013",
@@ -2406,7 +2408,6 @@
     "Wasteland_2_-_Director_s_Cut"
   ],
   "241540": [
-    "StateOfDecay",
     "State_of_Decay"
   ],
   "2416450": [
@@ -2512,6 +2513,9 @@
   ],
   "2458830": [
     "Towerborne"
+  ],
+  "2458980": [
+    "Dimhaven_-_The_Lost_Source"
   ],
   "2463650": [
     "BombSquad"
@@ -2685,7 +2689,6 @@
     "KINGDOM_HEARTS_-_Final_Mix",
     "KINGDOM_HEARTS_-_Final_Mix_HD",
     "KINGDOM_HEARTS_-_HD_1_5_2_5",
-    "KINGDOM_HEARTS_HD_2_8_Final_Chapter_Prologue",
     "mi_1_1"
   ],
   "2552440": [
@@ -3230,6 +3233,7 @@
   "3010850": [
     "Gears_Of_War",
     "Gears_of_War",
+    "Gears_of_War_2",
     "Gears_of_war_2"
   ],
   "3012220": [
@@ -3298,6 +3302,9 @@
   ],
   "3089420": [
     "Prop_Sumo"
+  ],
+  "3091140": [
+    "LootBound"
   ],
   "3092360": [
     "Super_Alloy_Crush"
@@ -3705,9 +3712,6 @@
   "3410": [
     "Heavy_Weapon"
   ],
-  "3419290": [
-    "GodForsaken"
-  ],
   "341940": [
     "Hatred"
   ],
@@ -3982,6 +3986,9 @@
     "The_Seven_Deadly_Sins__Origin",
     "oriDE"
   ],
+  "368070": [
+    "Sniper_Ghost_Warrior_1"
+  ],
   "3681010": [
     "Nioh"
   ],
@@ -4027,6 +4034,7 @@
     "DARK_SOULS_-_REMASTERED",
     "DARK_SOULS_III",
     "DARK_SOULS__III",
+    "DarkSoulsII",
     "DarkSoulsIII",
     "DarkSoulsRemastered",
     "Dark_Souls_III"
@@ -4274,6 +4282,9 @@
   ],
   "3983810": [
     "The_Spike"
+  ],
+  "3985080": [
+    "GodForsaken"
   ],
   "400": [
     "Portal"
@@ -4841,6 +4852,7 @@
     "Borderlands_2"
   ],
   "495420": [
+    "StateOfDecay",
     "StateOfDecay2",
     "State_of_Decay_2__Juggernaut_Edition"
   ],
@@ -4888,6 +4900,9 @@
   "5067360": [
     "Driver",
     "Driver__"
+  ],
+  "5072600": [
+    "FamilyTime"
   ],
   "5112150": [
     "Wolverine"
@@ -4966,8 +4981,7 @@
   ],
   "55230": [
     "SaintsRowTheThird",
-    "Saints_Row__The_Third",
-    "Saints_Row___The_Third__Remastered"
+    "Saints_Row__The_Third"
   ],
   "552520": [
     "Far_Cry_",
@@ -5207,7 +5221,6 @@
     "The_Crew__2"
   ],
   "647830": [
-    "LEGOMARVEL",
     "LEGO__Marvel_Super_Heroes_2"
   ],
   "648350": [
@@ -5794,6 +5807,9 @@
   "977880": [
     "Eastward"
   ],
+  "978300": [
+    "Saints_Row___The_Third__Remastered"
+  ],
   "978780": [
     "STORY_OF_SEASONS_Friends_of_Mineral_Town",
     "STORY_OF_SEASONS__Friends_of_Mineral_Town"
@@ -5908,9 +5924,6 @@
   ],
   "name:batmanac": [
     "BatmanAC"
-  ],
-  "name:battleforthegrid": [
-    "BattleForTheGrid"
   ],
   "name:bbcf": [
     "BBCF"
@@ -6116,9 +6129,6 @@
   "name:ge2rb": [
     "GE2RB"
   ],
-  "name:gears-of-war-2": [
-    "Gears_of_War_2"
-  ],
   "name:gears-of-war-2-hollow": [
     "Gears_of_War_2_Hollow"
   ],
@@ -6242,9 +6252,6 @@
   ],
   "name:little-nightmares-enhanced": [
     "Little_Nightmares_Enhanced"
-  ],
-  "name:lootbound": [
-    "LootBound"
   ],
   "name:lunaabyss-wingdk-shipping": [
     "LunaAbyss-WinGDK-Shipping"
@@ -6594,9 +6601,6 @@
   ],
   "name:snapshot-lewd-shores": [
     "Snapshot__Lewd_Shores"
-  ],
-  "name:sniper-ghost-warrior-1": [
-    "Sniper_Ghost_Warrior_1"
   ],
   "name:sniperv2launcher": [
     "SniperV2Launcher"
