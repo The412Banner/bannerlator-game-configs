@@ -140,8 +140,7 @@
     "Baldur_s_Gate_3"
   ],
   "108710": [
-    "Alan_Wake",
-    "Alan_Wake_Remastered"
+    "Alan_Wake"
   ],
   "1087760": [
     "The_Gunk"
@@ -582,7 +581,6 @@
     "Need_for_Speed_Most_Wanted_",
     "Need_for_Speed_Most_Wanted_2005_____________________________",
     "Need_for_Speed__Most_Wanted",
-    "Need_for_Speed__Most_Wanted_2005",
     "Need_for_Speed__Most_Wanted_________________________________",
     "Need_for_Speed__Most_wanted__2012_",
     "Need_for_Speed_most_wanted",
@@ -696,6 +694,9 @@
     "Need_for_Speed_Hot_Pursuit",
     "Need_for_Speed__Hot_Pursuit_",
     "Need_for_Speed__Hot_Pursuit_Remastered"
+  ],
+  "1328670": [
+    "Mass_Effect"
   ],
   "1330000": [
     "Stolen_Realm"
@@ -1083,9 +1084,6 @@
   "1620730": [
     "Hell_is_Us"
   ],
-  "1621540": [
-    "Spooky_Milk_Life"
-  ],
   "1621690": [
     "CoreKeeper"
   ],
@@ -1389,8 +1387,7 @@
   ],
   "1817070": [
     "Marvel_s_Spider-Man_Remastered",
-    "REM",
-    "Spider-man_Remastered"
+    "REM"
   ],
   "1817190": [
     "Marvel_s_Spider-Man_-_Miles_Morales",
@@ -1649,7 +1646,6 @@
     "SleepingDogs",
     "Sleeping_Dogs",
     "Sleeping_Dogs_",
-    "Sleeping_Dogs_-_Definitive_Edition",
     "Sleeping_Dogs_-_Definitive_Edition__________________________"
   ],
   "202181": [
@@ -1791,7 +1787,6 @@
   ],
   "209000": [
     "BatmanOrigins",
-    "Batman_Arkham_Origins",
     "Batman___Arkham_Origins"
   ],
   "209120": [
@@ -2246,6 +2241,7 @@
     "Sky__Children_of_the_Light"
   ],
   "232890": [
+    "Stronghold_Crusader_HD",
     "__Stronghold_Crusader"
   ],
   "233550": [
@@ -2792,7 +2788,8 @@
     "Activision_Spider-Man_3",
     "Marvel_s_Spider-Man_2",
     "Spider-Man",
-    "Spider-Man_3"
+    "Spider-Man_3",
+    "Spider-man_Remastered"
   ],
   "2651500": [
     "HMA"
@@ -3293,9 +3290,6 @@
   ],
   "3089420": [
     "Prop_Sumo"
-  ],
-  "3091140": [
-    "LootBound"
   ],
   "3092360": [
     "Super_Alloy_Crush"
@@ -3971,9 +3965,6 @@
     "The_Seven_Deadly_Sins__Origin",
     "oriDE"
   ],
-  "368070": [
-    "Sniper_Ghost_Warrior_1"
-  ],
   "3681010": [
     "Nioh"
   ],
@@ -4021,7 +4012,8 @@
     "DARK_SOULS__III",
     "DarkSoulsIII",
     "DarkSoulsRemastered",
-    "Dark_Souls_III"
+    "Dark_Souls_III",
+    "Dark_Souls_Remastered"
   ],
   "3748640": [
     "Wasteland_Bites"
@@ -4345,9 +4337,6 @@
   "40960": [
     "_Stronghold_2"
   ],
-  "40970": [
-    "Stronghold_Crusader_HD"
-  ],
   "409710": [
     "BioShock_Remastered",
     "BioShock__Remastered"
@@ -4480,6 +4469,9 @@
   ],
   "427520": [
     "Factorio"
+  ],
+  "4282640": [
+    "LootBound"
   ],
   "428690": [
     "YoutubersLife"
@@ -4765,7 +4757,6 @@
   ],
   "48190": [
     "Assassin_s_Creed__Brotherhood",
-    "Assassin_s_Creed_brotherhood",
     "Assassin_s_creed_brotherhood",
     "AssassinsCreedBrotherhood"
   ],
@@ -5015,8 +5006,7 @@
   ],
   "570940": [
     "DARK_SOULS__REMASTERED",
-    "DARK_SOULS___REMASTERED",
-    "Dark_Souls_Remastered"
+    "DARK_SOULS___REMASTERED"
   ],
   "571310": [
     "Dig2",
@@ -5871,6 +5861,9 @@
   "name:aio-graphics-test-64bit": [
     "AIO-Graphics-Test-64bit"
   ],
+  "name:alan-wake-remastered": [
+    "Alan_Wake_Remastered"
+  ],
   "name:am2r": [
     "AM2R"
   ],
@@ -5889,6 +5882,9 @@
   "name:assasins-creed-iv-black-flag": [
     "Assasins_Creed_IV_Black_Flag"
   ],
+  "name:assassin-s-creed-brotherhood": [
+    "Assassin_s_Creed_brotherhood"
+  ],
   "name:assassinscreed-dx9": [
     "AssassinsCreed_Dx9"
   ],
@@ -5903,6 +5899,9 @@
   ],
   "name:baldisbasicsplusadvanced": [
     "BaldisBasicsPlusAdvanced"
+  ],
+  "name:batman-arkham-origins": [
+    "Batman_Arkham_Origins"
   ],
   "name:batmanac": [
     "BatmanAC"
@@ -6074,6 +6073,9 @@
   ],
   "name:ffxiii": [
     "FFXIII"
+  ],
+  "name:fifa-13": [
+    "FIFA_13"
   ],
   "name:fifa14": [
     "fifa14"
@@ -6291,6 +6293,9 @@
   ],
   "name:need-for-speed-black-edition": [
     "Need_for_Speed_Black_Edition_"
+  ],
+  "name:need-for-speed-most-wanted-2005": [
+    "Need_for_Speed__Most_Wanted_2005"
   ],
   "name:need-for-speed-most-wanted-black-edition": [
     "Need_For_Speed__Most_Wanted_Black_Edition"
@@ -6581,8 +6586,14 @@
   "name:skyrimse": [
     "SkyrimSE"
   ],
+  "name:sleeping-dogs-definitive-edition": [
+    "Sleeping_Dogs_-_Definitive_Edition"
+  ],
   "name:snapshot-lewd-shores": [
     "Snapshot__Lewd_Shores"
+  ],
+  "name:sniper-ghost-warrior-1": [
+    "Sniper_Ghost_Warrior_1"
   ],
   "name:sniperv2launcher": [
     "SniperV2Launcher"
@@ -6602,6 +6613,9 @@
   ],
   "name:specopstheline": [
     "SpecOpsTheLine"
+  ],
+  "name:spooky-milk-life": [
+    "Spooky_Milk_Life"
   ],
   "name:sr-hv": [
     "sr_hv"
