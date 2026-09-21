@@ -8454,25 +8454,6 @@
     ],
     "name": "Crab Game"
   },
-  "1785910": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "Odin3",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__735",
-        "m": "24069PC21G",
-        "s": "Adreno (TM) 735"
-      }
-    ],
-    "folders": [
-      "SB"
-    ],
-    "name": "SBK\u212222"
-  },
   "1790600": {
     "config_count": 162,
     "devices": [
@@ -9555,7 +9536,7 @@
     "name": "Hexa Td - Free Game"
   },
   "1912410": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G57_MC2",
@@ -13410,7 +13391,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 20,
+    "config_count": 19,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -13450,8 +13431,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -14479,7 +14459,7 @@
     "name": "Universe Sandbox"
   },
   "231120": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -14510,6 +14490,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       }
     ],
     "folders": [
@@ -15045,7 +15030,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 14,
+    "config_count": 17,
     "devices": [
       {
         "d": "G720_MC7",
@@ -15076,10 +15061,21 @@
         "d": "Adreno__TM__710",
         "m": "A366E",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II"
+      "DARK_SOULS__II",
+      "DarkSoulsII"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -18565,6 +18561,25 @@
     ],
     "name": "The Rogue Prince of Persia"
   },
+  "2723810": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
+      }
+    ],
+    "folders": [
+      "SB"
+    ],
+    "name": "SBcatfight game"
+  },
   "272510": {
     "config_count": 10,
     "devices": [
@@ -19676,7 +19691,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -19716,7 +19731,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -26260,7 +26276,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 42,
+    "config_count": 39,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -26338,16 +26354,6 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -26360,7 +26366,6 @@
       "DarkSoulsRemastered",
       "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
-      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -41056,8 +41061,14 @@
     "name": "Pes2018"
   },
   "name:pes2019": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__660",
+        "m": "CPH2307",
+        "s": "Adreno (TM) 660"
+      }
+    ],
     "folders": [
       "PES2019"
     ],
