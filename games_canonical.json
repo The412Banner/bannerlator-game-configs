@@ -912,7 +912,7 @@
     "name": "Baldur's Gate 3"
   },
   "108710": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -941,7 +941,8 @@
       }
     ],
     "folders": [
-      "Alan_Wake"
+      "Alan_Wake",
+      "Alan_Wake_Remastered"
     ],
     "name": "Alan Wake"
   },
@@ -1357,7 +1358,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1366,7 +1367,8 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid"
+      "BattleForTheGrid",
+      "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -4134,7 +4136,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 56,
+    "config_count": 57,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4260,6 +4262,7 @@
       "Need_For_Speed_Most_Wanted",
       "Need_For_Speed_Most_Wanted_",
       "Need_for_Speed_-_Most_Wanted",
+      "Need_for_Speed__Most_Wanted_2005",
       "Need_for_Speed__Most_wanted__2012_",
       "need_for_speed_most_wa",
       "need_for_speed_most_wanted_2005"
@@ -5944,7 +5947,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 92,
+    "config_count": 94,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -7108,6 +7111,14 @@
       "Hell_is_Us"
     ],
     "name": "Hell is Us"
+  },
+  "1621540": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Spooky_Milk_Life"
+    ],
+    "name": "Spooky Milk Life"
   },
   "1621690": {
     "config_count": 1,
@@ -8935,7 +8946,7 @@
     "name": "Asphalt Legends "
   },
   "1817070": {
-    "config_count": 22,
+    "config_count": 23,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -9005,7 +9016,8 @@
     ],
     "folders": [
       "Marvel_s_Spider-Man_Remastered",
-      "REM"
+      "REM",
+      "Spider-man_Remastered"
     ],
     "name": "Marvel\u2019s Spider-Man Remastered"
   },
@@ -9432,6 +9444,14 @@
       "Forza_Horizon_4"
     ],
     "name": "Forza Horizon 5 2017 #25 Ferrari 488"
+  },
+  "1895810": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Infinity_Strash_-_DRAGON_QUEST_The_Adventure_of_Dai"
+    ],
+    "name": "Infinity Strash: DRAGON QUEST The Adventure of Dai"
   },
   "1895880": {
     "config_count": 1,
@@ -10403,7 +10423,7 @@
     "name": "Dokimon Quest"
   },
   "202170": {
-    "config_count": 68,
+    "config_count": 70,
     "devices": [
       {
         "d": "MT6878",
@@ -10569,13 +10589,24 @@
         "d": "Adreno__TM__610",
         "m": "moto_g42",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "Odin2_Portal",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Sleeping_Dogs",
       "Sleeping_Dogs_",
       "Sleeping_Dogs_-_Definitive_Edition__________________________",
-      "SleepingDogs"
+      "SleepingDogs",
+      "Sleeping_Dogs_-_Definitive_Edition"
     ],
     "name": "Sleeping Dogs"
   },
@@ -10678,7 +10709,7 @@
     "name": "Call of Duty\u00ae: Black Ops II"
   },
   "203140": {
-    "config_count": 35,
+    "config_count": 37,
     "devices": [
       {
         "d": "G610_MC3",
@@ -11353,7 +11384,7 @@
     "name": "Sonic Frontiers: Monster Hunter Collaboration Pack"
   },
   "209000": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -11379,11 +11410,17 @@
         "d": "Adreno__TM__840",
         "m": "NX809J",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "Retroid_Pocket_6",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Batman___Arkham_Origins",
-      "BatmanOrigins"
+      "BatmanOrigins",
+      "Batman_Arkham_Origins"
     ],
     "name": "Batman\u2122: Arkham Origins"
   },
@@ -14592,7 +14629,7 @@
     "name": "Sky: Children of the Light"
   },
   "232890": {
-    "config_count": 13,
+    "config_count": 12,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -14606,8 +14643,7 @@
       }
     ],
     "folders": [
-      "__Stronghold_Crusader",
-      "Stronghold_Crusader_HD"
+      "__Stronghold_Crusader"
     ],
     "name": "Stronghold Crusader 2"
   },
@@ -15020,7 +15056,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 17,
+    "config_count": 14,
     "devices": [
       {
         "d": "G720_MC7",
@@ -15051,21 +15087,10 @@
         "d": "Adreno__TM__710",
         "m": "A366E",
         "s": "Adreno (TM) 710"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II",
-      "DarkSoulsII"
+      "DARK_SOULS__II"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -17846,7 +17871,7 @@
     "name": "Subnautica"
   },
   "2651280": {
-    "config_count": 25,
+    "config_count": 24,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -17897,19 +17922,13 @@
         "d": "Adreno__TM__730",
         "m": "motorola_edge_30_ultra",
         "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
       "Activision_Spider-Man_3",
       "Marvel_s_Spider-Man_2",
       "Spider-Man_3",
-      "Spider-Man",
-      "Spider-man_Remastered"
+      "Spider-Man"
     ],
     "name": "Marvel's Spider-Man 2"
   },
@@ -18899,14 +18918,6 @@
       "DYNASTY_WARRIORS_8_-_Xtreme_Legends_Complete_Edition"
     ],
     "name": "Dynasty Warriors 8 - Xtreme Legends Complete Edition"
-  },
-  "2787680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Candy Rangers"
   },
   "2796520": {
     "config_count": 1,
@@ -20688,6 +20699,14 @@
     ],
     "name": "Ryse: Son of Rome"
   },
+  "3028020": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Cars"
+    ],
+    "name": "CarX Street - Deluxe Cars"
+  },
   "3028330": {
     "config_count": 1,
     "devices": [],
@@ -21099,6 +21118,14 @@
       "Prop_Sumo"
     ],
     "name": "Prop Sumo"
+  },
+  "3091140": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "LootBound"
+    ],
+    "name": "Lootbound"
   },
   "3092360": {
     "config_count": 1,
@@ -23812,14 +23839,6 @@
     ],
     "name": "Garten of Banban 0"
   },
-  "331160": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Cars"
-    ],
-    "name": "Disney\u2022Pixar Cars"
-  },
   "33120": {
     "config_count": 2,
     "devices": [
@@ -26104,6 +26123,14 @@
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
+  },
   "3681010": {
     "config_count": 1,
     "devices": [],
@@ -26366,14 +26393,19 @@
         "s": "Adreno (TM) 830"
       },
       {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
+      },
+      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Adreno__TM__660",
-        "m": "S928B",
-        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
@@ -26383,9 +26415,9 @@
       "DarkSoulsRemastered",
       "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
+      "DarkSoulsII",
       "DarkSoulsIII",
-      "Dark_Souls_III",
-      "Dark_Souls_Remastered"
+      "Dark_Souls_III"
     ],
     "name": "DARK SOULS\u2122 III"
   },
@@ -28390,6 +28422,14 @@
     ],
     "name": "Stronghold 2: Steam Edition"
   },
+  "40970": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Stronghold_Crusader_HD"
+    ],
+    "name": "Stronghold Crusader HD (2012)"
+  },
   "409710": {
     "config_count": 4,
     "devices": [
@@ -29119,14 +29159,6 @@
       "Factorio"
     ],
     "name": "Factorio"
-  },
-  "4282640": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "LootBound"
-    ],
-    "name": "Inferno Loot: Bullet Hell Bound"
   },
   "428690": {
     "config_count": 1,
@@ -30452,7 +30484,7 @@
     "name": "Speak Demo"
   },
   "48190": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "MT6789",
@@ -30508,6 +30540,7 @@
     "folders": [
       "Assassin_s_Creed__Brotherhood",
       "Assassin_s_creed_brotherhood",
+      "Assassin_s_Creed_brotherhood",
       "AssassinsCreedBrotherhood"
     ],
     "name": "Assassin\u2019s Creed\u00ae Brotherhood"
@@ -32323,7 +32356,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 41,
+    "config_count": 44,
     "devices": [
       {
         "d": "G57",
@@ -32419,11 +32452,17 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "S928B",
+        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
       "DARK_SOULS__REMASTERED",
-      "DARK_SOULS___REMASTERED"
+      "DARK_SOULS___REMASTERED",
+      "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
   },
@@ -37388,14 +37427,6 @@
     ],
     "name": "Aio Graphics Test 64Bit"
   },
-  "name:alan-wake-remastered": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Alan_Wake_Remastered"
-    ],
-    "name": "Alan Wake Remastered"
-  },
   "name:am2r": {
     "config_count": 1,
     "devices": [
@@ -37456,14 +37487,6 @@
     ],
     "name": "Assasins Creed Iv Black Flag"
   },
-  "name:assassin-s-creed-brotherhood": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Assassin_s_Creed_brotherhood"
-    ],
-    "name": "Assassin S Creed Brotherhood"
-  },
   "name:assassinscreed-dx9": {
     "config_count": 2,
     "devices": [],
@@ -37515,20 +37538,6 @@
       "BaldisBasicsPlusAdvanced"
     ],
     "name": "Baldisbasicsplusadvanced"
-  },
-  "name:batman-arkham-origins": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "Retroid_Pocket_6",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "Batman_Arkham_Origins"
-    ],
-    "name": "Batman Arkham Origins"
   },
   "name:batmanac": {
     "config_count": 2,
@@ -38262,14 +38271,6 @@
       "FFXIII"
     ],
     "name": "Ffxiii"
-  },
-  "name:fifa-13": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "FIFA_13"
-    ],
-    "name": "Fifa 13"
   },
   "name:fifa14": {
     "config_count": 1,
@@ -39091,14 +39092,6 @@
       "Need_for_Speed_Black_Edition_"
     ],
     "name": "Need For Speed Black Edition"
-  },
-  "name:need-for-speed-most-wanted-2005": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Need_for_Speed__Most_Wanted_2005"
-    ],
-    "name": "Need For Speed Most Wanted 2005"
   },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 1,
@@ -41559,25 +41552,6 @@
     ],
     "name": "Skyrimse"
   },
-  "name:sleeping-dogs-definitive-edition": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "Odin2_Portal",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "Sleeping_Dogs_-_Definitive_Edition"
-    ],
-    "name": "Sleeping Dogs Definitive Edition"
-  },
   "name:snapshot-lewd-shores": {
     "config_count": 1,
     "devices": [],
@@ -41585,14 +41559,6 @@
       "Snapshot__Lewd_Shores"
     ],
     "name": "Snapshot Lewd Shores"
-  },
-  "name:sniper-ghost-warrior-1": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 1"
   },
   "name:sniperv2launcher": {
     "config_count": 1,
@@ -41648,14 +41614,6 @@
       "SpecOpsTheLine"
     ],
     "name": "Specopstheline"
-  },
-  "name:spooky-milk-life": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Spooky_Milk_Life"
-    ],
-    "name": "Spooky Milk Life"
   },
   "name:sr-hv": {
     "config_count": 1,
