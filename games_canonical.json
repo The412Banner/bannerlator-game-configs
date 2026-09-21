@@ -13399,7 +13399,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 20,
+    "config_count": 19,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -13439,8 +13439,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -19694,7 +19693,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -19734,7 +19733,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -38689,6 +38689,14 @@
       "Internet_Download_Manager__IDM_"
     ],
     "name": "Internet Download Manager Idm"
+  },
+  "name:is-dqdai": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "IS-DQDai"
+    ],
+    "name": "Is Dqdai"
   },
   "name:isaac-ng": {
     "config_count": 1,
