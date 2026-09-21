@@ -1353,7 +1353,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1362,7 +1362,8 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid"
+      "BattleForTheGrid",
+      "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -13398,7 +13399,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -13438,7 +13439,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev"
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -16552,7 +16554,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -18992,14 +18994,6 @@
     ],
     "name": "Battlefield\u2122 6"
   },
-  "2812820": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Pape Rangers"
-  },
   "2815070": {
     "config_count": 2,
     "devices": [
@@ -19700,7 +19694,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -19740,8 +19734,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -24729,14 +24722,6 @@
     ],
     "name": "Ghost Song"
   },
-  "34830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper: Ghost Warrior"
-  },
   "3483510": {
     "config_count": 1,
     "devices": [
@@ -26101,6 +26086,14 @@
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
+  },
   "3681010": {
     "config_count": 1,
     "devices": [],
@@ -26532,7 +26525,7 @@
     "name": "SpiritVale"
   },
   "3768760": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -32762,7 +32755,7 @@
     "name": "Attack on Titan 2 - A.O.T.2"
   },
   "601150": {
-    "config_count": 44,
+    "config_count": 45,
     "devices": [
       {
         "d": "unknown",
@@ -32825,11 +32818,6 @@
         "s": "Mali-G52 MC2"
       },
       {
-        "d": "Adreno__TM__735",
-        "m": "24069PC21G",
-        "s": "Adreno (TM) 735"
-      },
-      {
         "d": "Adreno__TM__830",
         "m": "S931B",
         "s": "Adreno (TM) 830"
@@ -32843,6 +32831,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
       },
       {
         "d": "Adreno__TM__640",
@@ -33417,7 +33410,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -33431,8 +33424,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2",
-      "LEGOMARVEL"
+      "LEGO__Marvel_Super_Heroes_2"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -36645,7 +36637,7 @@
     "name": "Volcanoids"
   },
   "952060": {
-    "config_count": 78,
+    "config_count": 79,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -37013,7 +37005,7 @@
     "name": "Sniper Ghost Warrior Contracts"
   },
   "976310": {
-    "config_count": 11,
+    "config_count": 13,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -37026,14 +37018,14 @@
         "s": "Mali-G720 MC7"
       },
       {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
         "d": "Adreno__TM__642L",
         "m": "NX9",
         "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
@@ -40509,7 +40501,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 211,
+    "config_count": 212,
     "devices": [
       {
         "d": "G615_MC2",
