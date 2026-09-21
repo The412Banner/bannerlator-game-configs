@@ -1358,7 +1358,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1367,7 +1367,8 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid"
+      "BattleForTheGrid",
+      "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -3524,20 +3525,6 @@
     ],
     "name": "Atlas Fallen: Reign Of Sand"
   },
-  "12320": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred Gold"
-  },
   "1232460": {
     "config_count": 1,
     "devices": [
@@ -4814,6 +4801,14 @@
       "Need_for_Speed_Hot_Pursuit"
     ],
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
+  },
+  "1328670": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Mass_Effect"
+    ],
+    "name": "Mass Effect\u2122 Legendary Edition"
   },
   "1330000": {
     "config_count": 1,
@@ -8225,7 +8220,7 @@
     "name": "Mirror's Edge\u2122"
   },
   "17460": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -13131,7 +13126,7 @@
     "name": "Total Chaos"
   },
   "221040": {
-    "config_count": 71,
+    "config_count": 72,
     "devices": [
       {
         "d": "G720_MC7",
@@ -13267,6 +13262,11 @@
         "d": "Adreno__TM__650",
         "m": "M2007J3SG",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "S948B",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__720",
@@ -16581,7 +16581,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -18611,7 +18611,7 @@
     "name": "SBcatfight game"
   },
   "272510": {
-    "config_count": 10,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__725",
@@ -18632,6 +18632,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "CPH2179",
+        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "G57_MC2",
@@ -18928,14 +18933,6 @@
       "DYNASTY_WARRIORS_8_-_Xtreme_Legends_Complete_Edition"
     ],
     "name": "Dynasty Warriors 8 - Xtreme Legends Complete Edition"
-  },
-  "2787680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Candy Rangers"
   },
   "2796520": {
     "config_count": 1,
@@ -22159,7 +22156,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1591,
+    "config_count": 1594,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -27387,6 +27384,20 @@
       "Tekken_7"
     ],
     "name": "TEKKEN 7"
+  },
+  "3906660": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred 2 Remaster"
   },
   "3909960": {
     "config_count": 1,
@@ -33483,7 +33494,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -33497,8 +33508,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2",
-      "LEGOMARVEL"
+      "LEGO__Marvel_Super_Heroes_2"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -40593,7 +40603,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 212,
+    "config_count": 213,
     "devices": [
       {
         "d": "G615_MC2",
@@ -40619,6 +40629,11 @@
         "d": "Adreno__TM__650",
         "m": "M2012K11AG",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       },
       {
         "d": "G52_MC2",
@@ -40824,11 +40839,6 @@
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
-      },
-      {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
       },
       {
         "d": "Adreno__TM__830",
