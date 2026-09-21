@@ -24759,6 +24759,14 @@
     ],
     "name": "Ghost Song"
   },
+  "3482970": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "SR2_pc"
+    ],
+    "name": "RealFlight Evolution \u2013 E-flite UMX Cirrus SR22T"
+  },
   "3483510": {
     "config_count": 1,
     "devices": [
@@ -26315,7 +26323,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 42,
+    "config_count": 39,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -37067,7 +37075,7 @@
     "name": "Sniper Ghost Warrior Contracts"
   },
   "976310": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -37088,6 +37096,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "26077PC53G",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
