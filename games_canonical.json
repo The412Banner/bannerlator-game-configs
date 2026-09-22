@@ -14071,7 +14071,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 242,
+    "config_count": 243,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -14364,11 +14364,6 @@
         "s": "Mali-G57"
       },
       {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
         "d": "G52",
         "m": "Mali",
         "s": "Mali-G52"
@@ -14377,6 +14372,11 @@
         "d": "Adreno__TM__810",
         "m": "NX1",
         "s": "Adreno (TM) 810"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -22298,7 +22298,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1616,
+    "config_count": 1617,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -38290,7 +38290,7 @@
     "name": "Dyinglightgame Thebeast X64 Rwdi"
   },
   "name:efootball-2021": {
-    "config_count": 51,
+    "config_count": 52,
     "devices": [
       {
         "d": "Adreno__TM__650",
