@@ -14071,7 +14071,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 241,
+    "config_count": 242,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -14372,6 +14372,11 @@
         "d": "G52",
         "m": "Mali",
         "s": "Mali-G52"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "NX1",
+        "s": "Adreno (TM) 810"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -25618,8 +25623,13 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 13,
+    "config_count": 17,
     "devices": [
+      {
+        "d": "G57_MC4",
+        "m": "Mali",
+        "s": "Mali-G57 MC4"
+      },
       {
         "d": "Adreno__TM__610",
         "m": "moto_g42",
@@ -25647,6 +25657,7 @@
       }
     ],
     "folders": [
+      "Atla",
       "TombRaider"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
@@ -27217,20 +27228,6 @@
       "RivalsofAether"
     ],
     "name": "Rivals of Aether"
-  },
-  "3839850": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "G57_MC4",
-        "m": "Mali",
-        "s": "Mali-G57 MC4"
-      }
-    ],
-    "folders": [
-      "Atla"
-    ],
-    "name": "Crystal of Atlan"
   },
   "3841510": {
     "config_count": 2,
@@ -31714,7 +31711,7 @@
     "name": "My Summer Car"
   },
   "517630": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -39717,7 +39714,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2897,
+    "config_count": 2898,
     "devices": [
       {
         "d": "G52_MC2",
