@@ -644,14 +644,6 @@
     ],
     "name": "New Super Lucky's Tale"
   },
-  "1041320": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "LoK"
-    ],
-    "name": "Lords Mobile: Kingdom Wars"
-  },
   "1044720": {
     "config_count": 1,
     "devices": [
@@ -1824,14 +1816,6 @@
       "DOOM64"
     ],
     "name": "DOOM 64"
-  },
-  "1151340": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Fallout_3__Game_of_the_Year_Edition"
-    ],
-    "name": "Fallout 76"
   },
   "1151380": {
     "config_count": 1,
@@ -4168,7 +4152,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 55,
+    "config_count": 57,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4274,6 +4258,11 @@
         "d": "Adreno__TM__650",
         "m": "22021211RG",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
       }
     ],
     "folders": [
@@ -4289,6 +4278,8 @@
       "Need_For_Speed_Most_Wanted",
       "Need_For_Speed_Most_Wanted_",
       "Need_for_Speed_-_Most_Wanted",
+      "Need_for_Speed__Most_Wanted_2005",
+      "Need_for_Speed__Most_wanted__2012_",
       "need_for_speed_most_wa",
       "need_for_speed_most_wanted_2005"
     ],
@@ -4487,8 +4478,14 @@
     "name": "Monster Hunter Stories 2: Wings of Ruin"
   },
   "1281630": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "PLQ110",
+        "s": "Adreno (TM) 830"
+      }
+    ],
     "folders": [
       "Anno_1404_-_History_Edition"
     ],
@@ -6609,7 +6606,7 @@
     "name": "LEGO\u00ae Skylines"
   },
   "1574140": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -6618,6 +6615,7 @@
       }
     ],
     "folders": [
+      "DiRT4",
       "Dirt4"
     ],
     "name": "TIME FOR YOU - CHAPTER 02 - DIRTY THOUGHTS AND CORPORATE BOTS"
@@ -8461,7 +8459,7 @@
     "name": "STAR OCEAN THE DIVINE FORCE"
   },
   "1778820": {
-    "config_count": 9,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -8474,19 +8472,13 @@
         "s": "Adreno (TM) 750"
       },
       {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
-      },
-      {
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
-      "TEKKEN_8",
-      "TEKKEN_7"
+      "TEKKEN_8"
     ],
     "name": "TEKKEN 8"
   },
@@ -9402,6 +9394,14 @@
       "Wandering_Sword"
     ],
     "name": "Wandering Sword"
+  },
+  "1880360": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Monster_Hunter_Rise__Sunbreak"
+    ],
+    "name": "Monster Hunter Rise Sunbreak"
   },
   "1883260": {
     "config_count": 1,
@@ -12897,7 +12897,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 114,
+    "config_count": 115,
     "devices": [
       {
         "d": "S938B",
@@ -13069,6 +13069,7 @@
       "Far_Cry_3",
       "Far_Cry_3___________________________________________________",
       "Far_Cry__3",
+      "FAR_CRY_3",
       "farcry3"
     ],
     "name": "Far Cry 3"
@@ -13197,7 +13198,7 @@
     "name": "DmC: Devil May Cry"
   },
   "2207440": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -13206,7 +13207,8 @@
       }
     ],
     "folders": [
-      "LOK"
+      "LOK",
+      "LoK"
     ],
     "name": "LOK Digital"
   },
@@ -13752,6 +13754,14 @@
       "Contra_Galuga"
     ],
     "name": "Contra: Operation Galuga"
+  },
+  "22370": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Fallout_3__Game_of_the_Year_Edition"
+    ],
+    "name": "Fallout 3: Game of the Year Edition"
   },
   "22380": {
     "config_count": 18,
@@ -15234,7 +15244,7 @@
     "name": "Europa Universalis IV"
   },
   "2369390": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G57_MC2",
@@ -15243,7 +15253,6 @@
       }
     ],
     "folders": [
-      "FAR_CRY_3",
       "FarCry"
     ],
     "name": "Far Cry\u00ae 6"
@@ -21815,11 +21824,18 @@
     "name": "Football Life Simulator"
   },
   "3159330": {
-    "config_count": 2,
-    "devices": [],
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "Adreno__TM__810",
+        "m": "V2502",
+        "s": "Adreno (TM) 810"
+      }
+    ],
     "folders": [
       "Assassin_S_creed_3_",
-      "Assassin_s_Creed_________"
+      "Assassin_s_Creed_________",
+      "Assassin_s_Creed"
     ],
     "name": "Assassin\u2019s Creed Shadows"
   },
@@ -22277,7 +22293,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1615,
+    "config_count": 1616,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -23378,6 +23394,11 @@
         "d": "Adreno__TM__650",
         "m": "M2012K11AG",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "S948B",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__830",
@@ -26614,20 +26635,6 @@
     ],
     "name": "The Blood of Dawnwalker"
   },
-  "3751950": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__810",
-        "m": "V2502",
-        "s": "Adreno (TM) 810"
-      }
-    ],
-    "folders": [
-      "Assassin_s_Creed"
-    ],
-    "name": "Assassin's Creed Black Flag Resynced"
-  },
   "375820": {
     "config_count": 3,
     "devices": [],
@@ -27454,7 +27461,7 @@
     "name": "Pacer"
   },
   "389730": {
-    "config_count": 39,
+    "config_count": 40,
     "devices": [
       {
         "d": "SM8850",
@@ -30168,6 +30175,14 @@
       "Ultra_Street_Fighter__IV"
     ],
     "name": "Ultra Street Fighter\u00ae IV"
+  },
+  "4576490": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "CasualtiesUnknown"
+    ],
+    "name": "Casualties: Unknown"
   },
   "4576510": {
     "config_count": 1,
@@ -37961,14 +37976,6 @@
     ],
     "name": "Castlevaniasoh"
   },
-  "name:casualtiesunknown": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "CasualtiesUnknown"
-    ],
-    "name": "Casualtiesunknown"
-  },
   "name:clientg": {
     "config_count": 1,
     "devices": [],
@@ -38172,20 +38179,6 @@
       "Dirt_Showdown"
     ],
     "name": "Dirt Showdown"
-  },
-  "name:dirt4": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__650",
-        "m": "G988N",
-        "s": "Adreno (TM) 650"
-      }
-    ],
-    "folders": [
-      "DiRT4"
-    ],
-    "name": "Dirt4"
   },
   "name:dirtfish-dirt4": {
     "config_count": 1,
@@ -39345,28 +39338,6 @@
       "Need_for_Speed_Black_Edition_"
     ],
     "name": "Need For Speed Black Edition"
-  },
-  "name:need-for-speed-most-wanted-2005": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Need_for_Speed__Most_Wanted_2005"
-    ],
-    "name": "Need For Speed Most Wanted 2005"
-  },
-  "name:need-for-speed-most-wanted-2012": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
-      }
-    ],
-    "folders": [
-      "Need_for_Speed__Most_wanted__2012_"
-    ],
-    "name": "Need For Speed Most Wanted 2012"
   },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 1,
