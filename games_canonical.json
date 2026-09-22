@@ -4661,6 +4661,20 @@
     ],
     "name": "Lost Ruins"
   },
+  "1307710": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "GRID"
+    ],
+    "name": "GRID Legends"
+  },
   "1310510": {
     "config_count": 1,
     "devices": [],
@@ -5935,7 +5949,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 94,
+    "config_count": 96,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -25887,7 +25901,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -25908,11 +25922,6 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
