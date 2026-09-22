@@ -1358,7 +1358,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1367,8 +1367,7 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid",
-      "Rangers"
+      "BattleForTheGrid"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -12334,7 +12333,7 @@
     "name": "Don Bradman Cricket 14"
   },
   "2163330": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [],
     "folders": [
       "Yet_Another_Zombie_Survivors"
@@ -18986,6 +18985,14 @@
     ],
     "name": "Dynasty Warriors 8 - Xtreme Legends Complete Edition"
   },
+  "2787680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Candy Rangers"
+  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -22050,7 +22057,7 @@
     "name": "Cursemark"
   },
   "3219630": {
-    "config_count": 15,
+    "config_count": 12,
     "devices": [
       {
         "d": "256",
@@ -24836,14 +24843,6 @@
     ],
     "name": "RealFlight Evolution \u2013 E-flite UMX Cirrus SR22T"
   },
-  "34830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper: Ghost Warrior"
-  },
   "3483510": {
     "config_count": 1,
     "devices": [
@@ -26207,6 +26206,14 @@
       "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
+  },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
@@ -29444,6 +29451,25 @@
     ],
     "name": "Binaries"
   },
+  "4364730": {
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "256",
+        "m": "8",
+        "s": "PowerVR B-Series BXM-8-256"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "Game"
+    ],
+    "name": "IGTAP: an Incremental Game That's Also a Platformer"
+  },
   "436670": {
     "config_count": 1,
     "devices": [
@@ -31791,7 +31817,7 @@
     "name": "Ancestors: The Humankind Odyssey"
   },
   "543870": {
-    "config_count": 26,
+    "config_count": 27,
     "devices": [
       {
         "d": "moto_e13",
@@ -31847,6 +31873,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__616",
+        "m": "RMX1971",
+        "s": "Adreno (TM) 616"
       }
     ],
     "folders": [
@@ -41763,6 +41794,14 @@
       "Start_PlayGTAV"
     ],
     "name": "Start Playgtav"
+  },
+  "name:steam-linux": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Steam__Linux_"
+    ],
+    "name": "Steam Linux"
   },
   "name:steamclient-loader": {
     "config_count": 1,
