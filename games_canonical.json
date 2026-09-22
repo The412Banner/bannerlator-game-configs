@@ -12665,6 +12665,20 @@
     ],
     "name": "Ricochet Blur"
   },
+  "2187220": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Apollo_Justice__Ace_Attorney_Trilogy"
+    ],
+    "name": "Apollo Justice Ace Attorney Trilogy"
+  },
   "2191780": {
     "config_count": 1,
     "devices": [
@@ -21356,6 +21370,11 @@
         "s": "Adreno (TM) 750"
       },
       {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
+      },
+      {
         "d": "Adreno__TM__750",
         "m": "TB321FU",
         "s": "Adreno (TM) 750"
@@ -21364,11 +21383,6 @@
         "d": "Adreno__TM__830",
         "m": "TB322FC",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
       }
     ],
     "folders": [
@@ -21376,11 +21390,11 @@
       "Call_of_Duty_",
       "Call_of_Duty_3______________________________________________",
       "Call_of_Duty_Black_Ops",
+      "Call_of_Duty___Black_Ops",
       "Call_of_Duty___Black_Ops_III",
       "___3____________",
       "________3_____________",
       "bla",
-      "Call_of_Duty___Black_Ops",
       "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
@@ -22196,7 +22210,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1598,
+    "config_count": 1601,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -22309,14 +22323,14 @@
         "s": "Mali-G720 MC8"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__740",
         "m": "CPH2447",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__620",
@@ -39561,7 +39575,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2892,
+    "config_count": 2894,
     "devices": [
       {
         "d": "G52_MC2",
