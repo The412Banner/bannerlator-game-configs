@@ -299,7 +299,6 @@
   },
   "Anomaly_Agent": {
     "appid": 2378620,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2378620/header.jpg",
     "method": "naive",
     "steam_name": "Anomaly Agent"
   },
@@ -6294,6 +6293,12 @@
     "appid": 582010,
     "method": "naive",
     "steam_name": "Monster Hunter: World"
+  },
+  "Monster_Sanctuary": {
+    "appid": 814370,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/814370/header.jpg",
+    "method": "naive",
+    "steam_name": "Monster Sanctuary"
   },
   "Monster_Train_2": {
     "appid": 2742830,
