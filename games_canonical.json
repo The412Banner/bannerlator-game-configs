@@ -2023,7 +2023,7 @@
     "name": "Captain Tsubasa: Rise of New Champions"
   },
   "1167630": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -10488,7 +10488,7 @@
     "name": "Dokimon Quest"
   },
   "202170": {
-    "config_count": 70,
+    "config_count": 71,
     "devices": [
       {
         "d": "MT6878",
@@ -10509,11 +10509,6 @@
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__710",
-        "m": "NX1",
-        "s": "Adreno (TM) 710"
       },
       {
         "d": "G720_MC7",
@@ -10639,6 +10634,11 @@
         "d": "Adreno__TM__825",
         "m": "I2405",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__830",
@@ -20809,7 +20809,7 @@
     "name": "Trove"
   },
   "304240": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -20833,7 +20833,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil"
+      "Resident_Evil",
+      "resident_evil_2"
     ],
     "name": "Resident Evil"
   },
@@ -26417,7 +26418,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 42,
+    "config_count": 36,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -26480,11 +26481,6 @@
         "s": "Mali-G720 MC8"
       },
       {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
-      },
-      {
         "d": "Adreno__TM__735",
         "m": "NX9",
         "s": "Adreno (TM) 735"
@@ -26515,7 +26511,6 @@
       "DARK_SOULS",
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
-      "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
       "DarkSoulsII",
       "DarkSoulsIII",
@@ -32482,7 +32477,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 44,
+    "config_count": 50,
     "devices": [
       {
         "d": "G57",
@@ -32580,6 +32575,11 @@
         "s": "Mali-G720 MC7"
       },
       {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
+      },
+      {
         "d": "Adreno__TM__660",
         "m": "S928B",
         "s": "Adreno (TM) 660"
@@ -32588,6 +32588,9 @@
     "folders": [
       "DARK_SOULS__REMASTERED",
       "DARK_SOULS___REMASTERED",
+      "DARKSOULS",
+      "DARK_SOULS_-_REMASTERED",
+      "DarkSoulsRemastered",
       "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
@@ -36021,7 +36024,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 113,
+    "config_count": 112,
     "devices": [
       {
         "d": "s5e8855",
@@ -36234,8 +36237,7 @@
       "Resident_Evil_2_____________________________________________",
       "Resident_Evil_2__2019_",
       "Resident_Evil_2__DX11_",
-      "re2",
-      "resident_evil_2"
+      "re2"
     ],
     "name": "Resident Evil 2"
   },
