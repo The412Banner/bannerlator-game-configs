@@ -1,16 +1,16 @@
-raw folders: 2665   total configs: 14655
+raw folders: 2669   total configs: 14662
 non-game (filtered out): 138
-MERGED canonical games (have appid): 2030
-  folders collapsed by merge: 667
-still-unresolved real games (no appid): 624
-GAME-COUNT RATE: 2030/2654 = 76%  (vs 67% raw baseline)
-CONFIG-COVERAGE (matters for matching): 14780/15897 = 93%
+MERGED canonical games (have appid): 2029
+  folders collapsed by merge: 669
+still-unresolved real games (no appid): 627
+GAME-COUNT RATE: 2029/2656 = 76%  (vs 67% raw baseline)
+CONFIG-COVERAGE (matters for matching): 14785/15905 = 93%
 top-merged examples:
   appid 1665460: 20 folders, 97 configs, 25 devices  ['PES', 'PES_13', 'PES_2013']
   appid 1262560: 16 folders, 57 configs, 22 devices  ['Need_For_Speed__Most_Wanted__2005_', 'Need_for_Speed_-_Most_Wanted________________________________', 'Need_for_Speed_Most_Wanted']
   appid name:pes-2013: 16 folders, 2892 configs, 189 devices  ['PES2013', 'PES_2013_Fix', 'PES_2013_LEND_RIO_']
   appid 1506830: 14 folders, 96 configs, 36 devices  ['FIFA_06_____________________________________________________', 'FIFA_13', 'FIFA_14']
-  appid 3240220: 14 folders, 1596 configs, 243 devices  ['GTA_5', 'Grand_Theft_Auto_5', 'Grand_Theft_Auto_V']
-  appid 311210: 10 folders, 46 configs, 18 devices  ['BlackOps', 'Call_of_Duty_', 'Call_of_Duty_3______________________________________________']
+  appid 3240220: 14 folders, 1598 configs, 243 devices  ['GTA_5', 'Grand_Theft_Auto_5', 'Grand_Theft_Auto_V']
+  appid 311210: 11 folders, 47 configs, 18 devices  ['BlackOps', 'Call_of_Duty_', 'Call_of_Duty_3______________________________________________']
   appid 374320: 9 folders, 42 configs, 18 devices  ['DARKSOULS', 'DARK_SOULS', 'DARK_SOULS__III']
   appid 2050650: 9 folders, 81 configs, 20 devices  ['RE4', 'RE_4', 'Re4']

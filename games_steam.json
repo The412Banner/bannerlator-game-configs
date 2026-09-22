@@ -1258,6 +1258,12 @@
     "method": "norm",
     "steam_name": "Call of Duty\u00ae: Advanced Warfare - Gold Edition"
   },
+  "Call_of_Duty___Black_Ops": {
+    "appid": 311210,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/311210/header.jpg",
+    "method": "naive",
+    "steam_name": "Call of Duty\u00ae: Black Ops III"
+  },
   "Call_of_Duty___Black_Ops_III": {
     "appid": 311210,
     "method": "naive",
@@ -3380,6 +3386,10 @@
     "appid": 1432850,
     "method": "naive",
     "steam_name": "Farewell North"
+  },
+  "FarmingSimulator2015Game": {
+    "appid": null,
+    "method": "unresolved"
   },
   "FarmingSimulator2019Game": {
     "appid": null,
@@ -7730,6 +7740,10 @@
     "appid": "name:pes-2011",
     "method": "alias"
   },
+  "Pro_Evolution_Soccer_2011_Settings_": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "Pro_Evolution_Soccer_2012": {
     "appid": "name:pes-2012",
     "method": "alias"
@@ -11506,6 +11520,10 @@
     "appid": 311210,
     "method": "naive",
     "steam_name": "Call of Duty\u00ae: Black Ops III"
+  },
+  "bssh": {
+    "appid": null,
+    "method": "unresolved"
   },
   "ch5_pro": {
     "appid": 3250520,
