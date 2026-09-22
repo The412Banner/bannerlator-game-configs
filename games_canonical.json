@@ -24064,7 +24064,7 @@
     "name": "Five Nights at Freddy's 2"
   },
   "33320": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "G615_MC2",
@@ -24075,6 +24075,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
