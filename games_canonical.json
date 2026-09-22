@@ -22329,7 +22329,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1619,
+    "config_count": 1621,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -23417,11 +23417,6 @@
         "s": "PowerVR B-Series BXM-8-256"
       },
       {
-        "d": "Adreno__TM__710",
-        "m": "NX1",
-        "s": "Adreno (TM) 710"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "M2012K11AG",
         "s": "Adreno (TM) 650"
@@ -23435,6 +23430,11 @@
         "d": "G77_MC9",
         "m": "Mali",
         "s": "Mali-G77 MC9"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__830",
@@ -41182,7 +41182,7 @@
     "name": "PES 2017 Online Warriors Crack"
   },
   "name:pes-2018": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G57",
@@ -41263,6 +41263,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "23013PC75G",
+        "s": "Adreno (TM) 730"
       }
     ],
     "folders": [
