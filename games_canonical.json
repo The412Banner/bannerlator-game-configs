@@ -3535,6 +3535,20 @@
     ],
     "name": "Atlas Fallen: Reign Of Sand"
   },
+  "12320": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred Gold"
+  },
   "1232460": {
     "config_count": 1,
     "devices": [
@@ -4152,7 +4166,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 57,
+    "config_count": 58,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4275,6 +4289,7 @@
       "Need_for_Speed__Most_Wanted_________________________________",
       "Need_for_Speed_most_wanted",
       "need_for_speed_most_wanted_",
+      "Most_Wanted",
       "Need_For_Speed_Most_Wanted",
       "Need_For_Speed_Most_Wanted_",
       "Need_for_Speed_-_Most_Wanted",
@@ -13525,7 +13540,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 17,
+    "config_count": 19,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -13564,7 +13579,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -15182,7 +15198,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "G720_MC7",
@@ -15213,6 +15229,11 @@
         "d": "Adreno__TM__710",
         "m": "A366E",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "22111317PG",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -15343,6 +15364,14 @@
       "Super_Power_Racing_Demo_exe"
     ],
     "name": "Super Power Racing"
+  },
+  "2378620": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Anomaly_Agent"
+    ],
+    "name": "Anomaly Agent"
   },
   "237930": {
     "config_count": 1,
@@ -16710,7 +16739,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -19860,7 +19889,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -19901,7 +19930,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -21131,17 +21159,12 @@
     "name": "Platypus"
   },
   "307690": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__642L",
         "m": "A736B",
         "s": "Adreno (TM) 642L"
-      },
-      {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
       },
       {
         "d": "Adreno__TM__725",
@@ -21157,6 +21180,11 @@
         "d": "Adreno__TM__740",
         "m": "Retroid_Pocket_6",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       }
     ],
     "folders": [
@@ -24386,16 +24414,8 @@
     ],
     "name": "Arma 2 Free"
   },
-  "339033": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Assassin_s_Creed_Rogue"
-    ],
-    "name": "Assassin\u2019s Creed\u00ae Rogue - Time Saver: Resource Pack"
-  },
   "339034": {
-    "config_count": 34,
+    "config_count": 35,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -24509,7 +24529,8 @@
       }
     ],
     "folders": [
-      "Assassin_s_Creed__Rogue"
+      "Assassin_s_Creed__Rogue",
+      "Assassin_s_Creed_Rogue"
     ],
     "name": "Assassin\u2019s Creed\u00ae Rogue - Time Saver: Technology Pack"
   },
@@ -24941,14 +24962,6 @@
       "SR2_pc"
     ],
     "name": "RealFlight Evolution \u2013 E-flite UMX Cirrus SR22T"
-  },
-  "34830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper: Ghost Warrior"
   },
   "3483510": {
     "config_count": 1,
@@ -26333,6 +26346,14 @@
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
+  },
   "3681010": {
     "config_count": 1,
     "devices": [],
@@ -27563,20 +27584,6 @@
       "Tekken_7"
     ],
     "name": "TEKKEN 7"
-  },
-  "3906660": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred 2 Remaster"
   },
   "3909960": {
     "config_count": 1,
@@ -33696,7 +33703,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -33710,8 +33717,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2",
-      "LEGOMARVEL"
+      "LEGO__Marvel_Super_Heroes_2"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
