@@ -596,7 +596,7 @@
     "name": "Mafia II: Definitive Edition"
   },
   "1030840": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -607,16 +607,10 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__829",
-        "m": "motorola_signature",
-        "s": "Adreno (TM) 829"
       }
     ],
     "folders": [
-      "Mafia__Definitive_Edition",
-      "Mafia_Definitive_Edition"
+      "Mafia__Definitive_Edition"
     ],
     "name": "Mafia: Definitive Edition"
   },
@@ -643,6 +637,14 @@
       "New_Super_Lucky_s_Tale"
     ],
     "name": "New Super Lucky's Tale"
+  },
+  "1041320": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "LoK"
+    ],
+    "name": "Lords Mobile: Kingdom Wars"
   },
   "1044720": {
     "config_count": 1,
@@ -4136,7 +4138,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 57,
+    "config_count": 56,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4242,11 +4244,6 @@
         "d": "Adreno__TM__650",
         "m": "22021211RG",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
       }
     ],
     "folders": [
@@ -4263,7 +4260,6 @@
       "Need_For_Speed_Most_Wanted_",
       "Need_for_Speed_-_Most_Wanted",
       "Need_for_Speed__Most_Wanted_2005",
-      "Need_for_Speed__Most_wanted__2012_",
       "need_for_speed_most_wa",
       "need_for_speed_most_wanted_2005"
     ],
@@ -5853,14 +5849,6 @@
     ],
     "name": "Tested on Humans: Escape Room"
   },
-  "1486290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "eFootball_2026"
-    ],
-    "name": "Polyleague Manager 2026: Football Evolution"
-  },
   "1491410": {
     "config_count": 1,
     "devices": [
@@ -6003,6 +5991,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g85_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__722",
+        "m": "RMX5101",
+        "s": "Adreno (TM) 722"
       },
       {
         "d": "G52_MC2",
@@ -7539,7 +7532,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 97,
+    "config_count": 98,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -7687,7 +7680,8 @@
       "pes_2012",
       "pes_2013",
       "pes_2013_",
-      "pes__2013"
+      "pes__2013",
+      "eFootball_2026"
     ],
     "name": "eFootball\u2122"
   },
@@ -9740,11 +9734,18 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 2,
-    "devices": [],
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__829",
+        "m": "motorola_signature",
+        "s": "Adreno (TM) 829"
+      }
+    ],
     "folders": [
       "MAFIA",
-      "Mafia"
+      "Mafia",
+      "Mafia_Definitive_Edition"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -10243,7 +10244,7 @@
     "name": "Beast of Reincarnation"
   },
   "200260": {
-    "config_count": 21,
+    "config_count": 20,
     "devices": [
       {
         "d": "G52_MC2",
@@ -10288,8 +10289,7 @@
     ],
     "folders": [
       "Batman__Arkham_City_-_Game_of_the_Year_Edition",
-      "Batman_-_Arkham_City_-_Game_of_the_Year_Edition",
-      "Batman_Arkham_City_GOTY"
+      "Batman_-_Arkham_City_-_Game_of_the_Year_Edition"
     ],
     "name": "Batman: Arkham City - Game of the Year Edition"
   },
@@ -10431,7 +10431,7 @@
     "name": "Dokimon Quest"
   },
   "202170": {
-    "config_count": 70,
+    "config_count": 71,
     "devices": [
       {
         "d": "MT6878",
@@ -10614,7 +10614,8 @@
       "Sleeping_Dogs_",
       "Sleeping_Dogs_-_Definitive_Edition__________________________",
       "SleepingDogs",
-      "Sleeping_Dogs_-_Definitive_Edition"
+      "Sleeping_Dogs_-_Definitive_Edition",
+      "Sleeping_Dogs_Definitive_Edition"
     ],
     "name": "Sleeping Dogs"
   },
@@ -10798,8 +10799,33 @@
     "name": "Hitman: Absolution\u2122"
   },
   "203160": {
-    "config_count": 13,
+    "config_count": 26,
     "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
+      },
       {
         "d": "Adreno__TM__740",
         "m": "S911U",
@@ -10827,11 +10853,12 @@
       }
     ],
     "folders": [
+      "TombRaider",
       "Tomb_Raider",
       "Tomb_Raider_2013",
       "Tomb_Raider_Game_of_the_Year"
     ],
-    "name": "Tomb Raider"
+    "name": "Tomb Raider Game of the Year"
   },
   "203650": {
     "config_count": 3,
@@ -13108,7 +13135,7 @@
     "name": "DmC: Devil May Cry"
   },
   "2207440": {
-    "config_count": 3,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -13117,8 +13144,7 @@
       }
     ],
     "folders": [
-      "LOK",
-      "LoK"
+      "LOK"
     ],
     "name": "LOK Digital"
   },
@@ -16602,7 +16628,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 29,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -17348,7 +17374,7 @@
     "name": "Beyond R: Rule Ripper"
   },
   "2552430": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -17371,12 +17397,13 @@
       "KINGDOM_HEARTS_-_Final_Mix",
       "KINGDOM_HEARTS_-_Final_Mix_HD",
       "KINGDOM_HEARTS_-_HD_1_5_2_5",
-      "mi_1_1"
+      "mi_1_1",
+      "KINGDOM_HEARTS_HD_2_8_Final_Chapter_Prologue"
     ],
     "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
   },
   "2552440": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [],
     "folders": [
       "KINGDOM_HEARTS_HD_2_8_Final_Chapter_Prologue"
@@ -20433,7 +20460,7 @@
     "name": "Far Cry\u00ae 4"
   },
   "2988580": {
-    "config_count": 11,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -20469,21 +20496,10 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__840",
-        "m": "NX809J",
-        "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "I2304",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
-      "Yakuza_0",
-      "Yakuza0"
+      "Yakuza_0"
     ],
     "name": "Yakuza 0 Director's Cut"
   },
@@ -21017,7 +21033,7 @@
     "name": "Platypus"
   },
   "307690": {
-    "config_count": 9,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -21046,8 +21062,7 @@
       }
     ],
     "folders": [
-      "Sleeping_Dogs__Definitive_Edition",
-      "Sleeping_Dogs_Definitive_Edition"
+      "Sleeping_Dogs__Definitive_Edition"
     ],
     "name": "Sleeping Dogs: Definitive Edition"
   },
@@ -21146,14 +21161,6 @@
       "Prop_Sumo"
     ],
     "name": "Prop Sumo"
-  },
-  "3091140": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "LootBound"
-    ],
-    "name": "Lootbound"
   },
   "3092360": {
     "config_count": 1,
@@ -25468,42 +25475,16 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 17,
+    "config_count": 4,
     "devices": [
       {
         "d": "G57_MC4",
         "m": "Mali",
         "s": "Mali-G57 MC4"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
-      "Atla",
-      "TombRaider"
+      "Atla"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -25993,7 +25974,7 @@
     "name": "Batman\u2122: Arkham Knight Season Pass"
   },
   "367500": {
-    "config_count": 6,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -28608,14 +28589,6 @@
     ],
     "name": "Z.A.T.O. - Digital Art Pack"
   },
-  "4123760": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Football_Life_2026"
-    ],
-    "name": "Football Life"
-  },
   "413150": {
     "config_count": 6,
     "devices": [
@@ -28995,14 +28968,6 @@
     ],
     "name": "Deadlight: Director's Cut"
   },
-  "4241690": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Hydra"
-    ],
-    "name": "Hydra Heli 2"
-  },
   "424280": {
     "config_count": 1,
     "devices": [
@@ -29208,6 +29173,14 @@
       "Factorio"
     ],
     "name": "Factorio"
+  },
+  "4282640": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "LootBound"
+    ],
+    "name": "Inferno Loot: Bullet Hell Bound"
   },
   "428690": {
     "config_count": 1,
@@ -31081,7 +31054,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 46,
+    "config_count": 45,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -31184,11 +31157,6 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "V2425A",
-        "s": "Adreno (TM) 750"
-      },
-      {
         "d": "Adreno__TM__735",
         "m": "RMX3851",
         "s": "Adreno (TM) 735"
@@ -31204,7 +31172,6 @@
       "The_Witcher_3__Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
-      "Witcher_1",
       "_Witcher",
       "witcher3"
     ],
@@ -33529,7 +33496,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -33543,7 +33510,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2"
+      "LEGO__Marvel_Super_Heroes_2",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -37606,6 +37574,20 @@
     ],
     "name": "Baldisbasicsplusadvanced"
   },
+  "name:batman-arkham-city-goty": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
+      }
+    ],
+    "folders": [
+      "Batman_Arkham_City_GOTY"
+    ],
+    "name": "Batman Arkham City Goty"
+  },
   "name:batmanac": {
     "config_count": 2,
     "devices": [],
@@ -38339,6 +38321,14 @@
     ],
     "name": "Ffxiii"
   },
+  "name:fifa-13": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "FIFA_13"
+    ],
+    "name": "Fifa 13"
+  },
   "name:fifa14": {
     "config_count": 1,
     "devices": [],
@@ -38423,6 +38413,14 @@
       "Final_Fantasy_7_SteamRip__READ_DESCRIPTION_"
     ],
     "name": "Final Fantasy 7 Steamrip Read Description"
+  },
+  "name:football-life-2026": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Football_Life_2026"
+    ],
+    "name": "Football Life 2026"
   },
   "name:frozen-throne": {
     "config_count": 1,
@@ -38786,6 +38784,14 @@
       "Hospital_Seduction"
     ],
     "name": "Hospital Seduction"
+  },
+  "name:hydra": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Hydra"
+    ],
+    "name": "Hydra"
   },
   "name:igi-i-m-going-in": {
     "config_count": 1,
@@ -39159,6 +39165,20 @@
       "Need_for_Speed_Black_Edition_"
     ],
     "name": "Need For Speed Black Edition"
+  },
+  "name:need-for-speed-most-wanted-2012": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
+      }
+    ],
+    "folders": [
+      "Need_for_Speed__Most_wanted__2012_"
+    ],
+    "name": "Need For Speed Most Wanted 2012"
   },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 1,
@@ -42023,6 +42043,20 @@
     ],
     "name": "Wasteland 3 Colorado Survival Gear Dlc"
   },
+  "name:witcher-1": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "V2425A",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Witcher_1"
+    ],
+    "name": "Witcher 1"
+  },
   "name:wizard-school-exchange-student": {
     "config_count": 1,
     "devices": [],
@@ -42068,6 +42102,25 @@
       "xenia_edge"
     ],
     "name": "Xenia Edge"
+  },
+  "name:yakuza0": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "I2304",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Yakuza0"
+    ],
+    "name": "Yakuza0"
   },
   "name:ysx-pn": {
     "config_count": 1,
