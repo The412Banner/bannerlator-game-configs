@@ -533,6 +533,12 @@
     "method": "norm",
     "steam_name": "Attack on Titan 2 - A.O.T.2"
   },
+  "Attack_on_Titan___A_O_T__Wings_of_Freedom": {
+    "appid": 449800,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/449800/header.jpg",
+    "method": "naive",
+    "steam_name": "Attack on Titan / A.O.T. Wings of Freedom"
+  },
   "AutoPlay_Menu_Builder": {
     "appid": null,
     "method": "unresolved"
@@ -3909,6 +3915,10 @@
     "appid": 3219630,
     "method": "naive",
     "steam_name": "Halloween: The Game"
+  },
+  "Game-Setup-Installer-1_0_0": {
+    "appid": null,
+    "method": "non-game"
   },
   "GameApp": {
     "appid": 333500,
@@ -8131,6 +8141,12 @@
     "method": "naive",
     "steam_name": "Ratchet & Clank: Rift Apart"
   },
+  "Ravenfield": {
+    "appid": 636480,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/636480/header.jpg",
+    "method": "naive",
+    "steam_name": "Ravenfield"
+  },
   "Ravenswatch": {
     "appid": 2071280,
     "method": "naive",
@@ -11237,6 +11253,12 @@
     "appid": 952060,
     "method": "naive",
     "steam_name": "Resident Evil 3"
+  },
+  "_Rise_of_Eros_": {
+    "appid": 2346550,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2346550/header.jpg",
+    "method": "naive",
+    "steam_name": "Rise of Eros"
   },
   "_Stronghold_2": {
     "appid": 40960,

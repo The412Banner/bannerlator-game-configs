@@ -1851,7 +1851,7 @@
     "name": "Horizon Zero Dawn\u2122 Complete Edition"
   },
   "115320": {
-    "config_count": 70,
+    "config_count": 72,
     "devices": [
       {
         "d": "Adreno__TM__640",
@@ -1917,6 +1917,11 @@
         "d": "Adreno__TM__642L",
         "m": "A528B",
         "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__610",
@@ -3487,7 +3492,7 @@
     "name": "Atri -My Dear Moments-"
   },
   "1230530": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "G57_MC2",
@@ -3518,6 +3523,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -4670,6 +4680,20 @@
       "Lost_Ruins"
     ],
     "name": "Lost Ruins"
+  },
+  "1307710": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "GRID"
+    ],
+    "name": "GRID Legends"
   },
   "1310510": {
     "config_count": 1,
@@ -8487,25 +8511,6 @@
       "Crab_Game"
     ],
     "name": "Crab Game"
-  },
-  "1785910": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "Odin3",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__735",
-        "m": "24069PC21G",
-        "s": "Adreno (TM) 735"
-      }
-    ],
-    "folders": [
-      "SB"
-    ],
-    "name": "SBK\u212222"
   },
   "1790600": {
     "config_count": 162,
@@ -14890,6 +14895,20 @@
     ],
     "name": "Military Tanks"
   },
+  "2346550": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "PLK110",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "_Rise_of_Eros_"
+    ],
+    "name": "Rise of Eros"
+  },
   "234670": {
     "config_count": 15,
     "devices": [
@@ -18687,6 +18706,25 @@
     ],
     "name": "The Rogue Prince of Persia"
   },
+  "2723810": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
+      }
+    ],
+    "folders": [
+      "SB"
+    ],
+    "name": "SBcatfight game"
+  },
   "272510": {
     "config_count": 12,
     "devices": [
@@ -19651,7 +19689,7 @@
     "name": "SAW: Genesis"
   },
   "286690": {
-    "config_count": 34,
+    "config_count": 35,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -21109,8 +21147,14 @@
     "name": "Sleeping Dogs: Definitive Edition"
   },
   "3077390": {
-    "config_count": 2,
-    "devices": [],
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
+      }
+    ],
     "folders": [
       "MotoGP_25"
     ],
@@ -22235,7 +22279,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1613,
+    "config_count": 1615,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -22868,11 +22912,6 @@
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
       },
       {
-        "d": "Adreno__TM__650",
-        "m": "M2012K11AG",
-        "s": "Adreno (TM) 650"
-      },
-      {
         "d": "Adreno__TM__660",
         "m": "G998U1",
         "s": "Adreno (TM) 660"
@@ -23336,6 +23375,11 @@
         "d": "Adreno__TM__710",
         "m": "NX1",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2012K11AG",
+        "s": "Adreno (TM) 650"
       },
       {
         "d": "Adreno__TM__830",
@@ -24866,14 +24910,6 @@
     ],
     "name": "RealFlight Evolution \u2013 E-flite UMX Cirrus SR22T"
   },
-  "34830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper: Ghost Warrior"
-  },
   "3483510": {
     "config_count": 1,
     "devices": [
@@ -25547,13 +25583,8 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 17,
+    "config_count": 13,
     "devices": [
-      {
-        "d": "G57_MC4",
-        "m": "Mali",
-        "s": "Mali-G57 MC4"
-      },
       {
         "d": "Adreno__TM__610",
         "m": "moto_g42",
@@ -25581,7 +25612,6 @@
       }
     ],
     "folders": [
-      "Atla",
       "TombRaider"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
@@ -25985,7 +26015,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -26006,11 +26036,6 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -26102,7 +26127,7 @@
     "name": "Dragon's Dogma: Dark Arisen"
   },
   "367520": {
-    "config_count": 33,
+    "config_count": 34,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -26170,6 +26195,11 @@
         "s": "Mali-G57 MC2"
       },
       {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      },
+      {
         "d": "Adreno__TM__610",
         "m": "25062RN2DL",
         "s": "Adreno (TM) 610"
@@ -26217,7 +26247,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "G68_MC4",
@@ -26238,13 +26268,32 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE"
+      "oriDE",
+      "Ori"
     ],
     "name": "The Seven Deadly Sins: Origin"
+  },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
@@ -27142,6 +27191,20 @@
     ],
     "name": "Rivals of Aether"
   },
+  "3839850": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "G57_MC4",
+        "m": "Mali",
+        "s": "Mali-G57 MC4"
+      }
+    ],
+    "folders": [
+      "Atla"
+    ],
+    "name": "Crystal of Atlan"
+  },
   "3841510": {
     "config_count": 2,
     "devices": [
@@ -27506,7 +27569,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 189,
+    "config_count": 193,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -27900,7 +27963,7 @@
     "name": "MDS: Metro dispatcher simulator"
   },
   "391720": {
-    "config_count": 42,
+    "config_count": 43,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -29421,29 +29484,18 @@
     "name": "Bruisers 2D Boxing Demo"
   },
   "435150": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "2211133C",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
-      "Divinity_-_Original_Sin_2_-_Definitive_Edition",
-      "Ori"
+      "Divinity_-_Original_Sin_2_-_Definitive_Edition"
     ],
-    "name": "Divinity: Original Sin 2 - Definitive Edition"
+    "name": "Divinity - Original Sin 2 - Definitive Edition"
   },
   "4355320": {
     "config_count": 16,
@@ -29880,6 +29932,20 @@
       "xca"
     ],
     "name": "XCavalypse"
+  },
+  "449800": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "Attack_on_Titan___A_O_T__Wings_of_Freedom"
+    ],
+    "name": "Attack on Titan / A.O.T. Wings of Freedom"
   },
   "4505090": {
     "config_count": 2,
@@ -31945,7 +32011,7 @@
     "name": "RAGE 2"
   },
   "550": {
-    "config_count": 67,
+    "config_count": 68,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -33436,7 +33502,7 @@
     "name": "Sniper Elite V2"
   },
   "636480": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -33445,7 +33511,8 @@
       }
     ],
     "folders": [
-      "ravenfield"
+      "ravenfield",
+      "Ravenfield"
     ],
     "name": "Ravenfield"
   },
@@ -39618,7 +39685,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2895,
+    "config_count": 2897,
     "devices": [
       {
         "d": "G52_MC2",
@@ -40536,6 +40603,11 @@
         "s": "Adreno (TM) 710"
       },
       {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
+      },
+      {
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
@@ -40544,11 +40616,6 @@
         "d": "Adreno__TM__610",
         "m": "A235F",
         "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__710",
-        "m": "NX1",
-        "s": "Adreno (TM) 710"
       },
       {
         "d": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
