@@ -5994,7 +5994,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 96,
+    "config_count": 97,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -20278,6 +20278,14 @@
     ],
     "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2"
   },
+  "293260": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Card_Hunter"
+    ],
+    "name": "Card Hunter"
+  },
   "2933290": {
     "config_count": 1,
     "devices": [
@@ -31455,7 +31463,7 @@
     "name": "Trails in the Sky 2nd Chapter Demo"
   },
   "50130": {
-    "config_count": 34,
+    "config_count": 35,
     "devices": [
       {
         "d": "MT6781",
@@ -31513,11 +31521,6 @@
         "s": "Adreno (TM) A32"
       },
       {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      },
-      {
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
@@ -31526,6 +31529,11 @@
         "d": "Adreno__TM__710",
         "m": "RMX3840",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
