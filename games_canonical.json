@@ -4698,6 +4698,20 @@
     ],
     "name": "Lost Ruins"
   },
+  "1307710": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "GRID"
+    ],
+    "name": "GRID Legends"
+  },
   "1310510": {
     "config_count": 1,
     "devices": [],
@@ -24446,16 +24460,8 @@
     ],
     "name": "Arma 2 Free"
   },
-  "339033": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Assassin_s_Creed_Rogue"
-    ],
-    "name": "Assassin\u2019s Creed\u00ae Rogue - Time Saver: Resource Pack"
-  },
   "339034": {
-    "config_count": 34,
+    "config_count": 35,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -24569,7 +24575,8 @@
       }
     ],
     "folders": [
-      "Assassin_s_Creed__Rogue"
+      "Assassin_s_Creed__Rogue",
+      "Assassin_s_Creed_Rogue"
     ],
     "name": "Assassin\u2019s Creed\u00ae Rogue - Time Saver: Technology Pack"
   },
@@ -26127,7 +26134,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -26148,11 +26155,6 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -39833,7 +39835,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2914,
+    "config_count": 2915,
     "devices": [
       {
         "d": "G52_MC2",
@@ -40591,11 +40593,6 @@
         "s": "Mali-G71"
       },
       {
-        "d": "G52",
-        "m": "Mali",
-        "s": "Mali-G52"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "CPH2669",
         "s": "Adreno (TM) 610"
@@ -40754,6 +40751,11 @@
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "G52",
+        "m": "Mali",
+        "s": "Mali-G52"
       },
       {
         "d": "Adreno__TM__740",
@@ -42028,7 +42030,7 @@
     "name": "Start Playgtav"
   },
   "name:steam-linux": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [],
     "folders": [
       "Steam__Linux_"
