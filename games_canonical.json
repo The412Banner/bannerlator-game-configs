@@ -9810,11 +9810,12 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "MAFIA",
-      "Mafia"
+      "Mafia",
+      "Mafia_-_Definitive_Edition"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -16725,7 +16726,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -21400,7 +21401,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 47,
+    "config_count": 48,
     "devices": [
       {
         "d": "G78",
@@ -21503,6 +21504,7 @@
       "___3____________",
       "________3_____________",
       "bla",
+      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -29374,20 +29376,6 @@
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
-  "42700": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Call_of_Duty_-_Black_Ops"
-    ],
-    "name": "Call of Duty\u00ae: Black Ops"
-  },
   "427190": {
     "config_count": 1,
     "devices": [],
@@ -33786,7 +33774,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -33800,8 +33788,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2",
-      "LEGOMARVEL"
+      "LEGO__Marvel_Super_Heroes_2"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -35274,7 +35261,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 30,
+    "config_count": 31,
     "devices": [
       {
         "d": "G720_MC7",
@@ -35302,6 +35289,11 @@
         "s": "Mali-G615 MC6"
       },
       {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
         "d": "G76_MC4",
         "m": "Mali",
         "s": "Mali-G76 MC4"
@@ -35315,11 +35307,6 @@
         "d": "Adreno__TM__618",
         "m": "RMX2061",
         "s": "Adreno (TM) 618"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       },
       {
         "d": "G610_MC6",
