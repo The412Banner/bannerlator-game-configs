@@ -1856,7 +1856,7 @@
     "name": "Horizon Zero Dawn\u2122 Complete Edition"
   },
   "115320": {
-    "config_count": 72,
+    "config_count": 74,
     "devices": [
       {
         "d": "Adreno__TM__640",
@@ -1947,6 +1947,11 @@
         "d": "Adreno__TM__618",
         "m": "M2101K6G",
         "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__825",
@@ -3539,20 +3544,6 @@
       "Atla"
     ],
     "name": "Atlas Fallen: Reign Of Sand"
-  },
-  "12320": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred Gold"
   },
   "1232460": {
     "config_count": 1,
@@ -21412,7 +21403,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 47,
+    "config_count": 48,
     "devices": [
       {
         "d": "G78",
@@ -21515,6 +21506,7 @@
       "___3____________",
       "________3_____________",
       "bla",
+      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -22329,7 +22321,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1621,
+    "config_count": 1623,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24229,6 +24221,26 @@
       "Transformice"
     ],
     "name": "Transformice"
+  },
+  "335300": {
+    "config_count": 5,
+    "devices": [
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
+      }
+    ],
+    "folders": [
+      "DARKSOULS",
+      "DarkSoulsII"
+    ],
+    "name": "DARK SOULS\u2122 II: Scholar of the First Sin"
   },
   "3354750": {
     "config_count": 1,
@@ -26538,7 +26550,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 42,
+    "config_count": 37,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -26616,16 +26628,6 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -26638,7 +26640,6 @@
       "DarkSoulsRemastered",
       "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
-      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -27584,6 +27585,20 @@
       "Tekken_7"
     ],
     "name": "TEKKEN 7"
+  },
+  "3906660": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred 2 Remaster"
   },
   "3909960": {
     "config_count": 1,
@@ -29309,20 +29324,6 @@
       "Call_of_Duty___Modern_Warfare__3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
-  },
-  "42700": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Call_of_Duty_-_Black_Ops"
-    ],
-    "name": "Call of Duty\u00ae: Black Ops"
   },
   "427190": {
     "config_count": 1,
@@ -39750,7 +39751,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2903,
+    "config_count": 2912,
     "devices": [
       {
         "d": "G52_MC2",
@@ -40523,11 +40524,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "G76",
-        "m": "Mali",
-        "s": "Mali-G76"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "23129RA5FL",
         "s": "Adreno (TM) 610"
@@ -40576,11 +40572,6 @@
         "d": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
         "m": "A376B",
         "s": "ANGLE ((Samsung Xclipse 530) on Vulkan 1.3.279)"
-      },
-      {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
       },
       {
         "d": "PowerVR_Rogue_GE8322",
@@ -40643,11 +40634,6 @@
         "s": "Adreno (TM) 619"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "A366E",
         "s": "Adreno (TM) 710"
@@ -40671,6 +40657,21 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G76",
+        "m": "Mali",
+        "s": "Mali-G76"
       },
       {
         "d": "Adreno__TM__740",
@@ -41945,7 +41946,7 @@
     "name": "Start Playgtav"
   },
   "name:steam-linux": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "Steam__Linux_"
