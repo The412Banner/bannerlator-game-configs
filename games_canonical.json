@@ -39461,12 +39461,17 @@
     "name": "Need For Speed Shift"
   },
   "name:need-for-speed-the-run": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "G610_MC3",
         "m": "Mali",
         "s": "Mali-G610 MC3"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "2510DRK44C",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "Adreno__TM__650",
