@@ -4698,6 +4698,20 @@
     ],
     "name": "Lost Ruins"
   },
+  "1307710": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "GRID"
+    ],
+    "name": "GRID Legends"
+  },
   "1310510": {
     "config_count": 1,
     "devices": [],
@@ -22335,7 +22349,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1625,
+    "config_count": 1626,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -23393,11 +23407,6 @@
         "s": "Mali-G57"
       },
       {
-        "d": "G610_MC6",
-        "m": "Mali",
-        "s": "Mali-G610 MC6"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "23129RA5FL",
         "s": "Adreno (TM) 610"
@@ -23441,6 +23450,11 @@
         "d": "Adreno__TM__710",
         "m": "NX1",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G610_MC6",
+        "m": "Mali",
+        "s": "Mali-G610 MC6"
       },
       {
         "d": "Adreno__TM__830",
@@ -24576,6 +24590,20 @@
       "Resident_Evil_0"
     ],
     "name": "Resident Evil 0"
+  },
+  "3393770": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__650",
+        "m": "22021211RG",
+        "s": "Adreno (TM) 650"
+      }
+    ],
+    "folders": [
+      "Port_of_Jumanah_Demo"
+    ],
+    "name": "Port of Jumanah Demo"
   },
   "339790": {
     "config_count": 1,
@@ -26095,7 +26123,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -26116,11 +26144,6 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -31608,8 +31631,13 @@
     "name": "Celeste"
   },
   "5053820": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
+      },
       {
         "d": "Adreno__TM__829",
         "m": "I2508",
@@ -39306,6 +39334,14 @@
       "MKKE"
     ],
     "name": "Mkke"
+  },
+  "name:mohw": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "MOHW"
+    ],
+    "name": "Mohw"
   },
   "name:mosscollection": {
     "config_count": 1,
