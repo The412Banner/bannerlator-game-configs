@@ -778,7 +778,7 @@
     "name": "Dinkum"
   },
   "1063040": {
-    "config_count": 12,
+    "config_count": 14,
     "devices": [
       {
         "d": "G52_MC2",
@@ -2774,7 +2774,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 402,
+    "config_count": 403,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -4697,20 +4697,6 @@
       "Lost_Ruins"
     ],
     "name": "Lost Ruins"
-  },
-  "1307710": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "GRID"
-    ],
-    "name": "GRID Legends"
   },
   "1310510": {
     "config_count": 1,
@@ -17974,14 +17960,6 @@
     ],
     "name": "Tokyo Xtreme Racer"
   },
-  "2637940": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Cars"
-    ],
-    "name": "Used Cars Simulator"
-  },
   "2638050": {
     "config_count": 1,
     "devices": [],
@@ -21011,7 +20989,7 @@
     "name": "Unturned"
   },
   "3050220": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "2412DPC0AG",
@@ -21057,6 +21035,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G610_MC6",
+        "m": "Mali",
+        "s": "Mali-G610 MC6"
       }
     ],
     "folders": [
@@ -21417,7 +21400,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 48,
+    "config_count": 47,
     "devices": [
       {
         "d": "G78",
@@ -21520,7 +21503,6 @@
       "___3____________",
       "________3_____________",
       "bla",
-      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -22032,7 +22014,7 @@
     "name": "Mall Simulator"
   },
   "3183760": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -22043,6 +22025,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "NX769J",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -24044,6 +24031,14 @@
     ],
     "name": "Garten of Banban 0"
   },
+  "331160": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Cars"
+    ],
+    "name": "Disney\u2022Pixar Cars"
+  },
   "33120": {
     "config_count": 2,
     "devices": [
@@ -24449,8 +24444,16 @@
     ],
     "name": "Arma 2 Free"
   },
+  "339033": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Assassin_s_Creed_Rogue"
+    ],
+    "name": "Assassin\u2019s Creed\u00ae Rogue - Time Saver: Resource Pack"
+  },
   "339034": {
-    "config_count": 35,
+    "config_count": 34,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -24564,8 +24567,7 @@
       }
     ],
     "folders": [
-      "Assassin_s_Creed__Rogue",
-      "Assassin_s_Creed_Rogue"
+      "Assassin_s_Creed__Rogue"
     ],
     "name": "Assassin\u2019s Creed\u00ae Rogue - Time Saver: Technology Pack"
   },
@@ -26123,7 +26125,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -26144,6 +26146,11 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -26420,7 +26427,7 @@
     "name": "Kingdom: Classic"
   },
   "368500": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "G57",
@@ -26441,6 +26448,11 @@
         "d": "Adreno__TM__830",
         "m": "S938B",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
@@ -29362,6 +29374,20 @@
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
+  "42700": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Call_of_Duty_-_Black_Ops"
+    ],
+    "name": "Call of Duty\u00ae: Black Ops"
+  },
   "427190": {
     "config_count": 1,
     "devices": [],
@@ -32099,7 +32125,7 @@
     "name": "RAGE 2"
   },
   "550": {
-    "config_count": 68,
+    "config_count": 69,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -35806,7 +35832,7 @@
     "name": "Call of Duty\u00ae: Black Ops III - Revelations Zombies Map"
   },
   "831560": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__640",
@@ -39820,7 +39846,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2912,
+    "config_count": 2914,
     "devices": [
       {
         "d": "G52_MC2",
@@ -40508,11 +40534,6 @@
         "s": "Adreno (TM) 619"
       },
       {
-        "d": "G720_MC8",
-        "m": "Mali",
-        "s": "Mali-G720 MC8"
-      },
-      {
         "d": "Adreno__TM__616",
         "m": "RMX1971",
         "s": "Adreno (TM) 616"
@@ -40741,6 +40762,11 @@
         "d": "G76",
         "m": "Mali",
         "s": "Mali-G76"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
       },
       {
         "d": "Adreno__TM__740",
