@@ -1363,7 +1363,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1372,8 +1372,7 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid",
-      "Rangers"
+      "BattleForTheGrid"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -2182,7 +2181,7 @@
     "name": "FINAL FANTASY"
   },
   "1174180": {
-    "config_count": 53,
+    "config_count": 55,
     "devices": [
       {
         "d": "SM8750P",
@@ -2280,11 +2279,6 @@
         "s": "PowerVR Rogue GE8320"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__830",
         "m": "CPH2653",
         "s": "Adreno (TM) 830"
@@ -2303,6 +2297,11 @@
         "d": "Adreno__TM__740",
         "m": "V2338A",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__650",
@@ -2774,7 +2773,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 403,
+    "config_count": 405,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3175,6 +3174,11 @@
         "d": "Immortalis_MC12",
         "m": "G720",
         "s": "Mali-G720-Immortalis MC12"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "CPH2565",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "G52_MC2",
@@ -16740,7 +16744,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 29,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -19097,6 +19101,14 @@
       "DYNASTY_WARRIORS_8_-_Xtreme_Legends_Complete_Edition"
     ],
     "name": "Dynasty Warriors 8 - Xtreme Legends Complete Edition"
+  },
+  "2787680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Candy Rangers"
   },
   "2796520": {
     "config_count": 1,
@@ -22360,7 +22372,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1626,
+    "config_count": 1630,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -23468,6 +23480,11 @@
         "s": "Mali-G610 MC6"
       },
       {
+        "d": "Adreno__TM__610",
+        "m": "23028RA60L",
+        "s": "Adreno (TM) 610"
+      },
+      {
         "d": "Adreno__TM__830",
         "m": "NX9",
         "s": "Adreno (TM) 830"
@@ -24270,22 +24287,10 @@
     "name": "Transformice"
   },
   "335300": {
-    "config_count": 5,
-    "devices": [
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
-      }
-    ],
+    "config_count": 2,
+    "devices": [],
     "folders": [
-      "DARKSOULS",
-      "DarkSoulsII"
+      "DARKSOULS"
     ],
     "name": "DARK SOULS\u2122 II: Scholar of the First Sin"
   },
@@ -25030,6 +25035,14 @@
       "SR2_pc"
     ],
     "name": "RealFlight Evolution \u2013 E-flite UMX Cirrus SR22T"
+  },
+  "34830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper: Ghost Warrior"
   },
   "3483510": {
     "config_count": 1,
@@ -26414,14 +26427,6 @@
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
-  },
   "3681010": {
     "config_count": 1,
     "devices": [],
@@ -26611,7 +26616,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 37,
+    "config_count": 40,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -26689,6 +26694,16 @@
         "s": "Adreno (TM) 830"
       },
       {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
+      },
+      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -26701,6 +26716,7 @@
       "DarkSoulsRemastered",
       "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
+      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -28858,7 +28874,7 @@
     "name": "Football Life"
   },
   "413150": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "MT6789",
@@ -28884,6 +28900,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G77_MC9",
+        "m": "Mali",
+        "s": "Mali-G77 MC9"
       }
     ],
     "folders": [
@@ -28906,7 +28927,7 @@
     "name": "Danganronpa: Trigger Happy Havoc"
   },
   "414340": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "Hellblade__Senua_s_Sacrifice"
@@ -33784,7 +33805,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -33798,7 +33819,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2"
+      "LEGO__Marvel_Super_Heroes_2",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -41895,6 +41917,20 @@
       "Seint_Seiya_Soldier_s_Soul"
     ],
     "name": "Seint Seiya Soldier S Soul"
+  },
+  "name:sexyclick05-zn": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "SexyClick05_ZN"
+    ],
+    "name": "Sexyclick05 Zn"
   },
   "name:sftk": {
     "config_count": 1,
