@@ -15232,7 +15232,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 19,
+    "config_count": 16,
     "devices": [
       {
         "d": "G720_MC7",
@@ -15268,21 +15268,10 @@
         "d": "Adreno__TM__619",
         "m": "22111317PG",
         "s": "Adreno (TM) 619"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II",
-      "DarkSoulsII"
+      "DARK_SOULS__II"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -18498,7 +18487,7 @@
     "name": "Outbound"
   },
   "268910": {
-    "config_count": 39,
+    "config_count": 40,
     "devices": [
       {
         "d": "23043RP34G",
@@ -26687,7 +26676,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 39,
+    "config_count": 42,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -26765,6 +26754,16 @@
         "s": "Adreno (TM) 830"
       },
       {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
+      },
+      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -26777,6 +26776,7 @@
       "DarkSoulsRemastered",
       "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
+      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -29873,7 +29873,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 4,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -29884,7 +29884,9 @@
     "folders": [
       "Call_of_Duty_4",
       "COD__Modern_Warfare",
-      "Call_of_duty_Modern_Warfare"
+      "Call_of_Duty_4_Modern_Warfare",
+      "Call_of_duty_Modern_Warfare",
+      "call_of_duty_4_modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -35393,7 +35395,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 31,
+    "config_count": 29,
     "devices": [
       {
         "d": "G720_MC7",
@@ -35453,8 +35455,7 @@
       "Call_of_Duty__4__Modern_Warfare___2007_",
       "iw3mp",
       "iw3sp",
-      "Call_of_Duty_-_Modern_Warfare",
-      "call_of_duty_4_modern_Warfare"
+      "Call_of_Duty_-_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
