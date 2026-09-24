@@ -1376,7 +1376,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1385,8 +1385,7 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid",
-      "Rangers"
+      "BattleForTheGrid"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -6009,7 +6008,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 98,
+    "config_count": 99,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -9844,10 +9843,12 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [],
     "folders": [
-      "MAFIA"
+      "MAFIA",
+      "Mafia",
+      "Mafia_-_Definitive_Edition"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -11508,7 +11509,7 @@
     "name": "Sonic Frontiers: Monster Hunter Collaboration Pack"
   },
   "209000": {
-    "config_count": 16,
+    "config_count": 17,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -21140,6 +21141,14 @@
     ],
     "name": "THE KING OF FIGHTERS XIII GLOBAL MATCH"
   },
+  "3054410": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Bushside Rangers"
+  },
   "305620": {
     "config_count": 4,
     "devices": [
@@ -28147,7 +28156,7 @@
     "name": "MDS: Metro dispatcher simulator"
   },
   "391720": {
-    "config_count": 43,
+    "config_count": 44,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -28830,15 +28839,6 @@
       "BioShock_2_Remastered"
     ],
     "name": "BioShock\u2122 2 Remastered"
-  },
-  "40990": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Mafia",
-      "Mafia_-_Definitive_Edition"
-    ],
-    "name": "Mafia"
   },
   "4100940": {
     "config_count": 7,
@@ -29873,7 +29873,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 6,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -29884,9 +29884,7 @@
     "folders": [
       "Call_of_Duty_4",
       "COD__Modern_Warfare",
-      "Call_of_Duty_4_Modern_Warfare",
-      "Call_of_duty_Modern_Warfare",
-      "call_of_duty_4_modern_Warfare"
+      "Call_of_duty_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -31819,6 +31817,20 @@
       "FamilyTime"
     ],
     "name": "Family Time"
+  },
+  "5099430": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "TB323FU",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "The_Rhapsody_of_Zephyr_Remastered"
+    ],
+    "name": "The Rhapsody of Zephyr Remastered"
   },
   "5112150": {
     "config_count": 10,
@@ -35395,7 +35407,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 29,
+    "config_count": 31,
     "devices": [
       {
         "d": "G720_MC7",
@@ -35455,7 +35467,8 @@
       "Call_of_Duty__4__Modern_Warfare___2007_",
       "iw3mp",
       "iw3sp",
-      "Call_of_Duty_-_Modern_Warfare"
+      "Call_of_Duty_-_Modern_Warfare",
+      "call_of_duty_4_modern_Warfare"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
