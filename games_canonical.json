@@ -2390,7 +2390,7 @@
     "name": "I.G.I. Origins"
   },
   "1187": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G77_MC9",
@@ -2399,7 +2399,8 @@
       }
     ],
     "folders": [
-      "ACC"
+      "ACC",
+      "Assassin_s_Creed_Rogue"
     ],
     "name": "Acc"
   },
@@ -9843,12 +9844,10 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 3,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "MAFIA",
-      "Mafia",
-      "Mafia_-_Definitive_Edition"
+      "MAFIA"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -13561,7 +13560,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 17,
+    "config_count": 19,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -13600,7 +13599,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -19947,7 +19947,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -19988,7 +19988,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -22423,7 +22422,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1635,
+    "config_count": 1636,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24548,14 +24547,6 @@
       "ArmA_2_Free"
     ],
     "name": "Arma 2 Free"
-  },
-  "339033": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Assassin_s_Creed_Rogue"
-    ],
-    "name": "Assassin\u2019s Creed\u00ae Rogue - Time Saver: Resource Pack"
   },
   "339034": {
     "config_count": 34,
@@ -28847,6 +28838,15 @@
       "BioShock_2_Remastered"
     ],
     "name": "BioShock\u2122 2 Remastered"
+  },
+  "40990": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Mafia",
+      "Mafia_-_Definitive_Edition"
+    ],
+    "name": "Mafia"
   },
   "4100940": {
     "config_count": 7,
