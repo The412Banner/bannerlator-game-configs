@@ -1665,6 +1665,10 @@
     "method": "fuzzy",
     "steam_name": "Fantasy Grounds - CS1 After Winter's Dark: Aihrde Setting (Castles & Crusades)"
   },
+  "CourtBad": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "Cover_Fire": {
     "appid": 1763740,
     "method": "naive",
@@ -7760,6 +7764,12 @@
   "Prince_of_Persia___Warrior_Within__Config_App": {
     "appid": null,
     "method": "unresolved"
+  },
+  "Prince_of_Persia_the_Forgotten_Sands": {
+    "appid": 33320,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/33320/header.jpg",
+    "method": "naive",
+    "steam_name": "Prince of Persia: The Forgotten Sands\u2122"
   },
   "PrincessMakerKaren": {
     "appid": null,
