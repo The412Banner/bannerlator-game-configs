@@ -335,6 +335,12 @@
     "appid": null,
     "method": "unresolved"
   },
+  "Apex_Legends": {
+    "appid": 1172470,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1172470/header.jpg",
+    "method": "naive",
+    "steam_name": "Apex Legends\u2122"
+  },
   "Aphelion": {
     "appid": 1966410,
     "method": "naive",
@@ -5880,6 +5886,12 @@
   },
   "Mafia_2": {
     "appid": 1030830,
+    "method": "naive",
+    "steam_name": "Mafia II: Definitive Edition"
+  },
+  "Mafia_2_____________________________________________________": {
+    "appid": 1030830,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1030830/header.jpg",
     "method": "naive",
     "steam_name": "Mafia II: Definitive Edition"
   },

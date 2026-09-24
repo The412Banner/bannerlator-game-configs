@@ -552,7 +552,7 @@
     "name": "Hollow Knight: Silksong"
   },
   "1030830": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "G57_MC2",
@@ -580,6 +580,11 @@
         "s": "Adreno (TM) 829"
       },
       {
+        "d": "Adreno__TM__830",
+        "m": "2510DPC44G",
+        "s": "Adreno (TM) 830"
+      },
+      {
         "d": "Adreno__TM__730",
         "m": "22081212UG",
         "s": "Adreno (TM) 730"
@@ -595,6 +600,7 @@
       "Mafia_2",
       "Mafia_II",
       "Mafia_II__Definitive_Edition",
+      "Mafia_2_____________________________________________________",
       "Mafia_II_Definitive_Edition",
       "mafia2"
     ],
@@ -727,7 +733,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -763,10 +769,16 @@
         "d": "Adreno__TM__740",
         "m": "2211133C",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Ori_and_the_Will_of_the_Wisps",
+      "Ori",
       "Ori_and_the_will_of_the_wisps"
     ],
     "name": "Ori and the Will of the Wisps"
@@ -2159,6 +2171,20 @@
       "STAR_WARS_Jedi__Fallen_Order_"
     ],
     "name": "STAR WARS Jedi: Fallen Order\u2122"
+  },
+  "1172470": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+        "m": "A566B",
+        "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
+      }
+    ],
+    "folders": [
+      "Apex_Legends"
+    ],
+    "name": "Apex Legends\u2122"
   },
   "1173690": {
     "config_count": 2,
@@ -13584,7 +13610,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 19,
+    "config_count": 17,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -13623,8 +13649,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -14131,7 +14156,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 247,
+    "config_count": 249,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -14447,6 +14472,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "CPH2349",
+        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -19979,7 +20009,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 34,
     "devices": [
       {
         "d": "G615_MC2",
@@ -20020,6 +20050,7 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
+      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -22454,7 +22485,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1638,
+    "config_count": 1644,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -26471,7 +26502,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 14,
+    "config_count": 13,
     "devices": [
       {
         "d": "G68_MC4",
@@ -26492,22 +26523,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "2211133C",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE",
-      "Ori"
+      "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -31018,7 +31038,7 @@
     "name": "Hentai Tales: The Cat's Return"
   },
   "48700": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -31026,14 +31046,14 @@
         "s": "Adreno (TM) 825"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__750",
         "m": "NX9",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -40026,7 +40046,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2920,
+    "config_count": 2921,
     "devices": [
       {
         "d": "G52_MC2",
@@ -40924,11 +40944,6 @@
         "s": "Mali-G615 MC6"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G76",
         "m": "Mali",
         "s": "Mali-G76"
@@ -40947,6 +40962,11 @@
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
@@ -42245,7 +42265,7 @@
     "name": "Start Playgtav"
   },
   "name:steam-linux": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [],
     "folders": [
       "Steam__Linux_"
