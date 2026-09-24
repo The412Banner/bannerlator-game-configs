@@ -22439,7 +22439,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1636,
+    "config_count": 1637,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25243,7 +25243,7 @@
     "name": "Stellar Blade\u2122"
   },
   "349040": {
-    "config_count": 65,
+    "config_count": 66,
     "devices": [
       {
         "d": "G615_MC2",
@@ -25316,11 +25316,6 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__660",
         "m": "ASUS_I005DTC",
         "s": "Adreno (TM) 660"
@@ -25354,6 +25349,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -27332,7 +27332,7 @@
     "name": "Psychonauts"
   },
   "383150": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -41102,7 +41102,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 213,
+    "config_count": 214,
     "devices": [
       {
         "d": "G615_MC2",
@@ -41378,6 +41378,11 @@
         "d": "Adreno__TM__660",
         "m": "M2011K2G",
         "s": "Adreno (TM) 660"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "2512BPNDAG",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__740",
