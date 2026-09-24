@@ -6639,7 +6639,7 @@
     "name": "LEGO\u00ae Skylines"
   },
   "1574140": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -6648,7 +6648,6 @@
       }
     ],
     "folders": [
-      "DiRT4",
       "Dirt4"
     ],
     "name": "TIME FOR YOU - CHAPTER 02 - DIRTY THOUGHTS AND CORPORATE BOTS"
@@ -26807,6 +26806,11 @@
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "S928B",
+        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
@@ -26817,7 +26821,8 @@
       "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
       "DarkSoulsIII",
-      "Dark_Souls_III"
+      "Dark_Souls_III",
+      "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122 III"
   },
@@ -32851,7 +32856,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 44,
+    "config_count": 41,
     "devices": [
       {
         "d": "G57",
@@ -32947,17 +32952,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
-      },
-      {
-        "d": "Adreno__TM__660",
-        "m": "S928B",
-        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
       "DARK_SOULS__REMASTERED",
-      "DARK_SOULS___REMASTERED",
-      "Dark_Souls_Remastered"
+      "DARK_SOULS___REMASTERED"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
   },
@@ -38470,6 +38469,20 @@
       "Dirt_Showdown"
     ],
     "name": "Dirt Showdown"
+  },
+  "name:dirt4": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__650",
+        "m": "G988N",
+        "s": "Adreno (TM) 650"
+      }
+    ],
+    "folders": [
+      "DiRT4"
+    ],
+    "name": "Dirt4"
   },
   "name:dirtfish-dirt4": {
     "config_count": 1,
