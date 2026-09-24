@@ -7771,7 +7771,6 @@
   },
   "Prince_of_Persia_the_Forgotten_Sands": {
     "appid": 33320,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/33320/header.jpg",
     "method": "naive",
     "steam_name": "Prince of Persia: The Forgotten Sands\u2122"
   },
@@ -10094,6 +10093,12 @@
   },
   "The_Last_of_Us__Part_II": {
     "appid": 2531310,
+    "method": "naive",
+    "steam_name": "The Last of Us\u2122 Part II Remastered"
+  },
+  "The_Last_of_Us__Part_II_Remastered": {
+    "appid": 2531310,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2531310/header.jpg",
     "method": "naive",
     "steam_name": "The Last of Us\u2122 Part II Remastered"
   },
