@@ -565,6 +565,11 @@
         "s": "Adreno (TM) 830"
       },
       {
+        "d": "Adreno__TM__830",
+        "m": "2510DPC44G",
+        "s": "Adreno (TM) 830"
+      },
+      {
         "d": "Adreno__TM__650",
         "m": "G981U",
         "s": "Adreno (TM) 650"
@@ -580,11 +585,6 @@
         "s": "Adreno (TM) 829"
       },
       {
-        "d": "Adreno__TM__830",
-        "m": "2510DPC44G",
-        "s": "Adreno (TM) 830"
-      },
-      {
         "d": "Adreno__TM__730",
         "m": "22081212UG",
         "s": "Adreno (TM) 730"
@@ -598,9 +598,9 @@
     "folders": [
       "MAFIA_II",
       "Mafia_2",
+      "Mafia_2_____________________________________________________",
       "Mafia_II",
       "Mafia_II__Definitive_Edition",
-      "Mafia_2_____________________________________________________",
       "Mafia_II_Definitive_Edition",
       "mafia2"
     ],
@@ -10945,8 +10945,33 @@
     "name": "Hitman: Absolution\u2122"
   },
   "203160": {
-    "config_count": 13,
+    "config_count": 26,
     "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
+      },
       {
         "d": "Adreno__TM__740",
         "m": "S911U",
@@ -10974,11 +10999,12 @@
       }
     ],
     "folders": [
+      "TombRaider",
       "Tomb_Raider",
       "Tomb_Raider_2013",
       "Tomb_Raider_Game_of_the_Year"
     ],
-    "name": "Tomb Raider"
+    "name": "Tomb Raider Game of the Year"
   },
   "203650": {
     "config_count": 3,
@@ -12780,6 +12806,14 @@
     ],
     "name": "Ricochet Blur"
   },
+  "2186680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "tra"
+    ],
+    "name": "Warhammer 40,000: Rogue Trader"
+  },
   "2187220": {
     "config_count": 1,
     "devices": [
@@ -12968,7 +13002,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 116,
+    "config_count": 117,
     "devices": [
       {
         "d": "S938B",
@@ -13009,11 +13043,6 @@
         "d": "Adreno__TM__830",
         "m": "S937B",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__730",
@@ -13119,6 +13148,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
@@ -13610,7 +13644,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 17,
+    "config_count": 20,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -13649,7 +13683,9 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -20009,7 +20045,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -20049,9 +20085,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "rerev",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -22485,7 +22519,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1644,
+    "config_count": 1645,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -23534,11 +23568,6 @@
       },
       {
         "d": "Adreno__TM__610",
-        "m": "LX2",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__610",
         "m": "23129RA5FL",
         "s": "Adreno (TM) 610"
       },
@@ -23596,6 +23625,11 @@
         "d": "256",
         "m": "8",
         "s": "PowerVR B-Series BXM-8-256"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "LX2",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__830",
@@ -25056,7 +25090,7 @@
     "name": "Sniper at Work"
   },
   "345350": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -25065,7 +25099,8 @@
       }
     ],
     "folders": [
-      "LIGHTNING_RETURNS___FINAL_FANTASY__XIII"
+      "LIGHTNING_RETURNS___FINAL_FANTASY__XIII",
+      "LIGHTNING_RETURNS_-_FINAL_FANTASY_XIII"
     ],
     "name": "LIGHTNING RETURNS\u2122: FINAL FANTASY\u00ae XIII"
   },
@@ -25411,7 +25446,7 @@
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
   },
   "3493540": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G57_MC2",
@@ -25827,42 +25862,16 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 17,
+    "config_count": 4,
     "devices": [
       {
         "d": "G57_MC4",
         "m": "Mali",
         "s": "Mali-G57 MC4"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
-      "Atla",
-      "TombRaider"
+      "Atla"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -30208,20 +30217,6 @@
       "Gold_Mining_Simulator"
     ],
     "name": "Gold Mining Simulator"
-  },
-  "4523200": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "I2501",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "SO2R"
-    ],
-    "name": "Diablo II: Resurrected - Original Soundtrack"
   },
   "4533800": {
     "config_count": 1,
@@ -35258,6 +35253,20 @@
     ],
     "name": "Russian Fishing 4"
   },
+  "768520": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "I2501",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "SO2R"
+    ],
+    "name": "Red Solstice 2: Survivors"
+  },
   "773700": {
     "config_count": 1,
     "devices": [
@@ -38595,7 +38604,7 @@
     "name": "Dyinglightgame Thebeast X64 Rwdi"
   },
   "name:efootball-2021": {
-    "config_count": 52,
+    "config_count": 53,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -38648,11 +38657,6 @@
         "s": "Adreno (TM) 750"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
@@ -38686,6 +38690,11 @@
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
