@@ -4890,14 +4890,6 @@
     ],
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
-  "1328670": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Mass_Effect"
-    ],
-    "name": "Mass Effect\u2122 Legendary Edition"
-  },
   "1330000": {
     "config_count": 1,
     "devices": [],
@@ -8354,7 +8346,7 @@
     "name": "Mirror's Edge\u2122"
   },
   "17460": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -14202,7 +14194,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 249,
+    "config_count": 251,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -14470,11 +14462,6 @@
         "s": "PowerVR B-Series BXM-8-256"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "A235M",
         "s": "Adreno (TM) 610"
@@ -14523,6 +14510,11 @@
         "d": "PowerVR_Rogue_GE8320",
         "m": "CPH2349",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -16244,14 +16236,6 @@
     ],
     "name": "Cyber Manhunt 2: New World - The Hacking Simulator"
   },
-  "2421750": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GUN"
-    ],
-    "name": "Gunman Contracts - Stand Alone"
-  },
   "2424420": {
     "config_count": 7,
     "devices": [
@@ -16874,7 +16858,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -17310,6 +17294,14 @@
       "Denshattack_"
     ],
     "name": "Denshattack"
+  },
+  "2524890": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GUN"
+    ],
+    "name": "Pixel Gun 3D: PC Edition"
   },
   "2527160": {
     "config_count": 3,
@@ -22534,7 +22526,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1654,
+    "config_count": 1656,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -23332,11 +23324,6 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "G76",
-        "m": "Mali",
-        "s": "Mali-G76"
-      },
-      {
         "d": "Adreno__TM__730",
         "m": "22081212UG",
         "s": "Adreno (TM) 730"
@@ -23650,6 +23637,11 @@
         "d": "Adreno__TM__618",
         "m": "Redmi_Note_9S",
         "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "G76",
+        "m": "Mali",
+        "s": "Mali-G76"
       },
       {
         "d": "Adreno__TM__830",
@@ -30031,13 +30023,20 @@
     "name": "This Is the Police"
   },
   "4439810": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "Forza_Horizon_2_____________________________________________",
-      "Forza_Horizon_2"
+      "Forza_Horizon_2_____________________________________________"
     ],
     "name": "Forza Horizon 6 2024 Koenigsegg Gemera"
+  },
+  "4439830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Forza_Horizon_2"
+    ],
+    "name": "Forza Horizon 6 2008 Honda Civic Type R (FD2)"
   },
   "444200": {
     "config_count": 1,
@@ -30287,20 +30286,6 @@
       "Gold_Mining_Simulator"
     ],
     "name": "Gold Mining Simulator"
-  },
-  "4523200": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "I2501",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "SO2R"
-    ],
-    "name": "Diablo II: Resurrected - Original Soundtrack"
   },
   "4533800": {
     "config_count": 1,
@@ -34065,7 +34050,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -34079,8 +34064,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2",
-      "LEGOMARVEL"
+      "LEGO__Marvel_Super_Heroes_2"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -35336,6 +35320,20 @@
       "Russian_Fishing_4"
     ],
     "name": "Russian Fishing 4"
+  },
+  "768520": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "I2501",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "SO2R"
+    ],
+    "name": "Red Solstice 2: Survivors"
   },
   "773700": {
     "config_count": 1,
@@ -42284,7 +42282,13 @@
   },
   "name:sparkingzero-win64-shipping": {
     "config_count": 4,
-    "devices": [],
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
+      }
+    ],
     "folders": [
       "SparkingZERO-Win64-Shipping"
     ],
