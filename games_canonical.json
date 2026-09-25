@@ -22570,7 +22570,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1658,
+    "config_count": 1659,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -30339,6 +30339,20 @@
     ],
     "name": "Gold Mining Simulator"
   },
+  "4523200": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "I2501",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "SO2R"
+    ],
+    "name": "Diablo II: Resurrected - Original Soundtrack"
+  },
   "4533800": {
     "config_count": 1,
     "devices": [
@@ -35379,20 +35393,6 @@
     ],
     "name": "Russian Fishing 4"
   },
-  "768520": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "I2501",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "SO2R"
-    ],
-    "name": "Red Solstice 2: Survivors"
-  },
   "773700": {
     "config_count": 1,
     "devices": [
@@ -35845,7 +35845,7 @@
     "name": "Monster Sanctuary"
   },
   "814380": {
-    "config_count": 70,
+    "config_count": 71,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -35948,11 +35948,6 @@
         "s": "Adreno (TM) 740"
       },
       {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
@@ -35981,6 +35976,11 @@
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__750",
@@ -36552,7 +36552,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 115,
+    "config_count": 116,
     "devices": [
       {
         "d": "s5e8855",
@@ -36743,6 +36743,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__840",
@@ -40191,7 +40196,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2928,
+    "config_count": 2929,
     "devices": [
       {
         "d": "G52_MC2",
@@ -42763,7 +42768,7 @@
     "name": "Wwe2K24 X64"
   },
   "name:x-men-origins-wolverine": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "X-Men_Origins_-_Wolverine"
