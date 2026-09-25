@@ -986,7 +986,7 @@
     "name": "The Gunk"
   },
   "108800": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -1000,7 +1000,8 @@
       }
     ],
     "folders": [
-      "Crysis_2_-_Maximum_Edition"
+      "Crysis_2_-_Maximum_Edition",
+      "Crysis_2_Maximum_Edition"
     ],
     "name": "Crysis 2 - Maximum Edition"
   },
@@ -13057,7 +13058,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 117,
+    "config_count": 118,
     "devices": [
       {
         "d": "S938B",
@@ -13208,6 +13209,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
       },
       {
         "d": "Adreno__TM__740",
@@ -20134,7 +20140,7 @@
     "name": "Resident Evil Revelations 2"
   },
   "287390": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "Metro__Last_Light_Redux",
@@ -27710,7 +27716,7 @@
     "name": "Day of the Tentacle Remastered"
   },
   "388410": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -27756,7 +27762,8 @@
     "folders": [
       "Darksiders_II_Deathinitive_Edition",
       "Darksiders_II_Deathinitive_Edition__________________________",
-      "Darksiders_II_______________________________________________"
+      "Darksiders_II_______________________________________________",
+      "Darksiders_2"
     ],
     "name": "Darksiders II Deathinitive Edition"
   },
@@ -30057,7 +30064,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 6,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -30068,7 +30075,6 @@
     "folders": [
       "Call_of_Duty_4",
       "COD__Modern_Warfare",
-      "Call_of_Duty_4_Modern_Warfare",
       "Call_of_duty_Modern_Warfare",
       "call_of_duty_4_modern_Warfare"
     ],
@@ -30484,7 +30490,7 @@
     "name": "Oxygen Not Included"
   },
   "45740": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__660",
@@ -30498,7 +30504,8 @@
       }
     ],
     "folders": [
-      "DEAD_RISING_"
+      "DEAD_RISING_",
+      "Dead_Rising_2"
     ],
     "name": "Dead Rising\u00ae 2"
   },
@@ -31249,7 +31256,7 @@
     "name": "Warhammer 40,000: Gladius - Relics of War"
   },
   "489830": {
-    "config_count": 68,
+    "config_count": 69,
     "devices": [
       {
         "d": "G615_MC6",
@@ -32419,6 +32426,14 @@
       "SOULCALIBUR__"
     ],
     "name": "SOULCALIBUR VI"
+  },
+  "546230": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Xenus______________"
+    ],
+    "name": "Xenus 2. White gold."
   },
   "548430": {
     "config_count": 2,
@@ -35606,7 +35621,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "G720_MC7",
@@ -37148,7 +37163,7 @@
     "name": "Endzone - A World Apart"
   },
   "934700": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -42547,7 +42562,7 @@
     "name": "The Amazing Spider Man"
   },
   "name:the-amazing-spider-man-2": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "The_Amazing_Spider-Man_2"
