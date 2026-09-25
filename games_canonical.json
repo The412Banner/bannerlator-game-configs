@@ -6056,7 +6056,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 98,
+    "config_count": 101,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -10609,7 +10609,7 @@
     "name": "Dokimon Quest"
   },
   "202170": {
-    "config_count": 72,
+    "config_count": 71,
     "devices": [
       {
         "d": "MT6878",
@@ -10792,8 +10792,7 @@
       "Sleeping_Dogs_",
       "Sleeping_Dogs_-_Definitive_Edition__________________________",
       "SleepingDogs",
-      "Sleeping_Dogs_-_Definitive_Edition",
-      "Sleeping_Dogs_Definitive_Edition"
+      "Sleeping_Dogs_-_Definitive_Edition"
     ],
     "name": "Sleeping Dogs"
   },
@@ -11259,7 +11258,7 @@
     "name": "Resident Evil 4"
   },
   "205100": {
-    "config_count": 11,
+    "config_count": 13,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11280,6 +11279,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "I2218",
+        "s": "Adreno (TM) 720"
       }
     ],
     "folders": [
@@ -13186,7 +13190,7 @@
     "name": "Far Cry 3"
   },
   "220440": {
-    "config_count": 36,
+    "config_count": 37,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -13303,7 +13307,8 @@
       "DmC_Devil_May_Cry",
       "DmC_Devil_May_Cry___________________________________________",
       "DmC__Devil_May_Cry",
-      "DMC-DevilMayCry"
+      "DMC-DevilMayCry",
+      "DMC-DevilMayCry_2013"
     ],
     "name": "DmC: Devil May Cry"
   },
@@ -14010,7 +14015,7 @@
     "name": "Tomb Raider II (1997)"
   },
   "2254490": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "G52_MC2",
@@ -14021,6 +14026,11 @@
         "d": "Adreno__TM__840",
         "m": "25102PCBEG",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__644",
@@ -14035,6 +14045,7 @@
     ],
     "folders": [
       "Launcher",
+      "Rockstar_Games_Launcher",
       "launcher"
     ],
     "name": "Squirrel Launcher"
@@ -16540,6 +16551,14 @@
       "Assetto_Corsa"
     ],
     "name": "Assetto Corsa"
+  },
+  "244450": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Men_of_War_-_Assault_Squad_2"
+    ],
+    "name": "Men of War: Assault Squad 2"
   },
   "2444750": {
     "config_count": 1,
@@ -21329,7 +21348,7 @@
     "name": "Platypus"
   },
   "307690": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -21358,7 +21377,8 @@
       }
     ],
     "folders": [
-      "Sleeping_Dogs__Definitive_Edition"
+      "Sleeping_Dogs__Definitive_Edition",
+      "Sleeping_Dogs_Definitive_Edition"
     ],
     "name": "Sleeping Dogs: Definitive Edition"
   },
@@ -22514,7 +22534,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1653,
+    "config_count": 1654,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24344,7 +24364,7 @@
     "name": "Assassin's Creed 2"
   },
   "332800": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__618",
@@ -24353,7 +24373,6 @@
       }
     ],
     "folders": [
-      "FiveNightsatFreddys_3",
       "Five_Nights_At_Freddys_2"
     ],
     "name": "Five Nights at Freddy's 2"
@@ -24439,25 +24458,6 @@
       "Transformice"
     ],
     "name": "Transformice"
-  },
-  "335300": {
-    "config_count": 3,
-    "devices": [
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
-      }
-    ],
-    "folders": [
-      "DarkSoulsII"
-    ],
-    "name": "DARK SOULS\u2122 II: Scholar of the First Sin"
   },
   "3354750": {
     "config_count": 1,
@@ -25201,6 +25201,14 @@
     ],
     "name": "RealFlight Evolution \u2013 E-flite UMX Cirrus SR22T"
   },
+  "34830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper: Ghost Warrior"
+  },
   "3483510": {
     "config_count": 1,
     "devices": [
@@ -25236,7 +25244,7 @@
     "name": "SAMURAI WARRIORS 4-II"
   },
   "34870": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "G720_MC7",
@@ -25252,11 +25260,17 @@
         "d": "Adreno__TM__840",
         "m": "I2501",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
       "Sniper_Ghost_Warrior_2",
-      "Sniper__Ghost_Warrior_2"
+      "Sniper__Ghost_Warrior_2",
+      "SniperGhostWarrior2"
     ],
     "name": "Sniper: Ghost Warrior 2"
   },
@@ -25757,6 +25771,20 @@
       "Aces_of_the_Luftwaffe"
     ],
     "name": "Aces of the Luftwaffe"
+  },
+  "354140": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__618",
+        "m": "M2007J20CG",
+        "s": "Adreno (TM) 618"
+      }
+    ],
+    "folders": [
+      "FiveNightsatFreddys_3"
+    ],
+    "name": "Five Nights at Freddy's 3"
   },
   "354160": {
     "config_count": 1,
@@ -26757,7 +26785,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 39,
+    "config_count": 42,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -26835,6 +26863,16 @@
         "s": "Adreno (TM) 830"
       },
       {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
+      },
+      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -26847,6 +26885,7 @@
       "DarkSoulsRemastered",
       "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
+      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -33908,14 +33947,6 @@
     ],
     "name": "Journey"
   },
-  "64000": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Men_of_War_-_Assault_Squad_2"
-    ],
-    "name": "Men of War: Assault Squad"
-  },
   "640590": {
     "config_count": 1,
     "devices": [],
@@ -34989,7 +35020,7 @@
     "name": "DYNASTY WARRIORS 9"
   },
   "731490": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -38418,14 +38449,6 @@
     ],
     "name": "Conviction Game"
   },
-  "name:crashbandicootnsanetrilogy": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "CrashBandicootNSaneTrilogy"
-    ],
-    "name": "Crashbandicootnsanetrilogy"
-  },
   "name:cricket07": {
     "config_count": 1,
     "devices": [
@@ -38578,20 +38601,6 @@
     ],
     "name": "Discordsetup"
   },
-  "name:dishonored": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__720",
-        "m": "I2218",
-        "s": "Adreno (TM) 720"
-      }
-    ],
-    "folders": [
-      "Dishonored"
-    ],
-    "name": "Dishonored"
-  },
   "name:dlss-5-swapper": {
     "config_count": 1,
     "devices": [],
@@ -38599,20 +38608,6 @@
       "DLSS_5_Swapper"
     ],
     "name": "Dlss 5 Swapper"
-  },
-  "name:dmc-devilmaycry-2013": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2487",
-        "s": "Adreno (TM) 730"
-      }
-    ],
-    "folders": [
-      "DMC-DevilMayCry_2013"
-    ],
-    "name": "Dmc Devilmaycry 2013"
   },
   "name:domesticlover": {
     "config_count": 1,
@@ -38905,20 +38900,6 @@
       "FFXIII"
     ],
     "name": "Ffxiii"
-  },
-  "name:fifa-23": {
-    "config_count": 3,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "FIFA_23"
-    ],
-    "name": "Fifa 23"
   },
   "name:fifa14": {
     "config_count": 1,
@@ -42135,20 +42116,6 @@
     ],
     "name": "Rocketleague"
   },
-  "name:rockstar-games-launcher": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Rockstar_Games_Launcher"
-    ],
-    "name": "Rockstar Games Launcher"
-  },
   "name:rottr": {
     "config_count": 8,
     "devices": [
@@ -42290,28 +42257,6 @@
       "Snapshot__Lewd_Shores"
     ],
     "name": "Snapshot Lewd Shores"
-  },
-  "name:sniper-ghost-warrior-1": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 1"
-  },
-  "name:sniperghostwarrior2": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "SniperGhostWarrior2"
-    ],
-    "name": "Sniperghostwarrior2"
   },
   "name:sniperv2launcher": {
     "config_count": 1,
