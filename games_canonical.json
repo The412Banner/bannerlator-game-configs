@@ -6048,7 +6048,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 101,
+    "config_count": 99,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -30467,14 +30467,6 @@
     ],
     "name": "Ultra Street Fighter\u00ae IV"
   },
-  "4576490": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "CasualtiesUnknown"
-    ],
-    "name": "Casualties: Unknown"
-  },
   "4576510": {
     "config_count": 1,
     "devices": [
@@ -38365,6 +38357,14 @@
     ],
     "name": "Castlevaniasoh"
   },
+  "name:casualtiesunknown": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "CasualtiesUnknown"
+    ],
+    "name": "Casualtiesunknown"
+  },
   "name:clientg": {
     "config_count": 1,
     "devices": [],
@@ -38898,6 +38898,14 @@
       "FFXIII"
     ],
     "name": "Ffxiii"
+  },
+  "name:fifa-13": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "FIFA_13"
+    ],
+    "name": "Fifa 13"
   },
   "name:fifa14": {
     "config_count": 1,
