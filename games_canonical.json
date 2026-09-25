@@ -26625,7 +26625,7 @@
     "name": "Kingdom: Classic"
   },
   "368500": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "G57",
@@ -26651,6 +26651,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
