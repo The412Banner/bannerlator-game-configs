@@ -1846,6 +1846,14 @@
     ],
     "name": "DOOM 64"
   },
+  "1151340": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Fallout_3__Game_of_the_Year_Edition"
+    ],
+    "name": "Fallout 76"
+  },
   "1151380": {
     "config_count": 1,
     "devices": [
@@ -5826,7 +5834,7 @@
     "name": "Majikoi! Love Me Seriously!"
   },
   "1462040": {
-    "config_count": 10,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -5851,7 +5859,6 @@
     ],
     "folders": [
       "FINAL_FANTASY_VII_REMAKE_INTERGRADE",
-      "FINAL_FANTASY_VII_REMAKE",
       "Final_Fantasy_VII_Remake"
     ],
     "name": "FINAL FANTASY VII REMAKE INTERGRADE"
@@ -9895,12 +9902,11 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "MAFIA",
-      "Mafia",
-      "Mafia_-_Definitive_Edition"
+      "Mafia"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -13882,14 +13888,6 @@
       "Contra_Galuga"
     ],
     "name": "Contra: Operation Galuga"
-  },
-  "22370": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Fallout_3__Game_of_the_Year_Edition"
-    ],
-    "name": "Fallout 3: Game of the Year Edition"
   },
   "22380": {
     "config_count": 18,
@@ -27097,7 +27095,7 @@
     "name": "007 First Light"
   },
   "377160": {
-    "config_count": 23,
+    "config_count": 22,
     "devices": [
       {
         "d": "SM8750P",
@@ -27156,8 +27154,7 @@
       }
     ],
     "folders": [
-      "Fallout_4",
-      "Fallout_4_-_Game_of_the_Year_Edition"
+      "Fallout_4"
     ],
     "name": "Fallout 4"
   },
@@ -29055,14 +29052,6 @@
     ],
     "name": "Z.A.T.O. - Digital Art Pack"
   },
-  "4123760": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Football_Life_2026"
-    ],
-    "name": "Football Life"
-  },
   "413150": {
     "config_count": 7,
     "devices": [
@@ -29437,14 +29426,6 @@
       "Furi"
     ],
     "name": "Furi"
-  },
-  "423950": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Deadlight_-_Director_s_Cut"
-    ],
-    "name": "Deadlight: Director's Cut"
   },
   "4241690": {
     "config_count": 1,
@@ -33883,7 +33864,7 @@
     "name": "Risk of Rain 2"
   },
   "632470": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [],
     "folders": [
       "Disco_Elysium_-_The_Final_Cut"
@@ -38555,6 +38536,14 @@
     ],
     "name": "Dbxv"
   },
+  "name:deadlight-director-s-cut": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Deadlight_-_Director_s_Cut"
+    ],
+    "name": "Deadlight Director S Cut"
+  },
   "name:deus-ex-human-revolution-dc": {
     "config_count": 1,
     "devices": [],
@@ -38616,6 +38605,14 @@
       "Dirtfish_DiRT4"
     ],
     "name": "Dirtfish Dirt4"
+  },
+  "name:disco-elysium-the-final-cut": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Disco_Elysium_-_The_Final_Cut"
+    ],
+    "name": "Disco Elysium The Final Cut"
   },
   "name:discordcanarysetup": {
     "config_count": 1,
@@ -38879,6 +38876,14 @@
     ],
     "name": "Eurotrucks2 32"
   },
+  "name:fallout-4-game-of-the-year-edition": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Fallout_4_-_Game_of_the_Year_Edition"
+    ],
+    "name": "Fallout 4 Game Of The Year Edition"
+  },
   "name:fallout-new-vegas-pcr": {
     "config_count": 1,
     "devices": [],
@@ -39023,6 +39028,22 @@
       "Final_Fantasy_7_SteamRip__READ_DESCRIPTION_"
     ],
     "name": "Final Fantasy 7 Steamrip Read Description"
+  },
+  "name:final-fantasy-vii-remake": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "FINAL_FANTASY_VII_REMAKE"
+    ],
+    "name": "Final Fantasy Vii Remake"
+  },
+  "name:football-life-2026": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Football_Life_2026"
+    ],
+    "name": "Football Life 2026"
   },
   "name:frozen-throne": {
     "config_count": 1,
@@ -39553,6 +39574,14 @@
       "LunaAbyss-WinGDK-Shipping"
     ],
     "name": "Lunaabyss Wingdk Shipping"
+  },
+  "name:mafia-definitive-edition": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Mafia_-_Definitive_Edition"
+    ],
+    "name": "Mafia Definitive Edition"
   },
   "name:marvel-s-guardians-of-the-galaxy-the-telltale-series": {
     "config_count": 1,
