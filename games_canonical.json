@@ -2819,7 +2819,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 407,
+    "config_count": 408,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3230,6 +3230,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "23043RP34G",
+        "s": "Adreno (TM) 650"
       },
       {
         "d": "Adreno__TM__735",
@@ -4908,6 +4913,14 @@
       "Need_for_Speed_Hot_Pursuit"
     ],
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
+  },
+  "1328670": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Mass_Effect"
+    ],
+    "name": "Mass Effect\u2122 Legendary Edition"
   },
   "1330000": {
     "config_count": 1,
@@ -8365,7 +8378,7 @@
     "name": "Mirror's Edge\u2122"
   },
   "17460": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -12389,6 +12402,14 @@
     ],
     "name": "LEGO\u00ae The Lord of the Rings\u2122"
   },
+  "214730": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Space_Rangers_HD_A_War_Apart"
+    ],
+    "name": "Space Rangers HD: A War Apart"
+  },
   "215259": {
     "config_count": 1,
     "devices": [
@@ -16275,6 +16296,14 @@
     ],
     "name": "Cyber Manhunt 2: New World - The Hacking Simulator"
   },
+  "2421750": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GUN"
+    ],
+    "name": "Gunman Contracts - Stand Alone"
+  },
   "2424420": {
     "config_count": 7,
     "devices": [
@@ -17333,14 +17362,6 @@
       "Denshattack_"
     ],
     "name": "Denshattack"
-  },
-  "2524890": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GUN"
-    ],
-    "name": "Pixel Gun 3D: PC Edition"
   },
   "2527160": {
     "config_count": 3,
@@ -20386,12 +20407,30 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "PLQ110",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "CPH2795",
+        "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "CPH2653",
+        "s": "Adreno (TM) 830"
+      }
+    ],
     "folders": [
+      "The_Witcher_3_-_Wild_Hunt",
+      "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3__Wild_Hunt_-_Complete_Edition"
     ],
-    "name": "The Witcher 3 Wild Hunt - Complete Edition"
+    "name": "The Witcher 3: Wild Hunt - Complete Edition"
   },
   "292120": {
     "config_count": 4,
@@ -21618,7 +21657,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 48,
+    "config_count": 49,
     "devices": [
       {
         "d": "G78",
@@ -21721,6 +21760,7 @@
       "___3____________",
       "________3_____________",
       "bla",
+      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -22554,7 +22594,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1659,
+    "config_count": 1662,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -23332,11 +23372,6 @@
         "s": "ANGLE ((Samsung Xclipse 530) on Vulkan 1.3.279)"
       },
       {
-        "d": "Immortalis_MC11",
-        "m": "G925",
-        "s": "Mali-G925-Immortalis MC11"
-      },
-      {
         "d": "G77",
         "m": "Mali",
         "s": "Mali-G77"
@@ -23675,6 +23710,11 @@
         "d": "Adreno__TM__710",
         "m": "W09",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Immortalis_MC11",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC11"
       },
       {
         "d": "Adreno__TM__830",
@@ -25226,6 +25266,14 @@
     ],
     "name": "RealFlight Evolution \u2013 E-flite UMX Cirrus SR22T"
   },
+  "34830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper: Ghost Warrior"
+  },
   "3483510": {
     "config_count": 1,
     "devices": [
@@ -26612,14 +26660,6 @@
       "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
-  },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
@@ -29620,20 +29660,6 @@
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
-  "42700": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Call_of_Duty_-_Black_Ops"
-    ],
-    "name": "Call of Duty\u00ae: Black Ops"
-  },
   "427190": {
     "config_count": 1,
     "devices": [],
@@ -30031,7 +30057,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 4,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -30042,7 +30068,9 @@
     "folders": [
       "Call_of_Duty_4",
       "COD__Modern_Warfare",
-      "Call_of_duty_Modern_Warfare"
+      "Call_of_Duty_4_Modern_Warfare",
+      "Call_of_duty_Modern_Warfare",
+      "call_of_duty_4_modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -30336,20 +30364,6 @@
       "Gold_Mining_Simulator"
     ],
     "name": "Gold Mining Simulator"
-  },
-  "4523200": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "I2501",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "SO2R"
-    ],
-    "name": "Diablo II: Resurrected - Original Soundtrack"
   },
   "4533800": {
     "config_count": 1,
@@ -31605,7 +31619,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 48,
+    "config_count": 46,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -31703,21 +31717,6 @@
         "s": "Adreno (TM) 840"
       },
       {
-        "d": "Adreno__TM__830",
-        "m": "PLQ110",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "CPH2795",
-        "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "CPH2653",
-        "s": "Adreno (TM) 830"
-      },
-      {
         "d": "Adreno__TM__750",
         "m": "V2425A",
         "s": "Adreno (TM) 750"
@@ -31736,8 +31735,6 @@
     "folders": [
       "The_Witcher_3",
       "The_Witcher_3__Wild_Hunt",
-      "The_Witcher_3_-_Wild_Hunt",
-      "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "Witcher_1",
       "_Witcher",
       "witcher3"
@@ -35392,6 +35389,20 @@
     ],
     "name": "Russian Fishing 4"
   },
+  "768520": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "I2501",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "SO2R"
+    ],
+    "name": "Red Solstice 2: Survivors"
+  },
   "773700": {
     "config_count": 1,
     "devices": [
@@ -35595,7 +35606,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 31,
+    "config_count": 29,
     "devices": [
       {
         "d": "G720_MC7",
@@ -35655,8 +35666,7 @@
       "Call_of_Duty__4__Modern_Warfare___2007_",
       "iw3mp",
       "iw3sp",
-      "Call_of_Duty_-_Modern_Warfare",
-      "call_of_duty_4_modern_Warfare"
+      "Call_of_Duty_-_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
@@ -40195,7 +40205,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2932,
+    "config_count": 2933,
     "devices": [
       {
         "d": "G52_MC2",
