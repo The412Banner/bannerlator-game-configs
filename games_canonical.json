@@ -20413,8 +20413,13 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 3,
+    "config_count": 11,
     "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "CPH2745",
+        "s": "Adreno (TM) 840"
+      },
       {
         "d": "Adreno__TM__830",
         "m": "PLQ110",
@@ -20429,12 +20434,29 @@
         "d": "Adreno__TM__830",
         "m": "CPH2653",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "25102PCBEG",
+        "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "RMX3851",
+        "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "24117RK2CG",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
+      "The_Witcher_3",
       "The_Witcher_3_-_Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
-      "The_Witcher_3__Wild_Hunt_-_Complete_Edition"
+      "The_Witcher_3__Wild_Hunt_-_Complete_Edition",
+      "witcher3"
     ],
     "name": "The Witcher 3: Wild Hunt - Complete Edition"
   },
@@ -21210,7 +21232,7 @@
     "name": "SUNLESS SEA"
   },
   "304930": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "G57",
@@ -21226,6 +21248,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "CPH2385",
+        "s": "PowerVR Rogue GE8320"
       }
     ],
     "folders": [
@@ -30064,7 +30091,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -30075,6 +30102,7 @@
     "folders": [
       "Call_of_Duty_4",
       "COD__Modern_Warfare",
+      "Call_of_Duty_4_Modern_Warfare",
       "Call_of_duty_Modern_Warfare",
       "call_of_duty_4_modern_Warfare"
     ],
@@ -31626,7 +31654,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 46,
+    "config_count": 38,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -31719,23 +31747,8 @@
         "s": "Mali-G615 MC6"
       },
       {
-        "d": "Adreno__TM__840",
-        "m": "CPH2745",
-        "s": "Adreno (TM) 840"
-      },
-      {
         "d": "Adreno__TM__750",
         "m": "V2425A",
-        "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__735",
-        "m": "RMX3851",
-        "s": "Adreno (TM) 735"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
       }
     ],
@@ -31743,8 +31756,7 @@
       "The_Witcher_3",
       "The_Witcher_3__Wild_Hunt",
       "Witcher_1",
-      "_Witcher",
-      "witcher3"
+      "_Witcher"
     ],
     "name": "The Witcher 3: Wild Hunt \u2014 Songs of the Past"
   },
@@ -35621,7 +35633,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 30,
+    "config_count": 29,
     "devices": [
       {
         "d": "G720_MC7",
@@ -40220,7 +40232,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2933,
+    "config_count": 2934,
     "devices": [
       {
         "d": "G52_MC2",
