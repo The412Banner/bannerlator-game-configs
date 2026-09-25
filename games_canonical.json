@@ -6689,7 +6689,7 @@
     "name": "LEGO\u00ae Skylines"
   },
   "1574140": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -6698,7 +6698,6 @@
       }
     ],
     "folders": [
-      "DiRT4",
       "Dirt4"
     ],
     "name": "TIME FOR YOU - CHAPTER 02 - DIRTY THOUGHTS AND CORPORATE BOTS"
@@ -9112,7 +9111,7 @@
     "name": "Asphalt Legends "
   },
   "1817070": {
-    "config_count": 24,
+    "config_count": 23,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -38607,6 +38606,20 @@
       "Dirt_Showdown"
     ],
     "name": "Dirt Showdown"
+  },
+  "name:dirt4": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__650",
+        "m": "G988N",
+        "s": "Adreno (TM) 650"
+      }
+    ],
+    "folders": [
+      "DiRT4"
+    ],
+    "name": "Dirt4"
   },
   "name:dirtfish-dirt4": {
     "config_count": 1,
