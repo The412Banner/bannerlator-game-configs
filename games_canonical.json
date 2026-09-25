@@ -2819,7 +2819,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 405,
+    "config_count": 406,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3261,7 +3261,7 @@
     "name": "Grand Theft Auto: Episodes from Liberty City"
   },
   "1222670": {
-    "config_count": 24,
+    "config_count": 25,
     "devices": [
       {
         "d": "G57_MC2",
@@ -3307,6 +3307,11 @@
         "d": "Adreno__TM__830",
         "m": "24122RKC7G",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23021RAAEG",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__810",
@@ -5852,6 +5857,14 @@
     ],
     "name": "SnowRunner"
   },
+  "1466060": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Tainted_Grail__The_Fall_of_Avalon"
+    ],
+    "name": "Tainted Grail: The Fall of Avalon"
+  },
   "1466640": {
     "config_count": 1,
     "devices": [
@@ -6794,7 +6807,7 @@
     "name": "Cairn"
   },
   "1593500": {
-    "config_count": 160,
+    "config_count": 161,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -7040,6 +7053,11 @@
         "d": "Adreno__TM__650",
         "m": "SCG06",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "motorola_edge_50_ultra",
+        "s": "Adreno (TM) 735"
       },
       {
         "d": "Adreno__TM__619",
@@ -10945,8 +10963,33 @@
     "name": "Hitman: Absolution\u2122"
   },
   "203160": {
-    "config_count": 13,
+    "config_count": 26,
     "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
+      },
       {
         "d": "Adreno__TM__740",
         "m": "S911U",
@@ -10974,11 +11017,12 @@
       }
     ],
     "folders": [
+      "TombRaider",
       "Tomb_Raider",
       "Tomb_Raider_2013",
       "Tomb_Raider_Game_of_the_Year"
     ],
-    "name": "Tomb Raider"
+    "name": "Tomb Raider Game of the Year"
   },
   "203650": {
     "config_count": 3,
@@ -12712,7 +12756,7 @@
     "name": "LIFTED"
   },
   "2184260": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -12773,6 +12817,11 @@
         "d": "Adreno__TM__650",
         "m": "RMX3370",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "24117RK2CG",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -16838,7 +16887,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 29,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -18078,6 +18127,14 @@
       "TokyoXtremeRacer"
     ],
     "name": "Tokyo Xtreme Racer"
+  },
+  "2637940": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Cars"
+    ],
+    "name": "Used Cars Simulator"
   },
   "2638050": {
     "config_count": 1,
@@ -21015,14 +21072,6 @@
     ],
     "name": "Ryse: Son of Rome"
   },
-  "3028020": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Cars"
-    ],
-    "name": "CarX Street - Deluxe Cars"
-  },
   "3028330": {
     "config_count": 1,
     "devices": [],
@@ -21148,7 +21197,7 @@
     "name": "Unturned"
   },
   "3050220": {
-    "config_count": 30,
+    "config_count": 31,
     "devices": [
       {
         "d": "2412DPC0AG",
@@ -21204,6 +21253,11 @@
         "d": "Adreno__TM__830",
         "m": "24122RKC7G",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "A366E",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
@@ -22501,7 +22555,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1648,
+    "config_count": 1653,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -23612,6 +23666,11 @@
         "d": "Adreno__TM__610",
         "m": "LX2",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "Redmi_Note_9S",
+        "s": "Adreno (TM) 618"
       },
       {
         "d": "Adreno__TM__830",
@@ -25243,7 +25302,7 @@
     "name": "They Killed Your Cat"
   },
   "3489700": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "G615_MC6",
@@ -25284,6 +25343,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "G77_MC9",
+        "m": "Mali",
+        "s": "Mali-G77 MC9"
       },
       {
         "d": "Adreno__TM__840",
@@ -25633,7 +25697,7 @@
     "name": "LEGO\u00ae Jurassic World"
   },
   "3527290": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "s5e8825",
@@ -25669,6 +25733,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
       },
       {
         "d": "Adreno__TM__725",
@@ -25836,42 +25905,16 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 17,
+    "config_count": 4,
     "devices": [
       {
         "d": "G57_MC4",
         "m": "Mali",
         "s": "Mali-G57 MC4"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
-      "Atla",
-      "TombRaider"
+      "Atla"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -29441,6 +29484,20 @@
     ],
     "name": "One Piece Burning Blood"
   },
+  "4259190": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
+      }
+    ],
+    "folders": [
+      "_______________V_______"
+    ],
+    "name": "Kingdom Rush 6: Genesis TD"
+  },
   "42680": {
     "config_count": 36,
     "devices": [
@@ -29917,7 +29974,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -29928,7 +29985,8 @@
     "folders": [
       "Call_of_Duty_4",
       "COD__Modern_Warfare",
-      "Call_of_duty_Modern_Warfare"
+      "Call_of_duty_Modern_Warfare",
+      "call_of_duty_4_modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -33982,7 +34040,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -33996,7 +34054,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2"
+      "LEGO__Marvel_Super_Heroes_2",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -35469,7 +35528,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 31,
+    "config_count": 30,
     "devices": [
       {
         "d": "G720_MC7",
@@ -35529,8 +35588,7 @@
       "Call_of_Duty__4__Modern_Warfare___2007_",
       "iw3mp",
       "iw3sp",
-      "Call_of_Duty_-_Modern_Warfare",
-      "call_of_duty_4_modern_Warfare"
+      "Call_of_Duty_-_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
@@ -36425,7 +36483,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 113,
+    "config_count": 114,
     "devices": [
       {
         "d": "s5e8855",
@@ -36613,6 +36671,11 @@
         "s": "PowerVR B-Series BXM-8-256"
       },
       {
+        "d": "Adreno__TM__740",
+        "m": "AYN_Thor",
+        "s": "Adreno (TM) 740"
+      },
+      {
         "d": "Adreno__TM__840",
         "m": "S948U1",
         "s": "Adreno (TM) 840"
@@ -36698,12 +36761,17 @@
     "name": "BioShock Infinite"
   },
   "892970": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "CPH2745",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
@@ -40054,7 +40122,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2921,
+    "config_count": 2925,
     "devices": [
       {
         "d": "G52_MC2",
