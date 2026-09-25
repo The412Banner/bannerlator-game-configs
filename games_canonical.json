@@ -5070,6 +5070,14 @@
     ],
     "name": "DRACU-RIOT!"
   },
+  "1340720": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "StateOfDecay"
+    ],
+    "name": "State of Decay 3"
+  },
   "1343240": {
     "config_count": 1,
     "devices": [],
@@ -6048,7 +6056,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 99,
+    "config_count": 101,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -6074,11 +6082,6 @@
         "d": "Adreno__TM__830",
         "m": "S938B",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
       },
       {
         "d": "G57_MC2",
@@ -6109,6 +6112,11 @@
         "d": "Adreno__TM__722",
         "m": "RMX5101",
         "s": "Adreno (TM) 722"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       },
       {
         "d": "G52_MC2",
@@ -10200,12 +10208,17 @@
     "name": "One-armed cook"
   },
   "1978590": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -16257,14 +16270,6 @@
     ],
     "name": "Cyber Manhunt 2: New World - The Hacking Simulator"
   },
-  "2421750": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GUN"
-    ],
-    "name": "Gunman Contracts - Stand Alone"
-  },
   "2424420": {
     "config_count": 7,
     "devices": [
@@ -17324,6 +17329,14 @@
     ],
     "name": "Denshattack"
   },
+  "2524890": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GUN"
+    ],
+    "name": "Pixel Gun 3D: PC Edition"
+  },
   "2527160": {
     "config_count": 3,
     "devices": [],
@@ -18127,14 +18140,6 @@
       "TokyoXtremeRacer"
     ],
     "name": "Tokyo Xtreme Racer"
-  },
-  "2637940": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Cars"
-    ],
-    "name": "Used Cars Simulator"
   },
   "2638050": {
     "config_count": 1,
@@ -24260,6 +24265,14 @@
     ],
     "name": "Garten of Banban 0"
   },
+  "331160": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Cars"
+    ],
+    "name": "Disney\u2022Pixar Cars"
+  },
   "33120": {
     "config_count": 2,
     "devices": [
@@ -29974,7 +29987,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 6,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -29986,8 +29999,7 @@
       "Call_of_Duty_4",
       "COD__Modern_Warfare",
       "Call_of_Duty_4_Modern_Warfare",
-      "Call_of_duty_Modern_Warfare",
-      "call_of_duty_4_modern_Warfare"
+      "Call_of_duty_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -31451,7 +31463,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -31481,7 +31493,6 @@
     ],
     "folders": [
       "State_of_Decay_2__Juggernaut_Edition",
-      "StateOfDecay",
       "StateOfDecay2"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
@@ -34487,7 +34498,7 @@
     "name": "GRIS"
   },
   "6850": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G76",
@@ -34496,7 +34507,8 @@
       }
     ],
     "folders": [
-      "Hitman_2__Silent_Assassin"
+      "Hitman_2__Silent_Assassin",
+      "Hitman_2_-_Silent_Assassin"
     ],
     "name": "Hitman 2: Silent Assassin"
   },
@@ -35529,7 +35541,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "G720_MC7",
@@ -35589,7 +35601,8 @@
       "Call_of_Duty__4__Modern_Warfare___2007_",
       "iw3mp",
       "iw3sp",
-      "Call_of_Duty_-_Modern_Warfare"
+      "Call_of_Duty_-_Modern_Warfare",
+      "call_of_duty_4_modern_Warfare"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
