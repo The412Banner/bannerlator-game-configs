@@ -2818,7 +2818,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 406,
+    "config_count": 407,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3206,11 +3206,6 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
@@ -3229,6 +3224,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__735",
@@ -4908,14 +4908,6 @@
     ],
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
-  "1328670": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Mass_Effect"
-    ],
-    "name": "Mass Effect\u2122 Legendary Edition"
-  },
   "1330000": {
     "config_count": 1,
     "devices": [],
@@ -5087,6 +5079,14 @@
       "DRACU-RIOT_"
     ],
     "name": "DRACU-RIOT!"
+  },
+  "1340720": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "StateOfDecay"
+    ],
+    "name": "State of Decay 3"
   },
   "1343240": {
     "config_count": 1,
@@ -8372,7 +8372,7 @@
     "name": "Mirror's Edge\u2122"
   },
   "17460": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -12547,7 +12547,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 105,
+    "config_count": 106,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -12683,6 +12683,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
@@ -13624,7 +13629,7 @@
     "name": "DG2: Defense Grid 2"
   },
   "2215430": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -16276,14 +16281,6 @@
     ],
     "name": "Cyber Manhunt 2: New World - The Hacking Simulator"
   },
-  "2421750": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GUN"
-    ],
-    "name": "Gunman Contracts - Stand Alone"
-  },
   "2424420": {
     "config_count": 7,
     "devices": [
@@ -17343,6 +17340,14 @@
     ],
     "name": "Denshattack"
   },
+  "2524890": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GUN"
+    ],
+    "name": "Pixel Gun 3D: PC Edition"
+  },
   "2527160": {
     "config_count": 3,
     "devices": [],
@@ -18146,14 +18151,6 @@
       "TokyoXtremeRacer"
     ],
     "name": "Tokyo Xtreme Racer"
-  },
-  "2637940": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Cars"
-    ],
-    "name": "Used Cars Simulator"
   },
   "2638050": {
     "config_count": 1,
@@ -24283,6 +24280,14 @@
     ],
     "name": "Garten of Banban 0"
   },
+  "331160": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Cars"
+    ],
+    "name": "Disney\u2022Pixar Cars"
+  },
   "33120": {
     "config_count": 2,
     "devices": [
@@ -25236,14 +25241,6 @@
       "SR2_pc"
     ],
     "name": "RealFlight Evolution \u2013 E-flite UMX Cirrus SR22T"
-  },
-  "34830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper: Ghost Warrior"
   },
   "3483510": {
     "config_count": 1,
@@ -26631,6 +26628,14 @@
       "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
+  },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
@@ -30028,7 +30033,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -30039,8 +30044,7 @@
     "folders": [
       "Call_of_Duty_4",
       "COD__Modern_Warfare",
-      "Call_of_duty_Modern_Warfare",
-      "call_of_duty_4_modern_Warfare"
+      "Call_of_duty_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -31509,7 +31513,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -31539,7 +31543,6 @@
     ],
     "folders": [
       "State_of_Decay_2__Juggernaut_Edition",
-      "StateOfDecay",
       "StateOfDecay2"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
@@ -32314,7 +32317,7 @@
     "name": "Ancestors: The Humankind Odyssey"
   },
   "543870": {
-    "config_count": 27,
+    "config_count": 28,
     "devices": [
       {
         "d": "moto_e13",
@@ -32335,11 +32338,6 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
-      },
-      {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
       },
       {
         "d": "Adreno__TM__610",
@@ -32375,6 +32373,11 @@
         "d": "Adreno__TM__616",
         "m": "RMX1971",
         "s": "Adreno (TM) 616"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       }
     ],
     "folders": [
@@ -35593,7 +35596,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 30,
+    "config_count": 31,
     "devices": [
       {
         "d": "G720_MC7",
@@ -35653,7 +35656,8 @@
       "Call_of_Duty__4__Modern_Warfare___2007_",
       "iw3mp",
       "iw3sp",
-      "Call_of_Duty_-_Modern_Warfare"
+      "Call_of_Duty_-_Modern_Warfare",
+      "call_of_duty_4_modern_Warfare"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
