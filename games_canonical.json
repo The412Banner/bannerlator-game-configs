@@ -5397,7 +5397,7 @@
     "name": "Midnight Fight Express"
   },
   "1392860": {
-    "config_count": 9,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -5433,16 +5433,10 @@
         "d": "Adreno__TM__840",
         "m": "I2501",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "23129RA5FL",
-        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
-      "Little_Nightmares_III",
-      "LittleNightmaresIII"
+      "Little_Nightmares_III"
     ],
     "name": "Little Nightmares III"
   },
@@ -39539,6 +39533,20 @@
       "Little_Nightmares_Enhanced"
     ],
     "name": "Little Nightmares Enhanced"
+  },
+  "name:littlenightmaresiii": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
+      }
+    ],
+    "folders": [
+      "LittleNightmaresIII"
+    ],
+    "name": "Littlenightmaresiii"
   },
   "name:lunaabyss-wingdk-shipping": {
     "config_count": 1,
