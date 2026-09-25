@@ -6689,7 +6689,7 @@
     "name": "LEGO\u00ae Skylines"
   },
   "1574140": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -6698,6 +6698,7 @@
       }
     ],
     "folders": [
+      "DiRT4",
       "Dirt4"
     ],
     "name": "TIME FOR YOU - CHAPTER 02 - DIRTY THOUGHTS AND CORPORATE BOTS"
@@ -8988,6 +8989,14 @@
       "DeerAndBoy"
     ],
     "name": "Deer & Boy"
+  },
+  "1805110": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Solarpunk"
+    ],
+    "name": "Solarpunk\u2122"
   },
   "1805320": {
     "config_count": 5,
@@ -22564,7 +22573,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1657,
+    "config_count": 1658,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -29067,6 +29076,14 @@
     ],
     "name": "Z.A.T.O. - Digital Art Pack"
   },
+  "4123760": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Football_Life_2026"
+    ],
+    "name": "Football Life"
+  },
   "413150": {
     "config_count": 7,
     "devices": [
@@ -30011,7 +30028,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 6,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -30022,7 +30039,6 @@
     "folders": [
       "Call_of_Duty_4",
       "COD__Modern_Warfare",
-      "Call_of_Duty_4_Modern_Warfare",
       "Call_of_duty_Modern_Warfare",
       "call_of_duty_4_modern_Warfare"
     ],
@@ -35577,7 +35593,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "G720_MC7",
@@ -37207,6 +37223,14 @@
     ],
     "name": "Far Cry\u00ae New Dawn"
   },
+  "940190": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Chuckie_Egg_3"
+    ],
+    "name": "Chuckie Egg 2017"
+  },
   "940910": {
     "config_count": 1,
     "devices": [],
@@ -38395,14 +38419,6 @@
     ],
     "name": "Castlevaniasoh"
   },
-  "name:chuckie-egg-3": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Chuckie_Egg_3"
-    ],
-    "name": "Chuckie Egg 3"
-  },
   "name:clientg": {
     "config_count": 1,
     "devices": [],
@@ -38606,20 +38622,6 @@
       "Dirt_Showdown"
     ],
     "name": "Dirt Showdown"
-  },
-  "name:dirt4": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__650",
-        "m": "G988N",
-        "s": "Adreno (TM) 650"
-      }
-    ],
-    "folders": [
-      "DiRT4"
-    ],
-    "name": "Dirt4"
   },
   "name:dirtfish-dirt4": {
     "config_count": 1,
@@ -39035,14 +39037,6 @@
       "Final_Fantasy_7_SteamRip__READ_DESCRIPTION_"
     ],
     "name": "Final Fantasy 7 Steamrip Read Description"
-  },
-  "name:football-life-2026": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Football_Life_2026"
-    ],
-    "name": "Football Life 2026"
   },
   "name:frozen-throne": {
     "config_count": 1,
@@ -40193,7 +40187,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2927,
+    "config_count": 2928,
     "devices": [
       {
         "d": "G52_MC2",
