@@ -2820,7 +2820,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 408,
+    "config_count": 409,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3178,11 +3178,6 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "G720_MC8",
-        "m": "Mali",
-        "s": "Mali-G720 MC8"
-      },
-      {
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
@@ -3236,6 +3231,11 @@
         "d": "Adreno__TM__650",
         "m": "23043RP34G",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
       },
       {
         "d": "Adreno__TM__735",
@@ -6540,7 +6540,7 @@
     "name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition"
   },
   "1547000": {
-    "config_count": 33,
+    "config_count": 34,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -15348,7 +15348,7 @@
     "name": "GraalOnline Era"
   },
   "2358720": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -15384,6 +15384,11 @@
         "d": "Adreno__TM__840",
         "m": "NX809J",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "motorola_edge_50_pro",
+        "s": "Adreno (TM) 720"
       }
     ],
     "folders": [
@@ -16947,7 +16952,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -22649,7 +22654,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1668,
+    "config_count": 1669,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25237,6 +25242,14 @@
     ],
     "name": "LIGHTNING RETURNS\u2122: FINAL FANTASY\u00ae XIII"
   },
+  "3467710": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Wall_World_2"
+    ],
+    "name": "Wall World 2"
+  },
   "3468650": {
     "config_count": 2,
     "devices": [
@@ -25313,6 +25326,14 @@
       "SR2_pc"
     ],
     "name": "RealFlight Evolution \u2013 E-flite UMX Cirrus SR22T"
+  },
+  "34830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper: Ghost Warrior"
   },
   "3483510": {
     "config_count": 1,
@@ -26700,14 +26721,6 @@
       "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
-  },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
@@ -34167,7 +34180,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -34181,8 +34194,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2",
-      "LEGOMARVEL"
+      "LEGO__Marvel_Super_Heroes_2"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
