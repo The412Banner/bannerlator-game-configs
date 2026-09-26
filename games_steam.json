@@ -1312,6 +1312,12 @@
     "method": "naive",
     "steam_name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
+  "Call_of_Duty___Modern_Warfare__II": {
+    "appid": 3595230,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3595230/header.jpg",
+    "method": "naive",
+    "steam_name": "Call of Duty\u00ae: Modern Warfare\u00ae II"
+  },
   "Call_of_Duty___Modern_Warfare__III": {
     "appid": 3595270,
     "method": "naive",
@@ -5754,6 +5760,12 @@
     "method": "naive",
     "steam_name": "MIO: Memories in Orbit"
   },
+  "MIR": {
+    "appid": 1576190,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1576190/header.jpg",
+    "method": "naive",
+    "steam_name": "mir"
+  },
   "MITE": {
     "appid": 2318470,
     "method": "naive",
@@ -8679,6 +8691,12 @@
     "method": "naive",
     "steam_name": "SAMURAI WARRIORS 4-II"
   },
+  "SAMURAI_WARRIORS_4_DX": {
+    "appid": 2719200,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2719200/header.jpg",
+    "method": "naive",
+    "steam_name": "SAMURAI WARRIORS 4 DX"
+  },
   "SAND_LAND": {
     "appid": 1979440,
     "method": "naive",
@@ -8858,6 +8876,12 @@
   },
   "Saint_s_row_2": {
     "appid": 9480,
+    "method": "naive",
+    "steam_name": "Saints Row 2"
+  },
+  "Saints_Row_2": {
+    "appid": 9480,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/9480/header.jpg",
     "method": "naive",
     "steam_name": "Saints Row 2"
   },
@@ -10329,6 +10353,12 @@
     "appid": 5006530,
     "method": "naive",
     "steam_name": "The Witcher 3: Wild Hunt \u2014 Songs of the Past"
+  },
+  "The_Witcher_3__Wild_Hunt_-_Complete_Edition": {
+    "appid": 292030,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/292030/header.jpg",
+    "method": "norm",
+    "steam_name": "The Witcher 3: Wild Hunt - Complete Edition"
   },
   "The_Witcher_Game": {
     "appid": 1284410,
