@@ -4784,6 +4784,20 @@
     ],
     "name": "Lost Ruins"
   },
+  "1307710": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "GRID"
+    ],
+    "name": "GRID Legends"
+  },
   "1310510": {
     "config_count": 1,
     "devices": [],
@@ -4920,14 +4934,6 @@
       "Need_for_Speed_Hot_Pursuit"
     ],
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
-  },
-  "1328670": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Mass_Effect"
-    ],
-    "name": "Mass Effect\u2122 Legendary Edition"
   },
   "1330000": {
     "config_count": 1,
@@ -5100,14 +5106,6 @@
       "DRACU-RIOT_"
     ],
     "name": "DRACU-RIOT!"
-  },
-  "1340720": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "StateOfDecay"
-    ],
-    "name": "State of Decay 3"
   },
   "1343240": {
     "config_count": 1,
@@ -6862,7 +6860,7 @@
     "name": "Selaco"
   },
   "1593500": {
-    "config_count": 161,
+    "config_count": 162,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -7020,11 +7018,6 @@
         "s": "Adreno (TM) 829"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__730",
         "m": "22081212UG",
         "s": "Adreno (TM) 730"
@@ -7113,6 +7106,11 @@
         "d": "Adreno__TM__735",
         "m": "motorola_edge_50_ultra",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__619",
@@ -8401,7 +8399,7 @@
     "name": "Mirror's Edge\u2122"
   },
   "17460": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -16335,6 +16333,14 @@
     ],
     "name": "Cyber Manhunt 2: New World - The Hacking Simulator"
   },
+  "2421750": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GUN"
+    ],
+    "name": "Gunman Contracts - Stand Alone"
+  },
   "2424420": {
     "config_count": 7,
     "devices": [
@@ -16957,7 +16963,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -17393,14 +17399,6 @@
       "Denshattack_"
     ],
     "name": "Denshattack"
-  },
-  "2524890": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GUN"
-    ],
-    "name": "Pixel Gun 3D: PC Edition"
   },
   "2527160": {
     "config_count": 3,
@@ -22722,7 +22720,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1678,
+    "config_count": 1681,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -23848,6 +23846,16 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "SCG06",
+        "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "01",
+        "s": "Adreno (TM) 660"
       },
       {
         "d": "Adreno__TM__830",
@@ -26535,7 +26543,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -26556,11 +26564,6 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -27363,6 +27366,11 @@
     "config_count": 3,
     "devices": [
       {
+        "d": "Immortalis_MC12",
+        "m": "G720",
+        "s": "Mali-G720-Immortalis MC12"
+      },
+      {
         "d": "Adreno__TM__830",
         "m": "Pocket_FIT_Elite",
         "s": "Adreno (TM) 830"
@@ -27371,16 +27379,11 @@
         "d": "Adreno__TM__840",
         "m": "NX809J",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Immortalis_MC12",
-        "m": "G720",
-        "s": "Mali-G720-Immortalis MC12"
       }
     ],
     "folders": [
-      "GSE____________________",
-      "GSE__"
+      "GSE__",
+      "GSE____________________"
     ],
     "name": "G-senjou no Maou - The Devil on G-String"
   },
@@ -29434,8 +29437,14 @@
     "name": "My Winter Car"
   },
   "4165890": {
-    "config_count": 4,
-    "devices": [],
+    "config_count": 5,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "A024",
+        "s": "Adreno (TM) 825"
+      }
+    ],
     "folders": [
       "Steam"
     ],
@@ -30227,7 +30236,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -30238,7 +30247,8 @@
     "folders": [
       "Call_of_Duty_4",
       "COD__Modern_Warfare",
-      "Call_of_duty_Modern_Warfare"
+      "Call_of_duty_Modern_Warfare",
+      "call_of_duty_4_modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -31708,7 +31718,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -31738,6 +31748,7 @@
     ],
     "folders": [
       "State_of_Decay_2__Juggernaut_Edition",
+      "StateOfDecay",
       "StateOfDecay2"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
@@ -34285,7 +34296,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -34299,8 +34310,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2",
-      "LEGOMARVEL"
+      "LEGO__Marvel_Super_Heroes_2"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -35774,7 +35784,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 31,
+    "config_count": 30,
     "devices": [
       {
         "d": "G720_MC7",
@@ -35834,8 +35844,7 @@
       "Call_of_Duty__4__Modern_Warfare___2007_",
       "iw3mp",
       "iw3sp",
-      "Call_of_Duty_-_Modern_Warfare",
-      "call_of_duty_4_modern_Warfare"
+      "Call_of_Duty_-_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
