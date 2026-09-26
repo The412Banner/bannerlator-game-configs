@@ -945,7 +945,7 @@
     "name": "Baldur's Gate 3"
   },
   "108710": {
-    "config_count": 16,
+    "config_count": 17,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -975,6 +975,7 @@
     ],
     "folders": [
       "Alan_Wake",
+      "AlanWake",
       "Alan_Wake_Remastered"
     ],
     "name": "Alan Wake"
@@ -24531,7 +24532,7 @@
     "name": "Assassin's Creed 2"
   },
   "332800": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__618",
@@ -24540,6 +24541,7 @@
       }
     ],
     "folders": [
+      "FiveNightsatFreddys_3",
       "Five_Nights_At_Freddys_2"
     ],
     "name": "Five Nights at Freddy's 2"
@@ -25106,6 +25108,14 @@
       "Heavy_Weapon"
     ],
     "name": "Heavy Weapon Deluxe"
+  },
+  "3419290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN"
   },
   "341940": {
     "config_count": 3,
@@ -25943,20 +25953,6 @@
       "Aces_of_the_Luftwaffe"
     ],
     "name": "Aces of the Luftwaffe"
-  },
-  "354140": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__618",
-        "m": "M2007J20CG",
-        "s": "Adreno (TM) 618"
-      }
-    ],
-    "folders": [
-      "FiveNightsatFreddys_3"
-    ],
-    "name": "Five Nights at Freddy's 3"
   },
   "354160": {
     "config_count": 1,
@@ -28821,14 +28817,6 @@
       "The_Spike"
     ],
     "name": "The Spike Cross"
-  },
-  "3985080": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN - Costume Expansion Pack"
   },
   "400": {
     "config_count": 4,
@@ -37176,14 +37164,6 @@
     ],
     "name": "Cartoony Cars 2"
   },
-  "917040": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "KikiKaikai"
-    ],
-    "name": "Groove Coaster - KIKIKAIKAI"
-  },
   "919410": {
     "config_count": 1,
     "devices": [
@@ -39665,6 +39645,14 @@
       "kick_win"
     ],
     "name": "Kick Win"
+  },
+  "name:kikikaikai": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "KikiKaikai"
+    ],
+    "name": "Kikikaikai"
   },
   "name:kinebox": {
     "config_count": 1,
