@@ -9821,6 +9821,12 @@
     "appid": null,
     "method": "unresolved"
   },
+  "TWD": {
+    "appid": 1237830,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1237830/header.jpg",
+    "method": "naive",
+    "steam_name": "TWDSS: Tourist Edition Upgrade"
+  },
   "TWFC": {
     "appid": null,
     "method": "unresolved"
@@ -11886,6 +11892,12 @@
   "gta3patch": {
     "appid": null,
     "method": "unresolved"
+  },
+  "gta5": {
+    "appid": 3240220,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3240220/header.jpg",
+    "method": "naive",
+    "steam_name": "Grand Theft Auto V Enhanced"
   },
   "gta_sa": {
     "appid": 1547000,
