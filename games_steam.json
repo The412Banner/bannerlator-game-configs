@@ -6675,6 +6675,10 @@
     "appid": null,
     "method": "unresolved"
   },
+  "NFSC_Config": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "NFS_Hot_Pursuit_2010": {
     "appid": null,
     "method": "unresolved"
@@ -12119,6 +12123,12 @@
     "appid": 2350310,
     "method": "naive",
     "steam_name": "Monica's Newlywed Life"
+  },
+  "motogp18": {
+    "appid": 775900,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/775900/header.jpg",
+    "method": "naive",
+    "steam_name": "MotoGP\u212218"
   },
   "motogp_": {
     "appid": 3875050,

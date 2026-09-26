@@ -181,7 +181,7 @@
     "name": "The Long Drive"
   },
   "10180": {
-    "config_count": 42,
+    "config_count": 43,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -239,11 +239,6 @@
         "s": "Adreno (TM) 650"
       },
       {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      },
-      {
         "d": "Adreno__TM__830",
         "m": "NP05J",
         "s": "Adreno (TM) 830"
@@ -277,6 +272,11 @@
         "d": "Adreno__TM__740",
         "m": "S918B",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       }
     ],
     "folders": [
@@ -4935,6 +4935,14 @@
     ],
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
+  "1328670": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Mass_Effect"
+    ],
+    "name": "Mass Effect\u2122 Legendary Edition"
+  },
   "1330000": {
     "config_count": 1,
     "devices": [],
@@ -8399,7 +8407,7 @@
     "name": "Mirror's Edge\u2122"
   },
   "17460": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -13003,7 +13011,7 @@
     "name": "Grim Dawn"
   },
   "220": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -18204,14 +18212,6 @@
     ],
     "name": "Tokyo Xtreme Racer"
   },
-  "2637940": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Cars"
-    ],
-    "name": "Used Cars Simulator"
-  },
   "2638050": {
     "config_count": 1,
     "devices": [],
@@ -22720,7 +22720,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1681,
+    "config_count": 1682,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24441,6 +24441,14 @@
     ],
     "name": "Garten of Banban 0"
   },
+  "331160": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Cars"
+    ],
+    "name": "Disney\u2022Pixar Cars"
+  },
   "33120": {
     "config_count": 2,
     "devices": [
@@ -24652,6 +24660,25 @@
       "Transformice"
     ],
     "name": "Transformice"
+  },
+  "335300": {
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
+      }
+    ],
+    "folders": [
+      "DarkSoulsII"
+    ],
+    "name": "DARK SOULS\u2122 II: Scholar of the First Sin"
   },
   "3354750": {
     "config_count": 1,
@@ -25407,6 +25434,14 @@
       "SR2_pc"
     ],
     "name": "RealFlight Evolution \u2013 E-flite UMX Cirrus SR22T"
+  },
+  "34830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper: Ghost Warrior"
   },
   "3483510": {
     "config_count": 1,
@@ -26804,14 +26839,6 @@
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
-  },
   "3681010": {
     "config_count": 1,
     "devices": [],
@@ -27084,19 +27111,14 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "S928B",
+        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
@@ -27106,9 +27128,9 @@
       "DarkSoulsRemastered",
       "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
-      "DarkSoulsII",
       "DarkSoulsIII",
-      "Dark_Souls_III"
+      "Dark_Souls_III",
+      "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122 III"
   },
@@ -30236,7 +30258,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -30247,8 +30269,7 @@
     "folders": [
       "Call_of_Duty_4",
       "COD__Modern_Warfare",
-      "Call_of_duty_Modern_Warfare",
-      "call_of_duty_4_modern_Warfare"
+      "Call_of_duty_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -33175,7 +33196,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 45,
+    "config_count": 42,
     "devices": [
       {
         "d": "G57",
@@ -33276,17 +33297,11 @@
         "d": "Adreno__TM__725",
         "m": "23049PCD8G",
         "s": "Adreno (TM) 725"
-      },
-      {
-        "d": "Adreno__TM__660",
-        "m": "S928B",
-        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
       "DARK_SOULS__REMASTERED",
-      "DARK_SOULS___REMASTERED",
-      "Dark_Souls_Remastered"
+      "DARK_SOULS___REMASTERED"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
   },
@@ -33821,12 +33836,17 @@
     "name": "Moonlighter"
   },
   "606280": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__710",
         "m": "23122PCD1I",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
       },
       {
         "d": "Immortalis_MC12",
@@ -33835,7 +33855,8 @@
       }
     ],
     "folders": [
-      "Darksiders_III"
+      "Darksiders_III",
+      "Darksiders"
     ],
     "name": "Darksiders III"
   },
@@ -35005,22 +35026,16 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__A32",
         "m": "Pocket_Fit_G3_Gen3",
         "s": "Adreno (TM) A32"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "Darksiders_Genesis",
-      "Darksiders",
       "DarksidersGenesis"
     ],
     "name": "Darksiders Genesis"
@@ -35648,6 +35663,20 @@
     ],
     "name": "SCARLET NEXUS"
   },
+  "775900": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G610_MC6",
+        "m": "Mali",
+        "s": "Mali-G610 MC6"
+      }
+    ],
+    "folders": [
+      "motogp18"
+    ],
+    "name": "MotoGP\u212218"
+  },
   "780310": {
     "config_count": 1,
     "devices": [
@@ -35784,7 +35813,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 30,
+    "config_count": 31,
     "devices": [
       {
         "d": "G720_MC7",
@@ -35844,7 +35873,8 @@
       "Call_of_Duty__4__Modern_Warfare___2007_",
       "iw3mp",
       "iw3sp",
-      "Call_of_Duty_-_Modern_Warfare"
+      "Call_of_Duty_-_Modern_Warfare",
+      "call_of_duty_4_modern_Warfare"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
@@ -37891,7 +37921,7 @@
     "name": "Grounded"
   },
   "962400": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "G52_MC2",
@@ -40389,7 +40419,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2938,
+    "config_count": 2939,
     "devices": [
       {
         "d": "G52_MC2",
@@ -42253,6 +42283,14 @@
       "Projeto_dedicado_aos_f_s_da_franquia_Donkey_Kong_Country_de_SNES__o_jogo_conta_com_7_personagens_jog_vels_numa_nova_aventura_cheia_de_mist_rios_envolvendo_rituais_"
     ],
     "name": "Projeto Dedicado Aos F S Da Franquia Donkey Kong Country De Snes O Jogo Conta Com 7 Personagens Jog Vels Numa Nova Aventura Cheia De Mist Rios Envolvendo Rituais"
+  },
+  "name:pure-onyx": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "pure_onyx"
+    ],
+    "name": "Pure Onyx"
   },
   "name:rdr2": {
     "config_count": 1,
