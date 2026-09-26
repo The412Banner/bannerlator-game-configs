@@ -115,12 +115,17 @@
     "name": "Totally Reliable Delivery Service"
   },
   "1012880": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       },
       {
         "d": "Adreno__TM__619",
@@ -4783,6 +4788,20 @@
       "Lost_Ruins"
     ],
     "name": "Lost Ruins"
+  },
+  "1307710": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "GRID"
+    ],
+    "name": "GRID Legends"
   },
   "1310510": {
     "config_count": 1,
@@ -16957,7 +16976,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 29,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -18197,6 +18216,14 @@
       "TokyoXtremeRacer"
     ],
     "name": "Tokyo Xtreme Racer"
+  },
+  "2637940": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Cars"
+    ],
+    "name": "Used Cars Simulator"
   },
   "2638050": {
     "config_count": 1,
@@ -22707,7 +22734,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1682,
+    "config_count": 1683,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -23845,6 +23872,11 @@
         "s": "Adreno (TM) 660"
       },
       {
+        "d": "49_1_0_",
+        "m": "G57",
+        "s": "ANGLE (ARM, Vulkan 1.3.278 (Mali-G57 (0x90910010)), Mali-G57-49.1.0)"
+      },
+      {
         "d": "Adreno__TM__830",
         "m": "NX9",
         "s": "Adreno (TM) 830"
@@ -24427,14 +24459,6 @@
       "Garten_of_Banban_0"
     ],
     "name": "Garten of Banban 0"
-  },
-  "331160": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Cars"
-    ],
-    "name": "Disney\u2022Pixar Cars"
   },
   "33120": {
     "config_count": 2,
@@ -26546,7 +26570,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -26567,11 +26591,6 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -29282,7 +29301,7 @@
     "name": "Football Life"
   },
   "413150": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "MT6789",
@@ -29313,6 +29332,11 @@
         "d": "G77_MC9",
         "m": "Mali",
         "s": "Mali-G77 MC9"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "CPH2573",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -34296,7 +34320,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -34310,7 +34334,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2"
+      "LEGO__Marvel_Super_Heroes_2",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -39110,6 +39135,14 @@
     ],
     "name": "Eurotrucks2 32"
   },
+  "name:f-e-a-r-platinum-collection": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "F_E_A_R__Platinum_Collection"
+    ],
+    "name": "F E A R Platinum Collection"
+  },
   "name:fallout-new-vegas-pcr": {
     "config_count": 1,
     "devices": [],
@@ -40404,7 +40437,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2940,
+    "config_count": 2941,
     "devices": [
       {
         "d": "G52_MC2",
