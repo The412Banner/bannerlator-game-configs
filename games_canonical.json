@@ -1169,7 +1169,7 @@
     "name": "Commandos 2 - HD Remaster"
   },
   "1103780": {
-    "config_count": 36,
+    "config_count": 37,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -1235,6 +1235,11 @@
         "d": "Adreno__TM__640",
         "m": "M2102J20SG",
         "s": "Adreno (TM) 640"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "V2338A",
+        "s": "Adreno (TM) 740"
       },
       {
         "d": "Adreno__TM__619",
@@ -6358,14 +6363,6 @@
     ],
     "name": "Heroes of Might & Magic V"
   },
-  "1517290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Battlefield_2"
-    ],
-    "name": "Battlefield\u2122 2042"
-  },
   "1520370": {
     "config_count": 1,
     "devices": [
@@ -9073,7 +9070,7 @@
     "name": "ARC Raiders"
   },
   "1809540": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -18944,7 +18941,7 @@
     "name": "Palia"
   },
   "270880": {
-    "config_count": 25,
+    "config_count": 24,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -18999,7 +18996,6 @@
     ],
     "folders": [
       "American_Truck_Simulator",
-      "American_truck_simulator",
       "tru"
     ],
     "name": "American Truck Simulator"
@@ -19504,7 +19500,7 @@
     "name": "Halo: Campaign Evolved"
   },
   "2807960": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -19513,7 +19509,8 @@
       }
     ],
     "folders": [
-      "Battlefield__6"
+      "Battlefield__6",
+      "Battlefield_2"
     ],
     "name": "Battlefield\u2122 6"
   },
@@ -20535,7 +20532,7 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 14,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -20563,6 +20560,16 @@
         "s": "Adreno (TM) 830"
       },
       {
+        "d": "Adreno__TM__750",
+        "m": "V2425A",
+        "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
         "d": "Adreno__TM__840",
         "m": "25102PCBEG",
         "s": "Adreno (TM) 840"
@@ -20584,6 +20591,8 @@
       "The_Witcher_3_-_Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
+      "Witcher_1",
+      "_Witcher",
       "witcher3"
     ],
     "name": "The Witcher 3: Wild Hunt - Complete Edition"
@@ -21491,7 +21500,7 @@
     "name": "Portrait of a Torn"
   },
   "3059520": {
-    "config_count": 24,
+    "config_count": 20,
     "devices": [
       {
         "d": "G57_MC2",
@@ -21542,11 +21551,6 @@
         "d": "Adreno__TM__650",
         "m": "G780G",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "23129RA5FL",
-        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
@@ -26950,6 +26954,14 @@
     ],
     "name": "Assassin's Creed\u00ae Syndicate"
   },
+  "3699590": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Well_Dweller"
+    ],
+    "name": "Well Dweller"
+  },
   "3716310": {
     "config_count": 1,
     "devices": [
@@ -31900,7 +31912,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 38,
+    "config_count": 36,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -31991,18 +32003,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "V2425A",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "The_Witcher_3",
-      "The_Witcher_3__Wild_Hunt",
-      "Witcher_1",
-      "_Witcher"
+      "The_Witcher_3__Wild_Hunt"
     ],
     "name": "The Witcher 3: Wild Hunt \u2014 Songs of the Past"
   },
@@ -38458,6 +38463,14 @@
     ],
     "name": "Am2R"
   },
+  "name:american-truck-simulator": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "American_truck_simulator"
+    ],
+    "name": "American Truck Simulator"
+  },
   "name:amtrucks": {
     "config_count": 1,
     "devices": [],
@@ -39236,6 +39249,20 @@
       "F_E_A_R__Platinum_Collection"
     ],
     "name": "F E A R Platinum Collection"
+  },
+  "name:f1-2014": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
+      }
+    ],
+    "folders": [
+      "F1_2014"
+    ],
+    "name": "F1 2014"
   },
   "name:fallout-new-vegas-pcr": {
     "config_count": 1,
