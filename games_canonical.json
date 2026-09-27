@@ -452,7 +452,7 @@
     "name": "Torque Drift"
   },
   "1030300": {
-    "config_count": 49,
+    "config_count": 50,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -4258,7 +4258,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 57,
+    "config_count": 58,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4364,6 +4364,11 @@
         "d": "Adreno__TM__650",
         "m": "22021211RG",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
       }
     ],
     "folders": [
@@ -4381,6 +4386,7 @@
       "Need_For_Speed_Most_Wanted_",
       "Need_for_Speed_-_Most_Wanted",
       "Need_for_Speed__Most_Wanted_2005",
+      "Need_for_Speed__Most_wanted__2012_",
       "need_for_speed_most_wa",
       "need_for_speed_most_wanted_2005"
     ],
@@ -5988,6 +5994,14 @@
       "teste"
     ],
     "name": "Tested on Humans: Escape Room"
+  },
+  "1486290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "eFootball_2026"
+    ],
+    "name": "Polyleague Manager 2026: Football Evolution"
   },
   "1491410": {
     "config_count": 1,
@@ -7710,7 +7724,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 99,
+    "config_count": 98,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -7863,8 +7877,7 @@
       "pes_2012",
       "pes_2013",
       "pes_2013_",
-      "pes__2013",
-      "eFootball_2026"
+      "pes__2013"
     ],
     "name": "eFootball\u2122"
   },
@@ -16983,7 +16996,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 29,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -17246,7 +17259,7 @@
     "name": "STORY OF SEASONS: Grand Bazaar"
   },
   "250900": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -19732,7 +19745,7 @@
     "name": "Nunholy"
   },
   "2856190": {
-    "config_count": 108,
+    "config_count": 109,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -25198,14 +25211,6 @@
     ],
     "name": "Heavy Weapon Deluxe"
   },
-  "3419290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN"
-  },
   "341940": {
     "config_count": 3,
     "devices": [
@@ -28940,6 +28945,14 @@
       "The_Spike"
     ],
     "name": "The Spike Cross"
+  },
+  "3985080": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN - Costume Expansion Pack"
   },
   "400": {
     "config_count": 4,
@@ -34406,7 +34419,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -34420,7 +34433,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2"
+      "LEGO__Marvel_Super_Heroes_2",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -40162,20 +40176,6 @@
       "Need_for_Speed_Black_Edition_"
     ],
     "name": "Need For Speed Black Edition"
-  },
-  "name:need-for-speed-most-wanted-2012": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
-      }
-    ],
-    "folders": [
-      "Need_for_Speed__Most_wanted__2012_"
-    ],
-    "name": "Need For Speed Most Wanted 2012"
   },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 1,
