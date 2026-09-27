@@ -10500,7 +10500,7 @@
     "name": "Beast of Reincarnation"
   },
   "200260": {
-    "config_count": 22,
+    "config_count": 23,
     "devices": [
       {
         "d": "G52_MC2",
@@ -10536,6 +10536,11 @@
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "Adreno__TM__640",
+        "m": "M2102J20SG",
+        "s": "Adreno (TM) 640"
       },
       {
         "d": "G68_MC4",
@@ -24075,7 +24080,7 @@
     "name": "Grand Theft Auto V Enhanced"
   },
   "3241660": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "G57",
@@ -28209,7 +28214,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 194,
+    "config_count": 196,
     "devices": [
       {
         "d": "Adreno__TM__650",
