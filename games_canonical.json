@@ -9234,7 +9234,7 @@
     "name": "Marvel\u2019s Spider-Man Remastered"
   },
   "1817190": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -9300,6 +9300,11 @@
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "S908E",
+        "s": "Adreno (TM) 730"
       }
     ],
     "folders": [
@@ -16364,14 +16369,6 @@
     ],
     "name": "Cyber Manhunt 2: New World - The Hacking Simulator"
   },
-  "2421750": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GUN"
-    ],
-    "name": "Gunman Contracts - Stand Alone"
-  },
   "2424420": {
     "config_count": 7,
     "devices": [
@@ -17430,6 +17427,14 @@
       "Denshattack_"
     ],
     "name": "Denshattack"
+  },
+  "2524890": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GUN"
+    ],
+    "name": "Pixel Gun 3D: PC Edition"
   },
   "2527160": {
     "config_count": 3,
@@ -22786,7 +22791,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1695,
+    "config_count": 1696,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -26304,7 +26309,7 @@
     "name": "Isekai Bistro"
   },
   "357190": {
-    "config_count": 26,
+    "config_count": 27,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -40504,7 +40509,7 @@
     "name": "PES 2011"
   },
   "name:pes-2012": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "G57_MC2",
@@ -40520,6 +40525,11 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "24030PN60G",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
