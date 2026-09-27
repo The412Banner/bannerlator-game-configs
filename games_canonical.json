@@ -6620,13 +6620,8 @@
     "name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition"
   },
   "1551360": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "NX789J",
-        "s": "Adreno (TM) 830"
-      },
       {
         "d": "Adreno__TM__750",
         "m": "S928B",
@@ -6636,6 +6631,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "NX789J",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -14302,7 +14302,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 253,
+    "config_count": 254,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -22150,6 +22150,20 @@
     ],
     "name": "States of Power"
   },
+  "312660": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__720",
+        "m": "CPH2613",
+        "s": "Adreno (TM) 720"
+      }
+    ],
+    "folders": [
+      "SniperElite4"
+    ],
+    "name": "Sniper Elite 4"
+  },
   "3127280": {
     "config_count": 2,
     "devices": [],
@@ -22772,7 +22786,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1692,
+    "config_count": 1695,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -23913,6 +23927,11 @@
         "d": "G610_MC6",
         "m": "Mali",
         "s": "Mali-G610 MC6"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "CPH2551",
+        "s": "Adreno (TM) 740"
       },
       {
         "d": "Adreno__TM__830",
@@ -40511,7 +40530,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2946,
+    "config_count": 2948,
     "devices": [
       {
         "d": "G52_MC2",
@@ -41424,11 +41443,6 @@
         "s": "Mali-G720 MC8"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "23073RPBFL",
         "s": "Adreno (TM) 610"
@@ -41437,6 +41451,11 @@
         "d": "PowerVR_Rogue_GE8322",
         "m": "24044RN32L",
         "s": "PowerVR Rogue GE8322"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
