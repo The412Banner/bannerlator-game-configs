@@ -1395,7 +1395,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1404,8 +1404,7 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid",
-      "Rangers"
+      "BattleForTheGrid"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -4789,20 +4788,6 @@
     ],
     "name": "Lost Ruins"
   },
-  "1307710": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "GRID"
-    ],
-    "name": "GRID Legends"
-  },
   "1310510": {
     "config_count": 1,
     "devices": [],
@@ -7237,8 +7222,14 @@
     "name": "CRISIS CORE \u2013FINAL FANTASY VII\u2013 REUNION"
   },
   "1608230": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "PowerVR_Rogue_GE8322",
+        "m": "Magic_15_MAX",
+        "s": "PowerVR Rogue GE8322"
+      }
+    ],
     "folders": [
       "Planet_of_Lana"
     ],
@@ -8665,7 +8656,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 162,
+    "config_count": 163,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -8758,14 +8749,14 @@
         "s": "Mali-G52 MC2"
       },
       {
-        "d": "Adreno__TM__720",
-        "m": "NX9",
-        "s": "Adreno (TM) 720"
-      },
-      {
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "NX9",
+        "s": "Adreno (TM) 720"
       },
       {
         "d": "Adreno__TM__825",
@@ -11042,8 +11033,33 @@
     "name": "Hitman: Absolution\u2122"
   },
   "203160": {
-    "config_count": 13,
+    "config_count": 26,
     "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
+      },
       {
         "d": "Adreno__TM__740",
         "m": "S911U",
@@ -11071,11 +11087,12 @@
       }
     ],
     "folders": [
+      "TombRaider",
       "Tomb_Raider",
       "Tomb_Raider_2013",
       "Tomb_Raider_Game_of_the_Year"
     ],
-    "name": "Tomb Raider"
+    "name": "Tomb Raider Game of the Year"
   },
   "203650": {
     "config_count": 3,
@@ -18436,7 +18453,7 @@
     "name": "POOLS"
   },
   "2668510": {
-    "config_count": 47,
+    "config_count": 48,
     "devices": [
       {
         "d": "SM8635",
@@ -21431,6 +21448,14 @@
     ],
     "name": "THE KING OF FIGHTERS XIII GLOBAL MATCH"
   },
+  "3054410": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Bushside Rangers"
+  },
   "305620": {
     "config_count": 4,
     "devices": [
@@ -22734,7 +22759,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1683,
+    "config_count": 1684,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -26118,42 +26143,16 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 17,
+    "config_count": 4,
     "devices": [
       {
         "d": "G57_MC4",
         "m": "Mali",
         "s": "Mali-G57 MC4"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
-      "Atla",
-      "TombRaider"
+      "Atla"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -26570,7 +26569,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -26591,6 +26590,11 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -30261,7 +30265,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 4,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -30272,7 +30276,9 @@
     "folders": [
       "Call_of_Duty_4",
       "COD__Modern_Warfare",
-      "Call_of_duty_Modern_Warfare"
+      "Call_of_Duty_4_Modern_Warfare",
+      "Call_of_duty_Modern_Warfare",
+      "call_of_duty_4_modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -32636,7 +32642,7 @@
     "name": "RAGE 2"
   },
   "550": {
-    "config_count": 70,
+    "config_count": 73,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -35823,7 +35829,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 31,
+    "config_count": 29,
     "devices": [
       {
         "d": "G720_MC7",
@@ -35883,8 +35889,7 @@
       "Call_of_Duty__4__Modern_Warfare___2007_",
       "iw3mp",
       "iw3sp",
-      "Call_of_Duty_-_Modern_Warfare",
-      "call_of_duty_4_modern_Warfare"
+      "Call_of_Duty_-_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
@@ -37024,7 +37029,7 @@
     "name": "BioShock\u00ae 2"
   },
   "8870": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "G720_MC7",
@@ -40437,7 +40442,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2941,
+    "config_count": 2944,
     "devices": [
       {
         "d": "G52_MC2",
@@ -40813,11 +40818,6 @@
         "d": "Adreno__TM__710",
         "m": "25118PC98G",
         "s": "Adreno (TM) 710"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "23073RPBFL",
-        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__730",
@@ -41358,6 +41358,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23073RPBFL",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__740",
