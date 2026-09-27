@@ -186,7 +186,7 @@
     "name": "The Long Drive"
   },
   "10180": {
-    "config_count": 43,
+    "config_count": 44,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -291,7 +291,7 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 2 (2009)"
   },
   "1020790": {
-    "config_count": 51,
+    "config_count": 50,
     "devices": [
       {
         "d": "SM8850",
@@ -386,8 +386,7 @@
     ],
     "folders": [
       "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
-      "NARUTO_X_BORUTO_Ultimate____________________________________",
-      "Naruto_Ultimate_Storm_4"
+      "NARUTO_X_BORUTO_Ultimate____________________________________"
     ],
     "name": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS"
   },
@@ -1396,7 +1395,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1405,7 +1404,8 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid"
+      "BattleForTheGrid",
+      "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -11034,33 +11034,8 @@
     "name": "Hitman: Absolution\u2122"
   },
   "203160": {
-    "config_count": 26,
+    "config_count": 13,
     "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
-      },
       {
         "d": "Adreno__TM__740",
         "m": "S911U",
@@ -11088,12 +11063,11 @@
       }
     ],
     "folders": [
-      "TombRaider",
       "Tomb_Raider",
       "Tomb_Raider_2013",
       "Tomb_Raider_Game_of_the_Year"
     ],
-    "name": "Tomb Raider Game of the Year"
+    "name": "Tomb Raider"
   },
   "203650": {
     "config_count": 3,
@@ -16994,7 +16968,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -18242,14 +18216,6 @@
       "TokyoXtremeRacer"
     ],
     "name": "Tokyo Xtreme Racer"
-  },
-  "2637940": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Cars"
-    ],
-    "name": "Used Cars Simulator"
   },
   "2638050": {
     "config_count": 1,
@@ -20523,7 +20489,7 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 16,
+    "config_count": 14,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -20551,16 +20517,6 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "V2425A",
-        "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__840",
         "m": "25102PCBEG",
         "s": "Adreno (TM) 840"
@@ -20582,8 +20538,6 @@
       "The_Witcher_3_-_Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
-      "Witcher_1",
-      "_Witcher",
       "witcher3"
     ],
     "name": "The Witcher 3: Wild Hunt - Complete Edition"
@@ -21456,14 +21410,6 @@
       "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH"
     ],
     "name": "THE KING OF FIGHTERS XIII GLOBAL MATCH"
-  },
-  "3054410": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Bushside Rangers"
   },
   "305620": {
     "config_count": 4,
@@ -22768,7 +22714,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1684,
+    "config_count": 1685,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24494,6 +24440,14 @@
     ],
     "name": "Garten of Banban 0"
   },
+  "331160": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Cars"
+    ],
+    "name": "Disney\u2022Pixar Cars"
+  },
   "33120": {
     "config_count": 2,
     "devices": [
@@ -25609,7 +25563,7 @@
     "name": "Stellar Blade\u2122"
   },
   "349040": {
-    "config_count": 65,
+    "config_count": 66,
     "devices": [
       {
         "d": "G615_MC2",
@@ -25725,7 +25679,8 @@
     "folders": [
       "NARUTO_SHIPPUDEN_-_ULTIMATE_NINJA_STORM_4",
       "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
-      "NARUTO_SHIPPUDEN_-_Ultimate_Ninja_STORM_4"
+      "NARUTO_SHIPPUDEN_-_Ultimate_Ninja_STORM_4",
+      "Naruto_Ultimate_Storm_4"
     ],
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
   },
@@ -26151,16 +26106,42 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 4,
+    "config_count": 17,
     "devices": [
       {
         "d": "G57_MC4",
         "m": "Mali",
         "s": "Mali-G57 MC4"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
-      "Atla"
+      "Atla",
+      "TombRaider"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -26577,7 +26558,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -26607,7 +26588,8 @@
     ],
     "folders": [
       "GRID",
-      "Off_The_Grid"
+      "Off_The_Grid",
+      "GRID__2019_"
     ],
     "name": "Off The Grid"
   },
@@ -27189,7 +27171,7 @@
     "name": "HELLMART"
   },
   "3764200": {
-    "config_count": 37,
+    "config_count": 38,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -30273,7 +30255,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 6,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -30284,9 +30266,7 @@
     "folders": [
       "Call_of_Duty_4",
       "COD__Modern_Warfare",
-      "Call_of_Duty_4_Modern_Warfare",
-      "Call_of_duty_Modern_Warfare",
-      "call_of_duty_4_modern_Warfare"
+      "Call_of_duty_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -31836,7 +31816,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 36,
+    "config_count": 38,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -31927,11 +31907,18 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "V2425A",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "The_Witcher_3",
-      "The_Witcher_3__Wild_Hunt"
+      "The_Witcher_3__Wild_Hunt",
+      "Witcher_1",
+      "_Witcher"
     ],
     "name": "The Witcher 3: Wild Hunt \u2014 Songs of the Past"
   },
@@ -32958,7 +32945,7 @@
     "name": "TUNIC"
   },
   "553520": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -32974,11 +32961,6 @@
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__750",
@@ -33029,6 +33011,11 @@
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
@@ -34334,7 +34321,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -34348,8 +34335,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2",
-      "LEGOMARVEL"
+      "LEGO__Marvel_Super_Heroes_2"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -35842,7 +35828,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 29,
+    "config_count": 31,
     "devices": [
       {
         "d": "G720_MC7",
@@ -35902,7 +35888,8 @@
       "Call_of_Duty__4__Modern_Warfare___2007_",
       "iw3mp",
       "iw3sp",
-      "Call_of_Duty_-_Modern_Warfare"
+      "Call_of_Duty_-_Modern_Warfare",
+      "call_of_duty_4_modern_Warfare"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
@@ -40455,7 +40442,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2944,
+    "config_count": 2945,
     "devices": [
       {
         "d": "G52_MC2",
