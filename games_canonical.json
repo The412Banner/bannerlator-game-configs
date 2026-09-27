@@ -4221,7 +4221,7 @@
     "name": "Party Animals"
   },
   "1262540": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "G52_MC2",
@@ -4247,7 +4247,8 @@
     "folders": [
       "Need_for_Speed_",
       "need_for_speed",
-      "need_for_speed_"
+      "need_for_speed_",
+      "Need_for_speed__2005_"
     ],
     "name": "Need for Speed\u2122"
   },
@@ -22771,7 +22772,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1691,
+    "config_count": 1692,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25846,7 +25847,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -25906,6 +25907,7 @@
     ],
     "folders": [
       "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
       "Batman_Arkham_Asylum",
       "Batman__Arkham_Asylum_GOTY_Edition"
     ],
@@ -36843,7 +36845,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 115,
+    "config_count": 116,
     "devices": [
       {
         "d": "s5e8855",
@@ -37041,6 +37043,11 @@
         "s": "Adreno (TM) 619"
       },
       {
+        "d": "Adreno__TM__840",
+        "m": "S948U1",
+        "s": "Adreno (TM) 840"
+      },
+      {
         "d": "G610_MC6",
         "m": "Mali",
         "s": "Mali-G610 MC6"
@@ -37059,6 +37066,7 @@
     "folders": [
       "Resident_Evil_2",
       "Resident_Evil_2_____________________________________________",
+      "Resident_Evil_2__2019_",
       "Resident_Evil_2__DX11_",
       "re2",
       "resident_evil_2"
@@ -37082,7 +37090,7 @@
     "name": "BioShock\u00ae 2"
   },
   "8870": {
-    "config_count": 15,
+    "config_count": 14,
     "devices": [
       {
         "d": "G720_MC7",
@@ -37115,8 +37123,7 @@
       "BioShock_",
       "BioShock_Infinite",
       "Bioshock",
-      "BioShock_Infinite_Complete_Edition",
-      "BioshockHD"
+      "BioShock_Infinite_Complete_Edition"
     ],
     "name": "BioShock Infinite"
   },
@@ -38514,14 +38521,6 @@
       "BaldisBasicsPlusAdvanced"
     ],
     "name": "Baldisbasicsplusadvanced"
-  },
-  "name:batman-arkham-asylum-game-of-the-year-edition": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition"
-    ],
-    "name": "Batman Arkham Asylum Game Of The Year Edition"
   },
   "name:batmanac": {
     "config_count": 2,
@@ -40115,14 +40114,6 @@
     ],
     "name": "Nba2K23"
   },
-  "name:need-for-speed-2005": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Need_for_speed__2005_"
-    ],
-    "name": "Need For Speed 2005"
-  },
   "name:need-for-speed-black-edition": {
     "config_count": 1,
     "devices": [
@@ -40520,7 +40511,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2945,
+    "config_count": 2946,
     "devices": [
       {
         "d": "G52_MC2",
@@ -42449,20 +42440,6 @@
       "ResChanger"
     ],
     "name": "Reschanger"
-  },
-  "name:resident-evil-2-2019": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "S948U1",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "Resident_Evil_2__2019_"
-    ],
-    "name": "Resident Evil 2 2019"
   },
   "name:resident-evil-2-dx11": {
     "config_count": 1,
