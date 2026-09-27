@@ -4677,20 +4677,6 @@
     ],
     "name": "Helltaker"
   },
-  "1291170": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "G68",
-        "m": "Mali",
-        "s": "Mali-G68"
-      }
-    ],
-    "folders": [
-      "Terrordrome_Final_1_0"
-    ],
-    "name": "Terrordrome - Reign of the Legends"
-  },
   "1292940": {
     "config_count": 1,
     "devices": [
@@ -21129,7 +21115,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -21150,10 +21136,16 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -22720,7 +22712,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1687,
+    "config_count": 1689,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24446,15 +24438,7 @@
     ],
     "name": "Garten of Banban 0"
   },
-  "331160": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Cars"
-    ],
-    "name": "Disney\u2022Pixar Cars"
-  },
-  "33120": {
+  "33100": {
     "config_count": 2,
     "devices": [
       {
@@ -24466,7 +24450,15 @@
     "folders": [
       "Alien_Shooter_2"
     ],
-    "name": "Alien Shooter 2: Reloaded"
+    "name": "Alien Shooter"
+  },
+  "331160": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Cars"
+    ],
+    "name": "Disney\u2022Pixar Cars"
   },
   "3314790": {
     "config_count": 2,
@@ -24665,6 +24657,25 @@
       "Transformice"
     ],
     "name": "Transformice"
+  },
+  "335300": {
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
+      }
+    ],
+    "folders": [
+      "DarkSoulsII"
+    ],
+    "name": "DARK SOULS\u2122 II: Scholar of the First Sin"
   },
   "3354750": {
     "config_count": 1,
@@ -27025,7 +27036,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 42,
+    "config_count": 39,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -27103,16 +27114,6 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -27125,7 +27126,6 @@
       "DarkSoulsRemastered",
       "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
-      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -32854,7 +32854,7 @@
     "name": "Brick Rigs"
   },
   "55230": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -32884,7 +32884,8 @@
     ],
     "folders": [
       "Saints_Row__The_Third",
-      "SaintsRowTheThird"
+      "SaintsRowTheThird",
+      "Saints_Row___The_Third__Remastered"
     ],
     "name": "Saints Row: The Third"
   },
@@ -37303,7 +37304,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 8,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -37319,16 +37320,10 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -38056,14 +38051,6 @@
       "Eastward"
     ],
     "name": "Eastward"
-  },
-  "978300": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Saints_Row___The_Third__Remastered"
-    ],
-    "name": "Saints Row\u00ae: The Third\u2122 Remastered"
   },
   "978780": {
     "config_count": 3,
@@ -42763,6 +42750,20 @@
       "TAKECAREOFTHEDOG"
     ],
     "name": "Takecareofthedog"
+  },
+  "name:terrordrome-final-1-0": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
+      }
+    ],
+    "folders": [
+      "Terrordrome_Final_1_0"
+    ],
+    "name": "Terrordrome Final 1 0"
   },
   "name:tesv": {
     "config_count": 3,
