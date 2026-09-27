@@ -17850,6 +17850,14 @@
     ],
     "name": "MotoGP\u212214"
   },
+  "257070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Batman_Arkham_Origins_-_Season_Pass"
+    ],
+    "name": "Batman\u2122: Arkham Origins - Season Pass"
+  },
   "2572670": {
     "config_count": 1,
     "devices": [
@@ -34596,7 +34604,7 @@
     "name": "MudRunner"
   },
   "67584": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "G68",
@@ -34612,6 +34620,11 @@
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
