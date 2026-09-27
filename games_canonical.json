@@ -18063,8 +18063,14 @@
     "name": "Neighbours from Hell Compilation"
   },
   "261030": {
-    "config_count": 2,
-    "devices": [],
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__725",
+        "m": "23049PCD8G",
+        "s": "Adreno (TM) 725"
+      }
+    ],
     "folders": [
       "TheWalkingDead2"
     ],
@@ -20138,7 +20144,7 @@
     "name": "Metro 2033 Redux"
   },
   "2868840": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "Adreno__TM__613",
@@ -20513,7 +20519,7 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 14,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -20541,6 +20547,16 @@
         "s": "Adreno (TM) 830"
       },
       {
+        "d": "Adreno__TM__750",
+        "m": "V2425A",
+        "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
         "d": "Adreno__TM__840",
         "m": "25102PCBEG",
         "s": "Adreno (TM) 840"
@@ -20562,6 +20578,8 @@
       "The_Witcher_3_-_Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
+      "Witcher_1",
+      "_Witcher",
       "witcher3"
     ],
     "name": "The Witcher 3: Wild Hunt - Complete Edition"
@@ -31840,7 +31858,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 38,
+    "config_count": 36,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -31931,18 +31949,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "V2425A",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "The_Witcher_3",
-      "The_Witcher_3__Wild_Hunt",
-      "Witcher_1",
-      "_Witcher"
+      "The_Witcher_3__Wild_Hunt"
     ],
     "name": "The Witcher 3: Wild Hunt \u2014 Songs of the Past"
   },
