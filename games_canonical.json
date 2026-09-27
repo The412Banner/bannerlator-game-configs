@@ -9078,7 +9078,7 @@
     "name": "ARC Raiders"
   },
   "1809540": {
-    "config_count": 6,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -13764,7 +13764,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 20,
+    "config_count": 19,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -13804,8 +13804,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -20222,7 +20221,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -20262,7 +20261,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -27755,7 +27755,7 @@
     "name": "Psychonauts"
   },
   "383150": {
-    "config_count": 16,
+    "config_count": 17,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -27771,6 +27771,11 @@
         "d": "Adreno__TM__740",
         "m": "Retroid_Pocket_6",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Ultra_MC12",
+        "m": "G1",
+        "s": "Mali-G1-Ultra MC12"
       }
     ],
     "folders": [
