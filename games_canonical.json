@@ -3355,7 +3355,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 52,
+    "config_count": 53,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -9975,12 +9975,10 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 3,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "MAFIA",
-      "Mafia",
-      "Mafia_-_Definitive_Edition"
+      "MAFIA"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -16387,14 +16385,6 @@
     ],
     "name": "Cyber Manhunt 2: New World - The Hacking Simulator"
   },
-  "2421750": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GUN"
-    ],
-    "name": "Gunman Contracts - Stand Alone"
-  },
   "2424420": {
     "config_count": 7,
     "devices": [
@@ -17017,7 +17007,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -17454,6 +17444,14 @@
       "Denshattack_"
     ],
     "name": "Denshattack"
+  },
+  "2524890": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GUN"
+    ],
+    "name": "Pixel Gun 3D: PC Edition"
   },
   "2527160": {
     "config_count": 3,
@@ -25656,7 +25654,7 @@
     "name": "Stellar Blade\u2122"
   },
   "349040": {
-    "config_count": 66,
+    "config_count": 67,
     "devices": [
       {
         "d": "G615_MC2",
@@ -25719,11 +25717,6 @@
         "s": "Adreno (TM) 810"
       },
       {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "RMX3840",
         "s": "Adreno (TM) 710"
@@ -25767,6 +25760,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       }
     ],
     "folders": [
@@ -29307,6 +29305,15 @@
     ],
     "name": "BioShock\u2122 2 Remastered"
   },
+  "40990": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Mafia",
+      "Mafia_-_Definitive_Edition"
+    ],
+    "name": "Mafia"
+  },
   "4100940": {
     "config_count": 7,
     "devices": [
@@ -31589,6 +31596,11 @@
         "s": "Mali-G615 MC6"
       },
       {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      },
+      {
         "d": "unknown",
         "m": "Pocket_FIT",
         "s": "unknown"
@@ -31702,18 +31714,13 @@
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
       "Skyrim_-_Special_Edition",
+      "The_Elder_Scrolls_V_-_Skyrim_Special_Edition________________",
       "The_Elder_Scrolls_V__Skyrim",
       "The_Elder_Scrolls_V__Skyrim_Special_Edition",
-      "The_Elder_Scrolls_V_-_Skyrim_Special_Edition________________",
       "Skyrim",
       "The_Elder_Scrolls_V_-_Skyrim_Special_Edition",
       "The_Elder_Scrolls_V_Skyrim_Special_Edition"
@@ -34487,7 +34494,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -34501,8 +34508,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2",
-      "LEGOMARVEL"
+      "LEGO__Marvel_Super_Heroes_2"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
