@@ -16387,6 +16387,14 @@
     ],
     "name": "Cyber Manhunt 2: New World - The Hacking Simulator"
   },
+  "2421750": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GUN"
+    ],
+    "name": "Gunman Contracts - Stand Alone"
+  },
   "2424420": {
     "config_count": 7,
     "devices": [
@@ -17446,14 +17454,6 @@
       "Denshattack_"
     ],
     "name": "Denshattack"
-  },
-  "2524890": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GUN"
-    ],
-    "name": "Pixel Gun 3D: PC Edition"
   },
   "2527160": {
     "config_count": 3,
@@ -21058,22 +21058,16 @@
     "name": "Darwin's Paradox!"
   },
   "2990": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
         "m": "22081212UG",
         "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "Retroid_Pocket_Flip2",
-        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
-      "FlatOut2",
-      "FlatOut_2"
+      "FlatOut2"
     ],
     "name": "FlatOut 2"
   },
@@ -31587,7 +31581,7 @@
     "name": "Warhammer 40,000: Gladius - Relics of War"
   },
   "489830": {
-    "config_count": 69,
+    "config_count": 70,
     "devices": [
       {
         "d": "G615_MC6",
@@ -31708,12 +31702,18 @@
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
       "Skyrim_-_Special_Edition",
       "The_Elder_Scrolls_V__Skyrim",
       "The_Elder_Scrolls_V__Skyrim_Special_Edition",
+      "The_Elder_Scrolls_V_-_Skyrim_Special_Edition________________",
       "Skyrim",
       "The_Elder_Scrolls_V_-_Skyrim_Special_Edition",
       "The_Elder_Scrolls_V_Skyrim_Special_Edition"
@@ -32575,6 +32575,20 @@
       "Resident_Evil_7_Teaser__Beginning_Hour"
     ],
     "name": "Resident Evil 7 Teaser: Beginning Hour"
+  },
+  "531510": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "S918B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Shapes"
+    ],
+    "name": "Just Shapes & Beats"
   },
   "532210": {
     "config_count": 1,
