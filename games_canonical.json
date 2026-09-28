@@ -9980,10 +9980,12 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [],
     "folders": [
-      "MAFIA"
+      "MAFIA",
+      "Mafia",
+      "Mafia_-_Definitive_Edition"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -13782,7 +13784,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 17,
+    "config_count": 19,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -13821,7 +13823,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -13875,7 +13878,7 @@
     "name": "Command & Conquer\u2122 Generals"
   },
   "22300": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -13911,7 +13914,8 @@
     "folders": [
       "Fallout_3",
       "Fallout_3_-_Game_of_the_Year_Edition",
-      "Fallout_3___________________________________________________"
+      "Fallout_3___________________________________________________",
+      "Fallout_3__Game_of_the_Year_Edition"
     ],
     "name": "Fallout 3"
   },
@@ -14011,14 +14015,6 @@
       "Contra_Galuga"
     ],
     "name": "Contra: Operation Galuga"
-  },
-  "22370": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Fallout_3__Game_of_the_Year_Edition"
-    ],
-    "name": "Fallout 3: Game of the Year Edition"
   },
   "22380": {
     "config_count": 18,
@@ -20246,7 +20242,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -20287,7 +20283,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -22805,7 +22800,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1697,
+    "config_count": 1698,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24675,7 +24670,7 @@
     "name": "Five Nights at Freddy's 2"
   },
   "33320": {
-    "config_count": 10,
+    "config_count": 7,
     "devices": [
       {
         "d": "G615_MC2",
@@ -24691,11 +24686,6 @@
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
@@ -27999,7 +27989,7 @@
     "name": "Day of the Tentacle Remastered"
   },
   "388410": {
-    "config_count": 14,
+    "config_count": 13,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -28045,8 +28035,7 @@
     "folders": [
       "Darksiders_II_Deathinitive_Edition",
       "Darksiders_II_Deathinitive_Edition__________________________",
-      "Darksiders_II_______________________________________________",
-      "Darksiders_2"
+      "Darksiders_II_______________________________________________"
     ],
     "name": "Darksiders II Deathinitive Edition"
   },
@@ -29310,15 +29299,6 @@
     ],
     "name": "BioShock\u2122 2 Remastered"
   },
-  "40990": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Mafia",
-      "Mafia_-_Definitive_Edition"
-    ],
-    "name": "Mafia"
-  },
   "4100940": {
     "config_count": 7,
     "devices": [
@@ -29413,14 +29393,6 @@
       "ZAT"
     ],
     "name": "Z.A.T.O. - Digital Art Pack"
-  },
-  "4123760": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Football_Life_2026"
-    ],
-    "name": "Football Life"
   },
   "413150": {
     "config_count": 8,
@@ -30388,7 +30360,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 4,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -30399,7 +30371,9 @@
     "folders": [
       "Call_of_Duty_4",
       "COD__Modern_Warfare",
-      "Call_of_duty_Modern_Warfare"
+      "Call_of_Duty_4_Modern_Warfare",
+      "Call_of_duty_Modern_Warfare",
+      "call_of_duty_4_modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -35218,7 +35192,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__A32",
@@ -35234,7 +35208,8 @@
     "folders": [
       "Darksiders_Genesis",
       "Darksiders",
-      "DarksidersGenesis"
+      "DarksidersGenesis",
+      "Darksiders_2"
     ],
     "name": "Darksiders Genesis"
   },
@@ -36011,7 +35986,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 31,
+    "config_count": 29,
     "devices": [
       {
         "d": "G720_MC7",
@@ -36071,8 +36046,7 @@
       "Call_of_Duty__4__Modern_Warfare___2007_",
       "iw3mp",
       "iw3sp",
-      "Call_of_Duty_-_Modern_Warfare",
-      "call_of_duty_4_modern_Warfare"
+      "Call_of_Duty_-_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
@@ -39476,6 +39450,14 @@
     ],
     "name": "Final Fantasy 7 Steamrip Read Description"
   },
+  "name:football-life-2026": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Football_Life_2026"
+    ],
+    "name": "Football Life 2026"
+  },
   "name:frozen-throne": {
     "config_count": 1,
     "devices": [
@@ -39868,6 +39850,20 @@
       "htruck2"
     ],
     "name": "Htruck2"
+  },
+  "name:hytale-launcher": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "24117RK2CG",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Hytale_Launcher"
+    ],
+    "name": "Hytale Launcher"
   },
   "name:igi-i-m-going-in": {
     "config_count": 1,
@@ -42434,6 +42430,20 @@
       "Postal2_Copy"
     ],
     "name": "Postal2 Copy"
+  },
+  "name:prince-of-persia-the-forgotten-sands": {
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      }
+    ],
+    "folders": [
+      "Prince_of_Persia_-_The_Forgotten_Sands"
+    ],
+    "name": "Prince Of Persia The Forgotten Sands"
   },
   "name:pro-evolution-soccer": {
     "config_count": 1,
