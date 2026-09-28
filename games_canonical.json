@@ -6120,7 +6120,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 102,
+    "config_count": 100,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -22582,6 +22582,20 @@
     ],
     "name": "Formula Legends"
   },
+  "319510": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__618",
+        "m": "M2007J20CG",
+        "s": "Adreno (TM) 618"
+      }
+    ],
+    "folders": [
+      "Five_Nights_At_Freddys_2"
+    ],
+    "name": "Five Nights at Freddy's"
+  },
   "3195790": {
     "config_count": 1,
     "devices": [],
@@ -24726,20 +24740,6 @@
       "Assassins_Creed_II"
     ],
     "name": "Assassin's Creed 2"
-  },
-  "332800": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__618",
-        "m": "M2007J20CG",
-        "s": "Adreno (TM) 618"
-      }
-    ],
-    "folders": [
-      "Five_Nights_At_Freddys_2"
-    ],
-    "name": "Five Nights at Freddy's 2"
   },
   "33320": {
     "config_count": 10,
@@ -39502,6 +39502,14 @@
     ],
     "name": "Ffxiii"
   },
+  "name:fifa-13": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "FIFA_13"
+    ],
+    "name": "Fifa 13"
+  },
   "name:fifa14": {
     "config_count": 1,
     "devices": [],
@@ -40763,7 +40771,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2953,
+    "config_count": 2954,
     "devices": [
       {
         "d": "G52_MC2",
@@ -41641,11 +41649,6 @@
         "s": "Adreno (TM) 640"
       },
       {
-        "d": "G68",
-        "m": "Mali",
-        "s": "Mali-G68"
-      },
-      {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
@@ -41689,6 +41692,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
       },
       {
         "d": "Adreno__TM__740",
