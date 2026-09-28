@@ -33105,7 +33105,7 @@
     "name": "TUNIC"
   },
   "553520": {
-    "config_count": 32,
+    "config_count": 33,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -33176,6 +33176,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "A715F",
+        "s": "Adreno (TM) 618"
       }
     ],
     "folders": [
