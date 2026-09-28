@@ -6120,7 +6120,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 100,
+    "config_count": 103,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -6273,6 +6273,11 @@
         "s": "Adreno (TM) 740"
       },
       {
+        "d": "Adreno__TM__618",
+        "m": "moto_g_60_",
+        "s": "Adreno (TM) 618"
+      },
+      {
         "d": "Adreno__TM__710",
         "m": "CPH2743",
         "s": "Adreno (TM) 710"
@@ -6313,10 +6318,10 @@
       "FIFA_19",
       "FIFA_19_____________________________________________________",
       "FIFA_20",
+      "FIFA_2004___________________________________________________",
       "FIFA_2007",
       "FIFA_22",
       "FIFA_23",
-      "FIFA_2004___________________________________________________",
       "FIFA22",
       "fifa_12"
     ],
@@ -11102,8 +11107,33 @@
     "name": "Hitman: Absolution\u2122"
   },
   "203160": {
-    "config_count": 13,
+    "config_count": 26,
     "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
+      },
       {
         "d": "Adreno__TM__740",
         "m": "S911U",
@@ -11131,11 +11161,12 @@
       }
     ],
     "folders": [
+      "TombRaider",
       "Tomb_Raider",
       "Tomb_Raider_2013",
       "Tomb_Raider_Game_of_the_Year"
     ],
-    "name": "Tomb Raider"
+    "name": "Tomb Raider Game of the Year"
   },
   "203650": {
     "config_count": 3,
@@ -16418,6 +16449,14 @@
     ],
     "name": "Cyber Manhunt 2: New World - The Hacking Simulator"
   },
+  "2421750": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GUN"
+    ],
+    "name": "Gunman Contracts - Stand Alone"
+  },
   "2424420": {
     "config_count": 7,
     "devices": [
@@ -17478,14 +17517,6 @@
     ],
     "name": "Denshattack"
   },
-  "2524890": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GUN"
-    ],
-    "name": "Pixel Gun 3D: PC Edition"
-  },
   "2527160": {
     "config_count": 3,
     "devices": [],
@@ -18303,14 +18334,6 @@
       "TokyoXtremeRacer"
     ],
     "name": "Tokyo Xtreme Racer"
-  },
-  "2637940": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Cars"
-    ],
-    "name": "Used Cars Simulator"
   },
   "2638050": {
     "config_count": 1,
@@ -22582,20 +22605,6 @@
     ],
     "name": "Formula Legends"
   },
-  "319510": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__618",
-        "m": "M2007J20CG",
-        "s": "Adreno (TM) 618"
-      }
-    ],
-    "folders": [
-      "Five_Nights_At_Freddys_2"
-    ],
-    "name": "Five Nights at Freddy's"
-  },
   "3195790": {
     "config_count": 1,
     "devices": [],
@@ -24617,6 +24626,14 @@
     ],
     "name": "Garten of Banban 0"
   },
+  "331160": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Cars"
+    ],
+    "name": "Disney\u2022Pixar Cars"
+  },
   "33120": {
     "config_count": 2,
     "devices": [
@@ -24740,6 +24757,20 @@
       "Assassins_Creed_II"
     ],
     "name": "Assassin's Creed 2"
+  },
+  "332800": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__618",
+        "m": "M2007J20CG",
+        "s": "Adreno (TM) 618"
+      }
+    ],
+    "folders": [
+      "Five_Nights_At_Freddys_2"
+    ],
+    "name": "Five Nights at Freddy's 2"
   },
   "33320": {
     "config_count": 10,
@@ -26266,42 +26297,16 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 17,
+    "config_count": 4,
     "devices": [
       {
         "d": "G57_MC4",
         "m": "Mali",
         "s": "Mali-G57 MC4"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
-      "Atla",
-      "TombRaider"
+      "Atla"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -39012,6 +39017,14 @@
     ],
     "name": "Codwaw"
   },
+  "name:codwawmp": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "CoDWaWmp"
+    ],
+    "name": "Codwawmp"
+  },
   "name:colony-city-27-lambda": {
     "config_count": 1,
     "devices": [],
@@ -39501,14 +39514,6 @@
       "FFXIII"
     ],
     "name": "Ffxiii"
-  },
-  "name:fifa-13": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "FIFA_13"
-    ],
-    "name": "Fifa 13"
   },
   "name:fifa14": {
     "config_count": 1,
