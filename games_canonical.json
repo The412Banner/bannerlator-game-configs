@@ -997,7 +997,7 @@
     "name": "The Gunk"
   },
   "108800": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -1008,6 +1008,11 @@
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       }
     ],
     "folders": [
@@ -4935,6 +4940,14 @@
     ],
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
+  "1328670": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Mass_Effect"
+    ],
+    "name": "Mass Effect\u2122 Legendary Edition"
+  },
   "1330000": {
     "config_count": 1,
     "devices": [],
@@ -8433,7 +8446,7 @@
     "name": "Mirror's Edge\u2122"
   },
   "17460": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -30336,6 +30349,14 @@
       "Trails_in_the_Sky_the_3rd"
     ],
     "name": "The Legend of Heroes: Trails in the Sky the 3rd"
+  },
+  "436780": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "TavernKeeper"
+    ],
+    "name": "Tavern Keeper \ud83c\udf7b"
   },
   "4369130": {
     "config_count": 1,
