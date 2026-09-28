@@ -4935,14 +4935,6 @@
     ],
     "name": "Need for Speed\u2122 Hot Pursuit Remastered"
   },
-  "1328670": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Mass_Effect"
-    ],
-    "name": "Mass Effect\u2122 Legendary Edition"
-  },
   "1330000": {
     "config_count": 1,
     "devices": [],
@@ -8441,7 +8433,7 @@
     "name": "Mirror's Edge\u2122"
   },
   "17460": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -11242,7 +11234,7 @@
     "name": "Serious Sam II"
   },
   "204360": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "G615_MC6",
@@ -16436,14 +16428,6 @@
     ],
     "name": "Cyber Manhunt 2: New World - The Hacking Simulator"
   },
-  "2421750": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GUN"
-    ],
-    "name": "Gunman Contracts - Stand Alone"
-  },
   "2424420": {
     "config_count": 7,
     "devices": [
@@ -17066,7 +17050,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 29,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -17503,6 +17487,14 @@
       "Denshattack_"
     ],
     "name": "Denshattack"
+  },
+  "2524890": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GUN"
+    ],
+    "name": "Pixel Gun 3D: PC Edition"
   },
   "2527160": {
     "config_count": 3,
@@ -22873,7 +22865,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1704,
+    "config_count": 1705,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -29450,7 +29442,7 @@
     "name": "SENRAN KAGURA SHINOVI VERSUS"
   },
   "412020": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -29683,7 +29675,7 @@
     "name": "Shadow Tactics: Blades of the Shogun"
   },
   "418370": {
-    "config_count": 36,
+    "config_count": 37,
     "devices": [
       {
         "d": "SM7435",
@@ -29754,6 +29746,11 @@
         "d": "Adreno__TM__710",
         "m": "2312DRA50G",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__829",
+        "m": "PLR110",
+        "s": "Adreno (TM) 829"
       },
       {
         "d": "Adreno__TM__720",
@@ -34575,7 +34572,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -34589,7 +34586,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2"
+      "LEGO__Marvel_Super_Heroes_2",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -37049,7 +37047,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 116,
+    "config_count": 118,
     "devices": [
       {
         "d": "s5e8855",
@@ -37247,14 +37245,14 @@
         "s": "Adreno (TM) 619"
       },
       {
-        "d": "Adreno__TM__840",
-        "m": "S948U1",
-        "s": "Adreno (TM) 840"
-      },
-      {
         "d": "G610_MC6",
         "m": "Mali",
         "s": "Mali-G610 MC6"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "S948U1",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__750",
@@ -41857,7 +41855,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 214,
+    "config_count": 215,
     "devices": [
       {
         "d": "G615_MC2",
@@ -42138,6 +42136,11 @@
         "d": "Adreno__TM__840",
         "m": "2512BPNDAG",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "S901E",
+        "s": "Adreno (TM) 730"
       },
       {
         "d": "Adreno__TM__740",
