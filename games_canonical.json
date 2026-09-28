@@ -617,7 +617,7 @@
     "name": "Mafia II: Definitive Edition"
   },
   "1030840": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -628,10 +628,16 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__829",
+        "m": "motorola_signature",
+        "s": "Adreno (TM) 829"
       }
     ],
     "folders": [
-      "Mafia__Definitive_Edition"
+      "Mafia__Definitive_Edition",
+      "Mafia_Definitive_Edition"
     ],
     "name": "Mafia: Definitive Edition"
   },
@@ -2842,7 +2848,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 413,
+    "config_count": 414,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3013,11 +3019,6 @@
         "d": "Adreno__TM__650",
         "m": "G781U",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Adreno__TM__710",
-        "m": "2312DRA50G",
-        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__750",
@@ -3268,6 +3269,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "2312DRA50G",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__735",
@@ -6114,7 +6120,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 101,
+    "config_count": 102,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -6310,6 +6316,7 @@
       "FIFA_2007",
       "FIFA_22",
       "FIFA_23",
+      "FIFA_2004___________________________________________________",
       "FIFA22",
       "fifa_12"
     ],
@@ -10005,19 +10012,12 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "Adreno__TM__829",
-        "m": "motorola_signature",
-        "s": "Adreno (TM) 829"
-      }
-    ],
+    "config_count": 3,
+    "devices": [],
     "folders": [
       "MAFIA",
       "Mafia",
-      "Mafia_-_Definitive_Edition",
-      "Mafia_Definitive_Edition"
+      "Mafia_-_Definitive_Edition"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -11102,33 +11102,8 @@
     "name": "Hitman: Absolution\u2122"
   },
   "203160": {
-    "config_count": 26,
+    "config_count": 13,
     "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
-      },
       {
         "d": "Adreno__TM__740",
         "m": "S911U",
@@ -11156,12 +11131,11 @@
       }
     ],
     "folders": [
-      "TombRaider",
       "Tomb_Raider",
       "Tomb_Raider_2013",
       "Tomb_Raider_Game_of_the_Year"
     ],
-    "name": "Tomb Raider Game of the Year"
+    "name": "Tomb Raider"
   },
   "203650": {
     "config_count": 3,
@@ -25604,14 +25578,6 @@
     ],
     "name": "RealFlight Evolution \u2013 E-flite UMX Cirrus SR22T"
   },
-  "34830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper: Ghost Warrior"
-  },
   "3483510": {
     "config_count": 1,
     "devices": [
@@ -26300,16 +26266,42 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 4,
+    "config_count": 17,
     "devices": [
       {
         "d": "G57_MC4",
         "m": "Mali",
         "s": "Mali-G57 MC4"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
-      "Atla"
+      "Atla",
+      "TombRaider"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -26997,6 +26989,14 @@
       "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
+  },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
@@ -31387,7 +31387,7 @@
     "name": "The Sims\u2122 3"
   },
   "47920": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "G68_MC4",
@@ -31407,7 +31407,8 @@
     ],
     "folders": [
       "SHIFT_2_UNLEASHED_",
-      "Shift_2_Unleashed"
+      "Shift_2_Unleashed",
+      "SHIFT_2_UNLEASHED"
     ],
     "name": "Shift 2 Unleashed"
   },
@@ -37069,7 +37070,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 117,
+    "config_count": 118,
     "devices": [
       {
         "d": "s5e8855",
@@ -37272,6 +37273,11 @@
         "s": "Mali-G610 MC6"
       },
       {
+        "d": "Adreno__TM__840",
+        "m": "S948U1",
+        "s": "Adreno (TM) 840"
+      },
+      {
         "d": "Adreno__TM__750",
         "m": "NX769J",
         "s": "Adreno (TM) 750"
@@ -37285,6 +37291,7 @@
     "folders": [
       "Resident_Evil_2",
       "Resident_Evil_2_____________________________________________",
+      "Resident_Evil_2__2019_",
       "Resident_Evil_2__DX11_",
       "re2",
       "resident_evil_2"
@@ -42691,20 +42698,6 @@
     ],
     "name": "Reschanger"
   },
-  "name:resident-evil-2-2019": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "S948U1",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "Resident_Evil_2__2019_"
-    ],
-    "name": "Resident Evil 2 2019"
-  },
   "name:resident-evil-2-dx11": {
     "config_count": 1,
     "devices": [],
@@ -42886,14 +42879,6 @@
       "SHFix"
     ],
     "name": "Shfix"
-  },
-  "name:shift-2-unleashed": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "SHIFT_2_UNLEASHED"
-    ],
-    "name": "Shift 2 Unleashed"
   },
   "name:shproto": {
     "config_count": 1,
@@ -43306,6 +43291,14 @@
       "WalkingDead100"
     ],
     "name": "Walkingdead100"
+  },
+  "name:war2combat-warcraft-2-online": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "War2Combat_Warcraft_2_online"
+    ],
+    "name": "War2Combat Warcraft 2 Online"
   },
   "name:warcraft-iii": {
     "config_count": 2,
