@@ -291,7 +291,7 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 2 (2009)"
   },
   "1020790": {
-    "config_count": 50,
+    "config_count": 51,
     "devices": [
       {
         "d": "SM8850",
@@ -382,6 +382,11 @@
         "d": "Adreno__TM__720",
         "m": "I2218",
         "s": "Adreno (TM) 720"
+      },
+      {
+        "d": "G52",
+        "m": "Mali",
+        "s": "Mali-G52"
       }
     ],
     "folders": [
@@ -9988,10 +9993,12 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [],
     "folders": [
-      "MAFIA"
+      "MAFIA",
+      "Mafia",
+      "Mafia_-_Definitive_Edition"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -20574,7 +20581,7 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 14,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -20602,6 +20609,16 @@
         "s": "Adreno (TM) 830"
       },
       {
+        "d": "Adreno__TM__750",
+        "m": "V2425A",
+        "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
         "d": "Adreno__TM__840",
         "m": "25102PCBEG",
         "s": "Adreno (TM) 840"
@@ -20623,6 +20640,8 @@
       "The_Witcher_3_-_Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
+      "Witcher_1",
+      "_Witcher",
       "witcher3"
     ],
     "name": "The Witcher 3: Wild Hunt - Complete Edition"
@@ -22818,7 +22837,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1698,
+    "config_count": 1699,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24563,14 +24582,6 @@
     ],
     "name": "Alien Shooter 2: Reloaded"
   },
-  "3314070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "The_Sims__2_Legacy_Collection"
-    ],
-    "name": "The Sims 2 Legacy Collection"
-  },
   "3314790": {
     "config_count": 2,
     "devices": [],
@@ -25523,14 +25534,6 @@
       "SR2_pc"
     ],
     "name": "RealFlight Evolution \u2013 E-flite UMX Cirrus SR22T"
-  },
-  "34830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper: Ghost Warrior"
   },
   "3483510": {
     "config_count": 1,
@@ -26943,6 +26946,14 @@
       "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
+  },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
@@ -29336,15 +29347,6 @@
       "BioShock_2_Remastered"
     ],
     "name": "BioShock\u2122 2 Remastered"
-  },
-  "40990": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Mafia",
-      "Mafia_-_Definitive_Edition"
-    ],
-    "name": "Mafia"
   },
   "4100940": {
     "config_count": 7,
@@ -31997,7 +31999,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 38,
+    "config_count": 36,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -32088,18 +32090,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "V2425A",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "The_Witcher_3",
-      "The_Witcher_3__Wild_Hunt",
-      "Witcher_1",
-      "_Witcher"
+      "The_Witcher_3__Wild_Hunt"
     ],
     "name": "The Witcher 3: Wild Hunt \u2014 Songs of the Past"
   },
@@ -33405,7 +33400,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 45,
+    "config_count": 46,
     "devices": [
       {
         "d": "G57",
@@ -33506,6 +33501,11 @@
         "d": "Adreno__TM__725",
         "m": "23049PCD8G",
         "s": "Adreno (TM) 725"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "RMX3081",
+        "s": "Adreno (TM) 618"
       },
       {
         "d": "Adreno__TM__660",
@@ -37278,7 +37278,7 @@
     "name": "BioShock Infinite"
   },
   "892970": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "G615_MC2",
@@ -37292,8 +37292,7 @@
       }
     ],
     "folders": [
-      "Valheim",
-      "valheim"
+      "Valheim"
     ],
     "name": "Valheim"
   },
