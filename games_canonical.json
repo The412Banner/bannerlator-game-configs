@@ -9993,12 +9993,10 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 3,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "MAFIA",
-      "Mafia",
-      "Mafia_-_Definitive_Edition"
+      "MAFIA"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -12940,14 +12938,6 @@
       "Blur"
     ],
     "name": "Ricochet Blur"
-  },
-  "2186680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "tra"
-    ],
-    "name": "Warhammer 40,000: Rogue Trader"
   },
   "2187220": {
     "config_count": 1,
@@ -21447,7 +21437,7 @@
     "name": "Unturned"
   },
   "3050220": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "2412DPC0AG",
@@ -21507,6 +21497,11 @@
       {
         "d": "Adreno__TM__710",
         "m": "A366E",
+        "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
         "s": "Adreno (TM) 710"
       }
     ],
@@ -24582,6 +24577,14 @@
     ],
     "name": "Alien Shooter 2: Reloaded"
   },
+  "3314070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "The_Sims__2_Legacy_Collection"
+    ],
+    "name": "The Sims 2 Legacy Collection"
+  },
   "3314790": {
     "config_count": 2,
     "devices": [],
@@ -24630,7 +24633,7 @@
     "name": "Tom Clancy S Splinter Cell Conviction"
   },
   "33230": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "G615_MC2",
@@ -25797,7 +25800,7 @@
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
   },
   "3493540": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G57_MC2",
@@ -29348,6 +29351,15 @@
     ],
     "name": "BioShock\u2122 2 Remastered"
   },
+  "40990": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Mafia",
+      "Mafia_-_Definitive_Edition"
+    ],
+    "name": "Mafia"
+  },
   "4100940": {
     "config_count": 7,
     "devices": [
@@ -30417,7 +30429,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -30428,8 +30440,7 @@
     "folders": [
       "Call_of_Duty_4",
       "COD__Modern_Warfare",
-      "Call_of_duty_Modern_Warfare",
-      "call_of_duty_4_modern_Warfare"
+      "Call_of_duty_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -32832,7 +32843,7 @@
     "name": "RAGE 2"
   },
   "550": {
-    "config_count": 73,
+    "config_count": 74,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -32948,6 +32959,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J_V1A",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__730",
@@ -36040,7 +36056,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G720_MC7",
@@ -36100,7 +36116,8 @@
       "Call_of_Duty__4__Modern_Warfare___2007_",
       "iw3mp",
       "iw3sp",
-      "Call_of_Duty_-_Modern_Warfare"
+      "Call_of_Duty_-_Modern_Warfare",
+      "call_of_duty_4_modern_Warfare"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
