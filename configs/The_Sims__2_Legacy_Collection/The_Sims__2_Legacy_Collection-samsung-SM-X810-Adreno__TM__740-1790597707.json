@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "samsung SM-X810",
+    "soc": "Adreno (TM) 740",
+    "bh_version": "3.1.2",
+    "steam_appid": "3314070",
+    "upload_token": "7040ea5da10348b7",
+    "settings_count": 10,
+    "components_count": 4
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"2.4.1-1-gplasync-0\"}",
+    "pc_ls_VK3k": "{\"name\":\"2.8\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"Mesa Turnip v26.3.0-20260927\"}",
+    "pc_set_constant_95": "{\"name\":\"2508\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"Proton-11.0-7.1-x86_64-8\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-original",
+    "pc_ls_AUDIO_DRIVER": "1",
+    "pc_ls_update_enable_xinput": true,
+    "pc_ls_environment_variable": "WINEDLLOVERRIDES=winmm=n,b;dsound=n,b",
+    "bl_ext": {
+      "dxwrapper": "dxvk+vkd3d",
+      "screenSize": "1280x800",
+      "renderer": "vulkan",
+      "sfCompatMode": "1",
+      "fullscreenMode": "0",
+      "frameGenEngine": "off",
+      "native": "true",
+      "swapRB": "false",
+      "presentMode": "fifo",
+      "fpsLimiterEnabled": "0",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "reshadeLoadout": "[{\"name\":\"AmbientLight\",\"enabled\":true},{\"name\":\"Color_Balance\",\"enabled\":true},{\"name\":\"ColorMatrix\",\"enabled\":true},{\"name\":\"Contrast_Brightness_Saturation\",\"enabled\":true},{\"name\":\"PerfectPerspective\",\"enabled\":true},{\"name\":\"Shadows_Midtones_Highlights\",\"enabled\":true},{\"name\":\"Vibrance\",\"enabled\":true}]",
+      "reshadeMode": "stack",
+      "reshadeParams": "{\"AmbientLight\":{\"alDirtInt\":1,\"AL_Dirt\":1,\"AL_Dither\":1,\"alAdaptBaseMult\":1,\"alAdapt\":0.699999988079071,\"alDirtOVInt\":1,\"AL_Lens\":0,\"AL_Adaptive\":0,\"AL_DirtTex\":0,\"alDebug\":0,\"AL_Adaptation\":1,\"AL_Vibrance\":0,\"alLensInt\":2,\"alInt\":10.149999618530273,\"alLensThresh\":0.5,\"alThreshold\":15},\"Color_Balance\":{\"separation_mode\":0,\"preserve_luma\":1},\"ColorMatrix\":{\"Strength\":1},\"Contrast_Brightness_Saturation\":{\"sat_custom\":0,\"sat_r\":0,\"dither_strength\":1,\"enable_dither\":1,\"contrastD\":0,\"tint\":0,\"sat_y\":0,\"depthEnd\":0.10000000149011612,\"exposureD\":0,\"vibrance\":0,\"saturation\":0,\"brightness\":0,\"sat_p\":0,\"huemid\":0,\"sat_m\":0,\"brightnessD\":0,\"saturationD\":0,\"depthCurve\":1,\"vibranceD\":0,\"sat_g\":0,\"enable_depth\":0,\"huerange\":0.16699999570846558,\"sat_b\":0,\"contrast\":0,\"sat_a\":0,\"exposureN\":0,\"display_depth\":0,\"depthStart\":0},\"PerfectPerspective\":{\"Ky\":0.5,\"BorderGContinuity\":3,\"VignetteOffset\":0.05000000074505806,\"MirrorBorder\":0,\"FovType\":0,\"GridTilt\":0,\"GridWidth\":4,\"BorderCorner\":0.06199999898672104,\"BackgroundDim\":0.5,\"VignetteIntensity\":1,\"S\":1,\"KyA\":0.5,\"CalibrationModeView\":0},\"Shadows_Midtones_Highlights\":{\"opacity_m\":0,\"dither_strength\":2,\"blendcolor_h_2\":1,\"exposure_m\":0,\"saturation_s\":0,\"vibrance_s\":0,\"brightness_s\":0,\"tint_h\":0,\"opacity_h\":0,\"saturation_m\":0,\"vibrance_m\":0,\"brightness_m\":0,\"exposure_s\":0,\"saturation_h\":0,\"vibrance_h\":0,\"brightness_h\":0,\"blendcolor_s_2\":1,\"blendcolor_s_1\":0.36500000953674316,\"blendcolor_s_0\":0,\"blendmode_s\":0,\"contrast_s\":0,\"blendcolor_m_2\":0,\"luma_mode\":2,\"blendcolor_m_1\":0.5879999995231628,\"blendcolor_m_0\":0.9800000190734863,\"exposure_h\":0,\"blendmode_m\":0,\"enable_dither\":1,\"contrast_m\":0,\"tint_s\":0,\"opacity_s\":0,\"blendcolor_h_1\":1,\"blendcolor_h_0\":1,\"contrast_h\":0,\"blendmode_h\":0,\"separation_mode\":0,\"tint_m\":0},\"Vibrance\":{\"Vibrance_Luma\":0,\"Vibrance\":0.15000000596046448}}",
+      "reshadeEffect": "AmbientLight",
+      "emulator": "fexcore",
+      "box64Version": "0.3.8-0",
+      "box64Preset": "PERFORMANCE",
+      "fexcorePreset": "INTERMEDIATE",
+      "cpuList": "4,5,6,7",
+      "startupSelection": "2",
+      "inputType": "4",
+      "exclusiveXInput": "1",
+      "simTouchScreen": "0",
+      "numControllers": "1",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1",
+      "lc_all": "en_GB.UTF-8",
+      "autoCloseOnExit": "1",
+      "fpsCounterConfig": "hudStyle=fusion,hudEnabled=1,hudMode=horizontal,hudSize=pill,hudScale=75,hudLocked=0,showFPS=1,showFPSGraph=1,showCPUUsage=1,showCPULoad=1,showGPULoad=1,showRAM=1,showVram=1,showPower=1,showBattery=1,showTemp=1,showBatteryTemp=1,showGpuTemp=1,showEngine=1,showRenderer=1,showGpuModel=1,showLow001=1,fpsDecimal=1,showClock=1,showPerCore=1,showSwap=1,showNet=1,showResolution=1,showProton=1,showWrapper=1,showDxVer=1,showSession=1",
+      "gyroEnabled": "0",
+      "gyroTarget": "0",
+      "gyroActivator": "0",
+      "gyroActivationMode": "0",
+      "gyroMode": "0",
+      "gyroSensitivity": "2.0",
+      "gyroInvertX": "0",
+      "gyroInvertY": "0",
+      "maxGameRefreshRate": "0",
+      "unlockGameRefreshRate": "1",
+      "frameGenModel": "0",
+      "vibrationMode": "0",
+      "vibrationIntensity": "100",
+      "dxwrapperConfig": "version=2.4.1-1-gplasync-0,framerate=0,async=1,asyncCache=0,vkd3dVersion=2.8,vkd3dLevel=12_1,ddrawrapper=dd7to9,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,anisotropy=0,lodBias=0,d7vkVersion=Bundled (default),dxvkConfigFile="
+    }
+  },
+  "components": [
+    {
+      "name": "2.4.1-1-gplasync-0",
+      "type": "DXVK"
+    },
+    {
+      "name": "2.8",
+      "type": "VKD3D"
+    },
+    {
+      "name": "Mesa Turnip v26.3.0-20260927",
+      "type": "GPU"
+    },
+    {
+      "name": "2508",
+      "type": "FEXCore"
+    }
+  ]
+}
