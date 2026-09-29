@@ -132,7 +132,6 @@
   },
   "Achilles__Legends_Untold": {
     "appid": 1314000,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1314000/header.jpg",
     "method": "naive",
     "steam_name": "Achilles: Legends Untold"
   },
@@ -3528,7 +3527,6 @@
   },
   "Fate_EXTELLA": {
     "appid": 511680,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/511680/header.jpg",
     "method": "naive",
     "steam_name": "Fate/EXTELLA"
   },
@@ -9899,6 +9897,10 @@
     "method": "naive",
     "steam_name": "TOKYO GHOUL:re [CALL to EXIST]"
   },
+  "TOMB_RAIDER_I-II-III__REMASTERED": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "TRIANGLE_STRATEGY": {
     "appid": 1850510,
     "method": "naive",
@@ -11006,7 +11008,6 @@
   },
   "Voodoo_Vince__Remastered": {
     "appid": 545980,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/545980/header.jpg",
     "method": "naive",
     "steam_name": "Voodoo Vince: Remastered"
   },
