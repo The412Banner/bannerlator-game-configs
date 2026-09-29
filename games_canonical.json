@@ -1022,7 +1022,7 @@
     "name": "Crysis 2 - Maximum Edition"
   },
   "1089090": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -3373,7 +3373,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 53,
+    "config_count": 54,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -4566,17 +4566,12 @@
     "name": "The Last Faith"
   },
   "1275630": {
-    "config_count": 5,
+    "config_count": 3,
     "devices": [
       {
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
-      },
-      {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
@@ -13859,7 +13854,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 19,
+    "config_count": 17,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -13898,8 +13893,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -17098,7 +17092,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -18354,14 +18348,6 @@
     ],
     "name": "Tokyo Xtreme Racer"
   },
-  "2637940": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Cars"
-    ],
-    "name": "Used Cars Simulator"
-  },
   "2638050": {
     "config_count": 1,
     "devices": [],
@@ -19043,7 +19029,7 @@
     "name": "Palia"
   },
   "270880": {
-    "config_count": 24,
+    "config_count": 25,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -19089,11 +19075,17 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g_8__plus",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
       "American_Truck_Simulator",
-      "American_truck_simulator"
+      "American_truck_simulator",
+      "tru"
     ],
     "name": "American Truck Simulator"
   },
@@ -20310,7 +20302,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 34,
     "devices": [
       {
         "d": "G615_MC2",
@@ -20351,6 +20343,7 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
+      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -22689,6 +22682,21 @@
     ],
     "name": "Gigantes Ex Machina"
   },
+  "3205720": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      }
+    ],
+    "folders": [
+      "SAMP",
+      "samp"
+    ],
+    "name": "Schedule I: Free Sample"
+  },
   "321040": {
     "config_count": 1,
     "devices": [],
@@ -22908,7 +22916,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1719,
+    "config_count": 1720,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24658,6 +24666,14 @@
     ],
     "name": "Garten of Banban 0"
   },
+  "331160": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Cars"
+    ],
+    "name": "Disney\u2022Pixar Cars"
+  },
   "33120": {
     "config_count": 2,
     "devices": [
@@ -25632,6 +25648,14 @@
       "SR2_pc"
     ],
     "name": "RealFlight Evolution \u2013 E-flite UMX Cirrus SR22T"
+  },
+  "34830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper: Ghost Warrior"
   },
   "3483510": {
     "config_count": 1,
@@ -27045,14 +27069,6 @@
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
-  },
   "3681010": {
     "config_count": 1,
     "devices": [],
@@ -27732,20 +27748,6 @@
       "uni2"
     ],
     "name": "UNI 2"
-  },
-  "3793200": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g_8__plus",
-        "s": "Adreno (TM) 610"
-      }
-    ],
-    "folders": [
-      "tru"
-    ],
-    "name": "American Truck Simulator - Road Trip: Ford"
   },
   "379430": {
     "config_count": 1,
@@ -33226,7 +33228,7 @@
     "name": "Brick Rigs"
   },
   "55230": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -33256,7 +33258,8 @@
     ],
     "folders": [
       "Saints_Row__The_Third",
-      "SaintsRowTheThird"
+      "SaintsRowTheThird",
+      "Saints_Row___The_Third__Remastered"
     ],
     "name": "Saints Row: The Third"
   },
@@ -34715,7 +34718,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -34729,8 +34732,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2",
-      "LEGOMARVEL"
+      "LEGO__Marvel_Super_Heroes_2"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -38470,14 +38472,6 @@
     ],
     "name": "Eastward"
   },
-  "978300": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Saints_Row___The_Third__Remastered"
-    ],
-    "name": "Saints Row\u00ae: The Third\u2122 Remastered"
-  },
   "978780": {
     "config_count": 3,
     "devices": [
@@ -38591,12 +38585,17 @@
     "name": "The Last Campfire"
   },
   "990850": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25097RP43G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
@@ -40905,7 +40904,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2957,
+    "config_count": 2958,
     "devices": [
       {
         "d": "G52_MC2",
