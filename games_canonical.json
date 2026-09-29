@@ -403,6 +403,14 @@
     ],
     "name": "Postal III"
   },
+  "1026680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "FINAL_FANTASY_VIII_REMASTERED"
+    ],
+    "name": "FINAL FANTASY VIII - REMASTERED"
+  },
   "10270": {
     "config_count": 2,
     "devices": [],
@@ -609,7 +617,7 @@
     "name": "Mafia II: Definitive Edition"
   },
   "1030840": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -620,10 +628,16 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__829",
+        "m": "motorola_signature",
+        "s": "Adreno (TM) 829"
       }
     ],
     "folders": [
-      "Mafia__Definitive_Edition"
+      "Mafia__Definitive_Edition",
+      "Mafia_Definitive_Edition"
     ],
     "name": "Mafia: Definitive Edition"
   },
@@ -658,14 +672,6 @@
       "New_Super_Lucky_s_Tale"
     ],
     "name": "New Super Lucky's Tale"
-  },
-  "1041320": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "LoK"
-    ],
-    "name": "Lords Mobile: Kingdom Wars"
   },
   "1044720": {
     "config_count": 1,
@@ -3856,7 +3862,7 @@
     "name": "Battlefield\u2122 V"
   },
   "1238820": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -3916,7 +3922,8 @@
     ],
     "folders": [
       "Battlefield_3_",
-      "Battlefield_3_______________________________________________"
+      "Battlefield_3_______________________________________________",
+      "Battlefield_3"
     ],
     "name": "Battlefield 3\u2122"
   },
@@ -6121,7 +6128,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 101,
+    "config_count": 103,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -8256,7 +8263,7 @@
     "name": "Kusan: City of Wolves"
   },
   "1715130": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -10036,19 +10043,12 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "Adreno__TM__829",
-        "m": "motorola_signature",
-        "s": "Adreno (TM) 829"
-      }
-    ],
+    "config_count": 3,
+    "devices": [],
     "folders": [
       "MAFIA",
       "Mafia",
-      "Mafia_-_Definitive_Edition",
-      "Mafia_Definitive_Edition"
+      "Mafia_-_Definitive_Edition"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -11912,7 +11912,7 @@
     "name": "Crysis 2 Remastered"
   },
   "2096610": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "G720_MC7",
@@ -11923,8 +11923,7 @@
     "folders": [
       "Crysis",
       "Crysis_3",
-      "Crysis_3_Remastered",
-      "Crysis_Remastered"
+      "Crysis_3_Remastered"
     ],
     "name": "Crysis 3 Remastered"
   },
@@ -13486,7 +13485,7 @@
     "name": "DmC: Devil May Cry"
   },
   "2207440": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -13495,7 +13494,8 @@
       }
     ],
     "folders": [
-      "LOK"
+      "LOK",
+      "LoK"
     ],
     "name": "LOK Digital"
   },
@@ -17077,7 +17077,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 29,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -19582,7 +19582,7 @@
     "name": "Halo: Campaign Evolved"
   },
   "2807960": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -19591,8 +19591,7 @@
       }
     ],
     "folders": [
-      "Battlefield__6",
-      "Battlefield_3"
+      "Battlefield__6"
     ],
     "name": "Battlefield\u2122 6"
   },
@@ -24452,6 +24451,20 @@
     ],
     "name": "NINJA GAIDEN 2 Black"
   },
+  "3287910": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "CPH2795",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "MadMax_Game"
+    ],
+    "name": "GameGuru MAX - Madman's Melee Weapons"
+  },
   "329050": {
     "config_count": 52,
     "devices": [
@@ -28661,7 +28674,7 @@
     "name": "Rise of the Tomb Raider\u2122"
   },
   "39150": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -28671,8 +28684,7 @@
     ],
     "folders": [
       "FINAL_FANTASY_VIII",
-      "FINAL_FANTASY_VIII_-_REMASTERED",
-      "FINAL_FANTASY_VIII_REMASTERED"
+      "FINAL_FANTASY_VIII_-_REMASTERED"
     ],
     "name": "FINAL FANTASY VIII"
   },
@@ -34660,7 +34672,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -34674,7 +34686,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2"
+      "LEGO__Marvel_Super_Heroes_2",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -37466,7 +37479,7 @@
     "name": "Last Epoch"
   },
   "911400": {
-    "config_count": 37,
+    "config_count": 38,
     "devices": [
       {
         "d": "MT6833V_PNZA",
@@ -37524,11 +37537,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
@@ -37537,6 +37545,11 @@
         "d": "Adreno__TM__710",
         "m": "NX1",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__829",
@@ -39590,14 +39603,6 @@
     ],
     "name": "Ffxiii"
   },
-  "name:fifa-13": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "FIFA_13"
-    ],
-    "name": "Fifa 13"
-  },
   "name:fifa14": {
     "config_count": 1,
     "devices": [],
@@ -40218,20 +40223,6 @@
       "LunaAbyss-WinGDK-Shipping"
     ],
     "name": "Lunaabyss Wingdk Shipping"
-  },
-  "name:madmax-game": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "CPH2795",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "MadMax_Game"
-    ],
-    "name": "Madmax Game"
   },
   "name:marvel-s-guardians-of-the-galaxy-the-telltale-series": {
     "config_count": 1,
