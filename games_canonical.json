@@ -4848,6 +4848,14 @@
     ],
     "name": "Cult of the Lamb"
   },
+  "1314000": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Achilles__Legends_Untold"
+    ],
+    "name": "Achilles: Legends Untold"
+  },
   "1316680": {
     "config_count": 1,
     "devices": [],
@@ -6902,7 +6910,7 @@
     "name": "Selaco"
   },
   "1593500": {
-    "config_count": 163,
+    "config_count": 164,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -7188,6 +7196,11 @@
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "NX779J",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -17077,7 +17090,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 29,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -18332,6 +18345,14 @@
       "TokyoXtremeRacer"
     ],
     "name": "Tokyo Xtreme Racer"
+  },
+  "2637940": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Cars"
+    ],
+    "name": "Used Cars Simulator"
   },
   "2638050": {
     "config_count": 1,
@@ -19712,8 +19733,14 @@
     "name": "Buckshot Roulette"
   },
   "2835670": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
     "folders": [
       "Bond"
     ],
@@ -21914,7 +21941,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 48,
+    "config_count": 49,
     "devices": [
       {
         "d": "G78",
@@ -22017,6 +22044,7 @@
       "___3____________",
       "________3_____________",
       "bla",
+      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -24618,14 +24646,6 @@
       "Garten_of_Banban_0"
     ],
     "name": "Garten of Banban 0"
-  },
-  "331160": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Cars"
-    ],
-    "name": "Disney\u2022Pixar Cars"
   },
   "33120": {
     "config_count": 2,
@@ -30079,20 +30099,6 @@
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
-  "42700": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Call_of_Duty_-_Black_Ops"
-    ],
-    "name": "Call of Duty\u00ae: Black Ops"
-  },
   "427190": {
     "config_count": 1,
     "devices": [],
@@ -30505,7 +30511,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 6,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -30516,9 +30522,7 @@
     "folders": [
       "Call_of_Duty_4",
       "COD__Modern_Warfare",
-      "Call_of_Duty_4_Modern_Warfare",
-      "Call_of_duty_Modern_Warfare",
-      "call_of_duty_4_modern_Warfare"
+      "Call_of_duty_Modern_Warfare"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
@@ -30792,8 +30796,14 @@
     "name": "Attack on Titan / A.O.T. Wings of Freedom"
   },
   "4505090": {
-    "config_count": 2,
-    "devices": [],
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__810",
+        "m": "2510EPC8BG",
+        "s": "Adreno (TM) 810"
+      }
+    ],
     "folders": [
       "BF2"
     ],
@@ -32516,6 +32526,14 @@
     ],
     "name": "Steel Wolverines: Modern Armored Combat"
   },
+  "511680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Fate_EXTELLA"
+    ],
+    "name": "Fate/EXTELLA"
+  },
   "5149580": {
     "config_count": 1,
     "devices": [],
@@ -32889,6 +32907,14 @@
       "SOULCALIBUR__"
     ],
     "name": "SOULCALIBUR VI"
+  },
+  "545980": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Voodoo_Vince__Remastered"
+    ],
+    "name": "Voodoo Vince: Remastered"
   },
   "546230": {
     "config_count": 1,
@@ -34621,7 +34647,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -34635,7 +34661,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2"
+      "LEGO__Marvel_Super_Heroes_2",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -36140,7 +36167,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 30,
+    "config_count": 32,
     "devices": [
       {
         "d": "G720_MC7",
@@ -36200,7 +36227,8 @@
       "Call_of_Duty__4__Modern_Warfare___2007_",
       "iw3mp",
       "iw3sp",
-      "Call_of_Duty_-_Modern_Warfare"
+      "Call_of_Duty_-_Modern_Warfare",
+      "call_of_duty_4_modern_Warfare"
     ],
     "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)"
   },
@@ -37417,20 +37445,6 @@
       "Last_Epoch"
     ],
     "name": "Last Epoch"
-  },
-  "911250": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Bond"
-    ],
-    "name": "The Bond"
   },
   "911400": {
     "config_count": 37,
@@ -40818,7 +40832,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2954,
+    "config_count": 2955,
     "devices": [
       {
         "d": "G52_MC2",
@@ -41736,14 +41750,14 @@
         "s": "Mali-G1-Ultra MC12"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",

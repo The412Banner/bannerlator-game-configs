@@ -130,6 +130,12 @@
     "appid": null,
     "method": "unresolved"
   },
+  "Achilles__Legends_Untold": {
+    "appid": 1314000,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1314000/header.jpg",
+    "method": "naive",
+    "steam_name": "Achilles: Legends Untold"
+  },
   "Activision_Spider-Man_3": {
     "appid": 2651280,
     "method": "fuzzy",
@@ -3519,6 +3525,12 @@
     "appid": 1044720,
     "method": "naive",
     "steam_name": "Farthest Frontier"
+  },
+  "Fate_EXTELLA": {
+    "appid": 511680,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/511680/header.jpg",
+    "method": "naive",
+    "steam_name": "Fate/EXTELLA"
   },
   "Fear_The_Spotlight": {
     "appid": 1959390,
@@ -10992,6 +11004,12 @@
     "method": "naive",
     "steam_name": "Volkolak: The Will of Gods"
   },
+  "Voodoo_Vince__Remastered": {
+    "appid": 545980,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/545980/header.jpg",
+    "method": "naive",
+    "steam_name": "Voodoo Vince: Remastered"
+  },
   "Voxel_Project": {
     "appid": 2858370,
     "method": "naive",
@@ -11951,7 +11969,6 @@
   },
   "game_original": {
     "appid": 3727360,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3727360/header.jpg",
     "method": "naive",
     "steam_name": "Sultan's Game - Original Soundtrack"
   },
