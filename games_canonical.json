@@ -21933,7 +21933,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 48,
+    "config_count": 49,
     "devices": [
       {
         "d": "G78",
@@ -22036,6 +22036,7 @@
       "___3____________",
       "________3_____________",
       "bla",
+      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -30129,20 +30130,6 @@
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
-  "42700": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Call_of_Duty_-_Black_Ops"
-    ],
-    "name": "Call of Duty\u00ae: Black Ops"
-  },
   "427190": {
     "config_count": 1,
     "devices": [],
@@ -32143,7 +32130,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 36,
+    "config_count": 37,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -32234,6 +32221,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "TB321FU",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -35827,7 +35819,7 @@
     "name": "Univers"
   },
   "752590": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -36225,7 +36217,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 30,
+    "config_count": 31,
     "devices": [
       {
         "d": "G720_MC7",
@@ -36256,6 +36248,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "2510ERA8BG",
+        "s": "Adreno (TM) 810"
       },
       {
         "d": "G76_MC4",
