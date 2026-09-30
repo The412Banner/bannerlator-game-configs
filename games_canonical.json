@@ -4639,7 +4639,7 @@
     "name": "Mortal Kombat XL"
   },
   "1284190": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G57",
@@ -13209,7 +13209,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 119,
+    "config_count": 120,
     "devices": [
       {
         "d": "S938B",
@@ -13360,6 +13360,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "NX799J",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "Adreno__TM__642L",
@@ -13869,7 +13874,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 17,
+    "config_count": 19,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -13908,7 +13913,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -16490,14 +16496,6 @@
     ],
     "name": "Cyber Manhunt 2: New World - The Hacking Simulator"
   },
-  "2421750": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GUN"
-    ],
-    "name": "Gunman Contracts - Stand Alone"
-  },
   "2424420": {
     "config_count": 7,
     "devices": [
@@ -17499,6 +17497,20 @@
     ],
     "name": "Valdis Story: Abyssal City"
   },
+  "252330": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      }
+    ],
+    "folders": [
+      "Slender_-_The_Arrival"
+    ],
+    "name": "Slender: The Arrival"
+  },
   "2523720": {
     "config_count": 3,
     "devices": [
@@ -17557,6 +17569,14 @@
       "Denshattack_"
     ],
     "name": "Denshattack"
+  },
+  "2524890": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GUN"
+    ],
+    "name": "Pixel Gun 3D: PC Edition"
   },
   "2527160": {
     "config_count": 3,
@@ -20338,7 +20358,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -20379,7 +20399,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -22944,7 +22963,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1721,
+    "config_count": 1722,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25709,7 +25728,7 @@
     "name": "SAMURAI WARRIORS 4-II"
   },
   "34870": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "G720_MC7",
@@ -25735,8 +25754,7 @@
     "folders": [
       "Sniper_Ghost_Warrior_2",
       "Sniper__Ghost_Warrior_2",
-      "SniperGhostWarrior2",
-      "Sniper_Ghost_Warrior_1"
+      "SniperGhostWarrior2"
     ],
     "name": "Sniper: Ghost Warrior 2"
   },
@@ -26020,6 +26038,15 @@
     ],
     "name": "Car Service Together"
   },
+  "35020": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_Arkham_Asylum"
+    ],
+    "name": "Batman: Arkham Asylum Demo"
+  },
   "3503050": {
     "config_count": 1,
     "devices": [
@@ -26049,7 +26076,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 30,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -26114,8 +26141,6 @@
     ],
     "folders": [
       "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_Arkham_Asylum",
       "Batman__Arkham_Asylum_GOTY_Edition"
     ],
     "name": "Batman: Arkham Asylum Game of the Year Edition"
@@ -27086,6 +27111,14 @@
       "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
+  },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
@@ -42527,7 +42560,7 @@
     "name": "PES 5"
   },
   "name:pes-6": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -43173,7 +43206,7 @@
     "name": "Start Playgtav"
   },
   "name:steam-linux": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [],
     "folders": [
       "Steam__Linux_"
