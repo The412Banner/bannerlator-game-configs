@@ -6001,6 +6001,14 @@
     ],
     "name": "Ghostwire: Tokyo"
   },
+  "1476970": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "mm"
+    ],
+    "name": "IdleOn - The Incremental MMO"
+  },
   "1479730": {
     "config_count": 1,
     "devices": [
@@ -12602,7 +12610,7 @@
     "name": "Aero GPX"
   },
   "2161700": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -12638,6 +12646,11 @@
         "d": "Adreno__TM__750",
         "m": "PKG110",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "ASUS_AI2201_D",
+        "s": "Adreno (TM) 730"
       }
     ],
     "folders": [
@@ -14261,7 +14274,7 @@
     "name": "Squirrel Launcher"
   },
   "2254890": {
-    "config_count": 21,
+    "config_count": 23,
     "devices": [
       {
         "d": "G720_MC8",
@@ -31333,14 +31346,6 @@
       "Planescape__Torment__Enhanced_Edition"
     ],
     "name": "Planescape: Torment: Enhanced Edition"
-  },
-  "4671380": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "mm"
-    ],
-    "name": "Scapewatch: Idle MMO"
   },
   "4676340": {
     "config_count": 1,
