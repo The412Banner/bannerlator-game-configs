@@ -1424,7 +1424,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1433,8 +1433,7 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid",
-      "Rangers"
+      "BattleForTheGrid"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -3398,7 +3397,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 38,
+    "config_count": 54,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -3494,12 +3493,24 @@
         "d": "Adreno__TM__722",
         "m": "CPH2825",
         "s": "Adreno (TM) 722"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
       "Need_for_Speed__Heat",
       "nfs",
-      "Need_for_Speed_Heat"
+      "Need_for_Speed_Heat",
+      "Speed",
+      "speed"
     ],
     "name": "Need for Speed\u2122 Heat"
   },
@@ -13904,7 +13915,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 17,
+    "config_count": 19,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -13943,7 +13954,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -17615,6 +17627,14 @@
     ],
     "name": "The Lord of the Rings: War in the North\u2122 - Legacy Edition"
   },
+  "252410": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "SteamWorld_Dig"
+    ],
+    "name": "Steamworld Dig"
+  },
   "2524850": {
     "config_count": 1,
     "devices": [],
@@ -20419,7 +20439,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -20460,7 +20480,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -21683,6 +21702,14 @@
     ],
     "name": "THE KING OF FIGHTERS XIII GLOBAL MATCH"
   },
+  "3054410": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Bushside Rangers"
+  },
   "305620": {
     "config_count": 4,
     "devices": [
@@ -22688,7 +22715,7 @@
     "name": "Mall Simulator"
   },
   "3183760": {
-    "config_count": 20,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -22704,21 +22731,10 @@
         "d": "Adreno__TM__750",
         "m": "NX769J",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "M2007J3SY",
-        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
-      "speed",
-      "Speed"
+      "speed"
     ],
     "name": "SpeedRunners 2: King of Speed"
   },
@@ -25502,14 +25518,6 @@
     ],
     "name": "Heavy Weapon Deluxe"
   },
-  "3419290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN"
-  },
   "341940": {
     "config_count": 3,
     "devices": [
@@ -27008,6 +27016,14 @@
     ],
     "name": "Poly Bridge"
   },
+  "367480": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Batman_Arkham_Knight_-_Season_Pass"
+    ],
+    "name": "Batman\u2122: Arkham Knight Season Pass"
+  },
   "367500": {
     "config_count": 6,
     "devices": [
@@ -27836,8 +27852,14 @@
     "name": "FINAL FANTASY IX"
   },
   "3779440": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
+      }
+    ],
     "folders": [
       "Deluge"
     ],
@@ -29278,6 +29300,14 @@
       "The_Spike"
     ],
     "name": "The Spike Cross"
+  },
+  "3985080": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN - Costume Expansion Pack"
   },
   "400": {
     "config_count": 4,
@@ -39051,14 +39081,6 @@
       "BaldisBasicsPlusAdvanced"
     ],
     "name": "Baldisbasicsplusadvanced"
-  },
-  "name:batman-arkham-knight-season-pass": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Batman_Arkham_Knight_-_Season_Pass"
-    ],
-    "name": "Batman Arkham Knight Season Pass"
   },
   "name:batmanac": {
     "config_count": 2,
