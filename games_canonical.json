@@ -2849,7 +2849,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 414,
+    "config_count": 415,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3275,6 +3275,11 @@
         "d": "Adreno__TM__710",
         "m": "2312DRA50G",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "A235F",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__735",
@@ -6938,7 +6943,7 @@
     "name": "Selaco"
   },
   "1593500": {
-    "config_count": 164,
+    "config_count": 165,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -8757,7 +8762,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 163,
+    "config_count": 164,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -8992,6 +8997,11 @@
       {
         "d": "Adreno__TM__830",
         "m": "N49",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "2510DPC44G",
         "s": "Adreno (TM) 830"
       },
       {
@@ -15173,7 +15183,7 @@
     "name": "Need for Speed\u2122 Unbound \u2013 Trick or Street Swag Pack"
   },
   "234080": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -15199,6 +15209,11 @@
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__830",
