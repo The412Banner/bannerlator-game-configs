@@ -9275,7 +9275,6 @@
   },
   "Slender_-_The_Arrival": {
     "appid": 252330,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/252330/header.jpg",
     "method": "norm",
     "steam_name": "Slender: The Arrival"
   },
@@ -11112,6 +11111,10 @@
     "appid": null,
     "method": "unresolved"
   },
+  "WalkingDead101": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "Wandering_Sword": {
     "appid": 1876890,
     "method": "naive",
@@ -11458,6 +11461,12 @@
   "_": {
     "appid": null,
     "method": "non-game"
+  },
+  "_DRIVE_Rally": {
+    "appid": 2494780,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2494780/header.jpg",
+    "method": "naive",
+    "steam_name": "#DRIVE Rally"
   },
   "_Dragon_Age______________": {
     "appid": 1222690,
