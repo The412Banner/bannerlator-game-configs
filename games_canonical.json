@@ -1911,7 +1911,7 @@
     "name": "Horizon Zero Dawn\u2122 Complete Edition"
   },
   "115320": {
-    "config_count": 76,
+    "config_count": 77,
     "devices": [
       {
         "d": "Adreno__TM__640",
@@ -2012,6 +2012,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "S928B",
+        "s": "Adreno (TM) 750"
       },
       {
         "d": "Adreno__TM__825",
@@ -3379,7 +3384,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 54,
+    "config_count": 38,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -3475,24 +3480,12 @@
         "d": "Adreno__TM__722",
         "m": "CPH2825",
         "s": "Adreno (TM) 722"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "M2007J3SY",
-        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
       "Need_for_Speed__Heat",
       "nfs",
-      "Need_for_Speed_Heat",
-      "Speed",
-      "speed"
+      "Need_for_Speed_Heat"
     ],
     "name": "Need for Speed\u2122 Heat"
   },
@@ -10090,10 +10083,12 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [],
     "folders": [
-      "MAFIA"
+      "MAFIA",
+      "Mafia",
+      "Mafia_-_Definitive_Edition"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -22679,7 +22674,7 @@
     "name": "Mall Simulator"
   },
   "3183760": {
-    "config_count": 4,
+    "config_count": 20,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -22695,10 +22690,21 @@
         "d": "Adreno__TM__750",
         "m": "NX769J",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
-      "speed"
+      "speed",
+      "Speed"
     ],
     "name": "SpeedRunners 2: King of Speed"
   },
@@ -23016,7 +23022,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1726,
+    "config_count": 1728,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24167,6 +24173,11 @@
         "d": "Adreno__TM__710",
         "m": "W09",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "2107113SG",
+        "s": "Adreno (TM) 660"
       },
       {
         "d": "Adreno__TM__830",
@@ -25477,6 +25488,14 @@
     ],
     "name": "Heavy Weapon Deluxe"
   },
+  "3419290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN"
+  },
   "341940": {
     "config_count": 3,
     "devices": [
@@ -26096,15 +26115,6 @@
     ],
     "name": "Car Service Together"
   },
-  "35020": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_Arkham_Asylum"
-    ],
-    "name": "Batman: Arkham Asylum Demo"
-  },
   "3503050": {
     "config_count": 1,
     "devices": [
@@ -26134,7 +26144,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 28,
+    "config_count": 30,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -26199,6 +26209,8 @@
     ],
     "folders": [
       "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_Arkham_Asylum",
       "Batman__Arkham_Asylum_GOTY_Edition"
     ],
     "name": "Batman: Arkham Asylum Game of the Year Edition"
@@ -28895,7 +28907,7 @@
     "name": "MDS: Metro dispatcher simulator"
   },
   "391720": {
-    "config_count": 45,
+    "config_count": 46,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -28971,6 +28983,11 @@
         "d": "Adreno__TM__710",
         "m": "23122PCD1I",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "S928B",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -29255,14 +29272,6 @@
       "The_Spike"
     ],
     "name": "The Spike Cross"
-  },
-  "3985080": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN - Costume Expansion Pack"
   },
   "400": {
     "config_count": 4,
@@ -29583,15 +29592,6 @@
       "BioShock_2_Remastered"
     ],
     "name": "BioShock\u2122 2 Remastered"
-  },
-  "40990": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Mafia",
-      "Mafia_-_Definitive_Edition"
-    ],
-    "name": "Mafia"
   },
   "4100940": {
     "config_count": 7,
@@ -30434,6 +30434,14 @@
       "Lewd_Remedy_Demo"
     ],
     "name": "Lewd Remedy Demo"
+  },
+  "4305480": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "IncreKnight"
+    ],
+    "name": "Increknight"
   },
   "4307720": {
     "config_count": 1,
@@ -42178,7 +42186,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 217,
+    "config_count": 218,
     "devices": [
       {
         "d": "G615_MC2",
@@ -42381,11 +42389,6 @@
         "s": "Adreno (TM) 619"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "S928B",
-        "s": "Adreno (TM) 750"
-      },
-      {
         "d": "Adreno__TM__660",
         "m": "G998U",
         "s": "Adreno (TM) 660"
@@ -42464,6 +42467,11 @@
         "d": "Adreno__TM__730",
         "m": "S901E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "S928B",
+        "s": "Adreno (TM) 750"
       },
       {
         "d": "Adreno__TM__740",
