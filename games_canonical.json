@@ -687,6 +687,14 @@
     ],
     "name": "New Super Lucky's Tale"
   },
+  "1041320": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "LoK"
+    ],
+    "name": "Lords Mobile: Kingdom Wars"
+  },
   "1044720": {
     "config_count": 1,
     "devices": [
@@ -1881,14 +1889,6 @@
       "DOOM64"
     ],
     "name": "DOOM 64"
-  },
-  "1150230": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "nostalgia_5_0"
-    ],
-    "name": "VR Nostalgia 5"
   },
   "1151380": {
     "config_count": 1,
@@ -3397,7 +3397,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 54,
+    "config_count": 38,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -3493,24 +3493,12 @@
         "d": "Adreno__TM__722",
         "m": "CPH2825",
         "s": "Adreno (TM) 722"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "M2007J3SY",
-        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
       "Need_for_Speed__Heat",
       "nfs",
-      "Need_for_Speed_Heat",
-      "Speed",
-      "speed"
+      "Need_for_Speed_Heat"
     ],
     "name": "Need for Speed\u2122 Heat"
   },
@@ -6074,14 +6062,6 @@
     ],
     "name": "Tested on Humans: Escape Room"
   },
-  "1486290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "eFootball_2026"
-    ],
-    "name": "Polyleague Manager 2026: Football Evolution"
-  },
   "1491410": {
     "config_count": 1,
     "devices": [
@@ -6174,7 +6154,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 104,
+    "config_count": 103,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -6355,11 +6335,6 @@
         "d": "Adreno__TM__840",
         "m": "S942U",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__710",
-        "m": "NX1",
-        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
@@ -6376,8 +6351,7 @@
       "FIFA_2007",
       "FIFA_22",
       "FIFA_23",
-      "FIFA22",
-      "fifa_12"
+      "FIFA22"
     ],
     "name": "FIFA 22"
   },
@@ -7839,7 +7813,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 98,
+    "config_count": 99,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -7992,7 +7966,8 @@
       "pes_2012",
       "pes_2013",
       "pes_2013_",
-      "pes__2013"
+      "pes__2013",
+      "eFootball_2026"
     ],
     "name": "eFootball\u2122"
   },
@@ -13561,7 +13536,7 @@
     "name": "DmC: Devil May Cry"
   },
   "2207440": {
-    "config_count": 3,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -13570,8 +13545,7 @@
       }
     ],
     "folders": [
-      "LOK",
-      "LoK"
+      "LOK"
     ],
     "name": "LOK Digital"
   },
@@ -21368,7 +21342,7 @@
     "name": "GET EVEN"
   },
   "3010850": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -21389,8 +21363,7 @@
     "folders": [
       "Gears_Of_War",
       "Gears_of_War",
-      "Gears_of_war_2",
-      "Gears_of_War_2"
+      "Gears_of_war_2"
     ],
     "name": "Gears of War: E-Day"
   },
@@ -22715,7 +22688,7 @@
     "name": "Mall Simulator"
   },
   "3183760": {
-    "config_count": 4,
+    "config_count": 20,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -22731,10 +22704,21 @@
         "d": "Adreno__TM__750",
         "m": "NX769J",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
-      "speed"
+      "speed",
+      "Speed"
     ],
     "name": "SpeedRunners 2: King of Speed"
   },
@@ -24937,7 +24921,7 @@
     "name": "Assassin's Creed 2"
   },
   "332800": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__618",
@@ -24946,6 +24930,7 @@
       }
     ],
     "folders": [
+      "FiveNightsatFreddys_3",
       "Five_Nights_At_Freddys_2"
     ],
     "name": "Five Nights at Freddy's 2"
@@ -25707,6 +25692,14 @@
     ],
     "name": "LIGHTNING RETURNS\u2122: FINAL FANTASY\u00ae XIII"
   },
+  "3462040": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "ACS"
+    ],
+    "name": "ACS"
+  },
   "3467710": {
     "config_count": 1,
     "devices": [],
@@ -26360,20 +26353,6 @@
     ],
     "name": "Aces of the Luftwaffe"
   },
-  "354140": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__618",
-        "m": "M2007J20CG",
-        "s": "Adreno (TM) 618"
-      }
-    ],
-    "folders": [
-      "FiveNightsatFreddys_3"
-    ],
-    "name": "Five Nights at Freddy's 3"
-  },
   "354160": {
     "config_count": 1,
     "devices": [
@@ -26480,42 +26459,16 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 17,
+    "config_count": 4,
     "devices": [
       {
         "d": "G57_MC4",
         "m": "Mali",
         "s": "Mali-G57 MC4"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
-      "Atla",
-      "TombRaider"
+      "Atla"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -28536,7 +28489,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 197,
+    "config_count": 210,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -28852,13 +28805,34 @@
         "d": "Adreno__TM__720",
         "m": "V2348",
         "s": "Adreno (TM) 720"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
       "Rise_of_the_Tomb_Raider",
       "Rise_of_the_Tomb_Raider_",
       "Tomb_Raider",
-      "Tomb_Raider_-_Definitive_Edition"
+      "Tomb_Raider_-_Definitive_Edition",
+      "TombRaider"
     ],
     "name": "Rise of the Tomb Raider\u2122"
   },
@@ -29127,6 +29101,20 @@
       "Squad"
     ],
     "name": "Squad"
+  },
+  "3934270": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__710",
+        "m": "RMX3840",
+        "s": "Adreno (TM) 710"
+      }
+    ],
+    "folders": [
+      "dude"
+    ],
+    "name": "How Many Dudes? The Roguelike Autobattler"
   },
   "3937470": {
     "config_count": 2,
@@ -39853,6 +39841,20 @@
     ],
     "name": "Ffxiii"
   },
+  "name:fifa-12": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
+      }
+    ],
+    "folders": [
+      "fifa_12"
+    ],
+    "name": "Fifa 12"
+  },
   "name:fifa14": {
     "config_count": 1,
     "devices": [],
@@ -39975,6 +39977,14 @@
       "GE2RB"
     ],
     "name": "Ge2Rb"
+  },
+  "name:gears-of-war-2": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Gears_of_War_2"
+    ],
+    "name": "Gears Of War 2"
   },
   "name:gears-of-war-2-hollow": {
     "config_count": 1,
@@ -40883,6 +40893,14 @@
       "NieRAutomataCompat"
     ],
     "name": "Nierautomatacompat"
+  },
+  "name:nostalgia-5-0": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "nostalgia_5_0"
+    ],
+    "name": "Nostalgia 5 0"
   },
   "name:nsuns-4": {
     "config_count": 1,
