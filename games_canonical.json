@@ -7586,6 +7586,14 @@
     ],
     "name": "King's Bounty II - Digital Soundtrack"
   },
+  "1641860": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Bankrupt_Heroines_2"
+    ],
+    "name": "Bankrupt Heroines 2"
+  },
   "1643320": {
     "config_count": 1,
     "devices": [
@@ -8702,7 +8710,7 @@
     "name": "STAR OCEAN THE DIVINE FORCE"
   },
   "1778820": {
-    "config_count": 9,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -23000,7 +23008,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1724,
+    "config_count": 1725,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -31706,7 +31714,7 @@
     "name": "Speak Demo"
   },
   "48190": {
-    "config_count": 27,
+    "config_count": 24,
     "devices": [
       {
         "d": "MT6789",
@@ -31752,18 +31760,12 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
-      },
-      {
-        "d": "Adreno__TM__618",
-        "m": "A725F",
-        "s": "Adreno (TM) 618"
       }
     ],
     "folders": [
       "Assassin_s_Creed__Brotherhood",
       "Assassin_s_creed_brotherhood",
-      "Assassin_s_Creed_brotherhood",
-      "AssassinsCreedBrotherhood"
+      "Assassin_s_Creed_brotherhood"
     ],
     "name": "Assassin\u2019s Creed\u00ae Brotherhood"
   },
@@ -38969,6 +38971,25 @@
       "AssassinsCreed_Dx9"
     ],
     "name": "Assassinscreed Dx9"
+  },
+  "name:assassinscreedbrotherhood": {
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__618",
+        "m": "A725F",
+        "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
+      }
+    ],
+    "folders": [
+      "AssassinsCreedBrotherhood"
+    ],
+    "name": "Assassinscreedbrotherhood"
   },
   "name:autoplay-menu-builder": {
     "config_count": 1,
