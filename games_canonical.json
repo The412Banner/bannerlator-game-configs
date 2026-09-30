@@ -21373,7 +21373,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -21394,10 +21394,16 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -23008,7 +23014,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1725,
+    "config_count": 1726,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -31714,7 +31720,7 @@
     "name": "Speak Demo"
   },
   "48190": {
-    "config_count": 24,
+    "config_count": 27,
     "devices": [
       {
         "d": "MT6789",
@@ -31760,12 +31766,18 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "A725F",
+        "s": "Adreno (TM) 618"
       }
     ],
     "folders": [
       "Assassin_s_Creed__Brotherhood",
       "Assassin_s_creed_brotherhood",
-      "Assassin_s_Creed_brotherhood"
+      "Assassin_s_Creed_brotherhood",
+      "AssassinsCreedBrotherhood"
     ],
     "name": "Assassin\u2019s Creed\u00ae Brotherhood"
   },
@@ -37841,7 +37853,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 8,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -37857,16 +37869,10 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -38971,25 +38977,6 @@
       "AssassinsCreed_Dx9"
     ],
     "name": "Assassinscreed Dx9"
-  },
-  "name:assassinscreedbrotherhood": {
-    "config_count": 3,
-    "devices": [
-      {
-        "d": "Adreno__TM__618",
-        "m": "A725F",
-        "s": "Adreno (TM) 618"
-      },
-      {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
-      }
-    ],
-    "folders": [
-      "AssassinsCreedBrotherhood"
-    ],
-    "name": "Assassinscreedbrotherhood"
   },
   "name:autoplay-menu-builder": {
     "config_count": 1,
