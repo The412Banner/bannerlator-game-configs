@@ -39028,8 +39028,14 @@
     "name": "Acfc"
   },
   "name:acrsp": {
-    "config_count": 4,
-    "devices": [],
+    "config_count": 5,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
     "folders": [
       "ACRSP"
     ],
