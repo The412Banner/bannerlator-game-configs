@@ -291,7 +291,7 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 2 (2009)"
   },
   "1020790": {
-    "config_count": 51,
+    "config_count": 53,
     "devices": [
       {
         "d": "SM8850",
@@ -387,6 +387,11 @@
         "d": "G52",
         "m": "Mali",
         "s": "Mali-G52"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
       }
     ],
     "folders": [
@@ -16958,6 +16963,14 @@
     ],
     "name": "Hoop Land"
   },
+  "2455640": {
+    "config_count": 3,
+    "devices": [],
+    "folders": [
+      "re7"
+    ],
+    "name": "Romancing SaGa 2: Revenge of the Seven"
+  },
   "2457220": {
     "config_count": 1,
     "devices": [
@@ -19760,14 +19773,6 @@
     ],
     "name": "Battlefield\u2122 6"
   },
-  "2812820": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Pape Rangers"
-  },
   "2815070": {
     "config_count": 2,
     "devices": [
@@ -21737,6 +21742,14 @@
       "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH"
     ],
     "name": "THE KING OF FIGHTERS XIII GLOBAL MATCH"
+  },
+  "3054410": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Bushside Rangers"
   },
   "305620": {
     "config_count": 4,
@@ -29987,7 +30000,7 @@
     "name": "Shadow Tactics: Blades of the Shogun"
   },
   "418370": {
-    "config_count": 37,
+    "config_count": 34,
     "devices": [
       {
         "d": "SM7435",
@@ -30072,8 +30085,7 @@
     ],
     "folders": [
       "Resident_Evil_7_Biohazard",
-      "resident_evil_7_",
-      "re7"
+      "resident_evil_7_"
     ],
     "name": "Resident Evil 7 Biohazard"
   },
@@ -43786,6 +43798,14 @@
       "xenia_edge"
     ],
     "name": "Xenia Edge"
+  },
+  "name:xr-3da": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "XR_3DA"
+    ],
+    "name": "Xr 3Da"
   },
   "name:ysx-pn": {
     "config_count": 1,
