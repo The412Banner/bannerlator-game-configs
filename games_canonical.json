@@ -2093,8 +2093,14 @@
     "name": "Dual Blade ~ Battle of The Female Ninja ~"
   },
   "1158370": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
+      }
+    ],
     "folders": [
       "Aragami2"
     ],
@@ -4636,12 +4642,17 @@
     "name": "Monster Hunter Stories 2: Wings of Ruin"
   },
   "1281630": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "PLQ110",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "2312DRA50C",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
@@ -34300,7 +34311,7 @@
     "name": "Attack on Titan 2 - A.O.T.2"
   },
   "601150": {
-    "config_count": 46,
+    "config_count": 47,
     "devices": [
       {
         "d": "unknown",
@@ -34343,11 +34354,6 @@
         "s": "Adreno (TM) 829"
       },
       {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
-      },
-      {
         "d": "Adreno__TM__840",
         "m": "V2505A",
         "s": "Adreno (TM) 840"
@@ -34386,6 +34392,11 @@
         "d": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
         "m": "A376B",
         "s": "ANGLE ((Samsung Xclipse 530) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__640",
