@@ -372,11 +372,6 @@
     "appid": null,
     "method": "unresolved"
   },
-  "Arma_2__Operation_Arrowhead": {
-    "appid": 33930,
-    "method": "naive",
-    "steam_name": "Arma 2: Operation Arrowhead"
-  },
   "Arma_3": {
     "appid": 107410,
     "method": "naive",
@@ -1943,6 +1938,12 @@
     "appid": 1671210,
     "method": "naive",
     "steam_name": "DELTARUNE"
+  },
+  "DEVIL_MAY_CRY_4": {
+    "appid": 329050,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/329050/header.jpg",
+    "method": "naive",
+    "steam_name": "Devil May Cry 4 Special Edition"
   },
   "DEVIL_MAY_CRY_4_TRIAL": {
     "appid": null,
