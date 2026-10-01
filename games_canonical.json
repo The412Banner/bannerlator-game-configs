@@ -2867,7 +2867,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 415,
+    "config_count": 416,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3298,6 +3298,11 @@
         "d": "Adreno__TM__610",
         "m": "A235F",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2463A",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "Adreno__TM__735",
@@ -39639,6 +39644,14 @@
       "DyingLightGame_TheBeast_x64_rwdi"
     ],
     "name": "Dyinglightgame Thebeast X64 Rwdi"
+  },
+  "name:easy-anti-cheat-bootstrapper-eos": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Easy_Anti-Cheat_Bootstrapper__EOS_"
+    ],
+    "name": "Easy Anti Cheat Bootstrapper Eos"
   },
   "name:efootball-2021": {
     "config_count": 53,
