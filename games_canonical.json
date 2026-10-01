@@ -6175,7 +6175,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 104,
+    "config_count": 103,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -6356,11 +6356,6 @@
         "d": "Adreno__TM__840",
         "m": "S942U",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__710",
-        "m": "NX1",
-        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
@@ -6377,8 +6372,7 @@
       "FIFA_2007",
       "FIFA_22",
       "FIFA_23",
-      "FIFA22",
-      "fifa_12"
+      "FIFA22"
     ],
     "name": "FIFA 22"
   },
@@ -10114,12 +10108,10 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 3,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "MAFIA",
-      "Mafia",
-      "Mafia_-_Definitive_Edition"
+      "MAFIA"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -24378,6 +24370,14 @@
     ],
     "name": "R.E.P.O."
   },
+  "3244220": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "A_Game_About_Digging_A_Hole_"
+    ],
+    "name": "A Game About Digging A Hole\u2122"
+  },
   "324570": {
     "config_count": 1,
     "devices": [
@@ -25516,6 +25516,14 @@
     ],
     "name": "Heavy Weapon Deluxe"
   },
+  "3419290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN"
+  },
   "341940": {
     "config_count": 3,
     "devices": [
@@ -26151,15 +26159,6 @@
     ],
     "name": "Car Service Together"
   },
-  "35020": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_Arkham_Asylum"
-    ],
-    "name": "Batman: Arkham Asylum Demo"
-  },
   "3503050": {
     "config_count": 1,
     "devices": [
@@ -26189,7 +26188,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 27,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -26254,6 +26253,8 @@
     ],
     "folders": [
       "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_Arkham_Asylum",
       "Batman__Arkham_Asylum_GOTY_Edition"
     ],
     "name": "Batman: Arkham Asylum Game of the Year Edition"
@@ -29328,14 +29329,6 @@
     ],
     "name": "The Spike Cross"
   },
-  "3985080": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN - Costume Expansion Pack"
-  },
   "400": {
     "config_count": 4,
     "devices": [],
@@ -29655,6 +29648,15 @@
       "BioShock_2_Remastered"
     ],
     "name": "BioShock\u2122 2 Remastered"
+  },
+  "40990": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Mafia",
+      "Mafia_-_Definitive_Edition"
+    ],
+    "name": "Mafia"
   },
   "4100940": {
     "config_count": 7,
@@ -39878,6 +39880,20 @@
       "FFXIII"
     ],
     "name": "Ffxiii"
+  },
+  "name:fifa-12": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
+      }
+    ],
+    "folders": [
+      "fifa_12"
+    ],
+    "name": "Fifa 12"
   },
   "name:fifa14": {
     "config_count": 1,
