@@ -8198,7 +8198,7 @@
     "name": "Persona 5 Royal"
   },
   "1693980": {
-    "config_count": 23,
+    "config_count": 24,
     "devices": [
       {
         "d": "G68",
@@ -8239,6 +8239,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__630",
+        "m": "POCO_F1",
+        "s": "Adreno (TM) 630"
       },
       {
         "d": "G78",
@@ -30888,7 +30893,7 @@
     "name": "World of Tanks Blitz"
   },
   "44500": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -31736,8 +31741,14 @@
     "name": "Tom Clancy S Ghost Recon Wildlands - Predator Premium Pack"
   },
   "47890": {
-    "config_count": 2,
-    "devices": [],
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
+      }
+    ],
     "folders": [
       "Sims_3"
     ],

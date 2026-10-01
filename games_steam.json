@@ -360,7 +360,6 @@
   },
   "Aragami2": {
     "appid": 1158370,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1158370/header.jpg",
     "method": "naive",
     "steam_name": "Aragami 2"
   },
@@ -9222,6 +9221,12 @@
     "appid": 1222670,
     "method": "naive",
     "steam_name": "The Sims\u2122 4"
+  },
+  "Sims_3": {
+    "appid": 47890,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/47890/header.jpg",
+    "method": "naive",
+    "steam_name": "The Sims\u2122 3"
   },
   "Singularity": {
     "appid": 3499790,
