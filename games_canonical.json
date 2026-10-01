@@ -31268,7 +31268,7 @@
     "name": "Oxygen Not Included"
   },
   "45740": {
-    "config_count": 6,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__660",
@@ -31282,8 +31282,7 @@
       }
     ],
     "folders": [
-      "DEAD_RISING_",
-      "Dead_Rising_2"
+      "DEAD_RISING_"
     ],
     "name": "Dead Rising\u00ae 2"
   },
@@ -39556,6 +39555,14 @@
       "DBXV"
     ],
     "name": "Dbxv"
+  },
+  "name:dead-rising-2": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Dead_Rising_2"
+    ],
+    "name": "Dead Rising 2"
   },
   "name:deus-ex-human-revolution-dc": {
     "config_count": 1,
