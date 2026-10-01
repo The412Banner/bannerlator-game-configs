@@ -22117,7 +22117,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 49,
+    "config_count": 48,
     "devices": [
       {
         "d": "G78",
@@ -22220,7 +22220,6 @@
       "___3____________",
       "________3_____________",
       "bla",
-      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -30383,6 +30382,20 @@
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
+  "42700": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Call_of_Duty_-_Black_Ops"
+    ],
+    "name": "Call of Duty\u00ae: Black Ops"
+  },
   "427190": {
     "config_count": 1,
     "devices": [],
@@ -34604,7 +34617,7 @@
     "name": "Oddworld: Soulstorm Enhanced Edition"
   },
   "620": {
-    "config_count": 21,
+    "config_count": 20,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -34644,8 +34657,7 @@
     ],
     "folders": [
       "Portal_2",
-      "portal2",
-      "portal2_"
+      "portal2"
     ],
     "name": "Portal 2"
   },
