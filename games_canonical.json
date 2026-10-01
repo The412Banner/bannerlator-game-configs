@@ -4299,7 +4299,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 56,
+    "config_count": 58,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4405,6 +4405,11 @@
         "d": "Adreno__TM__650",
         "m": "22021211RG",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
       }
     ],
     "folders": [
@@ -4422,7 +4427,9 @@
       "Need_For_Speed_Most_Wanted_",
       "Need_for_Speed_-_Most_Wanted",
       "Need_for_Speed__Most_Wanted_2005",
-      "need_for_speed_most_wa"
+      "Need_for_Speed__Most_wanted__2012_",
+      "need_for_speed_most_wa",
+      "need_for_speed_most_wanted_2005"
     ],
     "name": "Need for Speed\u2122 Most Wanted"
   },
@@ -6801,7 +6808,7 @@
     "name": "LEGO\u00ae Skylines"
   },
   "1574140": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -6810,6 +6817,7 @@
       }
     ],
     "folders": [
+      "DiRT4",
       "Dirt4"
     ],
     "name": "TIME FOR YOU - CHAPTER 02 - DIRTY THOUGHTS AND CORPORATE BOTS"
@@ -25797,6 +25805,14 @@
     ],
     "name": "RealFlight Evolution \u2013 E-flite UMX Cirrus SR22T"
   },
+  "34830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper: Ghost Warrior"
+  },
   "3483510": {
     "config_count": 1,
     "devices": [
@@ -26180,7 +26196,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 28,
+    "config_count": 27,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -27215,14 +27231,6 @@
       "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
-  },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
@@ -33421,7 +33429,7 @@
     "name": "Brick Rigs"
   },
   "55230": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -33451,8 +33459,7 @@
     ],
     "folders": [
       "Saints_Row__The_Third",
-      "SaintsRowTheThird",
-      "Saints_Row___The_Third__Remastered"
+      "SaintsRowTheThird"
     ],
     "name": "Saints Row: The Third"
   },
@@ -38680,6 +38687,14 @@
     ],
     "name": "Eastward"
   },
+  "978300": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Saints_Row___The_Third__Remastered"
+    ],
+    "name": "Saints Row\u00ae: The Third\u2122 Remastered"
+  },
   "978780": {
     "config_count": 3,
     "devices": [
@@ -39519,20 +39534,6 @@
       "Dirt_Showdown"
     ],
     "name": "Dirt Showdown"
-  },
-  "name:dirt4": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__650",
-        "m": "G988N",
-        "s": "Adreno (TM) 650"
-      }
-    ],
-    "folders": [
-      "DiRT4"
-    ],
-    "name": "Dirt4"
   },
   "name:dirtfish-dirt4": {
     "config_count": 1,
@@ -40751,28 +40752,6 @@
     ],
     "name": "Need For Speed Black Edition"
   },
-  "name:need-for-speed-most-wanted-2005": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "need_for_speed_most_wanted_2005"
-    ],
-    "name": "Need For Speed Most Wanted 2005"
-  },
-  "name:need-for-speed-most-wanted-2012": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
-      }
-    ],
-    "folders": [
-      "Need_for_Speed__Most_wanted__2012_"
-    ],
-    "name": "Need For Speed Most Wanted 2012"
-  },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 1,
     "devices": [],
@@ -41170,7 +41149,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2966,
+    "config_count": 2967,
     "devices": [
       {
         "d": "G52_MC2",
@@ -42622,7 +42601,7 @@
     "name": "PES 2017 Online Warriors Crack"
   },
   "name:pes-2018": {
-    "config_count": 34,
+    "config_count": 35,
     "devices": [
       {
         "d": "G57",
