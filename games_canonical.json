@@ -22589,7 +22589,7 @@
     "name": "Assassin\u2019s Creed Shadows"
   },
   "3164500": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "G52",
@@ -22618,7 +22618,8 @@
       }
     ],
     "folders": [
-      "Schedule_I"
+      "Schedule_I",
+      "Schedule_I__________________________________________________"
     ],
     "name": "Schedule I"
   },
@@ -24660,6 +24661,11 @@
     "config_count": 53,
     "devices": [
       {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
+      },
+      {
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
@@ -24698,11 +24704,6 @@
         "d": "Adreno__TM__840",
         "m": "CPH2747",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
       },
       {
         "d": "Adreno__TM__710",
@@ -24786,10 +24787,10 @@
       }
     ],
     "folders": [
+      "DEVIL_MAY_CRY_4",
       "Devil_May_Cry_4",
       "Devil_May_Cry_4_",
       "Devil_May_Cry_4_Special_Edition",
-      "DEVIL_MAY_CRY_4",
       "DevilMayCry4SpecialEdition"
     ],
     "name": "Devil May Cry 4 Special Edition"
@@ -25803,6 +25804,14 @@
       "SR2_pc"
     ],
     "name": "RealFlight Evolution \u2013 E-flite UMX Cirrus SR22T"
+  },
+  "34830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper: Ghost Warrior"
   },
   "3483510": {
     "config_count": 1,
@@ -27215,14 +27224,6 @@
       "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
-  },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
@@ -31975,7 +31976,7 @@
     "name": "Warhammer 40,000: Gladius - Relics of War"
   },
   "489830": {
-    "config_count": 70,
+    "config_count": 71,
     "devices": [
       {
         "d": "G615_MC6",

@@ -1941,7 +1941,6 @@
   },
   "DEVIL_MAY_CRY_4": {
     "appid": 329050,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/329050/header.jpg",
     "method": "naive",
     "steam_name": "Devil May Cry 4 Special Edition"
   },
@@ -8998,6 +8997,12 @@
   },
   "Schedule_I": {
     "appid": 3164500,
+    "method": "naive",
+    "steam_name": "Schedule I"
+  },
+  "Schedule_I__________________________________________________": {
+    "appid": 3164500,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3164500/header.jpg",
     "method": "naive",
     "steam_name": "Schedule I"
   },
