@@ -961,7 +961,7 @@
     "name": "Baldur's Gate 3"
   },
   "108710": {
-    "config_count": 16,
+    "config_count": 17,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -991,6 +991,7 @@
     ],
     "folders": [
       "Alan_Wake",
+      "AlanWake",
       "Alan_Wake_Remastered"
     ],
     "name": "Alan Wake"
@@ -13011,7 +13012,7 @@
     "name": "LIFTED"
   },
   "2184260": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -19759,6 +19760,14 @@
     ],
     "name": "Battlefield\u2122 6"
   },
+  "2812820": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Pape Rangers"
+  },
   "2815070": {
     "config_count": 2,
     "devices": [
@@ -21729,14 +21738,6 @@
     ],
     "name": "THE KING OF FIGHTERS XIII GLOBAL MATCH"
   },
-  "3054410": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Bushside Rangers"
-  },
   "305620": {
     "config_count": 4,
     "devices": [
@@ -23085,7 +23086,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1735,
+    "config_count": 1736,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -39019,14 +39020,6 @@
       "AIO-Graphics-Test-64bit"
     ],
     "name": "Aio Graphics Test 64Bit"
-  },
-  "name:alanwake": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "AlanWake"
-    ],
-    "name": "Alanwake"
   },
   "name:am2r": {
     "config_count": 1,
