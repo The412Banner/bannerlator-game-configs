@@ -1429,7 +1429,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1438,7 +1438,8 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid"
+      "BattleForTheGrid",
+      "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -6742,17 +6743,12 @@
     "name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition"
   },
   "1551360": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__830",
@@ -6763,6 +6759,11 @@
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -11235,8 +11236,33 @@
     "name": "Hitman: Absolution\u2122"
   },
   "203160": {
-    "config_count": 13,
+    "config_count": 26,
     "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
+      },
       {
         "d": "Adreno__TM__740",
         "m": "S911U",
@@ -11264,11 +11290,12 @@
       }
     ],
     "folders": [
+      "TombRaider",
       "Tomb_Raider",
       "Tomb_Raider_2013",
       "Tomb_Raider_Game_of_the_Year"
     ],
-    "name": "Tomb Raider"
+    "name": "Tomb Raider Game of the Year"
   },
   "203650": {
     "config_count": 3,
@@ -14499,7 +14526,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 256,
+    "config_count": 257,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -15999,7 +16026,7 @@
     "name": "Papers, Please"
   },
   "239140": {
-    "config_count": 23,
+    "config_count": 24,
     "devices": [
       {
         "d": "G57_MC2",
@@ -19996,7 +20023,7 @@
     "name": "Nunholy"
   },
   "2856190": {
-    "config_count": 109,
+    "config_count": 110,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -21735,14 +21762,6 @@
     ],
     "name": "THE KING OF FIGHTERS XIII GLOBAL MATCH"
   },
-  "3054410": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Bushside Rangers"
-  },
   "305620": {
     "config_count": 4,
     "devices": [
@@ -22109,7 +22128,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 48,
+    "config_count": 49,
     "devices": [
       {
         "d": "G78",
@@ -22212,6 +22231,7 @@
       "___3____________",
       "________3_____________",
       "bla",
+      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -25005,7 +25025,7 @@
     "name": "Five Nights at Freddy's 2"
   },
   "33320": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "G615_MC2",
@@ -25023,6 +25043,11 @@
         "s": "Adreno (TM) 740"
       },
       {
+        "d": "Adreno__TM__650",
+        "m": "M2012K11AG",
+        "s": "Adreno (TM) 650"
+      },
+      {
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
@@ -25030,7 +25055,8 @@
     ],
     "folders": [
       "Prince_of_Persia_-_The_Forgotten_Sands",
-      "Prince_of_Persia_the_Forgotten_Sands"
+      "Prince_of_Persia_the_Forgotten_Sands",
+      "Prince_of_Persia_-_The_Forgotten_Sands______________________"
     ],
     "name": "Prince of Persia: The Forgotten Sands\u2122"
   },
@@ -25840,14 +25866,6 @@
     ],
     "name": "RealFlight Evolution \u2013 E-flite UMX Cirrus SR22T"
   },
-  "34830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper: Ghost Warrior"
-  },
   "3483510": {
     "config_count": 1,
     "devices": [
@@ -25988,7 +26006,7 @@
     "name": "Stellar Blade\u2122"
   },
   "349040": {
-    "config_count": 67,
+    "config_count": 68,
     "devices": [
       {
         "d": "G615_MC2",
@@ -26536,42 +26554,16 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 17,
+    "config_count": 4,
     "devices": [
       {
         "d": "G57_MC4",
         "m": "Mali",
         "s": "Mali-G57 MC4"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
-      "Atla",
-      "TombRaider"
+      "Atla"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -27283,6 +27275,14 @@
       "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
+  },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 1,
@@ -29989,7 +29989,7 @@
     ],
     "name": "My Winter Car"
   },
-  "4165910": {
+  "4165890": {
     "config_count": 5,
     "devices": [
       {
@@ -30001,7 +30001,7 @@
     "folders": [
       "Steam"
     ],
-    "name": "Steam Machine"
+    "name": "Steam Frame"
   },
   "418240": {
     "config_count": 2,
@@ -30401,20 +30401,6 @@
       "Call_of_Duty___Modern_Warfare__3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
-  },
-  "42700": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Call_of_Duty_-_Black_Ops"
-    ],
-    "name": "Call of Duty\u00ae: Black Ops"
   },
   "427190": {
     "config_count": 1,
@@ -33608,7 +33594,7 @@
     "name": "TUNIC"
   },
   "553520": {
-    "config_count": 33,
+    "config_count": 34,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -33684,6 +33670,11 @@
         "d": "Adreno__TM__618",
         "m": "A715F",
         "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "22111317PG",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -37506,7 +37497,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 121,
+    "config_count": 122,
     "devices": [
       {
         "d": "s5e8855",
@@ -40672,7 +40663,7 @@
     "name": "Metatrader 5"
   },
   "name:mgsvtpp": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Immortalis_MC12",
