@@ -40358,8 +40358,14 @@
     "name": "GTA San Andreas"
   },
   "name:gta-vc": {
-    "config_count": 2,
-    "devices": [],
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "X710",
+        "s": "Adreno (TM) 740"
+      }
+    ],
     "folders": [
       "gta_vc"
     ],
