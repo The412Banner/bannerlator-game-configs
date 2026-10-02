@@ -10567,7 +10567,7 @@
     "name": "Digimon Story Time Stranger"
   },
   "19900": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -10618,6 +10618,11 @@
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "Adreno__TM__640",
+        "m": "M2102J20SG",
+        "s": "Adreno (TM) 640"
       },
       {
         "d": "Adreno__TM__750",
@@ -27389,9 +27394,16 @@
     "name": "Assassin's Creed\u00ae Syndicate"
   },
   "3699590": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__730",
+        "m": "X900",
+        "s": "Adreno (TM) 730"
+      }
+    ],
     "folders": [
+      "Well_Dweller________________________________________________",
       "Well_Dweller"
     ],
     "name": "Well Dweller"
@@ -34402,7 +34414,7 @@
     "name": "Attack on Titan 2 - A.O.T.2"
   },
   "601150": {
-    "config_count": 47,
+    "config_count": 48,
     "devices": [
       {
         "d": "unknown",
@@ -34503,6 +34515,11 @@
         "d": "SM8250",
         "m": "22021211RG",
         "s": "SM8250"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "V2546A",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
@@ -41342,7 +41359,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2972,
+    "config_count": 2973,
     "devices": [
       {
         "d": "G52_MC2",
