@@ -291,7 +291,7 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 2 (2009)"
   },
   "1020790": {
-    "config_count": 54,
+    "config_count": 55,
     "devices": [
       {
         "d": "SM8850",
@@ -397,6 +397,11 @@
         "d": "Adreno__TM__610",
         "m": "LX2",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5070",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
@@ -23155,7 +23160,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1743,
+    "config_count": 1744,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -29625,6 +29630,20 @@
       "AlekhinesGun"
     ],
     "name": "Alekhine's Gun"
+  },
+  "40700": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G77_MC9",
+        "m": "Mali",
+        "s": "Mali-G77 MC9"
+      }
+    ],
+    "folders": [
+      "Machinarium"
+    ],
+    "name": "Machinarium"
   },
   "4072860": {
     "config_count": 1,
