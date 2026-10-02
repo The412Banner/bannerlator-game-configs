@@ -2518,7 +2518,7 @@
     "name": "Creatry \u2014 Easy Game Maker & Game Builder App"
   },
   "1196590": {
-    "config_count": 37,
+    "config_count": 38,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -2603,6 +2603,11 @@
       {
         "d": "Adreno__TM__825",
         "m": "25053RT47C",
+        "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "V2453A",
         "s": "Adreno (TM) 825"
       }
     ],
@@ -6207,7 +6212,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 104,
+    "config_count": 105,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -6308,6 +6313,11 @@
         "d": "Adreno__TM__650",
         "m": "G780G",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "AN10",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "SM8750",
@@ -6803,6 +6813,20 @@
       "Tape_to_Tape"
     ],
     "name": "Tape to Tape"
+  },
+  "1568590": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "Goose_Goose_Duck"
+    ],
+    "name": "Goose Goose Duck"
   },
   "1572920": {
     "config_count": 3,
@@ -11363,7 +11387,7 @@
     "name": "Fable - The Lost Chapters"
   },
   "204100": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11389,6 +11413,11 @@
         "d": "Adreno__TM__750",
         "m": "MEIZU_21",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
