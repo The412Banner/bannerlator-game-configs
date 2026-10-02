@@ -752,6 +752,10 @@
     "method": "naive",
     "steam_name": "Battle Brothers"
   },
+  "Battle_net_Setup": {
+    "appid": null,
+    "method": "non-game"
+  },
   "Battlefield_3_": {
     "appid": 1238820,
     "method": "naive",
@@ -3050,6 +3054,12 @@
     "appid": 3059520,
     "method": "fuzzy",
     "steam_name": "F1\u00ae 25"
+  },
+  "F1_2018": {
+    "appid": 927330,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/927330/header.jpg",
+    "method": "naive",
+    "steam_name": "Sim Racing Telemetry - F1 2018"
   },
   "F1_2020": {
     "appid": 1386820,
