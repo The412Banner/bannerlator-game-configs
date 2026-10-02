@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "vivo V2546A",
+    "soc": "Adreno (TM) 840",
+    "bh_version": "3.1.4",
+    "steam_appid": "601150",
+    "upload_token": "13d90ae8f7641726",
+    "settings_count": 10,
+    "components_count": 4
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"2.4.1-3137660\"}",
+    "pc_ls_VK3k": "{\"name\":\"3.0b-0\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"Turnip Gen8 V37\"}",
+    "pc_set_constant_95": "{\"name\":\"2508\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"Wine-9.7-x86_64-2\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-gamenative",
+    "pc_ls_AUDIO_DRIVER": "1",
+    "pc_ls_update_enable_xinput": true,
+    "pc_ls_environment_variable": "WRAPPER_MAX_IMAGE_COUNT=0 ZINK_DESCRIPTORS=lazy ZINK_DEBUG=compact MESA_SHADER_CACHE_DISABLE=false MESA_SHADER_CACHE_MAX_SIZE=4096MB mesa_glthread=true TU_DEBUG=noconform,sysmem DXVK_HUD= BANNER_AUDIO_PULSE_PRESET=custom BANNER_AUDIO_PULSE_PERF=2 BANNER_AUDIO_PULSE_ADAPTIVE=1 BANNER_AUDIO_PULSE_LAT=100",
+    "bl_ext": {
+      "dxwrapper": "vegas+vkd3d",
+      "screenSize": "960x544",
+      "renderer": "vulkan",
+      "sfCompatMode": "1",
+      "fullscreenMode": "2",
+      "frameGenEngine": "bionic",
+      "native": "false",
+      "swapRB": "false",
+      "presentMode": "immediate",
+      "fpsLimiterEnabled": "1",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "0",
+      "sharpnessDenoise": "0",
+      "reshadeMode": "solo",
+      "reshadeEffect": "None",
+      "emulator": "fexcore",
+      "box64Version": "Box64-0.4.4-Hybrid-Bionic-0",
+      "box64Preset": "DENUVO",
+      "fexcorePreset": "INTERMEDIATE",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "startupSelection": "2",
+      "inputType": "4",
+      "exclusiveXInput": "1",
+      "simTouchScreen": "0",
+      "numControllers": "1",
+      "controlsProfile": "3",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1",
+      "midiSoundFont": "wt_210k_G.sf2",
+      "lc_all": "km_KH.UTF-8",
+      "autoCloseOnExit": "1",
+      "syncMode": "wineserver",
+      "fastOpenGL": "1",
+      "glFpsHud": "1",
+      "glVsyncOff": "0",
+      "fpsCounterConfig": "hudStyle=fusion,hudEnabled=1,hudMode=horizontal,hudSize=pill,hudScale=75,hudLocked=0,showFPS=1,showFPSGraph=1,showCPUUsage=1,showCPULoad=1,showGPULoad=1,showRAM=1,showVram=1,showPower=1,showBattery=1,showTemp=1,showBatteryTemp=1,showGpuTemp=1,showEngine=1,showRenderer=1,showGpuModel=1,showLow001=1,fpsDecimal=1,showClock=1,showPerCore=1,showSwap=1,showNet=1,showResolution=1,showProton=1,showWrapper=1,showDxVer=1,showSession=1",
+      "gyroEnabled": "0",
+      "gyroTarget": "0",
+      "gyroActivator": "0",
+      "gyroActivationMode": "0",
+      "gyroMode": "0",
+      "gyroSensitivity": "2.0",
+      "gyroInvertX": "0",
+      "gyroInvertY": "0",
+      "maxGameRefreshRate": "0",
+      "unlockGameRefreshRate": "1",
+      "frameGenModel": "3",
+      "vibrationMode": "1",
+      "vibrationIntensity": "100",
+      "dxwrapperConfig": "version=2.4.1-3137660,framerate=60,async=0,asyncCache=0,vkd3dVersion=3.0b-0,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,anisotropy=2,lodBias=0,d7vkVersion=Bundled (default),dxvkConfigFile="
+    }
+  },
+  "components": [
+    {
+      "name": "2.4.1-3137660",
+      "type": "DXVK"
+    },
+    {
+      "name": "3.0b-0",
+      "type": "VKD3D"
+    },
+    {
+      "name": "Turnip Gen8 V37",
+      "type": "GPU"
+    },
+    {
+      "name": "2508",
+      "type": "FEXCore"
+    }
+  ]
+}
