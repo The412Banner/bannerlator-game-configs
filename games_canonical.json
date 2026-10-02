@@ -14364,7 +14364,7 @@
     "name": "Tomb Raider II (1997)"
   },
   "2254490": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "G52_MC2",
@@ -30335,7 +30335,7 @@
     "name": "Kingdom Rush 6: Genesis TD"
   },
   "42680": {
-    "config_count": 36,
+    "config_count": 37,
     "devices": [
       {
         "d": "Infinix_X6833B",
@@ -30406,6 +30406,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25097RP43G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
@@ -35911,7 +35916,7 @@
     "name": "Borderlands Game of the Year Enhanced"
   },
   "730": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "G78",
@@ -35947,6 +35952,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       },
       {
         "d": "Adreno__TM__840",
@@ -40619,14 +40629,6 @@
       "LunaAbyss-WinGDK-Shipping"
     ],
     "name": "Lunaabyss Wingdk Shipping"
-  },
-  "name:lylafantasy": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "LylaFantasy"
-    ],
-    "name": "Lylafantasy"
   },
   "name:marvel-s-guardians-of-the-galaxy-the-telltale-series": {
     "config_count": 1,
