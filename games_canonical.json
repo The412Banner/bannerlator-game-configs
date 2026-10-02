@@ -16293,7 +16293,7 @@
     "name": "Wasteland 2: Director's Cut"
   },
   "241540": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G78",
@@ -16312,7 +16312,8 @@
       }
     ],
     "folders": [
-      "State_of_Decay"
+      "State_of_Decay",
+      "StateOfDecay"
     ],
     "name": "State of Decay"
   },
@@ -23178,7 +23179,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1745,
+    "config_count": 1746,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24339,6 +24340,11 @@
         "d": "Adreno__TM__710",
         "m": "I2219",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__829",
+        "m": "I2508",
+        "s": "Adreno (TM) 829"
       },
       {
         "d": "Adreno__TM__830",
@@ -30098,7 +30104,7 @@
     "name": "Shadow Tactics: Blades of the Shogun"
   },
   "418370": {
-    "config_count": 37,
+    "config_count": 38,
     "devices": [
       {
         "d": "SM7435",
@@ -32437,7 +32443,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -32467,7 +32473,6 @@
     ],
     "folders": [
       "State_of_Decay_2__Juggernaut_Edition",
-      "StateOfDecay",
       "StateOfDecay2"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
@@ -37447,6 +37452,14 @@
     ],
     "name": "SNK 40th ANNIVERSARY COLLECTION"
   },
+  "866570": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "System_Shock_2__25th_Anniversary_Remaster"
+    ],
+    "name": "System Shock 2: 25th Anniversary Remaster"
+  },
   "866800": {
     "config_count": 5,
     "devices": [
@@ -41365,7 +41378,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2974,
+    "config_count": 2975,
     "devices": [
       {
         "d": "G52_MC2",
