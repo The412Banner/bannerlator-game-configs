@@ -22985,7 +22985,7 @@
     "name": "Cursemark"
   },
   "3219630": {
-    "config_count": 12,
+    "config_count": 15,
     "devices": [
       {
         "d": "256",
@@ -26918,25 +26918,6 @@
       "Garfield_Kart"
     ],
     "name": "Garfield Kart"
-  },
-  "3634190": {
-    "config_count": 3,
-    "devices": [
-      {
-        "d": "256",
-        "m": "8",
-        "s": "PowerVR B-Series BXM-8-256"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      }
-    ],
-    "folders": [
-      "Game"
-    ],
-    "name": "MXGP 26 - The Official Game"
   },
   "363440": {
     "config_count": 1,
@@ -43554,7 +43535,7 @@
     "name": "Start Playgtav"
   },
   "name:steam-linux": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [],
     "folders": [
       "Steam__Linux_"
