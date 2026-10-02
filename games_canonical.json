@@ -3923,7 +3923,7 @@
     "name": "Battlefield\u2122 V"
   },
   "1238820": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -4336,7 +4336,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 59,
+    "config_count": 60,
     "devices": [
       {
         "d": "G57_MC2",
@@ -13057,6 +13057,14 @@
       "DriverParallelLines"
     ],
     "name": "Driver\u00ae Parallel Lines"
+  },
+  "2179900": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "The_Bunnyman"
+    ],
+    "name": "The Bunnyman"
   },
   "2183650": {
     "config_count": 1,
@@ -21832,12 +21840,17 @@
     "name": "The Long Dark"
   },
   "3059500": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
         "m": "motorola_edge_30_pro",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -23160,7 +23173,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1744,
+    "config_count": 1745,
     "devices": [
       {
         "d": "Adreno__TM__630",
