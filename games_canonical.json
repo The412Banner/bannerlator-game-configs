@@ -2899,7 +2899,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 417,
+    "config_count": 419,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3317,11 +3317,6 @@
         "s": "Mali-G78"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "2312DRA50G",
         "s": "Adreno (TM) 710"
@@ -3335,6 +3330,11 @@
         "d": "Adreno__TM__830",
         "m": "V2463A",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__735",
@@ -8538,6 +8538,14 @@
       "Last_Vanguard"
     ],
     "name": "Last Vanguard"
+  },
+  "1731290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GUN"
+    ],
+    "name": "SPINE - This is Gun Fu"
   },
   "1731460": {
     "config_count": 1,
@@ -17770,14 +17778,6 @@
     ],
     "name": "Denshattack"
   },
-  "2524890": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GUN"
-    ],
-    "name": "Pixel Gun 3D: PC Edition"
-  },
   "2527160": {
     "config_count": 3,
     "devices": [],
@@ -19475,14 +19475,6 @@
       "ENDER_MAGNOLIA"
     ],
     "name": "ENDER MAGNOLIA: Bloom in the Mist"
-  },
-  "2732960": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Command___Conquer__Generals_Zero_Hour"
-    ],
-    "name": "Command Conquer Generals Zero Hour"
   },
   "2735580": {
     "config_count": 1,
@@ -22210,7 +22202,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 49,
+    "config_count": 48,
     "devices": [
       {
         "d": "G78",
@@ -22313,7 +22305,6 @@
       "___3____________",
       "________3_____________",
       "bla",
-      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -22444,6 +22435,14 @@
       "FINAL_FANTASY_XIV_Online_Free_Trial"
     ],
     "name": "FINAL FANTASY XIV Online Free Trial"
+  },
+  "3120600": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "RoomGirl"
+    ],
+    "name": "VR Harem Life ~ Your Room Became a Hang-Out for Girls!? ~"
   },
   "3121490": {
     "config_count": 1,
@@ -30505,6 +30504,20 @@
       "Call_of_Duty___Modern_Warfare__3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
+  },
+  "42700": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Call_of_Duty_-_Black_Ops"
+    ],
+    "name": "Call of Duty\u00ae: Black Ops"
   },
   "427190": {
     "config_count": 1,
