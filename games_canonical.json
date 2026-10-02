@@ -14098,7 +14098,7 @@
     "name": "Command & Conquer\u2122 Generals"
   },
   "22300": {
-    "config_count": 18,
+    "config_count": 17,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -14134,8 +14134,7 @@
     "folders": [
       "Fallout_3",
       "Fallout_3_-_Game_of_the_Year_Edition",
-      "Fallout_3___________________________________________________",
-      "Fallout_3__Game_of_the_Year_Edition"
+      "Fallout_3___________________________________________________"
     ],
     "name": "Fallout 3"
   },
@@ -14235,6 +14234,14 @@
       "Contra_Galuga"
     ],
     "name": "Contra: Operation Galuga"
+  },
+  "22370": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Fallout_3__Game_of_the_Year_Edition"
+    ],
+    "name": "Fallout 3: Game of the Year Edition"
   },
   "22380": {
     "config_count": 18,
@@ -43503,7 +43510,7 @@
     "name": "Start Playgtav"
   },
   "name:steam-linux": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [],
     "folders": [
       "Steam__Linux_"
