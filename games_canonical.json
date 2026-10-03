@@ -22239,7 +22239,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 49,
+    "config_count": 48,
     "devices": [
       {
         "d": "G78",
@@ -22342,7 +22342,6 @@
       "___3____________",
       "________3_____________",
       "bla",
-      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -23229,7 +23228,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1751,
+    "config_count": 1755,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -30521,6 +30520,20 @@
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
+  "42700": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Call_of_Duty_-_Black_Ops"
+    ],
+    "name": "Call of Duty\u00ae: Black Ops"
+  },
   "427190": {
     "config_count": 1,
     "devices": [],
@@ -31450,14 +31463,6 @@
       "Ultra_Street_Fighter__IV"
     ],
     "name": "Ultra Street Fighter\u00ae IV"
-  },
-  "4576490": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "CasualtiesUnknown"
-    ],
-    "name": "Casualties: Unknown"
   },
   "4576510": {
     "config_count": 1,
@@ -37973,7 +37978,7 @@
     "name": "Last Epoch"
   },
   "911400": {
-    "config_count": 38,
+    "config_count": 40,
     "devices": [
       {
         "d": "MT6833V_PNZA",
@@ -39565,6 +39570,14 @@
       "CastlevaniaSOH"
     ],
     "name": "Castlevaniasoh"
+  },
+  "name:casualtiesunknown": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "CasualtiesUnknown"
+    ],
+    "name": "Casualtiesunknown"
   },
   "name:civilization-ii-multiplayer-gold-edition": {
     "config_count": 1,
