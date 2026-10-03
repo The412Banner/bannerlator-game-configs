@@ -1126,6 +1126,12 @@
     "appid": null,
     "method": "unresolved"
   },
+  "Bun": {
+    "appid": 950880,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/950880/header.jpg",
+    "method": "naive",
+    "steam_name": "Bun"
+  },
   "Burglin__Gnomes": {
     "appid": 3844970,
     "method": "naive",
@@ -1583,7 +1589,6 @@
   },
   "Colin_McRae_Rally_2005______________________________________": {
     "appid": 1211480,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1211480/header.jpg",
     "method": "fuzzy",
     "steam_name": "DiRT Rally 2.0 - Colin McRae: FLAT OUT Pack"
   },

@@ -2905,7 +2905,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 419,
+    "config_count": 420,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3096,11 +3096,6 @@
         "d": "Adreno__TM__610",
         "m": "23129RAA4G",
         "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "G51",
-        "m": "Mali",
-        "s": "Mali-G51"
       },
       {
         "d": "256",
@@ -3341,6 +3336,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G51",
+        "m": "Mali",
+        "s": "Mali-G51"
       },
       {
         "d": "Adreno__TM__735",
@@ -6780,7 +6780,7 @@
     "name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition"
   },
   "1551360": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -6801,6 +6801,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
@@ -14608,7 +14613,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 257,
+    "config_count": 258,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -14934,6 +14939,11 @@
         "d": "Adreno__TM__610",
         "m": "LX2",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "LX2",
+        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -21404,16 +21414,22 @@
     "name": "Darwin's Paradox!"
   },
   "2990": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__730",
         "m": "22081212UG",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "Retroid_Pocket_Flip2",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
-      "FlatOut2"
+      "FlatOut2",
+      "FlatOut_2"
     ],
     "name": "FlatOut 2"
   },
@@ -23197,7 +23213,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1749,
+    "config_count": 1750,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24363,6 +24379,11 @@
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "S901N",
+        "s": "Adreno (TM) 730"
       },
       {
         "d": "Adreno__TM__830",
@@ -37366,7 +37387,7 @@
     "name": "Tribes of Midgard"
   },
   "860510": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -37412,6 +37433,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G610_MC2",
+        "m": "Mali",
+        "s": "Mali-G610 MC2"
       }
     ],
     "folders": [
@@ -38432,6 +38458,14 @@
       "Starlink__Battle_for_Atlas"
     ],
     "name": "Starlink: Battle for Atlas"
+  },
+  "950880": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Bun"
+    ],
+    "name": "Bun"
   },
   "951440": {
     "config_count": 3,
