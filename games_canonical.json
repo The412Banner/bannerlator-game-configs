@@ -3385,6 +3385,20 @@
     ],
     "name": "Grand Theft Auto: Episodes from Liberty City"
   },
+  "1222140": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
+      }
+    ],
+    "folders": [
+      "Detroit__Become_Human"
+    ],
+    "name": "Detroit: Become Human"
+  },
   "1222670": {
     "config_count": 26,
     "devices": [
@@ -37528,8 +37542,14 @@
     "name": "SNK 40th ANNIVERSARY COLLECTION"
   },
   "866570": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__619",
+        "m": "T735",
+        "s": "Adreno (TM) 619"
+      }
+    ],
     "folders": [
       "System_Shock_2__25th_Anniversary_Remaster"
     ],
@@ -41477,7 +41497,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2996,
+    "config_count": 2997,
     "devices": [
       {
         "d": "G52_MC2",
