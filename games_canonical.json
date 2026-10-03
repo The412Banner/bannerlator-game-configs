@@ -2528,7 +2528,7 @@
     "name": "Creatry \u2014 Easy Game Maker & Game Builder App"
   },
   "1196590": {
-    "config_count": 38,
+    "config_count": 39,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -12772,7 +12772,7 @@
     "name": "Aero GPX"
   },
   "2161700": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -35792,7 +35792,7 @@
     "name": "Half-Life"
   },
   "7000": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "G615_MC6",
@@ -35802,8 +35802,7 @@
     ],
     "folders": [
       "Tomb_Raider_Legend",
-      "Tomb_Raider__Legend",
-      "Tomb_Raider_-_Legend"
+      "Tomb_Raider__Legend"
     ],
     "name": "Tomb Raider: Legend"
   },
@@ -43848,6 +43847,14 @@
       "Tomb_Raider_Defenitive_Edition"
     ],
     "name": "Tomb Raider Defenitive Edition"
+  },
+  "name:tomb-raider-legend": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Tomb_Raider_-_Legend"
+    ],
+    "name": "Tomb Raider Legend"
   },
   "name:tpp-main-win64": {
     "config_count": 2,
