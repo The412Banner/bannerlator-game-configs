@@ -17962,7 +17962,7 @@
     "name": "Lonely Mountains: Snow Riders"
   },
   "254700": {
-    "config_count": 36,
+    "config_count": 37,
     "devices": [
       {
         "d": "SM7435",
@@ -18030,11 +18030,6 @@
         "s": "Adreno (TM) 825"
       },
       {
-        "d": "G68",
-        "m": "Mali",
-        "s": "Mali-G68"
-      },
-      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
@@ -18048,6 +18043,11 @@
         "d": "Immortalis_MC11",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC11"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
       },
       {
         "d": "G52_MC2",
@@ -20667,7 +20667,7 @@
     "name": "METAL GEAR SOLID V: THE PHANTOM PAIN"
   },
   "288470": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -21532,7 +21532,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 7,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -21553,16 +21553,10 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -23191,7 +23185,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1747,
+    "config_count": 1748,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25713,7 +25707,7 @@
     "name": "Quarantine Zone: The Last Check"
   },
   "341960": {
-    "config_count": 21,
+    "config_count": 19,
     "devices": [
       {
         "d": "Adreno__TM__722",
@@ -25749,16 +25743,6 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "F731B",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
       }
     ],
     "folders": [
@@ -27834,47 +27818,11 @@
     "name": "SpiritVale"
   },
   "3768760": {
-    "config_count": 3,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "NX789S_V1B",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "Odin3",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "F946B",
-        "s": "Adreno (TM) 740"
-      }
-    ],
+    "config_count": 2,
+    "devices": [],
     "folders": [
-      "007_First_Light",
-      "007FirstLight"
+      "007FirstLight",
+      "007_First_Light"
     ],
     "name": "007 First Light"
   },
@@ -29601,6 +29549,25 @@
       "Godot_Engine"
     ],
     "name": "Godot Engine"
+  },
+  "4048520": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "F731B",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      }
+    ],
+    "folders": [
+      "DP"
+    ],
+    "name": "HAELE 3D - Pose Studio Max - Anatomy Drawing References"
   },
   "4049180": {
     "config_count": 1,
@@ -35072,17 +35039,12 @@
     "name": "Slay the Spire"
   },
   "646910": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "SM8750P",
         "m": "TB322FC",
         "s": "SM8750P"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
       },
       {
         "d": "G720_MC7",
@@ -35103,6 +35065,11 @@
         "d": "Adreno__TM__840",
         "m": "NX809J",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Immortalis_MC12",
@@ -35792,7 +35759,7 @@
     "name": "Half-Life"
   },
   "7000": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G615_MC6",
@@ -35802,7 +35769,8 @@
     ],
     "folders": [
       "Tomb_Raider_Legend",
-      "Tomb_Raider__Legend"
+      "Tomb_Raider__Legend",
+      "Tomb_Raider_-_Legend"
     ],
     "name": "Tomb Raider: Legend"
   },
@@ -38154,7 +38122,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 8,
     "devices": [
       {
         "d": "G615_MC6",
@@ -38170,10 +38138,16 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -41398,7 +41372,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2986,
+    "config_count": 2992,
     "devices": [
       {
         "d": "G52_MC2",
@@ -41706,11 +41680,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "Adreno__TM__618",
-        "m": "moto_g_60_",
-        "s": "Adreno (TM) 618"
-      },
-      {
         "d": "Adreno__TM__504",
         "m": "T290",
         "s": "Adreno (TM) 504"
@@ -41824,11 +41793,6 @@
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
         "m": "S942B",
         "s": "ANGLE ((Samsung Xclipse 960) on Vulkan 1.4.304)"
-      },
-      {
-        "d": "Adreno__TM__618",
-        "m": "M2101K6G",
-        "s": "Adreno (TM) 618"
       },
       {
         "d": "Adreno__TM__642L",
@@ -41954,11 +41918,6 @@
         "d": "G715",
         "m": "Mali",
         "s": "Mali-G715"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "G780G",
-        "s": "Adreno (TM) 650"
       },
       {
         "d": "Adreno__TM__650",
@@ -42324,6 +42283,21 @@
         "d": "Adreno__TM__610",
         "m": "moto_g52",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "M2101K6G",
+        "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "G780G",
+        "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "moto_g_60_",
+        "s": "Adreno (TM) 618"
       },
       {
         "d": "Adreno__TM__740",
@@ -43847,14 +43821,6 @@
       "Tomb_Raider_Defenitive_Edition"
     ],
     "name": "Tomb Raider Defenitive Edition"
-  },
-  "name:tomb-raider-legend": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Tomb_Raider_-_Legend"
-    ],
-    "name": "Tomb Raider Legend"
   },
   "name:tpp-main-win64": {
     "config_count": 2,
