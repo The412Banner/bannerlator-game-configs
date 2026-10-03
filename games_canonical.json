@@ -6256,7 +6256,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 106,
+    "config_count": 103,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -10960,7 +10960,7 @@
     "name": "Dokimon Quest"
   },
   "202170": {
-    "config_count": 71,
+    "config_count": 72,
     "devices": [
       {
         "d": "MT6878",
@@ -11143,7 +11143,8 @@
       "Sleeping_Dogs_",
       "Sleeping_Dogs_-_Definitive_Edition__________________________",
       "SleepingDogs",
-      "Sleeping_Dogs_-_Definitive_Edition"
+      "Sleeping_Dogs_-_Definitive_Edition",
+      "Sleeping_Dogs_Definitive_Edition"
     ],
     "name": "Sleeping Dogs"
   },
@@ -13621,7 +13622,7 @@
     "name": "Far Cry 3"
   },
   "220440": {
-    "config_count": 37,
+    "config_count": 36,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -13738,8 +13739,7 @@
       "DmC_Devil_May_Cry",
       "DmC_Devil_May_Cry___________________________________________",
       "DmC__Devil_May_Cry",
-      "DMC-DevilMayCry",
-      "DMC-DevilMayCry_2013"
+      "DMC-DevilMayCry"
     ],
     "name": "DmC: Devil May Cry"
   },
@@ -22037,7 +22037,7 @@
     "name": "Platypus"
   },
   "307690": {
-    "config_count": 10,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -22066,8 +22066,7 @@
       }
     ],
     "folders": [
-      "Sleeping_Dogs__Definitive_Edition",
-      "Sleeping_Dogs_Definitive_Edition"
+      "Sleeping_Dogs__Definitive_Edition"
     ],
     "name": "Sleeping Dogs: Definitive Edition"
   },
@@ -37993,7 +37992,7 @@
     "name": "BioShock Infinite"
   },
   "892970": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "G615_MC2",
@@ -39026,14 +39025,6 @@
     ],
     "name": "STORY OF SEASONS: Friends of Mineral Town"
   },
-  "979310": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Disjunction"
-    ],
-    "name": "Disjunction"
-  },
   "979690": {
     "config_count": 3,
     "devices": [],
@@ -39877,6 +39868,14 @@
     ],
     "name": "Discordsetup"
   },
+  "name:disjunction": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Disjunction"
+    ],
+    "name": "Disjunction"
+  },
   "name:dlss-5-swapper": {
     "config_count": 1,
     "devices": [],
@@ -39884,6 +39883,20 @@
       "DLSS_5_Swapper"
     ],
     "name": "Dlss 5 Swapper"
+  },
+  "name:dmc-devilmaycry-2013": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2487",
+        "s": "Adreno (TM) 730"
+      }
+    ],
+    "folders": [
+      "DMC-DevilMayCry_2013"
+    ],
+    "name": "Dmc Devilmaycry 2013"
   },
   "name:domesticlover": {
     "config_count": 1,
@@ -40206,6 +40219,20 @@
       "FFXIII"
     ],
     "name": "Ffxiii"
+  },
+  "name:fifa-23": {
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "FIFA_23"
+    ],
+    "name": "Fifa 23"
   },
   "name:fifa14": {
     "config_count": 1,
