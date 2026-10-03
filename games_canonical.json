@@ -14179,7 +14179,7 @@
     "name": "Command & Conquer\u2122 Generals"
   },
   "22300": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -14215,7 +14215,8 @@
     "folders": [
       "Fallout_3",
       "Fallout_3_-_Game_of_the_Year_Edition",
-      "Fallout_3___________________________________________________"
+      "Fallout_3___________________________________________________",
+      "Fallout3"
     ],
     "name": "Fallout 3"
   },
@@ -41292,6 +41293,14 @@
     ],
     "name": "Nsunsr"
   },
+  "name:nvse-loader": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "nvse_loader"
+    ],
+    "name": "Nvse Loader"
+  },
   "name:oblivion-lost-remake": {
     "config_count": 1,
     "devices": [
@@ -41305,6 +41314,14 @@
       "Oblivion_Lost_Remake"
     ],
     "name": "Oblivion Lost Remake"
+  },
+  "name:obse-loader": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "obse_loader"
+    ],
+    "name": "Obse Loader"
   },
   "name:openbor-3-0-6391-may-2023-zvitor-fork": {
     "config_count": 1,
