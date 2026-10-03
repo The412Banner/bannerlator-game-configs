@@ -16,7 +16,13 @@
   },
   "1002300": {
     "config_count": 1,
-    "devices": [],
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
+      }
+    ],
     "folders": [
       "Fear___Hunger"
     ],
@@ -23263,7 +23269,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1761,
+    "config_count": 1762,
     "devices": [
       {
         "d": "Adreno__TM__630",
