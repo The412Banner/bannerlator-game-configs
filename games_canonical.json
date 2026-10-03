@@ -14,6 +14,14 @@
     ],
     "name": "Counter-Strike"
   },
+  "1002300": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Fear___Hunger"
+    ],
+    "name": "Fear & Hunger"
+  },
   "1004750": {
     "config_count": 1,
     "devices": [
@@ -15521,7 +15529,7 @@
     "name": "Rise of Eros"
   },
   "234670": {
-    "config_count": 16,
+    "config_count": 17,
     "devices": [
       {
         "d": "G68_MC4",
@@ -16325,6 +16333,14 @@
       "Bodycam"
     ],
     "name": "Bodycam"
+  },
+  "240720": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Getting_Over_It_with_Bennett_Foddy"
+    ],
+    "name": "Getting Over It with Bennett Foddy"
   },
   "2407270": {
     "config_count": 1,
@@ -22257,7 +22273,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 48,
+    "config_count": 49,
     "devices": [
       {
         "d": "G78",
@@ -22360,6 +22376,7 @@
       "___3____________",
       "________3_____________",
       "bla",
+      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -23246,7 +23263,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1755,
+    "config_count": 1761,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24289,11 +24306,6 @@
         "s": "Mali-G77 MC9"
       },
       {
-        "d": "Adreno__TM__710",
-        "m": "NX1",
-        "s": "Adreno (TM) 710"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "23028RA60L",
         "s": "Adreno (TM) 610"
@@ -24332,11 +24344,6 @@
         "d": "Adreno__TM__810",
         "m": "2510EPC8BG",
         "s": "Adreno (TM) 810"
-      },
-      {
-        "d": "G68",
-        "m": "Mali",
-        "s": "Mali-G68"
       },
       {
         "d": "Adreno__TM__650",
@@ -24417,6 +24424,16 @@
         "d": "Adreno__TM__730",
         "m": "S901N",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__830",
@@ -30537,20 +30554,6 @@
       "Call_of_Duty___Modern_Warfare__3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
-  },
-  "42700": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Call_of_Duty_-_Black_Ops"
-    ],
-    "name": "Call of Duty\u00ae: Black Ops"
   },
   "427190": {
     "config_count": 1,
@@ -41451,7 +41454,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2992,
+    "config_count": 2993,
     "devices": [
       {
         "d": "G52_MC2",
