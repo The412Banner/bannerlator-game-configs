@@ -15164,7 +15164,7 @@
     "name": "Universe Sandbox"
   },
   "231120": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -15182,11 +15182,6 @@
         "s": "PowerVR Rogue GE8320"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
@@ -15200,6 +15195,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -15701,6 +15701,14 @@
       "Tom_Clancy_s_Splinter_Cell_Blacklist"
     ],
     "name": "Tom Clancy\u2019s Splinter Cell Blacklist"
+  },
+  "235660": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Eador_-_Genesis"
+    ],
+    "name": "Eador: Genesis"
   },
   "2357570": {
     "config_count": 1,
@@ -18148,6 +18156,14 @@
       "KINGDOM_HEARTS_HD_2_8_Final_Chapter_Prologue"
     ],
     "name": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue"
+  },
+  "2556990": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Beyond_Good___Evil"
+    ],
+    "name": "Beyond Good & Evil - 20th Anniversary Edition"
   },
   "255710": {
     "config_count": 2,
@@ -23213,7 +23229,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1750,
+    "config_count": 1751,
     "devices": [
       {
         "d": "Adreno__TM__630",
