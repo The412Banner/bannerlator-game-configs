@@ -1045,7 +1045,7 @@
     "name": "The Gunk"
   },
   "108800": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -1064,7 +1064,8 @@
       }
     ],
     "folders": [
-      "Crysis_2_-_Maximum_Edition"
+      "Crysis_2_-_Maximum_Edition",
+      "Crysis_2_Maximum_Edition"
     ],
     "name": "Crysis 2 - Maximum Edition"
   },
@@ -4128,7 +4129,7 @@
     "name": "Jurassic World Evolution 2"
   },
   "1245620": {
-    "config_count": 17,
+    "config_count": 16,
     "devices": [
       {
         "d": "SM8850",
@@ -4336,20 +4337,6 @@
     ],
     "name": "Party Animals"
   },
-  "1261040": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "Streamer_Life_Simulator_2"
-    ],
-    "name": "Streamer Life Simulator"
-  },
   "1262540": {
     "config_count": 8,
     "devices": [
@@ -4383,7 +4370,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 58,
+    "config_count": 60,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4494,6 +4481,11 @@
         "d": "Adreno__TM__650",
         "m": "22021211RG",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
       }
     ],
     "folders": [
@@ -4511,7 +4503,9 @@
       "Need_For_Speed_Most_Wanted_",
       "Need_for_Speed_-_Most_Wanted",
       "Need_for_Speed__Most_Wanted_2005",
-      "need_for_speed_most_wa"
+      "Need_for_Speed__Most_wanted__2012_",
+      "need_for_speed_most_wa",
+      "need_for_speed_most_wanted_2005"
     ],
     "name": "Need for Speed\u2122 Most Wanted"
   },
@@ -9205,20 +9199,6 @@
     ],
     "name": "DRAGON BALL: Sparking! ZERO"
   },
-  "1792820": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__829",
-        "m": "PLR110",
-        "s": "Adreno (TM) 829"
-      }
-    ],
-    "folders": [
-      "Blade_Sword"
-    ],
-    "name": "Blade Sword"
-  },
   "1794680": {
     "config_count": 1,
     "devices": [],
@@ -9448,7 +9428,7 @@
     "name": "Asphalt Legends "
   },
   "1817070": {
-    "config_count": 23,
+    "config_count": 24,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -9518,7 +9498,8 @@
     ],
     "folders": [
       "Marvel_s_Spider-Man_Remastered",
-      "REM"
+      "REM",
+      "Spider-man_Remastered"
     ],
     "name": "Marvel\u2019s Spider-Man Remastered"
   },
@@ -11828,7 +11809,7 @@
     "name": "THE FINALS"
   },
   "207490": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G68",
@@ -11837,7 +11818,8 @@
       }
     ],
     "folders": [
-      "Rayman__Origins"
+      "Rayman__Origins",
+      "Rayman_Origins"
     ],
     "name": "Rayman\u00ae Origins"
   },
@@ -13467,7 +13449,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 121,
+    "config_count": 122,
     "devices": [
       {
         "d": "S938B",
@@ -13654,6 +13636,7 @@
       "Far_Cry_3",
       "Far_Cry_3___________________________________________________",
       "Far_Cry__3",
+      "FAR_CRY_3",
       "farcry3"
     ],
     "name": "Far Cry 3"
@@ -14498,7 +14481,7 @@
     "name": "Tomb Raider II (1997)"
   },
   "2254490": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "G52_MC2",
@@ -14509,6 +14492,11 @@
         "d": "Adreno__TM__840",
         "m": "25102PCBEG",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__644",
@@ -14523,6 +14511,7 @@
     ],
     "folders": [
       "Launcher",
+      "Rockstar_Games_Launcher",
       "launcher"
     ],
     "name": "Squirrel Launcher"
@@ -15933,7 +15922,7 @@
     "name": "Europa Universalis IV"
   },
   "2369390": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G57_MC2",
@@ -15942,7 +15931,6 @@
       }
     ],
     "folders": [
-      "FAR_CRY_3",
       "FarCry"
     ],
     "name": "Far Cry\u00ae 6"
@@ -18824,7 +18812,7 @@
     "name": "Subnautica"
   },
   "2651280": {
-    "config_count": 25,
+    "config_count": 24,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -18875,19 +18863,13 @@
         "d": "Adreno__TM__730",
         "m": "motorola_edge_30_ultra",
         "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
       "Activision_Spider-Man_3",
       "Marvel_s_Spider-Man_2",
       "Spider-Man_3",
-      "Spider-Man",
-      "Spider-man_Remastered"
+      "Spider-Man"
     ],
     "name": "Marvel's Spider-Man 2"
   },
@@ -20553,7 +20535,7 @@
     "name": "ZERO PARADES: For Dead Spies"
   },
   "2864560": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -20574,6 +20556,7 @@
     "folders": [
       "Rune_Factory__Guardians_of_Azuma",
       "Guardians",
+      "Rune_Factory_-_Guardians_of_Azuma",
       "Rune_Factory_Guardians_of_Azuma"
     ],
     "name": "Rune Factory: Guardians of Azuma"
@@ -20876,12 +20859,17 @@
     "name": "U4iA - Season 1"
   },
   "2890830": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__610",
         "m": "A057M",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -22047,7 +22035,7 @@
     "name": "Portrait of a Torn"
   },
   "3059520": {
-    "config_count": 20,
+    "config_count": 24,
     "devices": [
       {
         "d": "G57_MC2",
@@ -22098,6 +22086,11 @@
         "d": "Adreno__TM__650",
         "m": "G780G",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
@@ -22742,6 +22735,20 @@
       "WayOfTheSamurai4"
     ],
     "name": "Way of the Samurai 4"
+  },
+  "3130330": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "CPH2819",
+        "s": "Adreno (TM) 610"
+      }
+    ],
+    "folders": [
+      "Metaphor_-_ReFantazio_-_Prologue_Demo"
+    ],
+    "name": "Metaphor: ReFantazio - Prologue Demo"
   },
   "313160": {
     "config_count": 5,
@@ -27752,7 +27759,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 45,
+    "config_count": 42,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -27843,11 +27850,6 @@
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Adreno__TM__660",
-        "m": "S928B",
-        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
@@ -27859,8 +27861,7 @@
       "DARK_SOULS_III",
       "DarkSoulsII",
       "DarkSoulsIII",
-      "Dark_Souls_III",
-      "Dark_Souls_Remastered"
+      "Dark_Souls_III"
     ],
     "name": "DARK SOULS\u2122 III"
   },
@@ -34159,7 +34160,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 43,
+    "config_count": 46,
     "devices": [
       {
         "d": "G57",
@@ -34265,11 +34266,17 @@
         "d": "Adreno__TM__618",
         "m": "RMX3081",
         "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "S928B",
+        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
       "DARK_SOULS__REMASTERED",
-      "DARK_SOULS___REMASTERED"
+      "DARK_SOULS___REMASTERED",
+      "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
   },
@@ -35074,7 +35081,7 @@
     "name": "Risk of Rain 2"
   },
   "632470": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "Disco_Elysium_-_The_Final_Cut"
@@ -36077,7 +36084,7 @@
     "name": "Starship EVO"
   },
   "71340": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G52_MC2",
@@ -36086,7 +36093,8 @@
       }
     ],
     "folders": [
-      "Sonic_Generations"
+      "Sonic_Generations",
+      "SonicGenerations"
     ],
     "name": "Sonic Generations Collection"
   },
@@ -39869,14 +39877,6 @@
     ],
     "name": "Cricket07"
   },
-  "name:crysis-2-maximum-edition": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Crysis_2_Maximum_Edition"
-    ],
-    "name": "Crysis 2 Maximum Edition"
-  },
   "name:crysis64": {
     "config_count": 1,
     "devices": [],
@@ -39992,14 +39992,6 @@
       "Dirtfish_DiRT4"
     ],
     "name": "Dirtfish Dirt4"
-  },
-  "name:disco-elysium-the-final-cut": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Disco_Elysium_-_The_Final_Cut"
-    ],
-    "name": "Disco Elysium The Final Cut"
   },
   "name:discordcanarysetup": {
     "config_count": 1,
@@ -40278,20 +40270,6 @@
       "F_E_A_R__Platinum_Collection"
     ],
     "name": "F E A R Platinum Collection"
-  },
-  "name:f1-2014": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "23129RA5FL",
-        "s": "Adreno (TM) 610"
-      }
-    ],
-    "folders": [
-      "F1_2014"
-    ],
-    "name": "F1 2014"
   },
   "name:fallout-new-vegas-pcr": {
     "config_count": 1,
@@ -41038,20 +41016,6 @@
     ],
     "name": "Metal Gear Solid Master Collection Vol 2 Multi6 Elamigos"
   },
-  "name:metaphor-refantazio-prologue-demo": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "CPH2819",
-        "s": "Adreno (TM) 610"
-      }
-    ],
-    "folders": [
-      "Metaphor_-_ReFantazio_-_Prologue_Demo"
-    ],
-    "name": "Metaphor Refantazio Prologue Demo"
-  },
   "name:metatrader-5": {
     "config_count": 1,
     "devices": [
@@ -41251,28 +41215,6 @@
       "Need_for_Speed_Black_Edition_"
     ],
     "name": "Need For Speed Black Edition"
-  },
-  "name:need-for-speed-most-wanted-2005": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "need_for_speed_most_wanted_2005"
-    ],
-    "name": "Need For Speed Most Wanted 2005"
-  },
-  "name:need-for-speed-most-wanted-2012": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
-      }
-    ],
-    "folders": [
-      "Need_for_Speed__Most_wanted__2012_"
-    ],
-    "name": "Need For Speed Most Wanted 2012"
   },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 1,
@@ -43591,14 +43533,6 @@
     ],
     "name": "Pure Onyx"
   },
-  "name:rayman-origins": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rayman_Origins"
-    ],
-    "name": "Rayman Origins"
-  },
   "name:rdr2": {
     "config_count": 1,
     "devices": [],
@@ -43715,20 +43649,6 @@
     ],
     "name": "Rocketleague"
   },
-  "name:rockstar-games-launcher": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Rockstar_Games_Launcher"
-    ],
-    "name": "Rockstar Games Launcher"
-  },
   "name:rottr": {
     "config_count": 9,
     "devices": [
@@ -43761,14 +43681,6 @@
       "rpcs3"
     ],
     "name": "Rpcs3"
-  },
-  "name:rune-factory-guardians-of-azuma": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rune_Factory_-_Guardians_of_Azuma"
-    ],
-    "name": "Rune Factory Guardians Of Azuma"
   },
   "name:rungame": {
     "config_count": 1,
@@ -43894,14 +43806,6 @@
       "Sonic_Robo_Blast_2"
     ],
     "name": "Sonic Robo Blast 2"
-  },
-  "name:sonicgenerations": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "SonicGenerations"
-    ],
-    "name": "Sonicgenerations"
   },
   "name:sottr": {
     "config_count": 2,
