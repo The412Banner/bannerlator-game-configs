@@ -4925,20 +4925,6 @@
     ],
     "name": "Lost Ruins"
   },
-  "1307710": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "GRID"
-    ],
-    "name": "GRID Legends"
-  },
   "1310510": {
     "config_count": 1,
     "devices": [],
@@ -7694,7 +7680,7 @@
     "name": "Minishoot' Adventures"
   },
   "1636440": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "A566E",
@@ -21648,7 +21634,7 @@
     "name": "GET EVEN"
   },
   "3010850": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -21661,6 +21647,11 @@
         "s": "Mali-G720 MC7"
       },
       {
+        "d": "Adreno__TM__660",
+        "m": "LE2115",
+        "s": "Adreno (TM) 660"
+      },
+      {
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
@@ -21670,6 +21661,7 @@
       "Gears_Of_War",
       "Gears_of_War",
       "Gears_of_war_2",
+      "d",
       "Gears_of_War_2"
     ],
     "name": "Gears of War: E-Day"
@@ -25209,7 +25201,7 @@
     "name": "Tom Clancy S Splinter Cell Conviction"
   },
   "33230": {
-    "config_count": 22,
+    "config_count": 23,
     "devices": [
       {
         "d": "G615_MC2",
@@ -25250,6 +25242,11 @@
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "G610_MC6",
+        "m": "Mali",
+        "s": "Mali-G610 MC6"
       }
     ],
     "folders": [
@@ -27228,7 +27225,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 5,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -27249,6 +27246,11 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -37800,7 +37802,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 123,
+    "config_count": 124,
     "devices": [
       {
         "d": "s5e8855",
@@ -38001,6 +38003,11 @@
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
       },
       {
         "d": "Adreno__TM__840",
@@ -41600,7 +41607,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2998,
+    "config_count": 2999,
     "devices": [
       {
         "d": "G52_MC2",
@@ -43734,6 +43741,14 @@
       "SHProto"
     ],
     "name": "Shproto"
+  },
+  "name:silent-hill-3": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "SILENT_HILL_3"
+    ],
+    "name": "Silent Hill 3"
   },
   "name:skyrimse": {
     "config_count": 2,
