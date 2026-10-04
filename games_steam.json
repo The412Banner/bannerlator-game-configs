@@ -2803,7 +2803,6 @@
   },
   "ELDEN_RING_NIGHTREIGN": {
     "appid": 2622380,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2622380/header.jpg",
     "method": "naive",
     "steam_name": "ELDEN RING NIGHTREIGN"
   },
@@ -10690,6 +10689,12 @@
     "method": "naive",
     "steam_name": "Tomb Raider: Underworld"
   },
+  "Tomb_Raider_________________________________________________": {
+    "appid": 391220,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/391220/header.jpg",
+    "method": "naive",
+    "steam_name": "Rise of the Tomb Raider\u2122"
+  },
   "Tomb_Rider_Anniversary_": {
     "appid": null,
     "method": "unresolved"
@@ -12754,6 +12759,10 @@
     "appid": 3354750,
     "method": "naive",
     "steam_name": "skate."
+  },
+  "slw": {
+    "appid": null,
+    "method": "unresolved"
   },
   "sm64_r96x": {
     "appid": null,

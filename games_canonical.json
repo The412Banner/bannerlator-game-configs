@@ -2315,7 +2315,7 @@
     "name": "FINAL FANTASY"
   },
   "1174180": {
-    "config_count": 55,
+    "config_count": 56,
     "devices": [
       {
         "d": "SM8750P",
@@ -4338,7 +4338,7 @@
     "name": "Party Animals"
   },
   "1262540": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "G52_MC2",
@@ -4364,8 +4364,7 @@
     "folders": [
       "Need_for_Speed_",
       "need_for_speed",
-      "need_for_speed_",
-      "Need_for_speed__2005_"
+      "need_for_speed_"
     ],
     "name": "Need for Speed\u2122"
   },
@@ -9512,7 +9511,7 @@
     "name": "Marvel\u2019s Spider-Man Remastered"
   },
   "1817190": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -22145,7 +22144,7 @@
     "name": "MotoGP\u212225"
   },
   "307780": {
-    "config_count": 40,
+    "config_count": 41,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -22211,6 +22210,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Immortalis_MC12",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC12"
       }
     ],
     "folders": [
@@ -28799,7 +28803,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 197,
+    "config_count": 198,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -29121,7 +29125,8 @@
       "Rise_of_the_Tomb_Raider",
       "Rise_of_the_Tomb_Raider_",
       "Tomb_Raider",
-      "Tomb_Raider_-_Definitive_Edition"
+      "Tomb_Raider_-_Definitive_Edition",
+      "Tomb_Raider_________________________________________________"
     ],
     "name": "Rise of the Tomb Raider\u2122"
   },
@@ -36565,20 +36570,6 @@
     ],
     "name": "Russian Fishing 4"
   },
-  "768520": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "I2501",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "SO2R"
-    ],
-    "name": "Red Solstice 2: Survivors"
-  },
   "773700": {
     "config_count": 1,
     "devices": [
@@ -41156,6 +41147,14 @@
     ],
     "name": "Nba2K23"
   },
+  "name:need-for-speed-2005": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Need_for_speed__2005_"
+    ],
+    "name": "Need For Speed 2005"
+  },
   "name:need-for-speed-black-edition": {
     "config_count": 1,
     "devices": [
@@ -43747,6 +43746,20 @@
       "SniperV2Launcher"
     ],
     "name": "Sniperv2Launcher"
+  },
+  "name:so2r": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "I2501",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "SO2R"
+    ],
+    "name": "So2R"
   },
   "name:sonic-robo-blast-2": {
     "config_count": 1,
