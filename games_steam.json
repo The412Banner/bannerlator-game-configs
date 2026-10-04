@@ -2801,6 +2801,12 @@
     "method": "naive",
     "steam_name": "ELDEN RING"
   },
+  "ELDEN_RING_NIGHTREIGN": {
+    "appid": 2622380,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2622380/header.jpg",
+    "method": "naive",
+    "steam_name": "ELDEN RING NIGHTREIGN"
+  },
   "ENDER_LILIES__Quietus_of_the_Knights": {
     "appid": 1369630,
     "method": "naive",
@@ -8013,6 +8019,10 @@
   "Pro_Evolution_Soccer_2013DEMO": {
     "appid": "name:pes-2013",
     "method": "alias"
+  },
+  "Pro_Evolution_Soccer_2013_": {
+    "appid": null,
+    "method": "unresolved"
   },
   "Pro_Evolution_Soccer_2013_-_Real_Patch_26": {
     "appid": "name:pes-2013",

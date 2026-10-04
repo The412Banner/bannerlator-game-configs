@@ -4925,6 +4925,20 @@
     ],
     "name": "Lost Ruins"
   },
+  "1307710": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "GRID"
+    ],
+    "name": "GRID Legends"
+  },
   "1310510": {
     "config_count": 1,
     "devices": [],
@@ -8578,6 +8592,14 @@
     ],
     "name": "Last Vanguard"
   },
+  "1731290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GUN"
+    ],
+    "name": "SPINE - This is Gun Fu"
+  },
   "1731460": {
     "config_count": 1,
     "devices": [
@@ -9490,7 +9512,7 @@
     "name": "Marvel\u2019s Spider-Man Remastered"
   },
   "1817190": {
-    "config_count": 30,
+    "config_count": 31,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -9561,6 +9583,11 @@
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5070",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
@@ -10311,7 +10338,7 @@
     "name": "Strikers Club"
   },
   "1954200": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -10322,6 +10349,11 @@
         "d": "Adreno__TM__750",
         "m": "Pocket_FIT",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "V2546A",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__825",
@@ -14644,7 +14676,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 261,
+    "config_count": 262,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -17870,14 +17902,6 @@
     ],
     "name": "Denshattack"
   },
-  "2524890": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GUN"
-    ],
-    "name": "Pixel Gun 3D: PC Edition"
-  },
   "2527160": {
     "config_count": 3,
     "devices": [],
@@ -18626,6 +18650,20 @@
       "Darkest_Dungeon_"
     ],
     "name": "Darkest Dungeon\u00ae"
+  },
+  "2622380": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__A32",
+        "m": "Pocket_S",
+        "s": "Adreno (TM) A32"
+      }
+    ],
+    "folders": [
+      "ELDEN_RING_NIGHTREIGN"
+    ],
+    "name": "ELDEN RING NIGHTREIGN"
   },
   "2623190": {
     "config_count": 9,
@@ -22549,14 +22587,6 @@
       "FINAL_FANTASY_XIV_Online_Free_Trial"
     ],
     "name": "FINAL FANTASY XIV Online Free Trial"
-  },
-  "3120600": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "RoomGirl"
-    ],
-    "name": "VR Harem Life ~ Your Room Became a Hang-Out for Girls!? ~"
   },
   "3121490": {
     "config_count": 1,
@@ -27040,6 +27070,14 @@
     ],
     "name": "Mafia III: Definitive Edition"
   },
+  "3606830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "RoomGirl"
+    ],
+    "name": "Life in The Janitor's Room with A JK Girl"
+  },
   "361420": {
     "config_count": 1,
     "devices": [
@@ -27185,7 +27223,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 7,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -27206,11 +27244,6 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -27658,7 +27691,7 @@
     "name": "Pixel Empires"
   },
   "373420": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -27668,7 +27701,8 @@
     ],
     "folders": [
       "Divinity__Original_Sin_-_Enhanced_Edition",
-      "Divinity__Original_Sin_Enhanced_Edition"
+      "Divinity__Original_Sin_Enhanced_Edition",
+      "Divinity_Original_Sin_Enhanced_Edition"
     ],
     "name": "Divinity: Original Sin - Enhanced Edition"
   },
@@ -40590,7 +40624,7 @@
     "name": "Gtav"
   },
   "name:gtavlauncher": {
-    "config_count": 14,
+    "config_count": 13,
     "devices": [
       {
         "d": "Adreno__TM__825",
