@@ -1,5 +1,12 @@
 [
   {
+    "game": "Lethal_Company",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1791123039,
+    "filename": "Lethal_Company-Xiaomi-25053RT47C-Adreno__TM__825-1791123039.json"
+  },
+  {
     "game": "portal2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1791048483,
     "filename": "obse_loader-Xiaomi-2409BRN2CA-Mali-G52_MC2-1791048483.json"
-  },
-  {
-    "game": "nvse_loader",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1791048370,
-    "filename": "nvse_loader-Xiaomi-2409BRN2CA-Mali-G52_MC2-1791048370.json"
   }
 ]
