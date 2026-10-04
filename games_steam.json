@@ -7757,7 +7757,6 @@
   },
   "Plantera": {
     "appid": 421040,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/421040/header.jpg",
     "method": "naive",
     "steam_name": "Plantera"
   },
@@ -8755,6 +8754,12 @@
     "appid": null,
     "method": "non-game"
   },
+  "Romancing_SaGa_2__Revenge_of_the_Seven": {
+    "appid": 2455640,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2455640/header.jpg",
+    "method": "naive",
+    "steam_name": "Romancing SaGa 2: Revenge of the Seven"
+  },
   "Romestead": {
     "appid": 1805320,
     "method": "naive",
@@ -9108,6 +9113,10 @@
   "Setup_______________________________________________________": {
     "appid": null,
     "method": "non-game"
+  },
+  "SexaroidGirl_ver_1_30": {
+    "appid": null,
+    "method": "unresolved"
   },
   "Shadow_Warrior_2": {
     "appid": 324800,
