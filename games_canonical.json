@@ -22035,7 +22035,7 @@
     "name": "Portrait of a Torn"
   },
   "3059520": {
-    "config_count": 20,
+    "config_count": 24,
     "devices": [
       {
         "d": "G57_MC2",
@@ -22086,6 +22086,11 @@
         "d": "Adreno__TM__650",
         "m": "G780G",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
@@ -37812,7 +37817,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 124,
+    "config_count": 125,
     "devices": [
       {
         "d": "s5e8855",
@@ -38023,6 +38028,11 @@
         "d": "Adreno__TM__840",
         "m": "S948U",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "2107113SG",
+        "s": "Adreno (TM) 660"
       },
       {
         "d": "Adreno__TM__840",
@@ -40252,20 +40262,6 @@
       "F_E_A_R__Platinum_Collection"
     ],
     "name": "F E A R Platinum Collection"
-  },
-  "name:f1-2014": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "23129RA5FL",
-        "s": "Adreno (TM) 610"
-      }
-    ],
-    "folders": [
-      "F1_2014"
-    ],
-    "name": "F1 2014"
   },
   "name:fallout-new-vegas-pcr": {
     "config_count": 1,
