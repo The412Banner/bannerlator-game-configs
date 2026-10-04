@@ -4925,6 +4925,20 @@
     ],
     "name": "Lost Ruins"
   },
+  "1307710": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "GRID"
+    ],
+    "name": "GRID Legends"
+  },
   "1310510": {
     "config_count": 1,
     "devices": [],
@@ -7680,7 +7694,7 @@
     "name": "Minishoot' Adventures"
   },
   "1636440": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "A566E",
@@ -27225,7 +27239,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 7,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -27246,11 +27260,6 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -43617,7 +43626,7 @@
     "name": "Rocketleague"
   },
   "name:rottr": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -43741,14 +43750,6 @@
       "SHProto"
     ],
     "name": "Shproto"
-  },
-  "name:silent-hill-3": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "SILENT_HILL_3"
-    ],
-    "name": "Silent Hill 3"
   },
   "name:skyrimse": {
     "config_count": 2,
