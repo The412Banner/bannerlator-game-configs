@@ -4925,6 +4925,20 @@
     ],
     "name": "Lost Ruins"
   },
+  "1307710": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "GRID"
+    ],
+    "name": "GRID Legends"
+  },
   "1310510": {
     "config_count": 1,
     "devices": [],
@@ -27247,7 +27261,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 7,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -27268,11 +27282,6 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -30699,7 +30708,7 @@
     "name": "Dead Rising"
   },
   "427290": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -38330,12 +38339,17 @@
     "name": "Felix The Reaper"
   },
   "920210": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "NX789J",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -41627,7 +41641,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3004,
+    "config_count": 3005,
     "devices": [
       {
         "d": "G52_MC2",
@@ -42068,11 +42082,6 @@
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
         "m": "S926B",
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g_8_",
-        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__810",
@@ -42558,6 +42567,11 @@
         "d": "PowerVR_Rogue_GE8320",
         "m": "Infinix_X688B",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g_8_",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__740",
