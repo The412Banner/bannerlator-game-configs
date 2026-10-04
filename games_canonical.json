@@ -15203,7 +15203,7 @@
     "name": "Universe Sandbox"
   },
   "231120": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -21871,7 +21871,7 @@
     "name": "Unturned"
   },
   "3050220": {
-    "config_count": 33,
+    "config_count": 34,
     "devices": [
       {
         "d": "2412DPC0AG",
@@ -39389,6 +39389,14 @@
     ],
     "name": "Anno 1404 Addon History Edition"
   },
+  "name:aoe2de": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "AoE2DE"
+    ],
+    "name": "Aoe2De"
+  },
   "name:asm2launcher": {
     "config_count": 1,
     "devices": [],
@@ -41542,7 +41550,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2997,
+    "config_count": 2998,
     "devices": [
       {
         "d": "G52_MC2",
@@ -42468,6 +42476,11 @@
         "d": "Adreno__TM__610",
         "m": "moto_g_10_",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "Infinix_X688B",
+        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "Adreno__TM__740",
