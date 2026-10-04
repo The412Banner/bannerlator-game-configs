@@ -5257,8 +5257,14 @@
     "name": "DRACU-RIOT!"
   },
   "1343240": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "V2546A",
+        "s": "Adreno (TM) 840"
+      }
+    ],
     "folders": [
       "Thymesia"
     ],
@@ -6270,7 +6276,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 106,
+    "config_count": 107,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -7969,7 +7975,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 98,
+    "config_count": 101,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -26260,7 +26266,7 @@
     "name": "Stellar Blade\u2122"
   },
   "349040": {
-    "config_count": 69,
+    "config_count": 70,
     "devices": [
       {
         "d": "G615_MC2",
@@ -36185,7 +36191,7 @@
     "name": "Borderlands Game of the Year Enhanced"
   },
   "730": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "G78",
@@ -37275,7 +37281,7 @@
     "name": "Cash Grab - Hat Pack"
   },
   "8190": {
-    "config_count": 32,
+    "config_count": 33,
     "devices": [
       {
         "d": "Odin2",
@@ -37370,7 +37376,8 @@
     ],
     "folders": [
       "Just_Cause_2",
-      "JustCause2"
+      "JustCause2",
+      "Just_Cause_2_-_Complete_Edition"
     ],
     "name": "Just Cause 2"
   },
@@ -41616,7 +41623,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 2999,
+    "config_count": 3002,
     "devices": [
       {
         "d": "G52_MC2",
