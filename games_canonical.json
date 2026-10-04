@@ -4338,7 +4338,7 @@
     "name": "Party Animals"
   },
   "1262540": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "G52_MC2",
@@ -4364,7 +4364,8 @@
     "folders": [
       "Need_for_Speed_",
       "need_for_speed",
-      "need_for_speed_"
+      "need_for_speed_",
+      "Need_for_speed__2005_"
     ],
     "name": "Need for Speed\u2122"
   },
@@ -10020,7 +10021,7 @@
     "name": "Ib"
   },
   "1903340": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "G57_MC2",
@@ -23339,7 +23340,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1766,
+    "config_count": 1767,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -36570,6 +36571,20 @@
     ],
     "name": "Russian Fishing 4"
   },
+  "768520": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "I2501",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "SO2R"
+    ],
+    "name": "Red Solstice 2: Survivors"
+  },
   "773700": {
     "config_count": 1,
     "devices": [
@@ -41147,14 +41162,6 @@
     ],
     "name": "Nba2K23"
   },
-  "name:need-for-speed-2005": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Need_for_speed__2005_"
-    ],
-    "name": "Need For Speed 2005"
-  },
   "name:need-for-speed-black-edition": {
     "config_count": 1,
     "devices": [
@@ -43746,20 +43753,6 @@
       "SniperV2Launcher"
     ],
     "name": "Sniperv2Launcher"
-  },
-  "name:so2r": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "I2501",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "SO2R"
-    ],
-    "name": "So2R"
   },
   "name:sonic-robo-blast-2": {
     "config_count": 1,
