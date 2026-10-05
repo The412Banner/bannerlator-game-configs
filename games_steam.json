@@ -4654,6 +4654,12 @@
     "method": "naive",
     "steam_name": "Hatred"
   },
+  "Have_a_Nice_Death": {
+    "appid": 1740720,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1740720/header.jpg",
+    "method": "naive",
+    "steam_name": "Have a Nice Death"
+  },
   "HaveaNiceDeath": {
     "appid": 1740720,
     "method": "naive",
@@ -8987,7 +8993,6 @@
   },
   "STEINS_GATE_ELITE": {
     "appid": 819030,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/819030/header.jpg",
     "method": "naive",
     "steam_name": "STEINS;GATE ELITE"
   },
@@ -12248,6 +12253,10 @@
     "appid": 367520,
     "method": "naive",
     "steam_name": "Hollow Knight"
+  },
+  "iMyFone_LockWiper__Android_": {
+    "appid": null,
+    "method": "unresolved"
   },
   "ib": {
     "appid": 1901370,
