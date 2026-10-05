@@ -446,14 +446,6 @@
     ],
     "name": "Postal III"
   },
-  "1026680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "FINAL_FANTASY_VIII_REMASTERED"
-    ],
-    "name": "FINAL FANTASY VIII - REMASTERED"
-  },
   "10270": {
     "config_count": 2,
     "devices": [],
@@ -16486,7 +16478,7 @@
     "name": "Wasteland 2: Director's Cut"
   },
   "241540": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G78",
@@ -16505,7 +16497,8 @@
       }
     ],
     "folders": [
-      "State_of_Decay"
+      "State_of_Decay",
+      "StateOfDecay"
     ],
     "name": "State of Decay"
   },
@@ -27601,14 +27594,6 @@
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
-  },
   "3681010": {
     "config_count": 1,
     "devices": [],
@@ -29246,7 +29231,7 @@
     "name": "Rise of the Tomb Raider\u2122"
   },
   "39150": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -29256,7 +29241,8 @@
     ],
     "folders": [
       "FINAL_FANTASY_VIII",
-      "FINAL_FANTASY_VIII_-_REMASTERED"
+      "FINAL_FANTASY_VIII_-_REMASTERED",
+      "FINAL_FANTASY_VIII_REMASTERED"
     ],
     "name": "FINAL FANTASY VIII"
   },
@@ -32738,7 +32724,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -32768,7 +32754,6 @@
     ],
     "folders": [
       "State_of_Decay_2__Juggernaut_Edition",
-      "StateOfDecay",
       "StateOfDecay2"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
@@ -43930,6 +43915,14 @@
       "Snapshot__Lewd_Shores"
     ],
     "name": "Snapshot Lewd Shores"
+  },
+  "name:sniper-ghost-warrior-1": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 1"
   },
   "name:sniperv2launcher": {
     "config_count": 1,
