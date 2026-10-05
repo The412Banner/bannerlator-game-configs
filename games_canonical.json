@@ -446,6 +446,14 @@
     ],
     "name": "Postal III"
   },
+  "1026680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "FINAL_FANTASY_VIII_REMASTERED"
+    ],
+    "name": "FINAL FANTASY VIII - REMASTERED"
+  },
   "10270": {
     "config_count": 2,
     "devices": [],
@@ -1412,7 +1420,7 @@
     "name": "EARTH DEFENSE FORCE: IRON RAIN - Creation parts: T-Shirt: EDF5 Symbol"
   },
   "110800": {
-    "config_count": 5,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -1428,6 +1436,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G610_MC6",
+        "m": "Mali",
+        "s": "Mali-G610 MC6"
       },
       {
         "d": "Adreno__TM__750",
@@ -9312,14 +9325,6 @@
     ],
     "name": "Let's Build a Zoo Soundtrack"
   },
-  "1802470": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Heist"
-    ],
-    "name": "The Ascent - Cyber Heist"
-  },
   "1802880": {
     "config_count": 2,
     "devices": [],
@@ -11406,7 +11411,7 @@
     "name": "Hitman: Absolution\u2122"
   },
   "203160": {
-    "config_count": 26,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -16478,7 +16483,7 @@
     "name": "Wasteland 2: Director's Cut"
   },
   "241540": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "G78",
@@ -16497,8 +16502,7 @@
       }
     ],
     "folders": [
-      "State_of_Decay",
-      "StateOfDecay"
+      "State_of_Decay"
     ],
     "name": "State of Decay"
   },
@@ -23427,7 +23431,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1781,
+    "config_count": 1782,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -27594,6 +27598,14 @@
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
+  },
   "3681010": {
     "config_count": 1,
     "devices": [],
@@ -29231,7 +29243,7 @@
     "name": "Rise of the Tomb Raider\u2122"
   },
   "39150": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -29241,8 +29253,7 @@
     ],
     "folders": [
       "FINAL_FANTASY_VIII",
-      "FINAL_FANTASY_VIII_-_REMASTERED",
-      "FINAL_FANTASY_VIII_REMASTERED"
+      "FINAL_FANTASY_VIII_-_REMASTERED"
     ],
     "name": "FINAL FANTASY VIII"
   },
@@ -31250,13 +31261,20 @@
     "name": "This Is the Police"
   },
   "4439810": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "Forza_Horizon_2_____________________________________________",
-      "Forza_Horizon_2"
+      "Forza_Horizon_2_____________________________________________"
     ],
     "name": "Forza Horizon 6 2024 Koenigsegg Gemera"
+  },
+  "4439830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Forza_Horizon_2"
+    ],
+    "name": "Forza Horizon 6 2008 Honda Civic Type R (FD2)"
   },
   "444200": {
     "config_count": 1,
@@ -32724,7 +32742,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -32754,6 +32772,7 @@
     ],
     "folders": [
       "State_of_Decay_2__Juggernaut_Edition",
+      "StateOfDecay",
       "StateOfDecay2"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
@@ -33243,6 +33262,14 @@
       "Fate_EXTELLA"
     ],
     "name": "Fate/EXTELLA"
+  },
+  "5149580": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Heist"
+    ],
+    "name": "PAYDAY 2: Under the Hammer Heist"
   },
   "516750": {
     "config_count": 12,
@@ -39694,6 +39721,14 @@
     ],
     "name": "Batmanac"
   },
+  "name:battle-net-launcher": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Battle_net_Launcher"
+    ],
+    "name": "Battle Net Launcher"
+  },
   "name:bbcf": {
     "config_count": 1,
     "devices": [],
@@ -41755,7 +41790,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3011,
+    "config_count": 3012,
     "devices": [
       {
         "d": "G52_MC2",
@@ -41891,11 +41926,6 @@
         "d": "PowerVR_Rogue_GE8322",
         "m": "itel_A665L",
         "s": "PowerVR Rogue GE8322"
-      },
-      {
-        "d": "G72_MP3",
-        "m": "Mali",
-        "s": "Mali-G72 MP3"
       },
       {
         "d": "Adreno__TM__610",
@@ -42691,6 +42721,11 @@
         "d": "Adreno__TM__512",
         "m": "Redmi_Note_7",
         "s": "Adreno (TM) 512"
+      },
+      {
+        "d": "G72_MP3",
+        "m": "Mali",
+        "s": "Mali-G72 MP3"
       },
       {
         "d": "Adreno__TM__740",
@@ -43915,14 +43950,6 @@
       "Snapshot__Lewd_Shores"
     ],
     "name": "Snapshot Lewd Shores"
-  },
-  "name:sniper-ghost-warrior-1": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 1"
   },
   "name:sniperv2launcher": {
     "config_count": 1,
