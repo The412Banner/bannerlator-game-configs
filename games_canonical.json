@@ -28,6 +28,20 @@
     ],
     "name": "Fear & Hunger"
   },
+  "1004640": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__710",
+        "m": "RMX3840",
+        "s": "Adreno (TM) 710"
+      }
+    ],
+    "folders": [
+      "FINAL_FANTASY_TACTICS_-_The_Ivalice_Chronicles"
+    ],
+    "name": "FINAL FANTASY TACTICS - The Ivalice Chronicles"
+  },
   "1004750": {
     "config_count": 1,
     "devices": [
@@ -10927,6 +10941,14 @@
     ],
     "name": "Yellow Taxi Goes Vroom"
   },
+  "2014550": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Voidwrought"
+    ],
+    "name": "Voidwrought"
+  },
   "201810": {
     "config_count": 2,
     "devices": [
@@ -14708,7 +14730,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 263,
+    "config_count": 265,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -14951,11 +14973,6 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      },
-      {
         "d": "Adreno__TM__730",
         "m": "S901E",
         "s": "Adreno (TM) 730"
@@ -15039,6 +15056,11 @@
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -15403,7 +15425,7 @@
     "name": "Sky: Children of the Light"
   },
   "232890": {
-    "config_count": 13,
+    "config_count": 12,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -15417,8 +15439,7 @@
       }
     ],
     "folders": [
-      "__Stronghold_Crusader",
-      "Stronghold_Crusader_HD"
+      "__Stronghold_Crusader"
     ],
     "name": "Stronghold Crusader 2"
   },
@@ -16450,7 +16471,7 @@
     "name": "Wasteland 2: Director's Cut"
   },
   "241540": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "G78",
@@ -16469,8 +16490,7 @@
       }
     ],
     "folders": [
-      "State_of_Decay",
-      "StateOfDecay"
+      "State_of_Decay"
     ],
     "name": "State of Decay"
   },
@@ -21791,7 +21811,7 @@
     "name": "BEYBLADE X XONE"
   },
   "302510": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -21825,7 +21845,8 @@
       }
     ],
     "folders": [
-      "Ryse__Son_of_Rome"
+      "Ryse__Son_of_Rome",
+      "Ryse_-_Son_of_Rome"
     ],
     "name": "Ryse: Son of Rome"
   },
@@ -23398,7 +23419,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1780,
+    "config_count": 1781,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -29991,6 +30012,14 @@
     ],
     "name": "Stronghold 2: Steam Edition"
   },
+  "40970": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Stronghold_Crusader_HD"
+    ],
+    "name": "Stronghold Crusader HD (2012)"
+  },
   "409710": {
     "config_count": 4,
     "devices": [
@@ -32694,7 +32723,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -32724,6 +32753,7 @@
     ],
     "folders": [
       "State_of_Decay_2__Juggernaut_Edition",
+      "StateOfDecay",
       "StateOfDecay2"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
@@ -33843,7 +33873,7 @@
     "name": "Brick Rigs"
   },
   "55230": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -33873,8 +33903,7 @@
     ],
     "folders": [
       "Saints_Row__The_Third",
-      "SaintsRowTheThird",
-      "Saints_Row___The_Third__Remastered"
+      "SaintsRowTheThird"
     ],
     "name": "Saints Row: The Third"
   },
@@ -39209,6 +39238,14 @@
     ],
     "name": "Eastward"
   },
+  "978300": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Saints_Row___The_Third__Remastered"
+    ],
+    "name": "Saints Row\u00ae: The Third\u2122 Remastered"
+  },
   "978780": {
     "config_count": 3,
     "devices": [
@@ -42838,7 +42875,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 221,
+    "config_count": 222,
     "devices": [
       {
         "d": "G615_MC2",
@@ -43772,14 +43809,6 @@
       "rungame"
     ],
     "name": "Rungame"
-  },
-  "name:ryse-son-of-rome": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Ryse_-_Son_of_Rome"
-    ],
-    "name": "Ryse Son Of Rome"
   },
   "name:sdhdship": {
     "config_count": 3,

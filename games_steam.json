@@ -1,8 +1,4 @@
 {
-  "16100-german-truck-simulator-1-32-en-win": {
-    "appid": null,
-    "method": "unresolved"
-  },
   "2K_Sports_NBA_2K14": {
     "appid": null,
     "method": "unresolved"
@@ -35,6 +31,10 @@
     "method": "non-game"
   },
   "7Launcher_-_GTA_5_1_7_1_____________________________________": {
+    "appid": null,
+    "method": "non-game"
+  },
+  "7Launcher_-_GTA_5_1_7_3_____________________________________": {
     "appid": null,
     "method": "non-game"
   },
@@ -3258,6 +3258,12 @@
     "appid": 377840,
     "method": "naive",
     "steam_name": "FINAL FANTASY IX"
+  },
+  "FINAL_FANTASY_TACTICS_-_The_Ivalice_Chronicles": {
+    "appid": 1004640,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1004640/header.jpg",
+    "method": "norm",
+    "steam_name": "FINAL FANTASY TACTICS - The Ivalice Chronicles"
   },
   "FINAL_FANTASY_VIII": {
     "appid": 39150,
