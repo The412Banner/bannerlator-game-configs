@@ -15829,8 +15829,14 @@
     "name": "Tom Clancy\u2019s Splinter Cell Blacklist"
   },
   "235660": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "25091RP04G",
+        "s": "Adreno (TM) 830"
+      }
+    ],
     "folders": [
       "Eador_-_Genesis"
     ],
@@ -39181,7 +39187,7 @@
     "name": "Sniper Ghost Warrior Contracts"
   },
   "976310": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__840",
