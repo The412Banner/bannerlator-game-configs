@@ -13835,7 +13835,7 @@
     "name": "Total Chaos"
   },
   "221040": {
-    "config_count": 72,
+    "config_count": 73,
     "devices": [
       {
         "d": "G720_MC7",
@@ -14707,7 +14707,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 262,
+    "config_count": 263,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -14915,11 +14915,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "G720_MC8",
-        "m": "Mali",
-        "s": "Mali-G720 MC8"
-      },
-      {
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
@@ -15038,6 +15033,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -15402,7 +15402,7 @@
     "name": "Sky: Children of the Light"
   },
   "232890": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -15416,7 +15416,8 @@
       }
     ],
     "folders": [
-      "__Stronghold_Crusader"
+      "__Stronghold_Crusader",
+      "Stronghold_Crusader_HD"
     ],
     "name": "Stronghold Crusader 2"
   },
@@ -16448,7 +16449,7 @@
     "name": "Wasteland 2: Director's Cut"
   },
   "241540": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G78",
@@ -16467,7 +16468,8 @@
       }
     ],
     "folders": [
-      "State_of_Decay"
+      "State_of_Decay",
+      "StateOfDecay"
     ],
     "name": "State of Decay"
   },
@@ -21788,7 +21790,7 @@
     "name": "BEYBLADE X XONE"
   },
   "302510": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -21822,8 +21824,7 @@
       }
     ],
     "folders": [
-      "Ryse__Son_of_Rome",
-      "Ryse_-_Son_of_Rome"
+      "Ryse__Son_of_Rome"
     ],
     "name": "Ryse: Son of Rome"
   },
@@ -22406,7 +22407,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 48,
+    "config_count": 49,
     "devices": [
       {
         "d": "G78",
@@ -22509,6 +22510,7 @@
       "___3____________",
       "________3_____________",
       "bla",
+      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -29983,14 +29985,6 @@
     ],
     "name": "Stronghold 2: Steam Edition"
   },
-  "40970": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Stronghold_Crusader_HD"
-    ],
-    "name": "Stronghold Crusader HD (2012)"
-  },
   "409710": {
     "config_count": 4,
     "devices": [
@@ -30743,20 +30737,6 @@
       "LEGO_MARVEL_s_Avengers"
     ],
     "name": "LEGO\u00ae MARVEL's Avengers Season Pass"
-  },
-  "42700": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Call_of_Duty_-_Black_Ops"
-    ],
-    "name": "Call of Duty\u00ae: Black Ops"
   },
   "427190": {
     "config_count": 1,
@@ -32708,7 +32688,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -32738,7 +32718,6 @@
     ],
     "folders": [
       "State_of_Decay_2__Juggernaut_Edition",
-      "StateOfDecay",
       "StateOfDecay2"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
@@ -33858,7 +33837,7 @@
     "name": "Brick Rigs"
   },
   "55230": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -33888,7 +33867,8 @@
     ],
     "folders": [
       "Saints_Row__The_Third",
-      "SaintsRowTheThird"
+      "SaintsRowTheThird",
+      "Saints_Row___The_Third__Remastered"
     ],
     "name": "Saints Row: The Third"
   },
@@ -39223,14 +39203,6 @@
     ],
     "name": "Eastward"
   },
-  "978300": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Saints_Row___The_Third__Remastered"
-    ],
-    "name": "Saints Row\u00ae: The Third\u2122 Remastered"
-  },
   "978780": {
     "config_count": 3,
     "devices": [
@@ -43794,6 +43766,14 @@
       "rungame"
     ],
     "name": "Rungame"
+  },
+  "name:ryse-son-of-rome": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Ryse_-_Son_of_Rome"
+    ],
+    "name": "Ryse Son Of Rome"
   },
   "name:sdhdship": {
     "config_count": 3,
