@@ -4404,7 +4404,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 59,
+    "config_count": 60,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4538,7 +4538,8 @@
       "Need_for_Speed_-_Most_Wanted",
       "Need_for_Speed__Most_Wanted_2005",
       "Need_for_Speed__Most_wanted__2012_",
-      "need_for_speed_most_wa"
+      "need_for_speed_most_wa",
+      "need_for_speed_most_wanted_2005"
     ],
     "name": "Need for Speed\u2122 Most Wanted"
   },
@@ -6295,7 +6296,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 105,
+    "config_count": 107,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -10653,7 +10654,7 @@
     "name": "Infinitevania"
   },
   "1984270": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -14578,7 +14579,7 @@
     "name": "Squirrel Launcher"
   },
   "2254890": {
-    "config_count": 22,
+    "config_count": 23,
     "devices": [
       {
         "d": "G720_MC8",
@@ -14629,10 +14630,16 @@
         "d": "Adreno__TM__810",
         "m": "Infinix_X6878",
         "s": "Adreno (TM) 810"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "22081281AC",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
-      "The_Killing_Antidote"
+      "The_Killing_Antidote",
+      "TheKillingAntidote"
     ],
     "name": "The Killing Antidote"
   },
@@ -15905,7 +15912,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 17,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -15941,10 +15948,21 @@
         "d": "Adreno__TM__619",
         "m": "22111317PG",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II"
+      "DARK_SOULS__II",
+      "DarkSoulsII"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -18077,6 +18095,14 @@
     ],
     "name": "Diablo II: Resurrected \u2013 Infernal Edition"
   },
+  "253840": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Shantae_-_Half-Genie_Hero_Ultimate_Edition"
+    ],
+    "name": "Shantae: Half-Genie Hero"
+  },
   "2539050": {
     "config_count": 1,
     "devices": [],
@@ -18659,16 +18685,22 @@
     "name": "Mount & Blade II: Bannerlord"
   },
   "261570": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
         "m": "M2012K11AG",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
-      "Ori_and_the_Blind_Forest"
+      "Ori_and_the_Blind_Forest",
+      "Ori_and_The_Blind_Forest_-_Definitive_Edition"
     ],
     "name": "Ori and the Blind Forest"
   },
@@ -21733,7 +21765,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 7,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -21754,16 +21786,10 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -21920,6 +21946,14 @@
       "Nazi_Zombies__Portable"
     ],
     "name": "Nazi Zombies"
+  },
+  "304650": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sunless_Sea"
+    ],
+    "name": "SUNLESS SEA"
   },
   "304930": {
     "config_count": 4,
@@ -25005,7 +25039,7 @@
     "name": "GameGuru MAX - Madman's Melee Weapons"
   },
   "329050": {
-    "config_count": 53,
+    "config_count": 52,
     "devices": [
       {
         "d": "G615_MC2",
@@ -27557,6 +27591,14 @@
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
+  },
   "3681010": {
     "config_count": 1,
     "devices": [],
@@ -27794,7 +27836,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 42,
+    "config_count": 39,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -27872,16 +27914,6 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -27894,7 +27926,6 @@
       "DarkSoulsRemastered",
       "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
-      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -34668,7 +34699,7 @@
     "name": "Attack on Titan 2 - A.O.T.2"
   },
   "601150": {
-    "config_count": 48,
+    "config_count": 49,
     "devices": [
       {
         "d": "unknown",
@@ -34779,6 +34810,7 @@
     "folders": [
       "Devil_May_Cry_5",
       "DevilMayCry5",
+      "Devil_May_Cry_4",
       "Devil_May_Cry_V"
     ],
     "name": "Devil May Cry 5"
@@ -37462,6 +37494,14 @@
     ],
     "name": "Just Cause 2"
   },
+  "819030": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "STEINS_GATE_ELITE"
+    ],
+    "name": "STEINS;GATE ELITE"
+  },
   "830461": {
     "config_count": 4,
     "devices": [
@@ -38437,7 +38477,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 8,
     "devices": [
       {
         "d": "G615_MC6",
@@ -38453,10 +38493,16 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -40423,14 +40469,6 @@
     ],
     "name": "Ffxiii"
   },
-  "name:fifa-13": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "FIFA_13"
-    ],
-    "name": "Fifa 13"
-  },
   "name:fifa14": {
     "config_count": 1,
     "devices": [],
@@ -41302,14 +41340,6 @@
     ],
     "name": "Need For Speed Black Edition"
   },
-  "name:need-for-speed-most-wanted-2005": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "need_for_speed_most_wanted_2005"
-    ],
-    "name": "Need For Speed Most Wanted 2005"
-  },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 1,
     "devices": [],
@@ -41582,20 +41612,6 @@
       "OpenBor_3_0_6391_May_2023_ZVitor_Fork"
     ],
     "name": "Openbor 3 0 6391 May 2023 Zvitor Fork"
-  },
-  "name:ori-and-the-blind-forest-definitive-edition": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__710",
-        "m": "NX1",
-        "s": "Adreno (TM) 710"
-      }
-    ],
-    "folders": [
-      "Ori_and_The_Blind_Forest_-_Definitive_Edition"
-    ],
-    "name": "Ori And The Blind Forest Definitive Edition"
   },
   "name:oriwotw": {
     "config_count": 1,
@@ -43866,14 +43882,6 @@
     ],
     "name": "Sftk"
   },
-  "name:shantae-half-genie-hero-ultimate-edition": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Shantae_-_Half-Genie_Hero_Ultimate_Edition"
-    ],
-    "name": "Shantae Half Genie Hero Ultimate Edition"
-  },
   "name:shfix": {
     "config_count": 1,
     "devices": [
@@ -43911,14 +43919,6 @@
       "Snapshot__Lewd_Shores"
     ],
     "name": "Snapshot Lewd Shores"
-  },
-  "name:sniper-ghost-warrior-1": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 1"
   },
   "name:sniperv2launcher": {
     "config_count": 1,
@@ -44075,14 +44075,6 @@
     ],
     "name": "Styxgame"
   },
-  "name:sunless-sea": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sunless_Sea"
-    ],
-    "name": "Sunless Sea"
-  },
   "name:t6mp-multiplayer-offline": {
     "config_count": 1,
     "devices": [],
@@ -44169,20 +44161,6 @@
       "The_Sims_2_Launcher"
     ],
     "name": "The Sims 2 Launcher"
-  },
-  "name:thekillingantidote": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__650",
-        "m": "22081281AC",
-        "s": "Adreno (TM) 650"
-      }
-    ],
-    "folders": [
-      "TheKillingAntidote"
-    ],
-    "name": "Thekillingantidote"
   },
   "name:thps12": {
     "config_count": 1,
