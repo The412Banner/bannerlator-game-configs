@@ -23431,7 +23431,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1782,
+    "config_count": 1784,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -31002,6 +31002,14 @@
     ],
     "name": "Bruisers 2D Boxing Demo"
   },
+  "435100": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "2Dark"
+    ],
+    "name": "2Dark"
+  },
   "435150": {
     "config_count": 1,
     "devices": [
@@ -31261,20 +31269,13 @@
     "name": "This Is the Police"
   },
   "4439810": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
-      "Forza_Horizon_2_____________________________________________"
-    ],
-    "name": "Forza Horizon 6 2024 Koenigsegg Gemera"
-  },
-  "4439830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
+      "Forza_Horizon_2_____________________________________________",
       "Forza_Horizon_2"
     ],
-    "name": "Forza Horizon 6 2008 Honda Civic Type R (FD2)"
+    "name": "Forza Horizon 6 2024 Koenigsegg Gemera"
   },
   "444200": {
     "config_count": 1,
@@ -41790,7 +41791,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3012,
+    "config_count": 3014,
     "devices": [
       {
         "d": "G52_MC2",
@@ -44378,6 +44379,20 @@
       "World_of_Warcraft"
     ],
     "name": "World Of Warcraft"
+  },
+  "name:wwe-2k22": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47I",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "WWE_2K22"
+    ],
+    "name": "Wwe 2K22"
   },
   "name:wwe2k24-x64": {
     "config_count": 2,
