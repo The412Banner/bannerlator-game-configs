@@ -8450,7 +8450,7 @@
     "name": "Kusan: City of Wolves"
   },
   "1715130": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -8583,14 +8583,6 @@
       "Last_Vanguard"
     ],
     "name": "Last Vanguard"
-  },
-  "1731290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GUN"
-    ],
-    "name": "SPINE - This is Gun Fu"
   },
   "1731460": {
     "config_count": 1,
@@ -12178,7 +12170,7 @@
     "name": "Crysis 2 Remastered"
   },
   "2096610": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "G720_MC7",
@@ -12189,8 +12181,7 @@
     "folders": [
       "Crysis",
       "Crysis_3",
-      "Crysis_3_Remastered",
-      "Crysis_Remastered"
+      "Crysis_3_Remastered"
     ],
     "name": "Crysis 3 Remastered"
   },
@@ -12958,7 +12949,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 110,
+    "config_count": 111,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -13104,6 +13095,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "23122PCD1I",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
@@ -13112,7 +13108,8 @@
       "Resident_Evil_5_",
       "Resident_Evil_5_____________________________________________",
       "Resident_evil_5_",
-      "residente_evil_5"
+      "residente_evil_5",
+      "resident_evil_5"
     ],
     "name": "Resident Evil 5"
   },
@@ -15865,7 +15862,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 20,
+    "config_count": 17,
     "devices": [
       {
         "d": "G720_MC7",
@@ -15901,21 +15898,10 @@
         "d": "Adreno__TM__619",
         "m": "22111317PG",
         "s": "Adreno (TM) 619"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II",
-      "DarkSoulsII"
+      "DARK_SOULS__II"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -17919,6 +17905,14 @@
       "Denshattack_"
     ],
     "name": "Denshattack"
+  },
+  "2524890": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GUN"
+    ],
+    "name": "Pixel Gun 3D: PC Edition"
   },
   "2527160": {
     "config_count": 3,
@@ -23396,7 +23390,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1772,
+    "config_count": 1776,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -27759,7 +27753,7 @@
     "name": "Pixel Empires"
   },
   "373420": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -27769,7 +27763,8 @@
     ],
     "folders": [
       "Divinity__Original_Sin_-_Enhanced_Edition",
-      "Divinity__Original_Sin_Enhanced_Edition"
+      "Divinity__Original_Sin_Enhanced_Edition",
+      "Divinity_Original_Sin_Enhanced_Edition"
     ],
     "name": "Divinity: Original Sin - Enhanced Edition"
   },
@@ -27802,7 +27797,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 39,
+    "config_count": 42,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -27880,6 +27875,16 @@
         "s": "Adreno (TM) 830"
       },
       {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
+      },
+      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -27892,6 +27897,7 @@
       "DarkSoulsRemastered",
       "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
+      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -28704,6 +28710,14 @@
       "Gamble_With_Your_Friends"
     ],
     "name": "Gamble With Your Friends"
+  },
+  "389430": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Knight_Online"
+    ],
+    "name": "Knight Online"
   },
   "389670": {
     "config_count": 1,
@@ -30943,7 +30957,7 @@
     "name": "Bruisers 2D Boxing Demo"
   },
   "435150": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G720_MC8",
@@ -30952,10 +30966,9 @@
       }
     ],
     "folders": [
-      "Divinity_-_Original_Sin_2_-_Definitive_Edition",
-      "Divinity_Original_Sin_Enhanced_Edition"
+      "Divinity_-_Original_Sin_2_-_Definitive_Edition"
     ],
-    "name": "Divinity: Original Sin 2 - Definitive Edition"
+    "name": "Divinity - Original Sin 2 - Definitive Edition"
   },
   "4355320": {
     "config_count": 16,
@@ -36062,7 +36075,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__A32",
@@ -42806,7 +42819,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 220,
+    "config_count": 221,
     "devices": [
       {
         "d": "G615_MC2",
@@ -43092,6 +43105,11 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "25118PC98G",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__740",

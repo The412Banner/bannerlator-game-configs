@@ -5285,7 +5285,6 @@
   },
   "Kingdom_____________________________________________________": {
     "appid": 1771300,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1771300/header.jpg",
     "method": "naive",
     "steam_name": "Kingdom Come: Deliverance II"
   },
@@ -5296,6 +5295,12 @@
   "Kmotr__II": {
     "appid": null,
     "method": "unresolved"
+  },
+  "Knight_Online": {
+    "appid": 389430,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/389430/header.jpg",
+    "method": "naive",
+    "steam_name": "Knight Online"
   },
   "Knight_s_Path__The_Tournament": {
     "appid": 2653240,
@@ -7813,6 +7818,10 @@
   "Plutonium_Launcher": {
     "appid": null,
     "method": "non-game"
+  },
+  "Plutonium_Updater_App": {
+    "appid": null,
+    "method": "unresolved"
   },
   "Poke_Abby_HD": {
     "appid": null,
@@ -12678,6 +12687,12 @@
     "appid": 287290,
     "method": "naive",
     "steam_name": "Resident Evil Revelations 2"
+  },
+  "resident_evil_5": {
+    "appid": 21690,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/21690/header.jpg",
+    "method": "naive",
+    "steam_name": "Resident Evil 5"
   },
   "resident_evil_7_": {
     "appid": 418370,
