@@ -7730,7 +7730,7 @@
     "name": "Minishoot' Adventures"
   },
   "1636440": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "A566E",
@@ -21789,7 +21789,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 7,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -21810,16 +21810,10 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -21846,7 +21840,7 @@
     "name": "BEYBLADE X XONE"
   },
   "302510": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -21877,6 +21871,11 @@
         "d": "Adreno__TM__840",
         "m": "S948B",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "G610_MC6",
+        "m": "Mali",
+        "s": "Mali-G610 MC6"
       }
     ],
     "folders": [
@@ -22216,7 +22215,7 @@
     "name": "Platypus"
   },
   "307690": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -23473,7 +23472,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1789,
+    "config_count": 1790,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25976,14 +25975,6 @@
       "Heavy_Weapon"
     ],
     "name": "Heavy Weapon Deluxe"
-  },
-  "3419290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN"
   },
   "341940": {
     "config_count": 3,
@@ -29759,6 +29750,14 @@
       "The_Spike"
     ],
     "name": "The Spike Cross"
+  },
+  "3985080": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN - Costume Expansion Pack"
   },
   "400": {
     "config_count": 4,
@@ -33940,7 +33939,7 @@
     "name": "Brick Rigs"
   },
   "55230": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -33970,8 +33969,7 @@
     ],
     "folders": [
       "Saints_Row__The_Third",
-      "SaintsRowTheThird",
-      "Saints_Row___The_Third__Remastered"
+      "SaintsRowTheThird"
     ],
     "name": "Saints Row: The Third"
   },
@@ -38560,7 +38558,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 8,
     "devices": [
       {
         "d": "G615_MC6",
@@ -38576,10 +38574,16 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -39328,6 +39332,14 @@
       "Eastward"
     ],
     "name": "Eastward"
+  },
+  "978300": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Saints_Row___The_Third__Remastered"
+    ],
+    "name": "Saints Row\u00ae: The Third\u2122 Remastered"
   },
   "978780": {
     "config_count": 3,
@@ -43980,14 +43992,6 @@
     ],
     "name": "Sftk"
   },
-  "name:sheep-chanv2": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sheep-chanV2"
-    ],
-    "name": "Sheep Chanv2"
-  },
   "name:shfix": {
     "config_count": 1,
     "devices": [
@@ -44009,14 +44013,6 @@
       "SHProto"
     ],
     "name": "Shproto"
-  },
-  "name:silent-hill-3": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "SILENT_HILL_3"
-    ],
-    "name": "Silent Hill 3"
   },
   "name:skyrimse": {
     "config_count": 2,
