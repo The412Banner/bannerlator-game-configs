@@ -12631,14 +12631,14 @@
     "config_count": 4,
     "devices": [
       {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      },
-      {
         "d": "Adreno__TM__619",
         "m": "moto_g34_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       },
       {
         "d": "Adreno__TM__660",
@@ -12647,8 +12647,8 @@
       }
     ],
     "folders": [
-      "South_Park___The_Stick_of_Truth_",
-      "South_Park_-_The_Stick_of_Truth"
+      "South_Park_-_The_Stick_of_Truth",
+      "South_Park___The_Stick_of_Truth_"
     ],
     "name": "South Park\u2122: The Stick of Truth\u2122"
   },
@@ -38929,7 +38929,7 @@
     "name": "Volcanoids"
   },
   "952060": {
-    "config_count": 83,
+    "config_count": 82,
     "devices": [
       {
         "d": "Adreno__TM__750",
