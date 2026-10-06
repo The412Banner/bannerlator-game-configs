@@ -660,7 +660,7 @@
     "name": "Mafia II: Definitive Edition"
   },
   "1030840": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -671,10 +671,16 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__829",
+        "m": "motorola_signature",
+        "s": "Adreno (TM) 829"
       }
     ],
     "folders": [
-      "Mafia__Definitive_Edition"
+      "Mafia__Definitive_Edition",
+      "Mafia_Definitive_Edition"
     ],
     "name": "Mafia: Definitive Edition"
   },
@@ -6963,7 +6969,7 @@
     "name": "LEGO\u00ae Skylines"
   },
   "1574140": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -6972,6 +6978,7 @@
       }
     ],
     "folders": [
+      "DiRT4",
       "Dirt4"
     ],
     "name": "TIME FOR YOU - CHAPTER 02 - DIRTY THOUGHTS AND CORPORATE BOTS"
@@ -10300,19 +10307,12 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "Adreno__TM__829",
-        "m": "motorola_signature",
-        "s": "Adreno (TM) 829"
-      }
-    ],
+    "config_count": 3,
+    "devices": [],
     "folders": [
       "MAFIA",
       "Mafia",
-      "Mafia_-_Definitive_Edition",
-      "Mafia_Definitive_Edition"
+      "Mafia_-_Definitive_Edition"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -13522,7 +13522,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 122,
+    "config_count": 123,
     "devices": [
       {
         "d": "S938B",
@@ -17315,8 +17315,13 @@
     "name": "Bomb Squad"
   },
   "2464280": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g53_5G",
+        "s": "Adreno (TM) 619"
+      },
       {
         "d": "G615_MC6",
         "m": "Mali",
@@ -19699,6 +19704,14 @@
       "ENDER_MAGNOLIA"
     ],
     "name": "ENDER MAGNOLIA: Bloom in the Mist"
+  },
+  "2732960": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Command___Conquer_Generals_Zero_Hour"
+    ],
+    "name": "Command & Conquer\u2122 Generals Zero Hour"
   },
   "2735580": {
     "config_count": 1,
@@ -23435,7 +23448,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1787,
+    "config_count": 1788,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24616,6 +24629,11 @@
         "d": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
         "m": "A376B",
         "s": "ANGLE ((Samsung Xclipse 530) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "F976B",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__830",
@@ -25933,14 +25951,6 @@
       "Heavy_Weapon"
     ],
     "name": "Heavy Weapon Deluxe"
-  },
-  "3419290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN"
   },
   "341940": {
     "config_count": 3,
@@ -27610,6 +27620,14 @@
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
+  },
   "3681010": {
     "config_count": 1,
     "devices": [],
@@ -27803,7 +27821,7 @@
     "name": "Pixel Empires"
   },
   "373420": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -27813,7 +27831,8 @@
     ],
     "folders": [
       "Divinity__Original_Sin_-_Enhanced_Edition",
-      "Divinity__Original_Sin_Enhanced_Edition"
+      "Divinity__Original_Sin_Enhanced_Edition",
+      "Divinity_Original_Sin_Enhanced_Edition"
     ],
     "name": "Divinity: Original Sin - Enhanced Edition"
   },
@@ -29708,6 +29727,14 @@
     ],
     "name": "The Spike Cross"
   },
+  "3985080": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN - Costume Expansion Pack"
+  },
   "400": {
     "config_count": 4,
     "devices": [],
@@ -29866,14 +29893,6 @@
       "Shift_At_Midnight_Demo"
     ],
     "name": "Shift At Midnight Multiplayer Demo"
-  },
-  "405310": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "LEGO_MARVEL_s_Avengers"
-    ],
-    "name": "LEGO\u00ae MARVEL's Avengers"
   },
   "405820": {
     "config_count": 1,
@@ -30780,6 +30799,14 @@
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
+  "426860": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "LEGO_MARVEL_s_Avengers"
+    ],
+    "name": "LEGO\u00ae MARVEL's Avengers Season Pass"
+  },
   "427190": {
     "config_count": 1,
     "devices": [],
@@ -31006,7 +31033,7 @@
     "name": "2Dark"
   },
   "435150": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G720_MC8",
@@ -31015,10 +31042,9 @@
       }
     ],
     "folders": [
-      "Divinity_-_Original_Sin_2_-_Definitive_Edition",
-      "Divinity_Original_Sin_Enhanced_Edition"
+      "Divinity_-_Original_Sin_2_-_Definitive_Edition"
     ],
-    "name": "Divinity: Original Sin 2 - Definitive Edition"
+    "name": "Divinity - Original Sin 2 - Definitive Edition"
   },
   "4355320": {
     "config_count": 16,
@@ -40148,20 +40174,6 @@
     ],
     "name": "Dirt Showdown"
   },
-  "name:dirt4": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__650",
-        "m": "G988N",
-        "s": "Adreno (TM) 650"
-      }
-    ],
-    "folders": [
-      "DiRT4"
-    ],
-    "name": "Dirt4"
-  },
   "name:dirtfish-dirt4": {
     "config_count": 1,
     "devices": [],
@@ -41812,7 +41824,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3015,
+    "config_count": 3016,
     "devices": [
       {
         "d": "G52_MC2",
@@ -42700,11 +42712,6 @@
         "s": "ANGLE ((Samsung Xclipse 920) on Vulkan 1.3.279)"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "moto_g52",
         "s": "Adreno (TM) 610"
@@ -42748,6 +42755,11 @@
         "d": "G72_MP3",
         "m": "Mali",
         "s": "Mali-G72 MP3"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
@@ -43980,14 +43992,6 @@
       "Snapshot__Lewd_Shores"
     ],
     "name": "Snapshot Lewd Shores"
-  },
-  "name:sniper-ghost-warrior-1": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 1"
   },
   "name:sniperv2launcher": {
     "config_count": 1,
