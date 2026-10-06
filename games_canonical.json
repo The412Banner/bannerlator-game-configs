@@ -4945,20 +4945,6 @@
     ],
     "name": "Lost Ruins"
   },
-  "1307710": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "GRID"
-    ],
-    "name": "GRID Legends"
-  },
   "1310510": {
     "config_count": 1,
     "devices": [],
@@ -20671,7 +20657,7 @@
     "name": "SAW: Genesis"
   },
   "286690": {
-    "config_count": 37,
+    "config_count": 36,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -23014,7 +23000,7 @@
     "name": "Assassin\u2019s Creed Shadows"
   },
   "3164500": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "G52",
@@ -27388,7 +27374,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 5,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -27409,6 +27395,11 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
