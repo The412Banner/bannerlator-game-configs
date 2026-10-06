@@ -660,7 +660,7 @@
     "name": "Mafia II: Definitive Edition"
   },
   "1030840": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -671,16 +671,10 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__829",
-        "m": "motorola_signature",
-        "s": "Adreno (TM) 829"
       }
     ],
     "folders": [
-      "Mafia__Definitive_Edition",
-      "Mafia_Definitive_Edition"
+      "Mafia__Definitive_Edition"
     ],
     "name": "Mafia: Definitive Edition"
   },
@@ -6969,7 +6963,7 @@
     "name": "LEGO\u00ae Skylines"
   },
   "1574140": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -6978,7 +6972,6 @@
       }
     ],
     "folders": [
-      "DiRT4",
       "Dirt4"
     ],
     "name": "TIME FOR YOU - CHAPTER 02 - DIRTY THOUGHTS AND CORPORATE BOTS"
@@ -10307,12 +10300,19 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 3,
-    "devices": [],
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "Adreno__TM__829",
+        "m": "motorola_signature",
+        "s": "Adreno (TM) 829"
+      }
+    ],
     "folders": [
       "MAFIA",
       "Mafia",
-      "Mafia_-_Definitive_Edition"
+      "Mafia_-_Definitive_Edition",
+      "Mafia_Definitive_Edition"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -25934,6 +25934,14 @@
     ],
     "name": "Heavy Weapon Deluxe"
   },
+  "3419290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN"
+  },
   "341940": {
     "config_count": 3,
     "devices": [
@@ -27602,14 +27610,6 @@
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
-  },
   "3681010": {
     "config_count": 1,
     "devices": [],
@@ -27803,7 +27803,7 @@
     "name": "Pixel Empires"
   },
   "373420": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -27813,8 +27813,7 @@
     ],
     "folders": [
       "Divinity__Original_Sin_-_Enhanced_Edition",
-      "Divinity__Original_Sin_Enhanced_Edition",
-      "Divinity_Original_Sin_Enhanced_Edition"
+      "Divinity__Original_Sin_Enhanced_Edition"
     ],
     "name": "Divinity: Original Sin - Enhanced Edition"
   },
@@ -29709,14 +29708,6 @@
     ],
     "name": "The Spike Cross"
   },
-  "3985080": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN - Costume Expansion Pack"
-  },
   "400": {
     "config_count": 4,
     "devices": [],
@@ -29875,6 +29866,14 @@
       "Shift_At_Midnight_Demo"
     ],
     "name": "Shift At Midnight Multiplayer Demo"
+  },
+  "405310": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "LEGO_MARVEL_s_Avengers"
+    ],
+    "name": "LEGO\u00ae MARVEL's Avengers"
   },
   "405820": {
     "config_count": 1,
@@ -30781,14 +30780,6 @@
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
-  "426860": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "LEGO_MARVEL_s_Avengers"
-    ],
-    "name": "LEGO\u00ae MARVEL's Avengers Season Pass"
-  },
   "427190": {
     "config_count": 1,
     "devices": [],
@@ -31015,7 +31006,7 @@
     "name": "2Dark"
   },
   "435150": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G720_MC8",
@@ -31024,9 +31015,10 @@
       }
     ],
     "folders": [
-      "Divinity_-_Original_Sin_2_-_Definitive_Edition"
+      "Divinity_-_Original_Sin_2_-_Definitive_Edition",
+      "Divinity_Original_Sin_Enhanced_Edition"
     ],
-    "name": "Divinity - Original Sin 2 - Definitive Edition"
+    "name": "Divinity: Original Sin 2 - Definitive Edition"
   },
   "4355320": {
     "config_count": 16,
@@ -40156,6 +40148,20 @@
     ],
     "name": "Dirt Showdown"
   },
+  "name:dirt4": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__650",
+        "m": "G988N",
+        "s": "Adreno (TM) 650"
+      }
+    ],
+    "folders": [
+      "DiRT4"
+    ],
+    "name": "Dirt4"
+  },
   "name:dirtfish-dirt4": {
     "config_count": 1,
     "devices": [],
@@ -43769,6 +43775,14 @@
     ],
     "name": "Resident Evil 2 Dx11"
   },
+  "name:resident-evil-5-gold-edition-multi8-elamigos": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Resident_Evil_5_Gold_Edition_MULTi8_-_ElAmigos"
+    ],
+    "name": "Resident Evil 5 Gold Edition Multi8 Elamigos"
+  },
   "name:rignetta-s-adventure-ver1": {
     "config_count": 1,
     "devices": [],
@@ -43966,6 +43980,14 @@
       "Snapshot__Lewd_Shores"
     ],
     "name": "Snapshot Lewd Shores"
+  },
+  "name:sniper-ghost-warrior-1": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 1"
   },
   "name:sniperv2launcher": {
     "config_count": 1,
