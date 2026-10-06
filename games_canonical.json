@@ -1978,7 +1978,7 @@
     "name": "Horizon Zero Dawn\u2122 Complete Edition"
   },
   "115320": {
-    "config_count": 78,
+    "config_count": 79,
     "devices": [
       {
         "d": "Adreno__TM__640",
@@ -2054,6 +2054,11 @@
         "d": "ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_",
         "m": "A576B",
         "s": "ANGLE ((Samsung Xclipse 550) on Vulkan 1.4.304)"
+      },
+      {
+        "d": "Immortalis_MC12",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC12"
       },
       {
         "d": "Adreno__TM__610",
@@ -2938,7 +2943,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 424,
+    "config_count": 425,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -38371,7 +38376,7 @@
     "name": "Last Epoch"
   },
   "911400": {
-    "config_count": 40,
+    "config_count": 41,
     "devices": [
       {
         "d": "MT6833V_PNZA",
@@ -38402,11 +38407,6 @@
         "d": "Adreno__TM__640",
         "m": "M2102J20SG",
         "s": "Adreno (TM) 640"
-      },
-      {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
       },
       {
         "d": "G57",
@@ -38442,6 +38442,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       },
       {
         "d": "Adreno__TM__829",
@@ -44052,6 +44057,20 @@
       "Snapshot__Lewd_Shores"
     ],
     "name": "Snapshot Lewd Shores"
+  },
+  "name:sniper-x86": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G76_MC4",
+        "m": "Mali",
+        "s": "Mali-G76 MC4"
+      }
+    ],
+    "folders": [
+      "Sniper_x86"
+    ],
+    "name": "Sniper X86"
   },
   "name:sniperv2launcher": {
     "config_count": 1,
