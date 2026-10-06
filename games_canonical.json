@@ -4950,6 +4950,20 @@
     ],
     "name": "Lost Ruins"
   },
+  "1307710": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "GRID"
+    ],
+    "name": "GRID Legends"
+  },
   "1310510": {
     "config_count": 1,
     "devices": [],
@@ -8967,25 +8981,6 @@
     ],
     "name": "Crab Game"
   },
-  "1785910": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "Odin3",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__735",
-        "m": "24069PC21G",
-        "s": "Adreno (TM) 735"
-      }
-    ],
-    "folders": [
-      "SB"
-    ],
-    "name": "SBK\u212222"
-  },
   "1790600": {
     "config_count": 168,
     "devices": [
@@ -11048,7 +11043,7 @@
     "name": "Dokimon Quest"
   },
   "202170": {
-    "config_count": 76,
+    "config_count": 73,
     "devices": [
       {
         "d": "MT6878",
@@ -11231,8 +11226,7 @@
       "Sleeping_Dogs_",
       "Sleeping_Dogs_-_Definitive_Edition__________________________",
       "SleepingDogs",
-      "Sleeping_Dogs_-_Definitive_Edition",
-      "Sleeping_Dogs_Definitive_Edition"
+      "Sleeping_Dogs_-_Definitive_Edition"
     ],
     "name": "Sleeping Dogs"
   },
@@ -15868,7 +15862,7 @@
     "name": "GraalOnline Era"
   },
   "2358720": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -19044,7 +19038,7 @@
     "name": "POOLS"
   },
   "2668510": {
-    "config_count": 48,
+    "config_count": 49,
     "devices": [
       {
         "d": "SM8635",
@@ -19649,6 +19643,25 @@
       "SAMURAI_WARRIORS_4_DX"
     ],
     "name": "SAMURAI WARRIORS 4 DX"
+  },
+  "2723810": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
+      }
+    ],
+    "folders": [
+      "SB"
+    ],
+    "name": "SBcatfight game"
   },
   "272510": {
     "config_count": 12,
@@ -21796,7 +21809,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -21817,10 +21830,16 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -22222,7 +22241,7 @@
     "name": "Platypus"
   },
   "307690": {
-    "config_count": 10,
+    "config_count": 13,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -22251,7 +22270,8 @@
       }
     ],
     "folders": [
-      "Sleeping_Dogs__Definitive_Edition"
+      "Sleeping_Dogs__Definitive_Edition",
+      "Sleeping_Dogs_Definitive_Edition"
     ],
     "name": "Sleeping Dogs: Definitive Edition"
   },
@@ -22483,7 +22503,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 48,
+    "config_count": 49,
     "devices": [
       {
         "d": "G78",
@@ -22586,6 +22606,7 @@
       "___3____________",
       "________3_____________",
       "bla",
+      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -27372,7 +27393,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 7,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -27393,11 +27414,6 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -30835,20 +30851,6 @@
       "LEGO_MARVEL_s_Avengers"
     ],
     "name": "LEGO\u00ae MARVEL's Avengers Season Pass"
-  },
-  "42700": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Call_of_Duty_-_Black_Ops"
-    ],
-    "name": "Call of Duty\u00ae: Black Ops"
   },
   "427190": {
     "config_count": 1,
@@ -38304,7 +38306,7 @@
     "name": "BioShock\u00ae 2"
   },
   "8870": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "G720_MC7",
@@ -38330,6 +38332,11 @@
         "d": "Adreno__TM__722",
         "m": "RMX5131",
         "s": "Adreno (TM) 722"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "G988U",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
@@ -38577,7 +38584,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 8,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -38593,16 +38600,10 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -41902,7 +41903,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3017,
+    "config_count": 3021,
     "devices": [
       {
         "d": "G52_MC2",
