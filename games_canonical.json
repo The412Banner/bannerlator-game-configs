@@ -40200,6 +40200,14 @@
     ],
     "name": "Cod2Sp S"
   },
+  "name:codsp": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "CoDSP"
+    ],
+    "name": "Codsp"
+  },
   "name:codwaw": {
     "config_count": 2,
     "devices": [
@@ -42046,7 +42054,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3032,
+    "config_count": 3033,
     "devices": [
       {
         "d": "G52_MC2",
