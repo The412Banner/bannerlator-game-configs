@@ -2970,7 +2970,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 430,
+    "config_count": 432,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -6353,7 +6353,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 108,
+    "config_count": 107,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -14822,7 +14822,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 266,
+    "config_count": 269,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -18627,6 +18627,26 @@
       "Dispatch"
     ],
     "name": "Dispatch"
+  },
+  "2593290": {
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "RMX3363",
+        "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "S948U",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "Dragon_s_Dogma_-_Dark_Arisen",
+      "Dragon_s_Dogma__Dark_Arisen"
+    ],
+    "name": "Dragon's Dogma 2: Dark Arisen Expansion"
   },
   "2594540": {
     "config_count": 1,
@@ -23599,7 +23619,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1802,
+    "config_count": 1803,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -27597,7 +27617,7 @@
     "name": "Batman\u2122: Arkham Knight Season Pass"
   },
   "367500": {
-    "config_count": 6,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -27608,21 +27628,10 @@
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_5",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Adreno__TM__642L",
-        "m": "RMX3363",
-        "s": "Adreno (TM) 642L"
-      },
-      {
-        "d": "Adreno__TM__840",
-        "m": "S948U",
-        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
-      "Dragon_s_Dogma__Dark_Arisen",
-      "Dragon_s_Dogma_-_Dark_Arisen"
+      "Dragon_s_Dogma__Dark_Arisen"
     ],
     "name": "Dragon's Dogma: Dark Arisen"
   },
@@ -40772,6 +40781,14 @@
       "FFXIII"
     ],
     "name": "Ffxiii"
+  },
+  "name:fifa-20": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "FIFA_20"
+    ],
+    "name": "Fifa 20"
   },
   "name:fifa14": {
     "config_count": 1,
