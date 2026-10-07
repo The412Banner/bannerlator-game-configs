@@ -2962,7 +2962,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 429,
+    "config_count": 430,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -14602,7 +14602,7 @@
     "name": "Tomb Raider II (1997)"
   },
   "2254490": {
-    "config_count": 16,
+    "config_count": 17,
     "devices": [
       {
         "d": "G52_MC2",
@@ -42024,7 +42024,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3030,
+    "config_count": 3031,
     "devices": [
       {
         "d": "G52_MC2",
@@ -42445,11 +42445,6 @@
         "d": "Adreno__TM__610",
         "m": "CPH2725",
         "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "G77_MC9",
-        "m": "Mali",
-        "s": "Mali-G77 MC9"
       },
       {
         "d": "Adreno__TM__750",
@@ -42962,6 +42957,11 @@
         "s": "Adreno (TM) 725"
       },
       {
+        "d": "G77_MC9",
+        "m": "Mali",
+        "s": "Mali-G77 MC9"
+      },
+      {
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
@@ -43149,7 +43149,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 224,
+    "config_count": 225,
     "devices": [
       {
         "d": "G615_MC2",
@@ -43445,6 +43445,11 @@
         "d": "Adreno__TM__840",
         "m": "S948B",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__829",
+        "m": "I2508",
+        "s": "Adreno (TM) 829"
       },
       {
         "d": "Adreno__TM__740",
