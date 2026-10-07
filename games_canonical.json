@@ -9506,7 +9506,7 @@
     "name": "Asphalt Legends "
   },
   "1817070": {
-    "config_count": 24,
+    "config_count": 25,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -9572,6 +9572,11 @@
         "d": "Adreno__TM__830",
         "m": "S931B",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "OPD2403",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
