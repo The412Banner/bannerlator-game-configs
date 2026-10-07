@@ -15441,7 +15441,7 @@
     "name": "Sky: Children of the Light"
   },
   "232890": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -15455,7 +15455,8 @@
       }
     ],
     "folders": [
-      "__Stronghold_Crusader"
+      "__Stronghold_Crusader",
+      "Stronghold_Crusader_HD"
     ],
     "name": "Stronghold Crusader 2"
   },
@@ -16939,6 +16940,25 @@
       "hulk"
     ],
     "name": "Space Hulk (Classic)"
+  },
+  "242640": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "NX789J",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "Styx_-_Master_of_Shadows"
+    ],
+    "name": "Styx: Master of Shadows"
   },
   "2426530": {
     "config_count": 1,
@@ -30113,14 +30133,6 @@
       "_Stronghold_2"
     ],
     "name": "Stronghold 2: Steam Edition"
-  },
-  "40970": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Stronghold_Crusader_HD"
-    ],
-    "name": "Stronghold Crusader HD (2012)"
   },
   "409710": {
     "config_count": 5,
