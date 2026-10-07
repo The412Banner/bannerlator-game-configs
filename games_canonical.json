@@ -500,7 +500,7 @@
     "name": "Torque Drift"
   },
   "1030300": {
-    "config_count": 51,
+    "config_count": 52,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -586,6 +586,11 @@
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__644",
+        "m": "M556B",
+        "s": "Adreno (TM) 644"
       },
       {
         "d": "G610_MC2",
@@ -4949,20 +4954,6 @@
       "Lost_Ruins"
     ],
     "name": "Lost Ruins"
-  },
-  "1307710": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "GRID"
-    ],
-    "name": "GRID Legends"
   },
   "1310510": {
     "config_count": 1,
@@ -15441,7 +15432,7 @@
     "name": "Sky: Children of the Light"
   },
   "232890": {
-    "config_count": 13,
+    "config_count": 12,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -15455,8 +15446,7 @@
       }
     ],
     "folders": [
-      "__Stronghold_Crusader",
-      "Stronghold_Crusader_HD"
+      "__Stronghold_Crusader"
     ],
     "name": "Stronghold Crusader 2"
   },
@@ -23522,7 +23512,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1798,
+    "config_count": 1799,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -27431,7 +27421,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 5,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -27452,6 +27442,11 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -30133,6 +30128,14 @@
       "_Stronghold_2"
     ],
     "name": "Stronghold 2: Steam Edition"
+  },
+  "40970": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Stronghold_Crusader_HD"
+    ],
+    "name": "Stronghold Crusader HD (2012)"
   },
   "409710": {
     "config_count": 5,
