@@ -14577,7 +14577,7 @@
       "Dead_Pool",
       "Deadpool"
     ],
-    "name": "Dead"
+    "name": "Deadpool"
   },
   "224760": {
     "config_count": 1,
@@ -21932,7 +21932,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -21953,10 +21953,16 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -22625,7 +22631,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 49,
+    "config_count": 48,
     "devices": [
       {
         "d": "G78",
@@ -22728,7 +22734,6 @@
       "___3____________",
       "________3_____________",
       "bla",
-      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -31004,6 +31009,20 @@
     ],
     "name": "LEGO\u00ae MARVEL's Avengers Season Pass"
   },
+  "42700": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Call_of_Duty_-_Black_Ops"
+    ],
+    "name": "Call of Duty\u00ae: Black Ops"
+  },
   "427190": {
     "config_count": 1,
     "devices": [],
@@ -38765,7 +38784,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 8,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -38781,16 +38800,10 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
