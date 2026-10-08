@@ -4987,20 +4987,6 @@
     ],
     "name": "Lost Ruins"
   },
-  "1307710": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "GRID"
-    ],
-    "name": "GRID Legends"
-  },
   "1310510": {
     "config_count": 1,
     "devices": [],
@@ -21950,7 +21936,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 7,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -21971,16 +21957,10 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -27578,7 +27558,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 5,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -27599,6 +27579,11 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -38802,7 +38787,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 8,
     "devices": [
       {
         "d": "G615_MC6",
@@ -38818,10 +38803,16 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -41460,6 +41451,14 @@
     ],
     "name": "Little Nightmares Enhanced"
   },
+  "name:loadingbay": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "LoadingBay"
+    ],
+    "name": "Loadingbay"
+  },
   "name:lunaabyss-wingdk-shipping": {
     "config_count": 1,
     "devices": [
@@ -42142,7 +42141,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3044,
+    "config_count": 3046,
     "devices": [
       {
         "d": "G52_MC2",
