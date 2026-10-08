@@ -14799,7 +14799,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 269,
+    "config_count": 272,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -15112,14 +15112,14 @@
         "s": "PowerVR Rogue GE8320"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
       },
       {
         "d": "G615_MC6",
@@ -15127,9 +15127,9 @@
         "s": "Mali-G615 MC6"
       },
       {
-        "d": "G68",
+        "d": "G57_MC2",
         "m": "Mali",
-        "s": "Mali-G68"
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -23626,7 +23626,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1806,
+    "config_count": 1808,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -27378,7 +27378,7 @@
     "name": "Mafia III: Definitive Edition"
   },
   "361420": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -27387,7 +27387,8 @@
       }
     ],
     "folders": [
-      "ASTRONEER"
+      "ASTRONEER",
+      "Astroneer"
     ],
     "name": "ASTRONEER"
   },
