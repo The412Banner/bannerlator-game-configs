@@ -6353,7 +6353,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 107,
+    "config_count": 108,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -21921,7 +21921,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -21942,10 +21942,16 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -38739,7 +38745,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 8,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -38755,16 +38761,10 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -40781,14 +40781,6 @@
       "FFXIII"
     ],
     "name": "Ffxiii"
-  },
-  "name:fifa-20": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "FIFA_20"
-    ],
-    "name": "Fifa 20"
   },
   "name:fifa14": {
     "config_count": 1,
@@ -44498,7 +44490,7 @@
     "name": "The Amazing Spider Man"
   },
   "name:the-amazing-spider-man-2": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "The_Amazing_Spider-Man_2"
