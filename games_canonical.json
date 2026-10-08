@@ -500,7 +500,7 @@
     "name": "Torque Drift"
   },
   "1030300": {
-    "config_count": 52,
+    "config_count": 53,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -591,6 +591,11 @@
         "d": "Adreno__TM__644",
         "m": "M556B",
         "s": "Adreno (TM) 644"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "G610_MC2",
@@ -4982,6 +4987,20 @@
     ],
     "name": "Lost Ruins"
   },
+  "1307710": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "GRID"
+    ],
+    "name": "GRID Legends"
+  },
   "1310510": {
     "config_count": 1,
     "devices": [],
@@ -7141,7 +7160,7 @@
     "name": "Selaco"
   },
   "1593500": {
-    "config_count": 167,
+    "config_count": 168,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -11640,12 +11659,17 @@
     "name": "Castle Crashers\u00ae"
   },
   "204450": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__750",
         "m": "23127PN0CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
@@ -23630,7 +23654,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1809,
+    "config_count": 1810,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -27549,7 +27573,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 7,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -27570,11 +27594,6 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
