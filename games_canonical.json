@@ -21274,7 +21274,7 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 17,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -21300,11 +21300,6 @@
         "d": "Adreno__TM__830",
         "m": "CPH2653",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "V2425A",
-        "s": "Adreno (TM) 750"
       },
       {
         "d": "G57_MC2",
@@ -21333,7 +21328,6 @@
       "The_Witcher_3_-_Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
-      "Witcher_1",
       "_Witcher",
       "witcher3"
     ],
@@ -26108,7 +26102,7 @@
     "name": "Megabonk"
   },
   "3405690": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "G57_MC2",
@@ -44739,6 +44733,20 @@
       "Wasteland_3_Colorado_Survival_Gear_DLC"
     ],
     "name": "Wasteland 3 Colorado Survival Gear Dlc"
+  },
+  "name:witcher-1": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "V2425A",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Witcher_1"
+    ],
+    "name": "Witcher 1"
   },
   "name:wizard-school-exchange-student": {
     "config_count": 1,
