@@ -15958,7 +15958,7 @@
     "name": "GraalOnline Era"
   },
   "2358720": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -16004,6 +16004,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "TB321FU",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -22672,7 +22677,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 49,
+    "config_count": 48,
     "devices": [
       {
         "d": "G78",
@@ -22775,7 +22780,6 @@
       "___3____________",
       "________3_____________",
       "bla",
-      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -23677,7 +23681,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1817,
+    "config_count": 1818,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -31065,6 +31069,20 @@
       "LEGO_MARVEL_s_Avengers"
     ],
     "name": "LEGO\u00ae MARVEL's Avengers Season Pass"
+  },
+  "42700": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Call_of_Duty_-_Black_Ops"
+    ],
+    "name": "Call of Duty\u00ae: Black Ops"
   },
   "427190": {
     "config_count": 1,
@@ -43305,7 +43323,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 225,
+    "config_count": 226,
     "devices": [
       {
         "d": "G615_MC2",
