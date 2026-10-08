@@ -13529,7 +13529,7 @@
     "name": "Grim Dawn"
   },
   "220": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -13545,6 +13545,11 @@
         "d": "Adreno__TM__750",
         "m": "Pocket_FIT",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "Odin2",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
