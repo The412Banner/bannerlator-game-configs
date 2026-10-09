@@ -8544,7 +8544,7 @@
     "name": "Kusan: City of Wolves"
   },
   "1715130": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -9032,7 +9032,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 168,
+    "config_count": 169,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -9275,6 +9275,11 @@
         "s": "Adreno (TM) 830"
       },
       {
+        "d": "Adreno__TM__830",
+        "m": "NX789J_V1B",
+        "s": "Adreno (TM) 830"
+      },
+      {
         "d": "Immortalis_MC11",
         "m": "G715",
         "s": "Mali-G715-Immortalis MC11"
@@ -9283,6 +9288,7 @@
     "folders": [
       "DRAGON_BALL_Sparking__ZERO",
       "DRAGON_BALL__Sparking__ZERO",
+      "DragonBall_SparkingZERO",
       "SPARKING_ZERO",
       "SparkingZERO"
     ],
@@ -12318,7 +12324,7 @@
     "name": "Crysis 2 Remastered"
   },
   "2096610": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "G720_MC7",
@@ -12329,8 +12335,7 @@
     "folders": [
       "Crysis",
       "Crysis_3",
-      "Crysis_3_Remastered",
-      "Crysis_Remastered"
+      "Crysis_3_Remastered"
     ],
     "name": "Crysis 3 Remastered"
   },
@@ -16047,7 +16052,7 @@
     "name": "Mass Effect 2 (2010) Edition"
   },
   "236430": {
-    "config_count": 20,
+    "config_count": 17,
     "devices": [
       {
         "d": "G720_MC7",
@@ -16083,21 +16088,10 @@
         "d": "Adreno__TM__619",
         "m": "22111317PG",
         "s": "Adreno (TM) 619"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
-      "DARK_SOULS__II",
-      "DarkSoulsII"
+      "DARK_SOULS__II"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -17657,7 +17651,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -18923,7 +18917,7 @@
     "name": "ELDEN RING NIGHTREIGN"
   },
   "2623190": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -18944,11 +18938,17 @@
         "d": "Adreno__TM__830",
         "m": "NX799J",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "TB321FU",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "TES4__Oblivion",
-      "The_Elder_Scrolls_IV_-_Oblivion_____________________________"
+      "The_Elder_Scrolls_IV_-_Oblivion_____________________________",
+      "OblivionRemastered"
     ],
     "name": "The Elder Scrolls IV: Oblivion Remastered"
   },
@@ -22353,7 +22353,7 @@
     "name": "Portrait of a Torn"
   },
   "3059520": {
-    "config_count": 26,
+    "config_count": 25,
     "devices": [
       {
         "d": "G57_MC2",
@@ -22420,8 +22420,7 @@
       "F1_2011",
       "F1_2013",
       "F1_2014",
-      "F1_2015",
-      "F1_2025"
+      "F1_2015"
     ],
     "name": "F1\u00ae 25"
   },
@@ -23701,7 +23700,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1823,
+    "config_count": 1824,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -28133,7 +28132,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 39,
+    "config_count": 42,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -28211,6 +28210,16 @@
         "s": "Adreno (TM) 830"
       },
       {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
+      },
+      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -28223,6 +28232,7 @@
       "DarkSoulsRemastered",
       "DARK_SOULS_-_REMASTERED",
       "DARK_SOULS_III",
+      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -30768,7 +30778,7 @@
     "name": "Mushi"
   },
   "4195170": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -35775,7 +35785,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -35794,8 +35804,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2",
-      "LEGOMARVEL"
+      "LEGO__Marvel_Super_Heroes_2"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -40594,20 +40603,6 @@
       "Dragon_Ball_Fighters_Z"
     ],
     "name": "Dragon Ball Fighters Z"
-  },
-  "name:dragonball-sparkingzero": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "NX789J_V1B",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "DragonBall_SparkingZERO"
-    ],
-    "name": "Dragonball Sparkingzero"
   },
   "name:dragonballzkakarot": {
     "config_count": 1,
