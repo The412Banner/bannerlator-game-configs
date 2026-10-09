@@ -9032,7 +9032,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 169,
+    "config_count": 170,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -10384,12 +10384,10 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 3,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "MAFIA",
-      "Mafia",
-      "Mafia_-_Definitive_Edition"
+      "MAFIA"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -17316,14 +17314,6 @@
     ],
     "name": "Assetto Corsa"
   },
-  "244450": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Men_of_War_-_Assault_Squad_2"
-    ],
-    "name": "Men of War: Assault Squad 2"
-  },
   "2444750": {
     "config_count": 1,
     "devices": [],
@@ -19078,7 +19068,7 @@
     "name": "Subnautica"
   },
   "2651280": {
-    "config_count": 24,
+    "config_count": 25,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -19114,6 +19104,11 @@
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "2107113SR",
+        "s": "Adreno (TM) 660"
       },
       {
         "d": "Adreno__TM__619",
@@ -21345,17 +21340,12 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 10,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__840",
-        "m": "CPH2745",
-        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__830",
@@ -21375,7 +21365,6 @@
     ],
     "folders": [
       "The_Witcher_3__Wild_Hunt_-_Complete_Edition",
-      "The_Witcher_3",
       "The_Witcher_3_-_Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
@@ -21986,7 +21975,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 7,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -22007,16 +21996,10 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -22217,7 +22200,7 @@
     "name": "Unturned"
   },
   "3050220": {
-    "config_count": 34,
+    "config_count": 36,
     "devices": [
       {
         "d": "2412DPC0AG",
@@ -22243,11 +22226,6 @@
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__730",
@@ -22283,6 +22261,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -23690,7 +23673,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1826,
+    "config_count": 1828,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24863,11 +24846,6 @@
         "s": "Adreno (TM) 840"
       },
       {
-        "d": "Adreno__TM__610",
-        "m": "LX2",
-        "s": "Adreno (TM) 610"
-      },
-      {
         "d": "Adreno__TM__730",
         "m": "CPH2487",
         "s": "Adreno (TM) 730"
@@ -24881,6 +24859,11 @@
         "d": "Adreno__TM__710",
         "m": "NX1",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "LX2",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__830",
@@ -30360,6 +30343,15 @@
     ],
     "name": "BioShock\u2122 2 Remastered"
   },
+  "40990": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Mafia",
+      "Mafia_-_Definitive_Edition"
+    ],
+    "name": "Mafia"
+  },
   "4100940": {
     "config_count": 7,
     "devices": [
@@ -33140,7 +33132,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 45,
+    "config_count": 48,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -33236,6 +33228,11 @@
         "d": "Adreno__TM__750",
         "m": "TB321FU",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "CPH2745",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__750",
@@ -35668,6 +35665,14 @@
     ],
     "name": "Journey"
   },
+  "64000": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Men_of_War_-_Assault_Squad_2"
+    ],
+    "name": "Men of War: Assault Squad"
+  },
   "640590": {
     "config_count": 1,
     "devices": [],
@@ -37207,7 +37212,7 @@
     "name": "The Riftbreaker"
   },
   "782330": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -37221,7 +37226,8 @@
       }
     ],
     "folders": [
-      "DOOM_Eternal"
+      "DOOM_Eternal",
+      "DOOMEternal"
     ],
     "name": "DOOM Eternal"
   },
@@ -38883,7 +38889,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 8,
     "devices": [
       {
         "d": "G615_MC6",
@@ -38899,10 +38905,16 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
