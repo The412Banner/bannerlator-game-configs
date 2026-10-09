@@ -3984,7 +3984,7 @@
     "name": "Burnout\u2122 Paradise Remastered"
   },
   "1238810": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "SM8735",
@@ -3998,12 +3998,12 @@
       },
       {
         "d": "Adreno__TM__825",
-        "m": "25053PC47G",
+        "m": "25053RT47C",
         "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__825",
-        "m": "25053RT47C",
+        "m": "25053PC47G",
         "s": "Adreno (TM) 825"
       }
     ],
@@ -4084,7 +4084,7 @@
     "name": "Battlefield 3\u2122"
   },
   "1238840": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -4120,6 +4120,11 @@
         "d": "Adreno__TM__830",
         "m": "CPH2653",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
@@ -7137,7 +7142,7 @@
     "name": "Blood West"
   },
   "1588550": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -10363,10 +10368,12 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [],
     "folders": [
-      "MAFIA"
+      "MAFIA",
+      "Mafia",
+      "Mafia_-_Definitive_Edition"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -22452,7 +22459,7 @@
     "name": "MotoGP\u212225"
   },
   "307780": {
-    "config_count": 41,
+    "config_count": 42,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -26733,7 +26740,7 @@
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
   },
   "3493540": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G57_MC2",
@@ -30340,15 +30347,6 @@
     ],
     "name": "BioShock\u2122 2 Remastered"
   },
-  "40990": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Mafia",
-      "Mafia_-_Definitive_Edition"
-    ],
-    "name": "Mafia"
-  },
   "4100940": {
     "config_count": 7,
     "devices": [
@@ -33649,6 +33647,14 @@
       "dacapo"
     ],
     "name": "Da Capo"
+  },
+  "5201760": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "tra"
+    ],
+    "name": "ARC Raiders - Frozen Trail Collector Set"
   },
   "521890": {
     "config_count": 2,
