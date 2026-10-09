@@ -880,7 +880,7 @@
     "name": "Dinkum"
   },
   "1063040": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "G52_MC2",
@@ -15761,7 +15761,7 @@
     "name": "Rise of Eros"
   },
   "234670": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "G68_MC4",
@@ -38683,7 +38683,7 @@
     "name": "Last Epoch"
   },
   "911400": {
-    "config_count": 41,
+    "config_count": 42,
     "devices": [
       {
         "d": "MT6833V_PNZA",
@@ -38721,11 +38721,6 @@
         "s": "Mali-G57"
       },
       {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      },
-      {
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
@@ -38754,6 +38749,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__829",
