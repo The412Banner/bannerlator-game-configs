@@ -815,7 +815,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -851,10 +851,16 @@
         "d": "Adreno__TM__740",
         "m": "2211133C",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Ori_and_the_Will_of_the_Wisps",
+      "Ori",
       "Ori_and_the_will_of_the_wisps"
     ],
     "name": "Ori and the Will of the Wisps"
@@ -3523,7 +3529,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 54,
+    "config_count": 38,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -3619,24 +3625,12 @@
         "d": "Adreno__TM__722",
         "m": "CPH2825",
         "s": "Adreno (TM) 722"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "M2007J3SY",
-        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
       "Need_for_Speed__Heat",
       "nfs",
-      "Need_for_Speed_Heat",
-      "Speed",
-      "speed"
+      "Need_for_Speed_Heat"
     ],
     "name": "Need for Speed\u2122 Heat"
   },
@@ -11509,33 +11503,8 @@
     "name": "Hitman: Absolution\u2122"
   },
   "203160": {
-    "config_count": 30,
+    "config_count": 16,
     "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
-      },
       {
         "d": "Adreno__TM__740",
         "m": "S911U",
@@ -11563,12 +11532,11 @@
       }
     ],
     "folders": [
-      "TombRaider",
       "Tomb_Raider",
       "Tomb_Raider_2013",
       "Tomb_Raider_Game_of_the_Year"
     ],
-    "name": "Tomb Raider Game of the Year"
+    "name": "Tomb Raider"
   },
   "203650": {
     "config_count": 3,
@@ -14669,7 +14637,7 @@
     "name": "Tomb Raider II (1997)"
   },
   "2254490": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "G52_MC2",
@@ -16120,6 +16088,20 @@
       "Europa_Universalis_IV"
     ],
     "name": "Europa Universalis IV"
+  },
+  "2369390": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "FarCry"
+    ],
+    "name": "Far Cry\u00ae 6"
   },
   "2370000": {
     "config_count": 1,
@@ -18847,22 +18829,12 @@
     "name": "Mount & Blade II: Bannerlord"
   },
   "261570": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
         "m": "M2012K11AG",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "2211133C",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       },
       {
         "d": "Adreno__TM__710",
@@ -18872,7 +18844,6 @@
     ],
     "folders": [
       "Ori_and_the_Blind_Forest",
-      "Ori",
       "Ori_and_The_Blind_Forest_-_Definitive_Edition"
     ],
     "name": "Ori and the Blind Forest"
@@ -23321,7 +23292,7 @@
     "name": "Mall Simulator"
   },
   "3183760": {
-    "config_count": 4,
+    "config_count": 20,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23337,10 +23308,21 @@
         "d": "Adreno__TM__750",
         "m": "NX769J",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
-      "speed"
+      "speed",
+      "Speed"
     ],
     "name": "SpeedRunners 2: King of Speed"
   },
@@ -23658,7 +23640,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1829,
+    "config_count": 1831,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24506,11 +24488,6 @@
         "s": "Adreno (TM) 840"
       },
       {
-        "d": "Adreno__TM__730",
-        "m": "S908E",
-        "s": "Adreno (TM) 730"
-      },
-      {
         "d": "Adreno__TM__618",
         "m": "A715F",
         "s": "Adreno (TM) 618"
@@ -24849,6 +24826,11 @@
         "d": "Adreno__TM__610",
         "m": "LX2",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "S908E",
+        "s": "Adreno (TM) 730"
       },
       {
         "d": "Adreno__TM__830",
@@ -27147,16 +27129,42 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 4,
+    "config_count": 18,
     "devices": [
       {
         "d": "G57_MC4",
         "m": "Mali",
         "s": "Mali-G57 MC4"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
-      "Atla"
+      "Atla",
+      "TombRaider"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -30611,7 +30619,7 @@
     ],
     "name": "My Winter Car"
   },
-  "4165910": {
+  "4165890": {
     "config_count": 5,
     "devices": [
       {
@@ -30623,7 +30631,7 @@
     "folders": [
       "Steam"
     ],
-    "name": "Steam Machine"
+    "name": "Steam Frame"
   },
   "418240": {
     "config_count": 2,
@@ -31937,7 +31945,7 @@
     "name": "PES 2017"
   },
   "4570720": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -31946,7 +31954,6 @@
       }
     ],
     "folders": [
-      "DragonSword_Awakening",
       "DragonSword___Awakening",
       "Dragon_Sword___Awakening"
     ],
@@ -34284,7 +34291,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 21,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -34330,11 +34337,6 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -34343,8 +34345,7 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry",
-      "FarCry"
+      "far_cry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -40635,6 +40636,14 @@
     ],
     "name": "Dragonballzkakarot"
   },
+  "name:dragonsword-awakening": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "DragonSword_Awakening"
+    ],
+    "name": "Dragonsword Awakening"
+  },
   "name:driver-san-francisco": {
     "config_count": 1,
     "devices": [],
@@ -42268,7 +42277,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3054,
+    "config_count": 3056,
     "devices": [
       {
         "d": "G52_MC2",
