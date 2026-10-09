@@ -7780,7 +7780,7 @@
     "name": "Minishoot' Adventures"
   },
   "1636440": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "A566E",
@@ -17315,14 +17315,6 @@
       "Assetto_Corsa"
     ],
     "name": "Assetto Corsa"
-  },
-  "244450": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Men_of_War_-_Assault_Squad_2"
-    ],
-    "name": "Men of War: Assault Squad 2"
   },
   "2444750": {
     "config_count": 1,
@@ -35667,6 +35659,14 @@
     ],
     "name": "Journey"
   },
+  "64000": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Men_of_War_-_Assault_Squad_2"
+    ],
+    "name": "Men of War: Assault Squad"
+  },
   "640590": {
     "config_count": 1,
     "devices": [],
@@ -38839,14 +38839,6 @@
     ],
     "name": "Cartoony Cars 2"
   },
-  "917040": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "KikiKaikai"
-    ],
-    "name": "Groove Coaster - KIKIKAIKAI"
-  },
   "919410": {
     "config_count": 1,
     "devices": [
@@ -41494,6 +41486,14 @@
       "kick_win"
     ],
     "name": "Kick Win"
+  },
+  "name:kikikaikai": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "KikiKaikai"
+    ],
+    "name": "Kikikaikai"
   },
   "name:kinebox": {
     "config_count": 1,
@@ -44412,6 +44412,14 @@
       "SHProto"
     ],
     "name": "Shproto"
+  },
+  "name:silent-hill-3": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "SILENT_HILL_3"
+    ],
+    "name": "Silent Hill 3"
   },
   "name:skyrimse": {
     "config_count": 2,
