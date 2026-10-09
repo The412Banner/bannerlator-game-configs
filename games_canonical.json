@@ -2975,7 +2975,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 434,
+    "config_count": 438,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3151,11 +3151,6 @@
         "d": "Adreno__TM__750",
         "m": "V2425A",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__710",
-        "m": "A366E",
-        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__710",
@@ -3411,6 +3406,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "A366E",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__735",
@@ -5303,14 +5303,6 @@
       "DRACU-RIOT_"
     ],
     "name": "DRACU-RIOT!"
-  },
-  "1340720": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "StateOfDecay"
-    ],
-    "name": "State of Decay 3"
   },
   "1343240": {
     "config_count": 2,
@@ -10371,12 +10363,10 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 3,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "MAFIA",
-      "Mafia",
-      "Mafia_-_Definitive_Edition"
+      "MAFIA"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -14845,7 +14835,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 273,
+    "config_count": 274,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -15158,11 +15148,6 @@
         "s": "PowerVR Rogue GE8320"
       },
       {
-        "d": "G720_MC8",
-        "m": "Mali",
-        "s": "Mali-G720 MC8"
-      },
-      {
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
@@ -15176,6 +15161,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -21326,7 +21316,7 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 17,
+    "config_count": 15,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -21354,16 +21344,6 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "V2425A",
-        "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__840",
         "m": "25102PCBEG",
         "s": "Adreno (TM) 840"
@@ -21385,8 +21365,6 @@
       "The_Witcher_3_-_Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
-      "Witcher_1",
-      "_Witcher",
       "witcher3"
     ],
     "name": "The Witcher 3: Wild Hunt - Complete Edition"
@@ -23692,7 +23670,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1820,
+    "config_count": 1822,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24815,11 +24793,6 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "Adreno__TM__710",
-        "m": "W09",
-        "s": "Adreno (TM) 710"
-      },
-      {
         "d": "Adreno__TM__660",
         "m": "2107113SG",
         "s": "Adreno (TM) 660"
@@ -24883,6 +24856,11 @@
         "d": "Adreno__TM__730",
         "m": "CPH2487",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "W09",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__830",
@@ -30362,6 +30340,15 @@
     ],
     "name": "BioShock\u2122 2 Remastered"
   },
+  "40990": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Mafia",
+      "Mafia_-_Definitive_Edition"
+    ],
+    "name": "Mafia"
+  },
   "4100940": {
     "config_count": 7,
     "devices": [
@@ -33058,7 +33045,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -33093,6 +33080,7 @@
     ],
     "folders": [
       "State_of_Decay_2__Juggernaut_Edition",
+      "StateOfDecay",
       "StateOfDecay2"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
@@ -33142,7 +33130,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 37,
+    "config_count": 39,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -33238,11 +33226,18 @@
         "d": "Adreno__TM__750",
         "m": "TB321FU",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "V2425A",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "The_Witcher_3",
-      "The_Witcher_3__Wild_Hunt"
+      "The_Witcher_3__Wild_Hunt",
+      "Witcher_1",
+      "_Witcher"
     ],
     "name": "The Witcher 3: Wild Hunt \u2014 Songs of the Past"
   },
