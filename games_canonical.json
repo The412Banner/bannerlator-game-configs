@@ -17630,7 +17630,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -19190,6 +19190,14 @@
       "POOLS"
     ],
     "name": "POOLS"
+  },
+  "266840": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Age_of_Mythology__Extended_Edition"
+    ],
+    "name": "Age of Mythology: Extended Edition"
   },
   "2668510": {
     "config_count": 50,
@@ -22677,7 +22685,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 48,
+    "config_count": 49,
     "devices": [
       {
         "d": "G78",
@@ -22780,6 +22788,7 @@
       "___3____________",
       "________3_____________",
       "bla",
+      "Call_of_Duty_-_Black_Ops",
       "Call_of_Duty__Black_Ops_III"
     ],
     "name": "Call of Duty\u00ae: Black Ops III"
@@ -31070,20 +31079,6 @@
     ],
     "name": "LEGO\u00ae MARVEL's Avengers Season Pass"
   },
-  "42700": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Call_of_Duty_-_Black_Ops"
-    ],
-    "name": "Call of Duty\u00ae: Black Ops"
-  },
   "427190": {
     "config_count": 1,
     "devices": [],
@@ -35763,11 +35758,15 @@
         "d": "Adreno__TM__640",
         "m": "M2102J20SG",
         "s": "Adreno (TM) 640"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2",
-      "LEGOMARVEL"
+      "LEGO__Marvel_Super_Heroes_2"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -42193,7 +42192,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3048,
+    "config_count": 3050,
     "devices": [
       {
         "d": "G52_MC2",
@@ -42776,11 +42775,6 @@
         "s": "PowerVR Rogue GE8320"
       },
       {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
@@ -43134,6 +43128,11 @@
         "d": "PowerVR_Rogue_GE8320",
         "m": "moto_e_7_",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__740",
