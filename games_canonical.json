@@ -7780,7 +7780,7 @@
     "name": "Minishoot' Adventures"
   },
   "1636440": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "A566E",
@@ -17316,6 +17316,14 @@
     ],
     "name": "Assetto Corsa"
   },
+  "244450": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Men_of_War_-_Assault_Squad_2"
+    ],
+    "name": "Men of War: Assault Squad 2"
+  },
   "2444750": {
     "config_count": 1,
     "devices": [],
@@ -21337,7 +21345,7 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 16,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -21363,21 +21371,6 @@
         "d": "Adreno__TM__830",
         "m": "CPH2653",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__840",
-        "m": "25102PCBEG",
-        "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__735",
-        "m": "RMX3851",
-        "s": "Adreno (TM) 735"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "24117RK2CG",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -21386,8 +21379,7 @@
       "The_Witcher_3_-_Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
-      "The_Witcher_3_-_Wild_Hunt___Remastered",
-      "witcher3"
+      "The_Witcher_3_-_Wild_Hunt___Remastered"
     ],
     "name": "The Witcher 3: Wild Hunt - Complete Edition"
   },
@@ -33142,7 +33134,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 39,
+    "config_count": 45,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -33243,13 +33235,24 @@
         "d": "Adreno__TM__750",
         "m": "V2425A",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "RMX3851",
+        "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "24117RK2CG",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "The_Witcher_3",
       "The_Witcher_3__Wild_Hunt",
       "Witcher_1",
-      "_Witcher"
+      "_Witcher",
+      "witcher3"
     ],
     "name": "The Witcher 3: Wild Hunt \u2014 Songs of the Past"
   },
@@ -35658,14 +35661,6 @@
       "Journey"
     ],
     "name": "Journey"
-  },
-  "64000": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Men_of_War_-_Assault_Squad_2"
-    ],
-    "name": "Men of War: Assault Squad"
   },
   "640590": {
     "config_count": 1,
@@ -38839,6 +38834,14 @@
     ],
     "name": "Cartoony Cars 2"
   },
+  "917040": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "KikiKaikai"
+    ],
+    "name": "Groove Coaster - KIKIKAIKAI"
+  },
   "919410": {
     "config_count": 1,
     "devices": [
@@ -41487,14 +41490,6 @@
     ],
     "name": "Kick Win"
   },
-  "name:kikikaikai": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "KikiKaikai"
-    ],
-    "name": "Kikikaikai"
-  },
   "name:kinebox": {
     "config_count": 1,
     "devices": [
@@ -43375,7 +43370,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 226,
+    "config_count": 227,
     "devices": [
       {
         "d": "G615_MC2",
@@ -44412,14 +44407,6 @@
       "SHProto"
     ],
     "name": "Shproto"
-  },
-  "name:silent-hill-3": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "SILENT_HILL_3"
-    ],
-    "name": "Silent Hill 3"
   },
   "name:skyrimse": {
     "config_count": 2,
