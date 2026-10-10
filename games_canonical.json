@@ -2990,7 +2990,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 439,
+    "config_count": 441,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -5323,6 +5323,14 @@
       "DRACU-RIOT_"
     ],
     "name": "DRACU-RIOT!"
+  },
+  "1340720": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "StateOfDecay"
+    ],
+    "name": "State of Decay 3"
   },
   "1343240": {
     "config_count": 2,
@@ -11549,33 +11557,8 @@
     "name": "Hitman: Absolution\u2122"
   },
   "203160": {
-    "config_count": 31,
+    "config_count": 16,
     "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
-      },
       {
         "d": "Adreno__TM__740",
         "m": "S911U",
@@ -11603,12 +11586,11 @@
       }
     ],
     "folders": [
-      "TombRaider",
       "Tomb_Raider",
       "Tomb_Raider_2013",
       "Tomb_Raider_Game_of_the_Year"
     ],
-    "name": "Tomb Raider Game of the Year"
+    "name": "Tomb Raider"
   },
   "203650": {
     "config_count": 3,
@@ -13110,7 +13092,7 @@
     "name": "Don Bradman Cricket 14"
   },
   "2163330": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [],
     "folders": [
       "Yet_Another_Zombie_Survivors"
@@ -14351,7 +14333,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 20,
+    "config_count": 17,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -14390,9 +14372,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -14901,7 +14881,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 276,
+    "config_count": 277,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -15224,14 +15204,14 @@
         "s": "Mali-G615 MC6"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -16165,6 +16145,20 @@
       "Europa_Universalis_IV"
     ],
     "name": "Europa Universalis IV"
+  },
+  "2369390": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "FarCry"
+    ],
+    "name": "Far Cry\u00ae 6"
   },
   "2370000": {
     "config_count": 1,
@@ -17514,6 +17508,20 @@
       "Tormented_Souls_2"
     ],
     "name": "Tormented Souls 2"
+  },
+  "2464530": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "VOIN"
+    ],
+    "name": "VOIN"
   },
   "2473350": {
     "config_count": 3,
@@ -20579,7 +20587,7 @@
     "name": "Nunholy"
   },
   "2856190": {
-    "config_count": 115,
+    "config_count": 116,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -20755,6 +20763,11 @@
         "d": "Adreno__TM__732",
         "m": "2410CRP4CG",
         "s": "Adreno (TM) 732"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "I2407",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
@@ -21066,7 +21079,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 34,
     "devices": [
       {
         "d": "G615_MC2",
@@ -21106,7 +21119,9 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -22008,7 +22023,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -22029,10 +22044,16 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -22809,7 +22830,7 @@
     "name": "Call of Duty\u00ae: Black Ops III"
   },
   "311340": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "G57",
@@ -23705,7 +23726,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1835,
+    "config_count": 1836,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -27200,16 +27221,42 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 4,
+    "config_count": 19,
     "devices": [
       {
         "d": "G57_MC4",
         "m": "Mali",
         "s": "Mali-G57 MC4"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
-      "Atla"
+      "Atla",
+      "TombRaider"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -30087,6 +30134,14 @@
       "BeatTheChampions"
     ],
     "name": "Beat The Champions"
+  },
+  "4024440": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Heist"
+    ],
+    "name": "Haunted Heist"
   },
   "40350": {
     "config_count": 1,
@@ -33123,7 +33178,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 9,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -33158,7 +33213,6 @@
     ],
     "folders": [
       "State_of_Decay_2__Juggernaut_Edition",
-      "StateOfDecay",
       "StateOfDecay2"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
@@ -33695,14 +33749,6 @@
       "Fate_EXTELLA"
     ],
     "name": "Fate/EXTELLA"
-  },
-  "5149580": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Heist"
-    ],
-    "name": "PAYDAY 2: Under the Hammer Heist"
   },
   "516750": {
     "config_count": 12,
@@ -34360,7 +34406,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 21,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -34406,11 +34452,6 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -34419,8 +34460,7 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry",
-      "FarCry"
+      "far_cry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -38973,7 +39013,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 8,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -38989,16 +39029,10 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -40564,6 +40598,20 @@
       "daorigins"
     ],
     "name": "Daorigins"
+  },
+  "name:dark-souls-prepare-to-die-edition": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "DARK_SOULS___Prepare_To_Die_Edition"
+    ],
+    "name": "Dark Souls Prepare To Die Edition"
   },
   "name:dawn-of-war-soulstorm": {
     "config_count": 1,
@@ -42344,7 +42392,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3075,
+    "config_count": 3078,
     "devices": [
       {
         "d": "G52_MC2",
@@ -43267,11 +43315,6 @@
         "s": "Adreno (TM) 730"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "NX1",
         "s": "Adreno (TM) 710"
@@ -43295,6 +43338,11 @@
         "d": "Adreno__TM__610",
         "m": "V2027",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
