@@ -4452,7 +4452,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 60,
+    "config_count": 61,
     "devices": [
       {
         "d": "G57_MC2",
@@ -10417,12 +10417,10 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 3,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "MAFIA",
-      "Mafia",
-      "Mafia_-_Definitive_Edition"
+      "MAFIA"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -23728,7 +23726,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1836,
+    "config_count": 1837,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24974,6 +24972,11 @@
         "d": "Adreno__TM__619",
         "m": "V2222",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "V2338A",
+        "s": "Adreno (TM) 740"
       },
       {
         "d": "Adreno__TM__840",
@@ -30137,14 +30140,6 @@
     ],
     "name": "Beat The Champions"
   },
-  "4024440": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Heist"
-    ],
-    "name": "Haunted Heist"
-  },
   "40350": {
     "config_count": 1,
     "devices": [
@@ -30451,6 +30446,15 @@
       "BioShock_2_Remastered"
     ],
     "name": "BioShock\u2122 2 Remastered"
+  },
+  "40990": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Mafia",
+      "Mafia_-_Definitive_Edition"
+    ],
+    "name": "Mafia"
   },
   "4100940": {
     "config_count": 7,
@@ -33742,6 +33746,14 @@
       "Fate_EXTELLA"
     ],
     "name": "Fate/EXTELLA"
+  },
+  "5149580": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Heist"
+    ],
+    "name": "PAYDAY 2: Under the Hammer Heist"
   },
   "516750": {
     "config_count": 12,
