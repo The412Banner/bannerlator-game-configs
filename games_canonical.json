@@ -6055,7 +6055,7 @@
     "name": "The Legend of Heroes: Sen no Kiseki II KAI -The Erebonian Civil War-"
   },
   "1451190": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -6065,6 +6065,11 @@
       {
         "d": "Adreno__TM__830",
         "m": "NP05J",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "CPH2653",
         "s": "Adreno (TM) 830"
       }
     ],
@@ -26207,6 +26212,14 @@
     ],
     "name": "Heavy Weapon Deluxe"
   },
+  "3419290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN"
+  },
   "341940": {
     "config_count": 3,
     "devices": [
@@ -30007,14 +30020,6 @@
       "The_Spike"
     ],
     "name": "The Spike Cross"
-  },
-  "3985080": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN - Costume Expansion Pack"
   },
   "400": {
     "config_count": 4,
