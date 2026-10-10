@@ -2381,7 +2381,7 @@
     "name": "FINAL FANTASY"
   },
   "1174180": {
-    "config_count": 57,
+    "config_count": 58,
     "devices": [
       {
         "d": "SM8750P",
@@ -2990,7 +2990,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 438,
+    "config_count": 439,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -12624,7 +12624,7 @@
     "name": "Outcore: Desktop Adventure: The Amazing Super Duper Ultra Hyper Mama Mia Papa Pipa Wawa Wee Waa Five Shekel Kosher Falafel Deluxe Extra Sugoi Mega Kawaii Gold Diamond Nirosta Plastic Director's Cut Special Edition Supporter Pack Plus PLUS"
   },
   "2129530": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "G57",
@@ -14871,7 +14871,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 275,
+    "config_count": 276,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -15246,7 +15246,7 @@
     "name": "Castle of Illusion"
   },
   "2277560": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -15992,7 +15992,7 @@
     "name": "GraalOnline Era"
   },
   "2358720": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -16035,14 +16035,14 @@
         "s": "Adreno (TM) 720"
       },
       {
-        "d": "Adreno__TM__619",
-        "m": "moto_g45_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__750",
         "m": "TB321FU",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -17650,7 +17650,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 29,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -21978,7 +21978,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 7,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -21999,16 +21999,10 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -23692,7 +23686,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1833,
+    "config_count": 1834,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -35878,7 +35872,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -35897,7 +35891,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2"
+      "LEGO__Marvel_Super_Heroes_2",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -38970,7 +38965,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 8,
     "devices": [
       {
         "d": "G615_MC6",
@@ -38986,10 +38981,16 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -42335,7 +42336,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3070,
+    "config_count": 3071,
     "devices": [
       {
         "d": "G52_MC2",
@@ -42988,11 +42989,6 @@
         "s": "PowerVR Rogue GE8320"
       },
       {
-        "d": "Adreno__TM__618",
-        "m": "M2101K6P",
-        "s": "Adreno (TM) 618"
-      },
-      {
         "d": "Adreno__TM__616",
         "m": "motorola_one_fusion",
         "s": "Adreno (TM) 616"
@@ -43288,6 +43284,11 @@
         "s": "PowerVR B-Series BXM-8-256"
       },
       {
+        "d": "Adreno__TM__618",
+        "m": "M2101K6P",
+        "s": "Adreno (TM) 618"
+      },
+      {
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
@@ -43475,7 +43476,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 232,
+    "config_count": 233,
     "devices": [
       {
         "d": "G615_MC2",
@@ -45047,6 +45048,14 @@
       "YandereSimJan2nd"
     ],
     "name": "Yanderesimjan2Nd"
+  },
+  "name:you-need-me": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "you_need_me"
+    ],
+    "name": "You Need Me"
   },
   "name:ysx-pn": {
     "config_count": 1,
