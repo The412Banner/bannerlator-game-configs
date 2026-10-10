@@ -500,7 +500,7 @@
     "name": "Torque Drift"
   },
   "1030300": {
-    "config_count": 54,
+    "config_count": 55,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -596,6 +596,11 @@
         "d": "Adreno__TM__840",
         "m": "25053PC47G",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "G610_MC2",
@@ -14866,7 +14871,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 274,
+    "config_count": 275,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -23687,7 +23692,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1832,
+    "config_count": 1833,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24840,11 +24845,6 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "Adreno__TM__610",
-        "m": "23021RAAEG",
-        "s": "Adreno (TM) 610"
-      },
-      {
         "d": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
         "m": "A376B",
         "s": "ANGLE ((Samsung Xclipse 530) on Vulkan 1.3.279)"
@@ -24878,6 +24878,11 @@
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23021RAAEG",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__830",
@@ -43464,7 +43469,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 229,
+    "config_count": 232,
     "devices": [
       {
         "d": "G615_MC2",
