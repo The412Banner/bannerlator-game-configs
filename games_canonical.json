@@ -10417,10 +10417,12 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [],
     "folders": [
-      "MAFIA"
+      "MAFIA",
+      "Mafia",
+      "Mafia_-_Definitive_Edition"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -14881,7 +14883,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 277,
+    "config_count": 278,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -30450,15 +30452,6 @@
     ],
     "name": "BioShock\u2122 2 Remastered"
   },
-  "40990": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Mafia",
-      "Mafia_-_Definitive_Edition"
-    ],
-    "name": "Mafia"
-  },
   "4100940": {
     "config_count": 7,
     "devices": [
@@ -37730,7 +37723,7 @@
     "name": "Monster Sanctuary"
   },
   "814380": {
-    "config_count": 71,
+    "config_count": 72,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -37866,6 +37859,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "CPH2747",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__750",
