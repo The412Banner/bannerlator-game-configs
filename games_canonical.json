@@ -17650,7 +17650,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23686,7 +23686,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1834,
+    "config_count": 1835,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -30095,6 +30095,14 @@
     ],
     "name": "Beat The Champions"
   },
+  "4024440": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Heist"
+    ],
+    "name": "Haunted Heist"
+  },
   "40350": {
     "config_count": 1,
     "devices": [
@@ -30316,6 +30324,20 @@
       "Log_Riders_Demo"
     ],
     "name": "Log Riders"
+  },
+  "4090260": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      }
+    ],
+    "folders": [
+      "Lifeguard_Holic"
+    ],
+    "name": "Lifeguard Holic"
   },
   "4090330": {
     "config_count": 1,
@@ -30789,6 +30811,14 @@
       "re7"
     ],
     "name": "Resident Evil 7 Biohazard"
+  },
+  "4183770": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "CELESTAY"
+    ],
+    "name": "Celestay"
   },
   "4192770": {
     "config_count": 1,
@@ -31629,20 +31659,13 @@
     "name": "This Is the Police"
   },
   "4439810": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
-      "Forza_Horizon_2_____________________________________________"
-    ],
-    "name": "Forza Horizon 6 2024 Koenigsegg Gemera"
-  },
-  "4439830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
+      "Forza_Horizon_2_____________________________________________",
       "Forza_Horizon_2"
     ],
-    "name": "Forza Horizon 6 2008 Honda Civic Type R (FD2)"
+    "name": "Forza Horizon 6 2024 Koenigsegg Gemera"
   },
   "444200": {
     "config_count": 1,
@@ -33686,14 +33709,6 @@
       "Fate_EXTELLA"
     ],
     "name": "Fate/EXTELLA"
-  },
-  "5149580": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Heist"
-    ],
-    "name": "PAYDAY 2: Under the Hammer Heist"
   },
   "516750": {
     "config_count": 12,
@@ -35872,7 +35887,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -35891,8 +35906,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2",
-      "LEGOMARVEL"
+      "LEGO__Marvel_Super_Heroes_2"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -42336,7 +42350,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3071,
+    "config_count": 3073,
     "devices": [
       {
         "d": "G52_MC2",
@@ -43069,11 +43083,6 @@
         "s": "Adreno (TM) 642L"
       },
       {
-        "d": "G78",
-        "m": "Mali",
-        "s": "Mali-G78"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "moto_g67_power_5G",
         "s": "Adreno (TM) 710"
@@ -43287,6 +43296,11 @@
         "d": "Adreno__TM__618",
         "m": "M2101K6P",
         "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "G78",
+        "m": "Mali",
+        "s": "Mali-G78"
       },
       {
         "d": "Adreno__TM__740",
