@@ -3539,7 +3539,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 54,
+    "config_count": 51,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -3651,7 +3651,6 @@
       "Need_for_Speed__Heat",
       "nfs",
       "Need_for_Speed_Heat",
-      "Speed",
       "speed"
     ],
     "name": "Need for Speed\u2122 Heat"
@@ -8711,14 +8710,6 @@
     ],
     "name": "Last Vanguard"
   },
-  "1731290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GUN"
-    ],
-    "name": "SPINE - This is Gun Fu"
-  },
   "1731460": {
     "config_count": 1,
     "devices": [
@@ -10816,7 +10807,7 @@
     "name": "Digimon Story Time Stranger"
   },
   "19900": {
-    "config_count": 26,
+    "config_count": 27,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -10872,6 +10863,11 @@
         "d": "Adreno__TM__640",
         "m": "M2102J20SG",
         "s": "Adreno (TM) 640"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "2312DRA50G",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__750",
@@ -13655,7 +13651,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 123,
+    "config_count": 124,
     "devices": [
       {
         "d": "S938B",
@@ -14333,7 +14329,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 17,
+    "config_count": 19,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -14372,7 +14368,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -17688,7 +17685,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 29,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -18161,6 +18158,14 @@
       "Denshattack_"
     ],
     "name": "Denshattack"
+  },
+  "2524890": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GUN"
+    ],
+    "name": "Pixel Gun 3D: PC Edition"
   },
   "2527160": {
     "config_count": 3,
@@ -21079,7 +21084,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -21120,7 +21125,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -23389,7 +23393,7 @@
     "name": "Mall Simulator"
   },
   "3183760": {
-    "config_count": 4,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23408,7 +23412,8 @@
       }
     ],
     "folders": [
-      "speed"
+      "speed",
+      "Speed"
     ],
     "name": "SpeedRunners 2: King of Speed"
   },
@@ -23726,7 +23731,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1837,
+    "config_count": 1838,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -35926,7 +35931,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -35945,7 +35950,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2"
+      "LEGO__Marvel_Super_Heroes_2",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -42402,7 +42408,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3078,
+    "config_count": 3079,
     "devices": [
       {
         "d": "G52_MC2",
