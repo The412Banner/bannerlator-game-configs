@@ -4440,7 +4440,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 61,
+    "config_count": 60,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4574,8 +4574,7 @@
       "Need_for_Speed_-_Most_Wanted",
       "Need_for_Speed__Most_Wanted_2005",
       "Need_for_Speed__Most_wanted__2012_",
-      "need_for_speed_most_wa",
-      "need_for_speed_most_wanted_2005"
+      "need_for_speed_most_wa"
     ],
     "name": "Need for Speed\u2122 Most Wanted"
   },
@@ -5646,7 +5645,7 @@
     "name": "Midnight Fight Express"
   },
   "1392860": {
-    "config_count": 9,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -5682,16 +5681,10 @@
         "d": "Adreno__TM__840",
         "m": "I2501",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "23129RA5FL",
-        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
-      "Little_Nightmares_III",
-      "LittleNightmaresIII"
+      "Little_Nightmares_III"
     ],
     "name": "Little Nightmares III"
   },
@@ -6364,7 +6357,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 109,
+    "config_count": 106,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -9067,7 +9060,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 170,
+    "config_count": 171,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -11179,7 +11172,7 @@
     "name": "Dokimon Quest"
   },
   "202170": {
-    "config_count": 73,
+    "config_count": 74,
     "devices": [
       {
         "d": "MT6878",
@@ -11335,6 +11328,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "Adreno__TM__642L",
+        "m": "22101320G",
+        "s": "Adreno (TM) 642L"
       },
       {
         "d": "Adreno__TM__830",
@@ -13667,6 +13665,11 @@
     "config_count": 125,
     "devices": [
       {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      },
+      {
         "d": "S938B",
         "m": "SM",
         "s": null
@@ -13812,11 +13815,6 @@
         "s": "Mali-G57 MC2"
       },
       {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      },
-      {
         "d": "Adreno__TM__830",
         "m": "NX799J",
         "s": "Adreno (TM) 830"
@@ -13848,10 +13846,10 @@
       }
     ],
     "folders": [
+      "FARCRY_3_PC",
       "Far_Cry_3",
       "Far_Cry_3___________________________________________________",
       "Far_Cry__3",
-      "FARCRY_3_PC",
       "FAR_CRY_3",
       "farcry3"
     ],
@@ -14436,7 +14434,7 @@
     "name": "Command & Conquer\u2122 Generals"
   },
   "22300": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -14473,7 +14471,8 @@
       "Fallout_3",
       "Fallout_3_-_Game_of_the_Year_Edition",
       "Fallout_3___________________________________________________",
-      "Fallout3"
+      "Fallout3",
+      "Fallout_3__Game_of_the_Year_Edition"
     ],
     "name": "Fallout 3"
   },
@@ -14573,14 +14572,6 @@
       "Contra_Galuga"
     ],
     "name": "Contra: Operation Galuga"
-  },
-  "22370": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Fallout_3__Game_of_the_Year_Edition"
-    ],
-    "name": "Fallout 3: Game of the Year Edition"
   },
   "22380": {
     "config_count": 18,
@@ -22041,7 +22032,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -22062,10 +22053,16 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -22392,7 +22389,7 @@
     "name": "Portrait of a Torn"
   },
   "3059520": {
-    "config_count": 25,
+    "config_count": 21,
     "devices": [
       {
         "d": "G57_MC2",
@@ -22448,11 +22445,6 @@
         "d": "Adreno__TM__650",
         "m": "G780G",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "23129RA5FL",
-        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
@@ -39057,7 +39049,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 8,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -39073,16 +39065,10 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -41027,6 +41013,20 @@
     ],
     "name": "F E A R Platinum Collection"
   },
+  "name:f1-2014": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
+      }
+    ],
+    "folders": [
+      "F1_2014"
+    ],
+    "name": "F1 2014"
+  },
   "name:fallout-new-vegas-pcr": {
     "config_count": 1,
     "devices": [],
@@ -41122,6 +41122,20 @@
       "FFXIII"
     ],
     "name": "Ffxiii"
+  },
+  "name:fifa-23": {
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "FIFA_23"
+    ],
+    "name": "Fifa 23"
   },
   "name:fifa14": {
     "config_count": 1,
@@ -41744,6 +41758,20 @@
     ],
     "name": "Little Nightmares Enhanced"
   },
+  "name:littlenightmaresiii": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
+      }
+    ],
+    "folders": [
+      "LittleNightmaresIII"
+    ],
+    "name": "Littlenightmaresiii"
+  },
   "name:loadingbay": {
     "config_count": 1,
     "devices": [],
@@ -42017,6 +42045,14 @@
       "Need_for_Speed_Black_Edition_"
     ],
     "name": "Need For Speed Black Edition"
+  },
+  "name:need-for-speed-most-wanted-2005": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "need_for_speed_most_wanted_2005"
+    ],
+    "name": "Need For Speed Most Wanted 2005"
   },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 1,
@@ -43582,7 +43618,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 233,
+    "config_count": 234,
     "devices": [
       {
         "d": "G615_MC2",
@@ -44627,6 +44663,14 @@
       "SkyrimSE"
     ],
     "name": "Skyrimse"
+  },
+  "name:sly-cooper-and-the-thievius-raccoonus": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sly_Cooper_and_the_Thievius_Raccoonus"
+    ],
+    "name": "Sly Cooper And The Thievius Raccoonus"
   },
   "name:snapshot-lewd-shores": {
     "config_count": 1,
