@@ -8981,6 +8981,20 @@
     ],
     "name": "Choo-Choo Charles"
   },
+  "1769533": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
+      }
+    ],
+    "folders": [
+      "Tiny_Tina_s_Wonderlands"
+    ],
+    "name": "Tiny Tina's Wonderlands: Shattering Spectreglass"
+  },
   "1770640": {
     "config_count": 1,
     "devices": [],
@@ -17233,7 +17247,7 @@
     "name": "The Legend of Heroes: Trails into Reverie - SSS Summer Splash Set"
   },
   "243470": {
-    "config_count": 35,
+    "config_count": 36,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -17244,6 +17258,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g34_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__750",
@@ -27530,7 +27549,7 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae II"
   },
   "3595270": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G68",
@@ -27539,8 +27558,7 @@
       }
     ],
     "folders": [
-      "Call_of_Duty___Modern_Warfare__III",
-      "Call_of_Duty_-_Modern_Warfare_3__2011_"
+      "Call_of_Duty___Modern_Warfare__III"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae III"
   },
@@ -31164,7 +31182,7 @@
     "name": "Kingdom Rush 6: Genesis TD"
   },
   "42680": {
-    "config_count": 39,
+    "config_count": 40,
     "devices": [
       {
         "d": "Infinix_X6833B",
@@ -31248,7 +31266,8 @@
       }
     ],
     "folders": [
-      "Call_of_Duty___Modern_Warfare__3__2011_"
+      "Call_of_Duty___Modern_Warfare__3__2011_",
+      "Call_of_Duty_-_Modern_Warfare_3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
@@ -40620,6 +40639,14 @@
     ],
     "name": "Codwawmp"
   },
+  "name:coldzero-the-last-stand": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Coldzero_-_The_Last_Stand"
+    ],
+    "name": "Coldzero The Last Stand"
+  },
   "name:colony-city-27-lambda": {
     "config_count": 1,
     "devices": [],
@@ -42503,7 +42530,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3081,
+    "config_count": 3082,
     "devices": [
       {
         "d": "G52_MC2",
