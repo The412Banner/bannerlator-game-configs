@@ -6251,14 +6251,6 @@
     ],
     "name": "Tested on Humans: Escape Room"
   },
-  "1486290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "eFootball_2026"
-    ],
-    "name": "Polyleague Manager 2026: Football Evolution"
-  },
   "1491410": {
     "config_count": 1,
     "devices": [
@@ -6364,7 +6356,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 109,
+    "config_count": 107,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -8076,7 +8068,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 101,
+    "config_count": 102,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -8229,7 +8221,8 @@
       "pes_2012",
       "pes_2013",
       "pes_2013_",
-      "pes__2013"
+      "pes__2013",
+      "eFootball_2026"
     ],
     "name": "eFootball\u2122"
   },
@@ -17317,6 +17310,14 @@
       "Assetto_Corsa"
     ],
     "name": "Assetto Corsa"
+  },
+  "2442460": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Vector"
+    ],
+    "name": "Citizen Sleeper 2: Starward Vector"
   },
   "244450": {
     "config_count": 1,
@@ -41078,6 +41079,14 @@
       "FFXIII"
     ],
     "name": "Ffxiii"
+  },
+  "name:fifa-13": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "FIFA_13"
+    ],
+    "name": "Fifa 13"
   },
   "name:fifa14": {
     "config_count": 1,
