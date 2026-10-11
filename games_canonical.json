@@ -4440,7 +4440,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 60,
+    "config_count": 61,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4574,7 +4574,8 @@
       "Need_for_Speed_-_Most_Wanted",
       "Need_for_Speed__Most_Wanted_2005",
       "Need_for_Speed__Most_wanted__2012_",
-      "need_for_speed_most_wa"
+      "need_for_speed_most_wa",
+      "need_for_speed_most_wanted_2005"
     ],
     "name": "Need for Speed\u2122 Most Wanted"
   },
@@ -5645,7 +5646,7 @@
     "name": "Midnight Fight Express"
   },
   "1392860": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -5681,10 +5682,16 @@
         "d": "Adreno__TM__840",
         "m": "I2501",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
-      "Little_Nightmares_III"
+      "Little_Nightmares_III",
+      "LittleNightmaresIII"
     ],
     "name": "Little Nightmares III"
   },
@@ -6357,7 +6364,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 106,
+    "config_count": 109,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -14434,7 +14441,7 @@
     "name": "Command & Conquer\u2122 Generals"
   },
   "22300": {
-    "config_count": 19,
+    "config_count": 18,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -14471,8 +14478,7 @@
       "Fallout_3",
       "Fallout_3_-_Game_of_the_Year_Edition",
       "Fallout_3___________________________________________________",
-      "Fallout3",
-      "Fallout_3__Game_of_the_Year_Edition"
+      "Fallout3"
     ],
     "name": "Fallout 3"
   },
@@ -14572,6 +14578,14 @@
       "Contra_Galuga"
     ],
     "name": "Contra: Operation Galuga"
+  },
+  "22370": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Fallout_3__Game_of_the_Year_Edition"
+    ],
+    "name": "Fallout 3: Game of the Year Edition"
   },
   "22380": {
     "config_count": 18,
@@ -22389,7 +22403,7 @@
     "name": "Portrait of a Torn"
   },
   "3059520": {
-    "config_count": 21,
+    "config_count": 25,
     "devices": [
       {
         "d": "G57_MC2",
@@ -22445,6 +22459,11 @@
         "d": "Adreno__TM__650",
         "m": "G780G",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
@@ -28958,6 +28977,14 @@
     ],
     "name": "Case Blind: Stolen Route"
   },
+  "3858850": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Hydra"
+    ],
+    "name": "Hydra Heli"
+  },
   "3864890": {
     "config_count": 1,
     "devices": [
@@ -31014,14 +31041,6 @@
       "Deadlight_-_Director_s_Cut"
     ],
     "name": "Deadlight: Director's Cut"
-  },
-  "4241690": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Hydra"
-    ],
-    "name": "Hydra Heli 2"
   },
   "424280": {
     "config_count": 1,
@@ -40569,6 +40588,14 @@
     ],
     "name": "Colony City 27 Lambda"
   },
+  "name:conkerrecomp": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "ConkerRecomp"
+    ],
+    "name": "Conkerrecomp"
+  },
   "name:contraog": {
     "config_count": 1,
     "devices": [
@@ -41013,20 +41040,6 @@
     ],
     "name": "F E A R Platinum Collection"
   },
-  "name:f1-2014": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "23129RA5FL",
-        "s": "Adreno (TM) 610"
-      }
-    ],
-    "folders": [
-      "F1_2014"
-    ],
-    "name": "F1 2014"
-  },
   "name:fallout-new-vegas-pcr": {
     "config_count": 1,
     "devices": [],
@@ -41122,20 +41135,6 @@
       "FFXIII"
     ],
     "name": "Ffxiii"
-  },
-  "name:fifa-23": {
-    "config_count": 3,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "FIFA_23"
-    ],
-    "name": "Fifa 23"
   },
   "name:fifa14": {
     "config_count": 1,
@@ -41758,20 +41757,6 @@
     ],
     "name": "Little Nightmares Enhanced"
   },
-  "name:littlenightmaresiii": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "23129RA5FL",
-        "s": "Adreno (TM) 610"
-      }
-    ],
-    "folders": [
-      "LittleNightmaresIII"
-    ],
-    "name": "Littlenightmaresiii"
-  },
   "name:loadingbay": {
     "config_count": 1,
     "devices": [],
@@ -42045,14 +42030,6 @@
       "Need_for_Speed_Black_Edition_"
     ],
     "name": "Need For Speed Black Edition"
-  },
-  "name:need-for-speed-most-wanted-2005": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "need_for_speed_most_wanted_2005"
-    ],
-    "name": "Need For Speed Most Wanted 2005"
   },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 1,
@@ -42478,7 +42455,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3080,
+    "config_count": 3081,
     "devices": [
       {
         "d": "G52_MC2",
@@ -43401,11 +43378,6 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "256",
-        "m": "8",
-        "s": "PowerVR B-Series BXM-8-256"
-      },
-      {
         "d": "Adreno__TM__618",
         "m": "M2101K6P",
         "s": "Adreno (TM) 618"
@@ -43429,6 +43401,11 @@
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "256",
+        "m": "8",
+        "s": "PowerVR B-Series BXM-8-256"
       },
       {
         "d": "Adreno__TM__740",
