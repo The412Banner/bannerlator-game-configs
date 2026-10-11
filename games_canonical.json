@@ -2381,7 +2381,7 @@
     "name": "FINAL FANTASY"
   },
   "1174180": {
-    "config_count": 58,
+    "config_count": 60,
     "devices": [
       {
         "d": "SM8750P",
@@ -2502,6 +2502,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Immortalis_MC12",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC12"
       },
       {
         "d": "Adreno__TM__650",
@@ -17748,7 +17753,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 29,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -26376,7 +26381,7 @@
     "name": "Heavy Weapon Deluxe"
   },
   "341940": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -36053,7 +36058,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -36072,7 +36077,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2"
+      "LEGO__Marvel_Super_Heroes_2",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -42559,7 +42565,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3084,
+    "config_count": 3085,
     "devices": [
       {
         "d": "G52_MC2",
