@@ -2860,21 +2860,27 @@
     "name": "She Will Punish Them"
   },
   "12140": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
       }
     ],
     "folders": [
-      "MaxPayne_1"
+      "MaxPayne_1",
+      "Max_Payne_2"
     ],
     "name": "Max Payne"
   },
   "12150": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "G57_MC2",
@@ -2890,18 +2896,12 @@
         "d": "Adreno__TM__610",
         "m": "V2029",
         "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
       }
     ],
     "folders": [
-      "MaxPayne_2_Application",
-      "Max_Payne_2"
+      "MaxPayne_2_Application"
     ],
-    "name": "Max Payne 2: The Fall of Max Payne"
+    "name": "Maxpayne 2 Application"
   },
   "1216060": {
     "config_count": 1,
@@ -14308,7 +14308,7 @@
     "name": "Five Nights at Freddy's: Secret of the Mimic"
   },
   "221540": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -14391,7 +14391,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 17,
+    "config_count": 19,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -14430,7 +14430,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -15623,6 +15624,20 @@
       "Starship_Troopers__Ultimate_Bug_War_"
     ],
     "name": "Starship Troopers: Ultimate Bug War!"
+  },
+  "2324290": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
+      }
+    ],
+    "folders": [
+      "PAC-MAN_WORLD_2_Re-PAC"
+    ],
+    "name": "PAC-MAN WORLD 2 Re-PAC"
   },
   "2325290": {
     "config_count": 3,
@@ -21191,7 +21206,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -21232,7 +21247,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -25834,7 +25848,7 @@
     "name": "Assassin's Creed 2"
   },
   "332800": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__618",
@@ -25843,6 +25857,7 @@
       }
     ],
     "folders": [
+      "FiveNightsatFreddys_3",
       "Five_Nights_At_Freddys_2"
     ],
     "name": "Five Nights at Freddy's 2"
@@ -26427,6 +26442,14 @@
       "Heavy_Weapon"
     ],
     "name": "Heavy Weapon Deluxe"
+  },
+  "3419290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN"
   },
   "341940": {
     "config_count": 4,
@@ -27282,20 +27305,6 @@
     ],
     "name": "Aces of the Luftwaffe"
   },
-  "354140": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__618",
-        "m": "M2007J20CG",
-        "s": "Adreno (TM) 618"
-      }
-    ],
-    "folders": [
-      "FiveNightsatFreddys_3"
-    ],
-    "name": "Five Nights at Freddy's 3"
-  },
   "354160": {
     "config_count": 1,
     "devices": [
@@ -27402,42 +27411,16 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 19,
+    "config_count": 4,
     "devices": [
       {
         "d": "G57_MC4",
         "m": "Mali",
         "s": "Mali-G57 MC4"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
-      "Atla",
-      "TombRaider"
+      "Atla"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -27860,7 +27843,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -27891,7 +27874,8 @@
     "folders": [
       "GRID",
       "GRID__2019_",
-      "Off_The_Grid"
+      "Off_The_Grid",
+      "GRID_2"
     ],
     "name": "Off The Grid"
   },
@@ -29464,7 +29448,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 205,
+    "config_count": 220,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -29785,6 +29769,26 @@
         "d": "G76_MC4",
         "m": "Mali",
         "s": "Mali-G76 MC4"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
@@ -29792,7 +29796,8 @@
       "Rise_of_the_Tomb_Raider_",
       "Tomb_Raider",
       "Tomb_Raider_-_Definitive_Edition",
-      "Tomb_Raider_________________________________________________"
+      "Tomb_Raider_________________________________________________",
+      "TombRaider"
     ],
     "name": "Rise of the Tomb Raider\u2122"
   },
@@ -30258,14 +30263,6 @@
       "The_Spike"
     ],
     "name": "The Spike Cross"
-  },
-  "3985080": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN - Costume Expansion Pack"
   },
   "400": {
     "config_count": 4,
@@ -32895,6 +32892,14 @@
     ],
     "name": "Zombie Queen"
   },
+  "4813190": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Camp_Whittlewood"
+    ],
+    "name": "Camp Whittlewood"
+  },
   "4815630": {
     "config_count": 1,
     "devices": [
@@ -33473,7 +33478,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 52,
+    "config_count": 51,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -33591,11 +33596,6 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "V2425A",
-        "s": "Adreno (TM) 750"
-      },
-      {
         "d": "Adreno__TM__735",
         "m": "RMX3851",
         "s": "Adreno (TM) 735"
@@ -33613,7 +33613,6 @@
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
       "The_Witcher_3_-_Wild_Hunt___Remastered",
-      "Witcher_1",
       "_Witcher",
       "witcher3"
     ],
@@ -36683,10 +36682,11 @@
     "name": "Xenia"
   },
   "6880": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
-      "Just_Cause"
+      "Just_Cause",
+      "Just_Cause_2_-_Complete_Edition"
     ],
     "name": "Just Cause"
   },
@@ -38142,7 +38142,7 @@
     "name": "Cash Grab - Hat Pack"
   },
   "8190": {
-    "config_count": 33,
+    "config_count": 32,
     "devices": [
       {
         "d": "Odin2",
@@ -38237,8 +38237,7 @@
     ],
     "folders": [
       "Just_Cause_2",
-      "JustCause2",
-      "Just_Cause_2_-_Complete_Edition"
+      "JustCause2"
     ],
     "name": "Just Cause 2"
   },
@@ -39156,14 +39155,8 @@
     "name": "Dead Island 2011"
   },
   "913670": {
-    "config_count": 3,
-    "devices": [
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      }
-    ],
+    "config_count": 2,
+    "devices": [],
     "folders": [
       "Wow",
       "wow"
@@ -45304,6 +45297,20 @@
     ],
     "name": "Wasteland 3 Colorado Survival Gear Dlc"
   },
+  "name:witcher-1": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "V2425A",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Witcher_1"
+    ],
+    "name": "Witcher 1"
+  },
   "name:wizard-school-exchange-student": {
     "config_count": 1,
     "devices": [],
@@ -45319,6 +45326,20 @@
       "World_of_Warcraft"
     ],
     "name": "World Of Warcraft"
+  },
+  "name:wow": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "Wow"
+    ],
+    "name": "Wow"
   },
   "name:wwe-2k22": {
     "config_count": 1,
