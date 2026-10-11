@@ -6251,6 +6251,14 @@
     ],
     "name": "Tested on Humans: Escape Room"
   },
+  "1486290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "eFootball_2026"
+    ],
+    "name": "Polyleague Manager 2026: Football Evolution"
+  },
   "1491410": {
     "config_count": 1,
     "devices": [
@@ -6356,7 +6364,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 107,
+    "config_count": 109,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -7855,6 +7863,20 @@
     ],
     "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl"
   },
+  "1645820": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
+      }
+    ],
+    "folders": [
+      "SurrounDead"
+    ],
+    "name": "Surroundead"
+  },
   "1647550": {
     "config_count": 1,
     "devices": [
@@ -8068,7 +8090,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 102,
+    "config_count": 101,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -8221,8 +8243,7 @@
       "pes_2012",
       "pes_2013",
       "pes_2013_",
-      "pes__2013",
-      "eFootball_2026"
+      "pes__2013"
     ],
     "name": "eFootball\u2122"
   },
@@ -41079,14 +41100,6 @@
       "FFXIII"
     ],
     "name": "Ffxiii"
-  },
-  "name:fifa-13": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "FIFA_13"
-    ],
-    "name": "Fifa 13"
   },
   "name:fifa14": {
     "config_count": 1,
