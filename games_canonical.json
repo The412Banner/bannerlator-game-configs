@@ -11523,7 +11523,7 @@
     "name": "Call of Duty\u00ae: Black Ops II"
   },
   "203140": {
-    "config_count": 39,
+    "config_count": 42,
     "devices": [
       {
         "d": "G610_MC3",
@@ -11594,6 +11594,11 @@
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "23113RKC6G",
+        "s": "Adreno (TM) 740"
       },
       {
         "d": "Adreno__TM__720",
@@ -26679,6 +26684,14 @@
     ],
     "name": "Ghost Song"
   },
+  "3479420": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Okko_The_Exiled"
+    ],
+    "name": "Okko The Exiled"
+  },
   "3482970": {
     "config_count": 1,
     "devices": [],
@@ -38685,7 +38698,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 127,
+    "config_count": 128,
     "devices": [
       {
         "d": "s5e8855",
@@ -38891,6 +38904,11 @@
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "motorola_edge_70_fusion",
+        "s": "Adreno (TM) 810"
       },
       {
         "d": "Adreno__TM__660",
