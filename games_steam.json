@@ -10723,7 +10723,6 @@
   },
   "Tiny_Tina_s_Wonderlands": {
     "appid": 1769533,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1769533/header.jpg",
     "method": "naive",
     "steam_name": "Tiny Tina's Wonderlands: Shattering Spectreglass"
   },
@@ -12988,6 +12987,12 @@
   "ssssmins": {
     "appid": null,
     "method": "unresolved"
+  },
+  "stalker": {
+    "appid": 1643320,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1643320/header.jpg",
+    "method": "naive",
+    "steam_name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl"
   },
   "steamclient_loader": {
     "appid": null,
