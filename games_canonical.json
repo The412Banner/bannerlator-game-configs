@@ -10419,10 +10419,12 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [],
     "folders": [
-      "MAFIA"
+      "MAFIA",
+      "Mafia",
+      "Mafia_-_Definitive_Edition"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -13662,7 +13664,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 124,
+    "config_count": 125,
     "devices": [
       {
         "d": "S938B",
@@ -13849,6 +13851,7 @@
       "Far_Cry_3",
       "Far_Cry_3___________________________________________________",
       "Far_Cry__3",
+      "FARCRY_3_PC",
       "FAR_CRY_3",
       "farcry3"
     ],
@@ -16153,6 +16156,20 @@
     ],
     "name": "Europa Universalis IV"
   },
+  "2369390": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "FarCry"
+    ],
+    "name": "Far Cry\u00ae 6"
+  },
   "2370000": {
     "config_count": 1,
     "devices": [],
@@ -17689,7 +17706,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 29,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -22024,7 +22041,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 7,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -22045,16 +22062,10 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -23738,7 +23749,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1838,
+    "config_count": 1839,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25934,6 +25945,14 @@
       "Paint_the_Town_Red"
     ],
     "name": "Paint the Town Red"
+  },
+  "3373500": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Scavland"
+    ],
+    "name": "Scavland"
   },
   "3378960": {
     "config_count": 1,
@@ -30459,15 +30478,6 @@
     ],
     "name": "BioShock\u2122 2 Remastered"
   },
-  "40990": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Mafia",
-      "Mafia_-_Definitive_Edition"
-    ],
-    "name": "Mafia"
-  },
   "4100940": {
     "config_count": 7,
     "devices": [
@@ -34040,7 +34050,7 @@
     "name": "Ancestors: The Humankind Odyssey"
   },
   "543870": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "moto_e13",
@@ -34101,6 +34111,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "2312DRA50G",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
@@ -34423,7 +34438,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 21,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -34469,11 +34484,6 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -34482,8 +34492,7 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry",
-      "FarCry"
+      "far_cry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -35944,7 +35953,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -35963,7 +35972,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2"
+      "LEGO__Marvel_Super_Heroes_2",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -38136,12 +38146,18 @@
     "name": "Space Hulk: Deathwing Enhanced Edition - Skulls for the Skull Throne DLC"
   },
   "846110": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "23113RKC6G",
+        "s": "Adreno (TM) 740"
+      }
+    ],
     "folders": [
       "The_friends_of_Ringo_Ishikawa"
     ],
-    "name": "The Friends Of Ringo Ishikawa"
+    "name": "The friends of Ringo Ishikawa"
   },
   "846770": {
     "config_count": 1,
@@ -39041,7 +39057,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 8,
     "devices": [
       {
         "d": "G615_MC6",
@@ -39057,10 +39073,16 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -42420,7 +42442,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3079,
+    "config_count": 3080,
     "devices": [
       {
         "d": "G52_MC2",
@@ -43323,11 +43345,6 @@
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
       },
       {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
-      },
-      {
         "d": "PowerVR_Rogue_GE8320",
         "m": "moto_e_7_",
         "s": "PowerVR Rogue GE8320"
@@ -43371,6 +43388,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       },
       {
         "d": "Adreno__TM__740",

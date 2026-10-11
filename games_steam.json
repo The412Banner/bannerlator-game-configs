@@ -3137,6 +3137,12 @@
     "appid": null,
     "method": "unresolved"
   },
+  "FARCRY_3_PC": {
+    "appid": 220240,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/220240/header.jpg",
+    "method": "norm",
+    "steam_name": "Far Cry 3"
+  },
   "FARMING_SIMULATOR_13_": {
     "appid": 2300320,
     "method": "fuzzy",
@@ -10675,6 +10681,12 @@
   "The_build_server_will_stamp_this_field": {
     "appid": null,
     "method": "unresolved"
+  },
+  "The_friends_of_Ringo_Ishikawa": {
+    "appid": 846110,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/846110/header.jpg",
+    "method": "naive",
+    "steam_name": "The friends of Ringo Ishikawa"
   },
   "They_Killed_Your_Cat": {
     "appid": 3489420,
