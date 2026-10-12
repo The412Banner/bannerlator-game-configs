@@ -10472,12 +10472,10 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 3,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "MAFIA",
-      "Mafia",
-      "Mafia_-_Definitive_Edition"
+      "MAFIA"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -17835,7 +17833,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 29,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -18318,7 +18316,7 @@
     "name": "Desktop Explorer"
   },
   "2527500": {
-    "config_count": 23,
+    "config_count": 29,
     "devices": [
       {
         "d": "G57",
@@ -18356,11 +18354,6 @@
         "s": "Adreno (TM) 642L"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__740",
         "m": "S918B",
         "s": "Adreno (TM) 740"
@@ -18369,6 +18362,11 @@
         "d": "Adreno__TM__830",
         "m": "S938U",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -30687,6 +30685,15 @@
     ],
     "name": "BioShock\u2122 2 Remastered"
   },
+  "40990": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Mafia",
+      "Mafia_-_Definitive_Edition"
+    ],
+    "name": "Mafia"
+  },
   "4100940": {
     "config_count": 7,
     "devices": [
@@ -36197,7 +36204,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -36216,7 +36223,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2"
+      "LEGO__Marvel_Super_Heroes_2",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -42127,6 +42135,20 @@
       "mhf"
     ],
     "name": "Mhf"
+  },
+  "name:minecraft-story-mode": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__720",
+        "m": "V2427",
+        "s": "Adreno (TM) 720"
+      }
+    ],
+    "folders": [
+      "Minecraft_-_Story_Mode"
+    ],
+    "name": "Minecraft Story Mode"
   },
   "name:minus-b-remastered": {
     "config_count": 1,
