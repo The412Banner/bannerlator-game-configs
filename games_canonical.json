@@ -5332,6 +5332,14 @@
     ],
     "name": "DRACU-RIOT!"
   },
+  "1340720": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "StateOfDecay"
+    ],
+    "name": "State of Decay 3"
+  },
   "1343240": {
     "config_count": 2,
     "devices": [
@@ -16729,7 +16737,7 @@
     "name": "Wasteland 2: Director's Cut"
   },
   "241540": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "G78",
@@ -16748,8 +16756,7 @@
       }
     ],
     "folders": [
-      "State_of_Decay",
-      "StateOfDecay"
+      "State_of_Decay"
     ],
     "name": "State of Decay"
   },
@@ -29255,7 +29262,7 @@
     "name": "Day of the Tentacle Remastered"
   },
   "388410": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -38741,7 +38748,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 127,
+    "config_count": 128,
     "devices": [
       {
         "d": "s5e8855",
@@ -38969,6 +38976,11 @@
         "s": "Adreno (TM) 840"
       },
       {
+        "d": "Adreno__TM__840",
+        "m": "S948U1",
+        "s": "Adreno (TM) 840"
+      },
+      {
         "d": "Adreno__TM__750",
         "m": "NX769J",
         "s": "Adreno (TM) 750"
@@ -38982,6 +38994,7 @@
     "folders": [
       "Resident_Evil_2",
       "Resident_Evil_2_____________________________________________",
+      "Resident_Evil_2__2019_",
       "Resident_Evil_2__DX11_",
       "re2",
       "resident_evil_2"
@@ -44673,20 +44686,6 @@
       "ResChanger"
     ],
     "name": "Reschanger"
-  },
-  "name:resident-evil-2-2019": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "S948U1",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "Resident_Evil_2__2019_"
-    ],
-    "name": "Resident Evil 2 2019"
   },
   "name:resident-evil-2-dx11": {
     "config_count": 1,
