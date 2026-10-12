@@ -1997,14 +1997,6 @@
     ],
     "name": "VR Nostalgia 5"
   },
-  "1151340": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Fallout_4_-_Game_of_the_Year_Edition"
-    ],
-    "name": "Fallout 76"
-  },
   "1151380": {
     "config_count": 1,
     "devices": [
@@ -6427,7 +6419,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 107,
+    "config_count": 109,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -16549,7 +16541,7 @@
     "name": "Papers, Please"
   },
   "239140": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "G57_MC2",
@@ -19101,12 +19093,17 @@
     "name": "Darkest Dungeon\u00ae"
   },
   "2622380": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__A32",
         "m": "Pocket_S",
         "s": "Adreno (TM) A32"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "Quest_3",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -19622,7 +19619,7 @@
     "name": "Minami Lane"
   },
   "2679460": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -19632,7 +19629,8 @@
     ],
     "folders": [
       "Metaphor__ReFantazio",
-      "METAPHOR"
+      "METAPHOR",
+      "Metaphor_-_ReFantazio"
     ],
     "name": "Metaphor: ReFantazio"
   },
@@ -28740,7 +28738,7 @@
     "name": "007 First Light"
   },
   "377160": {
-    "config_count": 23,
+    "config_count": 24,
     "devices": [
       {
         "d": "SM8750P",
@@ -28804,7 +28802,8 @@
       }
     ],
     "folders": [
-      "Fallout_4"
+      "Fallout_4",
+      "Fallout_4_-_Game_of_the_Year_Edition"
     ],
     "name": "Fallout 4"
   },
@@ -41491,14 +41490,6 @@
     ],
     "name": "Ffxiii"
   },
-  "name:fifa-13": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "FIFA_13"
-    ],
-    "name": "Fifa 13"
-  },
   "name:fifa14": {
     "config_count": 1,
     "devices": [],
@@ -42209,14 +42200,6 @@
       "Metal_Gear_Solid_Master_Collection_Vol_2_MULTi6_-_ElAmigos"
     ],
     "name": "Metal Gear Solid Master Collection Vol 2 Multi6 Elamigos"
-  },
-  "name:metaphor-refantazio": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Metaphor_-_ReFantazio"
-    ],
-    "name": "Metaphor Refantazio"
   },
   "name:metatrader-5": {
     "config_count": 1,
