@@ -52,6 +52,12 @@
     "appid": null,
     "method": "non-game"
   },
+  "9Kings": {
+    "appid": 2784470,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2784470/header.jpg",
+    "method": "naive",
+    "steam_name": "9 Kings"
+  },
   "AC3SP": {
     "appid": 911400,
     "method": "alias"
@@ -2737,13 +2743,11 @@
   },
   "Dune": {
     "appid": 1172710,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1172710/header.jpg",
     "method": "naive",
     "steam_name": "Dune: Awakening"
   },
   "Dune__Awakening_": {
     "appid": 1172710,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1172710/header.jpg",
     "method": "naive",
     "steam_name": "Dune: Awakening"
   },

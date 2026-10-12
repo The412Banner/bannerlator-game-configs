@@ -3015,7 +3015,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 443,
+    "config_count": 444,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3283,11 +3283,6 @@
         "s": "Adreno (TM) 618"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "S928B",
-        "s": "Adreno (TM) 750"
-      },
-      {
         "d": "Adreno__TM__730",
         "m": "22081212UG",
         "s": "Adreno (TM) 730"
@@ -3451,6 +3446,11 @@
         "d": "Adreno__TM__710",
         "m": "A366E",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "S928B",
+        "s": "Adreno (TM) 750"
       },
       {
         "d": "Adreno__TM__735",
@@ -17333,7 +17333,7 @@
     "name": "The Legend of Heroes: Trails into Reverie - SSS Summer Splash Set"
   },
   "243470": {
-    "config_count": 40,
+    "config_count": 36,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -17428,8 +17428,7 @@
     ],
     "folders": [
       "Watch_Dogs",
-      "Watch_Dogs_",
-      "watch_dogs"
+      "Watch_Dogs_"
     ],
     "name": "Watch_Dogs\u2122"
   },
@@ -17823,7 +17822,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -20392,6 +20391,14 @@
       "DYNASTY_WARRIORS_8_-_Xtreme_Legends_Complete_Edition"
     ],
     "name": "Dynasty Warriors 8 - Xtreme Legends Complete Edition"
+  },
+  "2784470": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "9Kings"
+    ],
+    "name": "9 Kings"
   },
   "2796520": {
     "config_count": 1,
@@ -25410,6 +25417,14 @@
       "ch5_pro"
     ],
     "name": "Night Project - Chapter 5"
+  },
+  "32510": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "LEGO__Star_Wars__III_-_The_Clone_Wars_"
+    ],
+    "name": "Lego Star Wars Iii - The Clone Wars"
   },
   "3256150": {
     "config_count": 1,
@@ -32076,7 +32091,7 @@
     "name": "Farming Simulator 17"
   },
   "447040": {
-    "config_count": 23,
+    "config_count": 27,
     "devices": [
       {
         "d": "G720_MC7",
@@ -32148,7 +32163,9 @@
       "WatchDogs2",
       "Watch_Dogs_2",
       "Watch_Dogs__2",
-      "watch_dogs_2"
+      "watch_dogs_2",
+      "Watch_Dogs",
+      "watch_dogs"
     ],
     "name": "Watch_Dogs\u00ae 2"
   },
@@ -36218,7 +36235,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -36237,8 +36254,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2",
-      "LEGOMARVEL"
+      "LEGO__Marvel_Super_Heroes_2"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -42752,7 +42768,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3095,
+    "config_count": 3096,
     "devices": [
       {
         "d": "G52_MC2",
@@ -43700,14 +43716,14 @@
         "s": "Mali-G52"
       },
       {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
-      },
-      {
         "d": "PowerVR_Rogue_GE8320",
         "m": "6025A",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       },
       {
         "d": "Adreno__TM__740",
@@ -43897,7 +43913,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 234,
+    "config_count": 235,
     "devices": [
       {
         "d": "G615_MC2",
@@ -44198,6 +44214,11 @@
         "d": "Adreno__TM__829",
         "m": "I2508",
         "s": "Adreno (TM) 829"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "A236M",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__740",
