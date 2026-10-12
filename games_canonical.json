@@ -16779,7 +16779,7 @@
     "name": "State of Decay"
   },
   "2416450": {
-    "config_count": 27,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -16835,6 +16835,11 @@
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "S948U",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
