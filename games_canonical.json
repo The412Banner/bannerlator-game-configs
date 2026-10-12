@@ -5332,14 +5332,6 @@
     ],
     "name": "DRACU-RIOT!"
   },
-  "1340720": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "StateOfDecay"
-    ],
-    "name": "State of Decay 3"
-  },
   "1343240": {
     "config_count": 2,
     "devices": [
@@ -8116,7 +8108,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 101,
+    "config_count": 103,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -9477,6 +9469,14 @@
     ],
     "name": "Deer & Boy"
   },
+  "1803190": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "SimRail_-_The_Railway_Simulator__Prologue"
+    ],
+    "name": "SimRail - The Railway Simulator: Prologue"
+  },
   "1805110": {
     "config_count": 1,
     "devices": [],
@@ -10459,10 +10459,12 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [],
     "folders": [
-      "MAFIA"
+      "MAFIA",
+      "Mafia",
+      "Mafia_-_Definitive_Edition"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -16727,7 +16729,7 @@
     "name": "Wasteland 2: Director's Cut"
   },
   "241540": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "G78",
@@ -16746,7 +16748,8 @@
       }
     ],
     "folders": [
-      "State_of_Decay"
+      "State_of_Decay",
+      "StateOfDecay"
     ],
     "name": "State of Decay"
   },
@@ -18277,7 +18280,7 @@
     "name": "Desktop Explorer"
   },
   "2527500": {
-    "config_count": 22,
+    "config_count": 23,
     "devices": [
       {
         "d": "G57",
@@ -20156,7 +20159,7 @@
     "name": "Darkwood"
   },
   "2753000": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G57",
@@ -20167,6 +20170,11 @@
         "d": "Adreno__TM__610",
         "m": "23129RA5FL",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G52",
+        "m": "Mali",
+        "s": "Mali-G52"
       }
     ],
     "folders": [
@@ -23097,14 +23105,6 @@
     ],
     "name": "FINAL FANTASY XIV Online Free Trial"
   },
-  "3120600": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "RoomGirl"
-    ],
-    "name": "VR Harem Life ~ Your Room Became a Hang-Out for Girls!? ~"
-  },
   "3121490": {
     "config_count": 1,
     "devices": [
@@ -23868,7 +23868,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1854,
+    "config_count": 1855,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -27728,6 +27728,14 @@
     ],
     "name": "Mafia III: Definitive Edition"
   },
+  "3606830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "RoomGirl"
+    ],
+    "name": "Life in The Janitor's Room with A JK Girl"
+  },
   "361420": {
     "config_count": 2,
     "devices": [
@@ -30662,15 +30670,6 @@
     ],
     "name": "BioShock\u2122 2 Remastered"
   },
-  "40990": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Mafia",
-      "Mafia_-_Definitive_Edition"
-    ],
-    "name": "Mafia"
-  },
   "4100940": {
     "config_count": 7,
     "devices": [
@@ -30871,7 +30870,7 @@
     "name": "DEAD OR ALIVE 6 Last Round"
   },
   "4145490": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -38742,7 +38741,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 128,
+    "config_count": 127,
     "devices": [
       {
         "d": "s5e8855",
@@ -38970,11 +38969,6 @@
         "s": "Adreno (TM) 840"
       },
       {
-        "d": "Adreno__TM__840",
-        "m": "S948U1",
-        "s": "Adreno (TM) 840"
-      },
-      {
         "d": "Adreno__TM__750",
         "m": "NX769J",
         "s": "Adreno (TM) 750"
@@ -38988,7 +38982,6 @@
     "folders": [
       "Resident_Evil_2",
       "Resident_Evil_2_____________________________________________",
-      "Resident_Evil_2__2019_",
       "Resident_Evil_2__DX11_",
       "re2",
       "resident_evil_2"
@@ -42701,7 +42694,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3086,
+    "config_count": 3088,
     "devices": [
       {
         "d": "G52_MC2",
@@ -44680,6 +44673,20 @@
       "ResChanger"
     ],
     "name": "Reschanger"
+  },
+  "name:resident-evil-2-2019": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "S948U1",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "Resident_Evil_2__2019_"
+    ],
+    "name": "Resident Evil 2 2019"
   },
   "name:resident-evil-2-dx11": {
     "config_count": 1,
