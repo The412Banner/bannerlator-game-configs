@@ -23961,7 +23961,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1860,
+    "config_count": 1861,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -42113,6 +42113,14 @@
     ],
     "name": "Little Nightmares Enhanced"
   },
+  "name:little-nightmares-ii-enhanced": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Little_Nightmares_II_Enhanced"
+    ],
+    "name": "Little Nightmares Ii Enhanced"
+  },
   "name:loadingbay": {
     "config_count": 1,
     "devices": [],
@@ -42825,7 +42833,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3099,
+    "config_count": 3100,
     "devices": [
       {
         "d": "G52_MC2",
@@ -43781,6 +43789,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g53_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "A736B",
+        "s": "Adreno (TM) 650"
       },
       {
         "d": "Adreno__TM__740",
