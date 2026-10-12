@@ -14427,7 +14427,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 20,
+    "config_count": 19,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -14467,8 +14467,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -14982,7 +14981,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 282,
+    "config_count": 283,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -15305,14 +15304,14 @@
         "s": "Mali-G720 MC8"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -16282,6 +16281,20 @@
       "Europa_Universalis_IV"
     ],
     "name": "Europa Universalis IV"
+  },
+  "2369390": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "FarCry"
+    ],
+    "name": "Far Cry\u00ae 6"
   },
   "2370000": {
     "config_count": 1,
@@ -21255,7 +21268,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -21295,7 +21308,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -30407,6 +30421,14 @@
     ],
     "name": "Beat The Champions"
   },
+  "4024440": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Heist"
+    ],
+    "name": "Haunted Heist"
+  },
   "40350": {
     "config_count": 1,
     "devices": [
@@ -34050,14 +34072,6 @@
     ],
     "name": "Fate/EXTELLA"
   },
-  "5149580": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Heist"
-    ],
-    "name": "PAYDAY 2: Under the Hammer Heist"
-  },
   "516750": {
     "config_count": 12,
     "devices": [
@@ -34719,7 +34733,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 21,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -34765,11 +34779,6 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -34778,8 +34787,7 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry",
-      "FarCry"
+      "far_cry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -41003,6 +41011,20 @@
       "DC_s_Crawlered-Man_Enhanced"
     ],
     "name": "Dc S Crawlered Man Enhanced"
+  },
+  "name:delta-force-extreme-2-2009": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "Delta_Force_____Extreme_2____2009_"
+    ],
+    "name": "Delta Force Extreme 2 2009"
   },
   "name:deus-ex-human-revolution-dc": {
     "config_count": 1,
