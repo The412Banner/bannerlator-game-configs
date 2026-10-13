@@ -451,6 +451,14 @@
     ],
     "name": "Postal III"
   },
+  "1026680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "FINAL_FANTASY_VIII_REMASTERED"
+    ],
+    "name": "FINAL FANTASY VIII - REMASTERED"
+  },
   "10270": {
     "config_count": 2,
     "devices": [],
@@ -6428,7 +6436,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 108,
+    "config_count": 109,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -16327,6 +16335,20 @@
       "Europa_Universalis_IV"
     ],
     "name": "Europa Universalis IV"
+  },
+  "2369390": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "FarCry"
+    ],
+    "name": "Far Cry\u00ae 6"
   },
   "2370000": {
     "config_count": 1,
@@ -29901,7 +29923,7 @@
     "name": "Rise of the Tomb Raider\u2122"
   },
   "39150": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -29911,8 +29933,7 @@
     ],
     "folders": [
       "FINAL_FANTASY_VIII",
-      "FINAL_FANTASY_VIII_-_REMASTERED",
-      "FINAL_FANTASY_VIII_REMASTERED"
+      "FINAL_FANTASY_VIII_-_REMASTERED"
     ],
     "name": "FINAL FANTASY VIII"
   },
@@ -34779,7 +34800,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 21,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -34825,11 +34846,6 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -34838,8 +34854,7 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry",
-      "FarCry"
+      "far_cry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -41547,14 +41562,6 @@
     ],
     "name": "Ffxiii"
   },
-  "name:fifa-20": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "FIFA_20"
-    ],
-    "name": "Fifa 20"
-  },
   "name:fifa14": {
     "config_count": 1,
     "devices": [],
@@ -42904,7 +42911,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3107,
+    "config_count": 3109,
     "devices": [
       {
         "d": "G52_MC2",
@@ -44729,6 +44736,14 @@
       "PlayRDR"
     ],
     "name": "Playrdr"
+  },
+  "name:pokexgames": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "PokeXGames"
+    ],
+    "name": "Pokexgames"
   },
   "name:polaris-win64-shipping": {
     "config_count": 1,
