@@ -8429,6 +8429,20 @@
     ],
     "name": "Minecraft Dungeons"
   },
+  "1675200": {
+    "config_count": 5,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "A024",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Steam"
+    ],
+    "name": "Steam Deck"
+  },
   "1676840": {
     "config_count": 1,
     "devices": [],
@@ -9748,7 +9762,7 @@
     "name": "Marvel\u2019s Spider-Man Remastered"
   },
   "1817190": {
-    "config_count": 32,
+    "config_count": 33,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -9824,6 +9838,11 @@
         "d": "Adreno__TM__810",
         "m": "RMX5070",
         "s": "Adreno (TM) 810"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "AN00",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -23980,7 +23999,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1875,
+    "config_count": 1876,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25854,6 +25873,14 @@
     ],
     "name": "The Sims\u2122 2 Legacy Collection"
   },
+  "3314580": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "tra"
+    ],
+    "name": "Trash Day"
+  },
   "3314790": {
     "config_count": 2,
     "devices": [],
@@ -26202,6 +26229,20 @@
       "citadel"
     ],
     "name": "Beyond Citadel"
+  },
+  "3372060": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "Pocket_ACE",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Hell_Maiden"
+    ],
+    "name": "Hell Maiden"
   },
   "3372630": {
     "config_count": 1,
@@ -27206,6 +27247,15 @@
     ],
     "name": "Car Service Together"
   },
+  "35020": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_Arkham_Asylum"
+    ],
+    "name": "Batman: Arkham Asylum Demo"
+  },
   "3503050": {
     "config_count": 1,
     "devices": [
@@ -27235,7 +27285,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 29,
+    "config_count": 27,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -27300,8 +27350,6 @@
     ],
     "folders": [
       "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_Arkham_Asylum",
       "Batman__Arkham_Asylum_GOTY_Edition"
     ],
     "name": "Batman: Arkham Asylum Game of the Year Edition"
@@ -31095,20 +31143,6 @@
     ],
     "name": "My Winter Car"
   },
-  "4165890": {
-    "config_count": 5,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "A024",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Steam"
-    ],
-    "name": "Steam Frame"
-  },
   "418240": {
     "config_count": 2,
     "devices": [
@@ -34243,14 +34277,6 @@
       "dacapo"
     ],
     "name": "Da Capo"
-  },
-  "5201760": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "tra"
-    ],
-    "name": "ARC Raiders - Frozen Trail Collector Set"
   },
   "521890": {
     "config_count": 2,
@@ -43010,7 +43036,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3114,
+    "config_count": 3115,
     "devices": [
       {
         "d": "G52_MC2",
@@ -43971,6 +43997,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8322",
+        "m": "GRAVITY_TAB_8",
+        "s": "PowerVR Rogue GE8322"
       },
       {
         "d": "Adreno__TM__740",
