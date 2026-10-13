@@ -1524,22 +1524,16 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 5,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
         "m": "2201123G",
         "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
       "BattleForTheGrid",
-      "GRID",
       "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
@@ -3021,7 +3015,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 444,
+    "config_count": 445,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3457,6 +3451,11 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "Infinix_X6891",
+        "s": "Adreno (TM) 650"
       },
       {
         "d": "Adreno__TM__735",
@@ -5679,6 +5678,14 @@
       "F1_2020"
     ],
     "name": "Sim Racing Telemetry - F1 2020"
+  },
+  "1386900": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Observer"
+    ],
+    "name": "Observer: System Redux"
   },
   "1390410": {
     "config_count": 4,
@@ -14465,7 +14472,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 17,
+    "config_count": 20,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -14504,7 +14511,9 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -21296,7 +21305,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -21336,9 +21345,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "rerev",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -21616,16 +21623,35 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 3,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "PLQ110",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "CPH2795",
+        "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "CPH2653",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
-      "The_Witcher_3__Wild_Hunt_-_Complete_Edition"
+      "The_Witcher_3__Wild_Hunt_-_Complete_Edition",
+      "The_Witcher_3_-_Wild_Hunt",
+      "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
+      "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
+      "The_Witcher_3_-_Wild_Hunt___Remastered"
     ],
     "name": "The Witcher 3: Wild Hunt - Complete Edition"
   },
@@ -23965,7 +23991,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1865,
+    "config_count": 1868,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -26263,7 +26289,7 @@
     "name": "Arma 2 Free"
   },
   "339034": {
-    "config_count": 35,
+    "config_count": 36,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -27108,7 +27134,7 @@
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
   },
   "3493540": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G57_MC2",
@@ -27191,15 +27217,6 @@
     ],
     "name": "Car Service Together"
   },
-  "35020": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_Arkham_Asylum"
-    ],
-    "name": "Batman: Arkham Asylum Demo"
-  },
   "3503050": {
     "config_count": 1,
     "devices": [
@@ -27229,7 +27246,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 27,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -27294,6 +27311,8 @@
     ],
     "folders": [
       "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_Arkham_Asylum",
       "Batman__Arkham_Asylum_GOTY_Edition"
     ],
     "name": "Batman: Arkham Asylum Game of the Year Edition"
@@ -27973,7 +27992,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 5,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -27994,6 +28013,11 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -29982,7 +30006,7 @@
     "name": "MDS: Metro dispatcher simulator"
   },
   "391720": {
-    "config_count": 48,
+    "config_count": 50,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -30040,11 +30064,6 @@
         "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
       },
       {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
-      },
-      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
@@ -30063,6 +30082,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       }
     ],
     "folders": [
@@ -33603,7 +33627,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 52,
+    "config_count": 48,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -33706,21 +33730,6 @@
         "s": "Adreno (TM) 840"
       },
       {
-        "d": "Adreno__TM__830",
-        "m": "PLQ110",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "CPH2795",
-        "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "CPH2653",
-        "s": "Adreno (TM) 830"
-      },
-      {
         "d": "Adreno__TM__750",
         "m": "V2425A",
         "s": "Adreno (TM) 750"
@@ -33739,10 +33748,6 @@
     "folders": [
       "The_Witcher_3",
       "The_Witcher_3__Wild_Hunt",
-      "The_Witcher_3_-_Wild_Hunt",
-      "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
-      "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
-      "The_Witcher_3_-_Wild_Hunt___Remastered",
       "Witcher_1",
       "_Witcher",
       "witcher3"
@@ -34091,6 +34096,20 @@
     ],
     "name": "Fate/EXTELLA"
   },
+  "5155360": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "24030PN60G",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Hood_Warfare_2"
+    ],
+    "name": "Hood Warfare 2"
+  },
   "516750": {
     "config_count": 12,
     "devices": [
@@ -34154,14 +34173,6 @@
       "dacapo"
     ],
     "name": "Da Capo"
-  },
-  "5201760": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "tra"
-    ],
-    "name": "ARC Raiders - Frozen Trail Collector Set"
   },
   "521890": {
     "config_count": 2,
@@ -39566,14 +39577,6 @@
     ],
     "name": "Far Cry\u00ae New Dawn"
   },
-  "940190": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Chuckie_Egg_3"
-    ],
-    "name": "Chuckie Egg 2017"
-  },
   "940910": {
     "config_count": 1,
     "devices": [],
@@ -40840,6 +40843,14 @@
       "CastlevaniaSOH"
     ],
     "name": "Castlevaniasoh"
+  },
+  "name:chuckie-egg-3": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Chuckie_Egg_3"
+    ],
+    "name": "Chuckie Egg 3"
   },
   "name:civilization-ii-multiplayer-gold-edition": {
     "config_count": 1,
@@ -42852,7 +42863,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3104,
+    "config_count": 3105,
     "devices": [
       {
         "d": "G52_MC2",
