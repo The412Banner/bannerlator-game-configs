@@ -41983,7 +41983,7 @@
     "name": "Gta5 Optijuegos"
   },
   "name:gtaiv": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -44196,7 +44196,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 236,
+    "config_count": 237,
     "devices": [
       {
         "d": "G615_MC2",
@@ -44502,6 +44502,11 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "CPH2645",
+        "s": "Adreno (TM) 750"
       },
       {
         "d": "Adreno__TM__740",
