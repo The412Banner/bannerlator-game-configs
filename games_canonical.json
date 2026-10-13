@@ -755,6 +755,14 @@
     ],
     "name": "New Super Lucky's Tale"
   },
+  "1041320": {
+    "config_count": 3,
+    "devices": [],
+    "folders": [
+      "LoK"
+    ],
+    "name": "Lords Mobile: Kingdom Wars"
+  },
   "1044720": {
     "config_count": 1,
     "devices": [
@@ -830,7 +838,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 10,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -866,16 +874,10 @@
         "d": "Adreno__TM__740",
         "m": "2211133C",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Ori_and_the_Will_of_the_Wisps",
-      "Ori",
       "Ori_and_the_will_of_the_wisps"
     ],
     "name": "Ori and the Will of the Wisps"
@@ -8428,20 +8430,6 @@
     ],
     "name": "Minecraft Dungeons"
   },
-  "1675200": {
-    "config_count": 5,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "A024",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Steam"
-    ],
-    "name": "Steam Deck"
-  },
   "1676840": {
     "config_count": 1,
     "devices": [],
@@ -14114,7 +14102,7 @@
     "name": "DmC: Devil May Cry"
   },
   "2207440": {
-    "config_count": 4,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -14123,8 +14111,7 @@
       }
     ],
     "folders": [
-      "LOK",
-      "LoK"
+      "LOK"
     ],
     "name": "LOK Digital"
   },
@@ -19102,12 +19089,22 @@
     "name": "Mount & Blade II: Bannerlord"
   },
   "261570": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__650",
         "m": "M2012K11AG",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       },
       {
         "d": "Adreno__TM__710",
@@ -19117,6 +19114,7 @@
     ],
     "folders": [
       "Ori_and_the_Blind_Forest",
+      "Ori",
       "Ori_and_The_Blind_Forest_-_Definitive_Edition"
     ],
     "name": "Ori and the Blind Forest"
@@ -25878,14 +25876,6 @@
     ],
     "name": "The Sims\u2122 2 Legacy Collection"
   },
-  "3314580": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "tra"
-    ],
-    "name": "Trash Day"
-  },
   "3314790": {
     "config_count": 2,
     "devices": [],
@@ -28592,7 +28582,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 45,
+    "config_count": 48,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -28688,6 +28678,11 @@
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "S928B",
+        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
@@ -28699,7 +28694,8 @@
       "DARK_SOULS_III",
       "DarkSoulsII",
       "DarkSoulsIII",
-      "Dark_Souls_III"
+      "Dark_Souls_III",
+      "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122 III"
   },
@@ -30653,6 +30649,14 @@
     ],
     "name": "Shift At Midnight Multiplayer Demo"
   },
+  "405310": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "LEGO_MARVEL_s_Avengers"
+    ],
+    "name": "LEGO\u00ae MARVEL's Avengers"
+  },
   "405820": {
     "config_count": 1,
     "devices": [],
@@ -31148,6 +31152,20 @@
     ],
     "name": "My Winter Car"
   },
+  "4165910": {
+    "config_count": 5,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "A024",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Steam"
+    ],
+    "name": "Steam Machine"
+  },
   "418240": {
     "config_count": 2,
     "devices": [
@@ -31587,14 +31605,6 @@
       "Call_of_Duty_-_Modern_Warfare_3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
-  },
-  "426860": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "LEGO_MARVEL_s_Avengers"
-    ],
-    "name": "LEGO\u00ae MARVEL's Avengers Season Pass"
   },
   "42700": {
     "config_count": 2,
@@ -32133,20 +32143,13 @@
     "name": "This Is the Police"
   },
   "4439810": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
-      "Forza_Horizon_2_____________________________________________"
-    ],
-    "name": "Forza Horizon 6 2024 Koenigsegg Gemera"
-  },
-  "4439830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
+      "Forza_Horizon_2_____________________________________________",
       "Forza_Horizon_2"
     ],
-    "name": "Forza Horizon 6 2008 Honda Civic Type R (FD2)"
+    "name": "Forza Horizon 6 2024 Koenigsegg Gemera"
   },
   "444200": {
     "config_count": 1,
@@ -34290,6 +34293,14 @@
     ],
     "name": "Da Capo"
   },
+  "5201760": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "tra"
+    ],
+    "name": "ARC Raiders - Frozen Trail Collector Set"
+  },
   "521890": {
     "config_count": 2,
     "devices": [
@@ -35219,7 +35230,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 47,
+    "config_count": 44,
     "devices": [
       {
         "d": "G57",
@@ -35325,17 +35336,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
-      },
-      {
-        "d": "Adreno__TM__660",
-        "m": "S928B",
-        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
       "DARK_SOULS__REMASTERED",
-      "DARK_SOULS___REMASTERED",
-      "Dark_Souls_Remastered"
+      "DARK_SOULS___REMASTERED"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
   },
@@ -39313,6 +39318,14 @@
       "BioShock_Infinite_Complete_Edition"
     ],
     "name": "BioShock Infinite"
+  },
+  "889921": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Metro_Exodus_-_Sam_s_Story"
+    ],
+    "name": "Metro Exodus - Sam S Story"
   },
   "892970": {
     "config_count": 6,
