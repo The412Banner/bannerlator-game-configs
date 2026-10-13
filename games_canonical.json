@@ -3580,7 +3580,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 54,
+    "config_count": 38,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -3676,24 +3676,12 @@
         "d": "Adreno__TM__722",
         "m": "CPH2825",
         "s": "Adreno (TM) 722"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "M2007J3SY",
-        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
       "Need_for_Speed__Heat",
       "nfs",
-      "Need_for_Speed_Heat",
-      "Speed",
-      "speed"
+      "Need_for_Speed_Heat"
     ],
     "name": "Need for Speed\u2122 Heat"
   },
@@ -16336,20 +16324,6 @@
     ],
     "name": "Europa Universalis IV"
   },
-  "2369390": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      }
-    ],
-    "folders": [
-      "FarCry"
-    ],
-    "name": "Far Cry\u00ae 6"
-  },
   "2370000": {
     "config_count": 1,
     "devices": [],
@@ -21270,7 +21244,7 @@
     "name": "Metro 2033 Redux"
   },
   "2868840": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "Adreno__TM__613",
@@ -23642,7 +23616,7 @@
     "name": "Mall Simulator"
   },
   "3183760": {
-    "config_count": 4,
+    "config_count": 20,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23658,10 +23632,21 @@
         "d": "Adreno__TM__750",
         "m": "NX769J",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
-      "speed"
+      "speed",
+      "Speed"
     ],
     "name": "SpeedRunners 2: King of Speed"
   },
@@ -31816,16 +31801,22 @@
     "name": "Pai Gow Poker by Pokerist"
   },
   "4356430": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "Lenovo_L79031",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
-      "2K_Sports_NBA_2K___"
+      "2K_Sports_NBA_2K___",
+      "NBA_2K27"
     ],
     "name": "NBA 2K27"
   },
@@ -34800,7 +34791,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "G720_MC7",
@@ -34846,6 +34837,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -34854,7 +34850,8 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry"
+      "far_cry",
+      "FarCry"
     ],
     "name": "Far Cry\u00ae 5"
   },
