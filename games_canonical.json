@@ -895,7 +895,7 @@
     "name": "Dinkum"
   },
   "1063040": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "G52_MC2",
@@ -23999,7 +23999,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1878,
+    "config_count": 1879,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -32133,13 +32133,20 @@
     "name": "This Is the Police"
   },
   "4439810": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "Forza_Horizon_2_____________________________________________",
-      "Forza_Horizon_2"
+      "Forza_Horizon_2_____________________________________________"
     ],
     "name": "Forza Horizon 6 2024 Koenigsegg Gemera"
+  },
+  "4439830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Forza_Horizon_2"
+    ],
+    "name": "Forza Horizon 6 2008 Honda Civic Type R (FD2)"
   },
   "444200": {
     "config_count": 1,
@@ -41159,8 +41166,13 @@
     "name": "Daorigins"
   },
   "name:dark-souls-prepare-to-die-edition": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
       {
         "d": "Adreno__TM__825",
         "m": "I2405",
@@ -41168,6 +41180,7 @@
       }
     ],
     "folders": [
+      "DARK_SOULS_PREPARE_TO_DIE_EDITION",
       "DARK_SOULS___Prepare_To_Die_Edition"
     ],
     "name": "Dark Souls Prepare To Die Edition"
