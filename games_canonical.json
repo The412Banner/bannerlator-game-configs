@@ -451,14 +451,6 @@
     ],
     "name": "Postal III"
   },
-  "1026680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "FINAL_FANTASY_VIII_REMASTERED"
-    ],
-    "name": "FINAL FANTASY VIII - REMASTERED"
-  },
   "10270": {
     "config_count": 2,
     "devices": [],
@@ -1524,16 +1516,22 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__730",
         "m": "2201123G",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
       "BattleForTheGrid",
+      "GRID",
       "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
@@ -6430,7 +6428,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 109,
+    "config_count": 108,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -17879,7 +17877,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 29,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -27987,7 +27985,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 8,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -28008,11 +28006,6 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -29924,7 +29917,7 @@
     "name": "Rise of the Tomb Raider\u2122"
   },
   "39150": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -29934,7 +29927,8 @@
     ],
     "folders": [
       "FINAL_FANTASY_VIII",
-      "FINAL_FANTASY_VIII_-_REMASTERED"
+      "FINAL_FANTASY_VIII_-_REMASTERED",
+      "FINAL_FANTASY_VIII_REMASTERED"
     ],
     "name": "FINAL FANTASY VIII"
   },
@@ -36294,7 +36288,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -36313,7 +36307,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2"
+      "LEGO__Marvel_Super_Heroes_2",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -41164,6 +41159,14 @@
     ],
     "name": "Discordsetup"
   },
+  "name:dishonored-do": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Dishonored_DO"
+    ],
+    "name": "Dishonored Do"
+  },
   "name:dlss-5-swapper": {
     "config_count": 1,
     "devices": [],
@@ -41523,6 +41526,14 @@
       "FFXIII"
     ],
     "name": "Ffxiii"
+  },
+  "name:fifa-20": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "FIFA_20"
+    ],
+    "name": "Fifa 20"
   },
   "name:fifa14": {
     "config_count": 1,
@@ -42873,7 +42884,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3105,
+    "config_count": 3106,
     "devices": [
       {
         "d": "G52_MC2",
