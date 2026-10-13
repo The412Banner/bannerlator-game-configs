@@ -2629,6 +2629,14 @@
     ],
     "name": "Car Mechanic Simulator 2021"
   },
+  "1190970": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "HouseFlipper"
+    ],
+    "name": "House Flipper 2"
+  },
   "1194690": {
     "config_count": 1,
     "devices": [],
@@ -11929,6 +11937,11 @@
         "d": "Adreno__TM__740",
         "m": "CPH2449",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "S942U",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__740",
@@ -22733,7 +22746,7 @@
     "name": "MotoGP\u212225"
   },
   "307780": {
-    "config_count": 42,
+    "config_count": 43,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -30900,14 +30913,6 @@
       "ZAT"
     ],
     "name": "Z.A.T.O. - Digital Art Pack"
-  },
-  "4123760": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Football_Life_2026"
-    ],
-    "name": "Football Life"
   },
   "413150": {
     "config_count": 9,
@@ -41689,6 +41694,14 @@
       "Final_Fantasy_Reinassance_FFR_2_3_2_"
     ],
     "name": "Final Fantasy Reinassance Ffr 2 3 2"
+  },
+  "name:football-life-2026": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Football_Life_2026"
+    ],
+    "name": "Football Life 2026"
   },
   "name:frozen-throne": {
     "config_count": 1,
