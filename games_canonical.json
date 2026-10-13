@@ -21617,35 +21617,16 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 7,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "PLQ110",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "CPH2795",
-        "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "CPH2653",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
-      "The_Witcher_3__Wild_Hunt_-_Complete_Edition",
-      "The_Witcher_3_-_Wild_Hunt",
-      "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
-      "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
-      "The_Witcher_3_-_Wild_Hunt___Remastered"
+      "The_Witcher_3__Wild_Hunt_-_Complete_Edition"
     ],
     "name": "The Witcher 3: Wild Hunt - Complete Edition"
   },
@@ -27128,7 +27109,7 @@
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
   },
   "3493540": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G57_MC2",
@@ -33683,7 +33664,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 48,
+    "config_count": 52,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -33786,6 +33767,21 @@
         "s": "Adreno (TM) 840"
       },
       {
+        "d": "Adreno__TM__830",
+        "m": "PLQ110",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "CPH2795",
+        "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "CPH2653",
+        "s": "Adreno (TM) 830"
+      },
+      {
         "d": "Adreno__TM__750",
         "m": "V2425A",
         "s": "Adreno (TM) 750"
@@ -33804,6 +33800,10 @@
     "folders": [
       "The_Witcher_3",
       "The_Witcher_3__Wild_Hunt",
+      "The_Witcher_3_-_Wild_Hunt",
+      "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
+      "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
+      "The_Witcher_3_-_Wild_Hunt___Remastered",
       "Witcher_1",
       "_Witcher",
       "witcher3"
@@ -34229,14 +34229,6 @@
       "dacapo"
     ],
     "name": "Da Capo"
-  },
-  "5201760": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "tra"
-    ],
-    "name": "ARC Raiders - Frozen Trail Collector Set"
   },
   "521890": {
     "config_count": 2,
@@ -37413,6 +37405,20 @@
     ],
     "name": "Mega Man 11"
   },
+  "742420": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__730",
+        "m": "S906U1",
+        "s": "Adreno (TM) 730"
+      }
+    ],
+    "folders": [
+      "saints_row_1"
+    ],
+    "name": "Saints Row"
+  },
   "744900": {
     "config_count": 1,
     "devices": [],
@@ -37914,7 +37920,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G720_MC7",
@@ -40549,7 +40555,7 @@
     "name": "Acfc"
   },
   "name:acrsp": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "G57_MC2",
