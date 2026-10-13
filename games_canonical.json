@@ -8167,7 +8167,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 103,
+    "config_count": 104,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -16311,6 +16311,20 @@
     ],
     "name": "Europa Universalis IV"
   },
+  "2369390": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "FarCry"
+    ],
+    "name": "Far Cry\u00ae 6"
+  },
   "2370000": {
     "config_count": 1,
     "devices": [],
@@ -20371,6 +20385,14 @@
       "No_Man_s_Sky"
     ],
     "name": "No Man's Sky"
+  },
+  "2760560": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Cthulhu_-_The_Cosmic_Abyss"
+    ],
+    "name": "Cthulhu - The Cosmic Abyss"
   },
   "2764370": {
     "config_count": 1,
@@ -34810,7 +34832,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 21,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -34856,11 +34878,6 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -34869,8 +34886,7 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry",
-      "FarCry"
+      "far_cry"
     ],
     "name": "Far Cry\u00ae 5"
   },
