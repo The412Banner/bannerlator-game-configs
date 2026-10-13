@@ -2601,7 +2601,7 @@
     "name": "I.G.I. Origins"
   },
   "1187": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "G77_MC9",
@@ -2610,8 +2610,7 @@
       }
     ],
     "folders": [
-      "ACC",
-      "Assassin_s_Creed_Rogue"
+      "ACC"
     ],
     "name": "Acc"
   },
@@ -23120,9 +23119,10 @@
     "name": "METAL GEAR SOLID V: GROUND ZEROES"
   },
   "311560": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [],
     "folders": [
+      "Assassin_s_Creed_Rogue",
       "Assassins_Creed_Rogue"
     ],
     "name": "Assassin\u2019s Creed\u00ae Rogue"
@@ -23999,7 +23999,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1876,
+    "config_count": 1878,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24797,11 +24797,6 @@
         "s": "Adreno (TM) 644"
       },
       {
-        "d": "Adreno__TM__710",
-        "m": "motorola_edge_50_fusion",
-        "s": "Adreno (TM) 710"
-      },
-      {
         "d": "PowerVR_Rogue_GE8322",
         "m": "A07",
         "s": "PowerVR Rogue GE8322"
@@ -25200,6 +25195,16 @@
         "d": "Adreno__TM__642L",
         "m": "22101320G",
         "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "motorola_edge_50_fusion",
+        "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "A525F",
+        "s": "Adreno (TM) 618"
       },
       {
         "d": "Adreno__TM__830",
