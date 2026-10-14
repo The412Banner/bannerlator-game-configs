@@ -4704,7 +4704,7 @@
     "name": "Need for Speed\u2122 Payback"
   },
   "1262600": {
-    "config_count": 24,
+    "config_count": 25,
     "devices": [
       {
         "d": "SM8635",
@@ -4770,6 +4770,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "G990B",
+        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
@@ -8832,6 +8837,14 @@
       "Last_Vanguard"
     ],
     "name": "Last Vanguard"
+  },
+  "1731290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GUN"
+    ],
+    "name": "SPINE - This is Gun Fu"
   },
   "1731460": {
     "config_count": 1,
@@ -14502,7 +14515,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 20,
+    "config_count": 17,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -14541,9 +14554,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -18378,14 +18389,6 @@
     ],
     "name": "Denshattack"
   },
-  "2524890": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GUN"
-    ],
-    "name": "Pixel Gun 3D: PC Edition"
-  },
   "2527160": {
     "config_count": 3,
     "devices": [],
@@ -21351,7 +21354,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 34,
     "devices": [
       {
         "d": "G615_MC2",
@@ -21391,7 +21394,9 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -24021,7 +24026,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1888,
+    "config_count": 1889,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -33174,7 +33179,7 @@
     "name": "Speak Demo"
   },
   "48190": {
-    "config_count": 27,
+    "config_count": 28,
     "devices": [
       {
         "d": "MT6789",
@@ -39926,7 +39931,7 @@
     "name": "Volcanoids"
   },
   "952060": {
-    "config_count": 82,
+    "config_count": 85,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -40052,6 +40057,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       },
       {
         "d": "G57",
