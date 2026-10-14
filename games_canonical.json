@@ -755,14 +755,6 @@
     ],
     "name": "New Super Lucky's Tale"
   },
-  "1041320": {
-    "config_count": 3,
-    "devices": [],
-    "folders": [
-      "LoK"
-    ],
-    "name": "Lords Mobile: Kingdom Wars"
-  },
   "1044720": {
     "config_count": 1,
     "devices": [
@@ -838,7 +830,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -874,10 +866,16 @@
         "d": "Adreno__TM__740",
         "m": "2211133C",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Ori_and_the_Will_of_the_Wisps",
+      "Ori",
       "Ori_and_the_will_of_the_wisps"
     ],
     "name": "Ori and the Will of the Wisps"
@@ -3588,7 +3586,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 38,
+    "config_count": 54,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -3684,12 +3682,24 @@
         "d": "Adreno__TM__722",
         "m": "CPH2825",
         "s": "Adreno (TM) 722"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
       "Need_for_Speed__Heat",
       "nfs",
-      "Need_for_Speed_Heat"
+      "Need_for_Speed_Heat",
+      "Speed",
+      "speed"
     ],
     "name": "Need for Speed\u2122 Heat"
   },
@@ -9154,6 +9164,25 @@
     ],
     "name": "Crab Game"
   },
+  "1785910": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
+      }
+    ],
+    "folders": [
+      "SB"
+    ],
+    "name": "SBK\u212222"
+  },
   "1790600": {
     "config_count": 172,
     "devices": [
@@ -14102,7 +14131,7 @@
     "name": "DmC: Devil May Cry"
   },
   "2207440": {
-    "config_count": 1,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -14111,7 +14140,8 @@
       }
     ],
     "folders": [
-      "LOK"
+      "LOK",
+      "LoK"
     ],
     "name": "LOK Digital"
   },
@@ -16316,20 +16346,6 @@
       "Europa_Universalis_IV"
     ],
     "name": "Europa Universalis IV"
-  },
-  "2369390": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      }
-    ],
-    "folders": [
-      "FarCry"
-    ],
-    "name": "Far Cry\u00ae 6"
   },
   "2370000": {
     "config_count": 1,
@@ -19089,22 +19105,12 @@
     "name": "Mount & Blade II: Bannerlord"
   },
   "261570": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
         "m": "M2012K11AG",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "2211133C",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       },
       {
         "d": "Adreno__TM__710",
@@ -19114,7 +19120,6 @@
     ],
     "folders": [
       "Ori_and_the_Blind_Forest",
-      "Ori",
       "Ori_and_The_Blind_Forest_-_Definitive_Edition"
     ],
     "name": "Ori and the Blind Forest"
@@ -20087,25 +20092,6 @@
       "SAMURAI_WARRIORS_4_DX"
     ],
     "name": "SAMURAI WARRIORS 4 DX"
-  },
-  "2723810": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "Odin3",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__735",
-        "m": "24069PC21G",
-        "s": "Adreno (TM) 735"
-      }
-    ],
-    "folders": [
-      "SB"
-    ],
-    "name": "SBcatfight game"
   },
   "272510": {
     "config_count": 12,
@@ -21647,16 +21633,35 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 3,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "PLQ110",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "CPH2795",
+        "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "CPH2653",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
-      "The_Witcher_3__Wild_Hunt_-_Complete_Edition"
+      "The_Witcher_3__Wild_Hunt_-_Complete_Edition",
+      "The_Witcher_3_-_Wild_Hunt",
+      "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
+      "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
+      "The_Witcher_3_-_Wild_Hunt___Remastered"
     ],
     "name": "The Witcher 3: Wild Hunt - Complete Edition"
   },
@@ -23643,7 +23648,7 @@
     "name": "Mall Simulator"
   },
   "3183760": {
-    "config_count": 20,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23659,21 +23664,10 @@
         "d": "Adreno__TM__750",
         "m": "NX769J",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "M2007J3SY",
-        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
-      "speed",
-      "Speed"
+      "speed"
     ],
     "name": "SpeedRunners 2: King of Speed"
   },
@@ -23997,7 +23991,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1879,
+    "config_count": 1881,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25203,6 +25197,11 @@
         "d": "Adreno__TM__618",
         "m": "A525F",
         "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "OPD2514",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__830",
@@ -27242,15 +27241,6 @@
     ],
     "name": "Car Service Together"
   },
-  "35020": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_Arkham_Asylum"
-    ],
-    "name": "Batman: Arkham Asylum Demo"
-  },
   "3503050": {
     "config_count": 1,
     "devices": [
@@ -27280,7 +27270,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 27,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -27345,6 +27335,8 @@
     ],
     "folders": [
       "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_Arkham_Asylum",
       "Batman__Arkham_Asylum_GOTY_Edition"
     ],
     "name": "Batman: Arkham Asylum Game of the Year Edition"
@@ -28582,7 +28574,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 48,
+    "config_count": 45,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -28678,11 +28670,6 @@
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Adreno__TM__660",
-        "m": "S928B",
-        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
@@ -28694,8 +28681,7 @@
       "DARK_SOULS_III",
       "DarkSoulsII",
       "DarkSoulsIII",
-      "Dark_Souls_III",
-      "Dark_Souls_Remastered"
+      "Dark_Souls_III"
     ],
     "name": "DARK SOULS\u2122 III"
   },
@@ -30649,14 +30635,6 @@
     ],
     "name": "Shift At Midnight Multiplayer Demo"
   },
-  "405310": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "LEGO_MARVEL_s_Avengers"
-    ],
-    "name": "LEGO\u00ae MARVEL's Avengers"
-  },
   "405820": {
     "config_count": 1,
     "devices": [],
@@ -31605,6 +31583,14 @@
       "Call_of_Duty_-_Modern_Warfare_3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
+  },
+  "426860": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "LEGO_MARVEL_s_Avengers"
+    ],
+    "name": "LEGO\u00ae MARVEL's Avengers Season Pass"
   },
   "42700": {
     "config_count": 2,
@@ -33727,7 +33713,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 52,
+    "config_count": 48,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -33830,21 +33816,6 @@
         "s": "Adreno (TM) 840"
       },
       {
-        "d": "Adreno__TM__830",
-        "m": "PLQ110",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "CPH2795",
-        "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "CPH2653",
-        "s": "Adreno (TM) 830"
-      },
-      {
         "d": "Adreno__TM__750",
         "m": "V2425A",
         "s": "Adreno (TM) 750"
@@ -33863,10 +33834,6 @@
     "folders": [
       "The_Witcher_3",
       "The_Witcher_3__Wild_Hunt",
-      "The_Witcher_3_-_Wild_Hunt",
-      "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
-      "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
-      "The_Witcher_3_-_Wild_Hunt___Remastered",
       "Witcher_1",
       "_Witcher",
       "witcher3"
@@ -34898,7 +34865,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "G720_MC7",
@@ -34944,6 +34911,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -34952,7 +34924,8 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry"
+      "far_cry",
+      "FarCry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -35230,7 +35203,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 44,
+    "config_count": 47,
     "devices": [
       {
         "d": "G57",
@@ -35336,11 +35309,17 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "S928B",
+        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
       "DARK_SOULS__REMASTERED",
-      "DARK_SOULS___REMASTERED"
+      "DARK_SOULS___REMASTERED",
+      "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
   },
@@ -42709,6 +42688,14 @@
     ],
     "name": "Need For Speed Underground 2"
   },
+  "name:need-for-speed-underground-2-sil-edition": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Need_For_Speed_Underground_2_SIL_Edition"
+    ],
+    "name": "Need For Speed Underground 2 Sil Edition"
+  },
   "name:nfs-most-wanted": {
     "config_count": 2,
     "devices": [
@@ -43067,7 +43054,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3115,
+    "config_count": 3116,
     "devices": [
       {
         "d": "G52_MC2",
