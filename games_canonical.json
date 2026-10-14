@@ -21675,35 +21675,16 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 7,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "PLQ110",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "CPH2795",
-        "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "CPH2653",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
-      "The_Witcher_3__Wild_Hunt_-_Complete_Edition",
-      "The_Witcher_3_-_Wild_Hunt",
-      "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
-      "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
-      "The_Witcher_3_-_Wild_Hunt___Remastered"
+      "The_Witcher_3__Wild_Hunt_-_Complete_Edition"
     ],
     "name": "The Witcher 3: Wild Hunt - Complete Edition"
   },
@@ -27296,6 +27277,15 @@
     ],
     "name": "Car Service Together"
   },
+  "35020": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_Arkham_Asylum"
+    ],
+    "name": "Batman: Arkham Asylum Demo"
+  },
   "3503050": {
     "config_count": 1,
     "devices": [
@@ -27325,7 +27315,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 29,
+    "config_count": 27,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -27390,8 +27380,6 @@
     ],
     "folders": [
       "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_Arkham_Asylum",
       "Batman__Arkham_Asylum_GOTY_Edition"
     ],
     "name": "Batman: Arkham Asylum Game of the Year Edition"
@@ -33749,7 +33737,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 48,
+    "config_count": 52,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -33852,6 +33840,21 @@
         "s": "Adreno (TM) 840"
       },
       {
+        "d": "Adreno__TM__830",
+        "m": "PLQ110",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "CPH2795",
+        "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "CPH2653",
+        "s": "Adreno (TM) 830"
+      },
+      {
         "d": "Adreno__TM__750",
         "m": "V2425A",
         "s": "Adreno (TM) 750"
@@ -33870,6 +33873,10 @@
     "folders": [
       "The_Witcher_3",
       "The_Witcher_3__Wild_Hunt",
+      "The_Witcher_3_-_Wild_Hunt",
+      "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
+      "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
+      "The_Witcher_3_-_Wild_Hunt___Remastered",
       "Witcher_1",
       "_Witcher",
       "witcher3"
