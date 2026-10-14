@@ -2767,7 +2767,7 @@
     "name": "A Space for the Unbound"
   },
   "1203170": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -2778,6 +2778,11 @@
         "d": "Adreno__TM__735",
         "m": "24069RA21C",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -8435,6 +8440,20 @@
     ],
     "name": "Minecraft Dungeons"
   },
+  "1675200": {
+    "config_count": 5,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "A024",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Steam"
+    ],
+    "name": "Steam Deck"
+  },
   "1676840": {
     "config_count": 1,
     "devices": [],
@@ -8791,14 +8810,6 @@
       "Last_Vanguard"
     ],
     "name": "Last Vanguard"
-  },
-  "1731290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GUN"
-    ],
-    "name": "SPINE - This is Gun Fu"
   },
   "1731460": {
     "config_count": 1,
@@ -14469,7 +14480,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 19,
+    "config_count": 17,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -14508,8 +14519,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -18344,6 +18354,14 @@
     ],
     "name": "Denshattack"
   },
+  "2524890": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GUN"
+    ],
+    "name": "Pixel Gun 3D: PC Edition"
+  },
   "2527160": {
     "config_count": 3,
     "devices": [],
@@ -21309,7 +21327,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 34,
     "devices": [
       {
         "d": "G615_MC2",
@@ -21350,6 +21368,7 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
+      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -21628,35 +21647,16 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 7,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "PLQ110",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "CPH2795",
-        "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "CPH2653",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
-      "The_Witcher_3__Wild_Hunt_-_Complete_Edition",
-      "The_Witcher_3_-_Wild_Hunt",
-      "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
-      "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
-      "The_Witcher_3_-_Wild_Hunt___Remastered"
+      "The_Witcher_3__Wild_Hunt_-_Complete_Edition"
     ],
     "name": "The Witcher 3: Wild Hunt - Complete Edition"
   },
@@ -23480,7 +23480,7 @@
     "name": "Football Life Simulator"
   },
   "3159330": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__810",
@@ -27236,6 +27236,15 @@
     ],
     "name": "Car Service Together"
   },
+  "35020": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_Arkham_Asylum"
+    ],
+    "name": "Batman: Arkham Asylum Demo"
+  },
   "3503050": {
     "config_count": 1,
     "devices": [
@@ -27265,7 +27274,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 29,
+    "config_count": 27,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -27330,8 +27339,6 @@
     ],
     "folders": [
       "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_Arkham_Asylum",
       "Batman__Arkham_Asylum_GOTY_Edition"
     ],
     "name": "Batman: Arkham Asylum Game of the Year Edition"
@@ -31125,20 +31132,6 @@
     ],
     "name": "My Winter Car"
   },
-  "4165910": {
-    "config_count": 5,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "A024",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Steam"
-    ],
-    "name": "Steam Machine"
-  },
   "418240": {
     "config_count": 2,
     "devices": [
@@ -31833,7 +31826,7 @@
     "name": "Bruisers 2D Boxing Demo"
   },
   "435100": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [],
     "folders": [
       "2Dark"
@@ -33145,7 +33138,7 @@
     "name": "Speak Demo"
   },
   "48190": {
-    "config_count": 26,
+    "config_count": 27,
     "devices": [
       {
         "d": "MT6789",
@@ -33201,6 +33194,7 @@
     "folders": [
       "Assassin_s_Creed__Brotherhood",
       "Assassin_s_creed_brotherhood",
+      "Assassin_s_Creed_brotherhood",
       "AssassinsCreedBrotherhood"
     ],
     "name": "Assassin\u2019s Creed\u00ae Brotherhood"
@@ -33707,7 +33701,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 48,
+    "config_count": 52,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -33810,6 +33804,21 @@
         "s": "Adreno (TM) 840"
       },
       {
+        "d": "Adreno__TM__830",
+        "m": "PLQ110",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "CPH2795",
+        "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "CPH2653",
+        "s": "Adreno (TM) 830"
+      },
+      {
         "d": "Adreno__TM__750",
         "m": "V2425A",
         "s": "Adreno (TM) 750"
@@ -33828,6 +33837,10 @@
     "folders": [
       "The_Witcher_3",
       "The_Witcher_3__Wild_Hunt",
+      "The_Witcher_3_-_Wild_Hunt",
+      "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
+      "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
+      "The_Witcher_3_-_Wild_Hunt___Remastered",
       "Witcher_1",
       "_Witcher",
       "witcher3"
@@ -35834,7 +35847,7 @@
     "name": "Griftlands"
   },
   "606150": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "G720_MC7",
@@ -37138,22 +37151,16 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__A32",
         "m": "Pocket_Fit_G3_Gen3",
         "s": "Adreno (TM) A32"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "Darksiders_Genesis",
-      "Darksiders",
       "DarksidersGenesis"
     ],
     "name": "Darksiders Genesis"
@@ -37494,7 +37501,7 @@
     "name": "Five Nights at Freddy's: Security Breach"
   },
   "750920": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "SM8850",
@@ -38235,7 +38242,7 @@
     "name": "Monster Sanctuary"
   },
   "814380": {
-    "config_count": 73,
+    "config_count": 75,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -38376,6 +38383,11 @@
         "d": "Adreno__TM__840",
         "m": "CPH2747",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__725",
+        "m": "23049PCD8G",
+        "s": "Adreno (TM) 725"
       },
       {
         "d": "Adreno__TM__750",
@@ -40707,14 +40719,6 @@
       "Assasins_Creed_IV_Black_Flag"
     ],
     "name": "Assasins Creed Iv Black Flag"
-  },
-  "name:assassin-s-creed-brotherhood": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Assassin_s_Creed_brotherhood"
-    ],
-    "name": "Assassin S Creed Brotherhood"
   },
   "name:assassinscreed-dx9": {
     "config_count": 2,
@@ -43076,7 +43080,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3118,
+    "config_count": 3120,
     "devices": [
       {
         "d": "G52_MC2",
@@ -44004,11 +44008,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "256",
-        "m": "8",
-        "s": "PowerVR B-Series BXM-8-256"
-      },
-      {
         "d": "G52",
         "m": "Mali",
         "s": "Mali-G52"
@@ -44042,6 +44041,11 @@
         "d": "PowerVR_Rogue_GE8322",
         "m": "GRAVITY_TAB_8",
         "s": "PowerVR Rogue GE8322"
+      },
+      {
+        "d": "256",
+        "m": "8",
+        "s": "PowerVR B-Series BXM-8-256"
       },
       {
         "d": "Adreno__TM__740",
