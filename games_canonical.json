@@ -41803,6 +41803,20 @@
     ],
     "name": "Gameloader"
   },
+  "name:gamma-emerald": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "F971U",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "Gamma_Emerald"
+    ],
+    "name": "Gamma Emerald"
+  },
   "name:gavi-patch": {
     "config_count": 2,
     "devices": [],
