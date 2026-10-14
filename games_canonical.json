@@ -26477,7 +26477,7 @@
     "name": "Third Crisis: Neon Nights"
   },
   "3404260": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -26488,10 +26488,16 @@
         "d": "Adreno__TM__22",
         "m": "Retroid_Pocket_G2",
         "s": "Adreno (TM) 22"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
-      "Dead_as_Disco"
+      "Dead_as_Disco",
+      "disco"
     ],
     "name": "Dead as Disco"
   },
