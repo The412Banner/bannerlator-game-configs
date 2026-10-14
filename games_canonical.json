@@ -8201,7 +8201,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 104,
+    "config_count": 105,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -8354,7 +8354,8 @@
       "pes_2012",
       "pes_2013",
       "pes_2013_",
-      "pes__2013"
+      "pes__2013",
+      "pes"
     ],
     "name": "eFootball\u2122"
   },
@@ -16369,20 +16370,6 @@
     ],
     "name": "Europa Universalis IV"
   },
-  "2369390": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      }
-    ],
-    "folders": [
-      "FarCry"
-    ],
-    "name": "Far Cry\u00ae 6"
-  },
   "2370000": {
     "config_count": 1,
     "devices": [],
@@ -21688,35 +21675,16 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 7,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "PLQ110",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "CPH2795",
-        "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "CPH2653",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
-      "The_Witcher_3__Wild_Hunt_-_Complete_Edition",
-      "The_Witcher_3_-_Wild_Hunt",
-      "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
-      "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
-      "The_Witcher_3_-_Wild_Hunt___Remastered"
+      "The_Witcher_3__Wild_Hunt_-_Complete_Edition"
     ],
     "name": "The Witcher 3: Wild Hunt - Complete Edition"
   },
@@ -27880,6 +27848,14 @@
     ],
     "name": "The Dark Queen of Mortholme"
   },
+  "3590": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Plants_vs__Zombies_GOTY_Edition"
+    ],
+    "name": "Plants Vs Zombies Goty Edition"
+  },
   "3595230": {
     "config_count": 1,
     "devices": [
@@ -33762,7 +33738,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 48,
+    "config_count": 52,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -33865,6 +33841,21 @@
         "s": "Adreno (TM) 840"
       },
       {
+        "d": "Adreno__TM__830",
+        "m": "PLQ110",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "CPH2795",
+        "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "CPH2653",
+        "s": "Adreno (TM) 830"
+      },
+      {
         "d": "Adreno__TM__750",
         "m": "V2425A",
         "s": "Adreno (TM) 750"
@@ -33883,6 +33874,10 @@
     "folders": [
       "The_Witcher_3",
       "The_Witcher_3__Wild_Hunt",
+      "The_Witcher_3_-_Wild_Hunt",
+      "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
+      "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
+      "The_Witcher_3_-_Wild_Hunt___Remastered",
       "Witcher_1",
       "_Witcher",
       "witcher3"
@@ -34914,7 +34909,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "G720_MC7",
@@ -34960,6 +34955,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -34968,7 +34968,8 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry"
+      "far_cry",
+      "FarCry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -39939,7 +39940,7 @@
     "name": "Volcanoids"
   },
   "952060": {
-    "config_count": 85,
+    "config_count": 86,
     "devices": [
       {
         "d": "Adreno__TM__750",
