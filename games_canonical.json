@@ -14486,7 +14486,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 17,
+    "config_count": 20,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -14525,7 +14525,9 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -21347,7 +21349,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -21387,9 +21389,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "rerev",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -21667,16 +21667,35 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 3,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "PLQ110",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "CPH2795",
+        "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "CPH2653",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
-      "The_Witcher_3__Wild_Hunt_-_Complete_Edition"
+      "The_Witcher_3__Wild_Hunt_-_Complete_Edition",
+      "The_Witcher_3_-_Wild_Hunt",
+      "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
+      "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
+      "The_Witcher_3_-_Wild_Hunt___Remastered"
     ],
     "name": "The Witcher 3: Wild Hunt - Complete Edition"
   },
@@ -24006,7 +24025,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1882,
+    "config_count": 1884,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25332,6 +25351,11 @@
         "d": "Adreno__TM__750",
         "m": "23127PN0CC",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S931B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -33724,7 +33748,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 52,
+    "config_count": 48,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -33827,21 +33851,6 @@
         "s": "Adreno (TM) 840"
       },
       {
-        "d": "Adreno__TM__830",
-        "m": "PLQ110",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "CPH2795",
-        "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "CPH2653",
-        "s": "Adreno (TM) 830"
-      },
-      {
         "d": "Adreno__TM__750",
         "m": "V2425A",
         "s": "Adreno (TM) 750"
@@ -33860,10 +33869,6 @@
     "folders": [
       "The_Witcher_3",
       "The_Witcher_3__Wild_Hunt",
-      "The_Witcher_3_-_Wild_Hunt",
-      "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
-      "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
-      "The_Witcher_3_-_Wild_Hunt___Remastered",
       "Witcher_1",
       "_Witcher",
       "witcher3"
