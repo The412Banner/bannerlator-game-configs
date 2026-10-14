@@ -20775,7 +20775,7 @@
     "name": "SimplePlanes 2"
   },
   "284160": {
-    "config_count": 24,
+    "config_count": 25,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -27610,42 +27610,16 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 19,
+    "config_count": 4,
     "devices": [
       {
         "d": "G57_MC4",
         "m": "Mali",
         "s": "Mali-G57 MC4"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
-      "Atla",
-      "TombRaider"
+      "Atla"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -28554,7 +28528,7 @@
     "name": "Pixel Empires"
   },
   "373420": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -28564,8 +28538,7 @@
     ],
     "folders": [
       "Divinity__Original_Sin_-_Enhanced_Edition",
-      "Divinity__Original_Sin_Enhanced_Edition",
-      "Divinity_Original_Sin_Enhanced_Edition"
+      "Divinity__Original_Sin_Enhanced_Edition"
     ],
     "name": "Divinity: Original Sin - Enhanced Edition"
   },
@@ -28598,7 +28571,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 45,
+    "config_count": 48,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -28694,6 +28667,11 @@
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "S928B",
+        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
@@ -28705,7 +28683,8 @@
       "DARK_SOULS_III",
       "DarkSoulsII",
       "DarkSoulsIII",
-      "Dark_Souls_III"
+      "Dark_Souls_III",
+      "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122 III"
   },
@@ -29688,7 +29667,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 207,
+    "config_count": 222,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -30009,6 +29988,26 @@
         "d": "G76_MC4",
         "m": "Mali",
         "s": "Mali-G76 MC4"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
@@ -30016,7 +30015,8 @@
       "Rise_of_the_Tomb_Raider_",
       "Tomb_Raider",
       "Tomb_Raider_-_Definitive_Edition",
-      "Tomb_Raider_________________________________________________"
+      "Tomb_Raider_________________________________________________",
+      "TombRaider"
     ],
     "name": "Rise of the Tomb Raider\u2122"
   },
@@ -31870,7 +31870,7 @@
     "name": "2Dark"
   },
   "435150": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G720_MC8",
@@ -31879,9 +31879,10 @@
       }
     ],
     "folders": [
-      "Divinity_-_Original_Sin_2_-_Definitive_Edition"
+      "Divinity_-_Original_Sin_2_-_Definitive_Edition",
+      "Divinity_Original_Sin_Enhanced_Edition"
     ],
-    "name": "Divinity - Original Sin 2 - Definitive Edition"
+    "name": "Divinity: Original Sin 2 - Definitive Edition"
   },
   "4355320": {
     "config_count": 16,
@@ -35246,7 +35247,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 48,
+    "config_count": 45,
     "devices": [
       {
         "d": "G57",
@@ -35352,17 +35353,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
-      },
-      {
-        "d": "Adreno__TM__660",
-        "m": "S928B",
-        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
       "DARK_SOULS__REMASTERED",
-      "DARK_SOULS___REMASTERED",
-      "Dark_Souls_Remastered"
+      "DARK_SOULS___REMASTERED"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
   },
@@ -42947,12 +42942,17 @@
     "name": "Nsunsc"
   },
   "name:nsunsr": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g84_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
