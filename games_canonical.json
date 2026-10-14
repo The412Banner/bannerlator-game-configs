@@ -143,7 +143,7 @@
     "name": "Totally Reliable Delivery Service"
   },
   "1012880": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "G720_MC8",
@@ -154,21 +154,10 @@
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g84_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
-      "60SecondsReatomized",
-      "60_Seconds__Reatomized"
+      "60SecondsReatomized"
     ],
     "name": "60 Seconds! Reatomized"
   },
@@ -3592,7 +3581,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 38,
+    "config_count": 54,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -3688,12 +3677,24 @@
         "d": "Adreno__TM__722",
         "m": "CPH2825",
         "s": "Adreno (TM) 722"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
       "Need_for_Speed__Heat",
       "nfs",
-      "Need_for_Speed_Heat"
+      "Need_for_Speed_Heat",
+      "Speed",
+      "speed"
     ],
     "name": "Need for Speed\u2122 Heat"
   },
@@ -14504,7 +14505,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 17,
+    "config_count": 20,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -14543,7 +14544,9 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -14685,7 +14688,7 @@
     "name": "The Elder Scrolls Iv Oblivion Game Of The Year Edition 2009"
   },
   "223470": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G615_MC6",
@@ -20786,7 +20789,7 @@
     "name": "SimplePlanes 2"
   },
   "284160": {
-    "config_count": 22,
+    "config_count": 24,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -20832,6 +20835,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S918B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -21348,7 +21356,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -21388,9 +21396,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "rerev",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -21668,35 +21674,16 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 7,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "PLQ110",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "CPH2795",
-        "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "CPH2653",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
-      "The_Witcher_3__Wild_Hunt_-_Complete_Edition",
-      "The_Witcher_3_-_Wild_Hunt",
-      "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
-      "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
-      "The_Witcher_3_-_Wild_Hunt___Remastered"
+      "The_Witcher_3__Wild_Hunt_-_Complete_Edition"
     ],
     "name": "The Witcher 3: Wild Hunt - Complete Edition"
   },
@@ -23683,7 +23670,7 @@
     "name": "Mall Simulator"
   },
   "3183760": {
-    "config_count": 20,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23699,21 +23686,10 @@
         "d": "Adreno__TM__750",
         "m": "NX769J",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "M2007J3SY",
-        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
-      "speed",
-      "Speed"
+      "speed"
     ],
     "name": "SpeedRunners 2: King of Speed"
   },
@@ -33761,7 +33737,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 48,
+    "config_count": 52,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -33864,6 +33840,21 @@
         "s": "Adreno (TM) 840"
       },
       {
+        "d": "Adreno__TM__830",
+        "m": "PLQ110",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "CPH2795",
+        "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "CPH2653",
+        "s": "Adreno (TM) 830"
+      },
+      {
         "d": "Adreno__TM__750",
         "m": "V2425A",
         "s": "Adreno (TM) 750"
@@ -33882,6 +33873,10 @@
     "folders": [
       "The_Witcher_3",
       "The_Witcher_3__Wild_Hunt",
+      "The_Witcher_3_-_Wild_Hunt",
+      "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
+      "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
+      "The_Witcher_3_-_Wild_Hunt___Remastered",
       "Witcher_1",
       "_Witcher",
       "witcher3"
