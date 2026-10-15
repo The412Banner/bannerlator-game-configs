@@ -1,6 +1,13 @@
 [
   {
     "game": "Resident_Evil_2",
+    "manufacturer": "V2352A",
+    "device": "Adreno__TM__735",
+    "timestamp": 1792031913,
+    "filename": "Resident_Evil_2-vivo-V2352A-Adreno__TM__735-1792031913.json"
+  },
+  {
+    "game": "Resident_Evil_2",
     "manufacturer": "Mali",
     "device": "G720_MC8",
     "timestamp": 1792026865,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1791971549,
     "filename": "GTA5-Xiaomi-24069PC21G-Adreno__TM__735-1791971549.json"
-  },
-  {
-    "game": "Wrestling_Empire",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1791971163,
-    "filename": "Wrestling_Empire-DOOGEE-N50S-Mali-G57-1791971163.json"
   }
 ]
