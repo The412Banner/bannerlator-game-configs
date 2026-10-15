@@ -3016,7 +3016,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 448,
+    "config_count": 449,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -37005,6 +37005,14 @@
     ],
     "name": "CODE VEIN"
   },
+  "6810": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Commandos_-_Beyond_the_Call_of_Duty_________________________"
+    ],
+    "name": "Commandos: Beyond the Call of Duty"
+  },
   "682140": {
     "config_count": 1,
     "devices": [
@@ -41114,7 +41122,7 @@
     "name": "Bob Esponja Titanes De La Marina"
   },
   "name:bootstrappackagedgame": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -41125,6 +41133,11 @@
         "d": "Adreno__TM__650",
         "m": "23043RP34G",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "V2453A",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
