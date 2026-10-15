@@ -5595,14 +5595,6 @@
     ],
     "name": "No Rest for the Wicked"
   },
-  "1372110": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "JoJo_s_Bizarre_Adventure_-_All-Star_Battle_R"
-    ],
-    "name": "Jojo S Bizarre Adventure - All-Star Battle R"
-  },
   "1373550": {
     "config_count": 1,
     "devices": [
@@ -11244,7 +11236,7 @@
     "name": "Wolfenstein: The New Order"
   },
   "201870": {
-    "config_count": 22,
+    "config_count": 23,
     "devices": [
       {
         "d": "G68_MC4",
@@ -11294,7 +11286,8 @@
     ],
     "folders": [
       "Assassin_s_Creed__Revelations",
-      "AssassinsCreedRevelations"
+      "AssassinsCreedRevelations",
+      "Assassins_Creed_Revelations"
     ],
     "name": "Assassin's Creed\u00ae Revelations"
   },
@@ -12136,6 +12129,20 @@
       "Ravenswatch"
     ],
     "name": "Ravenswatch"
+  },
+  "2073620": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "Arena_Breakout__Infinite"
+    ],
+    "name": "Arena Breakout: Infinite"
   },
   "2073850": {
     "config_count": 2,
@@ -20888,7 +20895,7 @@
     "name": "Nunholy"
   },
   "2856190": {
-    "config_count": 122,
+    "config_count": 123,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -21061,14 +21068,14 @@
         "s": "Adreno (TM) 810"
       },
       {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      },
-      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       }
     ],
     "folders": [
