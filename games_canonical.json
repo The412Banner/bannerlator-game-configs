@@ -5659,7 +5659,7 @@
     "name": "Crash Bandicoot\u2122 4: It\u2019s About Time"
   },
   "1384160": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "SM8850",
@@ -5670,10 +5670,16 @@
         "d": "Adreno__TM__830",
         "m": "ASUSAI2501AP",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "24122RKC7G",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
-      "GUILTY_GEAR_-STRIVE-"
+      "GUILTY_GEAR_-STRIVE-",
+      "Guilty_Gear_-Strive-"
     ],
     "name": "GUILTY GEAR -STRIVE-"
   },
@@ -24023,7 +24029,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1898,
+    "config_count": 1899,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -24936,11 +24942,6 @@
         "s": "PowerVR Rogue GE8320"
       },
       {
-        "d": "Adreno__TM__810",
-        "m": "NX1",
-        "s": "Adreno (TM) 810"
-      },
-      {
         "d": "Adreno__TM__619",
         "m": "moto_g84_5G",
         "s": "Adreno (TM) 619"
@@ -25234,6 +25235,11 @@
         "d": "G76",
         "m": "Mali",
         "s": "Mali-G76"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "NX1",
+        "s": "Adreno (TM) 810"
       },
       {
         "d": "Adreno__TM__830",
