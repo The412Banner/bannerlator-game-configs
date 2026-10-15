@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "V2453A",
+    "device": "Adreno__TM__825",
+    "timestamp": 1792088846,
+    "filename": "BootstrapPackagedGame-vivo-V2453A-Adreno__TM__825-1792088846.json"
+  },
+  {
     "game": "moh",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1792038428,
     "filename": "Unity_playback_engine_-motorola-moto_g51_5G-Adreno__TM__619-1792038428.json"
-  },
-  {
-    "game": "Disco_Elysium_-_The_Final_Cut",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1792038032,
-    "filename": "Disco_Elysium_-_The_Final_Cut-motorola-motorola_edge_60_pro-Mali-G615_MC6-1792038032.json"
   }
 ]
