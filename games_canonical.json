@@ -8838,6 +8838,14 @@
     ],
     "name": "Last Vanguard"
   },
+  "1731290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GUN"
+    ],
+    "name": "SPINE - This is Gun Fu"
+  },
   "1731460": {
     "config_count": 1,
     "devices": [
@@ -13874,7 +13882,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 129,
+    "config_count": 130,
     "devices": [
       {
         "d": "G52_MC2",
@@ -14553,7 +14561,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -14593,7 +14601,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev"
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -18461,14 +18470,6 @@
     ],
     "name": "Denshattack"
   },
-  "2524890": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GUN"
-    ],
-    "name": "Pixel Gun 3D: PC Edition"
-  },
   "2527160": {
     "config_count": 3,
     "devices": [],
@@ -21420,7 +21421,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -21460,8 +21461,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -28733,7 +28733,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 45,
+    "config_count": 46,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -28794,6 +28794,11 @@
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "TB323FU",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Samsung_Xclipse_540",
