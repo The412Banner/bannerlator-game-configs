@@ -26035,7 +26035,7 @@
     "name": "Tom Clancy S Splinter Cell Conviction"
   },
   "33230": {
-    "config_count": 22,
+    "config_count": 23,
     "devices": [
       {
         "d": "G615_MC2",
@@ -40855,14 +40855,6 @@
     ],
     "name": "Assasins Creed Iv Black Flag"
   },
-  "name:assassin-s-creed-ii": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Assassin_s_Creed_II"
-    ],
-    "name": "Assassin S Creed Ii"
-  },
   "name:assassinscreed-dx9": {
     "config_count": 2,
     "devices": [],
@@ -45524,6 +45516,20 @@
       "Sonic_Robo_Blast_2"
     ],
     "name": "Sonic Robo Blast 2"
+  },
+  "name:soniccd": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G52",
+        "m": "Mali",
+        "s": "Mali-G52"
+      }
+    ],
+    "folders": [
+      "soniccd"
+    ],
+    "name": "Soniccd"
   },
   "name:sottr": {
     "config_count": 2,
