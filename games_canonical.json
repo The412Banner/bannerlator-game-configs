@@ -15118,7 +15118,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 283,
+    "config_count": 284,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -21775,12 +21775,17 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 8,
+    "config_count": 17,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "CPH2745",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__830",
@@ -21796,19 +21801,36 @@
         "d": "Adreno__TM__830",
         "m": "CPH2653",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "25102PCBEG",
+        "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "RMX3851",
+        "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "24117RK2CG",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "The_Witcher_3__Wild_Hunt_-_Complete_Edition",
+      "The_Witcher_3",
       "The_Witcher_3_-_Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
-      "The_Witcher_3_-_Wild_Hunt___Remastered"
+      "The_Witcher_3_-_Wild_Hunt___Remastered",
+      "witcher3"
     ],
     "name": "The Witcher 3: Wild Hunt - Complete Edition"
   },
   "292120": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -21824,6 +21846,11 @@
         "d": "Adreno__TM__740",
         "m": "Odin2_Portal",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "24117RK2CG",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -23367,14 +23394,6 @@
     ],
     "name": "FINAL FANTASY XIV Online Free Trial"
   },
-  "3120600": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "RoomGirl"
-    ],
-    "name": "VR Harem Life ~ Your Room Became a Hang-Out for Girls!? ~"
-  },
   "3121490": {
     "config_count": 1,
     "devices": [
@@ -24144,7 +24163,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1912,
+    "config_count": 1914,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -28080,6 +28099,14 @@
       "Mafia_III__Definitive_Edition"
     ],
     "name": "Mafia III: Definitive Edition"
+  },
+  "3606830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "RoomGirl"
+    ],
+    "name": "Life in The Janitor's Room with A JK Girl"
   },
   "361420": {
     "config_count": 2,
@@ -33934,7 +33961,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 48,
+    "config_count": 39,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -34032,23 +34059,8 @@
         "s": "Adreno (TM) 750"
       },
       {
-        "d": "Adreno__TM__840",
-        "m": "CPH2745",
-        "s": "Adreno (TM) 840"
-      },
-      {
         "d": "Adreno__TM__750",
         "m": "V2425A",
-        "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__735",
-        "m": "RMX3851",
-        "s": "Adreno (TM) 735"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
       }
     ],
@@ -34056,8 +34068,7 @@
       "The_Witcher_3",
       "The_Witcher_3__Wild_Hunt",
       "Witcher_1",
-      "_Witcher",
-      "witcher3"
+      "_Witcher"
     ],
     "name": "The Witcher 3: Wild Hunt \u2014 Songs of the Past"
   },
