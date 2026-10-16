@@ -4712,7 +4712,7 @@
     "name": "Need for Speed\u2122 Payback"
   },
   "1262600": {
-    "config_count": 24,
+    "config_count": 25,
     "devices": [
       {
         "d": "SM8635",
@@ -4786,7 +4786,8 @@
       }
     ],
     "folders": [
-      "Need_for_Speed__Rivals"
+      "Need_for_Speed__Rivals",
+      "Need_for_Speed_Rivals"
     ],
     "name": "Need for Speed\u2122 Rivals"
   },
@@ -5407,6 +5408,14 @@
       "DRACU-RIOT_"
     ],
     "name": "DRACU-RIOT!"
+  },
+  "1340720": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "StateOfDecay"
+    ],
+    "name": "State of Decay 3"
   },
   "1343240": {
     "config_count": 2,
@@ -6048,7 +6057,7 @@
     "name": "You Will Die Here Tonight"
   },
   "1446780": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -6114,6 +6123,7 @@
     "folders": [
       "MONSTER_HUNTER_RISE",
       "MH_R",
+      "MonsterHunterRise",
       "Monster_Hunter_Rise"
     ],
     "name": "MONSTER HUNTER RISE"
@@ -6482,7 +6492,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 110,
+    "config_count": 112,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -6900,7 +6910,7 @@
     "name": "The Callisto Protocol\u2122"
   },
   "1546970": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "G615_MC2",
@@ -6931,6 +6941,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "Retroid_Pocket_5",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
@@ -9735,7 +9750,7 @@
     "name": "Asphalt Legends "
   },
   "1817070": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -9815,7 +9830,8 @@
     ],
     "folders": [
       "Marvel_s_Spider-Man_Remastered",
-      "REM"
+      "REM",
+      "Spider-man_Remastered"
     ],
     "name": "Marvel\u2019s Spider-Man Remastered"
   },
@@ -10591,10 +10607,12 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [],
     "folders": [
-      "MAFIA"
+      "MAFIA",
+      "Mafia",
+      "Mafia_-_Definitive_Edition"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -16943,7 +16961,7 @@
     "name": "Wasteland 2: Director's Cut"
   },
   "241540": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "G78",
@@ -16962,8 +16980,7 @@
       }
     ],
     "folders": [
-      "State_of_Decay",
-      "StateOfDecay"
+      "State_of_Decay"
     ],
     "name": "State of Decay"
   },
@@ -19448,7 +19465,7 @@
     "name": "Subnautica"
   },
   "2651280": {
-    "config_count": 28,
+    "config_count": 27,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -19504,19 +19521,13 @@
         "d": "Adreno__TM__730",
         "m": "motorola_edge_30_ultra",
         "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
       "Activision_Spider-Man_3",
       "Marvel_s_Spider-Man_2",
       "Spider-Man_3",
-      "Spider-Man",
-      "Spider-man_Remastered"
+      "Spider-Man"
     ],
     "name": "Marvel's Spider-Man 2"
   },
@@ -27741,6 +27752,14 @@
     ],
     "name": "Rune Dice"
   },
+  "354380": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Assassin_s_Creed_Chronicles_China"
+    ],
+    "name": "Assassin\u2019s Creed\u00ae Chronicles: China"
+  },
   "355050": {
     "config_count": 2,
     "devices": [
@@ -31068,15 +31087,6 @@
       "BioShock_2_Remastered"
     ],
     "name": "BioShock\u2122 2 Remastered"
-  },
-  "40990": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Mafia",
-      "Mafia_-_Definitive_Edition"
-    ],
-    "name": "Mafia"
   },
   "4100940": {
     "config_count": 7,
@@ -38878,7 +38888,7 @@
     "name": "Call of Duty\u00ae: Black Ops III - Revelations Zombies Map"
   },
   "831560": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__640",
@@ -38894,6 +38904,11 @@
         "d": "Immortalis_MC12",
         "m": "G720",
         "s": "Mali-G720-Immortalis MC12"
+      },
+      {
+        "d": "G610_MC6",
+        "m": "Mali",
+        "s": "Mali-G610 MC6"
       }
     ],
     "folders": [
@@ -39568,7 +39583,7 @@
     "name": "Resident Evil 2"
   },
   "8850": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -39578,12 +39593,13 @@
     ],
     "folders": [
       "BioShock__2",
-      "BioShock_2"
+      "BioShock_2",
+      "Bioshock_2"
     ],
     "name": "BioShock\u00ae 2"
   },
   "8870": {
-    "config_count": 16,
+    "config_count": 15,
     "devices": [
       {
         "d": "G720_MC7",
@@ -39621,8 +39637,7 @@
       "BioShock_",
       "BioShock_Infinite",
       "Bioshock",
-      "BioShock_Infinite_Complete_Edition",
-      "Bioshock_2"
+      "BioShock_Infinite_Complete_Edition"
     ],
     "name": "BioShock Infinite"
   },
@@ -41055,14 +41070,6 @@
     ],
     "name": "Assasins Creed Iv Black Flag"
   },
-  "name:assassin-s-creed-chronicles-china": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Assassin_s_Creed_Chronicles_China"
-    ],
-    "name": "Assassin S Creed Chronicles China"
-  },
   "name:assassinscreed-dx9": {
     "config_count": 2,
     "devices": [],
@@ -42057,14 +42064,6 @@
     ],
     "name": "Ffxiii"
   },
-  "name:fifa-13": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "FIFA_13"
-    ],
-    "name": "Fifa 13"
-  },
   "name:fifa14": {
     "config_count": 1,
     "devices": [],
@@ -42296,20 +42295,6 @@
       "GoW2Hollow"
     ],
     "name": "Gow2Hollow"
-  },
-  "name:grand-theft-auto-iii-the-definitive-edition": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__650",
-        "m": "Retroid_Pocket_5",
-        "s": "Adreno (TM) 650"
-      }
-    ],
-    "folders": [
-      "Grand_Theft_Auto_III_-_The_Definitive_Edition"
-    ],
-    "name": "Grand Theft Auto Iii The Definitive Edition"
   },
   "name:grand-theft-auto-vice-city-stories": {
     "config_count": 1,
@@ -42947,14 +42932,6 @@
     ],
     "name": "Mohw"
   },
-  "name:monsterhunterrise": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "MonsterHunterRise"
-    ],
-    "name": "Monsterhunterrise"
-  },
   "name:mosscollection": {
     "config_count": 1,
     "devices": [],
@@ -43063,14 +43040,6 @@
       "Need_For_Speed__Most_Wanted_Black_Edition"
     ],
     "name": "Need For Speed Most Wanted Black Edition"
-  },
-  "name:need-for-speed-rivals": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Need_for_Speed_Rivals"
-    ],
-    "name": "Need For Speed Rivals"
   },
   "name:need-for-speed-shift": {
     "config_count": 1,
