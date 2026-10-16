@@ -10597,10 +10597,12 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [],
     "folders": [
-      "MAFIA"
+      "MAFIA",
+      "Mafia",
+      "Mafia_-_Definitive_Edition"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -19434,7 +19436,7 @@
     "name": "Subnautica"
   },
   "2651280": {
-    "config_count": 26,
+    "config_count": 27,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -21778,7 +21780,7 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 11,
+    "config_count": 17,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -21804,6 +21806,21 @@
         "d": "Adreno__TM__830",
         "m": "CPH2653",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "25102PCBEG",
+        "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "RMX3851",
+        "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "24117RK2CG",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -21812,7 +21829,8 @@
       "The_Witcher_3_-_Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
-      "The_Witcher_3_-_Wild_Hunt___Remastered"
+      "The_Witcher_3_-_Wild_Hunt___Remastered",
+      "witcher3"
     ],
     "name": "The Witcher 3: Wild Hunt - Complete Edition"
   },
@@ -26790,14 +26808,6 @@
     ],
     "name": "Heavy Weapon Deluxe"
   },
-  "3419290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN"
-  },
   "341940": {
     "config_count": 4,
     "devices": [
@@ -30670,6 +30680,14 @@
     ],
     "name": "The Spike Cross"
   },
+  "3985080": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN - Costume Expansion Pack"
+  },
   "400": {
     "config_count": 4,
     "devices": [],
@@ -31050,15 +31068,6 @@
       "BioShock_2_Remastered"
     ],
     "name": "BioShock\u2122 2 Remastered"
-  },
-  "40990": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Mafia",
-      "Mafia_-_Definitive_Edition"
-    ],
-    "name": "Mafia"
   },
   "4100940": {
     "config_count": 7,
@@ -33393,7 +33402,7 @@
     "name": "Speak Demo"
   },
   "48190": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "MT6789",
@@ -33965,7 +33974,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 45,
+    "config_count": 39,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -34066,24 +34075,13 @@
         "d": "Adreno__TM__750",
         "m": "V2425A",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__735",
-        "m": "RMX3851",
-        "s": "Adreno (TM) 735"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "24117RK2CG",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "The_Witcher_3",
       "The_Witcher_3__Wild_Hunt",
       "Witcher_1",
-      "_Witcher",
-      "witcher3"
+      "_Witcher"
     ],
     "name": "The Witcher 3: Wild Hunt \u2014 Songs of the Past"
   },
@@ -34724,7 +34722,7 @@
     "name": "Ancestors: The Humankind Odyssey"
   },
   "543870": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "moto_e13",
@@ -43014,6 +43012,14 @@
     ],
     "name": "Need For Speed The Run"
   },
+  "name:need-for-speed-undercover": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Need_for_Speed_Undercover"
+    ],
+    "name": "Need For Speed Undercover"
+  },
   "name:need-for-speed-underground": {
     "config_count": 2,
     "devices": [],
@@ -43410,7 +43416,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3128,
+    "config_count": 3129,
     "devices": [
       {
         "d": "G52_MC2",
@@ -43711,11 +43717,6 @@
         "d": "Adreno__TM__504",
         "m": "T290",
         "s": "Adreno (TM) 504"
-      },
-      {
-        "d": "Immortalis_MC11",
-        "m": "G925",
-        "s": "Mali-G925-Immortalis MC11"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -44383,6 +44384,11 @@
         "s": "PowerVR B-Series BXM-8-256"
       },
       {
+        "d": "Immortalis_MC11",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC11"
+      },
+      {
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
@@ -44429,7 +44435,7 @@
     "name": "PES 2013"
   },
   "name:pes-2014": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "G57",
