@@ -7316,7 +7316,7 @@
     "name": "Selaco"
   },
   "1593500": {
-    "config_count": 172,
+    "config_count": 174,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -7564,11 +7564,6 @@
         "s": "Adreno (TM) 735"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__735",
         "m": "NX9",
         "s": "Adreno (TM) 735"
@@ -7577,6 +7572,11 @@
         "d": "Adreno__TM__730",
         "m": "TB320FC",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__619",
@@ -10621,10 +10621,12 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [],
     "folders": [
-      "MAFIA"
+      "MAFIA",
+      "Mafia",
+      "Mafia_-_Definitive_Edition"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -12713,8 +12715,14 @@
     "name": "The Great War: Western Front\u2122"
   },
   "21100": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__619",
+        "m": "A236B",
+        "s": "Adreno (TM) 619"
+      }
+    ],
     "folders": [
       "F_E_A_R__3"
     ],
@@ -21817,7 +21825,7 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 11,
+    "config_count": 17,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -21843,6 +21851,21 @@
         "d": "Adreno__TM__830",
         "m": "CPH2653",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "25102PCBEG",
+        "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "RMX3851",
+        "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "24117RK2CG",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -21851,7 +21874,8 @@
       "The_Witcher_3_-_Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
-      "The_Witcher_3_-_Wild_Hunt___Remastered"
+      "The_Witcher_3_-_Wild_Hunt___Remastered",
+      "witcher3"
     ],
     "name": "The Witcher 3: Wild Hunt - Complete Edition"
   },
@@ -24191,7 +24215,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1920,
+    "config_count": 1923,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -26828,6 +26852,14 @@
     ],
     "name": "Heavy Weapon Deluxe"
   },
+  "3419290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN"
+  },
   "341940": {
     "config_count": 4,
     "devices": [
@@ -28766,7 +28798,7 @@
     "name": "Pixel Empires"
   },
   "373420": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -28776,7 +28808,8 @@
     ],
     "folders": [
       "Divinity__Original_Sin_-_Enhanced_Edition",
-      "Divinity__Original_Sin_Enhanced_Edition"
+      "Divinity__Original_Sin_Enhanced_Edition",
+      "Divinity_Original_Sin_Enhanced_Edition"
     ],
     "name": "Divinity: Original Sin - Enhanced Edition"
   },
@@ -30688,14 +30721,6 @@
     ],
     "name": "The Spike Cross"
   },
-  "3985080": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN - Costume Expansion Pack"
-  },
   "400": {
     "config_count": 4,
     "devices": [],
@@ -31076,15 +31101,6 @@
       "BioShock_2_Remastered"
     ],
     "name": "BioShock\u2122 2 Remastered"
-  },
-  "40990": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Mafia",
-      "Mafia_-_Definitive_Edition"
-    ],
-    "name": "Mafia"
   },
   "4100940": {
     "config_count": 7,
@@ -32093,7 +32109,7 @@
     "name": "2Dark"
   },
   "435150": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G720_MC8",
@@ -32102,10 +32118,9 @@
       }
     ],
     "folders": [
-      "Divinity_-_Original_Sin_2_-_Definitive_Edition",
-      "Divinity_Original_Sin_Enhanced_Edition"
+      "Divinity_-_Original_Sin_2_-_Definitive_Edition"
     ],
-    "name": "Divinity: Original Sin 2 - Definitive Edition"
+    "name": "Divinity - Original Sin 2 - Definitive Edition"
   },
   "435530": {
     "config_count": 1,
@@ -33992,7 +34007,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 45,
+    "config_count": 39,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -34093,24 +34108,13 @@
         "d": "Adreno__TM__750",
         "m": "V2425A",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__735",
-        "m": "RMX3851",
-        "s": "Adreno (TM) 735"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "24117RK2CG",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "The_Witcher_3",
       "The_Witcher_3__Wild_Hunt",
       "Witcher_1",
-      "_Witcher",
-      "witcher3"
+      "_Witcher"
     ],
     "name": "The Witcher 3: Wild Hunt \u2014 Songs of the Past"
   },
@@ -35471,7 +35475,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 53,
+    "config_count": 54,
     "devices": [
       {
         "d": "G57",
@@ -39320,7 +39324,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 130,
+    "config_count": 131,
     "devices": [
       {
         "d": "s5e8855",
@@ -43438,7 +43442,7 @@
     "name": "PES 2011"
   },
   "name:pes-2012": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "G57_MC2",
