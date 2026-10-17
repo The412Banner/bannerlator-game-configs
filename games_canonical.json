@@ -3039,7 +3039,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 452,
+    "config_count": 453,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -10623,7 +10623,7 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 4,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -10633,8 +10633,7 @@
     ],
     "folders": [
       "MAFIA",
-      "Mafia",
-      "Mafia_-_Definitive_Edition"
+      "Mafia"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -14922,8 +14921,13 @@
     "name": "Thronefall"
   },
   "2239710": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      },
       {
         "d": "Adreno__TM__730",
         "m": "ASUS_AI2201_C",
@@ -15182,7 +15186,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 287,
+    "config_count": 288,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -15513,6 +15517,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "2405CRPFDG",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -22480,12 +22489,12 @@
     "name": "GET EVEN"
   },
   "3008130": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "Dying_Light__The_Beast"
     ],
-    "name": "Dying Light The Beast"
+    "name": "Dying Light: The Beast"
   },
   "3010850": {
     "config_count": 9,
@@ -23030,7 +23039,7 @@
     "name": "MotoGP\u212225"
   },
   "307780": {
-    "config_count": 43,
+    "config_count": 44,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -23101,6 +23110,11 @@
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "2510DPC44G",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -24273,7 +24287,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1938,
+    "config_count": 1941,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -28504,7 +28518,7 @@
     "name": "Dragon's Dogma: Dark Arisen"
   },
   "367520": {
-    "config_count": 36,
+    "config_count": 35,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -31192,8 +31206,17 @@
     ],
     "name": "BioShock\u2122 2 Remastered"
   },
+  "40990": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Mafia",
+      "Mafia_-_Definitive_Edition"
+    ],
+    "name": "Mafia"
+  },
   "4100940": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "G57_MC2",
@@ -31222,7 +31245,8 @@
       "Poppy_Playtime_chapter_5_",
       "poppy_5",
       "poppy_playtime_5",
-      "poppy_playtime_5_"
+      "poppy_playtime_5_",
+      "poppy_playtime_chapter_5"
     ],
     "name": "Poppy Playtime - Chapter 5"
   },
@@ -36055,7 +36079,7 @@
     "name": "Carcassonne - Tiles & Tactics"
   },
   "599140": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__740",
