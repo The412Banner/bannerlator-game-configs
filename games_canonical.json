@@ -20962,7 +20962,7 @@
     "name": "SimplePlanes 2"
   },
   "284160": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -21013,6 +21013,11 @@
         "d": "Adreno__TM__740",
         "m": "S918B",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "S908E",
+        "s": "Adreno (TM) 730"
       }
     ],
     "folders": [
@@ -22491,7 +22496,7 @@
     "name": "GET EVEN"
   },
   "3008130": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -22557,7 +22562,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -22578,10 +22583,16 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -24295,7 +24306,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1942,
+    "config_count": 1943,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -26182,7 +26193,7 @@
     ],
     "name": "Garten of Banban 0"
   },
-  "33120": {
+  "33100": {
     "config_count": 2,
     "devices": [
       {
@@ -26194,7 +26205,7 @@
     "folders": [
       "Alien_Shooter_2"
     ],
-    "name": "Alien Shooter 2: Reloaded"
+    "name": "Alien Shooter"
   },
   "3314070": {
     "config_count": 2,
@@ -28684,6 +28695,14 @@
       "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
+  },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 2,
@@ -31312,6 +31331,14 @@
       "ZAT"
     ],
     "name": "Z.A.T.O. - Digital Art Pack"
+  },
+  "4123760": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Football_Life_2026"
+    ],
+    "name": "Football Life"
   },
   "413150": {
     "config_count": 10,
@@ -34273,7 +34300,7 @@
     "name": "Trails in the Sky 2nd Chapter Demo"
   },
   "50130": {
-    "config_count": 37,
+    "config_count": 38,
     "devices": [
       {
         "d": "MT6781",
@@ -34354,6 +34381,11 @@
         "d": "Adreno__TM__640",
         "m": "M2102J20SG",
         "s": "Adreno (TM) 640"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "TB321FU",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -35267,7 +35299,7 @@
     "name": "Brick Rigs"
   },
   "55230": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -35297,8 +35329,7 @@
     ],
     "folders": [
       "Saints_Row__The_Third",
-      "SaintsRowTheThird",
-      "Saints_Row___The_Third__Remastered"
+      "SaintsRowTheThird"
     ],
     "name": "Saints Row: The Third"
   },
@@ -40062,7 +40093,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 8,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -40078,16 +40109,10 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -40842,6 +40867,14 @@
       "Eastward"
     ],
     "name": "Eastward"
+  },
+  "978300": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Saints_Row___The_Third__Remastered"
+    ],
+    "name": "Saints Row\u00ae: The Third\u2122 Remastered"
   },
   "978780": {
     "config_count": 3,
@@ -42343,14 +42376,6 @@
     ],
     "name": "Final Fantasy Reinassance Ffr 2 3 2"
   },
-  "name:football-life-2026": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Football_Life_2026"
-    ],
-    "name": "Football Life 2026"
-  },
   "name:frozen-throne": {
     "config_count": 1,
     "devices": [
@@ -42916,6 +42941,14 @@
       "LEGOBatmanLotDK"
     ],
     "name": "Legobatmanlotdk"
+  },
+  "name:lesta-game-center": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Lesta_Game_Center"
+    ],
+    "name": "Lesta Game Center"
   },
   "name:little-nightmares-enhanced": {
     "config_count": 1,
@@ -44832,7 +44865,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 239,
+    "config_count": 240,
     "devices": [
       {
         "d": "G615_MC2",
@@ -45951,14 +45984,6 @@
       "Snapshot__Lewd_Shores"
     ],
     "name": "Snapshot Lewd Shores"
-  },
-  "name:sniper-ghost-warrior-1": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 1"
   },
   "name:sniper-x86": {
     "config_count": 1,
