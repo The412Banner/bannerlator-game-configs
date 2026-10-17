@@ -17,6 +17,18 @@
     "appid": null,
     "method": "non-game"
   },
+  "5_________________4_______": {
+    "appid": 3357200,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3357200/header.jpg",
+    "method": "naive",
+    "steam_name": "Coloring Game 5.4"
+  },
+  "5_________________5_________Demo": {
+    "appid": 2107720,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2107720/header.jpg",
+    "method": "naive",
+    "steam_name": "Shin Megami Tensei V: Vengeance - Demon Subquest - Sakura Cinders of the East"
+  },
   "60SecondsReatomized": {
     "appid": 1012880,
     "method": "norm",
@@ -4539,6 +4551,10 @@
     "method": "naive",
     "steam_name": "Granny"
   },
+  "Granny_-_Recaptured": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "Granny_2_Enhanced": {
     "appid": null,
     "method": "unresolved"
@@ -7758,6 +7774,12 @@
     "appid": 223470,
     "method": "naive",
     "steam_name": "POSTAL 2"
+  },
+  "PPSSPP": {
+    "appid": 1234350,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1234350/header.jpg",
+    "method": "naive",
+    "steam_name": "RetroArch - PPSSPP"
   },
   "PPSSPP______________________________________________________": {
     "appid": 1234350,

@@ -2259,7 +2259,7 @@
     "name": "Teardown"
   },
   "1168280": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "G77_MC9",
@@ -2270,6 +2270,11 @@
         "d": "Adreno__TM__740",
         "m": "S918B",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "2209116AG",
+        "s": "Adreno (TM) 618"
       }
     ],
     "folders": [
@@ -3034,7 +3039,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 451,
+    "config_count": 452,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3904,16 +3909,22 @@
     "name": "FAIRY TAIL"
   },
   "1234350": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8322",
         "m": "itel_A6610L",
         "s": "PowerVR Rogue GE8322"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "L22",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
-      "PPSSPP______________________________________________________"
+      "PPSSPP______________________________________________________",
+      "PPSSPP"
     ],
     "name": "RetroArch - PPSSPP"
   },
@@ -12664,6 +12675,20 @@
     ],
     "name": "Magicraft"
   },
+  "2107720": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "CPH1931",
+        "s": "Adreno (TM) 610"
+      }
+    ],
+    "folders": [
+      "5_________________5_________Demo"
+    ],
+    "name": "Shin Megami Tensei V: Vengeance - Demon Subquest - Sakura Cinders of the East"
+  },
   "2108180": {
     "config_count": 2,
     "devices": [
@@ -14104,7 +14129,7 @@
     "name": "Far Cry 3"
   },
   "220440": {
-    "config_count": 38,
+    "config_count": 39,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -14205,6 +14230,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g84_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       },
       {
         "d": "Adreno__TM__660",
@@ -14589,7 +14619,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -14629,7 +14659,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev"
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -21488,7 +21519,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -21528,8 +21559,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -24243,7 +24273,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1932,
+    "config_count": 1936,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25456,6 +25486,11 @@
         "s": "Adreno (TM) 710"
       },
       {
+        "d": "Adreno__TM__750",
+        "m": "NX9",
+        "s": "Adreno (TM) 750"
+      },
+      {
         "d": "Adreno__TM__830",
         "m": "NX9",
         "s": "Adreno (TM) 830"
@@ -26374,6 +26409,14 @@
     ],
     "name": "skate."
   },
+  "3357200": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "5_________________4_______"
+    ],
+    "name": "Coloring Game 5.4"
+  },
   "3357650": {
     "config_count": 19,
     "devices": [
@@ -27059,6 +27102,14 @@
       "LIGHTNING_RETURNS_-_FINAL_FANTASY_XIII"
     ],
     "name": "LIGHTNING RETURNS\u2122: FINAL FANTASY\u00ae XIII"
+  },
+  "345610": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Grisaia"
+    ],
+    "name": "The Fruit of Grisaia"
   },
   "3462040": {
     "config_count": 1,
@@ -29952,7 +30003,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 208,
+    "config_count": 209,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -30273,6 +30324,11 @@
         "d": "G76_MC4",
         "m": "Mali",
         "s": "Mali-G76 MC4"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "N09",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
@@ -43585,7 +43641,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3137,
+    "config_count": 3139,
     "devices": [
       {
         "d": "G52_MC2",
@@ -44138,11 +44194,6 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_",
-        "m": "A576B",
-        "s": "ANGLE ((Samsung Xclipse 550) on Vulkan 1.4.304)"
-      },
-      {
         "d": "ANGLE__Samsung_Xclipse_530__on_Vulkan_1_3_231",
         "m": "A556E",
         "s": "ANGLE (Samsung Xclipse 530) on Vulkan 1.3.231"
@@ -44358,11 +44409,6 @@
         "s": "Mali-G615 MC6"
       },
       {
-        "d": "G76",
-        "m": "Mali",
-        "s": "Mali-G76"
-      },
-      {
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
@@ -44556,6 +44602,16 @@
         "d": "256",
         "m": "8",
         "s": "PowerVR B-Series BXM-8-256"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_",
+        "m": "A576B",
+        "s": "ANGLE ((Samsung Xclipse 550) on Vulkan 1.4.304)"
+      },
+      {
+        "d": "G76",
+        "m": "Mali",
+        "s": "Mali-G76"
       },
       {
         "d": "Adreno__TM__740",
