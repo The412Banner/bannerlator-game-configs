@@ -1141,7 +1141,7 @@
     "name": "Kelipot"
   },
   "1091500": {
-    "config_count": 22,
+    "config_count": 23,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -1182,6 +1182,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "I2401",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "G615_MC6",
@@ -5086,20 +5091,6 @@
       "Lost_Ruins"
     ],
     "name": "Lost Ruins"
-  },
-  "1307710": {
-    "config_count": 3,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "GRID"
-    ],
-    "name": "GRID Legends"
   },
   "1310510": {
     "config_count": 1,
@@ -15150,7 +15141,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 285,
+    "config_count": 286,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -15281,11 +15272,6 @@
         "d": "Adreno__TM__750",
         "m": "TB321FU",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__710",
-        "m": "A366E",
-        "s": "Adreno (TM) 710"
       },
       {
         "d": "G77_MC9",
@@ -15481,6 +15467,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "A366E",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -17693,14 +17684,6 @@
       "Vector"
     ],
     "name": "Citizen Sleeper 2: Starward Vector"
-  },
-  "244450": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Men_of_War_-_Assault_Squad_2"
-    ],
-    "name": "Men of War: Assault Squad 2"
   },
   "2444750": {
     "config_count": 1,
@@ -20243,6 +20226,25 @@
     ],
     "name": "SAMURAI WARRIORS 4 DX"
   },
+  "2723810": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
+      }
+    ],
+    "folders": [
+      "SB"
+    ],
+    "name": "SBcatfight game"
+  },
   "272510": {
     "config_count": 12,
     "devices": [
@@ -21800,12 +21802,17 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 8,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "CPH2745",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__830",
@@ -21825,6 +21832,7 @@
     ],
     "folders": [
       "The_Witcher_3__Wild_Hunt_-_Complete_Edition",
+      "The_Witcher_3",
       "The_Witcher_3_-_Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
@@ -22107,14 +22115,6 @@
       "God_Of_War_II"
     ],
     "name": "WarOfGods 2"
-  },
-  "2977260": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "THEg"
-    ],
-    "name": "The Guild 1 Remake: Europa 1410"
   },
   "297860": {
     "config_count": 1,
@@ -22448,7 +22448,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -22469,10 +22469,16 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -23600,25 +23606,6 @@
     ],
     "name": "Montabi"
   },
-  "3145740": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "Odin3",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__735",
-        "m": "24069PC21G",
-        "s": "Adreno (TM) 735"
-      }
-    ],
-    "folders": [
-      "SB"
-    ],
-    "name": "VRider SBK\u2122"
-  },
   "314660": {
     "config_count": 1,
     "devices": [],
@@ -24192,7 +24179,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1926,
+    "config_count": 1927,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -28282,7 +28269,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 5,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -28303,6 +28290,11 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -33611,6 +33603,14 @@
     ],
     "name": "KARAKARA"
   },
+  "4881480": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "THEg"
+    ],
+    "name": "The Great Wife's Guide"
+  },
   "489630": {
     "config_count": 1,
     "devices": [
@@ -33626,7 +33626,7 @@
     "name": "Warhammer 40,000: Gladius - Relics of War"
   },
   "489830": {
-    "config_count": 73,
+    "config_count": 72,
     "devices": [
       {
         "d": "G615_MC6",
@@ -33760,8 +33760,7 @@
       "The_Elder_Scrolls_V__Skyrim",
       "The_Elder_Scrolls_V__Skyrim_Special_Edition",
       "Skyrim",
-      "The_Elder_Scrolls_V_-_Skyrim_Special_Edition",
-      "The_Elder_Scrolls_V_Skyrim_Special_Edition"
+      "The_Elder_Scrolls_V_-_Skyrim_Special_Edition"
     ],
     "name": "The Elder Scrolls V: Skyrim Special Edition"
   },
@@ -34014,7 +34013,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 48,
+    "config_count": 45,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -34110,11 +34109,6 @@
         "d": "Adreno__TM__750",
         "m": "TB321FU",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__840",
-        "m": "CPH2745",
-        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__750",
@@ -36259,7 +36253,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -36607,6 +36601,14 @@
       "Journey"
     ],
     "name": "Journey"
+  },
+  "64000": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Men_of_War_-_Assault_Squad_2"
+    ],
+    "name": "Men of War: Assault Squad"
   },
   "640590": {
     "config_count": 1,
@@ -39919,7 +39921,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 8,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -39935,16 +39937,10 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -46060,6 +46056,14 @@
     ],
     "name": "The Amazing Spider Man 2"
   },
+  "name:the-elder-scrolls-v-skyrim-special-edition": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "The_Elder_Scrolls_V_Skyrim_Special_Edition"
+    ],
+    "name": "The Elder Scrolls V Skyrim Special Edition"
+  },
   "name:the-king-of-fighters-xiii-galaxy-edition": {
     "config_count": 1,
     "devices": [],
@@ -46285,6 +46289,14 @@
       "Wizard_School_Exchange_Student"
     ],
     "name": "Wizard School Exchange Student"
+  },
+  "name:wolfenstein-2009": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Wolfenstein__2009_"
+    ],
+    "name": "Wolfenstein 2009"
   },
   "name:world-of-warcraft": {
     "config_count": 1,
