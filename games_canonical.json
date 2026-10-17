@@ -1271,7 +1271,7 @@
     "name": "Commandos 2 - HD Remaster"
   },
   "1103780": {
-    "config_count": 39,
+    "config_count": 40,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -2027,7 +2027,7 @@
     "name": "Horizon Zero Dawn\u2122 Complete Edition"
   },
   "115320": {
-    "config_count": 81,
+    "config_count": 80,
     "devices": [
       {
         "d": "Adreno__TM__640",
@@ -2769,7 +2769,7 @@
     "name": "A Space for the Unbound"
   },
   "1203170": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -2780,6 +2780,11 @@
         "d": "Adreno__TM__735",
         "m": "24069RA21C",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -18021,7 +18026,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -20221,25 +20226,6 @@
     ],
     "name": "SAMURAI WARRIORS 4 DX"
   },
-  "2723810": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "Odin3",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__735",
-        "m": "24069PC21G",
-        "s": "Adreno (TM) 735"
-      }
-    ],
-    "folders": [
-      "SB"
-    ],
-    "name": "SBcatfight game"
-  },
   "272510": {
     "config_count": 12,
     "devices": [
@@ -21799,17 +21785,12 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 11,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__840",
-        "m": "CPH2745",
-        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__830",
@@ -21829,7 +21810,6 @@
     ],
     "folders": [
       "The_Witcher_3__Wild_Hunt_-_Complete_Edition",
-      "The_Witcher_3",
       "The_Witcher_3_-_Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
@@ -23605,6 +23585,25 @@
       "Montabi"
     ],
     "name": "Montabi"
+  },
+  "3145740": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
+      }
+    ],
+    "folders": [
+      "SB"
+    ],
+    "name": "VRider SBK\u2122"
   },
   "314660": {
     "config_count": 1,
@@ -31367,6 +31366,20 @@
     ],
     "name": "Steam Frame"
   },
+  "418030": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "Subsistence"
+    ],
+    "name": "Subsistence"
+  },
   "418240": {
     "config_count": 2,
     "devices": [
@@ -33991,7 +34004,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 45,
+    "config_count": 48,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -34087,6 +34100,11 @@
         "d": "Adreno__TM__750",
         "m": "TB321FU",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "CPH2745",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__750",
@@ -36152,7 +36170,7 @@
     "name": "Moonlighter"
   },
   "606280": {
-    "config_count": 11,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -36165,19 +36183,13 @@
         "s": "Adreno (TM) 825"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
-      },
-      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
       }
     ],
     "folders": [
-      "Darksiders_III",
-      "Darksiders"
+      "Darksiders_III"
     ],
     "name": "Darksiders III"
   },
