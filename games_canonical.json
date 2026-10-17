@@ -7321,7 +7321,7 @@
     "name": "Selaco"
   },
   "1593500": {
-    "config_count": 174,
+    "config_count": 175,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -14589,7 +14589,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 17,
+    "config_count": 19,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -14628,7 +14628,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -21487,7 +21488,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -21528,7 +21529,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -24243,7 +24243,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1928,
+    "config_count": 1929,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -35394,7 +35394,7 @@
     "name": "GOAT OF DUTY"
   },
   "557340": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G57_MC2",
@@ -35415,12 +35415,18 @@
         "d": "Adreno__TM__840",
         "m": "I2501",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       }
     ],
     "folders": [
-      "My_Friend_Pedro_-_Blood_Bullets_Bananas"
+      "My_Friend_Pedro_-_Blood_Bullets_Bananas",
+      "My_Friend_Pedro"
     ],
-    "name": "My Friend Pedro - Blood Bullets Bananas"
+    "name": "My Friend Pedro"
   },
   "561610": {
     "config_count": 13,
