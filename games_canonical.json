@@ -17700,6 +17700,14 @@
     ],
     "name": "Citizen Sleeper 2: Starward Vector"
   },
+  "244450": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Men_of_War_-_Assault_Squad_2"
+    ],
+    "name": "Men of War: Assault Squad 2"
+  },
   "2444750": {
     "config_count": 1,
     "devices": [],
@@ -22463,7 +22471,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 7,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -22484,16 +22492,10 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -28558,6 +28560,14 @@
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
+  },
   "3681010": {
     "config_count": 2,
     "devices": [
@@ -28767,7 +28777,7 @@
     "name": "Pixel Empires"
   },
   "373420": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -28777,7 +28787,8 @@
     ],
     "folders": [
       "Divinity__Original_Sin_-_Enhanced_Edition",
-      "Divinity__Original_Sin_Enhanced_Edition"
+      "Divinity__Original_Sin_Enhanced_Edition",
+      "Divinity_Original_Sin_Enhanced_Edition"
     ],
     "name": "Divinity: Original Sin - Enhanced Edition"
   },
@@ -32099,7 +32110,7 @@
     "name": "2Dark"
   },
   "435150": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G720_MC8",
@@ -32108,10 +32119,9 @@
       }
     ],
     "folders": [
-      "Divinity_-_Original_Sin_2_-_Definitive_Edition",
-      "Divinity_Original_Sin_Enhanced_Edition"
+      "Divinity_-_Original_Sin_2_-_Definitive_Edition"
     ],
-    "name": "Divinity: Original Sin 2 - Definitive Edition"
+    "name": "Divinity - Original Sin 2 - Definitive Edition"
   },
   "435530": {
     "config_count": 1,
@@ -33619,7 +33629,7 @@
     "name": "Warhammer 40,000: Gladius - Relics of War"
   },
   "489830": {
-    "config_count": 72,
+    "config_count": 73,
     "devices": [
       {
         "d": "G615_MC6",
@@ -33753,7 +33763,8 @@
       "The_Elder_Scrolls_V__Skyrim",
       "The_Elder_Scrolls_V__Skyrim_Special_Edition",
       "Skyrim",
-      "The_Elder_Scrolls_V_-_Skyrim_Special_Edition"
+      "The_Elder_Scrolls_V_-_Skyrim_Special_Edition",
+      "The_Elder_Scrolls_V_Skyrim_Special_Edition"
     ],
     "name": "The Elder Scrolls V: Skyrim Special Edition"
   },
@@ -35755,7 +35766,7 @@
     "name": "Black Desert"
   },
   "584400": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "G76_MC4",
@@ -35976,7 +35987,7 @@
     "name": "Attack on Titan 2 - A.O.T.2"
   },
   "601150": {
-    "config_count": 49,
+    "config_count": 50,
     "devices": [
       {
         "d": "unknown",
@@ -36067,6 +36078,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "S928B",
+        "s": "Adreno (TM) 750"
       },
       {
         "d": "Adreno__TM__640",
@@ -36594,14 +36610,6 @@
       "Journey"
     ],
     "name": "Journey"
-  },
-  "64000": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Men_of_War_-_Assault_Squad_2"
-    ],
-    "name": "Men of War: Assault Squad"
   },
   "640590": {
     "config_count": 1,
@@ -39914,7 +39922,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 8,
     "devices": [
       {
         "d": "G615_MC6",
@@ -39930,10 +39938,16 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -45784,14 +45798,6 @@
     ],
     "name": "Snapshot Lewd Shores"
   },
-  "name:sniper-ghost-warrior-1": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 1"
-  },
   "name:sniper-x86": {
     "config_count": 1,
     "devices": [
@@ -46057,14 +46063,6 @@
     ],
     "name": "The Amazing Spider Man 2"
   },
-  "name:the-elder-scrolls-v-skyrim-special-edition": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "The_Elder_Scrolls_V_Skyrim_Special_Edition"
-    ],
-    "name": "The Elder Scrolls V Skyrim Special Edition"
-  },
   "name:the-king-of-fighters-xiii-galaxy-edition": {
     "config_count": 1,
     "devices": [],
@@ -46290,14 +46288,6 @@
       "Wizard_School_Exchange_Student"
     ],
     "name": "Wizard School Exchange Student"
-  },
-  "name:wolfenstein-2009": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Wolfenstein__2009_"
-    ],
-    "name": "Wolfenstein 2009"
   },
   "name:world-of-warcraft": {
     "config_count": 1,
