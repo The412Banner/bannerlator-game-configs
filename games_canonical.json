@@ -11307,7 +11307,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11316,7 +11316,8 @@
       }
     ],
     "folders": [
-      "WolfNewOrder"
+      "WolfNewOrder",
+      "Wolfenstein__2009_"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -14619,7 +14620,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 20,
+    "config_count": 19,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -14659,8 +14660,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -21529,7 +21529,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -21569,7 +21569,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -22490,8 +22491,14 @@
     "name": "GET EVEN"
   },
   "3008130": {
-    "config_count": 2,
-    "devices": [],
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "CPH2841",
+        "s": "Adreno (TM) 840"
+      }
+    ],
     "folders": [
       "Dying_Light__The_Beast"
     ],
@@ -28673,14 +28680,6 @@
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
-  },
   "3681010": {
     "config_count": 2,
     "devices": [
@@ -31308,14 +31307,6 @@
       "ZAT"
     ],
     "name": "Z.A.T.O. - Digital Art Pack"
-  },
-  "4123760": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Football_Life_2026"
-    ],
-    "name": "Football Life"
   },
   "413150": {
     "config_count": 10,
@@ -35271,7 +35262,7 @@
     "name": "Brick Rigs"
   },
   "55230": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -35301,7 +35292,8 @@
     ],
     "folders": [
       "Saints_Row__The_Third",
-      "SaintsRowTheThird"
+      "SaintsRowTheThird",
+      "Saints_Row___The_Third__Remastered"
     ],
     "name": "Saints Row: The Third"
   },
@@ -36130,7 +36122,7 @@
     "name": "Attack on Titan 2 - A.O.T.2"
   },
   "601150": {
-    "config_count": 50,
+    "config_count": 51,
     "devices": [
       {
         "d": "unknown",
@@ -36405,7 +36397,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -40846,14 +40838,6 @@
     ],
     "name": "Eastward"
   },
-  "978300": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Saints_Row___The_Third__Remastered"
-    ],
-    "name": "Saints Row\u00ae: The Third\u2122 Remastered"
-  },
   "978780": {
     "config_count": 3,
     "devices": [
@@ -42354,6 +42338,14 @@
     ],
     "name": "Final Fantasy Reinassance Ffr 2 3 2"
   },
+  "name:football-life-2026": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Football_Life_2026"
+    ],
+    "name": "Football Life 2026"
+  },
   "name:frozen-throne": {
     "config_count": 1,
     "devices": [
@@ -43675,7 +43667,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3139,
+    "config_count": 3140,
     "devices": [
       {
         "d": "G52_MC2",
@@ -45954,6 +45946,14 @@
       "Snapshot__Lewd_Shores"
     ],
     "name": "Snapshot Lewd Shores"
+  },
+  "name:sniper-ghost-warrior-1": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 1"
   },
   "name:sniper-x86": {
     "config_count": 1,
