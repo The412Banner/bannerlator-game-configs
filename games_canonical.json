@@ -14088,7 +14088,7 @@
     "name": "Far Cry 3"
   },
   "220440": {
-    "config_count": 37,
+    "config_count": 38,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -14205,7 +14205,8 @@
       "DmC_Devil_May_Cry",
       "DmC_Devil_May_Cry___________________________________________",
       "DmC__Devil_May_Cry",
-      "DMC-DevilMayCry"
+      "DMC-DevilMayCry",
+      "DMC-DevilMayCry_2013"
     ],
     "name": "DmC: Devil May Cry"
   },
@@ -28339,10 +28340,9 @@
     "name": "Drift Legends 2"
   },
   "3669870": {
-    "config_count": 3,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "Control_Ultimate_Edition",
       "control"
     ],
     "name": "CONTROL Resonant"
@@ -36797,7 +36797,7 @@
     "name": "Gothic 1 Classic"
   },
   "655500": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G52_MC2",
@@ -36818,7 +36818,8 @@
     "folders": [
       "MX_bike",
       "mx_bike",
-      "mxbikes"
+      "mxbikes",
+      "MX_Bikes"
     ],
     "name": "MX Bikes"
   },
@@ -39195,7 +39196,7 @@
     "name": "The Walking Dead: The Final Season"
   },
   "870780": {
-    "config_count": 3,
+    "config_count": 5,
     "devices": [],
     "folders": [
       "CONTROL_Ultimate_Edition",
@@ -41701,20 +41702,6 @@
       "DLSS_5_Swapper"
     ],
     "name": "Dlss 5 Swapper"
-  },
-  "name:dmc-devilmaycry-2013": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2487",
-        "s": "Adreno (TM) 730"
-      }
-    ],
-    "folders": [
-      "DMC-DevilMayCry_2013"
-    ],
-    "name": "Dmc Devilmaycry 2013"
   },
   "name:domesticlover": {
     "config_count": 1,
