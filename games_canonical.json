@@ -11280,7 +11280,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11289,8 +11289,7 @@
       }
     ],
     "folders": [
-      "WolfNewOrder",
-      "Wolfenstein__2009_"
+      "WolfNewOrder"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -14089,7 +14088,7 @@
     "name": "Far Cry 3"
   },
   "220440": {
-    "config_count": 38,
+    "config_count": 37,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -14206,8 +14205,7 @@
       "DmC_Devil_May_Cry",
       "DmC_Devil_May_Cry___________________________________________",
       "DmC__Devil_May_Cry",
-      "DMC-DevilMayCry",
-      "DMC-DevilMayCry_2013"
+      "DMC-DevilMayCry"
     ],
     "name": "DmC: Devil May Cry"
   },
@@ -21806,7 +21804,7 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 17,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -21832,21 +21830,6 @@
         "d": "Adreno__TM__830",
         "m": "CPH2653",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__840",
-        "m": "25102PCBEG",
-        "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__735",
-        "m": "RMX3851",
-        "s": "Adreno (TM) 735"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "24117RK2CG",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -21855,8 +21838,7 @@
       "The_Witcher_3_-_Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
-      "The_Witcher_3_-_Wild_Hunt___Remastered",
-      "witcher3"
+      "The_Witcher_3_-_Wild_Hunt___Remastered"
     ],
     "name": "The Witcher 3: Wild Hunt - Complete Edition"
   },
@@ -28357,9 +28339,10 @@
     "name": "Drift Legends 2"
   },
   "3669870": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [],
     "folders": [
+      "Control_Ultimate_Edition",
       "control"
     ],
     "name": "CONTROL Resonant"
@@ -34003,7 +33986,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 39,
+    "config_count": 45,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -34104,13 +34087,24 @@
         "d": "Adreno__TM__750",
         "m": "V2425A",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "RMX3851",
+        "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "24117RK2CG",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "The_Witcher_3",
       "The_Witcher_3__Wild_Hunt",
       "Witcher_1",
-      "_Witcher"
+      "_Witcher",
+      "witcher3"
     ],
     "name": "The Witcher 3: Wild Hunt \u2014 Songs of the Past"
   },
@@ -36233,7 +36227,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -39201,7 +39195,7 @@
     "name": "The Walking Dead: The Final Season"
   },
   "870780": {
-    "config_count": 5,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "CONTROL_Ultimate_Edition",
@@ -41707,6 +41701,20 @@
       "DLSS_5_Swapper"
     ],
     "name": "Dlss 5 Swapper"
+  },
+  "name:dmc-devilmaycry-2013": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2487",
+        "s": "Adreno (TM) 730"
+      }
+    ],
+    "folders": [
+      "DMC-DevilMayCry_2013"
+    ],
+    "name": "Dmc Devilmaycry 2013"
   },
   "name:domesticlover": {
     "config_count": 1,
@@ -44648,7 +44656,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 238,
+    "config_count": 239,
     "devices": [
       {
         "d": "G615_MC2",
