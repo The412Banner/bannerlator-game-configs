@@ -5087,6 +5087,20 @@
     ],
     "name": "Lost Ruins"
   },
+  "1307710": {
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "GRID"
+    ],
+    "name": "GRID Legends"
+  },
   "1310510": {
     "config_count": 1,
     "devices": [],
@@ -8730,7 +8744,7 @@
     "name": "Kusan: City of Wolves"
   },
   "1715130": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -12561,7 +12575,7 @@
     "name": "Crysis 2 Remastered"
   },
   "2096610": {
-    "config_count": 6,
+    "config_count": 5,
     "devices": [
       {
         "d": "G720_MC7",
@@ -12572,8 +12586,7 @@
     "folders": [
       "Crysis",
       "Crysis_3",
-      "Crysis_3_Remastered",
-      "Crysis_Remastered"
+      "Crysis_3_Remastered"
     ],
     "name": "Crysis 3 Remastered"
   },
@@ -14574,7 +14587,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 17,
+    "config_count": 20,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -14613,7 +14626,9 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -16365,7 +16380,7 @@
     "name": "War Thunder"
   },
   "236430": {
-    "config_count": 21,
+    "config_count": 18,
     "devices": [
       {
         "d": "G720_MC7",
@@ -16401,22 +16416,11 @@
         "d": "Adreno__TM__619",
         "m": "22111317PG",
         "s": "Adreno (TM) 619"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
       "DARK_SOULS__II",
-      "DARK_SOULS_II",
-      "DarkSoulsII"
+      "DARK_SOULS_II"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -21464,7 +21468,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -21504,9 +21508,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "rerev",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -21798,17 +21800,12 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 11,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__840",
-        "m": "CPH2745",
-        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__830",
@@ -21828,7 +21825,6 @@
     ],
     "folders": [
       "The_Witcher_3__Wild_Hunt_-_Complete_Edition",
-      "The_Witcher_3",
       "The_Witcher_3_-_Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
@@ -22112,6 +22108,14 @@
     ],
     "name": "WarOfGods 2"
   },
+  "2977260": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "THEg"
+    ],
+    "name": "The Guild 1 Remake: Europa 1410"
+  },
   "297860": {
     "config_count": 1,
     "devices": [
@@ -22392,7 +22396,7 @@
     "name": "Dying Light The Beast"
   },
   "3010850": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -22419,7 +22423,8 @@
       "Gears_Of_War",
       "Gears_of_War",
       "Gears_of_war_2",
-      "d"
+      "d",
+      "Gears_of_War_2"
     ],
     "name": "Gears of War: E-Day"
   },
@@ -22443,7 +22448,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 7,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -22464,16 +22469,10 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -22679,7 +22678,7 @@
     "name": "Unturned"
   },
   "3050220": {
-    "config_count": 36,
+    "config_count": 37,
     "devices": [
       {
         "d": "2412DPC0AG",
@@ -22745,6 +22744,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       }
     ],
     "folders": [
@@ -23671,11 +23675,23 @@
     "name": "Football Life Simulator"
   },
   "3159330": {
-    "config_count": 2,
-    "devices": [],
+    "config_count": 6,
+    "devices": [
+      {
+        "d": "Adreno__TM__810",
+        "m": "V2502",
+        "s": "Adreno (TM) 810"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "I2218",
+        "s": "Adreno (TM) 720"
+      }
+    ],
     "folders": [
       "Assassin_S_creed_3_",
-      "Assassin_s_Creed_________"
+      "Assassin_s_Creed_________",
+      "Assassin_s_Creed"
     ],
     "name": "Assassin\u2019s Creed Shadows"
   },
@@ -24176,7 +24192,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1925,
+    "config_count": 1926,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25869,7 +25885,7 @@
     "name": "GameGuru MAX - Madman's Melee Weapons"
   },
   "329050": {
-    "config_count": 57,
+    "config_count": 58,
     "devices": [
       {
         "d": "G615_MC2",
@@ -26012,6 +26028,7 @@
       "Devil_May_Cry_4",
       "Devil_May_Cry_4_",
       "Devil_May_Cry_4_Special_Edition",
+      "DEVIL_MAY_CRY_4_Special_Edition",
       "DevilMayCry4SpecialEdition"
     ],
     "name": "Devil May Cry 4 Special Edition"
@@ -28265,7 +28282,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 8,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -28286,11 +28303,6 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -28800,7 +28812,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 39,
+    "config_count": 42,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -28878,6 +28890,16 @@
         "s": "Adreno (TM) 830"
       },
       {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
+      },
+      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -28889,6 +28911,7 @@
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
       "DARK_SOULS_III",
+      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -28916,25 +28939,6 @@
       "bhd"
     ],
     "name": "The Blood of Dawnwalker"
-  },
-  "3751950": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "Adreno__TM__810",
-        "m": "V2502",
-        "s": "Adreno (TM) 810"
-      },
-      {
-        "d": "Adreno__TM__720",
-        "m": "I2218",
-        "s": "Adreno (TM) 720"
-      }
-    ],
-    "folders": [
-      "Assassin_s_Creed"
-    ],
-    "name": "Assassin's Creed Black Flag Resynced"
   },
   "375820": {
     "config_count": 3,
@@ -31176,6 +31180,14 @@
       "ZAT"
     ],
     "name": "Z.A.T.O. - Digital Art Pack"
+  },
+  "4123760": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Football_Life_2026"
+    ],
+    "name": "Football Life"
   },
   "413150": {
     "config_count": 10,
@@ -33599,14 +33611,6 @@
     ],
     "name": "KARAKARA"
   },
-  "4881480": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "THEg"
-    ],
-    "name": "The Great Wife's Guide"
-  },
   "489630": {
     "config_count": 1,
     "devices": [
@@ -34010,7 +34014,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 45,
+    "config_count": 48,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -34106,6 +34110,11 @@
         "d": "Adreno__TM__750",
         "m": "TB321FU",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "CPH2745",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__750",
@@ -35127,7 +35136,7 @@
     "name": "Brick Rigs"
   },
   "55230": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -35157,8 +35166,7 @@
     ],
     "folders": [
       "Saints_Row__The_Third",
-      "SaintsRowTheThird",
-      "Saints_Row___The_Third__Remastered"
+      "SaintsRowTheThird"
     ],
     "name": "Saints Row: The Third"
   },
@@ -39911,7 +39919,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 8,
     "devices": [
       {
         "d": "G615_MC6",
@@ -39927,10 +39935,16 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -40685,6 +40699,14 @@
       "Eastward"
     ],
     "name": "Eastward"
+  },
+  "978300": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Saints_Row___The_Third__Remastered"
+    ],
+    "name": "Saints Row\u00ae: The Third\u2122 Remastered"
   },
   "978780": {
     "config_count": 3,
@@ -42172,14 +42194,6 @@
     ],
     "name": "Final Fantasy Reinassance Ffr 2 3 2"
   },
-  "name:football-life-2026": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Football_Life_2026"
-    ],
-    "name": "Football Life 2026"
-  },
   "name:frozen-throne": {
     "config_count": 1,
     "devices": [
@@ -42239,14 +42253,6 @@
       "GE2RB"
     ],
     "name": "Ge2Rb"
-  },
-  "name:gears-of-war-2": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Gears_of_War_2"
-    ],
-    "name": "Gears Of War 2"
   },
   "name:gears-of-war-2-hollow": {
     "config_count": 1,
