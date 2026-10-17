@@ -7937,7 +7937,7 @@
     "name": "Minishoot' Adventures"
   },
   "1636440": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "A566E",
@@ -9172,7 +9172,7 @@
     "name": "STAR OCEAN THE DIVINE FORCE"
   },
   "1778820": {
-    "config_count": 8,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -9191,7 +9191,8 @@
       }
     ],
     "folders": [
-      "TEKKEN_8"
+      "TEKKEN_8",
+      "Tekken_7"
     ],
     "name": "TEKKEN 8"
   },
@@ -14948,7 +14949,7 @@
     "name": "Tomb Raider II (1997)"
   },
   "2254490": {
-    "config_count": 18,
+    "config_count": 17,
     "devices": [
       {
         "d": "G52_MC2",
@@ -14959,11 +14960,6 @@
         "d": "Adreno__TM__840",
         "m": "25102PCBEG",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__644",
@@ -14978,7 +14974,6 @@
     ],
     "folders": [
       "Launcher",
-      "Rockstar_Games_Launcher",
       "launcher"
     ],
     "name": "Squirrel Launcher"
@@ -15844,7 +15839,7 @@
     "name": "Sky: Children of the Light"
   },
   "232890": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -15858,7 +15853,8 @@
       }
     ],
     "folders": [
-      "__Stronghold_Crusader"
+      "__Stronghold_Crusader",
+      "Stronghold_Crusader_HD"
     ],
     "name": "Stronghold Crusader 2"
   },
@@ -17678,14 +17674,6 @@
       "Vector"
     ],
     "name": "Citizen Sleeper 2: Starward Vector"
-  },
-  "244450": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Men_of_War_-_Assault_Squad_2"
-    ],
-    "name": "Men of War: Assault Squad 2"
   },
   "2444750": {
     "config_count": 1,
@@ -20105,7 +20093,7 @@
     "name": "Palia"
   },
   "270880": {
-    "config_count": 26,
+    "config_count": 27,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -24196,7 +24184,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1924,
+    "config_count": 1925,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -28554,14 +28542,6 @@
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
-  },
   "3681010": {
     "config_count": 2,
     "devices": [
@@ -29764,7 +29744,7 @@
     "name": "Pacer"
   },
   "389730": {
-    "config_count": 40,
+    "config_count": 38,
     "devices": [
       {
         "d": "SM8850",
@@ -29865,8 +29845,7 @@
     "folders": [
       "TEKKEN_7",
       "TEKKEN7",
-      "Tekken7",
-      "Tekken_7"
+      "Tekken7"
     ],
     "name": "TEKKEN 7"
   },
@@ -31035,14 +31014,6 @@
       "_Stronghold_2"
     ],
     "name": "Stronghold 2: Steam Edition"
-  },
-  "40970": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Stronghold_Crusader_HD"
-    ],
-    "name": "Stronghold Crusader HD (2012)"
   },
   "409710": {
     "config_count": 5,
@@ -36582,6 +36553,14 @@
     ],
     "name": "Journey"
   },
+  "64000": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Men_of_War_-_Assault_Squad_2"
+    ],
+    "name": "Men of War: Assault Squad"
+  },
   "640590": {
     "config_count": 1,
     "devices": [],
@@ -37396,7 +37375,7 @@
     "name": "Half-Life"
   },
   "7000": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "G615_MC6",
@@ -37406,8 +37385,7 @@
     ],
     "folders": [
       "Tomb_Raider_Legend",
-      "Tomb_Raider__Legend",
-      "Tomb_Raider_-_Legend"
+      "Tomb_Raider__Legend"
     ],
     "name": "Tomb Raider: Legend"
   },
@@ -43488,7 +43466,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3130,
+    "config_count": 3131,
     "devices": [
       {
         "d": "G52_MC2",
@@ -45610,6 +45588,20 @@
     ],
     "name": "Rocketleague"
   },
+  "name:rockstar-games-launcher": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Rockstar_Games_Launcher"
+    ],
+    "name": "Rockstar Games Launcher"
+  },
   "name:rottr": {
     "config_count": 9,
     "devices": [
@@ -45744,6 +45736,14 @@
     ],
     "name": "Shproto"
   },
+  "name:silent-hill-3": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "SILENT_HILL_3"
+    ],
+    "name": "Silent Hill 3"
+  },
   "name:skyrimse": {
     "config_count": 2,
     "devices": [],
@@ -45767,6 +45767,14 @@
       "Snapshot__Lewd_Shores"
     ],
     "name": "Snapshot Lewd Shores"
+  },
+  "name:sniper-ghost-warrior-1": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 1"
   },
   "name:sniper-x86": {
     "config_count": 1,
@@ -46118,6 +46126,14 @@
       "Tomb_Raider_Defenitive_Edition"
     ],
     "name": "Tomb Raider Defenitive Edition"
+  },
+  "name:tomb-raider-legend": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Tomb_Raider_-_Legend"
+    ],
+    "name": "Tomb Raider Legend"
   },
   "name:tpp-main-win64": {
     "config_count": 2,
