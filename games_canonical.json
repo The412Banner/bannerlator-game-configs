@@ -2774,7 +2774,7 @@
     "name": "A Space for the Unbound"
   },
   "1203170": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -2785,11 +2785,6 @@
         "d": "Adreno__TM__735",
         "m": "24069RA21C",
         "s": "Adreno (TM) 735"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -3525,7 +3520,7 @@
     "name": "Detroit: Become Human"
   },
   "1222670": {
-    "config_count": 27,
+    "config_count": 28,
     "devices": [
       {
         "d": "G57_MC2",
@@ -3581,6 +3576,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
       },
       {
         "d": "Adreno__TM__810",
@@ -3869,20 +3869,6 @@
       "Beach_Buggy_Racing_2_-_Island_Adventure"
     ],
     "name": "Beach Buggy Racing 2 - Island Adventure"
-  },
-  "12320": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred Gold"
   },
   "1232460": {
     "config_count": 1,
@@ -11299,7 +11285,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11308,8 +11294,7 @@
       }
     ],
     "folders": [
-      "WolfNewOrder",
-      "Wolfenstein__2009_"
+      "WolfNewOrder"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -14593,7 +14578,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 20,
+    "config_count": 17,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -14632,9 +14617,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -15156,7 +15139,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 286,
+    "config_count": 287,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -15479,14 +15462,14 @@
         "s": "Mali-G52 MC2"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "A366E",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -21493,7 +21476,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 34,
     "devices": [
       {
         "d": "G615_MC2",
@@ -21533,7 +21516,9 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -21825,17 +21810,12 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 11,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__840",
-        "m": "CPH2745",
-        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__830",
@@ -21855,7 +21835,6 @@
     ],
     "folders": [
       "The_Witcher_3__Wild_Hunt_-_Complete_Edition",
-      "The_Witcher_3",
       "The_Witcher_3_-_Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
@@ -21996,12 +21975,17 @@
     "name": "RimWorld"
   },
   "2944800": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
         "m": "CPH2025",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "Infinix_X6878",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
@@ -22138,6 +22122,14 @@
       "God_Of_War_II"
     ],
     "name": "WarOfGods 2"
+  },
+  "2977260": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "THEg"
+    ],
+    "name": "The Guild 1 Remake: Europa 1410"
   },
   "297860": {
     "config_count": 1,
@@ -29876,6 +29868,20 @@
     ],
     "name": "TEKKEN 7"
   },
+  "3906660": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred 2 Remaster"
+  },
   "3909960": {
     "config_count": 1,
     "devices": [
@@ -33606,14 +33612,6 @@
     ],
     "name": "KARAKARA"
   },
-  "4881480": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "THEg"
-    ],
-    "name": "The Great Wife's Guide"
-  },
   "489630": {
     "config_count": 1,
     "devices": [
@@ -34017,7 +34015,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 45,
+    "config_count": 48,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -34113,6 +34111,11 @@
         "d": "Adreno__TM__750",
         "m": "TB321FU",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "CPH2745",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__750",
@@ -36262,7 +36265,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -37484,16 +37487,22 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__A32",
         "m": "Pocket_Fit_G3_Gen3",
         "s": "Adreno (TM) A32"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "Darksiders_Genesis",
+      "Darksiders",
       "DarksidersGenesis"
     ],
     "name": "Darksiders Genesis"
@@ -41294,6 +41303,20 @@
     ],
     "name": "Bitsv8"
   },
+  "name:black-port-pc": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      }
+    ],
+    "folders": [
+      "BLACK_Port_PC"
+    ],
+    "name": "Black Port Pc"
+  },
   "name:blades-of-exile": {
     "config_count": 1,
     "devices": [
@@ -43518,7 +43541,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3131,
+    "config_count": 3135,
     "devices": [
       {
         "d": "G52_MC2",
