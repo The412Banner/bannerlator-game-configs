@@ -4666,7 +4666,7 @@
     "name": "Need for Speed\u2122 Most Wanted"
   },
   "1262580": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -4701,6 +4701,7 @@
     ],
     "folders": [
       "Need_for_Speed__Payback",
+      "NeedForSpeedPayback",
       "Need_for_Speed_Payback"
     ],
     "name": "Need for Speed\u2122 Payback"
@@ -21785,12 +21786,17 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 8,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "Odin3",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "CPH2745",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__830",
@@ -21810,6 +21816,7 @@
     ],
     "folders": [
       "The_Witcher_3__Wild_Hunt_-_Complete_Edition",
+      "The_Witcher_3",
       "The_Witcher_3_-_Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
@@ -34004,7 +34011,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 48,
+    "config_count": 45,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -34100,11 +34107,6 @@
         "d": "Adreno__TM__750",
         "m": "TB321FU",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__840",
-        "m": "CPH2745",
-        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__750",
@@ -34768,7 +34770,7 @@
     "name": "Ancestors: The Humankind Odyssey"
   },
   "543870": {
-    "config_count": 30,
+    "config_count": 31,
     "devices": [
       {
         "d": "moto_e13",
@@ -34834,6 +34836,11 @@
         "d": "Adreno__TM__710",
         "m": "2312DRA50G",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "CPH2473",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
