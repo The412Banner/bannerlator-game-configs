@@ -4569,7 +4569,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 63,
+    "config_count": 62,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4701,7 +4701,6 @@
       "Need_For_Speed_Most_Wanted",
       "Need_For_Speed_Most_Wanted_",
       "Need_for_Speed_-_Most_Wanted",
-      "Need_for_Speed__Most_Wanted_2005",
       "Need_for_Speed__Most_wanted__2012_",
       "need_for_speed_most_wa",
       "need_for_speed_most_wanted_2005"
@@ -14660,7 +14659,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 20,
+    "config_count": 19,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -14700,8 +14699,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -21581,7 +21579,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -21621,7 +21619,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -24356,7 +24355,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1952,
+    "config_count": 1953,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -27016,14 +27015,6 @@
       "Heavy_Weapon"
     ],
     "name": "Heavy Weapon Deluxe"
-  },
-  "3419290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN"
   },
   "341940": {
     "config_count": 4,
@@ -30903,6 +30894,14 @@
       "The_Spike"
     ],
     "name": "The Spike Cross"
+  },
+  "3985080": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN - Costume Expansion Pack"
   },
   "400": {
     "config_count": 4,
@@ -43374,6 +43373,14 @@
     ],
     "name": "Need For Speed Black Edition"
   },
+  "name:need-for-speed-most-wanted-2005": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Need_for_Speed__Most_Wanted_2005"
+    ],
+    "name": "Need For Speed Most Wanted 2005"
+  },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 1,
     "devices": [],
@@ -45816,6 +45823,20 @@
       "pure_onyx"
     ],
     "name": "Pure Onyx"
+  },
+  "name:ranchrush": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "RanchRush"
+    ],
+    "name": "Ranchrush"
   },
   "name:rdr2": {
     "config_count": 1,
