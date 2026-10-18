@@ -3829,7 +3829,7 @@
     "name": "Atri -My Dear Moments-"
   },
   "1230530": {
-    "config_count": 12,
+    "config_count": 8,
     "devices": [
       {
         "d": "G57_MC2",
@@ -3865,11 +3865,6 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
-      },
-      {
-        "d": "G57_MC4",
-        "m": "Mali",
-        "s": "Mali-G57 MC4"
       }
     ],
     "folders": [
@@ -7141,6 +7136,20 @@
     ],
     "name": "Forza Horizon 5"
   },
+  "1551980": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__710",
+        "m": "23122PCD1G",
+        "s": "Adreno (TM) 710"
+      }
+    ],
+    "folders": [
+      "Clive_Barker_s_Hellraiser__Revival_Demo"
+    ],
+    "name": "Clive Barker's Hellraiser: Revival"
+  },
   "1562430": {
     "config_count": 2,
     "devices": [
@@ -8004,7 +8013,7 @@
     "name": "Minishoot' Adventures"
   },
   "1636440": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "A566E",
@@ -11358,7 +11367,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11367,8 +11376,7 @@
       }
     ],
     "folders": [
-      "WolfNewOrder",
-      "Wolfenstein__2009_"
+      "WolfNewOrder"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -14697,7 +14705,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 19,
+    "config_count": 17,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -14736,8 +14744,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -21625,7 +21632,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 34,
     "devices": [
       {
         "d": "G615_MC2",
@@ -21666,6 +21673,7 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
+      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -21744,7 +21752,7 @@
     "name": "Mohrta"
   },
   "288470": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -21755,6 +21763,11 @@
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__725",
+        "m": "23049PCD8G",
+        "s": "Adreno (TM) 725"
       }
     ],
     "folders": [
@@ -21972,7 +21985,7 @@
     "name": "Pillars of Eternity"
   },
   "292030": {
-    "config_count": 19,
+    "config_count": 18,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -21998,11 +22011,6 @@
         "d": "Adreno__TM__830",
         "m": "CPH2653",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "V2425A",
-        "s": "Adreno (TM) 750"
       },
       {
         "d": "G57_MC2",
@@ -22032,7 +22040,6 @@
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
       "The_Witcher_3_-_Wild_Hunt___Remastered",
-      "Witcher_1",
       "_Witcher",
       "witcher3"
     ],
@@ -24039,7 +24046,7 @@
     "name": "Mall Simulator"
   },
   "3183760": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -24401,7 +24408,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1962,
+    "config_count": 1963,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -28058,6 +28065,20 @@
     ],
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
+  "3558670": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "G57_MC4",
+        "m": "Mali",
+        "s": "Mali-G57 MC4"
+      }
+    ],
+    "folders": [
+      "Atla"
+    ],
+    "name": "Tomb Raider: Legacy of Atlantis"
+  },
   "356190": {
     "config_count": 4,
     "devices": [
@@ -28769,14 +28790,6 @@
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
-  },
   "3681010": {
     "config_count": 2,
     "devices": [
@@ -29285,7 +29298,7 @@
     "name": "007 First Light"
   },
   "377160": {
-    "config_count": 24,
+    "config_count": 23,
     "devices": [
       {
         "d": "SM8750P",
@@ -29349,8 +29362,7 @@
       }
     ],
     "folders": [
-      "Fallout_4",
-      "Fallout_4_-_Game_of_the_Year_Edition"
+      "Fallout_4"
     ],
     "name": "Fallout 4"
   },
@@ -37828,7 +37840,7 @@
     "name": "Starship EVO"
   },
   "71340": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "G52_MC2",
@@ -37837,8 +37849,7 @@
       }
     ],
     "folders": [
-      "Sonic_Generations",
-      "SonicGenerations"
+      "Sonic_Generations"
     ],
     "name": "Sonic Generations Collection"
   },
@@ -38884,7 +38895,7 @@
     "name": "Monster Sanctuary"
   },
   "814380": {
-    "config_count": 78,
+    "config_count": 79,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -39661,7 +39672,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 131,
+    "config_count": 130,
     "devices": [
       {
         "d": "s5e8855",
@@ -39889,11 +39900,6 @@
         "s": "Adreno (TM) 840"
       },
       {
-        "d": "Adreno__TM__840",
-        "m": "S948U1",
-        "s": "Adreno (TM) 840"
-      },
-      {
         "d": "Adreno__TM__750",
         "m": "NX769J",
         "s": "Adreno (TM) 750"
@@ -39907,7 +39913,6 @@
     "folders": [
       "Resident_Evil_2",
       "Resident_Evil_2_____________________________________________",
-      "Resident_Evil_2__2019_",
       "Resident_Evil_2__DX11_",
       "re2",
       "resident_evil_2"
@@ -42323,6 +42328,14 @@
       "F_E_A_R__Platinum_Collection"
     ],
     "name": "F E A R Platinum Collection"
+  },
+  "name:fallout-4-game-of-the-year-edition": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Fallout_4_-_Game_of_the_Year_Edition"
+    ],
+    "name": "Fallout 4 Game Of The Year Edition"
   },
   "name:fallout-new-vegas-pcr": {
     "config_count": 2,
@@ -45931,6 +45944,20 @@
     ],
     "name": "Reschanger"
   },
+  "name:resident-evil-2-2019": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "S948U1",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "Resident_Evil_2__2019_"
+    ],
+    "name": "Resident Evil 2 2019"
+  },
   "name:resident-evil-2-dx11": {
     "config_count": 1,
     "devices": [],
@@ -46137,6 +46164,14 @@
     ],
     "name": "Shproto"
   },
+  "name:silent-hill-3": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "SILENT_HILL_3"
+    ],
+    "name": "Silent Hill 3"
+  },
   "name:skyrimse": {
     "config_count": 2,
     "devices": [],
@@ -46160,6 +46195,14 @@
       "Snapshot__Lewd_Shores"
     ],
     "name": "Snapshot Lewd Shores"
+  },
+  "name:sniper-ghost-warrior-1": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 1"
   },
   "name:sniper-x86": {
     "config_count": 1,
@@ -46204,6 +46247,14 @@
       "soniccd"
     ],
     "name": "Soniccd"
+  },
+  "name:sonicgenerations": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "SonicGenerations"
+    ],
+    "name": "Sonicgenerations"
   },
   "name:sottr": {
     "config_count": 2,
@@ -46644,6 +46695,20 @@
     ],
     "name": "Wasteland 3 Colorado Survival Gear Dlc"
   },
+  "name:witcher-1": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "V2425A",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Witcher_1"
+    ],
+    "name": "Witcher 1"
+  },
   "name:wizard-school-exchange-student": {
     "config_count": 1,
     "devices": [],
@@ -46651,6 +46716,14 @@
       "Wizard_School_Exchange_Student"
     ],
     "name": "Wizard School Exchange Student"
+  },
+  "name:wolfenstein-2009": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Wolfenstein__2009_"
+    ],
+    "name": "Wolfenstein 2009"
   },
   "name:world-of-warcraft": {
     "config_count": 1,
