@@ -3034,7 +3034,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 454,
+    "config_count": 455,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3392,11 +3392,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "23043RP34G",
         "s": "Adreno (TM) 650"
@@ -3480,6 +3475,11 @@
         "d": "Adreno__TM__650",
         "m": "motorola_edge_20_pro",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       },
       {
         "d": "Adreno__TM__735",
@@ -19226,6 +19226,14 @@
     ],
     "name": "Better Than Dead"
   },
+  "2600": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Vampire__Bloodlines_________________________________________"
+    ],
+    "name": "Vampire: The Masquerade - Bloodlines"
+  },
   "260210": {
     "config_count": 9,
     "devices": [
@@ -24378,7 +24386,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1961,
+    "config_count": 1962,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -37554,10 +37562,11 @@
     "name": "Xenia"
   },
   "6880": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
-      "Just_Cause"
+      "Just_Cause",
+      "Just_Cause_2_-_Complete_Edition"
     ],
     "name": "Just Cause"
   },
@@ -39059,7 +39068,7 @@
     "name": "Cash Grab - Hat Pack"
   },
   "8190": {
-    "config_count": 33,
+    "config_count": 32,
     "devices": [
       {
         "d": "Odin2",
@@ -39154,8 +39163,7 @@
     ],
     "folders": [
       "Just_Cause_2",
-      "JustCause2",
-      "Just_Cause_2_-_Complete_Edition"
+      "JustCause2"
     ],
     "name": "Just Cause 2"
   },
@@ -41680,6 +41688,14 @@
       "CastlevaniaSOH"
     ],
     "name": "Castlevaniasoh"
+  },
+  "name:cdmwthemocs2": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "CDMWTHEMOCS2"
+    ],
+    "name": "Cdmwthemocs2"
   },
   "name:civilization-ii-multiplayer-gold-edition": {
     "config_count": 1,
