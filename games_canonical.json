@@ -8302,7 +8302,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 107,
+    "config_count": 108,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -8363,6 +8363,11 @@
         "d": "Adreno__TM__610",
         "m": "RMX3890",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "moto_e22",
+        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "Adreno__TM__618",
@@ -8428,11 +8433,6 @@
         "d": "Adreno__TM__618",
         "m": "M2101K6G",
         "s": "Adreno (TM) 618"
-      },
-      {
-        "d": "PowerVR_Rogue_GE8320",
-        "m": "moto_e22",
-        "s": "PowerVR Rogue GE8320"
       }
     ],
     "folders": [
@@ -11348,7 +11348,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11357,8 +11357,7 @@
       }
     ],
     "folders": [
-      "WolfNewOrder",
-      "Wolfenstein__2009_"
+      "WolfNewOrder"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -36527,7 +36526,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -39190,7 +39189,7 @@
     "name": "Call of Duty\u00ae: Black Ops III - Revelations Zombies Map"
   },
   "831560": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__640",
@@ -43821,7 +43820,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3147,
+    "config_count": 3148,
     "devices": [
       {
         "d": "G52_MC2",
