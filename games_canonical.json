@@ -14696,7 +14696,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 17,
+    "config_count": 19,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -14735,7 +14735,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -21609,7 +21610,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -21650,7 +21651,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -32632,7 +32632,7 @@
     "name": "This Is the Police"
   },
   "4439810": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "Forza_Horizon_2_____________________________________________",
@@ -36452,7 +36452,7 @@
     "name": "Moonlighter"
   },
   "606280": {
-    "config_count": 11,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -36465,19 +36465,13 @@
         "s": "Adreno (TM) 825"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
-      },
-      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
       }
     ],
     "folders": [
-      "Darksiders_III",
-      "Darksiders"
+      "Darksiders_III"
     ],
     "name": "Darksiders III"
   },
@@ -37562,11 +37556,10 @@
     "name": "Xenia"
   },
   "6880": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "Just_Cause",
-      "Just_Cause_2_-_Complete_Edition"
+      "Just_Cause"
     ],
     "name": "Just Cause"
   },
@@ -37755,16 +37748,22 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__A32",
         "m": "Pocket_Fit_G3_Gen3",
         "s": "Adreno (TM) A32"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "Darksiders_Genesis",
+      "Darksiders",
       "DarksidersGenesis"
     ],
     "name": "Darksiders Genesis"
@@ -39068,7 +39067,7 @@
     "name": "Cash Grab - Hat Pack"
   },
   "8190": {
-    "config_count": 32,
+    "config_count": 33,
     "devices": [
       {
         "d": "Odin2",
@@ -39163,7 +39162,8 @@
     ],
     "folders": [
       "Just_Cause_2",
-      "JustCause2"
+      "JustCause2",
+      "Just_Cause_2_-_Complete_Edition"
     ],
     "name": "Just Cause 2"
   },
