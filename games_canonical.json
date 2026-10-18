@@ -2657,7 +2657,7 @@
     "name": "Creatry \u2014 Easy Game Maker & Game Builder App"
   },
   "1196590": {
-    "config_count": 40,
+    "config_count": 41,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -2735,14 +2735,14 @@
         "s": "Adreno (TM) 642L"
       },
       {
-        "d": "Adreno__TM__619",
-        "m": "moto_g45_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__825",
         "m": "25053RT47C",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__825",
@@ -2779,7 +2779,7 @@
     "name": "A Space for the Unbound"
   },
   "1203170": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -2790,6 +2790,11 @@
         "d": "Adreno__TM__735",
         "m": "24069RA21C",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -4263,6 +4268,20 @@
       "Battlefield_4_"
     ],
     "name": "Battlefield 4\u2122"
+  },
+  "1238880": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
+      }
+    ],
+    "folders": [
+      "BATTLEFIELD__HARDLINE"
+    ],
+    "name": "Battlefield\u2122 Hardline"
   },
   "1240440": {
     "config_count": 2,
@@ -7184,7 +7203,7 @@
     "name": "LEGO\u00ae Skylines"
   },
   "1574140": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -7193,6 +7212,7 @@
       }
     ],
     "folders": [
+      "DiRT4",
       "Dirt4"
     ],
     "name": "TIME FOR YOU - CHAPTER 02 - DIRTY THOUGHTS AND CORPORATE BOTS"
@@ -11317,7 +11337,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -13417,7 +13437,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 118,
+    "config_count": 119,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -13515,11 +13535,6 @@
         "s": "Adreno (TM) 619"
       },
       {
-        "d": "Adreno__TM__619",
-        "m": "moto_g45_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
         "m": "S942B",
         "s": "ANGLE ((Samsung Xclipse 960) on Vulkan 1.4.304)"
@@ -13563,6 +13578,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__710",
@@ -22237,6 +22257,14 @@
     ],
     "name": "WarOfGods 2"
   },
+  "2977260": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "THEg"
+    ],
+    "name": "The Guild 1 Remake: Europa 1410"
+  },
   "297860": {
     "config_count": 1,
     "devices": [
@@ -24319,7 +24347,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1944,
+    "config_count": 1946,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -31009,16 +31037,22 @@
     "name": "HAELE 3D - Pose Studio Max - Anatomy Drawing References"
   },
   "4049180": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__619",
         "m": "moto_g34_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
       "Toy_Story_3",
+      "Toy_Story_3_Complete_Edition",
       "Disney_Pixar_Toy_Story_3_Complete_Edition"
     ],
     "name": "Disney/Pixar Toy Story 3 Complete Edition"
@@ -33799,14 +33833,6 @@
     ],
     "name": "KARAKARA"
   },
-  "4881480": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "THEg"
-    ],
-    "name": "The Great Wife's Guide"
-  },
   "489630": {
     "config_count": 1,
     "devices": [
@@ -34328,7 +34354,7 @@
     "name": "Trails in the Sky 2nd Chapter Demo"
   },
   "50130": {
-    "config_count": 38,
+    "config_count": 39,
     "devices": [
       {
         "d": "MT6781",
@@ -34414,6 +34440,11 @@
         "d": "Adreno__TM__750",
         "m": "TB321FU",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -37491,11 +37522,10 @@
     "name": "Xenia"
   },
   "6880": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "Just_Cause",
-      "Just_Cause_2_-_Complete_Edition"
+      "Just_Cause"
     ],
     "name": "Just Cause"
   },
@@ -37684,22 +37714,16 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__A32",
         "m": "Pocket_Fit_G3_Gen3",
         "s": "Adreno (TM) A32"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "Darksiders_Genesis",
-      "Darksiders",
       "DarksidersGenesis"
     ],
     "name": "Darksiders Genesis"
@@ -39003,7 +39027,7 @@
     "name": "Cash Grab - Hat Pack"
   },
   "8190": {
-    "config_count": 32,
+    "config_count": 33,
     "devices": [
       {
         "d": "Odin2",
@@ -39098,7 +39122,8 @@
     ],
     "folders": [
       "Just_Cause_2",
-      "JustCause2"
+      "JustCause2",
+      "Just_Cause_2_-_Complete_Edition"
     ],
     "name": "Just Cause 2"
   },
@@ -39398,6 +39423,14 @@
       "SuperSeducer"
     ],
     "name": "Super Seducer 2 - Advanced Seduction Tactics"
+  },
+  "865360": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "We_Were_Here_Together"
+    ],
+    "name": "We Were Here Together"
   },
   "865940": {
     "config_count": 1,
@@ -41909,20 +41942,6 @@
       "Dirt_Showdown"
     ],
     "name": "Dirt Showdown"
-  },
-  "name:dirt4": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__650",
-        "m": "G988N",
-        "s": "Adreno (TM) 650"
-      }
-    ],
-    "folders": [
-      "DiRT4"
-    ],
-    "name": "Dirt4"
   },
   "name:dirtfish-dirt4": {
     "config_count": 1,
@@ -46544,14 +46563,6 @@
       "Wizard_School_Exchange_Student"
     ],
     "name": "Wizard School Exchange Student"
-  },
-  "name:wolfneworder": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "WolfNewOrder"
-    ],
-    "name": "Wolfneworder"
   },
   "name:world-of-warcraft": {
     "config_count": 1,

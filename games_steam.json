@@ -632,6 +632,12 @@
     "appid": null,
     "method": "unresolved"
   },
+  "BATTLEFIELD__HARDLINE": {
+    "appid": 1238880,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1238880/header.jpg",
+    "method": "naive",
+    "steam_name": "Battlefield\u2122 Hardline"
+  },
   "BBe_10": {
     "appid": 1501520,
     "method": "fuzzy",
@@ -2855,6 +2861,10 @@
     "appid": 2669320,
     "method": "fuzzy",
     "steam_name": "EA SPORTS FC\u2122 25"
+  },
+  "EA_Uninstall": {
+    "appid": null,
+    "method": "non-game"
   },
   "EA_app": {
     "appid": 1194690,
@@ -11051,6 +11061,12 @@
   },
   "Toy_Story_3": {
     "appid": 4049180,
+    "method": "naive",
+    "steam_name": "Disney/Pixar Toy Story 3 Complete Edition"
+  },
+  "Toy_Story_3_Complete_Edition": {
+    "appid": 4049180,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/4049180/header.jpg",
     "method": "naive",
     "steam_name": "Disney/Pixar Toy Story 3 Complete Edition"
   },
