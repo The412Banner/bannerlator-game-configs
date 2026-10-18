@@ -2779,7 +2779,7 @@
     "name": "A Space for the Unbound"
   },
   "1203170": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -2790,11 +2790,6 @@
         "d": "Adreno__TM__735",
         "m": "24069RA21C",
         "s": "Adreno (TM) 735"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -24347,7 +24342,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1946,
+    "config_count": 1947,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -27003,14 +26998,6 @@
     ],
     "name": "Heavy Weapon Deluxe"
   },
-  "3419290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN"
-  },
   "341940": {
     "config_count": 4,
     "devices": [
@@ -29252,10 +29239,9 @@
     "name": "SpiritVale"
   },
   "3768760": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "007FirstLight",
       "007_First_Light"
     ],
     "name": "007 First Light"
@@ -30889,6 +30875,14 @@
       "The_Spike"
     ],
     "name": "The Spike Cross"
+  },
+  "3985080": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN - Costume Expansion Pack"
   },
   "400": {
     "config_count": 4,
@@ -35142,7 +35136,7 @@
     "name": "RAGE 2"
   },
   "550": {
-    "config_count": 81,
+    "config_count": 82,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -35263,6 +35257,11 @@
         "d": "Adreno__TM__840",
         "m": "NX809J_V1A",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "V2425A",
+        "s": "Adreno (TM) 750"
       },
       {
         "d": "Adreno__TM__730",
@@ -37714,16 +37713,22 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__A32",
         "m": "Pocket_Fit_G3_Gen3",
         "s": "Adreno (TM) A32"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "Darksiders_Genesis",
+      "Darksiders",
       "DarksidersGenesis"
     ],
     "name": "Darksiders Genesis"
@@ -41152,6 +41157,14 @@
       "007_Blood_Stone"
     ],
     "name": "007 Blood Stone"
+  },
+  "name:007firstlight": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "007FirstLight"
+    ],
+    "name": "007Firstlight"
   },
   "name:1-grand-theft-auto-v-normal": {
     "config_count": 1,
