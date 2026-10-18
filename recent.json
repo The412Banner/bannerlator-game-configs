@@ -1,5 +1,12 @@
 [
   {
+    "game": "exec",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1792289014,
+    "filename": "exec-motorola-moto_g06-Mali-G52_MC2-1792289014.json"
+  },
+  {
     "game": "Hard_Stuck",
     "manufacturer": "RMX3700",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1792209719,
     "filename": "DEVIL_MAY_CRY_4_Special_Edition-OPPO-CPH2641-Adreno__TM__610-1792209719.json"
-  },
-  {
-    "game": "The_Long_Drive_02d",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1792208326,
-    "filename": "The_Long_Drive_02d-INFINIX-Infinix_X6871-Mali-G610_MC6-1792208326.json"
   }
 ]
