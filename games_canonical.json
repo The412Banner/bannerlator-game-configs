@@ -744,14 +744,6 @@
     ],
     "name": "New Super Lucky's Tale"
   },
-  "1041320": {
-    "config_count": 3,
-    "devices": [],
-    "folders": [
-      "LoK"
-    ],
-    "name": "Lords Mobile: Kingdom Wars"
-  },
   "1044720": {
     "config_count": 1,
     "devices": [
@@ -3546,7 +3538,7 @@
     "name": "Detroit: Become Human"
   },
   "1222670": {
-    "config_count": 31,
+    "config_count": 29,
     "devices": [
       {
         "d": "G57_MC2",
@@ -3624,7 +3616,6 @@
       "The_Sims__",
       "The_Sims__4",
       "the_Sims",
-      "Sims_3",
       "The_Sims_4"
     ],
     "name": "The Sims\u2122 4"
@@ -4583,7 +4574,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 62,
+    "config_count": 63,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4694,6 +4685,11 @@
         "d": "Adreno__TM__650",
         "m": "22021211RG",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
       }
     ],
     "folders": [
@@ -4711,6 +4707,7 @@
       "Need_For_Speed_Most_Wanted_",
       "Need_for_Speed_-_Most_Wanted",
       "Need_for_Speed__Most_Wanted_2005",
+      "Need_for_Speed__Most_wanted__2012_",
       "need_for_speed_most_wa",
       "need_for_speed_most_wanted_2005"
     ],
@@ -5639,6 +5636,14 @@
       "hello_neighbor_alpha_1_5"
     ],
     "name": "Hello Neighbor 2 Alpha 1.5"
+  },
+  "1366590": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Study___Steady"
+    ],
+    "name": "Study Steady"
   },
   "1369630": {
     "config_count": 5,
@@ -14298,7 +14303,7 @@
     "name": "DmC: Devil May Cry"
   },
   "2207440": {
-    "config_count": 1,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -14307,7 +14312,8 @@
       }
     ],
     "folders": [
-      "LOK"
+      "LOK",
+      "LoK"
     ],
     "name": "LOK Digital"
   },
@@ -14659,7 +14665,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 17,
+    "config_count": 19,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -14698,7 +14704,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -21572,7 +21579,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -21613,7 +21620,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -33513,7 +33519,7 @@
     "name": "Tom Clancy S Ghost Recon Wildlands - Predator Premium Pack"
   },
   "47890": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [
       {
         "d": "G57",
@@ -43354,20 +43360,6 @@
       "Need_for_Speed_Black_Edition_"
     ],
     "name": "Need For Speed Black Edition"
-  },
-  "name:need-for-speed-most-wanted-2012": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
-      }
-    ],
-    "folders": [
-      "Need_for_Speed__Most_wanted__2012_"
-    ],
-    "name": "Need For Speed Most Wanted 2012"
   },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 1,
