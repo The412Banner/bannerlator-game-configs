@@ -1990,14 +1990,6 @@
     ],
     "name": "DOOM 64"
   },
-  "1150230": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "nostalgia_5_0"
-    ],
-    "name": "VR Nostalgia 5"
-  },
   "1151380": {
     "config_count": 1,
     "devices": [
@@ -2613,7 +2605,7 @@
     "name": "I.G.I. Origins"
   },
   "1187": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [
       {
         "d": "G77_MC9",
@@ -2622,7 +2614,8 @@
       }
     ],
     "folders": [
-      "ACC"
+      "ACC",
+      "Assassin_s_Creed_Rogue"
     ],
     "name": "Acc"
   },
@@ -8019,7 +8012,7 @@
     "name": "Minishoot' Adventures"
   },
   "1636440": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "A566E",
@@ -8812,7 +8805,7 @@
     "name": "Kusan: City of Wolves"
   },
   "1715130": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -11854,8 +11847,33 @@
     "name": "Hitman: Absolution\u2122"
   },
   "203160": {
-    "config_count": 17,
+    "config_count": 33,
     "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
+      },
       {
         "d": "Adreno__TM__740",
         "m": "S911U",
@@ -11883,11 +11901,12 @@
       }
     ],
     "folders": [
+      "TombRaider",
       "Tomb_Raider",
       "Tomb_Raider_2013",
       "Tomb_Raider_Game_of_the_Year"
     ],
-    "name": "Tomb Raider"
+    "name": "Tomb Raider Game of the Year"
   },
   "203650": {
     "config_count": 3,
@@ -12654,7 +12673,7 @@
     "name": "Crysis 2 Remastered"
   },
   "2096610": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "G720_MC7",
@@ -12665,7 +12684,8 @@
     "folders": [
       "Crysis",
       "Crysis_3",
-      "Crysis_3_Remastered"
+      "Crysis_3_Remastered",
+      "Crysis_Remastered"
     ],
     "name": "Crysis 3 Remastered"
   },
@@ -14195,7 +14215,7 @@
     "name": "Far Cry 3"
   },
   "220440": {
-    "config_count": 39,
+    "config_count": 38,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -14317,8 +14337,7 @@
       "DmC_Devil_May_Cry",
       "DmC_Devil_May_Cry___________________________________________",
       "DmC__Devil_May_Cry",
-      "DMC-DevilMayCry",
-      "DMC-DevilMayCry_2013"
+      "DMC-DevilMayCry"
     ],
     "name": "DmC: Devil May Cry"
   },
@@ -17798,14 +17817,6 @@
       "Assetto_Corsa"
     ],
     "name": "Assetto Corsa"
-  },
-  "244450": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Men_of_War_-_Assault_Squad_2"
-    ],
-    "name": "Men of War: Assault Squad 2"
   },
   "2444750": {
     "config_count": 1,
@@ -23509,10 +23520,9 @@
     "name": "METAL GEAR SOLID V: GROUND ZEROES"
   },
   "311560": {
-    "config_count": 3,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "Assassin_s_Creed_Rogue",
       "Assassins_Creed_Rogue"
     ],
     "name": "Assassin\u2019s Creed\u00ae Rogue"
@@ -24358,14 +24368,6 @@
       "Maid_Cafe_Simulator"
     ],
     "name": "Maid Cafe Simulator"
-  },
-  "32330": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "LEGO__Indiana_Jones__-_The_Original_Adventures"
-    ],
-    "name": "LEGO\u00ae Indiana Jones\u2122: The Original Adventures"
   },
   "323470": {
     "config_count": 5,
@@ -28060,42 +28062,16 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 20,
+    "config_count": 4,
     "devices": [
       {
         "d": "G57_MC4",
         "m": "Mali",
         "s": "Mali-G57 MC4"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
-      "Atla",
-      "TombRaider"
+      "Atla"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -29071,7 +29047,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 42,
+    "config_count": 45,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -29162,6 +29138,11 @@
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "S928B",
+        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
@@ -29172,7 +29153,8 @@
       "DARK_SOULS_III",
       "DarkSoulsII",
       "DarkSoulsIII",
-      "Dark_Souls_III"
+      "Dark_Souls_III",
+      "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122 III"
   },
@@ -31948,14 +31930,6 @@
       "Furi"
     ],
     "name": "Furi"
-  },
-  "423950": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Deadlight_-_Director_s_Cut"
-    ],
-    "name": "Deadlight: Director's Cut"
   },
   "4241690": {
     "config_count": 1,
@@ -35836,7 +35810,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 54,
+    "config_count": 51,
     "devices": [
       {
         "d": "G57",
@@ -35957,18 +35931,12 @@
         "d": "Adreno__TM__810",
         "m": "NX1",
         "s": "Adreno (TM) 810"
-      },
-      {
-        "d": "Adreno__TM__660",
-        "m": "S928B",
-        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
       "DARK_SOULS__REMASTERED",
       "DARK_SOULS___REMASTERED",
-      "DARK_SOULS_-_REMASTERED",
-      "Dark_Souls_Remastered"
+      "DARK_SOULS_-_REMASTERED"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
   },
@@ -36946,6 +36914,14 @@
     ],
     "name": "Journey"
   },
+  "64000": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Men_of_War_-_Assault_Squad_2"
+    ],
+    "name": "Men of War: Assault Squad"
+  },
   "640590": {
     "config_count": 1,
     "devices": [],
@@ -37761,7 +37737,7 @@
     "name": "Half-Life"
   },
   "7000": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "G615_MC6",
@@ -37771,8 +37747,7 @@
     ],
     "folders": [
       "Tomb_Raider_Legend",
-      "Tomb_Raider__Legend",
-      "Tomb_Raider_-_Legend"
+      "Tomb_Raider__Legend"
     ],
     "name": "Tomb Raider: Legend"
   },
@@ -39723,7 +39698,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 131,
+    "config_count": 130,
     "devices": [
       {
         "d": "s5e8855",
@@ -39951,11 +39926,6 @@
         "s": "Adreno (TM) 840"
       },
       {
-        "d": "Adreno__TM__840",
-        "m": "S948U1",
-        "s": "Adreno (TM) 840"
-      },
-      {
         "d": "Adreno__TM__750",
         "m": "NX769J",
         "s": "Adreno (TM) 750"
@@ -39969,7 +39939,6 @@
     "folders": [
       "Resident_Evil_2",
       "Resident_Evil_2_____________________________________________",
-      "Resident_Evil_2__2019_",
       "Resident_Evil_2__DX11_",
       "re2",
       "resident_evil_2"
@@ -40044,7 +40013,7 @@
     "name": "Metro Exodus - Sam S Story"
   },
   "892970": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G615_MC2",
@@ -40060,6 +40029,11 @@
         "d": "Adreno__TM__830",
         "m": "24129PN74C",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "TB320FC",
+        "s": "Adreno (TM) 730"
       }
     ],
     "folders": [
@@ -42002,6 +41976,14 @@
     ],
     "name": "Dc S Crawlered Man Enhanced"
   },
+  "name:deadlight-director-s-cut": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Deadlight_-_Director_s_Cut"
+    ],
+    "name": "Deadlight Director S Cut"
+  },
   "name:delta-force-extreme-2-2009": {
     "config_count": 1,
     "devices": [
@@ -42115,6 +42097,20 @@
       "DLSS_5_Swapper"
     ],
     "name": "Dlss 5 Swapper"
+  },
+  "name:dmc-devilmaycry-2013": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2487",
+        "s": "Adreno (TM) 730"
+      }
+    ],
+    "folders": [
+      "DMC-DevilMayCry_2013"
+    ],
+    "name": "Dmc Devilmaycry 2013"
   },
   "name:domesticlover": {
     "config_count": 1,
@@ -43149,6 +43145,14 @@
     ],
     "name": "Kofxv Steam"
   },
+  "name:lego-indiana-jones-the-original-adventures": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "LEGO__Indiana_Jones__-_The_Original_Adventures"
+    ],
+    "name": "Lego Indiana Jones The Original Adventures"
+  },
   "name:legobatmanlotdk": {
     "config_count": 1,
     "devices": [],
@@ -43666,6 +43670,14 @@
       "NieRAutomataCompat"
     ],
     "name": "Nierautomatacompat"
+  },
+  "name:nostalgia-5-0": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "nostalgia_5_0"
+    ],
+    "name": "Nostalgia 5 0"
   },
   "name:nsuns-4": {
     "config_count": 1,
@@ -46001,6 +46013,20 @@
     ],
     "name": "Reschanger"
   },
+  "name:resident-evil-2-2019": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "S948U1",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "Resident_Evil_2__2019_"
+    ],
+    "name": "Resident Evil 2 2019"
+  },
   "name:resident-evil-2-dx11": {
     "config_count": 1,
     "devices": [],
@@ -46206,6 +46232,14 @@
       "SHProto"
     ],
     "name": "Shproto"
+  },
+  "name:silent-hill-3": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "SILENT_HILL_3"
+    ],
+    "name": "Silent Hill 3"
   },
   "name:skyrimse": {
     "config_count": 2,
@@ -46589,6 +46623,14 @@
       "Tomb_Raider_Defenitive_Edition"
     ],
     "name": "Tomb Raider Defenitive Edition"
+  },
+  "name:tomb-raider-legend": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Tomb_Raider_-_Legend"
+    ],
+    "name": "Tomb Raider Legend"
   },
   "name:tpp-main-win64": {
     "config_count": 2,
