@@ -1599,7 +1599,6 @@
   },
   "Clive_Barker_s_Hellraiser__Revival_Demo": {
     "appid": 1551980,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1551980/header.jpg",
     "method": "norm",
     "steam_name": "Clive Barker's Hellraiser: Revival"
   },
@@ -8828,6 +8827,10 @@
     "appid": 21690,
     "method": "naive",
     "steam_name": "Resident Evil 5"
+  },
+  "Resident_Evil_5_Game": {
+    "appid": null,
+    "method": "unresolved"
   },
   "Resident_Evil_5_Gold_Edition": {
     "appid": null,
