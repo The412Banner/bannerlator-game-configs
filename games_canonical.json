@@ -499,7 +499,7 @@
     "name": "Torque Drift"
   },
   "1030300": {
-    "config_count": 55,
+    "config_count": 56,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -520,11 +520,6 @@
         "d": "Adreno__TM__660",
         "m": "motorola_edge_30_fusion",
         "s": "Adreno (TM) 660"
-      },
-      {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
       },
       {
         "d": "Adreno__TM__725",
@@ -600,6 +595,11 @@
         "d": "Adreno__TM__710",
         "m": "NX1",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       },
       {
         "d": "G610_MC2",
@@ -3829,7 +3829,7 @@
     "name": "Atri -My Dear Moments-"
   },
   "1230530": {
-    "config_count": 12,
+    "config_count": 8,
     "devices": [
       {
         "d": "G57_MC2",
@@ -3865,11 +3865,6 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
-      },
-      {
-        "d": "G57_MC4",
-        "m": "Mali",
-        "s": "Mali-G57 MC4"
       }
     ],
     "folders": [
@@ -4526,8 +4521,14 @@
     "name": "Days Gone"
   },
   "1260320": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
     "folders": [
       "Party_Animals"
     ],
@@ -6548,7 +6549,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 112,
+    "config_count": 113,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -6691,11 +6692,6 @@
         "s": "Adreno (TM) 730"
       },
       {
-        "d": "Adreno__TM__810",
-        "m": "24115RA8EG",
-        "s": "Adreno (TM) 810"
-      },
-      {
         "d": "Adreno__TM__830",
         "m": "NP05J",
         "s": "Adreno (TM) 830"
@@ -6709,6 +6705,11 @@
         "d": "Adreno__TM__618",
         "m": "moto_g_60_",
         "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "24115RA8EG",
+        "s": "Adreno (TM) 810"
       },
       {
         "d": "Adreno__TM__710",
@@ -24419,7 +24420,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1965,
+    "config_count": 1967,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -28076,6 +28077,20 @@
     ],
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
+  "3558670": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "G57_MC4",
+        "m": "Mali",
+        "s": "Mali-G57 MC4"
+      }
+    ],
+    "folders": [
+      "Atla"
+    ],
+    "name": "Tomb Raider: Legacy of Atlantis"
+  },
   "356190": {
     "config_count": 4,
     "devices": [
@@ -30132,7 +30147,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 210,
+    "config_count": 211,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -30355,11 +30370,6 @@
         "s": "Mali-G925-Immortalis MC11"
       },
       {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "M2012K11AG",
         "s": "Adreno (TM) 650"
@@ -30458,6 +30468,11 @@
         "d": "Adreno__TM__710",
         "m": "N09",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
@@ -38791,6 +38806,14 @@
     ],
     "name": "Disgaea 5 Complete"
   },
+  "804000": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Expendable"
+    ],
+    "name": "Expendable"
+  },
   "805550": {
     "config_count": 5,
     "devices": [
@@ -42155,16 +42178,11 @@
     "name": "Easy Anti Cheat Bootstrapper Eos"
   },
   "name:efootball-2021": {
-    "config_count": 55,
+    "config_count": 56,
     "devices": [
       {
         "d": "Adreno__TM__650",
         "m": "CPH2609",
-        "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "M2012K11AG",
         "s": "Adreno (TM) 650"
       },
       {
@@ -42246,6 +42264,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2012K11AG",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
@@ -43877,7 +43900,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3148,
+    "config_count": 3151,
     "devices": [
       {
         "d": "G52_MC2",
