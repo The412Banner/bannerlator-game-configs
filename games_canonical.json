@@ -2657,7 +2657,7 @@
     "name": "Creatry \u2014 Easy Game Maker & Game Builder App"
   },
   "1196590": {
-    "config_count": 41,
+    "config_count": 42,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -16591,20 +16591,6 @@
     ],
     "name": "Europa Universalis IV"
   },
-  "2369390": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      }
-    ],
-    "folders": [
-      "FarCry"
-    ],
-    "name": "Far Cry\u00ae 6"
-  },
   "2370000": {
     "config_count": 1,
     "devices": [],
@@ -28307,7 +28293,7 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae II"
   },
   "3595270": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G68",
@@ -28316,7 +28302,8 @@
       }
     ],
     "folders": [
-      "Call_of_Duty___Modern_Warfare__III"
+      "Call_of_Duty___Modern_Warfare__III",
+      "Call_of_Duty_-_Modern_Warfare_3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae III"
   },
@@ -29063,7 +29050,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 42,
+    "config_count": 45,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -29154,6 +29141,11 @@
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "S928B",
+        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
@@ -29164,7 +29156,8 @@
       "DARK_SOULS_III",
       "DarkSoulsII",
       "DarkSoulsIII",
-      "Dark_Souls_III"
+      "Dark_Souls_III",
+      "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122 III"
   },
@@ -32030,7 +32023,7 @@
     "name": "Innocent Assault SS"
   },
   "42680": {
-    "config_count": 40,
+    "config_count": 39,
     "devices": [
       {
         "d": "Infinix_X6833B",
@@ -32114,8 +32107,7 @@
       }
     ],
     "folders": [
-      "Call_of_Duty___Modern_Warfare__3__2011_",
-      "Call_of_Duty_-_Modern_Warfare_3__2011_"
+      "Call_of_Duty___Modern_Warfare__3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
@@ -35477,7 +35469,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "G720_MC7",
@@ -35523,6 +35515,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -35531,7 +35528,8 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry"
+      "far_cry",
+      "FarCry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -35815,7 +35813,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 54,
+    "config_count": 51,
     "devices": [
       {
         "d": "G57",
@@ -35936,18 +35934,12 @@
         "d": "Adreno__TM__810",
         "m": "NX1",
         "s": "Adreno (TM) 810"
-      },
-      {
-        "d": "Adreno__TM__660",
-        "m": "S928B",
-        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
       "DARK_SOULS__REMASTERED",
       "DARK_SOULS___REMASTERED",
-      "DARK_SOULS_-_REMASTERED",
-      "Dark_Souls_Remastered"
+      "DARK_SOULS_-_REMASTERED"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
   },
