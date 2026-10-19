@@ -674,7 +674,7 @@
     "name": "Mafia II: Definitive Edition"
   },
   "1030840": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -685,10 +685,16 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__829",
+        "m": "motorola_signature",
+        "s": "Adreno (TM) 829"
       }
     ],
     "folders": [
-      "Mafia__Definitive_Edition"
+      "Mafia__Definitive_Edition",
+      "Mafia_Definitive_Edition"
     ],
     "name": "Mafia: Definitive Edition"
   },
@@ -1525,16 +1531,22 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__730",
         "m": "2201123G",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
       "BattleForTheGrid",
+      "GRID",
       "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
@@ -2007,7 +2019,7 @@
     "name": "Cowboy Life Simulator"
   },
   "1151640": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -2893,7 +2905,7 @@
     "name": "She Will Punish Them"
   },
   "12140": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -2902,8 +2914,7 @@
       }
     ],
     "folders": [
-      "MaxPayne_1",
-      "Max_Payne_3"
+      "MaxPayne_1"
     ],
     "name": "Max Payne"
   },
@@ -3029,7 +3040,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 455,
+    "config_count": 456,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3824,7 +3835,7 @@
     "name": "Atri -My Dear Moments-"
   },
   "1230530": {
-    "config_count": 12,
+    "config_count": 8,
     "devices": [
       {
         "d": "G57_MC2",
@@ -3860,11 +3871,6 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
-      },
-      {
-        "d": "G57_MC4",
-        "m": "Mali",
-        "s": "Mali-G57 MC4"
       }
     ],
     "folders": [
@@ -8019,7 +8025,7 @@
     "name": "Minishoot' Adventures"
   },
   "1636440": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "A566E",
@@ -10689,24 +10695,18 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "N49",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__829",
-        "m": "motorola_signature",
-        "s": "Adreno (TM) 829"
       }
     ],
     "folders": [
       "MAFIA",
       "Mafia",
-      "Mafia_-_Definitive_Edition",
-      "Mafia_Definitive_Edition"
+      "Mafia_-_Definitive_Edition"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -11962,7 +11962,7 @@
     "name": "Fable - The Lost Chapters"
   },
   "204100": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -14717,7 +14717,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 20,
+    "config_count": 17,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -14756,9 +14756,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -15285,7 +15283,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 289,
+    "config_count": 292,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -15598,11 +15596,6 @@
         "s": "Mali-G720 MC8"
       },
       {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "A366E",
         "s": "Adreno (TM) 710"
@@ -15621,6 +15614,11 @@
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -17961,6 +17959,14 @@
       "Towerborne"
     ],
     "name": "Towerborne"
+  },
+  "2458980": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Dimhaven_-_The_Lost_Source"
+    ],
+    "name": "Dimhaven - The Lost Source"
   },
   "2463650": {
     "config_count": 1,
@@ -21638,7 +21644,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 34,
     "devices": [
       {
         "d": "G615_MC2",
@@ -21678,7 +21684,9 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -28075,6 +28083,20 @@
     ],
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
+  "3558670": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "G57_MC4",
+        "m": "Mali",
+        "s": "Mali-G57 MC4"
+      }
+    ],
+    "folders": [
+      "Atla"
+    ],
+    "name": "Tomb Raider: Legacy of Atlantis"
+  },
   "356190": {
     "config_count": 4,
     "devices": [
@@ -28512,7 +28534,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 8,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -28533,11 +28555,6 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -30635,12 +30652,17 @@
     "name": "Layers of Fear (2016)"
   },
   "3919690": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "24117RK2CG",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -31428,6 +31450,14 @@
       "ZAT"
     ],
     "name": "Z.A.T.O. - Digital Art Pack"
+  },
+  "4123760": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Football_Life_2026"
+    ],
+    "name": "Football Life"
   },
   "413150": {
     "config_count": 10,
@@ -41987,14 +42017,6 @@
     ],
     "name": "Dfbhd"
   },
-  "name:dimhaven-the-lost-source": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Dimhaven_-_The_Lost_Source"
-    ],
-    "name": "Dimhaven The Lost Source"
-  },
   "name:dirt-2": {
     "config_count": 5,
     "devices": [
@@ -42537,14 +42559,6 @@
       "Final_Fantasy_Reinassance_FFR_2_3_2_"
     ],
     "name": "Final Fantasy Reinassance Ffr 2 3 2"
-  },
-  "name:football-life-2026": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Football_Life_2026"
-    ],
-    "name": "Football Life 2026"
   },
   "name:frozen-throne": {
     "config_count": 1,
@@ -45549,7 +45563,7 @@
     "name": "PES 2019"
   },
   "name:pes-2020": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -46177,14 +46191,6 @@
       "SHProto"
     ],
     "name": "Shproto"
-  },
-  "name:silent-hill-3": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "SILENT_HILL_3"
-    ],
-    "name": "Silent Hill 3"
   },
   "name:skyrimse": {
     "config_count": 2,
