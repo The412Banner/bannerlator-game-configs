@@ -2613,7 +2613,7 @@
     "name": "I.G.I. Origins"
   },
   "1187": {
-    "config_count": 4,
+    "config_count": 2,
     "devices": [
       {
         "d": "G77_MC9",
@@ -2622,8 +2622,7 @@
       }
     ],
     "folders": [
-      "ACC",
-      "Assassin_s_Creed_Rogue"
+      "ACC"
     ],
     "name": "Acc"
   },
@@ -3609,7 +3608,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 38,
+    "config_count": 39,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -4544,7 +4543,7 @@
     "name": "Signalis"
   },
   "1262540": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "G52_MC2",
@@ -9833,7 +9832,7 @@
     "name": "Asphalt Legends "
   },
   "1817070": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -9913,7 +9912,8 @@
     ],
     "folders": [
       "Marvel_s_Spider-Man_Remastered",
-      "REM"
+      "REM",
+      "Spider-man_Remastered"
     ],
     "name": "Marvel\u2019s Spider-Man Remastered"
   },
@@ -14359,7 +14359,7 @@
     "name": "Total Chaos"
   },
   "221040": {
-    "config_count": 76,
+    "config_count": 77,
     "devices": [
       {
         "d": "G720_MC7",
@@ -14500,12 +14500,18 @@
         "d": "Adreno__TM__840",
         "m": "S948B",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "CPH2613",
+        "s": "Adreno (TM) 720"
       }
     ],
     "folders": [
       "RESIDENT_EVIL_6",
       "Resident_Evil_6",
-      "Resident_evil_6"
+      "Resident_evil_6",
+      "resident_evil_6"
     ],
     "name": "Resident Evil 6"
   },
@@ -14530,6 +14536,20 @@
       "DayZ"
     ],
     "name": "DayZ"
+  },
+  "2211170": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__725",
+        "m": "23049RAD8C",
+        "s": "Adreno (TM) 725"
+      }
+    ],
+    "folders": [
+      "Unrailed_"
+    ],
+    "name": "Unrailed 2: Back on Track"
   },
   "2215200": {
     "config_count": 18,
@@ -15952,7 +15972,7 @@
     "name": "Sky: Children of the Light"
   },
   "232890": {
-    "config_count": 13,
+    "config_count": 12,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -15966,8 +15986,7 @@
       }
     ],
     "folders": [
-      "__Stronghold_Crusader",
-      "Stronghold_Crusader_HD"
+      "__Stronghold_Crusader"
     ],
     "name": "Stronghold Crusader 2"
   },
@@ -19575,7 +19594,7 @@
     "name": "Subnautica"
   },
   "2651280": {
-    "config_count": 28,
+    "config_count": 27,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -19631,19 +19650,13 @@
         "d": "Adreno__TM__730",
         "m": "motorola_edge_30_ultra",
         "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
       "Activision_Spider-Man_3",
       "Marvel_s_Spider-Man_2",
       "Spider-Man_3",
-      "Spider-Man",
-      "Spider-man_Remastered"
+      "Spider-Man"
     ],
     "name": "Marvel's Spider-Man 2"
   },
@@ -21969,7 +21982,7 @@
     "name": "ONE PIECE Bounty Rush"
   },
   "292030": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -22028,6 +22041,7 @@
       "The_Witcher_3_-_Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
+      "The_Witcher_3_-_Wild_Hunt___Remastered",
       "Witcher_1",
       "_Witcher",
       "witcher3"
@@ -22771,7 +22785,7 @@
     "name": "Trove"
   },
   "304240": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -22792,16 +22806,10 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
-      },
-      {
-        "d": "Adreno__TM__720",
-        "m": "CPH2613",
-        "s": "Adreno (TM) 720"
       }
     ],
     "folders": [
-      "Resident_Evil",
-      "resident_evil_6"
+      "Resident_Evil"
     ],
     "name": "Resident Evil"
   },
@@ -23520,9 +23528,10 @@
     "name": "METAL GEAR SOLID V: GROUND ZEROES"
   },
   "311560": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [],
     "folders": [
+      "Assassin_s_Creed_Rogue",
       "Assassins_Creed_Rogue"
     ],
     "name": "Assassin\u2019s Creed\u00ae Rogue"
@@ -24407,7 +24416,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1981,
+    "config_count": 1985,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25215,11 +25224,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-        "m": "A566E",
-        "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
-      },
-      {
         "d": "Adreno__TM__619",
         "m": "22111317PI",
         "s": "Adreno (TM) 619"
@@ -25643,6 +25647,11 @@
         "d": "Adreno__TM__710",
         "m": "NX1",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+        "m": "A566E",
+        "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
       },
       {
         "d": "Adreno__TM__830",
@@ -26468,7 +26477,7 @@
     "name": "Five Nights at Freddy's 2"
   },
   "33320": {
-    "config_count": 13,
+    "config_count": 16,
     "devices": [
       {
         "d": "G615_MC2",
@@ -30152,6 +30161,20 @@
     ],
     "name": "TEKKEN 7"
   },
+  "3906660": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred 2 Remaster"
+  },
   "3909960": {
     "config_count": 1,
     "devices": [
@@ -31321,6 +31344,14 @@
     ],
     "name": "Stronghold 2: Steam Edition"
   },
+  "40970": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Stronghold_Crusader_HD"
+    ],
+    "name": "Stronghold Crusader HD (2012)"
+  },
   "409710": {
     "config_count": 5,
     "devices": [
@@ -31648,7 +31679,7 @@
     ],
     "name": "My Winter Car"
   },
-  "4165910": {
+  "4165890": {
     "config_count": 5,
     "devices": [
       {
@@ -31660,7 +31691,7 @@
     "folders": [
       "Steam"
     ],
-    "name": "Steam Machine"
+    "name": "Steam Frame"
   },
   "418030": {
     "config_count": 1,
@@ -37906,7 +37937,7 @@
     "name": "Starship EVO"
   },
   "71340": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G52_MC2",
@@ -37915,7 +37946,8 @@
       }
     ],
     "folders": [
-      "Sonic_Generations"
+      "Sonic_Generations",
+      "SonicGenerations"
     ],
     "name": "Sonic Generations Collection"
   },
@@ -38504,10 +38536,11 @@
     "name": "Blasphemous"
   },
   "775500": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [],
     "folders": [
-      "SCARLET_NEXUS"
+      "SCARLET_NEXUS",
+      "Scarlet_Nexus"
     ],
     "name": "SCARLET NEXUS"
   },
@@ -40641,7 +40674,7 @@
     "name": "Volcanoids"
   },
   "952060": {
-    "config_count": 89,
+    "config_count": 90,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -43496,14 +43529,6 @@
     ],
     "name": "Nba2K23"
   },
-  "name:need-for-speed": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "need_for_speed"
-    ],
-    "name": "Need For Speed"
-  },
   "name:need-for-speed-black-edition": {
     "config_count": 1,
     "devices": [
@@ -43600,14 +43625,6 @@
       "Need_For_Speed_Underground_2_SIL_Edition"
     ],
     "name": "Need For Speed Underground 2 Sil Edition"
-  },
-  "name:nfs": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "nfs"
-    ],
-    "name": "Nfs"
   },
   "name:nfs-most-wanted": {
     "config_count": 2,
@@ -43972,7 +43989,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3169,
+    "config_count": 3170,
     "devices": [
       {
         "d": "G52_MC2",
@@ -46165,28 +46182,6 @@
     ],
     "name": "Rungame"
   },
-  "name:sacred": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred"
-  },
-  "name:scarlet-nexus": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Scarlet_Nexus"
-    ],
-    "name": "Scarlet Nexus"
-  },
   "name:sdhdship": {
     "config_count": 3,
     "devices": [
@@ -46339,14 +46334,6 @@
       "soniccd"
     ],
     "name": "Soniccd"
-  },
-  "name:sonicgenerations": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "SonicGenerations"
-    ],
-    "name": "Sonicgenerations"
   },
   "name:sottr": {
     "config_count": 2,
@@ -46601,14 +46588,6 @@
     ],
     "name": "The Sims 2 Launcher"
   },
-  "name:the-witcher-3-wild-hunt-remastered": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "The_Witcher_3_-_Wild_Hunt___Remastered"
-    ],
-    "name": "The Witcher 3 Wild Hunt Remastered"
-  },
   "name:thps12": {
     "config_count": 1,
     "devices": [
@@ -46754,20 +46733,6 @@
       "Unity_playback_engine_"
     ],
     "name": "Unity Playback Engine"
-  },
-  "name:unrailed": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__725",
-        "m": "23049RAD8C",
-        "s": "Adreno (TM) 725"
-      }
-    ],
-    "folders": [
-      "Unrailed_"
-    ],
-    "name": "Unrailed"
   },
   "name:victoria-ii-civil-war-edition": {
     "config_count": 1,
