@@ -2613,7 +2613,7 @@
     "name": "I.G.I. Origins"
   },
   "1187": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [
       {
         "d": "G77_MC9",
@@ -2622,7 +2622,8 @@
       }
     ],
     "folders": [
-      "ACC"
+      "ACC",
+      "Assassin_s_Creed_Rogue"
     ],
     "name": "Acc"
   },
@@ -12444,7 +12445,7 @@
     "name": "Batman\u2122: Arkham Knight"
   },
   "208670": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G57_MC2",
@@ -14358,7 +14359,7 @@
     "name": "Total Chaos"
   },
   "221040": {
-    "config_count": 77,
+    "config_count": 76,
     "devices": [
       {
         "d": "G720_MC7",
@@ -14499,18 +14500,12 @@
         "d": "Adreno__TM__840",
         "m": "S948B",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__720",
-        "m": "CPH2613",
-        "s": "Adreno (TM) 720"
       }
     ],
     "folders": [
       "RESIDENT_EVIL_6",
       "Resident_Evil_6",
-      "Resident_evil_6",
-      "resident_evil_6"
+      "Resident_evil_6"
     ],
     "name": "Resident Evil 6"
   },
@@ -22770,7 +22765,7 @@
     "name": "Trove"
   },
   "304240": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -22791,10 +22786,16 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "CPH2613",
+        "s": "Adreno (TM) 720"
       }
     ],
     "folders": [
-      "Resident_Evil"
+      "Resident_Evil",
+      "resident_evil_6"
     ],
     "name": "Resident Evil"
   },
@@ -23513,10 +23514,9 @@
     "name": "METAL GEAR SOLID V: GROUND ZEROES"
   },
   "311560": {
-    "config_count": 3,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "Assassin_s_Creed_Rogue",
       "Assassins_Creed_Rogue"
     ],
     "name": "Assassin\u2019s Creed\u00ae Rogue"
@@ -29031,7 +29031,7 @@
     "name": "Pixel Empires"
   },
   "373420": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -29041,8 +29041,7 @@
     ],
     "folders": [
       "Divinity__Original_Sin_-_Enhanced_Edition",
-      "Divinity__Original_Sin_Enhanced_Edition",
-      "Divinity_Original_Sin_Enhanced_Edition"
+      "Divinity__Original_Sin_Enhanced_Edition"
     ],
     "name": "Divinity: Original Sin - Enhanced Edition"
   },
@@ -32423,7 +32422,7 @@
     "name": "2Dark"
   },
   "435150": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G720_MC8",
@@ -32432,9 +32431,10 @@
       }
     ],
     "folders": [
-      "Divinity_-_Original_Sin_2_-_Definitive_Edition"
+      "Divinity_-_Original_Sin_2_-_Definitive_Edition",
+      "Divinity_Original_Sin_Enhanced_Edition"
     ],
-    "name": "Divinity - Original Sin 2 - Definitive Edition"
+    "name": "Divinity: Original Sin 2 - Definitive Edition"
   },
   "435530": {
     "config_count": 1,
@@ -39742,7 +39742,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 131,
+    "config_count": 130,
     "devices": [
       {
         "d": "s5e8855",
@@ -39970,11 +39970,6 @@
         "s": "Adreno (TM) 840"
       },
       {
-        "d": "Adreno__TM__840",
-        "m": "S948U1",
-        "s": "Adreno (TM) 840"
-      },
-      {
         "d": "Adreno__TM__750",
         "m": "NX769J",
         "s": "Adreno (TM) 750"
@@ -39988,7 +39983,6 @@
     "folders": [
       "Resident_Evil_2",
       "Resident_Evil_2_____________________________________________",
-      "Resident_Evil_2__2019_",
       "Resident_Evil_2__DX11_",
       "re2",
       "resident_evil_2"
@@ -46024,6 +46018,20 @@
       "ResChanger"
     ],
     "name": "Reschanger"
+  },
+  "name:resident-evil-2-2019": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "S948U1",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "Resident_Evil_2__2019_"
+    ],
+    "name": "Resident Evil 2 2019"
   },
   "name:resident-evil-2-dx11": {
     "config_count": 1,
