@@ -79,6 +79,7 @@
     "mafia2"
   ],
   "1030840": [
+    "Mafia_Definitive_Edition",
     "Mafia__Definitive_Edition"
   ],
   "1032700": [
@@ -156,7 +157,8 @@
   ],
   "108710": [
     "AlanWake",
-    "Alan_Wake"
+    "Alan_Wake",
+    "Alan_Wake_Remastered"
   ],
   "1087760": [
     "The_Gunk"
@@ -1531,8 +1533,7 @@
   ],
   "1817070": [
     "Marvel_s_Spider-Man_Remastered",
-    "REM",
-    "Spider-man_Remastered"
+    "REM"
   ],
   "1817190": [
     "Marvel_s_Spider-Man_-_Miles_Morales",
@@ -1691,8 +1692,7 @@
   "1941540": [
     "MAFIA",
     "Mafia",
-    "Mafia_-_Definitive_Edition",
-    "Mafia_Definitive_Edition"
+    "Mafia_-_Definitive_Edition"
   ],
   "1941780": [
     "Zumbi_Blocks_2_Open_Alpha"
@@ -2236,17 +2236,13 @@
   "221040": [
     "RESIDENT_EVIL_6",
     "Resident_Evil_6",
-    "Resident_evil_6",
-    "resident_evil_6"
+    "Resident_evil_6"
   ],
   "2210740": [
     "Assassin_s_Creed_Valhalla"
   ],
   "221100": [
     "DayZ"
-  ],
-  "2211170": [
-    "Unrailed_"
   ],
   "2215200": [
     "LEGOBAT",
@@ -2459,6 +2455,7 @@
     "Sky__Children_of_the_Light"
   ],
   "232890": [
+    "Stronghold_Crusader_HD",
     "__Stronghold_Crusader"
   ],
   "2333000": [
@@ -3082,7 +3079,8 @@
     "Activision_Spider-Man_3",
     "Marvel_s_Spider-Man_2",
     "Spider-Man",
-    "Spider-Man_3"
+    "Spider-Man_3",
+    "Spider-man_Remastered"
   ],
   "2651500": [
     "HMA"
@@ -3593,7 +3591,8 @@
     "Trove"
   ],
   "304240": [
-    "Resident_Evil"
+    "Resident_Evil",
+    "resident_evil_6"
   ],
   "304430": [
     "INSIDE"
@@ -4113,9 +4112,6 @@
   "3410": [
     "Heavy_Weapon"
   ],
-  "3419290": [
-    "GodForsaken"
-  ],
   "341940": [
     "Hatred"
   ],
@@ -4267,6 +4263,9 @@
   ],
   "3542380": [
     "Rune_Dice"
+  ],
+  "354380": [
+    "Assassin_s_Creed_Chronicles_China"
   ],
   "355050": [
     "Sky_Force_Anniversary"
@@ -4647,9 +4646,6 @@
     "Tekken7",
     "Tekken_7"
   ],
-  "3906660": [
-    "Sacred"
-  ],
   "3909960": [
     "Dementium__The_Ward"
   ],
@@ -4745,6 +4741,9 @@
   "3983810": [
     "The_Spike"
   ],
+  "3985080": [
+    "GodForsaken"
+  ],
   "400": [
     "Portal"
   ],
@@ -4834,9 +4833,6 @@
   ],
   "40960": [
     "_Stronghold_2"
-  ],
-  "40970": [
-    "Stronghold_Crusader_HD"
   ],
   "409710": [
     "BioShock_Remastered",
@@ -5336,7 +5332,8 @@
   "48190": [
     "Assassin_s_Creed__Brotherhood",
     "Assassin_s_Creed_brotherhood",
-    "Assassin_s_creed_brotherhood"
+    "Assassin_s_creed_brotherhood",
+    "AssassinsCreedBrotherhood"
   ],
   "482400": [
     "System_Shock",
@@ -5910,8 +5907,7 @@
     "xenia"
   ],
   "6880": [
-    "Just_Cause",
-    "Just_Cause_2_-_Complete_Edition"
+    "Just_Cause"
   ],
   "6900": [
     "Cod4"
@@ -5966,7 +5962,6 @@
     "Starship_EVO"
   ],
   "71340": [
-    "SonicGenerations",
     "Sonic_Generations"
   ],
   "714080": [
@@ -6079,8 +6074,7 @@
     "Blasphemous"
   ],
   "775500": [
-    "SCARLET_NEXUS",
-    "Scarlet_Nexus"
+    "SCARLET_NEXUS"
   ],
   "775900": [
     "motogp18"
@@ -6177,7 +6171,8 @@
   ],
   "8190": [
     "JustCause2",
-    "Just_Cause_2"
+    "Just_Cause_2",
+    "Just_Cause_2_-_Complete_Edition"
   ],
   "819030": [
     "STEINS_GATE_ELITE"
@@ -6558,9 +6553,6 @@
   "name:aio-graphics-test-64bit": [
     "AIO-Graphics-Test-64bit"
   ],
-  "name:alan-wake-remastered": [
-    "Alan_Wake_Remastered"
-  ],
   "name:am2r": [
     "AM2R"
   ],
@@ -6582,14 +6574,8 @@
   "name:assasins-creed-iv-black-flag": [
     "Assasins_Creed_IV_Black_Flag"
   ],
-  "name:assassin-s-creed-chronicles-china": [
-    "Assassin_s_Creed_Chronicles_China"
-  ],
   "name:assassinscreed-dx9": [
     "AssassinsCreed_Dx9"
-  ],
-  "name:assassinscreedbrotherhood": [
-    "AssassinsCreedBrotherhood"
   ],
   "name:autoplay-menu-builder": [
     "AutoPlay_Menu_Builder"
@@ -7115,6 +7101,9 @@
   "name:nba2k23": [
     "NBA2K23"
   ],
+  "name:need-for-speed": [
+    "need_for_speed"
+  ],
   "name:need-for-speed-black-edition": [
     "Need_for_Speed_Black_Edition_"
   ],
@@ -7143,6 +7132,9 @@
   ],
   "name:need-for-speed-underground-2-sil-edition": [
     "Need_For_Speed_Underground_2_SIL_Edition"
+  ],
+  "name:nfs": [
+    "nfs"
   ],
   "name:nfs-most-wanted": [
     "NFS_Most_Wanted",
@@ -7431,6 +7423,12 @@
   "name:rungame": [
     "rungame"
   ],
+  "name:sacred": [
+    "Sacred"
+  ],
+  "name:scarlet-nexus": [
+    "Scarlet_Nexus"
+  ],
   "name:sdhdship": [
     "sdhdship"
   ],
@@ -7472,6 +7470,9 @@
   ],
   "name:soniccd": [
     "soniccd"
+  ],
+  "name:sonicgenerations": [
+    "SonicGenerations"
   ],
   "name:sottr": [
     "SOTTR"
@@ -7596,6 +7597,9 @@
   ],
   "name:unity-playback-engine": [
     "Unity_playback_engine_"
+  ],
+  "name:unrailed": [
+    "Unrailed_"
   ],
   "name:victoria-ii-civil-war-edition": [
     "Victoria_II_-_Civil_War_Edition"

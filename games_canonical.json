@@ -674,7 +674,7 @@
     "name": "Mafia II: Definitive Edition"
   },
   "1030840": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -685,10 +685,16 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__829",
+        "m": "motorola_signature",
+        "s": "Adreno (TM) 829"
       }
     ],
     "folders": [
-      "Mafia__Definitive_Edition"
+      "Mafia__Definitive_Edition",
+      "Mafia_Definitive_Edition"
     ],
     "name": "Mafia: Definitive Edition"
   },
@@ -1025,7 +1031,7 @@
     "name": "Baldur's Gate 3"
   },
   "108710": {
-    "config_count": 16,
+    "config_count": 17,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -1055,7 +1061,8 @@
     ],
     "folders": [
       "Alan_Wake",
-      "AlanWake"
+      "AlanWake",
+      "Alan_Wake_Remastered"
     ],
     "name": "Alan Wake"
   },
@@ -3593,7 +3600,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 39,
+    "config_count": 38,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -4528,7 +4535,7 @@
     "name": "Signalis"
   },
   "1262540": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "G52_MC2",
@@ -9817,7 +9824,7 @@
     "name": "Asphalt Legends "
   },
   "1817070": {
-    "config_count": 26,
+    "config_count": 25,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -9897,8 +9904,7 @@
     ],
     "folders": [
       "Marvel_s_Spider-Man_Remastered",
-      "REM",
-      "Spider-man_Remastered"
+      "REM"
     ],
     "name": "Marvel\u2019s Spider-Man Remastered"
   },
@@ -10674,24 +10680,18 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "N49",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__829",
-        "m": "motorola_signature",
-        "s": "Adreno (TM) 829"
       }
     ],
     "folders": [
       "MAFIA",
       "Mafia",
-      "Mafia_-_Definitive_Edition",
-      "Mafia_Definitive_Edition"
+      "Mafia_-_Definitive_Edition"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -14350,7 +14350,7 @@
     "name": "Total Chaos"
   },
   "221040": {
-    "config_count": 77,
+    "config_count": 76,
     "devices": [
       {
         "d": "G720_MC7",
@@ -14491,18 +14491,12 @@
         "d": "Adreno__TM__840",
         "m": "S948B",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__720",
-        "m": "CPH2613",
-        "s": "Adreno (TM) 720"
       }
     ],
     "folders": [
       "RESIDENT_EVIL_6",
       "Resident_Evil_6",
-      "Resident_evil_6",
-      "resident_evil_6"
+      "Resident_evil_6"
     ],
     "name": "Resident Evil 6"
   },
@@ -14527,20 +14521,6 @@
       "DayZ"
     ],
     "name": "DayZ"
-  },
-  "2211170": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__725",
-        "m": "23049RAD8C",
-        "s": "Adreno (TM) 725"
-      }
-    ],
-    "folders": [
-      "Unrailed_"
-    ],
-    "name": "Unrailed 2: Back on Track"
   },
   "2215200": {
     "config_count": 18,
@@ -15963,7 +15943,7 @@
     "name": "Sky: Children of the Light"
   },
   "232890": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -15977,7 +15957,8 @@
       }
     ],
     "folders": [
-      "__Stronghold_Crusader"
+      "__Stronghold_Crusader",
+      "Stronghold_Crusader_HD"
     ],
     "name": "Stronghold Crusader 2"
   },
@@ -19585,7 +19566,7 @@
     "name": "Subnautica"
   },
   "2651280": {
-    "config_count": 27,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -19641,13 +19622,19 @@
         "d": "Adreno__TM__730",
         "m": "motorola_edge_30_ultra",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
       "Activision_Spider-Man_3",
       "Marvel_s_Spider-Man_2",
       "Spider-Man_3",
-      "Spider-Man"
+      "Spider-Man",
+      "Spider-man_Remastered"
     ],
     "name": "Marvel's Spider-Man 2"
   },
@@ -22776,7 +22763,7 @@
     "name": "Trove"
   },
   "304240": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -22797,10 +22784,16 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "CPH2613",
+        "s": "Adreno (TM) 720"
       }
     ],
     "folders": [
-      "Resident_Evil"
+      "Resident_Evil",
+      "resident_evil_6"
     ],
     "name": "Resident Evil"
   },
@@ -27078,14 +27071,6 @@
     ],
     "name": "Heavy Weapon Deluxe"
   },
-  "3419290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN"
-  },
   "341940": {
     "config_count": 4,
     "devices": [
@@ -27999,6 +27984,14 @@
       "Rune_Dice"
     ],
     "name": "Rune Dice"
+  },
+  "354380": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Assassin_s_Creed_Chronicles_China"
+    ],
+    "name": "Assassin\u2019s Creed\u00ae Chronicles: China"
   },
   "355050": {
     "config_count": 2,
@@ -30152,20 +30145,6 @@
     ],
     "name": "TEKKEN 7"
   },
-  "3906660": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred 2 Remaster"
-  },
   "3909960": {
     "config_count": 1,
     "devices": [
@@ -30986,6 +30965,14 @@
     ],
     "name": "The Spike Cross"
   },
+  "3985080": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN - Costume Expansion Pack"
+  },
   "400": {
     "config_count": 4,
     "devices": [],
@@ -31326,14 +31313,6 @@
       "_Stronghold_2"
     ],
     "name": "Stronghold 2: Steam Edition"
-  },
-  "40970": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Stronghold_Crusader_HD"
-    ],
-    "name": "Stronghold Crusader HD (2012)"
   },
   "409710": {
     "config_count": 5,
@@ -33768,7 +33747,7 @@
     "name": "Speak Demo"
   },
   "48190": {
-    "config_count": 28,
+    "config_count": 32,
     "devices": [
       {
         "d": "MT6789",
@@ -33819,12 +33798,18 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "A725F",
+        "s": "Adreno (TM) 618"
       }
     ],
     "folders": [
       "Assassin_s_Creed__Brotherhood",
       "Assassin_s_creed_brotherhood",
-      "Assassin_s_Creed_brotherhood"
+      "Assassin_s_Creed_brotherhood",
+      "AssassinsCreedBrotherhood"
     ],
     "name": "Assassin\u2019s Creed\u00ae Brotherhood"
   },
@@ -37660,11 +37645,10 @@
     "name": "Xenia"
   },
   "6880": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "Just_Cause",
-      "Just_Cause_2_-_Complete_Edition"
+      "Just_Cause"
     ],
     "name": "Just Cause"
   },
@@ -37916,7 +37900,7 @@
     "name": "Starship EVO"
   },
   "71340": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "G52_MC2",
@@ -37925,8 +37909,7 @@
       }
     ],
     "folders": [
-      "Sonic_Generations",
-      "SonicGenerations"
+      "Sonic_Generations"
     ],
     "name": "Sonic Generations Collection"
   },
@@ -38515,11 +38498,10 @@
     "name": "Blasphemous"
   },
   "775500": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [],
     "folders": [
-      "SCARLET_NEXUS",
-      "Scarlet_Nexus"
+      "SCARLET_NEXUS"
     ],
     "name": "SCARLET NEXUS"
   },
@@ -38980,7 +38962,7 @@
     "name": "Monster Sanctuary"
   },
   "814380": {
-    "config_count": 79,
+    "config_count": 80,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -39180,7 +39162,7 @@
     "name": "Cash Grab - Hat Pack"
   },
   "8190": {
-    "config_count": 32,
+    "config_count": 33,
     "devices": [
       {
         "d": "Odin2",
@@ -39275,7 +39257,8 @@
     ],
     "folders": [
       "Just_Cause_2",
-      "JustCause2"
+      "JustCause2",
+      "Just_Cause_2_-_Complete_Edition"
     ],
     "name": "Just Cause 2"
   },
@@ -41420,14 +41403,6 @@
     ],
     "name": "Aio Graphics Test 64Bit"
   },
-  "name:alan-wake-remastered": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Alan_Wake_Remastered"
-    ],
-    "name": "Alan Wake Remastered"
-  },
   "name:am2r": {
     "config_count": 1,
     "devices": [
@@ -41496,14 +41471,6 @@
     ],
     "name": "Assasins Creed Iv Black Flag"
   },
-  "name:assassin-s-creed-chronicles-china": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Assassin_s_Creed_Chronicles_China"
-    ],
-    "name": "Assassin S Creed Chronicles China"
-  },
   "name:assassinscreed-dx9": {
     "config_count": 2,
     "devices": [],
@@ -41511,25 +41478,6 @@
       "AssassinsCreed_Dx9"
     ],
     "name": "Assassinscreed Dx9"
-  },
-  "name:assassinscreedbrotherhood": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "Adreno__TM__618",
-        "m": "A725F",
-        "s": "Adreno (TM) 618"
-      },
-      {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
-      }
-    ],
-    "folders": [
-      "AssassinsCreedBrotherhood"
-    ],
-    "name": "Assassinscreedbrotherhood"
   },
   "name:autoplay-menu-builder": {
     "config_count": 1,
@@ -43534,6 +43482,14 @@
     ],
     "name": "Nba2K23"
   },
+  "name:need-for-speed": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "need_for_speed"
+    ],
+    "name": "Need For Speed"
+  },
   "name:need-for-speed-black-edition": {
     "config_count": 1,
     "devices": [
@@ -43630,6 +43586,14 @@
       "Need_For_Speed_Underground_2_SIL_Edition"
     ],
     "name": "Need For Speed Underground 2 Sil Edition"
+  },
+  "name:nfs": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "nfs"
+    ],
+    "name": "Nfs"
   },
   "name:nfs-most-wanted": {
     "config_count": 2,
@@ -46195,6 +46159,28 @@
     ],
     "name": "Rungame"
   },
+  "name:sacred": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred"
+  },
+  "name:scarlet-nexus": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Scarlet_Nexus"
+    ],
+    "name": "Scarlet Nexus"
+  },
   "name:sdhdship": {
     "config_count": 3,
     "devices": [
@@ -46347,6 +46333,14 @@
       "soniccd"
     ],
     "name": "Soniccd"
+  },
+  "name:sonicgenerations": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "SonicGenerations"
+    ],
+    "name": "Sonicgenerations"
   },
   "name:sottr": {
     "config_count": 2,
@@ -46746,6 +46740,20 @@
       "Unity_playback_engine_"
     ],
     "name": "Unity Playback Engine"
+  },
+  "name:unrailed": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__725",
+        "m": "23049RAD8C",
+        "s": "Adreno (TM) 725"
+      }
+    ],
+    "folders": [
+      "Unrailed_"
+    ],
+    "name": "Unrailed"
   },
   "name:victoria-ii-civil-war-edition": {
     "config_count": 1,
