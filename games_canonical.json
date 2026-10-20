@@ -1990,6 +1990,14 @@
     ],
     "name": "DOOM 64"
   },
+  "1150230": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "nostalgia_5_0"
+    ],
+    "name": "VR Nostalgia 5"
+  },
   "1151380": {
     "config_count": 1,
     "devices": [
@@ -2605,7 +2613,7 @@
     "name": "I.G.I. Origins"
   },
   "1187": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [
       {
         "d": "G77_MC9",
@@ -2614,7 +2622,8 @@
       }
     ],
     "folders": [
-      "ACC"
+      "ACC",
+      "Assassin_s_Creed_Rogue"
     ],
     "name": "Acc"
   },
@@ -21960,7 +21969,7 @@
     "name": "ONE PIECE Bounty Rush"
   },
   "292030": {
-    "config_count": 19,
+    "config_count": 18,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -22019,7 +22028,6 @@
       "The_Witcher_3_-_Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
-      "The_Witcher_3_-_Wild_Hunt___Remastered",
       "Witcher_1",
       "_Witcher",
       "witcher3"
@@ -23512,10 +23520,9 @@
     "name": "METAL GEAR SOLID V: GROUND ZEROES"
   },
   "311560": {
-    "config_count": 3,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "Assassin_s_Creed_Rogue",
       "Assassins_Creed_Rogue"
     ],
     "name": "Assassin\u2019s Creed\u00ae Rogue"
@@ -35464,7 +35471,7 @@
     "name": "Brick Rigs"
   },
   "55230": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -35494,8 +35501,7 @@
     ],
     "folders": [
       "Saints_Row__The_Third",
-      "SaintsRowTheThird",
-      "Saints_Row___The_Third__Remastered"
+      "SaintsRowTheThird"
     ],
     "name": "Saints Row: The Third"
   },
@@ -36607,7 +36613,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -38962,7 +38968,7 @@
     "name": "Monster Sanctuary"
   },
   "814380": {
-    "config_count": 80,
+    "config_count": 81,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -41079,6 +41085,14 @@
       "Eastward"
     ],
     "name": "Eastward"
+  },
+  "978300": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Saints_Row___The_Third__Remastered"
+    ],
+    "name": "Saints Row\u00ae: The Third\u2122 Remastered"
   },
   "978780": {
     "config_count": 3,
@@ -43696,14 +43710,6 @@
     ],
     "name": "Nierautomatacompat"
   },
-  "name:nostalgia-5-0": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "nostalgia_5_0"
-    ],
-    "name": "Nostalgia 5 0"
-  },
   "name:nsuns-4": {
     "config_count": 1,
     "devices": [],
@@ -43966,7 +43972,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3168,
+    "config_count": 3169,
     "devices": [
       {
         "d": "G52_MC2",
@@ -46595,6 +46601,14 @@
     ],
     "name": "The Sims 2 Launcher"
   },
+  "name:the-witcher-3-wild-hunt-remastered": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "The_Witcher_3_-_Wild_Hunt___Remastered"
+    ],
+    "name": "The Witcher 3 Wild Hunt Remastered"
+  },
   "name:thps12": {
     "config_count": 1,
     "devices": [
@@ -46810,14 +46824,6 @@
       "Wizard_School_Exchange_Student"
     ],
     "name": "Wizard School Exchange Student"
-  },
-  "name:wolfenstein-2009": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Wolfenstein__2009_"
-    ],
-    "name": "Wolfenstein 2009"
   },
   "name:world-of-warcraft": {
     "config_count": 1,
