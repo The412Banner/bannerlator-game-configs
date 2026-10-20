@@ -97,6 +97,9 @@
   "1038300": [
     "New_Super_Lucky_s_Tale"
   ],
+  "1041320": [
+    "LoK"
+  ],
   "1044720": [
     "Farthest_Frontier"
   ],
@@ -396,7 +399,8 @@
     "igi"
   ],
   "1187": [
-    "ACC"
+    "ACC",
+    "Assassin_s_Creed_Rogue"
   ],
   "1190000": [
     "Car_Mechanic_Simulator_2021"
@@ -1142,7 +1146,6 @@
     "Content_Manager"
   ],
   "1580790": [
-    "NINJA_GAIDEN____NINJA_GAIDEN_-_Master_Collection_",
     "_NINJA_GAIDEN__Master_Collection__NINJA_GAIDEN__2"
   ],
   "1582650": [
@@ -2228,8 +2231,7 @@
     "DmC__Devil_May_Cry"
   ],
   "2207440": [
-    "LOK",
-    "LoK"
+    "LOK"
   ],
   "2207970": [
     "Interior_Worlds"
@@ -2281,7 +2283,8 @@
     "THE_KING_OF_FIGHTERS_2002_UNLIMITED_MATCH"
   ],
   "222480": [
-    "Resident_Evil_Revelations"
+    "Resident_Evil_Revelations",
+    "rerev"
   ],
   "2225070": [
     "Trackmania"
@@ -2889,7 +2892,6 @@
     "Gears_of_War__Reloaded"
   ],
   "2523770": [
-    "Lord_of_the_Rings_-_War_in_the_North",
     "The_Lord_of_the_Rings_-_War_in_the_North_-_Legacy_Edition",
     "The_Lord_of_the_Rings__War_in_the_North"
   ],
@@ -2996,7 +2998,6 @@
     "Dispatch"
   ],
   "2593290": [
-    "Dragon_s_Dogma_-_Dark_Arisen",
     "Dragon_s_Dogma__Dark_Arisen"
   ],
   "2594540": [
@@ -3126,7 +3127,6 @@
   ],
   "2679460": [
     "METAPHOR",
-    "Metaphor_-_ReFantazio",
     "Metaphor__ReFantazio"
   ],
   "2680010": [
@@ -3187,9 +3187,6 @@
   ],
   "2719200": [
     "SAMURAI_WARRIORS_4_DX"
-  ],
-  "2723810": [
-    "SB"
   ],
   "272510": [
     "NARUTO_REVOLUTION",
@@ -3397,7 +3394,6 @@
   ],
   "287290": [
     "Resident_Evil_Revelations_2",
-    "rerev",
     "rerev2",
     "resident_revelations"
   ],
@@ -3569,7 +3565,6 @@
   "3010850": [
     "Gears_Of_War",
     "Gears_of_War",
-    "Gears_of_War_2",
     "Gears_of_war_2",
     "d"
   ],
@@ -3690,7 +3685,6 @@
     "METAL_GEAR_SOLID_V__GROUND_ZEROES"
   ],
   "311560": [
-    "Assassin_s_Creed_Rogue",
     "Assassins_Creed_Rogue"
   ],
   "311690": [
@@ -3708,6 +3702,9 @@
   ],
   "312060": [
     "FINAL_FANTASY_XIV_Online_Free_Trial"
+  ],
+  "3120600": [
+    "RoomGirl"
   ],
   "3121490": [
     "My_Sexy_Neighbor___Prologue"
@@ -3755,6 +3752,9 @@
   ],
   "3141630": [
     "Montabi"
+  ],
+  "3145740": [
+    "SB"
   ],
   "314660": [
     "Oddworld_-_New__n__Tasty"
@@ -4343,9 +4343,6 @@
   "360430": [
     "Mafia_III__Definitive_Edition"
   ],
-  "3606830": [
-    "RoomGirl"
-  ],
   "361420": [
     "ASTRONEER",
     "Astroneer"
@@ -4389,6 +4386,9 @@
     "GRID",
     "GRID__2019_",
     "Off_The_Grid"
+  ],
+  "365960": [
+    "rFactor_2"
   ],
   "366250": [
     "METAL_SLUG"
@@ -6770,6 +6770,9 @@
   "name:dragon-ball-fighters-z": [
     "Dragon_Ball_Fighters_Z"
   ],
+  "name:dragon-s-dogma-dark-arisen": [
+    "Dragon_s_Dogma_-_Dark_Arisen"
+  ],
   "name:dragonballzkakarot": [
     "DRAGONBALLZKAKAROT"
   ],
@@ -6811,6 +6814,9 @@
   ],
   "name:f-e-a-r-platinum-collection": [
     "F_E_A_R__Platinum_Collection"
+  ],
+  "name:f1-2014": [
+    "F1_2014"
   ],
   "name:fallout-new-vegas-pcr": [
     "Fallout__New_Vegas_PCR"
@@ -6880,6 +6886,9 @@
   ],
   "name:ge2rb": [
     "GE2RB"
+  ],
+  "name:gears-of-war-2": [
+    "Gears_of_War_2"
   ],
   "name:gears-of-war-2-hollow": [
     "Gears_of_War_2_Hollow"
@@ -7035,6 +7044,9 @@
   "name:loadingbay": [
     "LoadingBay"
   ],
+  "name:lord-of-the-rings-war-in-the-north": [
+    "Lord_of_the_Rings_-_War_in_the_North"
+  ],
   "name:lunaabyss-wingdk-shipping": [
     "LunaAbyss-WinGDK-Shipping"
   ],
@@ -7052,6 +7064,9 @@
   ],
   "name:metal-gear-solid-master-collection-vol-2-multi6-elamigos": [
     "Metal_Gear_Solid_Master_Collection_Vol_2_MULTi6_-_ElAmigos"
+  ],
+  "name:metaphor-refantazio": [
+    "Metaphor_-_ReFantazio"
   ],
   "name:metatrader-5": [
     "MetaTrader_5"
@@ -7160,6 +7175,9 @@
   ],
   "name:nierautomatacompat": [
     "NieRAutomataCompat"
+  ],
+  "name:ninja-gaiden-ninja-gaiden-master-collection": [
+    "NINJA_GAIDEN____NINJA_GAIDEN_-_Master_Collection_"
   ],
   "name:nsuns-4": [
     "NSUNS_4"
@@ -7332,6 +7350,9 @@
   ],
   "name:postal2-copy": [
     "Postal2_Copy"
+  ],
+  "name:prince-of-persia-the-forgotten-sands": [
+    "Prince_of_Persia_-_The_Forgotten_Sands"
   ],
   "name:pro-evolution-soccer": [
     "Pro_evolution_soccer"
