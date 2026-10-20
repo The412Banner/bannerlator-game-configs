@@ -24417,7 +24417,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1978,
+    "config_count": 1979,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25605,11 +25605,6 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "Adreno__TM__710",
-        "m": "NX1",
-        "s": "Adreno (TM) 710"
-      },
-      {
         "d": "Adreno__TM__750",
         "m": "NX9",
         "s": "Adreno (TM) 750"
@@ -25653,6 +25648,11 @@
         "d": "ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_",
         "m": "A576B",
         "s": "ANGLE ((Samsung Xclipse 550) on Vulkan 1.4.304)"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__830",
@@ -27087,6 +27087,14 @@
       "Heavy_Weapon"
     ],
     "name": "Heavy Weapon Deluxe"
+  },
+  "3419290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN"
   },
   "341940": {
     "config_count": 4,
@@ -30995,14 +31003,6 @@
       "The_Spike"
     ],
     "name": "The Spike Cross"
-  },
-  "3985080": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN - Costume Expansion Pack"
   },
   "400": {
     "config_count": 4,
@@ -42252,7 +42252,7 @@
     "name": "Easy Anti Cheat Bootstrapper Eos"
   },
   "name:efootball-2021": {
-    "config_count": 56,
+    "config_count": 57,
     "devices": [
       {
         "d": "Adreno__TM__650",
