@@ -674,7 +674,7 @@
     "name": "Mafia II: Definitive Edition"
   },
   "1030840": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -685,16 +685,10 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__829",
-        "m": "motorola_signature",
-        "s": "Adreno (TM) 829"
       }
     ],
     "folders": [
-      "Mafia__Definitive_Edition",
-      "Mafia_Definitive_Edition"
+      "Mafia__Definitive_Edition"
     ],
     "name": "Mafia: Definitive Edition"
   },
@@ -1031,7 +1025,7 @@
     "name": "Baldur's Gate 3"
   },
   "108710": {
-    "config_count": 17,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -1061,8 +1055,7 @@
     ],
     "folders": [
       "Alan_Wake",
-      "AlanWake",
-      "Alan_Wake_Remastered"
+      "AlanWake"
     ],
     "name": "Alan Wake"
   },
@@ -1989,14 +1982,6 @@
       "DOOM64"
     ],
     "name": "DOOM 64"
-  },
-  "1150230": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "nostalgia_5_0"
-    ],
-    "name": "VR Nostalgia 5"
   },
   "1151380": {
     "config_count": 1,
@@ -4575,7 +4560,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 62,
+    "config_count": 63,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4709,7 +4694,8 @@
       "Need_for_Speed_-_Most_Wanted",
       "Need_for_Speed__Most_Wanted_2005",
       "Need_for_Speed__Most_wanted__2012_",
-      "need_for_speed_most_wa"
+      "need_for_speed_most_wa",
+      "need_for_speed_most_wanted_2005"
     ],
     "name": "Need for Speed\u2122 Most Wanted"
   },
@@ -10688,18 +10674,24 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "N49",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__829",
+        "m": "motorola_signature",
+        "s": "Adreno (TM) 829"
       }
     ],
     "folders": [
       "MAFIA",
       "Mafia",
-      "Mafia_-_Definitive_Edition"
+      "Mafia_-_Definitive_Edition",
+      "Mafia_Definitive_Edition"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -25793,7 +25785,7 @@
     "name": "Grand Theft Auto V Enhanced"
   },
   "3241660": {
-    "config_count": 11,
+    "config_count": 13,
     "devices": [
       {
         "d": "G57",
@@ -27086,6 +27078,14 @@
     ],
     "name": "Heavy Weapon Deluxe"
   },
+  "3419290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN"
+  },
   "341940": {
     "config_count": 4,
     "devices": [
@@ -27999,14 +27999,6 @@
       "Rune_Dice"
     ],
     "name": "Rune Dice"
-  },
-  "354380": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Assassin_s_Creed_Chronicles_China"
-    ],
-    "name": "Assassin\u2019s Creed\u00ae Chronicles: China"
   },
   "355050": {
     "config_count": 2,
@@ -30994,14 +30986,6 @@
     ],
     "name": "The Spike Cross"
   },
-  "3985080": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN - Costume Expansion Pack"
-  },
   "400": {
     "config_count": 4,
     "devices": [],
@@ -31678,7 +31662,7 @@
     ],
     "name": "My Winter Car"
   },
-  "4165890": {
+  "4165910": {
     "config_count": 5,
     "devices": [
       {
@@ -31690,7 +31674,7 @@
     "folders": [
       "Steam"
     ],
-    "name": "Steam Frame"
+    "name": "Steam Machine"
   },
   "418030": {
     "config_count": 1,
@@ -33784,7 +33768,7 @@
     "name": "Speak Demo"
   },
   "48190": {
-    "config_count": 32,
+    "config_count": 28,
     "devices": [
       {
         "d": "MT6789",
@@ -33835,18 +33819,12 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
-      },
-      {
-        "d": "Adreno__TM__618",
-        "m": "A725F",
-        "s": "Adreno (TM) 618"
       }
     ],
     "folders": [
       "Assassin_s_Creed__Brotherhood",
       "Assassin_s_creed_brotherhood",
-      "Assassin_s_Creed_brotherhood",
-      "AssassinsCreedBrotherhood"
+      "Assassin_s_Creed_brotherhood"
     ],
     "name": "Assassin\u2019s Creed\u00ae Brotherhood"
   },
@@ -35501,7 +35479,7 @@
     "name": "Brick Rigs"
   },
   "55230": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -35531,7 +35509,8 @@
     ],
     "folders": [
       "Saints_Row__The_Third",
-      "SaintsRowTheThird"
+      "SaintsRowTheThird",
+      "Saints_Row___The_Third__Remastered"
     ],
     "name": "Saints Row: The Third"
   },
@@ -36643,7 +36622,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -37239,6 +37218,14 @@
     ],
     "name": "MX Bikes"
   },
+  "65600": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Gothic_3__Forsaken_Gods_Enhanced_Edition"
+    ],
+    "name": "Gothic 3 Forsaken Gods Enhanced Edition"
+  },
   "658850": {
     "config_count": 1,
     "devices": [],
@@ -37673,10 +37660,11 @@
     "name": "Xenia"
   },
   "6880": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
-      "Just_Cause"
+      "Just_Cause",
+      "Just_Cause_2_-_Complete_Edition"
     ],
     "name": "Just Cause"
   },
@@ -39192,7 +39180,7 @@
     "name": "Cash Grab - Hat Pack"
   },
   "8190": {
-    "config_count": 33,
+    "config_count": 32,
     "devices": [
       {
         "d": "Odin2",
@@ -39287,8 +39275,7 @@
     ],
     "folders": [
       "Just_Cause_2",
-      "JustCause2",
-      "Just_Cause_2_-_Complete_Edition"
+      "JustCause2"
     ],
     "name": "Just Cause 2"
   },
@@ -41110,14 +41097,6 @@
     ],
     "name": "Eastward"
   },
-  "978300": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Saints_Row___The_Third__Remastered"
-    ],
-    "name": "Saints Row\u00ae: The Third\u2122 Remastered"
-  },
   "978780": {
     "config_count": 3,
     "devices": [
@@ -41441,6 +41420,14 @@
     ],
     "name": "Aio Graphics Test 64Bit"
   },
+  "name:alan-wake-remastered": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Alan_Wake_Remastered"
+    ],
+    "name": "Alan Wake Remastered"
+  },
   "name:am2r": {
     "config_count": 1,
     "devices": [
@@ -41509,6 +41496,14 @@
     ],
     "name": "Assasins Creed Iv Black Flag"
   },
+  "name:assassin-s-creed-chronicles-china": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Assassin_s_Creed_Chronicles_China"
+    ],
+    "name": "Assassin S Creed Chronicles China"
+  },
   "name:assassinscreed-dx9": {
     "config_count": 2,
     "devices": [],
@@ -41516,6 +41511,25 @@
       "AssassinsCreed_Dx9"
     ],
     "name": "Assassinscreed Dx9"
+  },
+  "name:assassinscreedbrotherhood": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "Adreno__TM__618",
+        "m": "A725F",
+        "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
+      }
+    ],
+    "folders": [
+      "AssassinsCreedBrotherhood"
+    ],
+    "name": "Assassinscreedbrotherhood"
   },
   "name:autoplay-menu-builder": {
     "config_count": 1,
@@ -43534,14 +43548,6 @@
     ],
     "name": "Need For Speed Black Edition"
   },
-  "name:need-for-speed-most-wanted-2005": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "need_for_speed_most_wanted_2005"
-    ],
-    "name": "Need For Speed Most Wanted 2005"
-  },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 2,
     "devices": [],
@@ -43725,6 +43731,14 @@
       "NieRAutomataCompat"
     ],
     "name": "Nierautomatacompat"
+  },
+  "name:nostalgia-5-0": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "nostalgia_5_0"
+    ],
+    "name": "Nostalgia 5 0"
   },
   "name:nsuns-4": {
     "config_count": 1,
@@ -46788,6 +46802,14 @@
       "Wizard_School_Exchange_Student"
     ],
     "name": "Wizard School Exchange Student"
+  },
+  "name:wolfenstein-2009": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Wolfenstein__2009_"
+    ],
+    "name": "Wolfenstein 2009"
   },
   "name:world-of-warcraft": {
     "config_count": 1,

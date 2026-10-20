@@ -79,7 +79,6 @@
     "mafia2"
   ],
   "1030840": [
-    "Mafia_Definitive_Edition",
     "Mafia__Definitive_Edition"
   ],
   "1032700": [
@@ -157,8 +156,7 @@
   ],
   "108710": [
     "AlanWake",
-    "Alan_Wake",
-    "Alan_Wake_Remastered"
+    "Alan_Wake"
   ],
   "1087760": [
     "The_Gunk"
@@ -316,9 +314,6 @@
   ],
   "1148590": [
     "DOOM64"
-  ],
-  "1150230": [
-    "nostalgia_5_0"
   ],
   "1151380": [
     "Cowboy_Life_Simulator"
@@ -647,7 +642,8 @@
     "Need_for_Speed__Most_wanted__2012_",
     "Need_for_Speed_most_wanted",
     "need_for_speed_most_wa",
-    "need_for_speed_most_wanted_"
+    "need_for_speed_most_wanted_",
+    "need_for_speed_most_wanted_2005"
   ],
   "1262580": [
     "NeedForSpeedPayback",
@@ -1695,7 +1691,8 @@
   "1941540": [
     "MAFIA",
     "Mafia",
-    "Mafia_-_Definitive_Edition"
+    "Mafia_-_Definitive_Edition",
+    "Mafia_Definitive_Edition"
   ],
   "1941780": [
     "Zumbi_Blocks_2_Open_Alpha"
@@ -4116,6 +4113,9 @@
   "3410": [
     "Heavy_Weapon"
   ],
+  "3419290": [
+    "GodForsaken"
+  ],
   "341940": [
     "Hatred"
   ],
@@ -4267,9 +4267,6 @@
   ],
   "3542380": [
     "Rune_Dice"
-  ],
-  "354380": [
-    "Assassin_s_Creed_Chronicles_China"
   ],
   "355050": [
     "Sky_Force_Anniversary"
@@ -4748,9 +4745,6 @@
   "3983810": [
     "The_Spike"
   ],
-  "3985080": [
-    "GodForsaken"
-  ],
   "400": [
     "Portal"
   ],
@@ -4909,7 +4903,7 @@
   "4164420": [
     "mywintercar"
   ],
-  "4165890": [
+  "4165910": [
     "Steam"
   ],
   "418030": [
@@ -5342,8 +5336,7 @@
   "48190": [
     "Assassin_s_Creed__Brotherhood",
     "Assassin_s_Creed_brotherhood",
-    "Assassin_s_creed_brotherhood",
-    "AssassinsCreedBrotherhood"
+    "Assassin_s_creed_brotherhood"
   ],
   "482400": [
     "System_Shock",
@@ -5567,7 +5560,8 @@
   ],
   "55230": [
     "SaintsRowTheThird",
-    "Saints_Row__The_Third"
+    "Saints_Row__The_Third",
+    "Saints_Row___The_Third__Remastered"
   ],
   "552520": [
     "Far_Cry_",
@@ -5852,6 +5846,9 @@
     "mx_bike",
     "mxbikes"
   ],
+  "65600": [
+    "Gothic_3__Forsaken_Gods_Enhanced_Edition"
+  ],
   "658850": [
     "Do_Not_Feed_the_Monkeys"
   ],
@@ -5913,7 +5910,8 @@
     "xenia"
   ],
   "6880": [
-    "Just_Cause"
+    "Just_Cause",
+    "Just_Cause_2_-_Complete_Edition"
   ],
   "6900": [
     "Cod4"
@@ -6179,8 +6177,7 @@
   ],
   "8190": [
     "JustCause2",
-    "Just_Cause_2",
-    "Just_Cause_2_-_Complete_Edition"
+    "Just_Cause_2"
   ],
   "819030": [
     "STEINS_GATE_ELITE"
@@ -6476,9 +6473,6 @@
   "977880": [
     "Eastward"
   ],
-  "978300": [
-    "Saints_Row___The_Third__Remastered"
-  ],
   "978780": [
     "STORY_OF_SEASONS_Friends_of_Mineral_Town",
     "STORY_OF_SEASONS__Friends_of_Mineral_Town"
@@ -6564,6 +6558,9 @@
   "name:aio-graphics-test-64bit": [
     "AIO-Graphics-Test-64bit"
   ],
+  "name:alan-wake-remastered": [
+    "Alan_Wake_Remastered"
+  ],
   "name:am2r": [
     "AM2R"
   ],
@@ -6585,8 +6582,14 @@
   "name:assasins-creed-iv-black-flag": [
     "Assasins_Creed_IV_Black_Flag"
   ],
+  "name:assassin-s-creed-chronicles-china": [
+    "Assassin_s_Creed_Chronicles_China"
+  ],
   "name:assassinscreed-dx9": [
     "AssassinsCreed_Dx9"
+  ],
+  "name:assassinscreedbrotherhood": [
+    "AssassinsCreedBrotherhood"
   ],
   "name:autoplay-menu-builder": [
     "AutoPlay_Menu_Builder"
@@ -7115,9 +7118,6 @@
   "name:need-for-speed-black-edition": [
     "Need_for_Speed_Black_Edition_"
   ],
-  "name:need-for-speed-most-wanted-2005": [
-    "need_for_speed_most_wanted_2005"
-  ],
   "name:need-for-speed-most-wanted-black-edition": [
     "Need_For_Speed_Most_Wanted_Black_Edition",
     "Need_For_Speed__Most_Wanted_Black_Edition"
@@ -7168,6 +7168,9 @@
   ],
   "name:nierautomatacompat": [
     "NieRAutomataCompat"
+  ],
+  "name:nostalgia-5-0": [
+    "nostalgia_5_0"
   ],
   "name:nsuns-4": [
     "NSUNS_4"
@@ -7614,6 +7617,9 @@
   ],
   "name:wizard-school-exchange-student": [
     "Wizard_School_Exchange_Student"
+  ],
+  "name:wolfenstein-2009": [
+    "Wolfenstein__2009_"
   ],
   "name:world-of-warcraft": [
     "World_of_Warcraft"
