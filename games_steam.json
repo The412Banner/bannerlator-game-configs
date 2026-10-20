@@ -7505,6 +7505,12 @@
     "method": "naive",
     "steam_name": "OCTOPATH TRAVELER II"
   },
+  "ONE_PIECE_Bounty_Rush": {
+    "appid": 2918150,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2918150/header.jpg",
+    "method": "naive",
+    "steam_name": "ONE PIECE Bounty Rush"
+  },
   "ONE_PIECE_World_Seeker": {
     "appid": 755500,
     "method": "naive",
@@ -7947,6 +7953,10 @@
   "Pes2013": {
     "appid": "name:pes-2013",
     "method": "alias"
+  },
+  "Pes2016": {
+    "appid": null,
+    "method": "unresolved"
   },
   "Pes_13": {
     "appid": 1665460,
@@ -13156,6 +13166,10 @@
     "method": "unresolved"
   },
   "sh2pc": {
+    "appid": null,
+    "method": "unresolved"
+  },
+  "sh4check": {
     "appid": null,
     "method": "unresolved"
   },

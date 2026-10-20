@@ -9832,7 +9832,7 @@
     "name": "Asphalt Legends "
   },
   "1817070": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -9912,7 +9912,8 @@
     ],
     "folders": [
       "Marvel_s_Spider-Man_Remastered",
-      "REM"
+      "REM",
+      "Spider-man_Remastered"
     ],
     "name": "Marvel\u2019s Spider-Man Remastered"
   },
@@ -10688,7 +10689,7 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 4,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -10698,8 +10699,7 @@
     ],
     "folders": [
       "MAFIA",
-      "Mafia",
-      "Mafia_-_Definitive_Edition"
+      "Mafia"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -16569,20 +16569,6 @@
     ],
     "name": "Europa Universalis IV"
   },
-  "2369390": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      }
-    ],
-    "folders": [
-      "FarCry"
-    ],
-    "name": "Far Cry\u00ae 6"
-  },
   "2370000": {
     "config_count": 1,
     "devices": [],
@@ -19593,7 +19579,7 @@
     "name": "Subnautica"
   },
   "2651280": {
-    "config_count": 28,
+    "config_count": 27,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -19649,19 +19635,13 @@
         "d": "Adreno__TM__730",
         "m": "motorola_edge_30_ultra",
         "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
       "Activision_Spider-Man_3",
       "Marvel_s_Spider-Man_2",
       "Spider-Man_3",
-      "Spider-Man",
-      "Spider-man_Remastered"
+      "Spider-Man"
     ],
     "name": "Marvel's Spider-Man 2"
   },
@@ -21972,6 +21952,20 @@
     ],
     "name": "Pillars of Eternity"
   },
+  "2918150": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G610_MC6",
+        "m": "Mali",
+        "s": "Mali-G610 MC6"
+      }
+    ],
+    "folders": [
+      "ONE_PIECE_Bounty_Rush"
+    ],
+    "name": "ONE PIECE Bounty Rush"
+  },
   "292030": {
     "config_count": 19,
     "devices": [
@@ -23622,14 +23616,6 @@
     ],
     "name": "FINAL FANTASY XIV Online Free Trial"
   },
-  "3120600": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "RoomGirl"
-    ],
-    "name": "VR Harem Life ~ Your Room Became a Hang-Out for Girls!? ~"
-  },
   "3121490": {
     "config_count": 1,
     "devices": [
@@ -24407,7 +24393,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1977,
+    "config_count": 1978,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25085,11 +25071,6 @@
         "s": "Adreno (TM) 619"
       },
       {
-        "d": "ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_",
-        "m": "A576B",
-        "s": "ANGLE ((Samsung Xclipse 550) on Vulkan 1.4.304)"
-      },
-      {
         "d": "Adreno__TM__725",
         "m": "23049PCD8G",
         "s": "Adreno (TM) 725"
@@ -25643,6 +25624,11 @@
         "d": "Adreno__TM__825",
         "m": "25097RP43G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_",
+        "m": "A576B",
+        "s": "ANGLE ((Samsung Xclipse 550) on Vulkan 1.4.304)"
       },
       {
         "d": "Adreno__TM__830",
@@ -27078,14 +27064,6 @@
     ],
     "name": "Heavy Weapon Deluxe"
   },
-  "3419290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN"
-  },
   "341940": {
     "config_count": 4,
     "devices": [
@@ -28406,6 +28384,14 @@
       "Mafia_III__Definitive_Edition"
     ],
     "name": "Mafia III: Definitive Edition"
+  },
+  "3606830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "RoomGirl"
+    ],
+    "name": "Life in The Janitor's Room with A JK Girl"
   },
   "361420": {
     "config_count": 2,
@@ -30986,6 +30972,14 @@
     ],
     "name": "The Spike Cross"
   },
+  "3985080": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN - Costume Expansion Pack"
+  },
   "400": {
     "config_count": 4,
     "devices": [],
@@ -31373,6 +31367,15 @@
       "BioShock_2_Remastered"
     ],
     "name": "BioShock\u2122 2 Remastered"
+  },
+  "40990": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Mafia",
+      "Mafia_-_Definitive_Edition"
+    ],
+    "name": "Mafia"
   },
   "4100940": {
     "config_count": 8,
@@ -33518,7 +33521,7 @@
     "name": "Human Fall Flat"
   },
   "47780": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "Retroid_Pocket_5",
@@ -35473,7 +35476,7 @@
     "name": "Brick Rigs"
   },
   "55230": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -35503,13 +35506,12 @@
     ],
     "folders": [
       "Saints_Row__The_Third",
-      "SaintsRowTheThird",
-      "Saints_Row___The_Third__Remastered"
+      "SaintsRowTheThird"
     ],
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "G720_MC7",
@@ -35555,6 +35557,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -35563,7 +35570,8 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry"
+      "far_cry",
+      "FarCry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -38113,14 +38121,8 @@
     "name": "Hakuoki: Edo Blossoms"
   },
   "740130": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
+    "config_count": 3,
+    "devices": [],
     "folders": [
       "Tales_of_ARISE",
       "Tales_of_Arise"
@@ -41080,6 +41082,14 @@
       "Eastward"
     ],
     "name": "Eastward"
+  },
+  "978300": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Saints_Row___The_Third__Remastered"
+    ],
+    "name": "Saints Row\u00ae: The Third\u2122 Remastered"
   },
   "978780": {
     "config_count": 3,
