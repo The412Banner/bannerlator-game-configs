@@ -2613,7 +2613,7 @@
     "name": "I.G.I. Origins"
   },
   "1187": {
-    "config_count": 4,
+    "config_count": 2,
     "devices": [
       {
         "d": "G77_MC9",
@@ -2622,8 +2622,7 @@
       }
     ],
     "folders": [
-      "ACC",
-      "Assassin_s_Creed_Rogue"
+      "ACC"
     ],
     "name": "Acc"
   },
@@ -3609,7 +3608,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 56,
+    "config_count": 39,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -3705,24 +3704,12 @@
         "d": "Adreno__TM__722",
         "m": "CPH2825",
         "s": "Adreno (TM) 722"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "M2007J3SY",
-        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
       "Need_for_Speed__Heat",
       "nfs",
-      "Need_for_Speed_Heat",
-      "Speed",
-      "speed"
+      "Need_for_Speed_Heat"
     ],
     "name": "Need for Speed\u2122 Heat"
   },
@@ -4588,7 +4575,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 63,
+    "config_count": 62,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4722,8 +4709,7 @@
       "Need_for_Speed_-_Most_Wanted",
       "Need_for_Speed__Most_Wanted_2005",
       "Need_for_Speed__Most_wanted__2012_",
-      "need_for_speed_most_wa",
-      "need_for_speed_most_wanted_2005"
+      "need_for_speed_most_wa"
     ],
     "name": "Need for Speed\u2122 Most Wanted"
   },
@@ -20375,6 +20361,25 @@
     ],
     "name": "SAMURAI WARRIORS 4 DX"
   },
+  "2723810": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
+      }
+    ],
+    "folders": [
+      "SB"
+    ],
+    "name": "SBcatfight game"
+  },
   "272510": {
     "config_count": 12,
     "devices": [
@@ -23522,9 +23527,10 @@
     "name": "METAL GEAR SOLID V: GROUND ZEROES"
   },
   "311560": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [],
     "folders": [
+      "Assassin_s_Creed_Rogue",
       "Assassins_Creed_Rogue"
     ],
     "name": "Assassin\u2019s Creed\u00ae Rogue"
@@ -23828,25 +23834,6 @@
     ],
     "name": "Montabi"
   },
-  "3145740": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "Odin3",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__735",
-        "m": "24069PC21G",
-        "s": "Adreno (TM) 735"
-      }
-    ],
-    "folders": [
-      "SB"
-    ],
-    "name": "VRider SBK\u2122"
-  },
   "314660": {
     "config_count": 1,
     "devices": [],
@@ -24066,7 +24053,7 @@
     "name": "Mall Simulator"
   },
   "3183760": {
-    "config_count": 4,
+    "config_count": 21,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -24082,10 +24069,21 @@
         "d": "Adreno__TM__750",
         "m": "NX769J",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
-      "speed"
+      "speed",
+      "Speed"
     ],
     "name": "SpeedRunners 2: King of Speed"
   },
@@ -24417,7 +24415,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1979,
+    "config_count": 1981,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -27087,14 +27085,6 @@
       "Heavy_Weapon"
     ],
     "name": "Heavy Weapon Deluxe"
-  },
-  "3419290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN"
   },
   "341940": {
     "config_count": 4,
@@ -31003,6 +30993,14 @@
       "The_Spike"
     ],
     "name": "The Spike Cross"
+  },
+  "3985080": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN - Costume Expansion Pack"
   },
   "400": {
     "config_count": 4,
@@ -43535,6 +43533,14 @@
       "Need_for_Speed_Black_Edition_"
     ],
     "name": "Need For Speed Black Edition"
+  },
+  "name:need-for-speed-most-wanted-2005": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "need_for_speed_most_wanted_2005"
+    ],
+    "name": "Need For Speed Most Wanted 2005"
   },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 2,
