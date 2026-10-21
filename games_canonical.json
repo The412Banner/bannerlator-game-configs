@@ -14709,7 +14709,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 18,
+    "config_count": 21,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -14748,7 +14748,9 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -21331,7 +21333,7 @@
     "name": "Voxel Project VR"
   },
   "285900": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "G52_MC2",
@@ -21347,6 +21349,11 @@
         "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
         "m": "A566B",
         "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "G52",
+        "m": "Mali",
+        "s": "Mali-G52"
       }
     ],
     "folders": [
@@ -21620,7 +21627,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -21660,9 +21667,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "rerev",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -27086,14 +27091,6 @@
     ],
     "name": "Heavy Weapon Deluxe"
   },
-  "3419290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN"
-  },
   "341940": {
     "config_count": 4,
     "devices": [
@@ -30993,6 +30990,14 @@
       "The_Spike"
     ],
     "name": "The Spike Cross"
+  },
+  "3985080": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN - Costume Expansion Pack"
   },
   "400": {
     "config_count": 4,
