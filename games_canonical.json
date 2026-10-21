@@ -7127,7 +7127,7 @@
     "name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition"
   },
   "1551360": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -7153,6 +7153,11 @@
         "d": "Adreno__TM__830",
         "m": "NX789J",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "Infinix_X688B",
+        "s": "PowerVR Rogue GE8320"
       }
     ],
     "folders": [
@@ -20808,12 +20813,17 @@
     "name": "Izolated"
   },
   "2799860": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
         "m": "S926B",
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S918B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -24427,7 +24437,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 1991,
+    "config_count": 1992,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -43451,7 +43461,7 @@
     "name": "Misidefull"
   },
   "name:mk10": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -44038,7 +44048,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3173,
+    "config_count": 3174,
     "devices": [
       {
         "d": "G52_MC2",
