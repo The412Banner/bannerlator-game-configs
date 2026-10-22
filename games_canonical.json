@@ -14065,7 +14065,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 132,
+    "config_count": 133,
     "devices": [
       {
         "d": "G52_MC2",
@@ -15871,6 +15871,20 @@
       "Universe_Sandbox"
     ],
     "name": "Universe Sandbox"
+  },
+  "230410": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
+      }
+    ],
+    "folders": [
+      "Warframe"
+    ],
+    "name": "Warframe"
   },
   "231120": {
     "config_count": 14,
@@ -24479,7 +24493,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2005,
+    "config_count": 2006,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -27599,7 +27613,7 @@
     "name": "Stellar Blade\u2122"
   },
   "349040": {
-    "config_count": 76,
+    "config_count": 77,
     "devices": [
       {
         "d": "G615_MC2",
@@ -27710,6 +27724,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G78",
+        "m": "Mali",
+        "s": "Mali-G78"
       }
     ],
     "folders": [
@@ -29940,6 +29959,20 @@
     ],
     "name": "Case Blind: Stolen Route"
   },
+  "3859430": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G51",
+        "m": "Mali",
+        "s": "Mali-G51"
+      }
+    ],
+    "folders": [
+      "WATERPUNK"
+    ],
+    "name": "Waterpunk"
+  },
   "3864890": {
     "config_count": 1,
     "devices": [
@@ -31763,7 +31796,7 @@
     ],
     "name": "My Winter Car"
   },
-  "4165910": {
+  "4165890": {
     "config_count": 5,
     "devices": [
       {
@@ -31775,7 +31808,7 @@
     "folders": [
       "Steam"
     ],
-    "name": "Steam Machine"
+    "name": "Steam Frame"
   },
   "418030": {
     "config_count": 1,
@@ -35234,7 +35267,7 @@
     "name": "Ancestors: The Humankind Odyssey"
   },
   "543870": {
-    "config_count": 32,
+    "config_count": 34,
     "devices": [
       {
         "d": "moto_e13",
@@ -35277,11 +35310,6 @@
         "s": "Adreno (TM) 512"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__616",
         "m": "RMX1971",
         "s": "Adreno (TM) 616"
@@ -35305,6 +35333,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
