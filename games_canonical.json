@@ -6564,7 +6564,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 116,
+    "config_count": 117,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -22697,7 +22697,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 7,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -22718,16 +22718,10 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -27160,7 +27154,7 @@
     "name": "Quarantine Zone: The Last Check"
   },
   "341960": {
-    "config_count": 19,
+    "config_count": 21,
     "devices": [
       {
         "d": "Adreno__TM__722",
@@ -27196,6 +27190,16 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "F731B",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
       }
     ],
     "folders": [
@@ -29095,7 +29099,7 @@
     "name": "Pixel Empires"
   },
   "373420": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -29105,8 +29109,7 @@
     ],
     "folders": [
       "Divinity__Original_Sin_-_Enhanced_Edition",
-      "Divinity__Original_Sin_Enhanced_Edition",
-      "Divinity_Original_Sin_Enhanced_Edition"
+      "Divinity__Original_Sin_Enhanced_Edition"
     ],
     "name": "Divinity: Original Sin - Enhanced Edition"
   },
@@ -29139,7 +29142,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 42,
+    "config_count": 45,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -29230,6 +29233,11 @@
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "S928B",
+        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
@@ -29240,7 +29248,8 @@
       "DARK_SOULS_III",
       "DarkSoulsII",
       "DarkSoulsIII",
-      "Dark_Souls_III"
+      "Dark_Souls_III",
+      "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122 III"
   },
@@ -31182,25 +31191,6 @@
     ],
     "name": "Godot Engine"
   },
-  "4048520": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "F731B",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      }
-    ],
-    "folders": [
-      "DP"
-    ],
-    "name": "HAELE 3D - Pose Studio Max - Anatomy Drawing References"
-  },
   "4049180": {
     "config_count": 3,
     "devices": [
@@ -32507,7 +32497,7 @@
     "name": "2Dark"
   },
   "435150": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G720_MC8",
@@ -32516,9 +32506,10 @@
       }
     ],
     "folders": [
-      "Divinity_-_Original_Sin_2_-_Definitive_Edition"
+      "Divinity_-_Original_Sin_2_-_Definitive_Edition",
+      "Divinity_Original_Sin_Enhanced_Edition"
     ],
-    "name": "Divinity - Original Sin 2 - Definitive Edition"
+    "name": "Divinity: Original Sin 2 - Definitive Edition"
   },
   "435530": {
     "config_count": 1,
@@ -35938,7 +35929,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 55,
+    "config_count": 52,
     "devices": [
       {
         "d": "G57",
@@ -36059,18 +36050,12 @@
         "d": "Adreno__TM__810",
         "m": "NX1",
         "s": "Adreno (TM) 810"
-      },
-      {
-        "d": "Adreno__TM__660",
-        "m": "S928B",
-        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
       "DARK_SOULS__REMASTERED",
       "DARK_SOULS___REMASTERED",
-      "DARK_SOULS_-_REMASTERED",
-      "Dark_Souls_Remastered"
+      "DARK_SOULS_-_REMASTERED"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
   },
@@ -40412,7 +40397,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 8,
     "devices": [
       {
         "d": "G615_MC6",
@@ -40428,10 +40413,16 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -40580,14 +40571,6 @@
       "Far_Cry__New_Dawn"
     ],
     "name": "Far Cry\u00ae New Dawn"
-  },
-  "940190": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Chuckie_Egg_3"
-    ],
-    "name": "Chuckie Egg 2017"
   },
   "940910": {
     "config_count": 1,
@@ -41903,6 +41886,14 @@
       "CDMWTHEMOCS2"
     ],
     "name": "Cdmwthemocs2"
+  },
+  "name:chuckie-egg-3": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Chuckie_Egg_3"
+    ],
+    "name": "Chuckie Egg 3"
   },
   "name:civilization-ii-multiplayer-gold-edition": {
     "config_count": 1,
@@ -44078,7 +44069,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3177,
+    "config_count": 3179,
     "devices": [
       {
         "d": "G52_MC2",
@@ -44567,11 +44558,6 @@
       },
       {
         "d": "Adreno__TM__610",
-        "m": "A057M",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__610",
         "m": "2201117TL",
         "s": "Adreno (TM) 610"
       },
@@ -45054,6 +45040,11 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "A057M",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__740",
