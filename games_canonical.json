@@ -4340,7 +4340,7 @@
     "name": "Jurassic World Evolution 2"
   },
   "1245620": {
-    "config_count": 16,
+    "config_count": 17,
     "devices": [
       {
         "d": "SM8850",
@@ -4375,6 +4375,11 @@
       {
         "d": "Adreno__TM__840",
         "m": "NX809J",
+        "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "CPH2747",
         "s": "Adreno (TM) 840"
       },
       {
@@ -32668,7 +32673,7 @@
     "name": "Binaries"
   },
   "4358690": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -37580,7 +37585,7 @@
     "name": "Heroes Of Hammerwatch"
   },
   "678950": {
-    "config_count": 53,
+    "config_count": 54,
     "devices": [
       {
         "d": "G68_MC4",
@@ -37676,6 +37681,11 @@
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "PJJ110",
+        "s": "Adreno (TM) 730"
       },
       {
         "d": "Adreno__TM__619",
