@@ -3790,7 +3790,7 @@
     "name": "MY HERO ONE'S JUSTICE 2 - Season Pass"
   },
   "1229240": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642",
@@ -3801,6 +3801,11 @@
         "d": "Adreno__TM__642L",
         "m": "I2213",
         "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "26077PC53G",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
@@ -7269,12 +7274,17 @@
     "name": "TIME FOR YOU - CHAPTER 02 - DIRTY THOUGHTS AND CORPORATE BOTS"
   },
   "1574820": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__740",
         "m": "Retroid_Pocket_6",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "26077PC53G",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
@@ -19938,7 +19948,7 @@
     "name": "Minami Lane"
   },
   "2679460": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__740",
