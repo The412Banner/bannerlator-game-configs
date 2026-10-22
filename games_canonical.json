@@ -8903,7 +8903,7 @@
     "name": "Kusan: City of Wolves Demo"
   },
   "1721470": {
-    "config_count": 22,
+    "config_count": 23,
     "devices": [
       {
         "d": "motorola_edge_60",
@@ -11300,7 +11300,7 @@
     "name": "Beast of Reincarnation"
   },
   "200260": {
-    "config_count": 24,
+    "config_count": 25,
     "devices": [
       {
         "d": "G52_MC2",
@@ -11341,6 +11341,11 @@
         "d": "Adreno__TM__640",
         "m": "M2102J20SG",
         "s": "Adreno (TM) 640"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "23122PCD1I",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "G68_MC4",
@@ -27155,7 +27160,7 @@
     "name": "Quarantine Zone: The Last Check"
   },
   "341960": {
-    "config_count": 21,
+    "config_count": 19,
     "devices": [
       {
         "d": "Adreno__TM__722",
@@ -27191,16 +27196,6 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "F731B",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
       }
     ],
     "folders": [
@@ -31186,6 +31181,25 @@
       "Godot_Engine"
     ],
     "name": "Godot Engine"
+  },
+  "4048520": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "F731B",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      }
+    ],
+    "folders": [
+      "DP"
+    ],
+    "name": "HAELE 3D - Pose Studio Max - Anatomy Drawing References"
   },
   "4049180": {
     "config_count": 3,
