@@ -8597,12 +8597,17 @@
     "name": "GUNDAM BREAKER 4"
   },
   "1672810": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__750",
         "m": "Pocket_FIT",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -24479,7 +24484,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2000,
+    "config_count": 2001,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25687,11 +25692,6 @@
         "s": "ANGLE ((Samsung Xclipse 530) on Vulkan 1.3.279)"
       },
       {
-        "d": "G68",
-        "m": "Mali",
-        "s": "Mali-G68"
-      },
-      {
         "d": "Adreno__TM__825",
         "m": "25097RP43G",
         "s": "Adreno (TM) 825"
@@ -25715,6 +25715,11 @@
         "d": "Adreno__TM__735",
         "m": "24091RPADG",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
       },
       {
         "d": "Adreno__TM__830",
@@ -27193,7 +27198,7 @@
     "name": "Quarantine Zone: The Last Check"
   },
   "341960": {
-    "config_count": 21,
+    "config_count": 19,
     "devices": [
       {
         "d": "Adreno__TM__722",
@@ -27229,16 +27234,6 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "F731B",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
       }
     ],
     "folders": [
@@ -31225,6 +31220,25 @@
     ],
     "name": "Godot Engine"
   },
+  "4048520": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "F731B",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      }
+    ],
+    "folders": [
+      "DP"
+    ],
+    "name": "HAELE 3D - Pose Studio Max - Anatomy Drawing References"
+  },
   "4049180": {
     "config_count": 3,
     "devices": [
@@ -32843,20 +32857,13 @@
     "name": "This Is the Police"
   },
   "4439810": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [],
     "folders": [
-      "Forza_Horizon_2_____________________________________________"
-    ],
-    "name": "Forza Horizon 6 2024 Koenigsegg Gemera"
-  },
-  "4439830": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
+      "Forza_Horizon_2_____________________________________________",
       "Forza_Horizon_2"
     ],
-    "name": "Forza Horizon 6 2008 Honda Civic Type R (FD2)"
+    "name": "Forza Horizon 6 2024 Koenigsegg Gemera"
   },
   "444200": {
     "config_count": 1,
