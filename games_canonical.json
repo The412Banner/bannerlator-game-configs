@@ -203,7 +203,7 @@
     "name": "The Long Drive"
   },
   "10180": {
-    "config_count": 45,
+    "config_count": 46,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -299,6 +299,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "NX3",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -6407,9 +6412,10 @@
     "name": "Ghostwire: Tokyo"
   },
   "1476970": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
+      "Legends_of_Idleon_MMO",
       "mm"
     ],
     "name": "IdleOn - The Incremental MMO"
@@ -10724,7 +10730,7 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 4,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -10734,8 +10740,7 @@
     ],
     "folders": [
       "MAFIA",
-      "Mafia",
-      "Mafia_-_Definitive_Edition"
+      "Mafia"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -16875,7 +16880,7 @@
     "name": "Papers, Please"
   },
   "239140": {
-    "config_count": 27,
+    "config_count": 28,
     "devices": [
       {
         "d": "G57_MC2",
@@ -31424,6 +31429,15 @@
     ],
     "name": "BioShock\u2122 2 Remastered"
   },
+  "40990": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Mafia",
+      "Mafia_-_Definitive_Edition"
+    ],
+    "name": "Mafia"
+  },
   "4100940": {
     "config_count": 8,
     "devices": [
@@ -42336,7 +42350,7 @@
     "name": "Easy Anti Cheat Bootstrapper Eos"
   },
   "name:efootball-2021": {
-    "config_count": 57,
+    "config_count": 58,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -42427,6 +42441,11 @@
         "d": "Adreno__TM__650",
         "m": "M2012K11AG",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
