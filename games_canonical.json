@@ -3857,7 +3857,7 @@
     "name": "Atri -My Dear Moments-"
   },
   "1230530": {
-    "config_count": 8,
+    "config_count": 12,
     "devices": [
       {
         "d": "G57_MC2",
@@ -3893,6 +3893,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G57_MC4",
+        "m": "Mali",
+        "s": "Mali-G57 MC4"
       }
     ],
     "folders": [
@@ -10740,7 +10745,7 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 4,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -10750,8 +10755,7 @@
     ],
     "folders": [
       "MAFIA",
-      "Mafia",
-      "Mafia_-_Definitive_Edition"
+      "Mafia"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -11917,8 +11921,33 @@
     "name": "Hitman: Absolution\u2122"
   },
   "203160": {
-    "config_count": 17,
+    "config_count": 33,
     "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
+      },
       {
         "d": "Adreno__TM__740",
         "m": "S911U",
@@ -11946,11 +11975,12 @@
       }
     ],
     "folders": [
+      "TombRaider",
       "Tomb_Raider",
       "Tomb_Raider_2013",
       "Tomb_Raider_Game_of_the_Year"
     ],
-    "name": "Tomb Raider"
+    "name": "Tomb Raider Game of the Year"
   },
   "203650": {
     "config_count": 3,
@@ -14754,7 +14784,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 18,
+    "config_count": 20,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -14793,7 +14823,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -17103,6 +17134,14 @@
       "Dimraeth"
     ],
     "name": "Dimraeth"
+  },
+  "240460": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "WWE_2K15"
+    ],
+    "name": "Wwe 2K15"
   },
   "2405060": {
     "config_count": 1,
@@ -21688,7 +21727,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 34,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -21729,7 +21768,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -23457,7 +23495,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 50,
+    "config_count": 51,
     "devices": [
       {
         "d": "G78",
@@ -23488,11 +23526,6 @@
         "d": "Adreno__TM__829",
         "m": "I2508",
         "s": "Adreno (TM) 829"
-      },
-      {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
       },
       {
         "d": "Adreno__TM__710",
@@ -23533,6 +23566,11 @@
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       },
       {
         "d": "Adreno__TM__750",
@@ -28175,46 +28213,6 @@
     ],
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
-  "3558670": {
-    "config_count": 20,
-    "devices": [
-      {
-        "d": "G57_MC4",
-        "m": "Mali",
-        "s": "Mali-G57 MC4"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
-      }
-    ],
-    "folders": [
-      "Atla",
-      "TombRaider"
-    ],
-    "name": "Tomb Raider: Legacy of Atlantis"
-  },
   "356190": {
     "config_count": 4,
     "devices": [
@@ -31504,6 +31502,15 @@
       "BioShock_2_Remastered"
     ],
     "name": "BioShock\u2122 2 Remastered"
+  },
+  "40990": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Mafia",
+      "Mafia_-_Definitive_Edition"
+    ],
+    "name": "Mafia"
   },
   "4100940": {
     "config_count": 8,
