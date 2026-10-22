@@ -3057,7 +3057,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 460,
+    "config_count": 461,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3455,11 +3455,6 @@
         "s": "Mali-G51"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
@@ -3503,6 +3498,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__735",
@@ -7428,7 +7428,7 @@
     "name": "Selaco"
   },
   "1593500": {
-    "config_count": 181,
+    "config_count": 182,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -7699,6 +7699,11 @@
         "d": "Immortalis_MC12",
         "m": "G720",
         "s": "Mali-G720-Immortalis MC12"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_",
+        "m": "S731B",
+        "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.304)"
       },
       {
         "d": "Adreno__TM__710",
@@ -10735,7 +10740,7 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 4,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -10745,8 +10750,7 @@
     ],
     "folders": [
       "MAFIA",
-      "Mafia",
-      "Mafia_-_Definitive_Edition"
+      "Mafia"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -26211,7 +26215,7 @@
     "name": "GameGuru MAX - Madman's Melee Weapons"
   },
   "329050": {
-    "config_count": 58,
+    "config_count": 59,
     "devices": [
       {
         "d": "G615_MC2",
@@ -31500,6 +31504,15 @@
     ],
     "name": "BioShock\u2122 2 Remastered"
   },
+  "40990": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Mafia",
+      "Mafia_-_Definitive_Edition"
+    ],
+    "name": "Mafia"
+  },
   "4100940": {
     "config_count": 8,
     "devices": [
@@ -35732,7 +35745,7 @@
     "name": "TUNIC"
   },
   "553520": {
-    "config_count": 34,
+    "config_count": 36,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -35790,11 +35803,6 @@
         "s": "Mali-G720 MC8"
       },
       {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
-      },
-      {
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
@@ -35813,6 +35821,11 @@
         "d": "Adreno__TM__619",
         "m": "22111317PG",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       }
     ],
     "folders": [
