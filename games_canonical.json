@@ -11004,7 +11004,7 @@
     "name": "Survival: Fountain of Youth"
   },
   "19680": {
-    "config_count": 11,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -11028,8 +11028,7 @@
       }
     ],
     "folders": [
-      "Alice__Madness_Returns",
-      "Alice_-_Madness_Returns"
+      "Alice__Madness_Returns"
     ],
     "name": "Alice: Madness Returns"
   },
@@ -38350,8 +38349,14 @@
     "name": "Hakuoki: Edo Blossoms"
   },
   "740130": {
-    "config_count": 3,
-    "devices": [],
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
     "folders": [
       "Tales_of_ARISE",
       "Tales_of_Arise"
