@@ -455,14 +455,6 @@
     ],
     "name": "Postal III"
   },
-  "1026680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "FINAL_FANTASY_VIII_REMASTERED"
-    ],
-    "name": "FINAL FANTASY VIII - REMASTERED"
-  },
   "10270": {
     "config_count": 2,
     "devices": [],
@@ -1698,20 +1690,6 @@
       "People_Playground"
     ],
     "name": "People Playground"
-  },
-  "1118272": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__618",
-        "m": "M2007J20CG",
-        "s": "Adreno (TM) 618"
-      }
-    ],
-    "folders": [
-      "dirt_3"
-    ],
-    "name": "DiRT Rally 2.0 - Peugeot 306 Maxi"
   },
   "1118310": {
     "config_count": 1,
@@ -6472,14 +6450,6 @@
     ],
     "name": "Tested on Humans: Escape Room"
   },
-  "1486290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "eFootball_2026"
-    ],
-    "name": "Polyleague Manager 2026: Football Evolution"
-  },
   "1491410": {
     "config_count": 1,
     "devices": [
@@ -8373,7 +8343,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 108,
+    "config_count": 109,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -8527,7 +8497,8 @@
       "pes_2012",
       "pes_2013",
       "pes_2013_",
-      "pes__2013"
+      "pes__2013",
+      "eFootball_2026"
     ],
     "name": "eFootball\u2122"
   },
@@ -17899,14 +17870,6 @@
     ],
     "name": "Assetto Corsa"
   },
-  "244450": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Men_of_War_-_Assault_Squad_2"
-    ],
-    "name": "Men of War: Assault Squad 2"
-  },
   "2444750": {
     "config_count": 1,
     "devices": [],
@@ -23154,7 +23117,7 @@
     "name": "Portrait of a Torn"
   },
   "3059520": {
-    "config_count": 25,
+    "config_count": 21,
     "devices": [
       {
         "d": "G57_MC2",
@@ -23210,11 +23173,6 @@
         "d": "Adreno__TM__650",
         "m": "G780G",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "23129RA5FL",
-        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
@@ -24543,7 +24501,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2014,
+    "config_count": 2015,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -26242,6 +26200,14 @@
       "Heretic___Hexen"
     ],
     "name": "Heretic + Hexen"
+  },
+  "3287490": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GBVSR"
+    ],
+    "name": "GBVSR - Deluxe Character Pass 2"
   },
   "3287520": {
     "config_count": 1,
@@ -28555,14 +28521,6 @@
     ],
     "name": "Mafia III: Definitive Edition"
   },
-  "3604390": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GBVSR"
-    ],
-    "name": "GBVSR - Additional Character Set (Galleon)"
-  },
   "361420": {
     "config_count": 2,
     "devices": [
@@ -28630,6 +28588,14 @@
       "Samson"
     ],
     "name": "Samson"
+  },
+  "3635070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "cof"
+    ],
+    "name": "COF"
   },
   "3639070": {
     "config_count": 1,
@@ -30719,7 +30685,7 @@
     "name": "Rise of the Tomb Raider\u2122"
   },
   "39150": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -30729,7 +30695,8 @@
     ],
     "folders": [
       "FINAL_FANTASY_VIII",
-      "FINAL_FANTASY_VIII_-_REMASTERED"
+      "FINAL_FANTASY_VIII_-_REMASTERED",
+      "FINAL_FANTASY_VIII_REMASTERED"
     ],
     "name": "FINAL FANTASY VIII"
   },
@@ -37178,6 +37145,14 @@
     ],
     "name": "Journey"
   },
+  "64000": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Men_of_War_-_Assault_Squad_2"
+    ],
+    "name": "Men of War: Assault Squad"
+  },
   "640590": {
     "config_count": 1,
     "devices": [],
@@ -37902,16 +37877,22 @@
     "name": "Trine 4: The Nightmare Prince"
   },
   "690790": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__750",
         "m": "MEIZU_21",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "M2007J20CG",
+        "s": "Adreno (TM) 618"
       }
     ],
     "folders": [
-      "DiRT_Rally"
+      "DiRT_Rally",
+      "dirt_3"
     ],
     "name": "DiRT Rally 2.0"
   },
@@ -42665,6 +42646,20 @@
       "F_E_A_R__Platinum_Collection"
     ],
     "name": "F E A R Platinum Collection"
+  },
+  "name:f1-2014": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
+      }
+    ],
+    "folders": [
+      "F1_2014"
+    ],
+    "name": "F1 2014"
   },
   "name:fallout-new-vegas-pcr": {
     "config_count": 2,
