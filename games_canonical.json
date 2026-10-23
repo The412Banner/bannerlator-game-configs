@@ -15327,7 +15327,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 298,
+    "config_count": 300,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -15645,11 +15645,6 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
-      },
-      {
         "d": "Adreno__TM__810",
         "m": "NX1",
         "s": "Adreno (TM) 810"
@@ -15663,6 +15658,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -24550,7 +24550,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2015,
+    "config_count": 2016,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -27810,7 +27810,7 @@
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
   },
   "3493540": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G57_MC2",
@@ -31635,6 +31635,14 @@
     ],
     "name": "REANIMAL \u2013 Season Pass"
   },
+  "4113940": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sovereign_Tower"
+    ],
+    "name": "Sovereign Tower"
+  },
   "411830": {
     "config_count": 1,
     "devices": [],
@@ -35121,14 +35129,6 @@
       "dacapo"
     ],
     "name": "Da Capo"
-  },
-  "5201760": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "tra"
-    ],
-    "name": "ARC Raiders - Frozen Trail Collector Set"
   },
   "521890": {
     "config_count": 3,
@@ -44247,7 +44247,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3183,
+    "config_count": 3184,
     "devices": [
       {
         "d": "G52_MC2",
