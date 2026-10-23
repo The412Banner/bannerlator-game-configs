@@ -3,11 +3,6 @@
     "appid": null,
     "method": "unresolved"
   },
-  "2K_Sports_NBA_2K___": {
-    "appid": 4356430,
-    "method": "fuzzy",
-    "steam_name": "NBA 2K27"
-  },
   "33_Immortals": {
     "appid": 958520,
     "method": "naive",
@@ -45,10 +40,6 @@
     "method": "non-game"
   },
   "7Launcher_-_GTA_5_1_7_1_____________________________________": {
-    "appid": null,
-    "method": "non-game"
-  },
-  "7Launcher_-_GTA_5_1_7_3_____________________________________": {
     "appid": null,
     "method": "non-game"
   },
@@ -1732,6 +1723,12 @@
     "appid": 1579730,
     "method": "naive",
     "steam_name": "Online Adult Content Manager"
+  },
+  "Content_Warning": {
+    "appid": 2881650,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2881650/header.jpg",
+    "method": "naive",
+    "steam_name": "Content Warning"
   },
   "Contra__Operation_Galuga": {
     "appid": 2235020,

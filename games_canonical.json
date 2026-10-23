@@ -203,7 +203,7 @@
     "name": "The Long Drive"
   },
   "10180": {
-    "config_count": 47,
+    "config_count": 48,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -276,11 +276,6 @@
         "s": "Adreno (TM) 840"
       },
       {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
-      },
-      {
         "d": "PowerVR_Rogue_GE8320",
         "m": "Infinix_X6835B",
         "s": "PowerVR Rogue GE8320"
@@ -309,6 +304,11 @@
         "d": "Adreno__TM__720",
         "m": "motorola_edge_50_pro",
         "s": "Adreno (TM) 720"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       }
     ],
     "folders": [
@@ -11440,7 +11440,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11449,8 +11449,7 @@
       }
     ],
     "folders": [
-      "WolfNewOrder",
-      "Wolfenstein__2009_"
+      "WolfNewOrder"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -15897,7 +15896,7 @@
     "name": "Warframe"
   },
   "231120": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -21839,6 +21838,20 @@
     ],
     "name": "Mohrta"
   },
+  "2881650": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+        "m": "A566B",
+        "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
+      }
+    ],
+    "folders": [
+      "Content_Warning"
+    ],
+    "name": "Content Warning"
+  },
   "288470": {
     "config_count": 9,
     "devices": [
@@ -22780,7 +22793,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 7,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -22801,16 +22814,10 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -24536,7 +24543,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2013,
+    "config_count": 2014,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25439,11 +25446,6 @@
         "s": "Adreno (TM) 619"
       },
       {
-        "d": "Adreno__TM__732",
-        "m": "2410CRP4CG",
-        "s": "Adreno (TM) 732"
-      },
-      {
         "d": "Adreno__TM__735",
         "m": "24069PC21I",
         "s": "Adreno (TM) 735"
@@ -25777,6 +25779,11 @@
         "d": "G76_MC4",
         "m": "Mali",
         "s": "Mali-G76 MC4"
+      },
+      {
+        "d": "Adreno__TM__732",
+        "m": "2410CRP4CG",
+        "s": "Adreno (TM) 732"
       },
       {
         "d": "Adreno__TM__830",
@@ -26235,14 +26242,6 @@
       "Heretic___Hexen"
     ],
     "name": "Heretic + Hexen"
-  },
-  "3287490": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GBVSR"
-    ],
-    "name": "GBVSR - Deluxe Character Pass 2"
   },
   "3287520": {
     "config_count": 1,
@@ -28555,6 +28554,14 @@
       "Mafia_III__Definitive_Edition"
     ],
     "name": "Mafia III: Definitive Edition"
+  },
+  "3604390": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GBVSR"
+    ],
+    "name": "GBVSR - Additional Character Set (Galleon)"
   },
   "361420": {
     "config_count": 2,
@@ -32684,13 +32691,8 @@
     "name": "Pai Gow Poker by Pokerist"
   },
   "4356430": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
       {
         "d": "Adreno__TM__650",
         "m": "Lenovo_L79031",
@@ -32698,10 +32700,9 @@
       }
     ],
     "folders": [
-      "2K_Sports_NBA_2K___",
       "NBA_2K27"
     ],
-    "name": "NBA 2K27"
+    "name": "Nba 2K27"
   },
   "435800": {
     "config_count": 1,
@@ -36828,7 +36829,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -39978,7 +39979,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 135,
+    "config_count": 136,
     "devices": [
       {
         "d": "s5e8855",
@@ -40544,7 +40545,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 8,
     "devices": [
       {
         "d": "G615_MC6",
@@ -40560,10 +40561,16 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -44231,7 +44238,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3182,
+    "config_count": 3183,
     "devices": [
       {
         "d": "G52_MC2",
