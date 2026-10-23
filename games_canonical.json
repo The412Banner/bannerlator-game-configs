@@ -6585,7 +6585,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 116,
+    "config_count": 115,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -8863,7 +8863,7 @@
     "name": "Kusan: City of Wolves"
   },
   "1715130": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -12727,7 +12727,7 @@
     "name": "Crysis 2 Remastered"
   },
   "2096610": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "G720_MC7",
@@ -12738,7 +12738,8 @@
     "folders": [
       "Crysis",
       "Crysis_3",
-      "Crysis_3_Remastered"
+      "Crysis_3_Remastered",
+      "Crysis_Remastered"
     ],
     "name": "Crysis 3 Remastered"
   },
@@ -16580,7 +16581,7 @@
     "name": "War Thunder"
   },
   "236430": {
-    "config_count": 18,
+    "config_count": 21,
     "devices": [
       {
         "d": "G720_MC7",
@@ -16616,11 +16617,22 @@
         "d": "Adreno__TM__619",
         "m": "22111317PG",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
       "DARK_SOULS__II",
-      "DARK_SOULS_II"
+      "DARK_SOULS_II",
+      "DarkSoulsII"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -17899,6 +17911,14 @@
     ],
     "name": "Assetto Corsa"
   },
+  "244450": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Men_of_War_-_Assault_Squad_2"
+    ],
+    "name": "Men of War: Assault Squad 2"
+  },
   "2444750": {
     "config_count": 1,
     "devices": [],
@@ -18174,6 +18194,14 @@
       "grid2"
     ],
     "name": "GRID 2 Demo"
+  },
+  "2482190": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Power_Fantasy"
+    ],
+    "name": "Power Fantasy"
   },
   "2482940": {
     "config_count": 1,
@@ -28986,14 +29014,6 @@
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
-  },
   "3681010": {
     "config_count": 2,
     "devices": [
@@ -29247,7 +29267,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 42,
+    "config_count": 39,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -29325,16 +29345,6 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -29346,7 +29356,6 @@
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
       "DARK_SOULS_III",
-      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -37167,14 +37176,6 @@
     ],
     "name": "Journey"
   },
-  "64000": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Men_of_War_-_Assault_Squad_2"
-    ],
-    "name": "Men of War: Assault Squad"
-  },
   "640590": {
     "config_count": 1,
     "devices": [],
@@ -42753,13 +42754,13 @@
     ],
     "name": "Ffxiii"
   },
-  "name:fifa-20": {
-    "config_count": 1,
+  "name:fifa-13": {
+    "config_count": 2,
     "devices": [],
     "folders": [
-      "FIFA_20"
+      "FIFA_13"
     ],
-    "name": "Fifa 20"
+    "name": "Fifa 13"
   },
   "name:fifa14": {
     "config_count": 1,
@@ -46556,6 +46557,14 @@
       "Snapshot__Lewd_Shores"
     ],
     "name": "Snapshot Lewd Shores"
+  },
+  "name:sniper-ghost-warrior-1": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 1"
   },
   "name:sniper-x86": {
     "config_count": 1,
