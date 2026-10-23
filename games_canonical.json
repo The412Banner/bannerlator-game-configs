@@ -3057,7 +3057,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 461,
+    "config_count": 462,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -14790,7 +14790,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -14830,7 +14830,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev"
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -16682,6 +16683,20 @@
       "Europa_Universalis_IV"
     ],
     "name": "Europa Universalis IV"
+  },
+  "2369390": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "FarCry"
+    ],
+    "name": "Far Cry\u00ae 6"
   },
   "2370000": {
     "config_count": 1,
@@ -21425,7 +21440,7 @@
     "name": "Voxel Project VR"
   },
   "285900": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G52_MC2",
@@ -21446,6 +21461,11 @@
         "d": "G52",
         "m": "Mali",
         "s": "Mali-G52"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       }
     ],
     "folders": [
@@ -21719,7 +21739,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -21759,8 +21779,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -26100,6 +26119,14 @@
       "WintersWarmth"
     ],
     "name": "Moomintroll: Winter's Warmth"
+  },
+  "3259780": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "FINAL_FANTASY_RESONANCE"
+    ],
+    "name": "FINAL FANTASY RESONANCE"
   },
   "3265700": {
     "config_count": 3,
@@ -35660,7 +35687,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 21,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -35706,11 +35733,6 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -35719,8 +35741,7 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry",
-      "FarCry"
+      "far_cry"
     ],
     "name": "Far Cry\u00ae 5"
   },
