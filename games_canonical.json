@@ -14419,7 +14419,7 @@
     "name": "Total Chaos"
   },
   "221040": {
-    "config_count": 77,
+    "config_count": 78,
     "devices": [
       {
         "d": "G720_MC7",
@@ -14560,6 +14560,11 @@
         "d": "Adreno__TM__840",
         "m": "S948B",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "I2219",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__720",
