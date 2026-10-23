@@ -1,5 +1,12 @@
 [
   {
+    "game": "gamedata",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1792721336,
+    "filename": "gamedata-INFINIX-Infinix_X6873-Mali-G615_MC6-1792721336.json"
+  },
+  {
     "game": "Deadrock_Redemption",
     "manufacturer": "CPH2235",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1792643476,
     "filename": "Chained_Echoes-Xiaomi-26077PC53G-Adreno__TM__840-1792643476.json"
-  },
-  {
-    "game": "Another_Eden_Begins",
-    "manufacturer": "26077PC53G",
-    "device": "Adreno__TM__840",
-    "timestamp": 1792643462,
-    "filename": "Another_Eden_Begins-Xiaomi-26077PC53G-Adreno__TM__840-1792643462.json"
   }
 ]
