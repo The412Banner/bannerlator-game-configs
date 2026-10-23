@@ -1247,14 +1247,6 @@
     ],
     "name": "Helvetii"
   },
-  "109600": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Neverwinter"
-    ],
-    "name": "Neverwinter"
-  },
   "1096580": {
     "config_count": 3,
     "devices": [
@@ -1541,7 +1533,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1550,8 +1542,7 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid",
-      "Rangers"
+      "BattleForTheGrid"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -10079,14 +10070,6 @@
       "STALZONE"
     ],
     "name": "STALZONE"
-  },
-  "1820140": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "SlavicPunk_-_Oldtimer"
-    ],
-    "name": "SlavicPunk: Oldtimer"
   },
   "1840490": {
     "config_count": 1,
@@ -19488,22 +19471,16 @@
     "name": "Mount & Blade II: Bannerlord"
   },
   "261570": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__650",
         "m": "M2012K11AG",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Adreno__TM__710",
-        "m": "NX1",
-        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
-      "Ori_and_the_Blind_Forest",
-      "Ori_and_The_Blind_Forest_-_Definitive_Edition"
+      "Ori_and_the_Blind_Forest"
     ],
     "name": "Ori and the Blind Forest"
   },
@@ -22888,7 +22865,7 @@
     "name": "BEYBLADE X XONE"
   },
   "302510": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -22927,8 +22904,7 @@
       }
     ],
     "folders": [
-      "Ryse__Son_of_Rome",
-      "Ryse_-_Son_of_Rome"
+      "Ryse__Son_of_Rome"
     ],
     "name": "Ryse: Son of Rome"
   },
@@ -31774,14 +31750,6 @@
     ],
     "name": "Stardew Valley"
   },
-  "4133400": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "SMB"
-    ],
-    "name": "SMBH : Super Massive Black Hole"
-  },
   "413410": {
     "config_count": 1,
     "devices": [
@@ -38767,7 +38735,7 @@
     "name": "Blasphemous"
   },
   "775500": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [],
     "folders": [
       "SCARLET_NEXUS",
@@ -43912,6 +43880,14 @@
     ],
     "name": "Need For Speed Underground 2 Sil Edition"
   },
+  "name:neverwinter": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Neverwinter"
+    ],
+    "name": "Neverwinter"
+  },
   "name:nfs-most-wanted": {
     "config_count": 2,
     "devices": [
@@ -44131,6 +44107,20 @@
       "OpenBor_3_0_6391_May_2023_ZVitor_Fork"
     ],
     "name": "Openbor 3 0 6391 May 2023 Zvitor Fork"
+  },
+  "name:ori-and-the-blind-forest-definitive-edition": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
+      }
+    ],
+    "folders": [
+      "Ori_and_The_Blind_Forest_-_Definitive_Edition"
+    ],
+    "name": "Ori And The Blind Forest Definitive Edition"
   },
   "name:oriwotw": {
     "config_count": 1,
@@ -46310,6 +46300,14 @@
     ],
     "name": "Ranchrush"
   },
+  "name:rangers": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Rangers"
+  },
   "name:rdr2": {
     "config_count": 1,
     "devices": [],
@@ -46491,6 +46489,22 @@
     ],
     "name": "Rungame"
   },
+  "name:ryse-son-of-rome": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Ryse_-_Son_of_Rome"
+    ],
+    "name": "Ryse Son Of Rome"
+  },
+  "name:scarlet-nexus": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "SCARLET_NEXUS"
+    ],
+    "name": "Scarlet Nexus"
+  },
   "name:schedule-i-11arm": {
     "config_count": 1,
     "devices": [],
@@ -46592,6 +46606,14 @@
     ],
     "name": "Skyrimse"
   },
+  "name:slavicpunk-oldtimer": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "SlavicPunk_-_Oldtimer"
+    ],
+    "name": "Slavicpunk Oldtimer"
+  },
   "name:sly-cooper-and-the-thievius-raccoonus": {
     "config_count": 1,
     "devices": [],
@@ -46599,6 +46621,14 @@
       "Sly_Cooper_and_the_Thievius_Raccoonus"
     ],
     "name": "Sly Cooper And The Thievius Raccoonus"
+  },
+  "name:smb": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "SMB"
+    ],
+    "name": "Smb"
   },
   "name:snapshot-lewd-shores": {
     "config_count": 1,
