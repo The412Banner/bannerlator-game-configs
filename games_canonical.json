@@ -3857,7 +3857,7 @@
     "name": "Atri -My Dear Moments-"
   },
   "1230530": {
-    "config_count": 12,
+    "config_count": 8,
     "devices": [
       {
         "d": "G57_MC2",
@@ -3893,11 +3893,6 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
-      },
-      {
-        "d": "G57_MC4",
-        "m": "Mali",
-        "s": "Mali-G57 MC4"
       }
     ],
     "folders": [
@@ -3912,6 +3907,20 @@
       "Beach_Buggy_Racing_2_-_Island_Adventure"
     ],
     "name": "Beach Buggy Racing 2 - Island Adventure"
+  },
+  "12320": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred Gold"
   },
   "1232460": {
     "config_count": 1,
@@ -15332,7 +15341,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 297,
+    "config_count": 298,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -15655,11 +15664,6 @@
         "s": "Mali-G615 MC2"
       },
       {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      },
-      {
         "d": "Adreno__TM__810",
         "m": "NX1",
         "s": "Adreno (TM) 810"
@@ -15668,6 +15672,11 @@
         "d": "G52",
         "m": "Mali",
         "s": "Mali-G52"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -22765,7 +22774,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -22786,10 +22795,16 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -24515,7 +24530,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2007,
+    "config_count": 2009,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25751,6 +25766,11 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "V2441",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__830",
@@ -28200,6 +28220,46 @@
     ],
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
+  "3558670": {
+    "config_count": 20,
+    "devices": [
+      {
+        "d": "G57_MC4",
+        "m": "Mali",
+        "s": "Mali-G57 MC4"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
+      }
+    ],
+    "folders": [
+      "Atla",
+      "TombRaider"
+    ],
+    "name": "Tomb Raider: Legacy of Atlantis"
+  },
   "356190": {
     "config_count": 4,
     "devices": [
@@ -30279,20 +30339,6 @@
     ],
     "name": "TEKKEN 7"
   },
-  "3906660": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred 2 Remaster"
-  },
   "3909960": {
     "config_count": 1,
     "devices": [
@@ -30308,7 +30354,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 228,
+    "config_count": 212,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -30634,26 +30680,6 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
@@ -30661,8 +30687,7 @@
       "Rise_of_the_Tomb_Raider_",
       "Tomb_Raider",
       "Tomb_Raider_-_Definitive_Edition",
-      "Tomb_Raider_________________________________________________",
-      "TombRaider"
+      "Tomb_Raider_________________________________________________"
     ],
     "name": "Rise of the Tomb Raider\u2122"
   },
@@ -37839,11 +37864,10 @@
     "name": "Xenia"
   },
   "6880": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "Just_Cause",
-      "Just_Cause_2_-_Complete_Edition"
+      "Just_Cause"
     ],
     "name": "Just Cause"
   },
@@ -39359,7 +39383,7 @@
     "name": "Cash Grab - Hat Pack"
   },
   "8190": {
-    "config_count": 32,
+    "config_count": 33,
     "devices": [
       {
         "d": "Odin2",
@@ -39454,7 +39478,8 @@
     ],
     "folders": [
       "Just_Cause_2",
-      "JustCause2"
+      "JustCause2",
+      "Just_Cause_2_-_Complete_Edition"
     ],
     "name": "Just Cause 2"
   },
@@ -40506,7 +40531,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 8,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -40522,16 +40547,10 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -42846,6 +42865,14 @@
     ],
     "name": "Game Controller Test"
   },
+  "name:gamedata": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "gamedata"
+    ],
+    "name": "Gamedata"
+  },
   "name:gameloader": {
     "config_count": 1,
     "devices": [],
@@ -44191,7 +44218,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3181,
+    "config_count": 3182,
     "devices": [
       {
         "d": "G52_MC2",
