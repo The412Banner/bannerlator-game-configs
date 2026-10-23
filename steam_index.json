@@ -329,7 +329,6 @@
   "115320": [
     "Prototype",
     "Prototype_",
-    "Prototype_1",
     "Prototype_2",
     "Prototype___________________________________________________",
     "prototype2",
@@ -382,9 +381,6 @@
   "1174180": [
     "Red_Dead_Redemption_2",
     "re2"
-  ],
-  "1178830": [
-    "Bright_Memory__Infinite"
   ],
   "1182900": [
     "A_Plague_Tale__Requiem"
@@ -800,6 +796,9 @@
   ],
   "1340140": [
     "DRACU-RIOT_"
+  ],
+  "1340720": [
+    "StateOfDecay"
   ],
   "1343240": [
     "Thymesia"
@@ -1478,6 +1477,7 @@
     "DRAGON_BALL_Sparking__ZERO",
     "DRAGON_BALL__Sparking__ZERO",
     "DragonBall_SparkingZERO",
+    "SPARKING_ZERO",
     "SparkingZERO"
   ],
   "1792820": [
@@ -1509,6 +1509,9 @@
   ],
   "1803190": [
     "SimRail_-_The_Railway_Simulator__Prologue"
+  ],
+  "1805110": [
+    "Solarpunk"
   ],
   "1805320": [
     "Romestead"
@@ -1975,7 +1978,6 @@
     "MONSTER_HUNTER_FRONTIER"
   ],
   "209000": [
-    "BatmanOrigins",
     "Batman_Arkham_Origins",
     "Batman___Arkham_Origins"
   ],
@@ -2002,7 +2004,8 @@
   "2096610": [
     "Crysis",
     "Crysis_3",
-    "Crysis_3_Remastered"
+    "Crysis_3_Remastered",
+    "Crysis_Remastered"
   ],
   "2097570": [
     "StarVaders"
@@ -2544,7 +2547,8 @@
   ],
   "236430": [
     "DARK_SOULS_II",
-    "DARK_SOULS__II"
+    "DARK_SOULS__II",
+    "DarkSoulsII"
   ],
   "2365810": [
     "PSE_2013",
@@ -2656,7 +2660,6 @@
     "Wasteland_2_-_Director_s_Cut"
   ],
   "241540": [
-    "StateOfDecay",
     "State_of_Decay"
   ],
   "2416450": [
@@ -3648,6 +3651,7 @@
     "Platypus"
   ],
   "307690": [
+    "Sleeping_Dogs_Definitive_Edition",
     "Sleeping_Dogs__Definitive_Edition"
   ],
   "3077390": [
@@ -3788,7 +3792,6 @@
   ],
   "3159330": [
     "Assassin_S_creed_3_",
-    "Assassin_s_Creed",
     "Assassin_s_Creed_________"
   ],
   "3164500": [
@@ -4255,7 +4258,6 @@
   ],
   "35140": [
     "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
-    "Batman_Arkham_Asylum",
     "Batman__Arkham_Asylum_GOTY_Edition",
     "Batman__Arkham_Asylum_Game_of_the_Year_Edition"
   ],
@@ -4506,10 +4508,10 @@
     "DARK_SOULS",
     "DARK_SOULS_III",
     "DARK_SOULS__III",
-    "DarkSoulsII",
     "DarkSoulsIII",
     "DarkSoulsRemastered",
-    "Dark_Souls_III"
+    "Dark_Souls_III",
+    "Dark_Souls_Remastered"
   ],
   "3748640": [
     "Wasteland_Bites"
@@ -4517,6 +4519,9 @@
   "3751260": [
     "Dawnwalker",
     "bhd"
+  ],
+  "3751950": [
+    "Assassin_s_Creed"
   ],
   "375820": [
     "Human_Resource_Machine"
@@ -4992,9 +4997,6 @@
   "423230": [
     "Furi"
   ],
-  "423950": [
-    "Deadlight_-_Director_s_Cut"
-  ],
   "4241690": [
     "Hydra"
   ],
@@ -5139,7 +5141,6 @@
   "4435490": [
     "COD__Modern_Warfare",
     "Call_of_Duty_4",
-    "Call_of_Duty_4_Modern_Warfare",
     "Call_of_duty_Modern_Warfare",
     "call_of_duty_4_modern_Warfare"
   ],
@@ -5522,9 +5523,6 @@
   "5190450": [
     "dacapo"
   ],
-  "5201760": [
-    "tra"
-  ],
   "521890": [
     "Hello_Neighbor"
   ],
@@ -5655,8 +5653,7 @@
   "570940": [
     "DARK_SOULS_-_REMASTERED",
     "DARK_SOULS__REMASTERED",
-    "DARK_SOULS___REMASTERED",
-    "Dark_Souls_Remastered"
+    "DARK_SOULS___REMASTERED"
   ],
   "571310": [
     "Dig2",
@@ -5858,7 +5855,6 @@
     "The_Crew__2"
   ],
   "647830": [
-    "LEGOMARVEL",
     "LEGO__Marvel_Super_Heroes_2"
   ],
   "648350": [
@@ -6262,6 +6258,9 @@
     "Little_Nightmares_2",
     "Little_Nightmares_II"
   ],
+  "861090": [
+    "Prototype_1"
+  ],
   "863570": [
     "SuperSeducer"
   ],
@@ -6634,8 +6633,14 @@
   "name:baldisbasicsplusadvanced": [
     "BaldisBasicsPlusAdvanced"
   ],
+  "name:batman-arkham-asylum": [
+    "Batman_Arkham_Asylum"
+  ],
   "name:batmanac": [
     "BatmanAC"
+  ],
+  "name:batmanorigins": [
+    "BatmanOrigins"
   ],
   "name:battle-net-launcher": [
     "Battle_net_Launcher"
@@ -6687,6 +6692,12 @@
   ],
   "name:bootstrappackagedgame": [
     "BootstrapPackagedGame"
+  ],
+  "name:bright-memory-infinite": [
+    "Bright_Memory__Infinite"
+  ],
+  "name:call-of-duty-4-modern-warfare": [
+    "Call_of_Duty_4_Modern_Warfare"
   ],
   "name:call-of-duty-world-at-war-game": [
     "Call_of_Duty_-_World_at_War_Game"
@@ -6772,6 +6783,9 @@
   ],
   "name:dc-s-crawlered-man-enhanced": [
     "DC_s_Crawlered-Man_Enhanced"
+  ],
+  "name:deadlight-director-s-cut": [
+    "Deadlight_-_Director_s_Cut"
   ],
   "name:delta-force-extreme-2-2009": [
     "Delta_Force_____Extreme_2____2009_"
@@ -7498,9 +7512,6 @@
   "name:skyrimse": [
     "SkyrimSE"
   ],
-  "name:sleeping-dogs-definitive-edition": [
-    "Sleeping_Dogs_Definitive_Edition"
-  ],
   "name:sly-cooper-and-the-thievius-raccoonus": [
     "Sly_Cooper_and_the_Thievius_Raccoonus"
   ],
@@ -7513,9 +7524,6 @@
   "name:sniperv2launcher": [
     "SniperV2Launcher"
   ],
-  "name:solarpunk": [
-    "Solarpunk"
-  ],
   "name:sonic-robo-blast-2": [
     "Sonic_Robo_Blast_2"
   ],
@@ -7524,9 +7532,6 @@
   ],
   "name:sottr": [
     "SOTTR"
-  ],
-  "name:sparking-zero": [
-    "SPARKING_ZERO"
   ],
   "name:sparkingzero-win64-shipping": [
     "SparkingZERO-Win64-Shipping"

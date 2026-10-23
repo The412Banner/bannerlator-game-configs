@@ -2042,7 +2042,7 @@
     "name": "Horizon Zero Dawn\u2122 Complete Edition"
   },
   "115320": {
-    "config_count": 82,
+    "config_count": 81,
     "devices": [
       {
         "d": "Adreno__TM__640",
@@ -2176,7 +2176,6 @@
       "Prototype_2",
       "Prototype___________________________________________________",
       "prototype2",
-      "Prototype_1",
       "prototype_2"
     ],
     "name": "Prototype 2"
@@ -2429,7 +2428,7 @@
     "name": "FINAL FANTASY"
   },
   "1174180": {
-    "config_count": 63,
+    "config_count": 64,
     "devices": [
       {
         "d": "SM8750P",
@@ -2572,14 +2571,6 @@
       "re2"
     ],
     "name": "Red Dead Redemption 2"
-  },
-  "1178830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Bright_Memory__Infinite"
-    ],
-    "name": "Bright Memory: Infinite"
   },
   "1182900": {
     "config_count": 3,
@@ -3058,7 +3049,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 462,
+    "config_count": 463,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -5499,6 +5490,14 @@
       "DRACU-RIOT_"
     ],
     "name": "DRACU-RIOT!"
+  },
+  "1340720": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "StateOfDecay"
+    ],
+    "name": "State of Decay 3"
   },
   "1343240": {
     "config_count": 2,
@@ -8856,7 +8855,7 @@
     "name": "Kusan: City of Wolves"
   },
   "1715130": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -9358,7 +9357,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 177,
+    "config_count": 178,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -9620,6 +9619,7 @@
       "DRAGON_BALL_Sparking__ZERO",
       "DRAGON_BALL__Sparking__ZERO",
       "DragonBall_SparkingZERO",
+      "SPARKING_ZERO",
       "SparkingZERO"
     ],
     "name": "DRAGON BALL: Sparking! ZERO"
@@ -9739,6 +9739,14 @@
       "SimRail_-_The_Railway_Simulator__Prologue"
     ],
     "name": "SimRail - The Railway Simulator: Prologue"
+  },
+  "1805110": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Solarpunk"
+    ],
+    "name": "Solarpunk\u2122"
   },
   "1805320": {
     "config_count": 5,
@@ -12525,7 +12533,7 @@
     "name": "Sonic Frontiers: Monster Hunter Collaboration Pack"
   },
   "209000": {
-    "config_count": 17,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -12560,7 +12568,6 @@
     ],
     "folders": [
       "Batman___Arkham_Origins",
-      "BatmanOrigins",
       "Batman_Arkham_Origins"
     ],
     "name": "Batman\u2122: Arkham Origins"
@@ -12711,7 +12718,7 @@
     "name": "Crysis 2 Remastered"
   },
   "2096610": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "G720_MC7",
@@ -12722,7 +12729,8 @@
     "folders": [
       "Crysis",
       "Crysis_3",
-      "Crysis_3_Remastered"
+      "Crysis_3_Remastered",
+      "Crysis_Remastered"
     ],
     "name": "Crysis 3 Remastered"
   },
@@ -16564,7 +16572,7 @@
     "name": "War Thunder"
   },
   "236430": {
-    "config_count": 18,
+    "config_count": 21,
     "devices": [
       {
         "d": "G720_MC7",
@@ -16600,11 +16608,22 @@
         "d": "Adreno__TM__619",
         "m": "22111317PG",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
       "DARK_SOULS__II",
-      "DARK_SOULS_II"
+      "DARK_SOULS_II",
+      "DarkSoulsII"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -17163,7 +17182,7 @@
     "name": "Wasteland 2: Director's Cut"
   },
   "241540": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "G78",
@@ -17182,8 +17201,7 @@
       }
     ],
     "folders": [
-      "State_of_Decay",
-      "StateOfDecay"
+      "State_of_Decay"
     ],
     "name": "State of Decay"
   },
@@ -18233,7 +18251,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -22712,7 +22730,7 @@
     "name": "GET EVEN"
   },
   "3008130": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -23225,7 +23243,7 @@
     "name": "Platypus"
   },
   "307690": {
-    "config_count": 11,
+    "config_count": 14,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -23254,7 +23272,8 @@
       }
     ],
     "folders": [
-      "Sleeping_Dogs__Definitive_Edition"
+      "Sleeping_Dogs__Definitive_Edition",
+      "Sleeping_Dogs_Definitive_Edition"
     ],
     "name": "Sleeping Dogs: Definitive Edition"
   },
@@ -24002,23 +24021,11 @@
     "name": "Football Life Simulator"
   },
   "3159330": {
-    "config_count": 6,
-    "devices": [
-      {
-        "d": "Adreno__TM__810",
-        "m": "V2502",
-        "s": "Adreno (TM) 810"
-      },
-      {
-        "d": "Adreno__TM__720",
-        "m": "I2218",
-        "s": "Adreno (TM) 720"
-      }
-    ],
+    "config_count": 2,
+    "devices": [],
     "folders": [
       "Assassin_S_creed_3_",
-      "Assassin_s_Creed_________",
-      "Assassin_s_Creed"
+      "Assassin_s_Creed_________"
     ],
     "name": "Assassin\u2019s Creed Shadows"
   },
@@ -24533,7 +24540,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2016,
+    "config_count": 2017,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -27793,7 +27800,7 @@
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
   },
   "3493540": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G57_MC2",
@@ -27905,7 +27912,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 29,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -27971,7 +27978,6 @@
     "folders": [
       "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
       "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_Arkham_Asylum",
       "Batman__Arkham_Asylum_GOTY_Edition"
     ],
     "name": "Batman: Arkham Asylum Game of the Year Edition"
@@ -29340,19 +29346,14 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "S928B",
+        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
@@ -29361,9 +29362,9 @@
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
       "DARK_SOULS_III",
-      "DarkSoulsII",
       "DarkSoulsIII",
-      "Dark_Souls_III"
+      "Dark_Souls_III",
+      "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122 III"
   },
@@ -29389,6 +29390,25 @@
       "bhd"
     ],
     "name": "The Blood of Dawnwalker"
+  },
+  "3751950": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "Adreno__TM__810",
+        "m": "V2502",
+        "s": "Adreno (TM) 810"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "I2218",
+        "s": "Adreno (TM) 720"
+      }
+    ],
+    "folders": [
+      "Assassin_s_Creed"
+    ],
+    "name": "Assassin's Creed Black Flag Resynced"
   },
   "375820": {
     "config_count": 3,
@@ -31570,14 +31590,14 @@
         "s": "Mali-G57 MC2"
       },
       {
-        "d": "Adreno__TM__610",
-        "m": "23129RA5FL",
-        "s": "Adreno (TM) 610"
-      },
-      {
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "G720_MC7",
@@ -31588,12 +31608,12 @@
     "folders": [
       "Poppy_Playtime_Chapter_5",
       "Poppy_Playtime_Chapter__5",
+      "Poppy_Playtime__Chapter_5",
       "Poppy_Playtime_chapter_5_",
       "poppy_5",
       "poppy_playtime_5",
       "poppy_playtime_5_",
-      "poppy_playtime_chapter_5",
-      "Poppy_Playtime__Chapter_5"
+      "poppy_playtime_chapter_5"
     ],
     "name": "Poppy Playtime - Chapter 5"
   },
@@ -32170,14 +32190,6 @@
       "Furi"
     ],
     "name": "Furi"
-  },
-  "423950": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Deadlight_-_Director_s_Cut"
-    ],
-    "name": "Deadlight: Director's Cut"
   },
   "4241690": {
     "config_count": 1,
@@ -32894,7 +32906,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 6,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -32905,7 +32917,6 @@
     "folders": [
       "Call_of_Duty_4",
       "COD__Modern_Warfare",
-      "Call_of_Duty_4_Modern_Warfare",
       "Call_of_duty_Modern_Warfare",
       "call_of_duty_4_modern_Warfare"
     ],
@@ -34685,7 +34696,7 @@
     "name": "Trails in the Sky 2nd Chapter Demo"
   },
   "50130": {
-    "config_count": 40,
+    "config_count": 41,
     "devices": [
       {
         "d": "MT6781",
@@ -34726,11 +34737,6 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__830",
@@ -34776,6 +34782,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -35113,14 +35124,6 @@
       "dacapo"
     ],
     "name": "Da Capo"
-  },
-  "5201760": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "tra"
-    ],
-    "name": "ARC Raiders - Frozen Trail Collector Set"
   },
   "521890": {
     "config_count": 3,
@@ -36067,7 +36070,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 55,
+    "config_count": 52,
     "devices": [
       {
         "d": "G57",
@@ -36188,18 +36191,12 @@
         "d": "Adreno__TM__810",
         "m": "NX1",
         "s": "Adreno (TM) 810"
-      },
-      {
-        "d": "Adreno__TM__660",
-        "m": "S928B",
-        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
       "DARK_SOULS__REMASTERED",
       "DARK_SOULS___REMASTERED",
-      "DARK_SOULS_-_REMASTERED",
-      "Dark_Souls_Remastered"
+      "DARK_SOULS_-_REMASTERED"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
   },
@@ -37303,7 +37300,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -37322,8 +37319,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2",
-      "LEGOMARVEL"
+      "LEGO__Marvel_Super_Heroes_2"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -39790,6 +39786,14 @@
     ],
     "name": "Little Nightmares II"
   },
+  "861090": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Prototype_1"
+    ],
+    "name": "ONE PIECE World Seeker Extra Episode 1: Void Mirror Prototype"
+  },
   "863570": {
     "config_count": 1,
     "devices": [],
@@ -41778,6 +41782,14 @@
     ],
     "name": "Baldisbasicsplusadvanced"
   },
+  "name:batman-arkham-asylum": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Batman_Arkham_Asylum"
+    ],
+    "name": "Batman Arkham Asylum"
+  },
   "name:batmanac": {
     "config_count": 2,
     "devices": [],
@@ -41785,6 +41797,14 @@
       "BatmanAC"
     ],
     "name": "Batmanac"
+  },
+  "name:batmanorigins": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "BatmanOrigins"
+    ],
+    "name": "Batmanorigins"
   },
   "name:battle-net-launcher": {
     "config_count": 1,
@@ -41997,6 +42017,22 @@
       "BootstrapPackagedGame"
     ],
     "name": "Bootstrappackagedgame"
+  },
+  "name:bright-memory-infinite": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Bright_Memory__Infinite"
+    ],
+    "name": "Bright Memory Infinite"
+  },
+  "name:call-of-duty-4-modern-warfare": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Call_of_Duty_4_Modern_Warfare"
+    ],
+    "name": "Call Of Duty 4 Modern Warfare"
   },
   "name:call-of-duty-world-at-war-game": {
     "config_count": 1,
@@ -42269,6 +42305,14 @@
       "DC_s_Crawlered-Man_Enhanced"
     ],
     "name": "Dc S Crawlered Man Enhanced"
+  },
+  "name:deadlight-director-s-cut": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Deadlight_-_Director_s_Cut"
+    ],
+    "name": "Deadlight Director S Cut"
   },
   "name:delta-force-extreme-2-2009": {
     "config_count": 1,
@@ -44239,7 +44283,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3187,
+    "config_count": 3188,
     "devices": [
       {
         "d": "G52_MC2",
@@ -45220,6 +45264,11 @@
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "Adreno__TM__740",
@@ -46543,14 +46592,6 @@
     ],
     "name": "Skyrimse"
   },
-  "name:sleeping-dogs-definitive-edition": {
-    "config_count": 3,
-    "devices": [],
-    "folders": [
-      "Sleeping_Dogs_Definitive_Edition"
-    ],
-    "name": "Sleeping Dogs Definitive Edition"
-  },
   "name:sly-cooper-and-the-thievius-raccoonus": {
     "config_count": 1,
     "devices": [],
@@ -46589,14 +46630,6 @@
     ],
     "name": "Sniperv2Launcher"
   },
-  "name:solarpunk": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Solarpunk"
-    ],
-    "name": "Solarpunk"
-  },
   "name:sonic-robo-blast-2": {
     "config_count": 1,
     "devices": [],
@@ -46626,14 +46659,6 @@
       "SOTTR"
     ],
     "name": "Sottr"
-  },
-  "name:sparking-zero": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "SPARKING_ZERO"
-    ],
-    "name": "Sparking Zero"
   },
   "name:sparkingzero-win64-shipping": {
     "config_count": 4,
