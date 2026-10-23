@@ -2836,32 +2836,10 @@
     "name": "Phonopolis"
   },
   "1206560": {
-    "config_count": 15,
-    "devices": [
-      {
-        "d": "Adreno__TM__640",
-        "m": "RMX1931",
-        "s": "Adreno (TM) 640"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "CPH2447",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Immortalis_MC12",
-        "m": "G925",
-        "s": "Mali-G925-Immortalis MC12"
-      },
-      {
-        "d": "Adreno__TM__840",
-        "m": "2607APCA5G",
-        "s": "Adreno (TM) 840"
-      }
-    ],
+    "config_count": 3,
+    "devices": [],
     "folders": [
       "WorldBox_-_God_Simulator",
-      "GoW",
       "worldbox"
     ],
     "name": "WorldBox - God Simulator"
@@ -3930,20 +3908,6 @@
     ],
     "name": "Beach Buggy Racing 2 - Island Adventure"
   },
-  "12320": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred Gold"
-  },
   "1232460": {
     "config_count": 1,
     "devices": [
@@ -4083,7 +4047,7 @@
     "name": "Mass Effect\u2122 3 N7 Digital Deluxe Edition (2012)"
   },
   "1238060": {
-    "config_count": 14,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -6508,14 +6472,6 @@
     ],
     "name": "Tested on Humans: Escape Room"
   },
-  "1486290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "eFootball_2026"
-    ],
-    "name": "Polyleague Manager 2026: Football Evolution"
-  },
   "1491410": {
     "config_count": 1,
     "devices": [
@@ -8409,7 +8365,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 108,
+    "config_count": 109,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -8563,7 +8519,8 @@
       "pes_2012",
       "pes_2013",
       "pes_2013_",
-      "pes__2013"
+      "pes__2013",
+      "eFootball_2026"
     ],
     "name": "eFootball\u2122"
   },
@@ -8738,7 +8695,7 @@
     "name": "Persona 5 Royal"
   },
   "1693980": {
-    "config_count": 24,
+    "config_count": 26,
     "devices": [
       {
         "d": "G68",
@@ -8798,7 +8755,8 @@
     ],
     "folders": [
       "Dead_Space",
-      "Dead_Space__"
+      "Dead_Space__",
+      "Dead_Space_3"
     ],
     "name": "Dead Space"
   },
@@ -10781,7 +10739,7 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 4,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -10791,8 +10749,7 @@
     ],
     "folders": [
       "MAFIA",
-      "Mafia",
-      "Mafia_-_Definitive_Edition"
+      "Mafia"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -11476,7 +11433,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11485,8 +11442,7 @@
       }
     ],
     "folders": [
-      "WolfNewOrder",
-      "Wolfenstein__2009_"
+      "WolfNewOrder"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -11958,33 +11914,8 @@
     "name": "Hitman: Absolution\u2122"
   },
   "203160": {
-    "config_count": 33,
+    "config_count": 17,
     "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
-      },
       {
         "d": "Adreno__TM__740",
         "m": "S911U",
@@ -12012,12 +11943,11 @@
       }
     ],
     "folders": [
-      "TombRaider",
       "Tomb_Raider",
       "Tomb_Raider_2013",
       "Tomb_Raider_Game_of_the_Year"
     ],
-    "name": "Tomb Raider Game of the Year"
+    "name": "Tomb Raider"
   },
   "203650": {
     "config_count": 3,
@@ -12101,7 +12031,7 @@
     "name": "Max Payne 3"
   },
   "204340": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "Sam2"
@@ -12775,7 +12705,7 @@
     "name": "Call of Duty\u00ae: Advanced Warfare - Gold Edition"
   },
   "2096600": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "G77_MC9",
@@ -12784,8 +12714,7 @@
       }
     ],
     "folders": [
-      "Crysis2",
-      "Crysis_2"
+      "Crysis2"
     ],
     "name": "Crysis 2 Remastered"
   },
@@ -14906,20 +14835,6 @@
     ],
     "name": "Insurgency"
   },
-  "2229870": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      }
-    ],
-    "folders": [
-      "Command_and_Conquer_Generals_Deluxe_Edition"
-    ],
-    "name": "Command & Conquer\u2122 Generals"
-  },
   "22300": {
     "config_count": 20,
     "devices": [
@@ -16239,7 +16154,7 @@
     "name": "Castlevania: Lords of Shadow \u2013 Ultimate Edition"
   },
   "234140": {
-    "config_count": 17,
+    "config_count": 15,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -16290,16 +16205,6 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "Adreno__TM__735",
-        "m": "24069PC21G",
-        "s": "Adreno (TM) 735"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "F741B",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -18594,7 +18499,7 @@
     "name": "STORY OF SEASONS: Grand Bazaar"
   },
   "250900": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -18610,8 +18515,7 @@
     "folders": [
       "The_Binding_of_Isaac__Rebirth",
       "The_Binding_of_Isaac_-_Rebirth",
-      "The_Binding_of_Isaac_Rebirth",
-      "bin"
+      "The_Binding_of_Isaac_Rebirth"
     ],
     "name": "The Binding of Isaac: Rebirth"
   },
@@ -18791,6 +18695,40 @@
       "Denshattack_"
     ],
     "name": "Denshattack"
+  },
+  "2525380": {
+    "config_count": 16,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
+      }
+    ],
+    "folders": [
+      "TombRaider"
+    ],
+    "name": "Tomb Raider IV-VI Remastered"
   },
   "2527160": {
     "config_count": 3,
@@ -19300,7 +19238,7 @@
     "name": "Promise Mascot Agency"
   },
   "2590240": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "metro"
@@ -22168,7 +22106,7 @@
     "name": "ONE PIECE Bounty Rush"
   },
   "292030": {
-    "config_count": 19,
+    "config_count": 18,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -22194,11 +22132,6 @@
         "d": "Adreno__TM__830",
         "m": "CPH2653",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "V2425A",
-        "s": "Adreno (TM) 750"
       },
       {
         "d": "G57_MC2",
@@ -22228,7 +22161,6 @@
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
       "The_Witcher_3_-_Wild_Hunt___Remastered",
-      "Witcher_1",
       "_Witcher",
       "witcher3"
     ],
@@ -27301,6 +27233,14 @@
     ],
     "name": "Heavy Weapon Deluxe"
   },
+  "3419290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN"
+  },
   "341940": {
     "config_count": 4,
     "devices": [
@@ -28851,9 +28791,10 @@
     "name": "Drift Legends 2"
   },
   "3669870": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [],
     "folders": [
+      "Control_Ultimate_Edition",
       "control"
     ],
     "name": "CONTROL Resonant"
@@ -30078,6 +30019,14 @@
     ],
     "name": "Case Blind: Stolen Route"
   },
+  "3858850": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Hydra"
+    ],
+    "name": "Hydra Heli"
+  },
   "3859430": {
     "config_count": 1,
     "devices": [
@@ -30407,6 +30356,20 @@
       "Tekken_7"
     ],
     "name": "TEKKEN 7"
+  },
+  "3906660": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred 2 Remaster"
   },
   "3909960": {
     "config_count": 1,
@@ -31095,7 +31058,7 @@
     "name": "Click the Button"
   },
   "3949040": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "RV_There_Yet_"
@@ -31227,14 +31190,6 @@
       "The_Spike"
     ],
     "name": "The Spike Cross"
-  },
-  "3985080": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN - Costume Expansion Pack"
   },
   "400": {
     "config_count": 4,
@@ -31604,6 +31559,15 @@
       "BioShock_2_Remastered"
     ],
     "name": "BioShock\u2122 2 Remastered"
+  },
+  "40990": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Mafia",
+      "Mafia_-_Definitive_Edition"
+    ],
+    "name": "Mafia"
   },
   "4100940": {
     "config_count": 9,
@@ -32223,14 +32187,6 @@
     ],
     "name": "Deadlight: Director's Cut"
   },
-  "4241690": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Hydra"
-    ],
-    "name": "Hydra Heli 2"
-  },
   "424280": {
     "config_count": 1,
     "devices": [
@@ -32708,12 +32664,32 @@
     "name": "The Final Station"
   },
   "4355320": {
-    "config_count": 5,
+    "config_count": 17,
     "devices": [
       {
         "d": "Adreno__TM__740",
         "m": "S911B",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__640",
+        "m": "RMX1931",
+        "s": "Adreno (TM) 640"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "CPH2447",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Immortalis_MC12",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC12"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "2607APCA5G",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
@@ -33168,14 +33144,6 @@
     ],
     "name": "Pub Encounter"
   },
-  "447530": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "VA-11_Hall_A"
-    ],
-    "name": "VA-11 Hall-A: Cyberpunk Bartender Action"
-  },
   "447960": {
     "config_count": 1,
     "devices": [
@@ -33434,14 +33402,6 @@
     ],
     "name": "Ultra Street Fighter\u00ae IV"
   },
-  "4576490": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "CasualtiesUnknown"
-    ],
-    "name": "Casualties: Unknown"
-  },
   "4576510": {
     "config_count": 1,
     "devices": [
@@ -33499,20 +33459,6 @@
       "Bayonetta"
     ],
     "name": "Bayonetta"
-  },
-  "460810": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "S918U1",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "Vanquish"
-    ],
-    "name": "Vanquish"
   },
   "460930": {
     "config_count": 1,
@@ -36852,7 +36798,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -39871,7 +39817,7 @@
     "name": "The Walking Dead: The Final Season"
   },
   "870780": {
-    "config_count": 5,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "CONTROL_Ultimate_Edition",
@@ -40524,6 +40470,14 @@
     ],
     "name": "Cartoony Cars 2"
   },
+  "917040": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "KikiKaikai"
+    ],
+    "name": "Groove Coaster - KIKIKAIKAI"
+  },
   "919410": {
     "config_count": 1,
     "devices": [
@@ -40727,14 +40681,6 @@
       "Far_Cry__New_Dawn"
     ],
     "name": "Far Cry\u00ae New Dawn"
-  },
-  "940190": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Chuckie_Egg_3"
-    ],
-    "name": "Chuckie Egg 2017"
   },
   "940910": {
     "config_count": 1,
@@ -41897,6 +41843,14 @@
     ],
     "name": "Bh6"
   },
+  "name:bin": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "bin"
+    ],
+    "name": "Bin"
+  },
   "name:bio4": {
     "config_count": 3,
     "devices": [
@@ -42043,6 +41997,14 @@
     ],
     "name": "Castlevaniasoh"
   },
+  "name:casualtiesunknown": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "CasualtiesUnknown"
+    ],
+    "name": "Casualtiesunknown"
+  },
   "name:cdmwthemocs2": {
     "config_count": 1,
     "devices": [],
@@ -42050,6 +42012,14 @@
       "CDMWTHEMOCS2"
     ],
     "name": "Cdmwthemocs2"
+  },
+  "name:chuckie-egg-3": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Chuckie_Egg_3"
+    ],
+    "name": "Chuckie Egg 3"
   },
   "name:civilization-ii-multiplayer-gold-edition": {
     "config_count": 1,
@@ -42143,6 +42113,20 @@
     ],
     "name": "Colony City 27 Lambda"
   },
+  "name:command-and-conquer-generals-deluxe-edition": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
+      }
+    ],
+    "folders": [
+      "Command_and_Conquer_Generals_Deluxe_Edition"
+    ],
+    "name": "Command And Conquer Generals Deluxe Edition"
+  },
   "name:conkerrecomp": {
     "config_count": 1,
     "devices": [],
@@ -42202,6 +42186,14 @@
       "Cricket07"
     ],
     "name": "Cricket07"
+  },
+  "name:crysis-2": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Crysis_2"
+    ],
+    "name": "Crysis 2"
   },
   "name:crysis64": {
     "config_count": 1,
@@ -43431,14 +43423,6 @@
     ],
     "name": "Kick Win"
   },
-  "name:kikikaikai": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "KikiKaikai"
-    ],
-    "name": "Kikikaikai"
-  },
   "name:kinebox": {
     "config_count": 1,
     "devices": [
@@ -43528,6 +43512,25 @@
       "LunaAbyss-WinGDK-Shipping"
     ],
     "name": "Lunaabyss Wingdk Shipping"
+  },
+  "name:mad-max": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "F741B",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "mad_max"
+    ],
+    "name": "Mad Max"
   },
   "name:marvel-s-guardians-of-the-galaxy-the-telltale-series": {
     "config_count": 1,
@@ -47030,6 +47033,28 @@
     ],
     "name": "Unity Playback Engine"
   },
+  "name:va-11-hall-a": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "VA-11_Hall_A"
+    ],
+    "name": "Va 11 Hall A"
+  },
+  "name:vanquish": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "S918U1",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Vanquish"
+    ],
+    "name": "Vanquish"
+  },
   "name:victoria-ii-civil-war-edition": {
     "config_count": 1,
     "devices": [],
@@ -47077,6 +47102,20 @@
       "Wasteland_3_Colorado_Survival_Gear_DLC"
     ],
     "name": "Wasteland 3 Colorado Survival Gear Dlc"
+  },
+  "name:witcher-1": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "V2425A",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Witcher_1"
+    ],
+    "name": "Witcher 1"
   },
   "name:wizard-school-exchange-student": {
     "config_count": 1,
