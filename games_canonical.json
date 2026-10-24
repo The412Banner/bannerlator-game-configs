@@ -1023,14 +1023,6 @@
     ],
     "name": "Electrician Simulator"
   },
-  "1080920": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GRID_2"
-    ],
-    "name": "Defense Grid 2 - Aftermath"
-  },
   "108600": {
     "config_count": 4,
     "devices": [],
@@ -1299,7 +1291,7 @@
     "name": "Commandos 2 - HD Remaster"
   },
   "1103780": {
-    "config_count": 41,
+    "config_count": 42,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -1372,14 +1364,14 @@
         "s": "Mali-G57"
       },
       {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      },
-      {
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       },
       {
         "d": "Adreno__TM__619",
@@ -14715,7 +14707,7 @@
     "name": "Five Nights at Freddy's: Secret of the Mimic"
   },
   "221540": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -24255,7 +24247,7 @@
     "name": "Mall Simulator"
   },
   "3183760": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -24623,7 +24615,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2020,
+    "config_count": 2023,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -28911,7 +28903,7 @@
     "name": "Dragon's Dogma: Dark Arisen"
   },
   "367520": {
-    "config_count": 36,
+    "config_count": 37,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -33291,6 +33283,20 @@
       "Gold_Mining_Simulator"
     ],
     "name": "Gold Mining Simulator"
+  },
+  "4523200": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "I2501",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "SO2R"
+    ],
+    "name": "Diablo II: Resurrected - Original Soundtrack"
   },
   "4533800": {
     "config_count": 1,
@@ -38737,20 +38743,6 @@
       "Russian_Fishing_4"
     ],
     "name": "Russian Fishing 4"
-  },
-  "768520": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "I2501",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "SO2R"
-    ],
-    "name": "Red Solstice 2: Survivors"
   },
   "773700": {
     "config_count": 1,
