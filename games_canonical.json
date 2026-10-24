@@ -1997,6 +1997,14 @@
     ],
     "name": "DOOM 64"
   },
+  "1150230": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "nostalgia_5_0"
+    ],
+    "name": "VR Nostalgia 5"
+  },
   "1151380": {
     "config_count": 1,
     "devices": [
@@ -6617,7 +6625,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 115,
+    "config_count": 118,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -11501,7 +11509,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11510,7 +11518,8 @@
       }
     ],
     "folders": [
-      "WolfNewOrder"
+      "WolfNewOrder",
+      "Wolfenstein__2009_"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -14135,7 +14144,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 134,
+    "config_count": 135,
     "devices": [
       {
         "d": "G52_MC2",
@@ -18319,7 +18328,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -28611,7 +28620,7 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae II"
   },
   "3595270": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G68",
@@ -28620,8 +28629,7 @@
       }
     ],
     "folders": [
-      "Call_of_Duty___Modern_Warfare__III",
-      "Call_of_Duty_-_Modern_Warfare_3__2011_"
+      "Call_of_Duty___Modern_Warfare__III"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae III"
   },
@@ -31491,14 +31499,6 @@
     ],
     "name": "Shift At Midnight Multiplayer Demo"
   },
-  "405310": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "LEGO_MARVEL_s_Avengers"
-    ],
-    "name": "LEGO\u00ae MARVEL's Avengers"
-  },
   "405820": {
     "config_count": 1,
     "devices": [],
@@ -32438,7 +32438,7 @@
     "name": "Innocent Assault SS"
   },
   "42680": {
-    "config_count": 40,
+    "config_count": 41,
     "devices": [
       {
         "d": "Infinix_X6833B",
@@ -32527,9 +32527,18 @@
       }
     ],
     "folders": [
-      "Call_of_Duty___Modern_Warfare__3__2011_"
+      "Call_of_Duty___Modern_Warfare__3__2011_",
+      "Call_of_Duty_-_Modern_Warfare_3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
+  },
+  "426860": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "LEGO_MARVEL_s_Avengers"
+    ],
+    "name": "LEGO\u00ae MARVEL's Avengers Season Pass"
   },
   "42700": {
     "config_count": 2,
@@ -33840,6 +33849,20 @@
       "MECCHA_CHAMELEON"
     ],
     "name": "MECCHA CHAMELEON"
+  },
+  "4712060": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
+        "m": "S908B",
+        "s": "ANGLE ((Samsung Xclipse 920) on Vulkan 1.3.279)"
+      }
+    ],
+    "folders": [
+      "SarahsHouse"
+    ],
+    "name": "Sarah's House"
   },
   "474960": {
     "config_count": 1,
@@ -36547,7 +36570,7 @@
     "name": "Trailmakers"
   },
   "586140": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "BLAZBLUE_CENTRALFICTION",
@@ -36999,7 +37022,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -37466,7 +37489,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -37485,7 +37508,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2"
+      "LEGO__Marvel_Super_Heroes_2",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -42123,14 +42147,6 @@
     ],
     "name": "Blazblue Central Fiction"
   },
-  "name:blazblue-centralfiction": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "BLAZBLUE_CENTRALFICTION"
-    ],
-    "name": "Blazblue Centralfiction"
-  },
   "name:bmlauncher": {
     "config_count": 2,
     "devices": [
@@ -42933,20 +42949,6 @@
       "FFXIII"
     ],
     "name": "Ffxiii"
-  },
-  "name:fifa-23": {
-    "config_count": 3,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "FIFA_23"
-    ],
-    "name": "Fifa 23"
   },
   "name:fifa14": {
     "config_count": 1,
@@ -44170,14 +44172,6 @@
     ],
     "name": "Nierautomatacompat"
   },
-  "name:nostalgia-5-0": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "nostalgia_5_0"
-    ],
-    "name": "Nostalgia 5 0"
-  },
   "name:nsuns-4": {
     "config_count": 1,
     "devices": [],
@@ -44448,7 +44442,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3195,
+    "config_count": 3196,
     "devices": [
       {
         "d": "G52_MC2",

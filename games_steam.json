@@ -9395,6 +9395,12 @@
     "appid": null,
     "method": "unresolved"
   },
+  "SarahsHouse": {
+    "appid": 4712060,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/4712060/header.jpg",
+    "method": "naive",
+    "steam_name": "Sarah's House"
+  },
   "Satisfactory": {
     "appid": 526870,
     "method": "naive",
@@ -12366,7 +12372,6 @@
   },
   "black": {
     "appid": 582660,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/582660/header.jpg",
     "method": "naive",
     "steam_name": "Black Desert"
   },
