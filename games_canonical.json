@@ -4952,7 +4952,7 @@
     "name": "Redmatch 2"
   },
   "1281630": {
-    "config_count": 3,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -10782,7 +10782,7 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -10792,7 +10792,8 @@
     ],
     "folders": [
       "MAFIA",
-      "Mafia"
+      "Mafia",
+      "Mafia_-_Definitive_Edition"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -31664,15 +31665,6 @@
     ],
     "name": "BioShock\u2122 2 Remastered"
   },
-  "40990": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Mafia",
-      "Mafia_-_Definitive_Edition"
-    ],
-    "name": "Mafia"
-  },
   "4100940": {
     "config_count": 9,
     "devices": [
@@ -41787,20 +41779,6 @@
       "amtrucks"
     ],
     "name": "Amtrucks"
-  },
-  "name:anno-1404-addon-history-edition": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "PLQ110",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "Anno_1404_-_Addon_-_History_Edition"
-    ],
-    "name": "Anno 1404 Addon History Edition"
   },
   "name:aoe2de": {
     "config_count": 1,
