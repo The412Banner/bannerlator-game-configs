@@ -265,9 +265,6 @@
   "1118200": [
     "People_Playground"
   ],
-  "1118272": [
-    "dirt_3"
-  ],
   "1118310": [
     "RetroArch"
   ],
@@ -1519,9 +1516,6 @@
   "1803190": [
     "SimRail_-_The_Railway_Simulator__Prologue"
   ],
-  "1805110": [
-    "Solarpunk"
-  ],
   "1805320": [
     "Romestead"
   ],
@@ -1989,7 +1983,6 @@
   ],
   "209000": [
     "BatmanOrigins",
-    "Batman_Arkham_Origins",
     "Batman___Arkham_Origins"
   ],
   "209120": [
@@ -2000,7 +1993,6 @@
     "Call_of_Duty___Ghosts"
   ],
   "20920": [
-    "The_Witcher_2_-_Assassins_of_Kings_Enhanced_Edition",
     "The_Witcher_2_-_Assassins_of_Kings_Enhanced_Edition_________",
     "The_Witcher_2_Game",
     "The_Witcher_2__Assassins_of_Kings_Enhanced_Edition"
@@ -2474,6 +2466,9 @@
   "2321780": [
     "Starship_Troopers__Ultimate_Bug_War_"
   ],
+  "2322010": [
+    "GoW"
+  ],
   "2324290": [
     "PAC-MAN_WORLD_2_Re-PAC"
   ],
@@ -2557,7 +2552,8 @@
   ],
   "236430": [
     "DARK_SOULS_II",
-    "DARK_SOULS__II"
+    "DARK_SOULS__II",
+    "DarkSoulsII"
   ],
   "2365810": [
     "PSE_2013",
@@ -2925,9 +2921,6 @@
   ],
   "2524850": [
     "Denshattack_"
-  ],
-  "2525380": [
-    "TombRaider"
   ],
   "2527160": [
     "Explorer__"
@@ -3477,9 +3470,6 @@
   "291550": [
     "Brawlhalla"
   ],
-  "291650": [
-    "Pillars_of_Eternity"
-  ],
   "2918150": [
     "ONE_PIECE_Bounty_Rush"
   ],
@@ -3684,9 +3674,6 @@
   ],
   "3089420": [
     "Prop_Sumo"
-  ],
-  "3091140": [
-    "LootBound"
   ],
   "3092360": [
     "Super_Alloy_Crush"
@@ -4001,9 +3988,6 @@
   ],
   "3287520": [
     "NINJA_GAIDEN_2_Black"
-  ],
-  "3287910": [
-    "MadMax_Game"
   ],
   "329050": [
     "DEVIL_MAY_CRY_4",
@@ -4527,7 +4511,6 @@
     "DARK_SOULS",
     "DARK_SOULS_III",
     "DARK_SOULS__III",
-    "DarkSoulsII",
     "DarkSoulsIII",
     "DarkSoulsRemastered",
     "Dark_Souls_III"
@@ -4706,6 +4689,7 @@
   "391220": [
     "Rise_of_the_Tomb_Raider",
     "Rise_of_the_Tomb_Raider_",
+    "TombRaider",
     "Tomb_Raider",
     "Tomb_Raider_-_Definitive_Edition",
     "Tomb_Raider_________________________________________________"
@@ -4931,9 +4915,6 @@
   "4122990": [
     "ZAT"
   ],
-  "4123760": [
-    "Football_Life_2026"
-  ],
   "413150": [
     "Stardew_Valley"
   ],
@@ -5066,6 +5047,9 @@
   ],
   "427520": [
     "Factorio"
+  ],
+  "4282640": [
+    "LootBound"
   ],
   "428690": [
     "YoutubersLife"
@@ -5984,7 +5968,8 @@
     "Trine_4__The_Nightmare_Prince"
   ],
   "690790": [
-    "DiRT_Rally"
+    "DiRT_Rally",
+    "dirt_3"
   ],
   "690830": [
     "Foundation"
@@ -6663,6 +6648,9 @@
   "name:baldisbasicsplusadvanced": [
     "BaldisBasicsPlusAdvanced"
   ],
+  "name:batman-arkham-origins": [
+    "Batman_Arkham_Origins"
+  ],
   "name:batmanac": [
     "BatmanAC"
   ],
@@ -6838,6 +6826,9 @@
   "name:dragon-ball-fighters-z": [
     "Dragon_Ball_Fighters_Z"
   ],
+  "name:dragon-s-dogma-dark-arisen": [
+    "Dragon_s_Dogma__Dark_Arisen"
+  ],
   "name:dragonballzkakarot": [
     "DRAGONBALLZKAKAROT"
   ],
@@ -6933,6 +6924,9 @@
   ],
   "name:final-fantasy-renaissance": [
     "Final_Fantasy_Renaissance"
+  ],
+  "name:football-life-2026": [
+    "Football_Life_2026"
   ],
   "name:frozen-throne": [
     "Frozen_Throne"
@@ -7114,6 +7108,9 @@
   ],
   "name:lunaabyss-wingdk-shipping": [
     "LunaAbyss-WinGDK-Shipping"
+  ],
+  "name:madmax-game": [
+    "MadMax_Game"
   ],
   "name:marvel-s-guardians-of-the-galaxy-the-telltale-series": [
     "Marvel_s_Guardians_of_the_Galaxy_-_The_Telltale_Series"
@@ -7398,6 +7395,9 @@
   "name:pes6": [
     "pes6"
   ],
+  "name:pillars-of-eternity": [
+    "Pillars_of_Eternity"
+  ],
   "name:pkhdgame-win32-shipping": [
     "PKHDGame-Win32-Shipping"
   ],
@@ -7542,6 +7542,9 @@
   "name:sniperv2launcher": [
     "SniperV2Launcher"
   ],
+  "name:solarpunk": [
+    "Solarpunk"
+  ],
   "name:sonic-robo-blast-2": [
     "Sonic_Robo_Blast_2"
   ],
@@ -7623,6 +7626,9 @@
   ],
   "name:the-sims-2-launcher": [
     "The_Sims_2_Launcher"
+  ],
+  "name:the-witcher-2-assassins-of-kings-enhanced-edition": [
+    "The_Witcher_2_-_Assassins_of_Kings_Enhanced_Edition"
   ],
   "name:thps12": [
     "THPS12"

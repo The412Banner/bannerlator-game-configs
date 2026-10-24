@@ -1704,20 +1704,6 @@
     ],
     "name": "People Playground"
   },
-  "1118272": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__618",
-        "m": "M2007J20CG",
-        "s": "Adreno (TM) 618"
-      }
-    ],
-    "folders": [
-      "dirt_3"
-    ],
-    "name": "DiRT Rally 2.0 - Peugeot 306 Maxi"
-  },
   "1118310": {
     "config_count": 1,
     "devices": [],
@@ -9817,14 +9803,6 @@
     ],
     "name": "SimRail - The Railway Simulator: Prologue"
   },
-  "1805110": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Solarpunk"
-    ],
-    "name": "Solarpunk\u2122"
-  },
   "1805320": {
     "config_count": 5,
     "devices": [
@@ -12611,7 +12589,7 @@
     "name": "Sonic Frontiers: Monster Hunter Collaboration Pack"
   },
   "209000": {
-    "config_count": 17,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -12637,17 +12615,11 @@
         "d": "Adreno__TM__840",
         "m": "NX809J",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "Retroid_Pocket_6",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Batman___Arkham_Origins",
-      "BatmanOrigins",
-      "Batman_Arkham_Origins"
+      "BatmanOrigins"
     ],
     "name": "Batman\u2122: Arkham Origins"
   },
@@ -12721,7 +12693,7 @@
     "name": "Call of Duty\u00ae: Ghosts"
   },
   "20920": {
-    "config_count": 11,
+    "config_count": 10,
     "devices": [
       {
         "d": "G77",
@@ -12762,8 +12734,7 @@
     "folders": [
       "The_Witcher_2_-_Assassins_of_Kings_Enhanced_Edition_________",
       "The_Witcher_2_Game",
-      "The_Witcher_2__Assassins_of_Kings_Enhanced_Edition",
-      "The_Witcher_2_-_Assassins_of_Kings_Enhanced_Edition"
+      "The_Witcher_2__Assassins_of_Kings_Enhanced_Edition"
     ],
     "name": "The Witcher 2: Assassins of Kings Enhanced Edition"
   },
@@ -16105,6 +16076,35 @@
     ],
     "name": "Starship Troopers: Ultimate Bug War!"
   },
+  "2322010": {
+    "config_count": 12,
+    "devices": [
+      {
+        "d": "Adreno__TM__640",
+        "m": "RMX1931",
+        "s": "Adreno (TM) 640"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "CPH2447",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Immortalis_MC12",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC12"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "2607APCA5G",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "GoW"
+    ],
+    "name": "God of War Ragnar\u00f6k"
+  },
   "2324290": {
     "config_count": 1,
     "devices": [
@@ -16660,7 +16660,7 @@
     "name": "War Thunder"
   },
   "236430": {
-    "config_count": 18,
+    "config_count": 21,
     "devices": [
       {
         "d": "G720_MC7",
@@ -16696,11 +16696,22 @@
         "d": "Adreno__TM__619",
         "m": "22111317PG",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
       "DARK_SOULS__II",
-      "DARK_SOULS_II"
+      "DARK_SOULS_II",
+      "DarkSoulsII"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -18817,40 +18828,6 @@
       "Denshattack_"
     ],
     "name": "Denshattack"
-  },
-  "2525380": {
-    "config_count": 16,
-    "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
-      }
-    ],
-    "folders": [
-      "TombRaider"
-    ],
-    "name": "Tomb Raider IV-VI Remastered"
   },
   "2527160": {
     "config_count": 3,
@@ -22204,20 +22181,6 @@
     ],
     "name": "Brawlhalla"
   },
-  "291650": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__725",
-        "m": "23049PCD8I",
-        "s": "Adreno (TM) 725"
-      }
-    ],
-    "folders": [
-      "Pillars_of_Eternity"
-    ],
-    "name": "Pillars of Eternity"
-  },
   "2918150": {
     "config_count": 1,
     "devices": [
@@ -23535,14 +23498,6 @@
       "Prop_Sumo"
     ],
     "name": "Prop Sumo"
-  },
-  "3091140": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "LootBound"
-    ],
-    "name": "Lootbound"
   },
   "3092360": {
     "config_count": 1,
@@ -26416,20 +26371,6 @@
     ],
     "name": "NINJA GAIDEN 2 Black"
   },
-  "3287910": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "CPH2795",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "MadMax_Game"
-    ],
-    "name": "GameGuru MAX - Madman's Melee Weapons"
-  },
   "329050": {
     "config_count": 59,
     "devices": [
@@ -28958,7 +28899,7 @@
     "name": "Batman\u2122: Arkham Knight Season Pass"
   },
   "367500": {
-    "config_count": 6,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -29403,7 +29344,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 42,
+    "config_count": 39,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -29481,16 +29422,6 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -29502,7 +29433,6 @@
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
       "DARK_SOULS_III",
-      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -30525,7 +30455,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 212,
+    "config_count": 228,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -30851,6 +30781,26 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
@@ -30858,7 +30808,8 @@
       "Rise_of_the_Tomb_Raider_",
       "Tomb_Raider",
       "Tomb_Raider_-_Definitive_Edition",
-      "Tomb_Raider_________________________________________________"
+      "Tomb_Raider_________________________________________________",
+      "TombRaider"
     ],
     "name": "Rise of the Tomb Raider\u2122"
   },
@@ -31832,14 +31783,6 @@
     ],
     "name": "Z.A.T.O. - Digital Art Pack"
   },
-  "4123760": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Football_Life_2026"
-    ],
-    "name": "Football Life"
-  },
   "413150": {
     "config_count": 10,
     "devices": [
@@ -32631,6 +32574,14 @@
     ],
     "name": "Factorio"
   },
+  "4282640": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "LootBound"
+    ],
+    "name": "Inferno Loot: Bullet Hell Bound"
+  },
   "428690": {
     "config_count": 1,
     "devices": [
@@ -32824,32 +32775,12 @@
     "name": "The Final Station"
   },
   "4355320": {
-    "config_count": 17,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__740",
         "m": "S911B",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__640",
-        "m": "RMX1931",
-        "s": "Adreno (TM) 640"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "CPH2447",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Immortalis_MC12",
-        "m": "G925",
-        "s": "Mali-G925-Immortalis MC12"
-      },
-      {
-        "d": "Adreno__TM__840",
-        "m": "2607APCA5G",
-        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
@@ -38095,16 +38026,22 @@
     "name": "Trine 4: The Nightmare Prince"
   },
   "690790": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__750",
         "m": "MEIZU_21",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "M2007J20CG",
+        "s": "Adreno (TM) 618"
       }
     ],
     "folders": [
-      "DiRT_Rally"
+      "DiRT_Rally",
+      "dirt_3"
     ],
     "name": "DiRT Rally 2.0"
   },
@@ -41973,6 +41910,20 @@
     ],
     "name": "Baldisbasicsplusadvanced"
   },
+  "name:batman-arkham-origins": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "Retroid_Pocket_6",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Batman_Arkham_Origins"
+    ],
+    "name": "Batman Arkham Origins"
+  },
   "name:batmanac": {
     "config_count": 2,
     "devices": [],
@@ -42601,6 +42552,14 @@
     ],
     "name": "Dragon Ball Fighters Z"
   },
+  "name:dragon-s-dogma-dark-arisen": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Dragon_s_Dogma__Dark_Arisen"
+    ],
+    "name": "Dragon S Dogma Dark Arisen"
+  },
   "name:dragonballzkakarot": {
     "config_count": 1,
     "devices": [],
@@ -43050,6 +43009,14 @@
       "Final_Fantasy_Renaissance"
     ],
     "name": "Final Fantasy Renaissance"
+  },
+  "name:football-life-2026": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Football_Life_2026"
+    ],
+    "name": "Football Life 2026"
   },
   "name:frozen-throne": {
     "config_count": 1,
@@ -43700,6 +43667,20 @@
       "LunaAbyss-WinGDK-Shipping"
     ],
     "name": "Lunaabyss Wingdk Shipping"
+  },
+  "name:madmax-game": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "CPH2795",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "MadMax_Game"
+    ],
+    "name": "Madmax Game"
   },
   "name:marvel-s-guardians-of-the-galaxy-the-telltale-series": {
     "config_count": 1,
@@ -46311,6 +46292,20 @@
     ],
     "name": "Pes6"
   },
+  "name:pillars-of-eternity": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__725",
+        "m": "23049PCD8I",
+        "s": "Adreno (TM) 725"
+      }
+    ],
+    "folders": [
+      "Pillars_of_Eternity"
+    ],
+    "name": "Pillars Of Eternity"
+  },
   "name:pkhdgame-win32-shipping": {
     "config_count": 1,
     "devices": [],
@@ -46794,6 +46789,14 @@
     ],
     "name": "Sniperv2Launcher"
   },
+  "name:solarpunk": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Solarpunk"
+    ],
+    "name": "Solarpunk"
+  },
   "name:sonic-robo-blast-2": {
     "config_count": 1,
     "devices": [],
@@ -47068,6 +47071,14 @@
       "The_Sims_2_Launcher"
     ],
     "name": "The Sims 2 Launcher"
+  },
+  "name:the-witcher-2-assassins-of-kings-enhanced-edition": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "The_Witcher_2_-_Assassins_of_Kings_Enhanced_Edition"
+    ],
+    "name": "The Witcher 2 Assassins Of Kings Enhanced Edition"
   },
   "name:thps12": {
     "config_count": 1,
