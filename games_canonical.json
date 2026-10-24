@@ -1834,14 +1834,6 @@
     ],
     "name": "Unpacking"
   },
-  "1138320": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "A51"
-    ],
-    "name": "AREA 51 - DEFENCE"
-  },
   "1139980": {
     "config_count": 1,
     "devices": [
@@ -6163,7 +6155,7 @@
     "name": "You Will Die Here Tonight"
   },
   "1446780": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -6219,6 +6211,11 @@
         "d": "Adreno__TM__840",
         "m": "NX809J",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "MEIZU_20_Inf",
+        "s": "Adreno (TM) 740"
       },
       {
         "d": "Adreno__TM__735",
@@ -33662,6 +33659,14 @@
     ],
     "name": "Planescape: Torment: Enhanced Edition"
   },
+  "4664250": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "A51"
+    ],
+    "name": "Motel 51: Papers, Keys & Aliens"
+  },
   "4676340": {
     "config_count": 1,
     "devices": [
@@ -42032,7 +42037,7 @@
     "name": "Bob Esponja Titanes De La Marina"
   },
   "name:bootstrappackagedgame": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
