@@ -7166,7 +7166,7 @@
     "name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition"
   },
   "1551360": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -7197,6 +7197,11 @@
         "d": "PowerVR_Rogue_GE8320",
         "m": "Infinix_X688B",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
@@ -11473,7 +11478,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11482,7 +11487,8 @@
       }
     ],
     "folders": [
-      "WolfNewOrder"
+      "WolfNewOrder",
+      "Wolfenstein__2009_"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -24635,7 +24641,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2031,
+    "config_count": 2032,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25876,6 +25882,11 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "Adreno__TM__613",
+        "m": "NX1",
+        "s": "Adreno (TM) 613"
       },
       {
         "d": "Adreno__TM__830",
@@ -27895,7 +27906,7 @@
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
   },
   "3493540": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G57_MC2",
@@ -31375,7 +31386,7 @@
     "name": "Dishonored 2"
   },
   "40390": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "SM8750",
@@ -31384,8 +31395,7 @@
       }
     ],
     "folders": [
-      "Risen2",
-      "Risen_2_-_Dark_Waters"
+      "Risen2"
     ],
     "name": "Risen 2: Dark Waters"
   },
@@ -31433,6 +31443,14 @@
       "Shift_At_Midnight_Demo"
     ],
     "name": "Shift At Midnight Multiplayer Demo"
+  },
+  "405310": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "LEGO_MARVEL_s_Avengers"
+    ],
+    "name": "LEGO\u00ae MARVEL's Avengers"
   },
   "405820": {
     "config_count": 1,
@@ -32457,14 +32475,6 @@
       "Call_of_Duty_-_Modern_Warfare_3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
-  },
-  "426860": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "LEGO_MARVEL_s_Avengers"
-    ],
-    "name": "LEGO\u00ae MARVEL's Avengers Season Pass"
   },
   "42700": {
     "config_count": 2,
@@ -35208,6 +35218,14 @@
     ],
     "name": "Da Capo"
   },
+  "5201760": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "tra"
+    ],
+    "name": "ARC Raiders - Frozen Trail Collector Set"
+  },
   "521890": {
     "config_count": 3,
     "devices": [
@@ -36922,7 +36940,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -39891,14 +39909,6 @@
       "SuperSeducer"
     ],
     "name": "Super Seducer 2 - Advanced Seduction Tactics"
-  },
-  "865360": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "We_Were_Here_Together"
-    ],
-    "name": "We Were Here Together"
   },
   "865940": {
     "config_count": 1,
@@ -43816,6 +43826,14 @@
     ],
     "name": "Mystery Case Files Dire Grove"
   },
+  "name:naruto-shippuden-ultimate-ninja-storm-3-europe-en-fr-de-es-it-ru": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Naruto_Shippuden_-_Ultimate_Ninja_Storm_3__Europe___En_Fr_De_Es_It_Ru_"
+    ],
+    "name": "Naruto Shippuden Ultimate Ninja Storm 3 Europe En Fr De Es It Ru"
+  },
   "name:nba2k14": {
     "config_count": 4,
     "devices": [
@@ -46460,6 +46478,14 @@
     ],
     "name": "Rise Of The Tomb Rider"
   },
+  "name:risen-2-dark-waters": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Risen_2_-_Dark_Waters"
+    ],
+    "name": "Risen 2 Dark Waters"
+  },
   "name:risohiki": {
     "config_count": 1,
     "devices": [],
@@ -47162,6 +47188,14 @@
       "Wasteland_3_Colorado_Survival_Gear_DLC"
     ],
     "name": "Wasteland 3 Colorado Survival Gear Dlc"
+  },
+  "name:we-were-here-together": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "We_Were_Here_Together"
+    ],
+    "name": "We Were Here Together"
   },
   "name:wizard-school-exchange-student": {
     "config_count": 1,
