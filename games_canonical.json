@@ -6606,7 +6606,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 117,
+    "config_count": 118,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -10782,7 +10782,7 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 4,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -10792,8 +10792,7 @@
     ],
     "folders": [
       "MAFIA",
-      "Mafia",
-      "Mafia_-_Definitive_Edition"
+      "Mafia"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -11478,7 +11477,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11487,8 +11486,7 @@
       }
     ],
     "folders": [
-      "WolfNewOrder",
-      "Wolfenstein__2009_"
+      "WolfNewOrder"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -31658,6 +31656,15 @@
     ],
     "name": "BioShock\u2122 2 Remastered"
   },
+  "40990": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Mafia",
+      "Mafia_-_Definitive_Edition"
+    ],
+    "name": "Mafia"
+  },
   "4100940": {
     "config_count": 9,
     "devices": [
@@ -36933,7 +36940,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -41352,7 +41359,7 @@
     "name": "Sniper Ghost Warrior Contracts"
   },
   "976310": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -41383,6 +41390,11 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
