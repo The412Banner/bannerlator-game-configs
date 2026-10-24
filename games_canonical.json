@@ -829,7 +829,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -860,6 +860,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__640",
+        "m": "M2102J20SG",
+        "s": "Adreno (TM) 640"
       },
       {
         "d": "Adreno__TM__740",
@@ -1017,6 +1022,14 @@
       "Electrician_Simulator"
     ],
     "name": "Electrician Simulator"
+  },
+  "1080920": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GRID_2"
+    ],
+    "name": "Defense Grid 2 - Aftermath"
   },
   "108600": {
     "config_count": 4,
@@ -5442,12 +5455,17 @@
     "name": "Stray"
   },
   "1337010": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__740",
         "m": "23113RKC6G",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "22021211RG",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
@@ -9382,7 +9400,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 178,
+    "config_count": 179,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -14697,7 +14715,7 @@
     "name": "Five Nights at Freddy's: Secret of the Mimic"
   },
   "221540": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
