@@ -1997,14 +1997,6 @@
     ],
     "name": "DOOM 64"
   },
-  "1150230": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "nostalgia_5_0"
-    ],
-    "name": "VR Nostalgia 5"
-  },
   "1151380": {
     "config_count": 1,
     "devices": [
@@ -6625,7 +6617,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 118,
+    "config_count": 115,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -28619,7 +28611,7 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae II"
   },
   "3595270": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G68",
@@ -28628,7 +28620,8 @@
       }
     ],
     "folders": [
-      "Call_of_Duty___Modern_Warfare__III"
+      "Call_of_Duty___Modern_Warfare__III",
+      "Call_of_Duty_-_Modern_Warfare_3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae III"
   },
@@ -31498,6 +31491,14 @@
     ],
     "name": "Shift At Midnight Multiplayer Demo"
   },
+  "405310": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "LEGO_MARVEL_s_Avengers"
+    ],
+    "name": "LEGO\u00ae MARVEL's Avengers"
+  },
   "405820": {
     "config_count": 1,
     "devices": [],
@@ -32437,7 +32438,7 @@
     "name": "Innocent Assault SS"
   },
   "42680": {
-    "config_count": 41,
+    "config_count": 40,
     "devices": [
       {
         "d": "Infinix_X6833B",
@@ -32526,18 +32527,9 @@
       }
     ],
     "folders": [
-      "Call_of_Duty___Modern_Warfare__3__2011_",
-      "Call_of_Duty_-_Modern_Warfare_3__2011_"
+      "Call_of_Duty___Modern_Warfare__3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
-  },
-  "426860": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "LEGO_MARVEL_s_Avengers"
-    ],
-    "name": "LEGO\u00ae MARVEL's Avengers Season Pass"
   },
   "42700": {
     "config_count": 2,
@@ -36555,7 +36547,7 @@
     "name": "Trailmakers"
   },
   "586140": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "BLAZBLUE_CENTRALFICTION",
@@ -42131,6 +42123,14 @@
     ],
     "name": "Blazblue Central Fiction"
   },
+  "name:blazblue-centralfiction": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "BLAZBLUE_CENTRALFICTION"
+    ],
+    "name": "Blazblue Centralfiction"
+  },
   "name:bmlauncher": {
     "config_count": 2,
     "devices": [
@@ -42933,6 +42933,20 @@
       "FFXIII"
     ],
     "name": "Ffxiii"
+  },
+  "name:fifa-23": {
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "FIFA_23"
+    ],
+    "name": "Fifa 23"
   },
   "name:fifa14": {
     "config_count": 1,
@@ -44156,6 +44170,14 @@
     ],
     "name": "Nierautomatacompat"
   },
+  "name:nostalgia-5-0": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "nostalgia_5_0"
+    ],
+    "name": "Nostalgia 5 0"
+  },
   "name:nsuns-4": {
     "config_count": 1,
     "devices": [],
@@ -44426,7 +44448,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3194,
+    "config_count": 3195,
     "devices": [
       {
         "d": "G52_MC2",
