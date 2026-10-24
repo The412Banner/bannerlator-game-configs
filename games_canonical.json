@@ -11954,7 +11954,7 @@
     "name": "Hitman: Absolution\u2122"
   },
   "203160": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -18286,7 +18286,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -22533,6 +22533,14 @@
     ],
     "name": "WarOfGods 2"
   },
+  "2977260": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "THEg"
+    ],
+    "name": "The Guild 1 Remake: Europa 1410"
+  },
   "297860": {
     "config_count": 1,
     "devices": [
@@ -24635,7 +24643,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2030,
+    "config_count": 2031,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -29489,7 +29497,7 @@
     "name": "HELLMART"
   },
   "3764200": {
-    "config_count": 39,
+    "config_count": 40,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -29550,6 +29558,11 @@
         "d": "Adreno__TM__840",
         "m": "S948B",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "NX9",
+        "s": "Adreno (TM) 750"
       },
       {
         "d": "Adreno__TM__830",
@@ -34245,14 +34258,6 @@
     ],
     "name": "KARAKARA"
   },
-  "4881480": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "THEg"
-    ],
-    "name": "The Great Wife's Guide"
-  },
   "489630": {
     "config_count": 1,
     "devices": [
@@ -37384,7 +37389,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -37403,7 +37408,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2"
+      "LEGO__Marvel_Super_Heroes_2",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
