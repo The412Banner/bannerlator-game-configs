@@ -3057,7 +3057,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 463,
+    "config_count": 464,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3400,11 +3400,6 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
-      },
-      {
         "d": "Immortalis_MC12",
         "m": "G720",
         "s": "Mali-G720-Immortalis MC12"
@@ -3503,6 +3498,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       },
       {
         "d": "Adreno__TM__735",
@@ -4939,6 +4939,20 @@
       "MONSTER_HUNTER_STORIES_2__WINGS_OF_RUIN"
     ],
     "name": "Monster Hunter Stories 2: Wings of Ruin"
+  },
+  "1280770": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      }
+    ],
+    "folders": [
+      "Redmatch_2"
+    ],
+    "name": "Redmatch 2"
   },
   "1281630": {
     "config_count": 3,
@@ -7932,7 +7946,7 @@
     "name": "Core Keeper"
   },
   "1622710": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -7953,11 +7967,17 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "NX789J",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
       "Oceanhorn_2",
-      "Oceanhorn_2__Knights_of_the_Lost_Realm"
+      "Oceanhorn_2__Knights_of_the_Lost_Realm",
+      "Oceanhorn_2_-_Knights_of_the_Lost_Realm"
     ],
     "name": "Oceanhorn 2: Knights of the Lost Realm"
   },
@@ -12815,7 +12835,7 @@
     "name": "Magicraft"
   },
   "2107720": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -15331,7 +15351,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 300,
+    "config_count": 301,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -15609,11 +15629,6 @@
         "s": "Mali-G77"
       },
       {
-        "d": "Adreno__TM__610",
-        "m": "LX2",
-        "s": "Adreno (TM) 610"
-      },
-      {
         "d": "PowerVR_Rogue_GE8320",
         "m": "LX2",
         "s": "PowerVR Rogue GE8320"
@@ -15667,6 +15682,11 @@
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "LX2",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -18253,7 +18273,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -27272,14 +27292,6 @@
     ],
     "name": "Heavy Weapon Deluxe"
   },
-  "3419290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN"
-  },
   "341940": {
     "config_count": 4,
     "devices": [
@@ -30057,14 +30069,6 @@
     ],
     "name": "Case Blind: Stolen Route"
   },
-  "3858850": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Hydra"
-    ],
-    "name": "Hydra Heli"
-  },
   "3859430": {
     "config_count": 1,
     "devices": [
@@ -31229,6 +31233,14 @@
     ],
     "name": "The Spike Cross"
   },
+  "3985080": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN - Costume Expansion Pack"
+  },
   "400": {
     "config_count": 4,
     "devices": [],
@@ -32215,6 +32227,14 @@
       "Deadlight_-_Director_s_Cut"
     ],
     "name": "Deadlight: Director's Cut"
+  },
+  "4241690": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Hydra"
+    ],
+    "name": "Hydra Heli 2"
   },
   "424280": {
     "config_count": 1,
@@ -37332,7 +37352,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -37351,7 +37371,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2"
+      "LEGO__Marvel_Super_Heroes_2",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -44275,7 +44296,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3189,
+    "config_count": 3190,
     "devices": [
       {
         "d": "G52_MC2",
