@@ -3054,7 +3054,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 464,
+    "config_count": 465,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -8729,7 +8729,7 @@
     "name": "Persona 5 Royal"
   },
   "1693980": {
-    "config_count": 24,
+    "config_count": 25,
     "devices": [
       {
         "d": "G68",
@@ -8775,6 +8775,11 @@
         "d": "Adreno__TM__630",
         "m": "POCO_F1",
         "s": "Adreno (TM) 630"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "25102PCBEG",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "G78",
@@ -13573,7 +13578,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 119,
+    "config_count": 120,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -18280,7 +18285,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -24615,7 +24620,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2023,
+    "config_count": 2027,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25833,11 +25838,6 @@
         "s": "Adreno (TM) 735"
       },
       {
-        "d": "G68",
-        "m": "Mali",
-        "s": "Mali-G68"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "V2441",
         "s": "Adreno (TM) 610"
@@ -25856,6 +25856,11 @@
         "d": "Adreno__TM__732",
         "m": "2410CRP4CG",
         "s": "Adreno (TM) 732"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
       },
       {
         "d": "Adreno__TM__830",
@@ -31208,7 +31213,7 @@
     "name": "Borderlands 3"
   },
   "3978110": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "G615_MC6",
@@ -31219,6 +31224,11 @@
         "d": "Adreno__TM__619",
         "m": "NX1",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "23043RP34G",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
@@ -33283,20 +33293,6 @@
       "Gold_Mining_Simulator"
     ],
     "name": "Gold Mining Simulator"
-  },
-  "4523200": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "I2501",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "SO2R"
-    ],
-    "name": "Diablo II: Resurrected - Original Soundtrack"
   },
   "4533800": {
     "config_count": 1,
@@ -37381,7 +37377,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -37400,8 +37396,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2",
-      "LEGOMARVEL"
+      "LEGO__Marvel_Super_Heroes_2"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -38743,6 +38738,20 @@
       "Russian_Fishing_4"
     ],
     "name": "Russian Fishing 4"
+  },
+  "768520": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "I2501",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "SO2R"
+    ],
+    "name": "Red Solstice 2: Survivors"
   },
   "773700": {
     "config_count": 1,
