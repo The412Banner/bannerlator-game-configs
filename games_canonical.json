@@ -7454,7 +7454,7 @@
     "name": "Selaco"
   },
   "1593500": {
-    "config_count": 182,
+    "config_count": 183,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -7515,11 +7515,6 @@
         "d": "Adreno__TM__710",
         "m": "23122PCD1G",
         "s": "Adreno (TM) 710"
-      },
-      {
-        "d": "G720_MC8",
-        "m": "Mali",
-        "s": "Mali-G720 MC8"
       },
       {
         "d": "Adreno__TM__730",
@@ -7730,6 +7725,11 @@
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_",
         "m": "S731B",
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.304)"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
       },
       {
         "d": "Adreno__TM__710",
@@ -11036,7 +11036,7 @@
     "name": "Survival: Fountain of Youth"
   },
   "19680": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -11060,7 +11060,8 @@
       }
     ],
     "folders": [
-      "Alice__Madness_Returns"
+      "Alice__Madness_Returns",
+      "AliceMadnessReturns"
     ],
     "name": "Alice: Madness Returns"
   },
@@ -18285,7 +18286,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -18489,6 +18490,20 @@
       "Selene_s_Unbearable_Night"
     ],
     "name": "Selene's Unbearable Night"
+  },
+  "250400": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      }
+    ],
+    "folders": [
+      "HowToSurvive"
+    ],
+    "name": "How to Survive"
   },
   "2506160": {
     "config_count": 6,
@@ -37377,7 +37392,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -37396,7 +37411,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2"
+      "LEGO__Marvel_Super_Heroes_2",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
