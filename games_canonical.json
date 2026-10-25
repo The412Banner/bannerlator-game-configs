@@ -46620,13 +46620,19 @@
     ],
     "name": "Reccloud Multi Monitor Capture"
   },
-  "name:redout-win64-shipping": {
+  "name:redout-enhanced-edition-select-win64-exe": {
     "config_count": 1,
-    "devices": [],
-    "folders": [
-      "redout-Win64-Shipping"
+    "devices": [
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
+      }
     ],
-    "name": "Redout Win64 Shipping"
+    "folders": [
+      "Redout_Enhanced_Edition__select_win64_exe_"
+    ],
+    "name": "Redout Enhanced Edition Select Win64 Exe"
   },
   "name:remoteplayinstaller-1": {
     "config_count": 1,
