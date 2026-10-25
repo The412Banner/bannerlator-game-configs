@@ -16784,6 +16784,20 @@
     ],
     "name": "Europa Universalis IV"
   },
+  "2369390": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "FarCry"
+    ],
+    "name": "Far Cry\u00ae 6"
+  },
   "2370000": {
     "config_count": 1,
     "devices": [],
@@ -24755,7 +24769,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2069,
+    "config_count": 2071,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -26849,7 +26863,7 @@
     "name": "Five Nights at Freddy's 2"
   },
   "33320": {
-    "config_count": 16,
+    "config_count": 17,
     "devices": [
       {
         "d": "G615_MC2",
@@ -28035,7 +28049,7 @@
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
   },
   "3493540": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G57_MC2",
@@ -35378,6 +35392,14 @@
     ],
     "name": "Da Capo"
   },
+  "5201760": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "tra"
+    ],
+    "name": "ARC Raiders - Frozen Trail Collector Set"
+  },
   "521890": {
     "config_count": 3,
     "devices": [
@@ -35990,7 +36012,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 21,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -36036,11 +36058,6 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -36049,8 +36066,7 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry",
-      "FarCry"
+      "far_cry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -37035,7 +37051,7 @@
     "name": "Moonlighter"
   },
   "606280": {
-    "config_count": 11,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -37048,19 +37064,13 @@
         "s": "Adreno (TM) 825"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
-      },
-      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
       }
     ],
     "folders": [
-      "Darksiders_III",
-      "Darksiders"
+      "Darksiders_III"
     ],
     "name": "Darksiders III"
   },
@@ -38365,7 +38375,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__A32",
@@ -38376,10 +38386,16 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "Darksiders_Genesis",
+      "Darksiders",
       "DarksidersGenesis"
     ],
     "name": "Darksiders Genesis"
@@ -44557,7 +44573,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3200,
+    "config_count": 3203,
     "devices": [
       {
         "d": "G52_MC2",
@@ -45435,11 +45451,6 @@
         "s": "PowerVR Rogue GE8320"
       },
       {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
-      },
-      {
         "d": "Adreno__TM__619",
         "m": "moto_g53_5G",
         "s": "Adreno (TM) 619"
@@ -45548,6 +45559,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       },
       {
         "d": "Adreno__TM__740",
