@@ -6630,7 +6630,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 119,
+    "config_count": 117,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -8149,7 +8149,7 @@
     "name": "Minishoot' Adventures"
   },
   "1636440": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "A566E",
@@ -10807,7 +10807,7 @@
     "name": "Fifa 19"
   },
   "1938090": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -10816,7 +10816,8 @@
       }
     ],
     "folders": [
-      "Call_Of_Duty_MW2"
+      "Call_Of_Duty_MW2",
+      "CallOf_Duty"
     ],
     "name": "Call of Duty\u00ae"
   },
@@ -23005,7 +23006,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -23026,10 +23027,16 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -24755,7 +24762,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2059,
+    "config_count": 2061,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -26006,6 +26013,11 @@
         "d": "G77_MC9",
         "m": "Mali",
         "s": "Mali-G77 MC9"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "RMX2170",
+        "s": "Adreno (TM) 618"
       },
       {
         "d": "Adreno__TM__830",
@@ -33829,20 +33841,6 @@
     ],
     "name": "Papa's Mocharia Deluxe"
   },
-  "4659620": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Immortalis_MC12",
-        "m": "G720",
-        "s": "Mali-G720-Immortalis MC12"
-      }
-    ],
-    "folders": [
-      "Touhou_Koumakyou_-_New_Classic_-_the_Embodiment_of_Scarlet_Devil"
-    ],
-    "name": "Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil"
-  },
   "466300": {
     "config_count": 2,
     "devices": [
@@ -40834,7 +40832,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 8,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -40850,16 +40848,10 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -43054,6 +43046,14 @@
       "FFXIII"
     ],
     "name": "Ffxiii"
+  },
+  "name:fifa-13": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "FIFA_13"
+    ],
+    "name": "Fifa 13"
   },
   "name:fifa14": {
     "config_count": 1,
@@ -46853,6 +46853,14 @@
     ],
     "name": "Shproto"
   },
+  "name:silent-hill-3": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "SILENT_HILL_3"
+    ],
+    "name": "Silent Hill 3"
+  },
   "name:skyrimlauncher": {
     "config_count": 1,
     "devices": [],
@@ -47243,6 +47251,20 @@
       "Tomb_Raider_Defenitive_Edition"
     ],
     "name": "Tomb Raider Defenitive Edition"
+  },
+  "name:touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Immortalis_MC12",
+        "m": "G720",
+        "s": "Mali-G720-Immortalis MC12"
+      }
+    ],
+    "folders": [
+      "Touhou_Koumakyou_-_New_Classic_-_the_Embodiment_of_Scarlet_Devil"
+    ],
+    "name": "Touhou Koumakyou New Classic The Embodiment Of Scarlet Devil"
   },
   "name:tpp-main-win64": {
     "config_count": 2,
