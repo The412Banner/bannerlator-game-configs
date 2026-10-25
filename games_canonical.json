@@ -19951,9 +19951,16 @@
     "name": "POOLS"
   },
   "266840": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Samsung_Xclipse_550",
+        "m": "A576B",
+        "s": "Samsung Xclipse 550"
+      }
+    ],
     "folders": [
+      "Age_of_Mythology_-_Extended_Edition",
       "Age_of_Mythology__Extended_Edition"
     ],
     "name": "Age of Mythology: Extended Edition"
@@ -27396,14 +27403,6 @@
     ],
     "name": "Heavy Weapon Deluxe"
   },
-  "3419290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN"
-  },
   "341940": {
     "config_count": 4,
     "devices": [
@@ -31359,6 +31358,14 @@
       "The_Spike"
     ],
     "name": "The Spike Cross"
+  },
+  "3985080": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN - Costume Expansion Pack"
   },
   "400": {
     "config_count": 4,
