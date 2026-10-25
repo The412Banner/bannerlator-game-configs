@@ -6189,7 +6189,7 @@
     "name": "You Will Die Here Tonight"
   },
   "1446780": {
-    "config_count": 22,
+    "config_count": 21,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -6260,7 +6260,6 @@
     "folders": [
       "MONSTER_HUNTER_RISE",
       "MH_R",
-      "MonsterHunterRise",
       "Monster_Hunter_Rise"
     ],
     "name": "MONSTER HUNTER RISE"
@@ -6821,11 +6820,6 @@
         "d": "Adreno__TM__840",
         "m": "S942U",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__710",
-        "m": "NX1",
-        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
@@ -6842,8 +6836,7 @@
       "FIFA_2007",
       "FIFA_22",
       "FIFA_23",
-      "FIFA22",
-      "fifa_12"
+      "FIFA22"
     ],
     "name": "FIFA 22"
   },
@@ -8149,7 +8142,7 @@
     "name": "Minishoot' Adventures"
   },
   "1636440": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "A566E",
@@ -16179,7 +16172,7 @@
     "name": "Sky: Children of the Light"
   },
   "232890": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -16193,7 +16186,8 @@
       }
     ],
     "folders": [
-      "__Stronghold_Crusader"
+      "__Stronghold_Crusader",
+      "Stronghold_Crusader_HD"
     ],
     "name": "Stronghold Crusader 2"
   },
@@ -22291,7 +22285,7 @@
     "name": "ONE PIECE Bounty Rush"
   },
   "292030": {
-    "config_count": 19,
+    "config_count": 17,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -22349,7 +22343,6 @@
       "The_Witcher_3",
       "The_Witcher_3_-_Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
-      "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
       "The_Witcher_3_-_Wild_Hunt___Remastered",
       "Witcher_1",
       "_Witcher",
@@ -23242,7 +23235,7 @@
     "name": "Unturned"
   },
   "3050220": {
-    "config_count": 38,
+    "config_count": 39,
     "devices": [
       {
         "d": "2412DPC0AG",
@@ -31439,7 +31432,7 @@
     "name": "Portal"
   },
   "4000": {
-    "config_count": 11,
+    "config_count": 9,
     "devices": [
       {
         "d": "G57_MC2",
@@ -31751,14 +31744,6 @@
       "_Stronghold_2"
     ],
     "name": "Stronghold 2: Steam Edition"
-  },
-  "40970": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Stronghold_Crusader_HD"
-    ],
-    "name": "Stronghold Crusader HD (2012)"
   },
   "409710": {
     "config_count": 5,
@@ -33840,6 +33825,20 @@
       "Papa_s_Mocharia_Deluxe"
     ],
     "name": "Papa's Mocharia Deluxe"
+  },
+  "4659620": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Immortalis_MC12",
+        "m": "G720",
+        "s": "Mali-G720-Immortalis MC12"
+      }
+    ],
+    "folders": [
+      "Touhou_Koumakyou_-_New_Classic_-_the_Embodiment_of_Scarlet_Devil"
+    ],
+    "name": "Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil"
   },
   "466300": {
     "config_count": 2,
@@ -36321,7 +36320,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 55,
+    "config_count": 56,
     "devices": [
       {
         "d": "G57",
@@ -43047,13 +43046,27 @@
     ],
     "name": "Ffxiii"
   },
-  "name:fifa-13": {
-    "config_count": 2,
+  "name:fifa-12": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
+      }
+    ],
+    "folders": [
+      "fifa_12"
+    ],
+    "name": "Fifa 12"
+  },
+  "name:fifa-20": {
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "FIFA_13"
+      "FIFA_20"
     ],
-    "name": "Fifa 13"
+    "name": "Fifa 20"
   },
   "name:fifa14": {
     "config_count": 1,
@@ -43207,6 +43220,14 @@
       "Gamma_Emerald"
     ],
     "name": "Gamma Emerald"
+  },
+  "name:garry-s-mod": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Garry_s_Mod"
+    ],
+    "name": "Garry S Mod"
   },
   "name:gavi-patch": {
     "config_count": 2,
@@ -43983,6 +44004,14 @@
       "MOHW"
     ],
     "name": "Mohw"
+  },
+  "name:monsterhunterrise": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "MonsterHunterRise"
+    ],
+    "name": "Monsterhunterrise"
   },
   "name:mosscollection": {
     "config_count": 1,
@@ -46853,14 +46882,6 @@
     ],
     "name": "Shproto"
   },
-  "name:silent-hill-3": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "SILENT_HILL_3"
-    ],
-    "name": "Silent Hill 3"
-  },
   "name:skyrimlauncher": {
     "config_count": 1,
     "devices": [],
@@ -47190,6 +47211,14 @@
     ],
     "name": "The Sims 2 Launcher"
   },
+  "name:the-witcher-3-wild-hunt-game-of-the-year-edition": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition"
+    ],
+    "name": "The Witcher 3 Wild Hunt Game Of The Year Edition"
+  },
   "name:thps12": {
     "config_count": 1,
     "devices": [
@@ -47251,20 +47280,6 @@
       "Tomb_Raider_Defenitive_Edition"
     ],
     "name": "Tomb Raider Defenitive Edition"
-  },
-  "name:touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Immortalis_MC12",
-        "m": "G720",
-        "s": "Mali-G720-Immortalis MC12"
-      }
-    ],
-    "folders": [
-      "Touhou_Koumakyou_-_New_Classic_-_the_Embodiment_of_Scarlet_Devil"
-    ],
-    "name": "Touhou Koumakyou New Classic The Embodiment Of Scarlet Devil"
   },
   "name:tpp-main-win64": {
     "config_count": 2,
