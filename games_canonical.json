@@ -13814,6 +13814,20 @@
     ],
     "name": "Of Orcs And Men"
   },
+  "2172910": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "S948B",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "CAPTAIN_TSUBASA_2__WORLD_FIGHTERS"
+    ],
+    "name": "CAPTAIN TSUBASA 2: WORLD FIGHTERS"
+  },
   "217490": {
     "config_count": 1,
     "devices": [],
@@ -15105,7 +15119,7 @@
     "name": "Fallout 3: Game of the Year Edition"
   },
   "22380": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -15141,6 +15155,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -16757,6 +16776,20 @@
     ],
     "name": "Europa Universalis IV"
   },
+  "2369390": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "FarCry"
+    ],
+    "name": "Far Cry\u00ae 6"
+  },
   "2370000": {
     "config_count": 1,
     "devices": [],
@@ -18112,14 +18145,6 @@
       "Towerborne"
     ],
     "name": "Towerborne"
-  },
-  "2458980": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Dimhaven_-_The_Lost_Source"
-    ],
-    "name": "Dimhaven - The Lost Source"
   },
   "2463650": {
     "config_count": 1,
@@ -22389,6 +22414,20 @@
     ],
     "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2"
   },
+  "2929250": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "S948B",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "over_the_hill"
+    ],
+    "name": "over the hill"
+  },
   "293260": {
     "config_count": 1,
     "devices": [],
@@ -22958,7 +22997,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 7,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -22979,16 +23018,10 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -24714,7 +24747,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2055,
+    "config_count": 2059,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25687,11 +25720,6 @@
         "s": "Adreno (TM) 650"
       },
       {
-        "d": "G77_MC9",
-        "m": "Mali",
-        "s": "Mali-G77 MC9"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "23028RA60L",
         "s": "Adreno (TM) 610"
@@ -25965,6 +25993,11 @@
         "d": "Adreno__TM__619",
         "m": "22111317PI",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G77_MC9",
+        "m": "Mali",
+        "s": "Mali-G77 MC9"
       },
       {
         "d": "Adreno__TM__830",
@@ -28971,9 +29004,10 @@
     "name": "Drift Legends 2"
   },
   "3669870": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [],
     "folders": [
+      "Control_Ultimate_Edition",
       "control"
     ],
     "name": "CONTROL Resonant"
@@ -32905,12 +32939,17 @@
     "name": "Binaries"
   },
   "4358690": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__740",
         "m": "AYN_Thor",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Immortalis_MC12",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC12"
       },
       {
         "d": "Adreno__TM__730",
@@ -35939,7 +35978,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 21,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -35985,11 +36024,6 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -35998,8 +36032,7 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry",
-      "FarCry"
+      "far_cry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -36984,7 +37017,7 @@
     "name": "Moonlighter"
   },
   "606280": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -36997,13 +37030,19 @@
         "s": "Adreno (TM) 825"
       },
       {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
+      },
+      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
       }
     ],
     "folders": [
-      "Darksiders_III"
+      "Darksiders_III",
+      "Darksiders"
     ],
     "name": "Darksiders III"
   },
@@ -37058,7 +37097,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -38303,7 +38342,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 6,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__A32",
@@ -38314,16 +38353,10 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "Darksiders_Genesis",
-      "Darksiders",
       "DarksidersGenesis"
     ],
     "name": "Darksiders Genesis"
@@ -40093,7 +40126,7 @@
     "name": "The Walking Dead: The Final Season"
   },
   "870780": {
-    "config_count": 5,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "CONTROL_Ultimate_Edition",
@@ -40789,7 +40822,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 8,
     "devices": [
       {
         "d": "G615_MC6",
@@ -40805,10 +40838,16 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -42540,6 +42579,14 @@
       "dfbhd"
     ],
     "name": "Dfbhd"
+  },
+  "name:dimhaven-the-lost-source": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Dimhaven_-_The_Lost_Source"
+    ],
+    "name": "Dimhaven The Lost Source"
   },
   "name:dirt-2": {
     "config_count": 5,
@@ -44496,7 +44543,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3198,
+    "config_count": 3199,
     "devices": [
       {
         "d": "G52_MC2",
@@ -47346,6 +47393,14 @@
       "Wizard_School_Exchange_Student"
     ],
     "name": "Wizard School Exchange Student"
+  },
+  "name:wolfenstein-2009": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Wolfenstein__2009_"
+    ],
+    "name": "Wolfenstein 2009"
   },
   "name:world-of-warcraft": {
     "config_count": 1,
