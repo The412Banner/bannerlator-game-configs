@@ -5737,19 +5737,19 @@
     "config_count": 2,
     "devices": [
       {
-        "d": "Adreno__TM__618",
-        "m": "RMX2170",
-        "s": "Adreno (TM) 618"
-      },
-      {
         "d": "Adreno__TM__810",
         "m": "NX1",
         "s": "Adreno (TM) 810"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "RMX2170",
+        "s": "Adreno (TM) 618"
       }
     ],
     "folders": [
-      "_NINJA_GAIDEN__Master_Collection__NINJA_GAIDEN_3__Razor_s_Edge",
-      "NINJA_GAIDEN_3__Razor_s_Edge"
+      "NINJA_GAIDEN_3__Razor_s_Edge",
+      "_NINJA_GAIDEN__Master_Collection__NINJA_GAIDEN_3__Razor_s_Edge"
     ],
     "name": "NINJA GAIDEN 3: Razor's Edge [NINJA GAIDEN: Master Collection]"
   },
@@ -16783,20 +16783,6 @@
     ],
     "name": "Europa Universalis IV"
   },
-  "2369390": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      }
-    ],
-    "folders": [
-      "FarCry"
-    ],
-    "name": "Far Cry\u00ae 6"
-  },
   "2370000": {
     "config_count": 1,
     "devices": [],
@@ -24768,7 +24754,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2066,
+    "config_count": 2068,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -27921,7 +27907,7 @@
     "name": "Stellar Blade\u2122"
   },
   "349040": {
-    "config_count": 78,
+    "config_count": 79,
     "devices": [
       {
         "d": "G615_MC2",
@@ -28014,11 +28000,6 @@
         "s": "Mali-G720 MC7"
       },
       {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      },
-      {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
@@ -28037,6 +28018,11 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
@@ -36003,7 +35989,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "G720_MC7",
@@ -36049,6 +36035,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -36057,7 +36048,8 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry"
+      "far_cry",
+      "FarCry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -37042,7 +37034,7 @@
     "name": "Moonlighter"
   },
   "606280": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -37055,13 +37047,19 @@
         "s": "Adreno (TM) 825"
       },
       {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
+      },
+      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
       }
     ],
     "folders": [
-      "Darksiders_III"
+      "Darksiders_III",
+      "Darksiders"
     ],
     "name": "Darksiders III"
   },
@@ -38366,7 +38364,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 6,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__A32",
@@ -38377,16 +38375,10 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "Darksiders_Genesis",
-      "Darksiders",
       "DarksidersGenesis"
     ],
     "name": "Darksiders Genesis"
@@ -39206,7 +39198,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 38,
+    "config_count": 39,
     "devices": [
       {
         "d": "G720_MC7",
@@ -39252,6 +39244,11 @@
         "d": "Maleoon_920C",
         "m": "LX9",
         "s": "Maleoon 920C"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "G76_MC4",
@@ -44559,7 +44556,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3199,
+    "config_count": 3200,
     "devices": [
       {
         "d": "G52_MC2",
@@ -46120,7 +46117,7 @@
     "name": "PES 2017 Online Warriors Crack"
   },
   "name:pes-2018": {
-    "config_count": 39,
+    "config_count": 40,
     "devices": [
       {
         "d": "G57",
@@ -46136,11 +46133,6 @@
         "d": "Adreno__TM__830",
         "m": "S936B",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
       },
       {
         "d": "G615_MC6",
@@ -46211,6 +46203,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
@@ -46622,6 +46619,14 @@
       "RecCloud_Multi_Monitor_Capture"
     ],
     "name": "Reccloud Multi Monitor Capture"
+  },
+  "name:redout-win64-shipping": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "redout-Win64-Shipping"
+    ],
+    "name": "Redout Win64 Shipping"
   },
   "name:remoteplayinstaller-1": {
     "config_count": 1,
