@@ -6630,7 +6630,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 118,
+    "config_count": 119,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -6706,6 +6706,11 @@
         "d": "Adreno__TM__650",
         "m": "23043RP34G",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S931B",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "G615_MC6",
@@ -24704,7 +24709,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2048,
+    "config_count": 2053,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25952,6 +25957,11 @@
         "s": "Adreno (TM) 613"
       },
       {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "LX2",
+        "s": "PowerVR Rogue GE8320"
+      },
+      {
         "d": "Adreno__TM__830",
         "m": "NX9",
         "s": "Adreno (TM) 830"
@@ -25965,11 +25975,6 @@
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
         "m": "S942B",
         "s": "ANGLE ((Samsung Xclipse 960) on Vulkan 1.4.304)"
-      },
-      {
-        "d": "PowerVR_Rogue_GE8320",
-        "m": "LX2",
-        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "Adreno__TM__730",
