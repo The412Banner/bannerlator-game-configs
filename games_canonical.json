@@ -6319,7 +6319,7 @@
     "name": "The Legend of Heroes: Sen no Kiseki II KAI -The Erebonian Civil War-"
   },
   "1451190": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -6335,6 +6335,11 @@
         "d": "Adreno__TM__830",
         "m": "CPH2653",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__829",
+        "m": "1",
+        "s": "Adreno (TM) 829"
       }
     ],
     "folders": [
@@ -8155,7 +8160,7 @@
     "name": "Minishoot' Adventures"
   },
   "1636440": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "A566E",
@@ -22418,12 +22423,17 @@
     "name": "Crazy Taxi: World Tour"
   },
   "2928600": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__610",
         "m": "RMX1911",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__829",
+        "m": "1",
+        "s": "Adreno (TM) 829"
       }
     ],
     "folders": [
@@ -23328,6 +23338,20 @@
     ],
     "name": "THE KING OF FIGHTERS XIII GLOBAL MATCH"
   },
+  "3053950": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G77",
+        "m": "Mali",
+        "s": "Mali-G77"
+      }
+    ],
+    "folders": [
+      "Dungeon_Rampage"
+    ],
+    "name": "Dungeon Rampage Remastered"
+  },
   "305620": {
     "config_count": 4,
     "devices": [
@@ -23381,7 +23405,7 @@
     "name": "Portrait of a Torn"
   },
   "3059520": {
-    "config_count": 25,
+    "config_count": 21,
     "devices": [
       {
         "d": "G57_MC2",
@@ -23437,11 +23461,6 @@
         "d": "Adreno__TM__650",
         "m": "G780G",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "23129RA5FL",
-        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
@@ -24770,7 +24789,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2071,
+    "config_count": 2072,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -29237,14 +29256,6 @@
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
-  },
   "3681010": {
     "config_count": 2,
     "devices": [
@@ -31760,14 +31771,6 @@
     ],
     "name": "Stronghold 2: Steam Edition"
   },
-  "40970": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Stronghold_Crusader_HD"
-    ],
-    "name": "Stronghold Crusader HD (2012)"
-  },
   "409710": {
     "config_count": 5,
     "devices": [
@@ -32112,7 +32115,7 @@
     ],
     "name": "My Winter Car"
   },
-  "4165910": {
+  "4165890": {
     "config_count": 5,
     "devices": [
       {
@@ -32124,7 +32127,7 @@
     "folders": [
       "Steam"
     ],
-    "name": "Steam Machine"
+    "name": "Steam Frame"
   },
   "418030": {
     "config_count": 1,
@@ -37548,7 +37551,7 @@
     "name": "Slay the Spire"
   },
   "646910": {
-    "config_count": 19,
+    "config_count": 16,
     "devices": [
       {
         "d": "SM8750P",
@@ -37579,16 +37582,10 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "Immortalis_MC12",
-        "m": "G925",
-        "s": "Mali-G925-Immortalis MC12"
       }
     ],
     "folders": [
-      "The_Crew__2",
-      "The_Crew_2"
+      "The_Crew__2"
     ],
     "name": "The Crew\u2122 2"
   },
@@ -42978,6 +42975,20 @@
     ],
     "name": "F E A R Platinum Collection"
   },
+  "name:f1-2014": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
+      }
+    ],
+    "folders": [
+      "F1_2014"
+    ],
+    "name": "F1 2014"
+  },
   "name:fallout-new-vegas-pcr": {
     "config_count": 2,
     "devices": [],
@@ -46894,6 +46905,14 @@
     ],
     "name": "Shproto"
   },
+  "name:silent-hill-3": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "SILENT_HILL_3"
+    ],
+    "name": "Silent Hill 3"
+  },
   "name:skyrimlauncher": {
     "config_count": 1,
     "devices": [],
@@ -46925,6 +46944,14 @@
       "Snapshot__Lewd_Shores"
     ],
     "name": "Snapshot Lewd Shores"
+  },
+  "name:sniper-ghost-warrior-1": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 1"
   },
   "name:sniper-x86": {
     "config_count": 1,
@@ -47098,6 +47125,14 @@
     ],
     "name": "Strandedsteam"
   },
+  "name:stronghold-crusader-hd": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Stronghold_Crusader_HD"
+    ],
+    "name": "Stronghold Crusader Hd"
+  },
   "name:studio64": {
     "config_count": 1,
     "devices": [
@@ -47190,6 +47225,20 @@
       "The_Amazing_Spider-Man_2"
     ],
     "name": "The Amazing Spider Man 2"
+  },
+  "name:the-crew-2": {
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Immortalis_MC12",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC12"
+      }
+    ],
+    "folders": [
+      "The_Crew_2"
+    ],
+    "name": "The Crew 2"
   },
   "name:the-king-of-fighters-xiii-galaxy-edition": {
     "config_count": 1,
