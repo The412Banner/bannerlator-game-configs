@@ -203,7 +203,7 @@
     "name": "The Long Drive"
   },
   "10180": {
-    "config_count": 48,
+    "config_count": 49,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -309,6 +309,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
@@ -12166,7 +12171,7 @@
     "name": "Call of Juarez: Gunslinger"
   },
   "2050650": {
-    "config_count": 84,
+    "config_count": 85,
     "devices": [
       {
         "d": "G57_MC2",
@@ -14943,7 +14948,7 @@
     "name": "Command & Conquer\u2122 Generals"
   },
   "22300": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -18241,19 +18246,19 @@
     "config_count": 2,
     "devices": [
       {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
-      },
-      {
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       }
     ],
     "folders": [
-      "pants",
-      "SpongeBob_SquarePants__Titans_of_the_Tide"
+      "SpongeBob_SquarePants__Titans_of_the_Tide",
+      "pants"
     ],
     "name": "SpongeBob SquarePants: Titans of the Tide"
   },
@@ -18330,7 +18335,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -24692,7 +24697,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2043,
+    "config_count": 2045,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -27385,14 +27390,6 @@
       "Heavy_Weapon"
     ],
     "name": "Heavy Weapon Deluxe"
-  },
-  "3419290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN"
   },
   "341940": {
     "config_count": 4,
@@ -31349,6 +31346,14 @@
       "The_Spike"
     ],
     "name": "The Spike Cross"
+  },
+  "3985080": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN - Costume Expansion Pack"
   },
   "400": {
     "config_count": 4,
@@ -35872,7 +35877,7 @@
     "name": "Brick Rigs"
   },
   "55230": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -35898,6 +35903,11 @@
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -37493,7 +37503,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -37512,7 +37522,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2"
+      "LEGO__Marvel_Super_Heroes_2",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -39110,7 +39121,7 @@
     "name": "Dynast.io"
   },
   "7940": {
-    "config_count": 37,
+    "config_count": 38,
     "devices": [
       {
         "d": "G720_MC7",
@@ -39151,6 +39162,11 @@
         "d": "256",
         "m": "8",
         "s": "PowerVR B-Series BXM-8-256"
+      },
+      {
+        "d": "Maleoon_920C",
+        "m": "LX9",
+        "s": "Maleoon 920C"
       },
       {
         "d": "G76_MC4",
