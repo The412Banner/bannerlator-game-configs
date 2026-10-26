@@ -11657,7 +11657,7 @@
     "name": "Dokimon Quest"
   },
   "202170": {
-    "config_count": 74,
+    "config_count": 75,
     "devices": [
       {
         "d": "MT6878",
@@ -11805,11 +11805,6 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
-      },
-      {
         "d": "Adreno__TM__642L",
         "m": "22101320G",
         "s": "Adreno (TM) 642L"
@@ -11818,6 +11813,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       },
       {
         "d": "Adreno__TM__830",
@@ -24828,7 +24828,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2074,
+    "config_count": 2076,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -26214,6 +26214,11 @@
         "d": "Adreno__TM__830",
         "m": "S931B",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "CPH2235",
+        "s": "Adreno (TM) 618"
       }
     ],
     "folders": [
@@ -31535,8 +31540,8 @@
       }
     ],
     "folders": [
-      "How_to__",
-      "How_to_Fish"
+      "How_to_Fish",
+      "How_to__"
     ],
     "name": "How to Fish"
   },
