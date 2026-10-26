@@ -11657,7 +11657,7 @@
     "name": "Dokimon Quest"
   },
   "202170": {
-    "config_count": 75,
+    "config_count": 76,
     "devices": [
       {
         "d": "MT6878",
@@ -11733,11 +11733,6 @@
         "d": "Adreno__TM__725",
         "m": "23049PCD8G",
         "s": "Adreno (TM) 725"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__810",
@@ -11818,6 +11813,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__830",
@@ -24834,7 +24834,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2076,
+    "config_count": 2077,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -26082,11 +26082,6 @@
         "s": "Adreno (TM) 618"
       },
       {
-        "d": "G610_MC6",
-        "m": "Mali",
-        "s": "Mali-G610 MC6"
-      },
-      {
         "d": "Adreno__TM__720",
         "m": "W00",
         "s": "Adreno (TM) 720"
@@ -26095,6 +26090,11 @@
         "d": "Adreno__TM__640",
         "m": "M2102J20SG",
         "s": "Adreno (TM) 640"
+      },
+      {
+        "d": "G610_MC6",
+        "m": "Mali",
+        "s": "Mali-G610 MC6"
       },
       {
         "d": "Adreno__TM__830",
@@ -32076,11 +32076,10 @@
     "name": "Danganronpa: Trigger Happy Havoc"
   },
   "414340": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [],
     "folders": [
-      "Hellblade__Senua_s_Sacrifice",
-      "Hellblade_-_Senua_s_Sacrifice"
+      "Hellblade__Senua_s_Sacrifice"
     ],
     "name": "Hellblade: Senua's Sacrifice"
   },
@@ -40380,7 +40379,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 136,
+    "config_count": 137,
     "devices": [
       {
         "d": "s5e8855",
