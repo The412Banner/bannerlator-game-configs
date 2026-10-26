@@ -4892,6 +4892,12 @@
     "method": "naive",
     "steam_name": "Hello Neighbor Alpha 1"
   },
+  "Hello_neighbor": {
+    "appid": 521890,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/521890/header.jpg",
+    "method": "naive",
+    "steam_name": "Hello Neighbor"
+  },
   "Helltaker": {
     "appid": 1289310,
     "method": "naive",
@@ -5788,6 +5794,10 @@
     "method": "unresolved"
   },
   "Legacy_Launcher_Stable______________________________________": {
+    "appid": null,
+    "method": "non-game"
+  },
+  "Legacy_Launcher_for_Mc-launcher_com_________________________": {
     "appid": null,
     "method": "non-game"
   },
@@ -8742,6 +8752,12 @@
     "appid": 242550,
     "method": "naive",
     "steam_name": "Rayman\u00ae Legends"
+  },
+  "Rayman_Origins": {
+    "appid": 207490,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/207490/header.jpg",
+    "method": "naive",
+    "steam_name": "Rayman\u00ae Origins"
   },
   "Rayman__Origins": {
     "appid": 207490,

@@ -12504,12 +12504,17 @@
     "name": "THE FINALS"
   },
   "207490": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "G77",
+        "m": "Mali",
+        "s": "Mali-G77"
       }
     ],
     "folders": [
@@ -14235,7 +14240,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 137,
+    "config_count": 138,
     "devices": [
       {
         "d": "G52_MC2",
@@ -28129,7 +28134,7 @@
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
   },
   "3493540": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G57_MC2",
@@ -35471,17 +35476,14 @@
     ],
     "name": "Da Capo"
   },
-  "5201760": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "tra"
-    ],
-    "name": "ARC Raiders - Frozen Trail Collector Set"
-  },
   "521890": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      },
       {
         "d": "Adreno__TM__650",
         "m": "G780G",
@@ -35489,6 +35491,7 @@
       }
     ],
     "folders": [
+      "Hello_neighbor",
       "Hello_Neighbor"
     ],
     "name": "Hello Neighbor"
@@ -44660,7 +44663,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3208,
+    "config_count": 3210,
     "devices": [
       {
         "d": "G52_MC2",
