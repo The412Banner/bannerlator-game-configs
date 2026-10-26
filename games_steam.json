@@ -425,6 +425,12 @@
     "method": "naive",
     "steam_name": "Assassin's Creed Mirage - Desert Scorpion Pack"
   },
+  "Assassin_s_Creed_Origins": {
+    "appid": 660080,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/660080/header.jpg",
+    "method": "naive",
+    "steam_name": "Assassin's Creed\u00ae Origins - Season Pass"
+  },
   "Assassin_s_Creed_Rogue_IV_": {
     "appid": null,
     "method": "unresolved"
@@ -4894,7 +4900,6 @@
   },
   "Hello_neighbor": {
     "appid": 521890,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/521890/header.jpg",
     "method": "naive",
     "steam_name": "Hello Neighbor"
   },
@@ -8755,7 +8760,6 @@
   },
   "Rayman_Origins": {
     "appid": 207490,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/207490/header.jpg",
     "method": "naive",
     "steam_name": "Rayman\u00ae Origins"
   },

@@ -1499,7 +1499,7 @@
     "name": "EARTH DEFENSE FORCE: IRON RAIN - Creation parts: T-Shirt: EDF5 Symbol"
   },
   "110800": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -12507,19 +12507,19 @@
     "config_count": 3,
     "devices": [
       {
-        "d": "G68",
-        "m": "Mali",
-        "s": "Mali-G68"
-      },
-      {
         "d": "G77",
         "m": "Mali",
         "s": "Mali-G77"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
       }
     ],
     "folders": [
-      "Rayman__Origins",
-      "Rayman_Origins"
+      "Rayman_Origins",
+      "Rayman__Origins"
     ],
     "name": "Rayman\u00ae Origins"
   },
@@ -13035,7 +13035,7 @@
     "name": "Granny Remake"
   },
   "2114740": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G57_MC2",
@@ -13056,6 +13056,11 @@
         "d": "Adreno__TM__830",
         "m": "AN00",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
       }
     ],
     "folders": [
@@ -21385,7 +21390,7 @@
     "name": "SimplePlanes 2"
   },
   "284160": {
-    "config_count": 28,
+    "config_count": 30,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -21441,6 +21446,11 @@
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__610",
@@ -24839,7 +24849,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2077,
+    "config_count": 2082,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -28246,7 +28256,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -28307,6 +28317,11 @@
         "d": "Adreno__TM__640",
         "m": "M2102J20SG",
         "s": "Adreno (TM) 640"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "24117RK2CG",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -37828,7 +37843,7 @@
     "name": "The Bureau: XCOM Declassified"
   },
   "660080": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "Immortalis_MC11",
@@ -37872,7 +37887,8 @@
       }
     ],
     "folders": [
-      "Assassin_s_Creed__Origins"
+      "Assassin_s_Creed__Origins",
+      "Assassin_s_Creed_Origins"
     ],
     "name": "Assassin's Creed\u00ae Origins - Season Pass"
   },
@@ -44663,7 +44679,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3210,
+    "config_count": 3212,
     "devices": [
       {
         "d": "G52_MC2",
