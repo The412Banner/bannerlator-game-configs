@@ -1556,7 +1556,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1565,8 +1565,7 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid",
-      "Rangers"
+      "BattleForTheGrid"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -11657,7 +11656,7 @@
     "name": "Dokimon Quest"
   },
   "202170": {
-    "config_count": 76,
+    "config_count": 75,
     "devices": [
       {
         "d": "MT6878",
@@ -21099,6 +21098,14 @@
     ],
     "name": "9 Kings"
   },
+  "2787680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Candy Rangers"
+  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -23598,7 +23605,7 @@
     "name": "MotoGP\u212225"
   },
   "307780": {
-    "config_count": 44,
+    "config_count": 45,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -24065,6 +24072,14 @@
       "FINAL_FANTASY_XIV_Online_Free_Trial"
     ],
     "name": "FINAL FANTASY XIV Online Free Trial"
+  },
+  "3120600": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "RoomGirl"
+    ],
+    "name": "VR Harem Life ~ Your Room Became a Hang-Out for Girls!? ~"
   },
   "3121490": {
     "config_count": 1,
@@ -24849,7 +24864,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2082,
+    "config_count": 2083,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -26262,7 +26277,7 @@
     "name": "Grand Theft Auto V Enhanced"
   },
   "3241660": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "G57",
@@ -28144,7 +28159,7 @@
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
   },
   "3493540": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G57_MC2",
@@ -28882,14 +28897,6 @@
       "Mafia_III__Definitive_Edition"
     ],
     "name": "Mafia III: Definitive Edition"
-  },
-  "3606830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "RoomGirl"
-    ],
-    "name": "Life in The Janitor's Room with A JK Girl"
   },
   "361420": {
     "config_count": 2,
@@ -35491,6 +35498,14 @@
     ],
     "name": "Da Capo"
   },
+  "5201760": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "tra"
+    ],
+    "name": "ARC Raiders - Frozen Trail Collector Set"
+  },
   "521890": {
     "config_count": 4,
     "devices": [
@@ -37887,8 +37902,8 @@
       }
     ],
     "folders": [
-      "Assassin_s_Creed__Origins",
-      "Assassin_s_Creed_Origins"
+      "Assassin_s_Creed_Origins",
+      "Assassin_s_Creed__Origins"
     ],
     "name": "Assassin's Creed\u00ae Origins - Season Pass"
   },
@@ -44679,7 +44694,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3212,
+    "config_count": 3214,
     "devices": [
       {
         "d": "G52_MC2",
@@ -45602,11 +45617,6 @@
         "s": "Mali-G76"
       },
       {
-        "d": "G52",
-        "m": "Mali",
-        "s": "Mali-G52"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "23021RAAEG",
         "s": "Adreno (TM) 610"
@@ -45675,6 +45685,16 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G52",
+        "m": "Mali",
+        "s": "Mali-G52"
+      },
+      {
+        "d": "54_1_0_",
+        "m": "G57_MC2",
+        "s": "ANGLE (ARM, Vulkan 1.3.303 (Mali-G57 MC2 (0x90930010)), Mali-G57 MC2-54.1.0)"
       },
       {
         "d": "Adreno__TM__740",
