@@ -522,6 +522,10 @@
     "appid": 33230,
     "method": "alias"
   },
+  "AssetStudioGUI": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "Assetto_Corsa": {
     "appid": 244210,
     "method": "naive",
@@ -987,7 +991,6 @@
   },
   "Blades_and_Battles": {
     "appid": 3284260,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3284260/header.jpg",
     "method": "naive",
     "steam_name": "Blades & Battles"
   },
@@ -6762,7 +6765,6 @@
   },
   "Moadra": {
     "appid": 1713730,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1713730/header.jpg",
     "method": "naive",
     "steam_name": "Moadra"
   },
@@ -11348,7 +11350,6 @@
   },
   "Truckful": {
     "appid": 3090810,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3090810/header.jpg",
     "method": "naive",
     "steam_name": "Truckful"
   },
@@ -12733,7 +12734,6 @@
   },
   "gta_5": {
     "appid": 3240220,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3240220/header.jpg",
     "method": "naive",
     "steam_name": "Grand Theft Auto V Enhanced"
   },
