@@ -2625,7 +2625,7 @@
     "name": "I.G.I. Origins"
   },
   "1187": {
-    "config_count": 4,
+    "config_count": 2,
     "devices": [
       {
         "d": "G77_MC9",
@@ -2634,8 +2634,7 @@
       }
     ],
     "folders": [
-      "ACC",
-      "Assassin_s_Creed_Rogue"
+      "ACC"
     ],
     "name": "Acc"
   },
@@ -4059,7 +4058,7 @@
     "name": "Mass Effect\u2122 3 N7 Digital Deluxe Edition (2012)"
   },
   "1238060": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -4085,6 +4084,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__642L",
+        "m": "22101320G",
+        "s": "Adreno (TM) 642L"
       },
       {
         "d": "G76",
@@ -6911,7 +6915,7 @@
     "name": "Pico Park"
   },
   "15100": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -10871,7 +10875,7 @@
     "name": "Fifa 19"
   },
   "1938090": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -10881,7 +10885,6 @@
     ],
     "folders": [
       "Call_Of_Duty_MW2",
-      "CallOf_Duty",
       "Call_of_Duty"
     ],
     "name": "Call of Duty\u00ae"
@@ -13726,7 +13729,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 122,
+    "config_count": 123,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -14102,14 +14105,6 @@
       "Apollo_Justice__Ace_Attorney_Trilogy"
     ],
     "name": "Apollo Justice Ace Attorney Trilogy"
-  },
-  "2187290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Wall_World_2"
-    ],
-    "name": "Wall World"
   },
   "2191780": {
     "config_count": 1,
@@ -22417,7 +22412,7 @@
     "name": "ONE PIECE Bounty Rush"
   },
   "292030": {
-    "config_count": 14,
+    "config_count": 20,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -22428,6 +22423,11 @@
         "d": "Adreno__TM__829",
         "m": "PLR110",
         "s": "Adreno (TM) 829"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "CPH2745",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__830",
@@ -22443,6 +22443,11 @@
         "d": "Adreno__TM__830",
         "m": "CPH2653",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "V2425A",
+        "s": "Adreno (TM) 750"
       },
       {
         "d": "G57_MC2",
@@ -22468,9 +22473,12 @@
     "folders": [
       "The_Witcher_3__Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3__Wild_Hunt___Remastered",
+      "The_Witcher_3",
       "The_Witcher_3_-_Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
+      "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
       "The_Witcher_3_-_Wild_Hunt___Remastered",
+      "Witcher_1",
       "_Witcher",
       "witcher3"
     ],
@@ -24022,9 +24030,10 @@
     "name": "METAL GEAR SOLID V: GROUND ZEROES"
   },
   "311560": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [],
     "folders": [
+      "Assassin_s_Creed_Rogue",
       "Assassins_Creed_Rogue"
     ],
     "name": "Assassin\u2019s Creed\u00ae Rogue"
@@ -27868,6 +27877,14 @@
     ],
     "name": "ACS"
   },
+  "3467710": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Wall_World_2"
+    ],
+    "name": "Wall World 2"
+  },
   "3468650": {
     "config_count": 2,
     "devices": [
@@ -30499,7 +30516,7 @@
     "name": "Ori and the Blind Forest: Definitive Edition"
   },
   "3875050": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -30520,6 +30537,11 @@
         "d": "Adreno__TM__750",
         "m": "TB321FU",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       },
       {
         "d": "G57_MC2",
@@ -33337,7 +33359,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -33348,6 +33370,7 @@
     "folders": [
       "Call_of_Duty_4",
       "COD__Modern_Warfare",
+      "CallOf_Duty",
       "Call_of_Duty_4_Modern_Warfare",
       "Call_of_duty_Modern_Warfare",
       "call_of_duty_4_modern_Warfare"
@@ -38068,7 +38091,7 @@
     "name": "Fight'N Rage"
   },
   "675010": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "G720_MC7",
@@ -47471,28 +47494,6 @@
     ],
     "name": "The Sims 2 Launcher"
   },
-  "name:the-witcher-3": {
-    "config_count": 3,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "CPH2745",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "The_Witcher_3"
-    ],
-    "name": "The Witcher 3"
-  },
-  "name:the-witcher-3-wild-hunt-game-of-the-year-edition": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition"
-    ],
-    "name": "The Witcher 3 Wild Hunt Game Of The Year Edition"
-  },
   "name:thps12": {
     "config_count": 1,
     "devices": [
@@ -47700,20 +47701,6 @@
       "Wasteland_3_Colorado_Survival_Gear_DLC"
     ],
     "name": "Wasteland 3 Colorado Survival Gear Dlc"
-  },
-  "name:witcher-1": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__750",
-        "m": "V2425A",
-        "s": "Adreno (TM) 750"
-      }
-    ],
-    "folders": [
-      "Witcher_1"
-    ],
-    "name": "Witcher 1"
   },
   "name:wizard-school-exchange-student": {
     "config_count": 1,
