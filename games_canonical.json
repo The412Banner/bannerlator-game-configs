@@ -21135,14 +21135,6 @@
     ],
     "name": "9 Kings"
   },
-  "2787680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Candy Rangers"
-  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -23465,6 +23457,14 @@
     ],
     "name": "Dungeon Rampage Remastered"
   },
+  "3054410": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Bushside Rangers"
+  },
   "305620": {
     "config_count": 4,
     "devices": [
@@ -24915,7 +24915,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2091,
+    "config_count": 2092,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -26033,11 +26033,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "Adreno__TM__642L",
-        "m": "22101320G",
-        "s": "Adreno (TM) 642L"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "motorola_edge_50_fusion",
         "s": "Adreno (TM) 710"
@@ -26176,6 +26171,11 @@
         "d": "G610_MC6",
         "m": "Mali",
         "s": "Mali-G610 MC6"
+      },
+      {
+        "d": "Adreno__TM__642L",
+        "m": "22101320G",
+        "s": "Adreno (TM) 642L"
       },
       {
         "d": "Adreno__TM__830",
@@ -29952,7 +29952,7 @@
     "name": "007 First Light"
   },
   "377160": {
-    "config_count": 24,
+    "config_count": 25,
     "devices": [
       {
         "d": "SM8750P",
@@ -30017,7 +30017,8 @@
     ],
     "folders": [
       "Fallout_4",
-      "Fallout_4_-_Game_of_the_Year_Edition"
+      "Fallout_4_-_Game_of_the_Year_Edition",
+      "fallout4"
     ],
     "name": "Fallout 4"
   },
@@ -35606,7 +35607,7 @@
     "name": "ARC Raiders - Frozen Trail Collector Set"
   },
   "521890": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "G52_MC2",
@@ -35621,6 +35622,7 @@
     ],
     "folders": [
       "Hello_neighbor",
+      "HelloNeighbor",
       "Hello_Neighbor"
     ],
     "name": "Hello Neighbor"
