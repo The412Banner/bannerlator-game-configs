@@ -14,6 +14,20 @@
     ],
     "name": "Counter-Strike"
   },
+  "1002300": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "Fear___Hunger"
+    ],
+    "name": "Fear & Hunger"
+  },
   "1004640": {
     "config_count": 1,
     "devices": [
@@ -10875,7 +10889,7 @@
     "name": "Fifa 19"
   },
   "1938090": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -10885,6 +10899,7 @@
     ],
     "folders": [
       "Call_Of_Duty_MW2",
+      "CallOf_Duty",
       "Call_of_Duty"
     ],
     "name": "Call of Duty\u00ae"
@@ -13911,20 +13926,6 @@
       "Of_Orcs_and_Men"
     ],
     "name": "Of Orcs And Men"
-  },
-  "2171440": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "NX809J",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "Fear___Hunger"
-    ],
-    "name": "Fear & Hunger 2: Termina"
   },
   "2172910": {
     "config_count": 1,
@@ -29961,7 +29962,7 @@
     "name": "007 First Light"
   },
   "377160": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "SM8750P",
@@ -33102,8 +33103,13 @@
     "name": "2Dark"
   },
   "435150": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "F971B",
+        "s": "Adreno (TM) 840"
+      },
       {
         "d": "G720_MC8",
         "m": "Mali",
@@ -33111,9 +33117,10 @@
       }
     ],
     "folders": [
+      "Divinity__Original_Sin_2",
       "Divinity_-_Original_Sin_2_-_Definitive_Edition"
     ],
-    "name": "Divinity - Original Sin 2 - Definitive Edition"
+    "name": "Divinity: Original Sin 2 - Definitive Edition"
   },
   "435530": {
     "config_count": 1,
@@ -33359,7 +33366,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -33370,7 +33377,6 @@
     "folders": [
       "Call_of_Duty_4",
       "COD__Modern_Warfare",
-      "CallOf_Duty",
       "Call_of_Duty_4_Modern_Warfare",
       "Call_of_duty_Modern_Warfare",
       "call_of_duty_4_modern_Warfare"
@@ -33406,20 +33412,13 @@
     "name": "This Is the Police"
   },
   "4439810": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [],
     "folders": [
-      "Forza_Horizon_2_____________________________________________"
-    ],
-    "name": "Forza Horizon 6 2024 Koenigsegg Gemera"
-  },
-  "4439830": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
+      "Forza_Horizon_2_____________________________________________",
       "Forza_Horizon_2"
     ],
-    "name": "Forza Horizon 6 2008 Honda Civic Type R (FD2)"
+    "name": "Forza Horizon 6 2024 Koenigsegg Gemera"
   },
   "444200": {
     "config_count": 1,
@@ -40068,7 +40067,7 @@
     "name": "STEINS;GATE ELITE"
   },
   "830461": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "G720_MC8",
