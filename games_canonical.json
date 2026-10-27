@@ -14,20 +14,6 @@
     ],
     "name": "Counter-Strike"
   },
-  "1002300": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "NX809J",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "Fear___Hunger"
-    ],
-    "name": "Fear & Hunger"
-  },
   "1004640": {
     "config_count": 1,
     "devices": [
@@ -13908,6 +13894,20 @@
     ],
     "name": "Of Orcs And Men"
   },
+  "2171440": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "Fear___Hunger"
+    ],
+    "name": "Fear & Hunger 2: Termina"
+  },
   "2172910": {
     "config_count": 1,
     "devices": [
@@ -14971,7 +14971,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -15011,7 +15011,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev"
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -16873,6 +16874,20 @@
       "Europa_Universalis_IV"
     ],
     "name": "Europa Universalis IV"
+  },
+  "2369390": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "FarCry"
+    ],
+    "name": "Far Cry\u00ae 6"
   },
   "2370000": {
     "config_count": 1,
@@ -22003,7 +22018,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -22043,8 +22058,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -22759,6 +22773,14 @@
       "God_Of_War_II"
     ],
     "name": "WarOfGods 2"
+  },
+  "2977260": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "THEg"
+    ],
+    "name": "The Guild 1 Remake: Europa 1410"
   },
   "297860": {
     "config_count": 1,
@@ -24078,14 +24100,6 @@
       "FINAL_FANTASY_XIV_Online_Free_Trial"
     ],
     "name": "FINAL FANTASY XIV Online Free Trial"
-  },
-  "3120600": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "RoomGirl"
-    ],
-    "name": "VR Harem Life ~ Your Room Became a Hang-Out for Girls!? ~"
   },
   "3121490": {
     "config_count": 1,
@@ -28165,7 +28179,7 @@
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
   },
   "3493540": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G57_MC2",
@@ -28903,6 +28917,14 @@
       "Mafia_III__Definitive_Edition"
     ],
     "name": "Mafia III: Definitive Edition"
+  },
+  "3606830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "RoomGirl"
+    ],
+    "name": "Life in The Janitor's Room with A JK Girl"
   },
   "361420": {
     "config_count": 2,
@@ -30432,7 +30454,7 @@
     "name": "Ori and the Blind Forest: Definitive Edition"
   },
   "3875050": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -30462,7 +30484,8 @@
     ],
     "folders": [
       "MotoGP_26",
-      "motogp_"
+      "motogp_",
+      "MotoGP_26___"
     ],
     "name": "MotoGP\u212226"
   },
@@ -31613,6 +31636,14 @@
       "BeatTheChampions"
     ],
     "name": "Beat The Champions"
+  },
+  "4010550": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Demon_Slayer_-Kimetsu_no_Yaiba-_The_Hinokami_Chronicles_2__Playable_Character__Doma"
+    ],
+    "name": "Demon Slayer -Kimetsu No Yaiba- The Hinokami Chronicles 2 Playable Character Doma"
   },
   "4024440": {
     "config_count": 1,
@@ -34554,14 +34585,6 @@
     ],
     "name": "KARAKARA"
   },
-  "4881480": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "THEg"
-    ],
-    "name": "The Great Wife's Guide"
-  },
   "489630": {
     "config_count": 1,
     "devices": [
@@ -35083,7 +35106,7 @@
     "name": "Trails in the Sky 2nd Chapter Demo"
   },
   "50130": {
-    "config_count": 43,
+    "config_count": 44,
     "devices": [
       {
         "d": "MT6781",
@@ -35174,6 +35197,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G610_MC6",
+        "m": "Mali",
+        "s": "Mali-G610 MC6"
       }
     ],
     "folders": [
@@ -35511,14 +35539,6 @@
       "dacapo"
     ],
     "name": "Da Capo"
-  },
-  "5201760": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "tra"
-    ],
-    "name": "ARC Raiders - Frozen Trail Collector Set"
   },
   "521890": {
     "config_count": 4,
@@ -36138,7 +36158,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 21,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -36184,11 +36204,6 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -36197,8 +36212,7 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry",
-      "FarCry"
+      "far_cry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -36357,7 +36371,7 @@
     "name": "My Friend Pedro"
   },
   "561610": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "G57",
@@ -36373,6 +36387,11 @@
         "d": "G610_MC6",
         "m": "Mali",
         "s": "Mali-G610 MC6"
+      },
+      {
+        "d": "G610_MC2",
+        "m": "Mali",
+        "s": "Mali-G610 MC2"
       }
     ],
     "folders": [
@@ -44714,7 +44733,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3219,
+    "config_count": 3220,
     "devices": [
       {
         "d": "G52_MC2",
@@ -45702,11 +45721,6 @@
         "s": "Mali-G57 MC2"
       },
       {
-        "d": "G52",
-        "m": "Mali",
-        "s": "Mali-G52"
-      },
-      {
         "d": "54_1_0_",
         "m": "G57_MC2",
         "s": "ANGLE (ARM, Vulkan 1.3.303 (Mali-G57 MC2 (0x90930010)), Mali-G57 MC2-54.1.0)"
@@ -45715,6 +45729,11 @@
         "d": "256",
         "m": "8",
         "s": "PowerVR B-Series BXM-8-256"
+      },
+      {
+        "d": "G52",
+        "m": "Mali",
+        "s": "Mali-G52"
       },
       {
         "d": "Adreno__TM__740",
