@@ -14,20 +14,6 @@
     ],
     "name": "Counter-Strike"
   },
-  "1002300": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "NX809J",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "Fear___Hunger"
-    ],
-    "name": "Fear & Hunger"
-  },
   "1004640": {
     "config_count": 1,
     "devices": [
@@ -13923,6 +13909,20 @@
     ],
     "name": "Of Orcs And Men"
   },
+  "2171440": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "Fear___Hunger"
+    ],
+    "name": "Fear & Hunger 2: Termina"
+  },
   "2172910": {
     "config_count": 1,
     "devices": [
@@ -14102,6 +14102,14 @@
       "Apollo_Justice__Ace_Attorney_Trilogy"
     ],
     "name": "Apollo Justice Ace Attorney Trilogy"
+  },
+  "2187290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Wall_World_2"
+    ],
+    "name": "Wall World"
   },
   "2191780": {
     "config_count": 1,
@@ -22409,7 +22417,7 @@
     "name": "ONE PIECE Bounty Rush"
   },
   "292030": {
-    "config_count": 20,
+    "config_count": 14,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -22420,11 +22428,6 @@
         "d": "Adreno__TM__829",
         "m": "PLR110",
         "s": "Adreno (TM) 829"
-      },
-      {
-        "d": "Adreno__TM__840",
-        "m": "CPH2745",
-        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__830",
@@ -22440,11 +22443,6 @@
         "d": "Adreno__TM__830",
         "m": "CPH2653",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "V2425A",
-        "s": "Adreno (TM) 750"
       },
       {
         "d": "G57_MC2",
@@ -22470,12 +22468,9 @@
     "folders": [
       "The_Witcher_3__Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3__Wild_Hunt___Remastered",
-      "The_Witcher_3",
       "The_Witcher_3_-_Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
-      "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
       "The_Witcher_3_-_Wild_Hunt___Remastered",
-      "Witcher_1",
       "_Witcher",
       "witcher3"
     ],
@@ -27873,14 +27868,6 @@
     ],
     "name": "ACS"
   },
-  "3467710": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Wall_World_2"
-    ],
-    "name": "Wall World 2"
-  },
   "3468650": {
     "config_count": 2,
     "devices": [
@@ -32832,7 +32819,7 @@
     "name": "LEGO\u00ae MARVEL's Avengers Season Pass"
   },
   "42700": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -33396,13 +33383,20 @@
     "name": "This Is the Police"
   },
   "4439810": {
-    "config_count": 3,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "Forza_Horizon_2_____________________________________________",
-      "Forza_Horizon_2"
+      "Forza_Horizon_2_____________________________________________"
     ],
     "name": "Forza Horizon 6 2024 Koenigsegg Gemera"
+  },
+  "4439830": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Forza_Horizon_2"
+    ],
+    "name": "Forza Horizon 6 2008 Honda Civic Type R (FD2)"
   },
   "444200": {
     "config_count": 1,
@@ -42321,7 +42315,7 @@
     "name": "Baldisbasicsplusadvanced"
   },
   "name:batmanac": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "BatmanAC"
@@ -42495,12 +42489,17 @@
     "name": "Blazblue Central Fiction"
   },
   "name:bmlauncher": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "RMX3840",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
@@ -44637,6 +44636,14 @@
       "obse_loader"
     ],
     "name": "Obse Loader"
+  },
+  "name:olgame": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "OLGame"
+    ],
+    "name": "Olgame"
   },
   "name:onlyoffice": {
     "config_count": 1,
@@ -47464,6 +47471,28 @@
     ],
     "name": "The Sims 2 Launcher"
   },
+  "name:the-witcher-3": {
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "CPH2745",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "The_Witcher_3"
+    ],
+    "name": "The Witcher 3"
+  },
+  "name:the-witcher-3-wild-hunt-game-of-the-year-edition": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition"
+    ],
+    "name": "The Witcher 3 Wild Hunt Game Of The Year Edition"
+  },
   "name:thps12": {
     "config_count": 1,
     "devices": [
@@ -47671,6 +47700,20 @@
       "Wasteland_3_Colorado_Survival_Gear_DLC"
     ],
     "name": "Wasteland 3 Colorado Survival Gear Dlc"
+  },
+  "name:witcher-1": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "V2425A",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Witcher_1"
+    ],
+    "name": "Witcher 1"
   },
   "name:wizard-school-exchange-student": {
     "config_count": 1,
