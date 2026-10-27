@@ -14,6 +14,20 @@
     ],
     "name": "Counter-Strike"
   },
+  "1002300": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "Fear___Hunger"
+    ],
+    "name": "Fear & Hunger"
+  },
   "1004640": {
     "config_count": 1,
     "devices": [
@@ -7559,7 +7573,7 @@
     "name": "Selaco"
   },
   "1593500": {
-    "config_count": 183,
+    "config_count": 184,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -8979,6 +8993,14 @@
       "Project_Castaway"
     ],
     "name": "Project Castaway"
+  },
+  "1713730": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Moadra"
+    ],
+    "name": "Moadra"
   },
   "1714510": {
     "config_count": 2,
@@ -13893,20 +13915,6 @@
       "Of_Orcs_and_Men"
     ],
     "name": "Of Orcs And Men"
-  },
-  "2171440": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "NX809J",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "Fear___Hunger"
-    ],
-    "name": "Fear & Hunger 2: Termina"
   },
   "2172910": {
     "config_count": 1,
@@ -23744,6 +23752,20 @@
     ],
     "name": "Prop Sumo"
   },
+  "3090810": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
+      }
+    ],
+    "folders": [
+      "Truckful"
+    ],
+    "name": "Truckful"
+  },
   "3091140": {
     "config_count": 1,
     "devices": [],
@@ -23851,7 +23873,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 51,
+    "config_count": 53,
     "devices": [
       {
         "d": "G78",
@@ -23914,11 +23936,6 @@
         "s": "Adreno (TM) 825"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
@@ -23927,6 +23944,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__750",
@@ -24884,7 +24906,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2085,
+    "config_count": 2087,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -26290,6 +26312,7 @@
       "PlayGTAV",
       "_____5",
       "gta5",
+      "gta_5",
       "GTA5",
       "GTA_V",
       "Grand_Theft_Auto___V"
@@ -26585,6 +26608,20 @@
       "LANESPLIT"
     ],
     "name": "LANESPLIT"
+  },
+  "3284260": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
+      }
+    ],
+    "folders": [
+      "Blades_and_Battles"
+    ],
+    "name": "Blades & Battles"
   },
   "3285500": {
     "config_count": 1,
@@ -27748,6 +27785,20 @@
       "Touhou_Farming___Minoriko_s_Homestead_Harvest"
     ],
     "name": "Touhou Farming ~ Minoriko's Homestead Harvest"
+  },
+  "3448650": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "I2220",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Aliens_-_Fireteam_Elite"
+    ],
+    "name": "Aliens: Fireteam Elite 2"
   },
   "345180": {
     "config_count": 3,
@@ -30484,8 +30535,8 @@
     ],
     "folders": [
       "MotoGP_26",
-      "motogp_",
-      "MotoGP_26___"
+      "MotoGP_26___",
+      "motogp_"
     ],
     "name": "MotoGP\u212226"
   },
@@ -39670,7 +39721,7 @@
     "name": "Monster Sanctuary"
   },
   "814380": {
-    "config_count": 85,
+    "config_count": 86,
     "devices": [
       {
         "d": "Adreno__TM__650",

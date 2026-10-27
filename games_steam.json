@@ -985,6 +985,12 @@
     "appid": null,
     "method": "non-game"
   },
+  "Blades_and_Battles": {
+    "appid": 3284260,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3284260/header.jpg",
+    "method": "naive",
+    "steam_name": "Blades & Battles"
+  },
   "Blades_of_Time": {
     "appid": 208670,
     "method": "naive",
@@ -6754,6 +6760,12 @@
     "method": "naive",
     "steam_name": "Mixtape"
   },
+  "Moadra": {
+    "appid": 1713730,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1713730/header.jpg",
+    "method": "naive",
+    "steam_name": "Moadra"
+  },
   "Modmanager": {
     "appid": null,
     "method": "unresolved"
@@ -6914,7 +6926,6 @@
   },
   "MotoGP_26___": {
     "appid": 3875050,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3875050/header.jpg",
     "method": "naive",
     "steam_name": "MotoGP\u212226"
   },
@@ -11335,6 +11346,12 @@
     "method": "naive",
     "steam_name": "Tropico Reloaded"
   },
+  "Truckful": {
+    "appid": 3090810,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3090810/header.jpg",
+    "method": "naive",
+    "steam_name": "Truckful"
+  },
   "Turok_Evolution": {
     "appid": null,
     "method": "unresolved"
@@ -12711,6 +12728,12 @@
   },
   "gta5": {
     "appid": 3240220,
+    "method": "naive",
+    "steam_name": "Grand Theft Auto V Enhanced"
+  },
+  "gta_5": {
+    "appid": 3240220,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3240220/header.jpg",
     "method": "naive",
     "steam_name": "Grand Theft Auto V Enhanced"
   },
