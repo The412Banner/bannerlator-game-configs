@@ -2639,7 +2639,7 @@
     "name": "I.G.I. Origins"
   },
   "1187": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [
       {
         "d": "G77_MC9",
@@ -2648,7 +2648,8 @@
       }
     ],
     "folders": [
-      "ACC"
+      "ACC",
+      "Assassin_s_Creed_Rogue"
     ],
     "name": "Acc"
   },
@@ -12867,12 +12868,17 @@
     "name": "The Witcher 2: Assassins of Kings Enhanced Edition"
   },
   "209650": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2012K11AG",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
@@ -24021,10 +24027,9 @@
     "name": "METAL GEAR SOLID V: GROUND ZEROES"
   },
   "311560": {
-    "config_count": 3,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "Assassin_s_Creed_Rogue",
       "Assassins_Creed_Rogue"
     ],
     "name": "Assassin\u2019s Creed\u00ae Rogue"
@@ -35621,8 +35626,8 @@
       }
     ],
     "folders": [
-      "Hello_neighbor",
       "HelloNeighbor",
+      "Hello_neighbor",
       "Hello_Neighbor"
     ],
     "name": "Hello Neighbor"
@@ -40890,7 +40895,7 @@
     "name": "Last Epoch"
   },
   "911400": {
-    "config_count": 42,
+    "config_count": 43,
     "devices": [
       {
         "d": "MT6833V_PNZA",
