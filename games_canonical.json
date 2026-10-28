@@ -764,14 +764,6 @@
     ],
     "name": "New Super Lucky's Tale"
   },
-  "1041320": {
-    "config_count": 3,
-    "devices": [],
-    "folders": [
-      "LoK"
-    ],
-    "name": "Lords Mobile: Kingdom Wars"
-  },
   "1044720": {
     "config_count": 1,
     "devices": [
@@ -1564,7 +1556,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1573,7 +1565,8 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid"
+      "BattleForTheGrid",
+      "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -2647,7 +2640,7 @@
     "name": "I.G.I. Origins"
   },
   "1187": {
-    "config_count": 4,
+    "config_count": 2,
     "devices": [
       {
         "d": "G77_MC9",
@@ -2656,8 +2649,7 @@
       }
     ],
     "folders": [
-      "ACC",
-      "Assassin_s_Creed_Rogue"
+      "ACC"
     ],
     "name": "Acc"
   },
@@ -3077,7 +3069,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 468,
+    "config_count": 469,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3927,6 +3919,20 @@
       "Beach_Buggy_Racing_2_-_Island_Adventure"
     ],
     "name": "Beach Buggy Racing 2 - Island Adventure"
+  },
+  "12320": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred Gold"
   },
   "1232460": {
     "config_count": 1,
@@ -5548,14 +5554,6 @@
       "DRACU-RIOT_"
     ],
     "name": "DRACU-RIOT!"
-  },
-  "1340720": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "StateOfDecay"
-    ],
-    "name": "State of Decay 3"
   },
   "1343240": {
     "config_count": 2,
@@ -10871,7 +10869,7 @@
     "name": "Fifa 19"
   },
   "1938090": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -10881,7 +10879,6 @@
     ],
     "folders": [
       "Call_Of_Duty_MW2",
-      "CallOf_Duty",
       "Call_of_Duty"
     ],
     "name": "Call of Duty\u00ae"
@@ -14605,7 +14602,7 @@
     "name": "DmC: Devil May Cry"
   },
   "2207440": {
-    "config_count": 1,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -14614,7 +14611,8 @@
       }
     ],
     "folders": [
-      "LOK"
+      "LOK",
+      "LoK"
     ],
     "name": "LOK Digital"
   },
@@ -21513,7 +21511,7 @@
     "name": "Nunholy"
   },
   "2856190": {
-    "config_count": 124,
+    "config_count": 125,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -21681,11 +21679,6 @@
         "s": "Adreno (TM) 810"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
@@ -21694,6 +21687,11 @@
         "d": "Immortalis_MC11",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC11"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -23453,14 +23451,6 @@
     ],
     "name": "Dungeon Rampage Remastered"
   },
-  "3054410": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Bushside Rangers"
-  },
   "305620": {
     "config_count": 4,
     "devices": [
@@ -23514,7 +23504,7 @@
     "name": "Portrait of a Torn"
   },
   "3059520": {
-    "config_count": 21,
+    "config_count": 25,
     "devices": [
       {
         "d": "G57_MC2",
@@ -23570,6 +23560,11 @@
         "d": "Adreno__TM__650",
         "m": "G780G",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
@@ -24012,9 +24007,10 @@
     "name": "METAL GEAR SOLID V: GROUND ZEROES"
   },
   "311560": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [],
     "folders": [
+      "Assassin_s_Creed_Rogue",
       "Assassins_Creed_Rogue"
     ],
     "name": "Assassin\u2019s Creed\u00ae Rogue"
@@ -27112,10 +27108,11 @@
     "name": "Transformice"
   },
   "3354750": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
-      "skate_"
+      "skate_",
+      "skate__"
     ],
     "name": "skate."
   },
@@ -30782,20 +30779,6 @@
     ],
     "name": "TEKKEN 7"
   },
-  "3906660": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred 2 Remaster"
-  },
   "3909960": {
     "config_count": 1,
     "devices": [
@@ -32143,6 +32126,20 @@
     ],
     "name": "Football Life"
   },
+  "4126040": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__619",
+        "m": "22111317PG",
+        "s": "Adreno (TM) 619"
+      }
+    ],
+    "folders": [
+      "Aniimo"
+    ],
+    "name": "Aniimo"
+  },
   "413150": {
     "config_count": 10,
     "devices": [
@@ -33368,7 +33365,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -33379,6 +33376,7 @@
     "folders": [
       "Call_of_Duty_4",
       "COD__Modern_Warfare",
+      "CallOf_Duty",
       "Call_of_Duty_4_Modern_Warfare",
       "Call_of_duty_Modern_Warfare",
       "call_of_duty_4_modern_Warfare"
@@ -34999,7 +34997,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -35034,6 +35032,7 @@
     ],
     "folders": [
       "State_of_Decay_2__Juggernaut_Edition",
+      "StateOfDecay",
       "StateOfDecay2"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
@@ -35201,7 +35200,7 @@
     "name": "Trails in the Sky 2nd Chapter Demo"
   },
   "50130": {
-    "config_count": 44,
+    "config_count": 45,
     "devices": [
       {
         "d": "MT6781",
@@ -35297,6 +35296,11 @@
         "d": "G610_MC6",
         "m": "Mali",
         "s": "Mali-G610 MC6"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "I2219",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
@@ -37320,7 +37324,7 @@
     "name": "Moonlighter"
   },
   "606280": {
-    "config_count": 11,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -37333,19 +37337,13 @@
         "s": "Adreno (TM) 825"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
-      },
-      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
       }
     ],
     "folders": [
-      "Darksiders_III",
-      "Darksiders"
+      "Darksiders_III"
     ],
     "name": "Darksiders III"
   },
@@ -38202,7 +38200,7 @@
     "name": "Heroes Of Hammerwatch"
   },
   "678950": {
-    "config_count": 57,
+    "config_count": 58,
     "devices": [
       {
         "d": "G68_MC4",
@@ -38651,7 +38649,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__A32",
@@ -38662,10 +38660,16 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "Darksiders_Genesis",
+      "Darksiders",
       "DarksidersGenesis"
     ],
     "name": "Darksiders Genesis"
@@ -43251,20 +43255,6 @@
       "F_E_A_R__Platinum_Collection"
     ],
     "name": "F E A R Platinum Collection"
-  },
-  "name:f1-2014": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "23129RA5FL",
-        "s": "Adreno (TM) 610"
-      }
-    ],
-    "folders": [
-      "F1_2014"
-    ],
-    "name": "F1 2014"
   },
   "name:fallout-new-vegas-pcr": {
     "config_count": 2,

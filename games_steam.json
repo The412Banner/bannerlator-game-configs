@@ -305,6 +305,12 @@
     "method": "naive",
     "steam_name": "Anger Foot"
   },
+  "Aniimo": {
+    "appid": 4126040,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/4126040/header.jpg",
+    "method": "naive",
+    "steam_name": "Aniimo"
+  },
   "Anno_1404_-_History_Edition": {
     "appid": 1281630,
     "method": "norm",
@@ -4656,6 +4662,10 @@
     "method": "naive",
     "steam_name": "Green Hell"
   },
+  "Grid_RACE_DRIVER": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "Griftlands": {
     "appid": 601840,
     "method": "naive",
@@ -6823,7 +6833,6 @@
   },
   "MoonSweepers": {
     "appid": 5335510,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/5335510/header.jpg",
     "method": "naive",
     "steam_name": "Moon Sweepers"
   },
