@@ -764,14 +764,6 @@
     ],
     "name": "New Super Lucky's Tale"
   },
-  "1041320": {
-    "config_count": 3,
-    "devices": [],
-    "folders": [
-      "LoK"
-    ],
-    "name": "Lords Mobile: Kingdom Wars"
-  },
   "1044720": {
     "config_count": 1,
     "devices": [
@@ -2648,7 +2640,7 @@
     "name": "I.G.I. Origins"
   },
   "1187": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [
       {
         "d": "G77_MC9",
@@ -2657,7 +2649,8 @@
       }
     ],
     "folders": [
-      "ACC"
+      "ACC",
+      "Assassin_s_Creed_Rogue"
     ],
     "name": "Acc"
   },
@@ -10043,6 +10036,14 @@
     ],
     "name": "Asphalt Legends "
   },
+  "1816300": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Harvestella"
+    ],
+    "name": "Harvestella"
+  },
   "1817070": {
     "config_count": 27,
     "devices": [
@@ -14624,7 +14625,7 @@
     "name": "DmC: Devil May Cry"
   },
   "2207440": {
-    "config_count": 1,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -14633,7 +14634,8 @@
       }
     ],
     "folders": [
-      "LOK"
+      "LOK",
+      "LoK"
     ],
     "name": "LOK Digital"
   },
@@ -15376,7 +15378,7 @@
     "name": "Tomb Raider II (1997)"
   },
   "2254490": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "G52_MC2",
@@ -15387,6 +15389,11 @@
         "d": "Adreno__TM__840",
         "m": "25102PCBEG",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__644",
@@ -15401,6 +15408,7 @@
     ],
     "folders": [
       "Launcher",
+      "Rockstar_Games_Launcher",
       "launcher"
     ],
     "name": "Squirrel Launcher"
@@ -23138,7 +23146,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -23159,10 +23167,16 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -23762,6 +23776,14 @@
     ],
     "name": "Truckful"
   },
+  "3091140": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "LootBound"
+    ],
+    "name": "Lootbound"
+  },
   "3092360": {
     "config_count": 1,
     "devices": [],
@@ -24008,10 +24030,9 @@
     "name": "METAL GEAR SOLID V: GROUND ZEROES"
   },
   "311560": {
-    "config_count": 3,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "Assassin_s_Creed_Rogue",
       "Assassins_Creed_Rogue"
     ],
     "name": "Assassin\u2019s Creed\u00ae Rogue"
@@ -24902,7 +24923,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2094,
+    "config_count": 2095,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -27636,14 +27657,6 @@
       "Heavy_Weapon"
     ],
     "name": "Heavy Weapon Deluxe"
-  },
-  "3419290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN"
   },
   "341940": {
     "config_count": 4,
@@ -31613,6 +31626,14 @@
     ],
     "name": "The Spike Cross"
   },
+  "3985080": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN - Costume Expansion Pack"
+  },
   "400": {
     "config_count": 4,
     "devices": [],
@@ -32931,14 +32952,6 @@
       "Factorio"
     ],
     "name": "Factorio"
-  },
-  "4282640": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "LootBound"
-    ],
-    "name": "Inferno Loot: Bullet Hell Bound"
   },
   "428690": {
     "config_count": 1,
@@ -39800,7 +39813,7 @@
     "name": "Monster Sanctuary"
   },
   "814380": {
-    "config_count": 87,
+    "config_count": 88,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -41147,7 +41160,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 8,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -41163,16 +41176,10 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -47069,20 +47076,6 @@
       "RocketLeague"
     ],
     "name": "Rocketleague"
-  },
-  "name:rockstar-games-launcher": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Rockstar_Games_Launcher"
-    ],
-    "name": "Rockstar Games Launcher"
   },
   "name:rottr": {
     "config_count": 9,
