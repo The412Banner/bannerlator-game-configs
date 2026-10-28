@@ -1778,10 +1778,17 @@
     "name": "GRIME"
   },
   "1128920": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
+      }
+    ],
     "folders": [
-      "EVERSPACE_"
+      "EVERSPACE_",
+      "EVERSPACE__2"
     ],
     "name": "EVERSPACE\u2122 2"
   },
@@ -2640,7 +2647,7 @@
     "name": "I.G.I. Origins"
   },
   "1187": {
-    "config_count": 4,
+    "config_count": 2,
     "devices": [
       {
         "d": "G77_MC9",
@@ -2649,8 +2656,7 @@
       }
     ],
     "folders": [
-      "ACC",
-      "Assassin_s_Creed_Rogue"
+      "ACC"
     ],
     "name": "Acc"
   },
@@ -7374,7 +7380,7 @@
     "name": "LEGO\u00ae Skylines"
   },
   "1574140": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -7383,7 +7389,6 @@
       }
     ],
     "folders": [
-      "DiRT4",
       "Dirt4"
     ],
     "name": "TIME FOR YOU - CHAPTER 02 - DIRTY THOUGHTS AND CORPORATE BOTS"
@@ -17421,7 +17426,7 @@
     "name": "Wasteland 2: Director's Cut"
   },
   "241540": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "G78",
@@ -17440,7 +17445,8 @@
       }
     ],
     "folders": [
-      "State_of_Decay"
+      "State_of_Decay",
+      "StateOfDecay"
     ],
     "name": "State of Decay"
   },
@@ -23144,7 +23150,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 7,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -23165,16 +23171,10 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -24042,9 +24042,10 @@
     "name": "METAL GEAR SOLID V: GROUND ZEROES"
   },
   "311560": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [],
     "folders": [
+      "Assassin_s_Creed_Rogue",
       "Assassins_Creed_Rogue"
     ],
     "name": "Assassin\u2019s Creed\u00ae Rogue"
@@ -24629,6 +24630,20 @@
     ],
     "name": "Formula Legends"
   },
+  "319510": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__618",
+        "m": "M2007J20CG",
+        "s": "Adreno (TM) 618"
+      }
+    ],
+    "folders": [
+      "Five_Nights_At_Freddys_2"
+    ],
+    "name": "Five Nights at Freddy's"
+  },
   "3195790": {
     "config_count": 1,
     "devices": [],
@@ -24935,7 +24950,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2105,
+    "config_count": 2106,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25983,11 +25998,6 @@
         "s": "Adreno (TM) 829"
       },
       {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
         "d": "Adreno__TM__730",
         "m": "S901N",
         "s": "Adreno (TM) 730"
@@ -26196,6 +26206,11 @@
         "d": "Adreno__TM__642L",
         "m": "22101320G",
         "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
       },
       {
         "d": "Adreno__TM__830",
@@ -27038,20 +27053,6 @@
       "Assassins_Creed_II"
     ],
     "name": "Assassin's Creed 2"
-  },
-  "332800": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__618",
-        "m": "M2007J20CG",
-        "s": "Adreno (TM) 618"
-      }
-    ],
-    "folders": [
-      "Five_Nights_At_Freddys_2"
-    ],
-    "name": "Five Nights at Freddy's 2"
   },
   "33320": {
     "config_count": 17,
@@ -35046,7 +35047,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 9,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -35081,7 +35082,6 @@
     ],
     "folders": [
       "State_of_Decay_2__Juggernaut_Edition",
-      "StateOfDecay",
       "StateOfDecay2"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
@@ -37373,7 +37373,7 @@
     "name": "Moonlighter"
   },
   "606280": {
-    "config_count": 11,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -37386,19 +37386,13 @@
         "s": "Adreno (TM) 825"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
-      },
-      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
       }
     ],
     "folders": [
-      "Darksiders_III",
-      "Darksiders"
+      "Darksiders_III"
     ],
     "name": "Darksiders III"
   },
@@ -38704,7 +38698,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__A32",
@@ -38715,10 +38709,16 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "Darksiders_Genesis",
+      "Darksiders",
       "DarksidersGenesis"
     ],
     "name": "Darksiders Genesis"
@@ -40224,6 +40224,14 @@
     ],
     "name": "Bloodstained: Curse of the Moon"
   },
+  "838350": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "The_Scroll_of_Taiwu___Beyond_The_Dome"
+    ],
+    "name": "The Scroll Of Taiwu Beyond The Dome"
+  },
   "842330": {
     "config_count": 1,
     "devices": [
@@ -41202,7 +41210,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 8,
     "devices": [
       {
         "d": "G615_MC6",
@@ -41218,10 +41226,16 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -42997,6 +43011,20 @@
       "Dirt_Showdown"
     ],
     "name": "Dirt Showdown"
+  },
+  "name:dirt4": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__650",
+        "m": "G988N",
+        "s": "Adreno (TM) 650"
+      }
+    ],
+    "folders": [
+      "DiRT4"
+    ],
+    "name": "Dirt4"
   },
   "name:dirtfish-dirt4": {
     "config_count": 1,
@@ -44936,7 +44964,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3232,
+    "config_count": 3234,
     "devices": [
       {
         "d": "G52_MC2",
@@ -45459,11 +45487,6 @@
         "s": "Adreno (TM) 644"
       },
       {
-        "d": "PowerVR_Rogue_GE8320",
-        "m": "moto_g22",
-        "s": "PowerVR Rogue GE8320"
-      },
-      {
         "d": "Adreno__TM__506",
         "m": "A207M",
         "s": "Adreno (TM) 506"
@@ -45942,6 +45965,11 @@
         "d": "Adreno__TM__735",
         "m": "I2221",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "moto_g22",
+        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "Adreno__TM__740",
