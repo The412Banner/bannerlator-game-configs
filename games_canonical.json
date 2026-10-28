@@ -3560,7 +3560,7 @@
     "name": "Detroit: Become Human"
   },
   "1222670": {
-    "config_count": 31,
+    "config_count": 29,
     "devices": [
       {
         "d": "G57_MC2",
@@ -3638,7 +3638,6 @@
       "The_Sims__",
       "The_Sims__4",
       "the_Sims",
-      "Sims_3",
       "The_Sims_4"
     ],
     "name": "The Sims\u2122 4"
@@ -4631,7 +4630,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 63,
+    "config_count": 66,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4742,6 +4741,11 @@
         "d": "Adreno__TM__650",
         "m": "22021211RG",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
       }
     ],
     "folders": [
@@ -4758,6 +4762,9 @@
       "Need_For_Speed_Most_Wanted",
       "Need_For_Speed_Most_Wanted_",
       "Need_for_Speed_-_Most_Wanted",
+      "Need_for_Speed_Most_Wanted_2005",
+      "Need_for_Speed__Most_Wanted_2005",
+      "Need_for_Speed__Most_wanted__2012_",
       "need_for_speed_most_wa",
       "need_for_speed_most_wanted_2005"
     ],
@@ -8188,7 +8195,7 @@
     "name": "Minishoot' Adventures"
   },
   "1636440": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "A566E",
@@ -22413,7 +22420,7 @@
     "name": "ONE PIECE Bounty Rush"
   },
   "292030": {
-    "config_count": 18,
+    "config_count": 20,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -22477,6 +22484,7 @@
       "The_Witcher_3",
       "The_Witcher_3_-_Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
+      "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
       "The_Witcher_3_-_Wild_Hunt___Remastered",
       "Witcher_1",
       "_Witcher",
@@ -24275,6 +24283,20 @@
       "WayOfTheSamurai4"
     ],
     "name": "Way of the Samurai 4"
+  },
+  "3130330": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "CPH2819",
+        "s": "Adreno (TM) 610"
+      }
+    ],
+    "folders": [
+      "Metaphor_-_ReFantazio_-_Prologue_Demo"
+    ],
+    "name": "Metaphor: ReFantazio - Prologue Demo"
   },
   "313160": {
     "config_count": 5,
@@ -30509,7 +30531,7 @@
     "name": "Ori and the Blind Forest: Definitive Edition"
   },
   "3875050": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -32111,7 +32133,7 @@
     "name": "SENRAN KAGURA SHINOVI VERSUS"
   },
   "412020": {
-    "config_count": 6,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -34377,7 +34399,7 @@
     "name": "Tom Clancy S Ghost Recon Wildlands - Predator Premium Pack"
   },
   "47890": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [
       {
         "d": "G57",
@@ -38486,11 +38508,10 @@
     "name": "Xenia"
   },
   "6880": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "Just_Cause",
-      "Just_Cause_2_-_Complete_Edition"
+      "Just_Cause"
     ],
     "name": "Just Cause"
   },
@@ -40021,7 +40042,7 @@
     "name": "Cash Grab - Hat Pack"
   },
   "8190": {
-    "config_count": 32,
+    "config_count": 33,
     "devices": [
       {
         "d": "Odin2",
@@ -40116,7 +40137,8 @@
     ],
     "folders": [
       "Just_Cause_2",
-      "JustCause2"
+      "JustCause2",
+      "Just_Cause_2_-_Complete_Edition"
     ],
     "name": "Just Cause 2"
   },
@@ -43106,7 +43128,7 @@
     "name": "Easy Anti Cheat Bootstrapper Eos"
   },
   "name:efootball-2021": {
-    "config_count": 58,
+    "config_count": 59,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -43202,6 +43224,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "V2453A",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
@@ -44205,20 +44232,6 @@
     ],
     "name": "Metal Gear Solid Master Collection Vol 2 Multi6 Elamigos"
   },
-  "name:metaphor-refantazio-prologue-demo": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "CPH2819",
-        "s": "Adreno (TM) 610"
-      }
-    ],
-    "folders": [
-      "Metaphor_-_ReFantazio_-_Prologue_Demo"
-    ],
-    "name": "Metaphor Refantazio Prologue Demo"
-  },
   "name:metatrader-5": {
     "config_count": 1,
     "devices": [
@@ -44461,35 +44474,6 @@
       "Need_for_Speed_Black_Edition_"
     ],
     "name": "Need For Speed Black Edition"
-  },
-  "name:need-for-speed-most-wanted-2005": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      }
-    ],
-    "folders": [
-      "Need_for_Speed_Most_Wanted_2005",
-      "Need_for_Speed__Most_Wanted_2005"
-    ],
-    "name": "Need For Speed Most Wanted 2005"
-  },
-  "name:need-for-speed-most-wanted-2012": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
-      }
-    ],
-    "folders": [
-      "Need_for_Speed__Most_wanted__2012_"
-    ],
-    "name": "Need For Speed Most Wanted 2012"
   },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 3,
@@ -47283,14 +47267,6 @@
     ],
     "name": "Shproto"
   },
-  "name:silent-hill-3": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "SILENT_HILL_3"
-    ],
-    "name": "Silent Hill 3"
-  },
   "name:skyrimlauncher": {
     "config_count": 1,
     "devices": [],
@@ -47619,14 +47595,6 @@
       "The_Sims_2_Launcher"
     ],
     "name": "The Sims 2 Launcher"
-  },
-  "name:the-witcher-3-wild-hunt-game-of-the-year-edition": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition"
-    ],
-    "name": "The Witcher 3 Wild Hunt Game Of The Year Edition"
   },
   "name:thps12": {
     "config_count": 1,
