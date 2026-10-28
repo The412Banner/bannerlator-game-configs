@@ -2640,7 +2640,7 @@
     "name": "I.G.I. Origins"
   },
   "1187": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [
       {
         "d": "G77_MC9",
@@ -2649,7 +2649,8 @@
       }
     ],
     "folders": [
-      "ACC"
+      "ACC",
+      "Assassin_s_Creed_Rogue"
     ],
     "name": "Acc"
   },
@@ -16932,7 +16933,7 @@
     "name": "Lumines Arise"
   },
   "237110": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -16941,9 +16942,10 @@
       }
     ],
     "folders": [
-      "Mortal_Kombat_Komplete_Edition"
+      "Mortal_Kombat_Komplete_Edition",
+      "Mortal_Kombat__9"
     ],
-    "name": "Mortal Kombat Komplete Edition"
+    "name": "Mortal Kombat 9"
   },
   "237310": {
     "config_count": 2,
@@ -23159,7 +23161,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -23180,10 +23182,16 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -24037,10 +24045,9 @@
     "name": "METAL GEAR SOLID V: GROUND ZEROES"
   },
   "311560": {
-    "config_count": 3,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "Assassin_s_Creed_Rogue",
       "Assassins_Creed_Rogue"
     ],
     "name": "Assassin\u2019s Creed\u00ae Rogue"
@@ -24931,7 +24938,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2102,
+    "config_count": 2104,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -32356,7 +32363,7 @@
     ],
     "name": "My Winter Car"
   },
-  "4165910": {
+  "4165890": {
     "config_count": 5,
     "devices": [
       {
@@ -32368,7 +32375,7 @@
     "folders": [
       "Steam"
     ],
-    "name": "Steam Machine"
+    "name": "Steam Frame"
   },
   "418030": {
     "config_count": 1,
@@ -38481,10 +38488,11 @@
     "name": "Xenia"
   },
   "6880": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
-      "Just_Cause"
+      "Just_Cause",
+      "Just_Cause_2_-_Complete_Edition"
     ],
     "name": "Just Cause"
   },
@@ -40021,7 +40029,7 @@
     "name": "Cash Grab - Hat Pack"
   },
   "8190": {
-    "config_count": 33,
+    "config_count": 32,
     "devices": [
       {
         "d": "Odin2",
@@ -40116,8 +40124,7 @@
     ],
     "folders": [
       "Just_Cause_2",
-      "JustCause2",
-      "Just_Cause_2_-_Complete_Edition"
+      "JustCause2"
     ],
     "name": "Just Cause 2"
   },
@@ -41182,7 +41189,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 8,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -41198,16 +41205,10 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -41356,14 +41357,6 @@
       "Far_Cry__New_Dawn"
     ],
     "name": "Far Cry\u00ae New Dawn"
-  },
-  "940190": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Chuckie_Egg_3"
-    ],
-    "name": "Chuckie Egg 2017"
   },
   "940910": {
     "config_count": 1,
@@ -42681,6 +42674,14 @@
       "CDMWTHEMOCS2"
     ],
     "name": "Cdmwthemocs2"
+  },
+  "name:chuckie-egg-3": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Chuckie_Egg_3"
+    ],
+    "name": "Chuckie Egg 3"
   },
   "name:civilization-ii-multiplayer-gold-edition": {
     "config_count": 1,
@@ -44711,14 +44712,6 @@
       "NSUNSR"
     ],
     "name": "Nsunsr"
-  },
-  "name:ntr-master": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "NTR_Master"
-    ],
-    "name": "Ntr Master"
   },
   "name:nvse-loader": {
     "config_count": 1,
