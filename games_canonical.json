@@ -27920,14 +27920,6 @@
     ],
     "name": "Cricket 26 - The Official Game of the Ashes"
   },
-  "346940": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Shadowrun_Hong_Kong"
-    ],
-    "name": "Shadowrun: Hong Kong - Extended Edition"
-  },
   "3469850": {
     "config_count": 4,
     "devices": [
@@ -36276,7 +36268,7 @@
     "name": "Brick Rigs"
   },
   "55230": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -36311,7 +36303,8 @@
     ],
     "folders": [
       "Saints_Row__The_Third",
-      "SaintsRowTheThird"
+      "SaintsRowTheThird",
+      "Saints_Row___The_Third__Remastered"
     ],
     "name": "Saints Row: The Third"
   },
@@ -39829,7 +39822,7 @@
     "name": "Monster Sanctuary"
   },
   "814380": {
-    "config_count": 88,
+    "config_count": 89,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -41965,14 +41958,6 @@
       "Eastward"
     ],
     "name": "Eastward"
-  },
-  "978300": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Saints_Row___The_Third__Remastered"
-    ],
-    "name": "Saints Row\u00ae: The Third\u2122 Remastered"
   },
   "978780": {
     "config_count": 3,
@@ -47225,6 +47210,14 @@
       "SFTK"
     ],
     "name": "Sftk"
+  },
+  "name:shadowrun-hong-kong": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Shadowrun_Hong_Kong"
+    ],
+    "name": "Shadowrun Hong Kong"
   },
   "name:shfix": {
     "config_count": 1,
