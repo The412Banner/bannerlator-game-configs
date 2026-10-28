@@ -694,7 +694,7 @@
     "name": "Mafia II: Definitive Edition"
   },
   "1030840": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -705,16 +705,10 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__829",
-        "m": "motorola_signature",
-        "s": "Adreno (TM) 829"
       }
     ],
     "folders": [
-      "Mafia__Definitive_Edition",
-      "Mafia_Definitive_Edition"
+      "Mafia__Definitive_Edition"
     ],
     "name": "Mafia: Definitive Edition"
   },
@@ -1106,7 +1100,7 @@
     "name": "The Gunk"
   },
   "108800": {
-    "config_count": 10,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -1125,8 +1119,7 @@
       }
     ],
     "folders": [
-      "Crysis_2_-_Maximum_Edition",
-      "Crysis_2_Maximum_Edition"
+      "Crysis_2_-_Maximum_Edition"
     ],
     "name": "Crysis 2 - Maximum Edition"
   },
@@ -2640,7 +2633,7 @@
     "name": "I.G.I. Origins"
   },
   "1187": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [
       {
         "d": "G77_MC9",
@@ -2649,7 +2642,8 @@
       }
     ],
     "folders": [
-      "ACC"
+      "ACC",
+      "Assassin_s_Creed_Rogue"
     ],
     "name": "Acc"
   },
@@ -7381,7 +7375,7 @@
     "name": "LEGO\u00ae Skylines"
   },
   "1574140": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -7390,7 +7384,6 @@
       }
     ],
     "folders": [
-      "DiRT4",
       "Dirt4"
     ],
     "name": "TIME FOR YOU - CHAPTER 02 - DIRTY THOUGHTS AND CORPORATE BOTS"
@@ -10891,27 +10884,25 @@
     ],
     "name": "Call of Duty\u00ae"
   },
-  "1940340": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Darkest_Dungeon_II"
-    ],
-    "name": "Darkest Dungeon\u00ae II"
-  },
   "1941540": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "N49",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__829",
+        "m": "motorola_signature",
+        "s": "Adreno (TM) 829"
       }
     ],
     "folders": [
       "MAFIA",
       "Mafia",
-      "Mafia_-_Definitive_Edition"
+      "Mafia_-_Definitive_Edition",
+      "Mafia_Definitive_Edition"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -14165,7 +14156,7 @@
     "name": "Call Of Juarez Bound In Blood"
   },
   "219990": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -14191,6 +14182,11 @@
         "d": "Adreno__TM__732",
         "m": "CPH2663",
         "s": "Adreno (TM) 732"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "V2425A",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -14483,7 +14479,7 @@
     "name": "Far Cry 3"
   },
   "220440": {
-    "config_count": 40,
+    "config_count": 39,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -14610,8 +14606,7 @@
       "DmC_Devil_May_Cry",
       "DmC_Devil_May_Cry___________________________________________",
       "DmC__Devil_May_Cry",
-      "DMC-DevilMayCry",
-      "DMC-DevilMayCry_2013"
+      "DMC-DevilMayCry"
     ],
     "name": "DmC: Devil May Cry"
   },
@@ -24044,10 +24039,9 @@
     "name": "METAL GEAR SOLID V: GROUND ZEROES"
   },
   "311560": {
-    "config_count": 3,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "Assassin_s_Creed_Rogue",
       "Assassins_Creed_Rogue"
     ],
     "name": "Assassin\u2019s Creed\u00ae Rogue"
@@ -29716,7 +29710,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 42,
+    "config_count": 41,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -29816,8 +29810,7 @@
       "DarkSoulsRemastered",
       "DARK_SOULS_III",
       "DarkSoulsII",
-      "DarkSoulsIII",
-      "Dark_Souls_III"
+      "DarkSoulsIII"
     ],
     "name": "DARK SOULS\u2122 III"
   },
@@ -41226,20 +41219,6 @@
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
-  "922050": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "DOOMBLADE"
-    ],
-    "name": "DOOMBLADE"
-  },
   "924970": {
     "config_count": 1,
     "devices": [],
@@ -41371,14 +41350,6 @@
       "Far_Cry__New_Dawn"
     ],
     "name": "Far Cry\u00ae New Dawn"
-  },
-  "940190": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Chuckie_Egg_3"
-    ],
-    "name": "Chuckie Egg 2017"
   },
   "940910": {
     "config_count": 1,
@@ -42697,6 +42668,14 @@
     ],
     "name": "Cdmwthemocs2"
   },
+  "name:chuckie-egg-3": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Chuckie_Egg_3"
+    ],
+    "name": "Chuckie Egg 3"
+  },
   "name:civilization-ii-multiplayer-gold-edition": {
     "config_count": 1,
     "devices": [],
@@ -42849,6 +42828,14 @@
     ],
     "name": "Cricket07"
   },
+  "name:crysis-2-maximum-edition": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Crysis_2_Maximum_Edition"
+    ],
+    "name": "Crysis 2 Maximum Edition"
+  },
   "name:crysis64": {
     "config_count": 1,
     "devices": [],
@@ -42879,6 +42866,14 @@
     ],
     "name": "Daorigins"
   },
+  "name:dark-souls-iii": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Dark_Souls_III"
+    ],
+    "name": "Dark Souls Iii"
+  },
   "name:dark-souls-prepare-to-die-edition": {
     "config_count": 2,
     "devices": [
@@ -42898,6 +42893,14 @@
       "DARK_SOULS___Prepare_To_Die_Edition"
     ],
     "name": "Dark Souls Prepare To Die Edition"
+  },
+  "name:darkest-dungeon-ii": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Darkest_Dungeon_II"
+    ],
+    "name": "Darkest Dungeon Ii"
   },
   "name:dawn-of-war-soulstorm": {
     "config_count": 1,
@@ -42999,6 +43002,20 @@
     ],
     "name": "Dirt Showdown"
   },
+  "name:dirt4": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__650",
+        "m": "G988N",
+        "s": "Adreno (TM) 650"
+      }
+    ],
+    "folders": [
+      "DiRT4"
+    ],
+    "name": "Dirt4"
+  },
   "name:dirtfish-dirt4": {
     "config_count": 1,
     "devices": [],
@@ -43045,6 +43062,20 @@
     ],
     "name": "Dlss 5 Swapper"
   },
+  "name:dmc-devilmaycry-2013": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2487",
+        "s": "Adreno (TM) 730"
+      }
+    ],
+    "folders": [
+      "DMC-DevilMayCry_2013"
+    ],
+    "name": "Dmc Devilmaycry 2013"
+  },
   "name:domesticlover": {
     "config_count": 1,
     "devices": [
@@ -43058,6 +43089,20 @@
       "DomesticLover"
     ],
     "name": "Domesticlover"
+  },
+  "name:doomblade": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "DOOMBLADE"
+    ],
+    "name": "Doomblade"
   },
   "name:dragon-ball-fighters-z": {
     "config_count": 1,
