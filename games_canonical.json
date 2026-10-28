@@ -2640,7 +2640,7 @@
     "name": "I.G.I. Origins"
   },
   "1187": {
-    "config_count": 4,
+    "config_count": 2,
     "devices": [
       {
         "d": "G77_MC9",
@@ -2649,8 +2649,7 @@
       }
     ],
     "folders": [
-      "ACC",
-      "Assassin_s_Creed_Rogue"
+      "ACC"
     ],
     "name": "Acc"
   },
@@ -3561,7 +3560,7 @@
     "name": "Detroit: Become Human"
   },
   "1222670": {
-    "config_count": 29,
+    "config_count": 31,
     "devices": [
       {
         "d": "G57_MC2",
@@ -3639,6 +3638,7 @@
       "The_Sims__",
       "The_Sims__4",
       "the_Sims",
+      "Sims_3",
       "The_Sims_4"
     ],
     "name": "The Sims\u2122 4"
@@ -3920,20 +3920,6 @@
       "Beach_Buggy_Racing_2_-_Island_Adventure"
     ],
     "name": "Beach Buggy Racing 2 - Island Adventure"
-  },
-  "12320": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred Gold"
   },
   "1232460": {
     "config_count": 1,
@@ -4645,7 +4631,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 66,
+    "config_count": 63,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4756,11 +4742,6 @@
         "d": "Adreno__TM__650",
         "m": "22021211RG",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
       }
     ],
     "folders": [
@@ -4777,9 +4758,6 @@
       "Need_For_Speed_Most_Wanted",
       "Need_For_Speed_Most_Wanted_",
       "Need_for_Speed_-_Most_Wanted",
-      "Need_for_Speed_Most_Wanted_2005",
-      "Need_for_Speed__Most_Wanted_2005",
-      "Need_for_Speed__Most_wanted__2012_",
       "need_for_speed_most_wa",
       "need_for_speed_most_wanted_2005"
     ],
@@ -8210,7 +8188,7 @@
     "name": "Minishoot' Adventures"
   },
   "1636440": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "A566E",
@@ -22435,7 +22413,7 @@
     "name": "ONE PIECE Bounty Rush"
   },
   "292030": {
-    "config_count": 20,
+    "config_count": 18,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -22499,7 +22477,6 @@
       "The_Witcher_3",
       "The_Witcher_3_-_Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
-      "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
       "The_Witcher_3_-_Wild_Hunt___Remastered",
       "Witcher_1",
       "_Witcher",
@@ -23203,6 +23180,20 @@
     ],
     "name": "Zombie Army Trilogy"
   },
+  "301910": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
+      }
+    ],
+    "folders": [
+      "Saints_Row__Gat_Out_Of_Hell"
+    ],
+    "name": "Saints Row: Gat out of Hell"
+  },
   "3023070": {
     "config_count": 1,
     "devices": [
@@ -23672,7 +23663,7 @@
     "name": "MotoGP\u212225"
   },
   "307780": {
-    "config_count": 45,
+    "config_count": 46,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -23740,14 +23731,14 @@
         "s": "Mali-G57 MC2"
       },
       {
-        "d": "Immortalis_MC12",
-        "m": "G925",
-        "s": "Mali-G925-Immortalis MC12"
-      },
-      {
         "d": "Adreno__TM__830",
         "m": "2510DPC44G",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Immortalis_MC12",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC12"
       }
     ],
     "folders": [
@@ -24045,9 +24036,10 @@
     "name": "METAL GEAR SOLID V: GROUND ZEROES"
   },
   "311560": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [],
     "folders": [
+      "Assassin_s_Creed_Rogue",
       "Assassins_Creed_Rogue"
     ],
     "name": "Assassin\u2019s Creed\u00ae Rogue"
@@ -24283,20 +24275,6 @@
       "WayOfTheSamurai4"
     ],
     "name": "Way of the Samurai 4"
-  },
-  "3130330": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "CPH2819",
-        "s": "Adreno (TM) 610"
-      }
-    ],
-    "folders": [
-      "Metaphor_-_ReFantazio_-_Prologue_Demo"
-    ],
-    "name": "Metaphor: ReFantazio - Prologue Demo"
   },
   "313160": {
     "config_count": 5,
@@ -24938,7 +24916,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2104,
+    "config_count": 2105,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -27920,6 +27898,14 @@
     ],
     "name": "Cricket 26 - The Official Game of the Ashes"
   },
+  "346940": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Shadowrun_Hong_Kong"
+    ],
+    "name": "Shadowrun: Hong Kong - Extended Edition"
+  },
   "3469850": {
     "config_count": 4,
     "devices": [
@@ -30808,6 +30794,20 @@
     ],
     "name": "TEKKEN 7"
   },
+  "3906660": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred 2 Remaster"
+  },
   "3909960": {
     "config_count": 1,
     "devices": [
@@ -32111,7 +32111,7 @@
     "name": "SENRAN KAGURA SHINOVI VERSUS"
   },
   "412020": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -34377,7 +34377,7 @@
     "name": "Tom Clancy S Ghost Recon Wildlands - Predator Premium Pack"
   },
   "47890": {
-    "config_count": 3,
+    "config_count": 1,
     "devices": [
       {
         "d": "G57",
@@ -36268,7 +36268,7 @@
     "name": "Brick Rigs"
   },
   "55230": {
-    "config_count": 13,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -36303,8 +36303,7 @@
     ],
     "folders": [
       "Saints_Row__The_Third",
-      "SaintsRowTheThird",
-      "Saints_Row___The_Third__Remastered"
+      "SaintsRowTheThird"
     ],
     "name": "Saints Row: The Third"
   },
@@ -37353,7 +37352,7 @@
     "name": "Moonlighter"
   },
   "606280": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -37366,13 +37365,19 @@
         "s": "Adreno (TM) 825"
       },
       {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
+      },
+      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
       }
     ],
     "folders": [
-      "Darksiders_III"
+      "Darksiders_III",
+      "Darksiders"
     ],
     "name": "Darksiders III"
   },
@@ -38679,7 +38684,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 6,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__A32",
@@ -38690,16 +38695,10 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "Darksiders_Genesis",
-      "Darksiders",
       "DarksidersGenesis"
     ],
     "name": "Darksiders Genesis"
@@ -40343,7 +40342,7 @@
     "name": "Tribes of Midgard"
   },
   "860510": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -41351,6 +41350,14 @@
     ],
     "name": "Far Cry\u00ae New Dawn"
   },
+  "940190": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Chuckie_Egg_3"
+    ],
+    "name": "Chuckie Egg 2017"
+  },
   "940910": {
     "config_count": 1,
     "devices": [],
@@ -41958,6 +41965,14 @@
       "Eastward"
     ],
     "name": "Eastward"
+  },
+  "978300": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Saints_Row___The_Third__Remastered"
+    ],
+    "name": "Saints Row\u00ae: The Third\u2122 Remastered"
   },
   "978780": {
     "config_count": 3,
@@ -42659,14 +42674,6 @@
       "CDMWTHEMOCS2"
     ],
     "name": "Cdmwthemocs2"
-  },
-  "name:chuckie-egg-3": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Chuckie_Egg_3"
-    ],
-    "name": "Chuckie Egg 3"
   },
   "name:civilization-ii-multiplayer-gold-edition": {
     "config_count": 1,
@@ -44198,6 +44205,20 @@
     ],
     "name": "Metal Gear Solid Master Collection Vol 2 Multi6 Elamigos"
   },
+  "name:metaphor-refantazio-prologue-demo": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "CPH2819",
+        "s": "Adreno (TM) 610"
+      }
+    ],
+    "folders": [
+      "Metaphor_-_ReFantazio_-_Prologue_Demo"
+    ],
+    "name": "Metaphor Refantazio Prologue Demo"
+  },
   "name:metatrader-5": {
     "config_count": 1,
     "devices": [
@@ -44440,6 +44461,35 @@
       "Need_for_Speed_Black_Edition_"
     ],
     "name": "Need For Speed Black Edition"
+  },
+  "name:need-for-speed-most-wanted-2005": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "Need_for_Speed_Most_Wanted_2005",
+      "Need_for_Speed__Most_Wanted_2005"
+    ],
+    "name": "Need For Speed Most Wanted 2005"
+  },
+  "name:need-for-speed-most-wanted-2012": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
+      }
+    ],
+    "folders": [
+      "Need_for_Speed__Most_wanted__2012_"
+    ],
+    "name": "Need For Speed Most Wanted 2012"
   },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 3,
@@ -44903,7 +44953,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3227,
+    "config_count": 3228,
     "devices": [
       {
         "d": "G52_MC2",
@@ -47211,14 +47261,6 @@
     ],
     "name": "Sftk"
   },
-  "name:shadowrun-hong-kong": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Shadowrun_Hong_Kong"
-    ],
-    "name": "Shadowrun Hong Kong"
-  },
   "name:shfix": {
     "config_count": 1,
     "devices": [
@@ -47240,6 +47282,14 @@
       "SHProto"
     ],
     "name": "Shproto"
+  },
+  "name:silent-hill-3": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "SILENT_HILL_3"
+    ],
+    "name": "Silent Hill 3"
   },
   "name:skyrimlauncher": {
     "config_count": 1,
@@ -47569,6 +47619,14 @@
       "The_Sims_2_Launcher"
     ],
     "name": "The Sims 2 Launcher"
+  },
+  "name:the-witcher-3-wild-hunt-game-of-the-year-edition": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition"
+    ],
+    "name": "The Witcher 3 Wild Hunt Game Of The Year Edition"
   },
   "name:thps12": {
     "config_count": 1,
