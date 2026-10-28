@@ -2049,7 +2049,7 @@
     "name": "Horizon Zero Dawn\u2122 Complete Edition"
   },
   "115320": {
-    "config_count": 81,
+    "config_count": 82,
     "devices": [
       {
         "d": "Adreno__TM__640",
@@ -2640,7 +2640,7 @@
     "name": "I.G.I. Origins"
   },
   "1187": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [
       {
         "d": "G77_MC9",
@@ -2649,7 +2649,8 @@
       }
     ],
     "folders": [
-      "ACC"
+      "ACC",
+      "Assassin_s_Creed_Rogue"
     ],
     "name": "Acc"
   },
@@ -5540,14 +5541,6 @@
       "DRACU-RIOT_"
     ],
     "name": "DRACU-RIOT!"
-  },
-  "1340720": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "StateOfDecay"
-    ],
-    "name": "State of Decay 3"
   },
   "1343240": {
     "config_count": 2,
@@ -11597,7 +11590,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11606,8 +11599,7 @@
       }
     ],
     "folders": [
-      "WolfNewOrder",
-      "Wolfenstein__2009_"
+      "WolfNewOrder"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -24050,10 +24042,9 @@
     "name": "METAL GEAR SOLID V: GROUND ZEROES"
   },
   "311560": {
-    "config_count": 3,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "Assassin_s_Creed_Rogue",
       "Assassins_Creed_Rogue"
     ],
     "name": "Assassin\u2019s Creed\u00ae Rogue"
@@ -35055,7 +35046,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -35090,6 +35081,7 @@
     ],
     "folders": [
       "State_of_Decay_2__Juggernaut_Edition",
+      "StateOfDecay",
       "StateOfDecay2"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
@@ -37461,7 +37453,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -44944,7 +44936,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3231,
+    "config_count": 3232,
     "devices": [
       {
         "d": "G52_MC2",
