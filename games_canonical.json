@@ -1556,7 +1556,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1565,7 +1565,8 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid"
+      "BattleForTheGrid",
+      "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -15110,7 +15111,7 @@
     "name": "Command & Conquer\u2122 Generals"
   },
   "22300": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -15147,7 +15148,8 @@
       "Fallout_3",
       "Fallout_3_-_Game_of_the_Year_Edition",
       "Fallout_3___________________________________________________",
-      "Fallout3"
+      "Fallout3",
+      "Fallout_3__Game_of_the_Year_Edition"
     ],
     "name": "Fallout 3"
   },
@@ -15247,14 +15249,6 @@
       "Contra_Galuga"
     ],
     "name": "Contra: Operation Galuga"
-  },
-  "22370": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Fallout_3__Game_of_the_Year_Edition"
-    ],
-    "name": "Fallout 3: Game of the Year Edition"
   },
   "22380": {
     "config_count": 20,
@@ -15401,7 +15395,7 @@
     "name": "Tomb Raider II (1997)"
   },
   "2254490": {
-    "config_count": 18,
+    "config_count": 17,
     "devices": [
       {
         "d": "G52_MC2",
@@ -15412,11 +15406,6 @@
         "d": "Adreno__TM__840",
         "m": "25102PCBEG",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__644",
@@ -15431,7 +15420,6 @@
     ],
     "folders": [
       "Launcher",
-      "Rockstar_Games_Launcher",
       "launcher"
     ],
     "name": "Squirrel Launcher"
@@ -23518,14 +23506,6 @@
       "Dungeon_Rampage"
     ],
     "name": "Dungeon Rampage Remastered"
-  },
-  "3054410": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Bushside Rangers"
   },
   "305620": {
     "config_count": 4,
@@ -31892,6 +31872,14 @@
     ],
     "name": "Shift At Midnight Multiplayer Demo"
   },
+  "405310": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "LEGO_MARVEL_s_Avengers"
+    ],
+    "name": "LEGO\u00ae MARVEL's Avengers"
+  },
   "405820": {
     "config_count": 1,
     "devices": [],
@@ -32935,14 +32923,6 @@
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
-  "426860": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "LEGO_MARVEL_s_Avengers"
-    ],
-    "name": "LEGO\u00ae MARVEL's Avengers Season Pass"
-  },
   "42700": {
     "config_count": 3,
     "devices": [
@@ -33912,12 +33892,17 @@
     "name": "The Cloudberry Abyss"
   },
   "456610": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__829",
         "m": "I2508",
         "s": "Adreno (TM) 829"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "A525F",
+        "s": "Adreno (TM) 618"
       }
     ],
     "folders": [
@@ -47230,6 +47215,20 @@
       "RocketLeague"
     ],
     "name": "Rocketleague"
+  },
+  "name:rockstar-games-launcher": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Rockstar_Games_Launcher"
+    ],
+    "name": "Rockstar Games Launcher"
   },
   "name:rottr": {
     "config_count": 9,
