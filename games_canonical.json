@@ -3927,20 +3927,6 @@
     ],
     "name": "Beach Buggy Racing 2 - Island Adventure"
   },
-  "12320": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred Gold"
-  },
   "1232460": {
     "config_count": 1,
     "devices": [
@@ -19946,14 +19932,6 @@
     ],
     "name": "Tokyo Xtreme Racer"
   },
-  "2637940": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Cars"
-    ],
-    "name": "Used Cars Simulator"
-  },
   "2638050": {
     "config_count": 1,
     "devices": [],
@@ -30885,6 +30863,20 @@
     ],
     "name": "TEKKEN 7"
   },
+  "3906660": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred 2 Remaster"
+  },
   "3909960": {
     "config_count": 1,
     "devices": [
@@ -34979,6 +34971,14 @@
       "false_"
     ],
     "name": "The Apothecary Diaries: The False Imperial Brother"
+  },
+  "4908110": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Cars"
+    ],
+    "name": "Gas N Cars"
   },
   "491040": {
     "config_count": 1,
@@ -46223,7 +46223,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 244,
+    "config_count": 245,
     "devices": [
       {
         "d": "G615_MC2",
@@ -46569,6 +46569,11 @@
         "d": "Adreno__TM__720",
         "m": "CPH2613",
         "s": "Adreno (TM) 720"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "A525F",
+        "s": "Adreno (TM) 618"
       }
     ],
     "folders": [
