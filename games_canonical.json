@@ -14,20 +14,6 @@
     ],
     "name": "Counter-Strike"
   },
-  "1002300": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "NX809J",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "Fear___Hunger"
-    ],
-    "name": "Fear & Hunger"
-  },
   "1004640": {
     "config_count": 1,
     "devices": [
@@ -13930,6 +13916,20 @@
     ],
     "name": "Of Orcs And Men"
   },
+  "2171440": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "Fear___Hunger"
+    ],
+    "name": "Fear & Hunger 2: Termina"
+  },
   "2172910": {
     "config_count": 1,
     "devices": [
@@ -14294,7 +14294,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 140,
+    "config_count": 141,
     "devices": [
       {
         "d": "G52_MC2",
@@ -14437,11 +14437,6 @@
         "s": "Mali-G720 MC7"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__830",
         "m": "NX799J",
         "s": "Adreno (TM) 830"
@@ -14465,6 +14460,11 @@
         "d": "Adreno__TM__740",
         "m": "F946B",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "G615_MC2",
