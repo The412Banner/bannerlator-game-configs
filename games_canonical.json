@@ -12953,16 +12953,22 @@
     "name": "Resident Evil: Operation Raccoon City - Weapon Stash"
   },
   "2101390": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__840",
         "m": "TB323FU",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "Retroid_Pocket_6",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
-      "Lost_and_Found_Co"
+      "Lost_and_Found_Co",
+      "Lost_and_Found_Co_"
     ],
     "name": "Lost and Found Co."
   },
@@ -16743,7 +16749,7 @@
     "name": "GraalOnline Era"
   },
   "2358720": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -21902,7 +21908,7 @@
     "name": "SAW: Genesis"
   },
   "286690": {
-    "config_count": 37,
+    "config_count": 38,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -21992,7 +21998,8 @@
     ],
     "folders": [
       "Metro_2033_Redux",
-      "Metro_2033_Redux____________________________________________"
+      "Metro_2033_Redux____________________________________________",
+      "Metro_2033"
     ],
     "name": "Metro 2033 Redux"
   },
@@ -24968,7 +24975,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2109,
+    "config_count": 2111,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -26234,6 +26241,11 @@
         "d": "Adreno__TM__830",
         "m": "S938B",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "S936B",
+        "s": "Adreno (TM) 650"
       },
       {
         "d": "Adreno__TM__830",
@@ -32227,7 +32239,7 @@
     "name": "Aniimo"
   },
   "413150": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "MT6789",
@@ -41577,7 +41589,7 @@
     "name": "Volcanoids"
   },
   "952060": {
-    "config_count": 92,
+    "config_count": 93,
     "devices": [
       {
         "d": "Adreno__TM__750",
