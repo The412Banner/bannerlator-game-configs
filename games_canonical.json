@@ -9843,6 +9843,20 @@
     ],
     "name": "Mega Man Battle Network Legacy Collection Vol. 1"
   },
+  "1798230": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      }
+    ],
+    "folders": [
+      "AT"
+    ],
+    "name": "ATMOSFAR"
+  },
   "1799930": {
     "config_count": 1,
     "devices": [],
@@ -21997,11 +22011,11 @@
       }
     ],
     "folders": [
+      "Metro_2033",
       "Metro_2033_Redux",
-      "Metro_2033_Redux____________________________________________",
-      "Metro_2033"
+      "Metro_2033_Redux____________________________________________"
     ],
-    "name": "Metro 2033 Redux"
+    "name": "METRO 2033 Redux"
   },
   "2868840": {
     "config_count": 20,
@@ -24975,7 +24989,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2111,
+    "config_count": 2114,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25853,11 +25867,6 @@
         "s": "Adreno (TM) 810"
       },
       {
-        "d": "Ultra_MC12",
-        "m": "G1",
-        "s": "Mali-G1-Ultra MC12"
-      },
-      {
         "d": "PowerVR_Rogue_GE8320",
         "m": "Infinix_X669C",
         "s": "PowerVR Rogue GE8320"
@@ -26223,11 +26232,6 @@
         "s": "Adreno (TM) 640"
       },
       {
-        "d": "G610_MC6",
-        "m": "Mali",
-        "s": "Mali-G610 MC6"
-      },
-      {
         "d": "Adreno__TM__642L",
         "m": "22101320G",
         "s": "Adreno (TM) 642L"
@@ -26246,6 +26250,16 @@
         "d": "Adreno__TM__650",
         "m": "S936B",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "G610_MC6",
+        "m": "Mali",
+        "s": "Mali-G610 MC6"
+      },
+      {
+        "d": "Ultra_MC12",
+        "m": "G1",
+        "s": "Mali-G1-Ultra MC12"
       },
       {
         "d": "Adreno__TM__830",
@@ -27719,14 +27733,6 @@
       "Heavy_Weapon"
     ],
     "name": "Heavy Weapon Deluxe"
-  },
-  "3419290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN"
   },
   "341940": {
     "config_count": 4,
@@ -29690,16 +29696,9 @@
     "name": "Yakuza Kiwami 2"
   },
   "3722330": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      }
-    ],
+    "config_count": 1,
+    "devices": [],
     "folders": [
-      "AT",
       "SHIFT"
     ],
     "name": "Shift At Midnight"
@@ -31709,6 +31708,14 @@
       "The_Spike"
     ],
     "name": "The Spike Cross"
+  },
+  "3985080": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN - Costume Expansion Pack"
   },
   "400": {
     "config_count": 4,
@@ -35135,20 +35142,6 @@
     ],
     "name": "State of Decay 2: Juggernaut Edition"
   },
-  "4996080": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Immortalis_MC12",
-        "m": "G720",
-        "s": "Mali-G720-Immortalis MC12"
-      }
-    ],
-    "folders": [
-      "Resonance_of_Fate"
-    ],
-    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 ENHANCED REMASTER"
-  },
   "500": {
     "config_count": 15,
     "devices": [
@@ -37908,6 +37901,20 @@
       "Coming_Out_on_Top"
     ],
     "name": "Coming Out on Top"
+  },
+  "645730": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Immortalis_MC12",
+        "m": "G720",
+        "s": "Mali-G720-Immortalis MC12"
+      }
+    ],
+    "folders": [
+      "Resonance_of_Fate"
+    ],
+    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 4K/HD EDITION"
   },
   "646570": {
     "config_count": 2,
@@ -44719,6 +44726,20 @@
       "NieRAutomataCompat"
     ],
     "name": "Nierautomatacompat"
+  },
+  "name:nsm-myst-chs": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__735",
+        "m": "W69",
+        "s": "Adreno (TM) 735"
+      }
+    ],
+    "folders": [
+      "NSM_MYST_CHS___"
+    ],
+    "name": "Nsm Myst Chs"
   },
   "name:nsuns-4": {
     "config_count": 1,
