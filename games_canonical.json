@@ -3927,6 +3927,20 @@
     ],
     "name": "Beach Buggy Racing 2 - Island Adventure"
   },
+  "12320": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred Gold"
+  },
   "1232460": {
     "config_count": 1,
     "devices": [
@@ -24989,7 +25003,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2114,
+    "config_count": 2116,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25489,11 +25503,6 @@
       {
         "d": "Adreno__TM__830",
         "m": "25010PN30G",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "NP05J",
         "s": "Adreno (TM) 830"
       },
       {
@@ -26260,6 +26269,11 @@
         "d": "Ultra_MC12",
         "m": "G1",
         "s": "Mali-G1-Ultra MC12"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "NP05J",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "Adreno__TM__830",
@@ -30443,7 +30457,7 @@
     "name": "Dead Island Definitive Edition"
   },
   "383180": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -30458,7 +30472,8 @@
     ],
     "folders": [
       "DeadIslandRiptideDE",
-      "DeadIsland_Riptide"
+      "DeadIsland_Riptide",
+      "Dead_Island_Riptide"
     ],
     "name": "Dead Island: Riptide Definitive Edition"
   },
@@ -30869,20 +30884,6 @@
       "Tekken_7"
     ],
     "name": "TEKKEN 7"
-  },
-  "3906660": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred 2 Remaster"
   },
   "3909960": {
     "config_count": 1,
@@ -34301,6 +34302,14 @@
     ],
     "name": "Sarah's House"
   },
+  "4739660": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "DragNWash"
+    ],
+    "name": "Dragnwash"
+  },
   "474960": {
     "config_count": 1,
     "devices": [
@@ -35146,20 +35155,6 @@
       "StateOfDecay2"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
-  },
-  "4996080": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Immortalis_MC12",
-        "m": "G720",
-        "s": "Mali-G720-Immortalis MC12"
-      }
-    ],
-    "folders": [
-      "Resonance_of_Fate"
-    ],
-    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 ENHANCED REMASTER"
   },
   "500": {
     "config_count": 15,
@@ -37920,6 +37915,20 @@
       "Coming_Out_on_Top"
     ],
     "name": "Coming Out on Top"
+  },
+  "645730": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Immortalis_MC12",
+        "m": "G720",
+        "s": "Mali-G720-Immortalis MC12"
+      }
+    ],
+    "folders": [
+      "Resonance_of_Fate"
+    ],
+    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 4K/HD EDITION"
   },
   "646570": {
     "config_count": 2,
@@ -45024,7 +45033,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3240,
+    "config_count": 3245,
     "devices": [
       {
         "d": "G52_MC2",
@@ -46007,11 +46016,6 @@
         "s": "Mali-G615 MC6"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__735",
         "m": "I2221",
         "s": "Adreno (TM) 735"
@@ -46030,6 +46034,11 @@
         "d": "Adreno__TM__610",
         "m": "25062RN2DL",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",

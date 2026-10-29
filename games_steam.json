@@ -2018,6 +2018,10 @@
     "appid": null,
     "method": "unresolved"
   },
+  "DBSCG_FW_launcher_c2251ed3-b51d-4c4f-9c73-307277a436b4": {
+    "appid": null,
+    "method": "non-game"
+  },
   "DEAD_OR_ALIVE_5_Last_Round": {
     "appid": 311730,
     "method": "naive",
@@ -2355,6 +2359,12 @@
   "Dead_Island_GOTY_LAN": {
     "appid": null,
     "method": "unresolved"
+  },
+  "Dead_Island_Riptide": {
+    "appid": 383180,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/383180/header.jpg",
+    "method": "naive",
+    "steam_name": "Dead Island: Riptide Definitive Edition"
   },
   "Dead_Rising_3_Apocalypse_Edition": {
     "appid": 265550,
