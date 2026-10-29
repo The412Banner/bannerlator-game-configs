@@ -3076,7 +3076,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 469,
+    "config_count": 470,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3464,11 +3464,6 @@
         "s": "Mali-G51"
       },
       {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
         "d": "Adreno__TM__740",
         "m": "S918B",
         "s": "Adreno (TM) 740"
@@ -3522,6 +3517,11 @@
         "d": "Adreno__TM__610",
         "m": "23129RA5FL",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__735",
