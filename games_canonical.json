@@ -14,20 +14,6 @@
     ],
     "name": "Counter-Strike"
   },
-  "1002300": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "NX809J",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "Fear___Hunger"
-    ],
-    "name": "Fear & Hunger"
-  },
   "1004640": {
     "config_count": 1,
     "devices": [
@@ -10885,7 +10871,7 @@
     "name": "Fifa 19"
   },
   "1938090": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -10895,6 +10881,7 @@
     ],
     "folders": [
       "Call_Of_Duty_MW2",
+      "CallOf_Duty",
       "Call_of_Duty"
     ],
     "name": "Call of Duty\u00ae"
@@ -11604,7 +11591,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11613,8 +11600,7 @@
       }
     ],
     "folders": [
-      "WolfNewOrder",
-      "Wolfenstein__2009_"
+      "WolfNewOrder"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -13927,6 +13913,20 @@
       "Of_Orcs_and_Men"
     ],
     "name": "Of Orcs And Men"
+  },
+  "2171440": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "Fear___Hunger"
+    ],
+    "name": "Fear & Hunger 2: Termina"
   },
   "2172910": {
     "config_count": 1,
@@ -23692,7 +23692,7 @@
     "name": "MotoGP\u212225"
   },
   "307780": {
-    "config_count": 46,
+    "config_count": 47,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -23768,6 +23768,11 @@
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
       }
     ],
     "folders": [
@@ -24958,7 +24963,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2106,
+    "config_count": 2108,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -26219,6 +26224,11 @@
         "d": "G68_MC4",
         "m": "Mali",
         "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "Adreno__TM__830",
@@ -33436,7 +33446,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -33447,7 +33457,6 @@
     "folders": [
       "Call_of_Duty_4",
       "COD__Modern_Warfare",
-      "CallOf_Duty",
       "Call_of_Duty_4_Modern_Warfare",
       "Call_of_duty_Modern_Warfare",
       "call_of_duty_4_modern_Warfare"
@@ -37475,7 +37484,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -42671,7 +42680,7 @@
     "name": "Bob Esponja Titanes De La Marina"
   },
   "name:bootstrappackagedgame": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -42687,6 +42696,11 @@
         "d": "Adreno__TM__825",
         "m": "V2453A",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
