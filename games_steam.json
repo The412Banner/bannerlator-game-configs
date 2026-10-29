@@ -3606,6 +3606,12 @@
     "method": "naive",
     "steam_name": "FANTASY LIFE i: The Girl Who Steals Time"
   },
+  "Far_Cry": {
+    "appid": 2369390,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2369390/header.jpg",
+    "method": "naive",
+    "steam_name": "Far Cry\u00ae 6"
+  },
   "Far_Cry_": {
     "appid": 552520,
     "method": "naive",
@@ -4640,6 +4646,10 @@
     "appid": 1707550,
     "method": "fuzzy",
     "steam_name": "Granny 3"
+  },
+  "Granny_3_Enhanced": {
+    "appid": null,
+    "method": "unresolved"
   },
   "Granny_Legacy": {
     "appid": null,
