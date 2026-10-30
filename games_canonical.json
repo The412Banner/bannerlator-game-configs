@@ -465,6 +465,20 @@
     ],
     "name": "Postal III"
   },
+  "102500": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
+      }
+    ],
+    "folders": [
+      "Kingdoms_of_Amalur_-_Reckoning"
+    ],
+    "name": "Kingdoms of Amalur: Reckoning\u2122"
+  },
   "1026680": {
     "config_count": 1,
     "devices": [],
@@ -2012,6 +2026,14 @@
       "DOOM64"
     ],
     "name": "DOOM 64"
+  },
+  "1150230": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "nostalgia_5_0"
+    ],
+    "name": "VR Nostalgia 5"
   },
   "1151380": {
     "config_count": 1,
@@ -4629,7 +4651,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 65,
+    "config_count": 66,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4740,6 +4762,11 @@
         "d": "Adreno__TM__650",
         "m": "22021211RG",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
       }
     ],
     "folders": [
@@ -4758,6 +4785,7 @@
       "Need_for_Speed_-_Most_Wanted",
       "Need_for_Speed_Most_Wanted_2005",
       "Need_for_Speed__Most_Wanted_2005",
+      "Need_for_Speed__Most_wanted__2012_",
       "need_for_speed_most_wa",
       "need_for_speed_most_wanted_2005"
     ],
@@ -5064,20 +5092,6 @@
       "____4___"
     ],
     "name": "Borderlands 4"
-  },
-  "1286680": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "NP05J",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "Tiny_Tina_s_Wonderlands"
-    ],
-    "name": "Tiny Tina's Wonderlands"
   },
   "1286990": {
     "config_count": 1,
@@ -9400,12 +9414,17 @@
     "name": "Choo-Choo Charles"
   },
   "1769533": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "NP05J",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -10036,7 +10055,7 @@
     "name": "Harvestella"
   },
   "1817070": {
-    "config_count": 27,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -11986,7 +12005,7 @@
     "name": "Call of Duty\u00ae: Black Ops II"
   },
   "203140": {
-    "config_count": 42,
+    "config_count": 45,
     "devices": [
       {
         "d": "G610_MC3",
@@ -12062,11 +12081,17 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "I2218",
+        "s": "Adreno (TM) 720"
       }
     ],
     "folders": [
       "Hitman__Absolution",
-      "Hitman__Absolution_"
+      "Hitman__Absolution_",
+      "Hitman_-_Absolution"
     ],
     "name": "Hitman: Absolution\u2122"
   },
@@ -18508,7 +18533,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 33,
+    "config_count": 32,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23097,7 +23122,7 @@
     "name": "Dying Light: The Beast"
   },
   "3010850": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -23124,7 +23149,8 @@
       "Gears_Of_War",
       "Gears_of_War",
       "Gears_of_war_2",
-      "d"
+      "d",
+      "Gears_of_War_2"
     ],
     "name": "Gears of War: E-Day"
   },
@@ -23148,7 +23174,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 7,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -23169,16 +23195,10 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -24160,14 +24180,6 @@
       "FINAL_FANTASY_XIV_Online_Free_Trial"
     ],
     "name": "FINAL FANTASY XIV Online Free Trial"
-  },
-  "3120600": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "RoomGirl"
-    ],
-    "name": "VR Harem Life ~ Your Room Became a Hang-Out for Girls!? ~"
   },
   "3121490": {
     "config_count": 1,
@@ -29026,6 +29038,14 @@
     ],
     "name": "Mafia III: Definitive Edition"
   },
+  "3606830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "RoomGirl"
+    ],
+    "name": "Life in The Janitor's Room with A JK Girl"
+  },
   "361420": {
     "config_count": 2,
     "devices": [
@@ -29696,7 +29716,7 @@
     "name": "Pixel Empires"
   },
   "373420": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -29706,7 +29726,8 @@
     ],
     "folders": [
       "Divinity__Original_Sin_-_Enhanced_Edition",
-      "Divinity__Original_Sin_Enhanced_Edition"
+      "Divinity__Original_Sin_Enhanced_Edition",
+      "Divinity_Original_Sin_Enhanced_Edition"
     ],
     "name": "Divinity: Original Sin - Enhanced Edition"
   },
@@ -31877,14 +31898,6 @@
     ],
     "name": "Shift At Midnight Multiplayer Demo"
   },
-  "405310": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "LEGO_MARVEL_s_Avengers"
-    ],
-    "name": "LEGO\u00ae MARVEL's Avengers"
-  },
   "405820": {
     "config_count": 1,
     "devices": [],
@@ -32928,6 +32941,14 @@
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
+  "426860": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "LEGO_MARVEL_s_Avengers"
+    ],
+    "name": "LEGO\u00ae MARVEL's Avengers Season Pass"
+  },
   "42700": {
     "config_count": 3,
     "devices": [
@@ -33190,7 +33211,7 @@
     "name": "2Dark"
   },
   "435150": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -33205,8 +33226,7 @@
     ],
     "folders": [
       "Divinity__Original_Sin_2",
-      "Divinity_-_Original_Sin_2_-_Definitive_Edition",
-      "Divinity_Original_Sin_Enhanced_Edition"
+      "Divinity_-_Original_Sin_2_-_Definitive_Edition"
     ],
     "name": "Divinity: Original Sin 2 - Definitive Edition"
   },
@@ -37979,7 +37999,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -37998,7 +38018,8 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2"
+      "LEGO__Marvel_Super_Heroes_2",
+      "LEGOMARVEL"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -41268,7 +41289,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 8,
     "devices": [
       {
         "d": "G615_MC6",
@@ -41284,10 +41305,16 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -43676,14 +43703,6 @@
     ],
     "name": "Ge2Rb"
   },
-  "name:gears-of-war-2": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Gears_of_War_2"
-    ],
-    "name": "Gears Of War 2"
-  },
   "name:gears-of-war-2-hollow": {
     "config_count": 1,
     "devices": [],
@@ -43994,20 +44013,6 @@
       "HelloNeighbor-Win64-Shipping"
     ],
     "name": "Helloneighbor Win64 Shipping"
-  },
-  "name:hitman-absolution": {
-    "config_count": 3,
-    "devices": [
-      {
-        "d": "Adreno__TM__720",
-        "m": "I2218",
-        "s": "Adreno (TM) 720"
-      }
-    ],
-    "folders": [
-      "Hitman_-_Absolution"
-    ],
-    "name": "Hitman Absolution"
   },
   "name:hitman5": {
     "config_count": 1,
@@ -44575,20 +44580,6 @@
     ],
     "name": "Need For Speed Black Edition"
   },
-  "name:need-for-speed-most-wanted-2012": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
-      }
-    ],
-    "folders": [
-      "Need_for_Speed__Most_wanted__2012_"
-    ],
-    "name": "Need For Speed Most Wanted 2012"
-  },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 3,
     "devices": [],
@@ -44772,14 +44763,6 @@
       "NieRAutomataCompat"
     ],
     "name": "Nierautomatacompat"
-  },
-  "name:nostalgia-5-0": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "nostalgia_5_0"
-    ],
-    "name": "Nostalgia 5 0"
   },
   "name:nsm-myst-chs": {
     "config_count": 1,
