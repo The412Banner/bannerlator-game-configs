@@ -10902,7 +10902,7 @@
     "name": "Fifa 19"
   },
   "1938090": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -10912,6 +10912,7 @@
     ],
     "folders": [
       "Call_Of_Duty_MW2",
+      "CallOf_Duty",
       "Call_of_Duty"
     ],
     "name": "Call of Duty\u00ae"
@@ -18052,7 +18053,7 @@
     "name": "The Legend of Heroes: Trails into Reverie - SSS Summer Splash Set"
   },
   "243470": {
-    "config_count": 36,
+    "config_count": 40,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -24984,7 +24985,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2125,
+    "config_count": 2126,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -28319,7 +28320,7 @@
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
   },
   "3493540": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G57_MC2",
@@ -30624,21 +30625,21 @@
         "s": "Mali-G52 MC2"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "PowerVR_Rogue_GE8320",
         "m": "CPH2015",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
       "MotoGP_26",
       "MotoGP_26___",
-      "motogp_",
-      "motogp"
+      "motogp",
+      "motogp_"
     ],
     "name": "MotoGP\u212226"
   },
@@ -33509,7 +33510,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -33520,7 +33521,6 @@
     "folders": [
       "Call_of_Duty_4",
       "COD__Modern_Warfare",
-      "CallOf_Duty",
       "Call_of_Duty_4_Modern_Warfare",
       "Call_of_duty_Modern_Warfare",
       "call_of_duty_4_modern_Warfare"
@@ -33682,7 +33682,7 @@
     "name": "Farming Simulator 17"
   },
   "447040": {
-    "config_count": 32,
+    "config_count": 29,
     "devices": [
       {
         "d": "G720_MC7",
@@ -33755,7 +33755,6 @@
       "Watch_Dogs_2",
       "Watch_Dogs__2",
       "watch_dogs_2",
-      "Watch_Dogs",
       "watch_dogs"
     ],
     "name": "Watch_Dogs\u00ae 2"
@@ -35803,6 +35802,14 @@
       "dacapo"
     ],
     "name": "Da Capo"
+  },
+  "5201760": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "tra"
+    ],
+    "name": "ARC Raiders - Frozen Trail Collector Set"
   },
   "521890": {
     "config_count": 5,
@@ -45079,7 +45086,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3252,
+    "config_count": 3255,
     "devices": [
       {
         "d": "G52_MC2",
@@ -45415,11 +45422,6 @@
         "d": "Adreno__TM__610",
         "m": "220333QAG",
         "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__710",
-        "m": "25118PC98G",
-        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__730",
@@ -46085,6 +46087,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "25118PC98G",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__740",
