@@ -2697,8 +2697,14 @@
     "name": "House Flipper 2"
   },
   "1194690": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
+      }
+    ],
     "folders": [
       "EA_app"
     ],
@@ -24610,7 +24616,7 @@
     "name": "Mall Simulator"
   },
   "3183760": {
-    "config_count": 7,
+    "config_count": 22,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -24626,6 +24632,16 @@
         "d": "Adreno__TM__750",
         "m": "NX769J",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
@@ -24968,7 +24984,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2122,
+    "config_count": 2125,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -30580,7 +30596,7 @@
     "name": "Ori and the Blind Forest: Definitive Edition"
   },
   "3875050": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -30611,12 +30627,18 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "CPH2015",
+        "s": "PowerVR Rogue GE8320"
       }
     ],
     "folders": [
       "MotoGP_26",
       "MotoGP_26___",
-      "motogp_"
+      "motogp_",
+      "motogp"
     ],
     "name": "MotoGP\u212226"
   },
@@ -32475,7 +32497,7 @@
     "name": "Shadow Tactics: Blades of the Shogun"
   },
   "418370": {
-    "config_count": 42,
+    "config_count": 43,
     "devices": [
       {
         "d": "SM7435",
@@ -32556,6 +32578,11 @@
         "d": "Adreno__TM__830",
         "m": "V2520A",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
       },
       {
         "d": "Adreno__TM__720",
@@ -33466,25 +33493,6 @@
       "DREAMTONE_Demo"
     ],
     "name": "DREAMTONE Demo"
-  },
-  "4430260": {
-    "config_count": 15,
-    "devices": [
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "M2007J3SY",
-        "s": "Adreno (TM) 650"
-      }
-    ],
-    "folders": [
-      "speed"
-    ],
-    "name": "Beat For Speed"
   },
   "4433900": {
     "config_count": 1,
@@ -35476,6 +35484,14 @@
       "Bulletstorm"
     ],
     "name": "Bulletstorm: Full Clip Edition"
+  },
+  "501890": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GoW_original"
+    ],
+    "name": "God\u2018s One Day World - Original Soundtrack"
   },
   "502280": {
     "config_count": 2,
