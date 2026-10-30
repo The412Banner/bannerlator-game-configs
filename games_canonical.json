@@ -23174,7 +23174,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -23195,10 +23195,16 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -24604,7 +24610,7 @@
     "name": "Mall Simulator"
   },
   "3183760": {
-    "config_count": 4,
+    "config_count": 22,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -24620,10 +24626,21 @@
         "d": "Adreno__TM__750",
         "m": "NX769J",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
-      "speed"
+      "speed",
+      "Speed"
     ],
     "name": "SpeedRunners 2: King of Speed"
   },
@@ -33460,26 +33477,6 @@
     ],
     "name": "DREAMTONE Demo"
   },
-  "4430260": {
-    "config_count": 18,
-    "devices": [
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "M2007J3SY",
-        "s": "Adreno (TM) 650"
-      }
-    ],
-    "folders": [
-      "Speed",
-      "speed"
-    ],
-    "name": "Beat For Speed"
-  },
   "4433900": {
     "config_count": 1,
     "devices": [
@@ -41304,7 +41301,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 8,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -41320,16 +41317,10 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -46261,7 +46252,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 245,
+    "config_count": 246,
     "devices": [
       {
         "d": "G615_MC2",
