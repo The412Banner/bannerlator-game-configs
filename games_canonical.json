@@ -9144,14 +9144,6 @@
     ],
     "name": "Last Vanguard"
   },
-  "1731290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GUN"
-    ],
-    "name": "SPINE - This is Gun Fu"
-  },
   "1731460": {
     "config_count": 1,
     "devices": [
@@ -9511,6 +9503,25 @@
       "Crab_Game"
     ],
     "name": "Crab Game"
+  },
+  "1785910": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
+      }
+    ],
+    "folders": [
+      "SB"
+    ],
+    "name": "SBK\u212222"
   },
   "1790600": {
     "config_count": 179,
@@ -20792,25 +20803,6 @@
     ],
     "name": "SAMURAI WARRIORS 4 DX"
   },
-  "2723810": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "Odin3",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__735",
-        "m": "24069PC21G",
-        "s": "Adreno (TM) 735"
-      }
-    ],
-    "folders": [
-      "SB"
-    ],
-    "name": "SBcatfight game"
-  },
   "272510": {
     "config_count": 12,
     "devices": [
@@ -23186,7 +23178,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -23207,10 +23199,16 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -29728,6 +29726,14 @@
     ],
     "name": "Divinity: Original Sin - Enhanced Edition"
   },
+  "3734220": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GUN"
+    ],
+    "name": "Guns of Eschaton"
+  },
   "3734630": {
     "config_count": 1,
     "devices": [
@@ -35146,6 +35152,20 @@
     ],
     "name": "State of Decay 2: Juggernaut Edition"
   },
+  "4996080": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Immortalis_MC12",
+        "m": "G720",
+        "s": "Mali-G720-Immortalis MC12"
+      }
+    ],
+    "folders": [
+      "Resonance_of_Fate"
+    ],
+    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 ENHANCED REMASTER"
+  },
   "500": {
     "config_count": 15,
     "devices": [
@@ -37905,20 +37925,6 @@
       "Coming_Out_on_Top"
     ],
     "name": "Coming Out on Top"
-  },
-  "645730": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Immortalis_MC12",
-        "m": "G720",
-        "s": "Mali-G720-Immortalis MC12"
-      }
-    ],
-    "folders": [
-      "Resonance_of_Fate"
-    ],
-    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 4K/HD EDITION"
   },
   "646570": {
     "config_count": 2,
@@ -41270,7 +41276,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 8,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -41286,16 +41292,10 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -42311,6 +42311,14 @@
       "2K_Sports_NBA_2K14"
     ],
     "name": "2K Sports Nba 2K14"
+  },
+  "name:3-prime-2d": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "3_Prime_2D"
+    ],
+    "name": "3 Prime 2D"
   },
   "name:acblackflag": {
     "config_count": 1,
