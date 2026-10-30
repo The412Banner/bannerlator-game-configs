@@ -24181,6 +24181,14 @@
     ],
     "name": "FINAL FANTASY XIV Online Free Trial"
   },
+  "3120600": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "RoomGirl"
+    ],
+    "name": "VR Harem Life ~ Your Room Became a Hang-Out for Girls!? ~"
+  },
   "3121490": {
     "config_count": 1,
     "devices": [
@@ -24596,7 +24604,7 @@
     "name": "Mall Simulator"
   },
   "3183760": {
-    "config_count": 22,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -24612,21 +24620,10 @@
         "d": "Adreno__TM__750",
         "m": "NX769J",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "M2007J3SY",
-        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
-      "speed",
-      "Speed"
+      "speed"
     ],
     "name": "SpeedRunners 2: King of Speed"
   },
@@ -29038,14 +29035,6 @@
     ],
     "name": "Mafia III: Definitive Edition"
   },
-  "3606830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "RoomGirl"
-    ],
-    "name": "Life in The Janitor's Room with A JK Girl"
-  },
   "361420": {
     "config_count": 2,
     "devices": [
@@ -31862,8 +31851,14 @@
     "name": "Hob"
   },
   "404790": {
-    "config_count": 2,
-    "devices": [],
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Immortalis_MC12",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC12"
+      }
+    ],
     "folders": [
       "Godot_Engine"
     ],
@@ -33464,6 +33459,26 @@
       "DREAMTONE_Demo"
     ],
     "name": "DREAMTONE Demo"
+  },
+  "4430260": {
+    "config_count": 18,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
+      }
+    ],
+    "folders": [
+      "Speed",
+      "speed"
+    ],
+    "name": "Beat For Speed"
   },
   "4433900": {
     "config_count": 1,
@@ -45056,7 +45071,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3249,
+    "config_count": 3250,
     "devices": [
       {
         "d": "G52_MC2",
