@@ -14,6 +14,20 @@
     ],
     "name": "Counter-Strike"
   },
+  "1002300": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "Fear___Hunger"
+    ],
+    "name": "Fear & Hunger"
+  },
   "1004640": {
     "config_count": 1,
     "devices": [
@@ -1999,14 +2013,6 @@
     ],
     "name": "DOOM 64"
   },
-  "1150230": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "nostalgia_5_0"
-    ],
-    "name": "VR Nostalgia 5"
-  },
   "1151380": {
     "config_count": 1,
     "devices": [
@@ -2432,7 +2438,7 @@
     "name": "FINAL FANTASY"
   },
   "1174180": {
-    "config_count": 65,
+    "config_count": 66,
     "devices": [
       {
         "d": "SM8750P",
@@ -2550,11 +2556,6 @@
         "s": "Adreno (TM) 740"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
@@ -2563,6 +2564,11 @@
         "d": "Adreno__TM__730",
         "m": "TB320FC",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__650",
@@ -3636,7 +3642,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 57,
+    "config_count": 39,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -3732,24 +3738,12 @@
         "d": "Adreno__TM__722",
         "m": "CPH2825",
         "s": "Adreno (TM) 722"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "M2007J3SY",
-        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
       "Need_for_Speed__Heat",
       "nfs",
-      "Need_for_Speed_Heat",
-      "Speed",
-      "speed"
+      "Need_for_Speed_Heat"
     ],
     "name": "Need for Speed\u2122 Heat"
   },
@@ -4635,7 +4629,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 66,
+    "config_count": 65,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4746,11 +4740,6 @@
         "d": "Adreno__TM__650",
         "m": "22021211RG",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
       }
     ],
     "folders": [
@@ -4769,7 +4758,6 @@
       "Need_for_Speed_-_Most_Wanted",
       "Need_for_Speed_Most_Wanted_2005",
       "Need_for_Speed__Most_Wanted_2005",
-      "Need_for_Speed__Most_wanted__2012_",
       "need_for_speed_most_wa",
       "need_for_speed_most_wanted_2005"
     ],
@@ -5076,6 +5064,20 @@
       "____4___"
     ],
     "name": "Borderlands 4"
+  },
+  "1286680": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "NP05J",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "Tiny_Tina_s_Wonderlands"
+    ],
+    "name": "Tiny Tina's Wonderlands"
   },
   "1286990": {
     "config_count": 1,
@@ -8753,17 +8755,17 @@
     "name": "MIO: Memories in Orbit"
   },
   "1672970": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
       {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -9398,17 +9400,12 @@
     "name": "Choo-Choo Charles"
   },
   "1769533": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "NP05J",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -9837,20 +9834,6 @@
       "Battle_net"
     ],
     "name": "Mega Man Battle Network Legacy Collection Vol. 1"
-  },
-  "1798230": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      }
-    ],
-    "folders": [
-      "AT"
-    ],
-    "name": "ATMOSFAR"
   },
   "1799930": {
     "config_count": 1,
@@ -12003,7 +11986,7 @@
     "name": "Call of Duty\u00ae: Black Ops II"
   },
   "203140": {
-    "config_count": 45,
+    "config_count": 42,
     "devices": [
       {
         "d": "G610_MC3",
@@ -12079,17 +12062,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
-      },
-      {
-        "d": "Adreno__TM__720",
-        "m": "I2218",
-        "s": "Adreno (TM) 720"
       }
     ],
     "folders": [
       "Hitman__Absolution",
-      "Hitman__Absolution_",
-      "Hitman_-_Absolution"
+      "Hitman__Absolution_"
     ],
     "name": "Hitman: Absolution\u2122"
   },
@@ -13941,20 +13918,6 @@
       "Of_Orcs_and_Men"
     ],
     "name": "Of Orcs And Men"
-  },
-  "2171440": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "NX809J",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "Fear___Hunger"
-    ],
-    "name": "Fear & Hunger 2: Termina"
   },
   "2172910": {
     "config_count": 1,
@@ -18545,7 +18508,7 @@
     "name": "Visions of Mana"
   },
   "249130": {
-    "config_count": 32,
+    "config_count": 33,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -23134,7 +23097,7 @@
     "name": "Dying Light: The Beast"
   },
   "3010850": {
-    "config_count": 9,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -23161,8 +23124,7 @@
       "Gears_Of_War",
       "Gears_of_War",
       "Gears_of_war_2",
-      "d",
-      "Gears_of_War_2"
+      "d"
     ],
     "name": "Gears of War: E-Day"
   },
@@ -23719,7 +23681,7 @@
     "name": "MotoGP\u212225"
   },
   "307780": {
-    "config_count": 47,
+    "config_count": 48,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -24622,7 +24584,7 @@
     "name": "Mall Simulator"
   },
   "3183760": {
-    "config_count": 4,
+    "config_count": 22,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -24638,10 +24600,21 @@
         "d": "Adreno__TM__750",
         "m": "NX769J",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
-      "speed"
+      "speed",
+      "Speed"
     ],
     "name": "SpeedRunners 2: King of Speed"
   },
@@ -24979,7 +24952,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2118,
+    "config_count": 2119,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -29686,9 +29659,16 @@
     "name": "Yakuza Kiwami 2"
   },
   "3722330": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      }
+    ],
     "folders": [
+      "AT",
       "SHIFT"
     ],
     "name": "Shift At Midnight"
@@ -29716,7 +29696,7 @@
     "name": "Pixel Empires"
   },
   "373420": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -29726,8 +29706,7 @@
     ],
     "folders": [
       "Divinity__Original_Sin_-_Enhanced_Edition",
-      "Divinity__Original_Sin_Enhanced_Edition",
-      "Divinity_Original_Sin_Enhanced_Edition"
+      "Divinity__Original_Sin_Enhanced_Edition"
     ],
     "name": "Divinity: Original Sin - Enhanced Edition"
   },
@@ -31898,6 +31877,14 @@
     ],
     "name": "Shift At Midnight Multiplayer Demo"
   },
+  "405310": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "LEGO_MARVEL_s_Avengers"
+    ],
+    "name": "LEGO\u00ae MARVEL's Avengers"
+  },
   "405820": {
     "config_count": 1,
     "devices": [],
@@ -32941,14 +32928,6 @@
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
-  "426860": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "LEGO_MARVEL_s_Avengers"
-    ],
-    "name": "LEGO\u00ae MARVEL's Avengers Season Pass"
-  },
   "42700": {
     "config_count": 3,
     "devices": [
@@ -33211,7 +33190,7 @@
     "name": "2Dark"
   },
   "435150": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -33226,7 +33205,8 @@
     ],
     "folders": [
       "Divinity__Original_Sin_2",
-      "Divinity_-_Original_Sin_2_-_Definitive_Edition"
+      "Divinity_-_Original_Sin_2_-_Definitive_Edition",
+      "Divinity_Original_Sin_Enhanced_Edition"
     ],
     "name": "Divinity: Original Sin 2 - Definitive Edition"
   },
@@ -35164,20 +35144,6 @@
       "StateOfDecay2"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
-  },
-  "4996080": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Immortalis_MC12",
-        "m": "G720",
-        "s": "Mali-G720-Immortalis MC12"
-      }
-    ],
-    "folders": [
-      "Resonance_of_Fate"
-    ],
-    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 ENHANCED REMASTER"
   },
   "500": {
     "config_count": 15,
@@ -37466,7 +37432,7 @@
     "name": "Moonlighter"
   },
   "606280": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -37479,13 +37445,19 @@
         "s": "Adreno (TM) 825"
       },
       {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
+      },
+      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
       }
     ],
     "folders": [
-      "Darksiders_III"
+      "Darksiders_III",
+      "Darksiders"
     ],
     "name": "Darksiders III"
   },
@@ -37933,6 +37905,20 @@
     ],
     "name": "Coming Out on Top"
   },
+  "645730": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Immortalis_MC12",
+        "m": "G720",
+        "s": "Mali-G720-Immortalis MC12"
+      }
+    ],
+    "folders": [
+      "Resonance_of_Fate"
+    ],
+    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 4K/HD EDITION"
+  },
   "646570": {
     "config_count": 2,
     "devices": [
@@ -37993,7 +37979,7 @@
     "name": "The Crew\u2122 2"
   },
   "647830": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -38012,8 +37998,7 @@
       }
     ],
     "folders": [
-      "LEGO__Marvel_Super_Heroes_2",
-      "LEGOMARVEL"
+      "LEGO__Marvel_Super_Heroes_2"
     ],
     "name": "LEGO\u00ae Marvel Super Heroes 2"
   },
@@ -38777,7 +38762,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 6,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__A32",
@@ -38788,16 +38773,10 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "Darksiders_Genesis",
-      "Darksiders",
       "DarksidersGenesis"
     ],
     "name": "Darksiders Genesis"
@@ -40229,7 +40208,7 @@
     "name": "STEINS;GATE ELITE"
   },
   "830461": {
-    "config_count": 6,
+    "config_count": 9,
     "devices": [
       {
         "d": "G720_MC8",
@@ -43697,6 +43676,14 @@
     ],
     "name": "Ge2Rb"
   },
+  "name:gears-of-war-2": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Gears_of_War_2"
+    ],
+    "name": "Gears Of War 2"
+  },
   "name:gears-of-war-2-hollow": {
     "config_count": 1,
     "devices": [],
@@ -44007,6 +43994,20 @@
       "HelloNeighbor-Win64-Shipping"
     ],
     "name": "Helloneighbor Win64 Shipping"
+  },
+  "name:hitman-absolution": {
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__720",
+        "m": "I2218",
+        "s": "Adreno (TM) 720"
+      }
+    ],
+    "folders": [
+      "Hitman_-_Absolution"
+    ],
+    "name": "Hitman Absolution"
   },
   "name:hitman5": {
     "config_count": 1,
@@ -44574,6 +44575,20 @@
     ],
     "name": "Need For Speed Black Edition"
   },
+  "name:need-for-speed-most-wanted-2012": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
+      }
+    ],
+    "folders": [
+      "Need_for_Speed__Most_wanted__2012_"
+    ],
+    "name": "Need For Speed Most Wanted 2012"
+  },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 3,
     "devices": [],
@@ -44757,6 +44772,14 @@
       "NieRAutomataCompat"
     ],
     "name": "Nierautomatacompat"
+  },
+  "name:nostalgia-5-0": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "nostalgia_5_0"
+    ],
+    "name": "Nostalgia 5 0"
   },
   "name:nsm-myst-chs": {
     "config_count": 1,
@@ -45050,7 +45073,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3245,
+    "config_count": 3249,
     "devices": [
       {
         "d": "G52_MC2",
@@ -46028,11 +46051,6 @@
         "s": "PowerVR B-Series BXM-8-256"
       },
       {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      },
-      {
         "d": "Adreno__TM__735",
         "m": "I2221",
         "s": "Adreno (TM) 735"
@@ -46056,6 +46074,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__740",
