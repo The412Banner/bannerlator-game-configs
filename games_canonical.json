@@ -14,20 +14,6 @@
     ],
     "name": "Counter-Strike"
   },
-  "1002300": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "NX809J",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "Fear___Hunger"
-    ],
-    "name": "Fear & Hunger"
-  },
   "1004640": {
     "config_count": 1,
     "devices": [
@@ -3650,7 +3636,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 39,
+    "config_count": 57,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -3746,12 +3732,24 @@
         "d": "Adreno__TM__722",
         "m": "CPH2825",
         "s": "Adreno (TM) 722"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
       "Need_for_Speed__Heat",
       "nfs",
-      "Need_for_Speed_Heat"
+      "Need_for_Speed_Heat",
+      "Speed",
+      "speed"
     ],
     "name": "Need for Speed\u2122 Heat"
   },
@@ -9508,25 +9506,6 @@
     ],
     "name": "Crab Game"
   },
-  "1785910": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "Odin3",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__735",
-        "m": "24069PC21G",
-        "s": "Adreno (TM) 735"
-      }
-    ],
-    "folders": [
-      "SB"
-    ],
-    "name": "SBK\u212222"
-  },
   "1790600": {
     "config_count": 179,
     "devices": [
@@ -13962,6 +13941,20 @@
       "Of_Orcs_and_Men"
     ],
     "name": "Of Orcs And Men"
+  },
+  "2171440": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "Fear___Hunger"
+    ],
+    "name": "Fear & Hunger 2: Termina"
   },
   "2172910": {
     "config_count": 1,
@@ -19948,14 +19941,6 @@
     ],
     "name": "Tokyo Xtreme Racer"
   },
-  "2637940": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Cars"
-    ],
-    "name": "Used Cars Simulator"
-  },
   "2638050": {
     "config_count": 1,
     "devices": [],
@@ -20806,6 +20791,25 @@
       "SAMURAI_WARRIORS_4_DX"
     ],
     "name": "SAMURAI WARRIORS 4 DX"
+  },
+  "2723810": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "Odin3",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
+      }
+    ],
+    "folders": [
+      "SB"
+    ],
+    "name": "SBcatfight game"
   },
   "272510": {
     "config_count": 12,
@@ -24618,7 +24622,7 @@
     "name": "Mall Simulator"
   },
   "3183760": {
-    "config_count": 22,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -24634,21 +24638,10 @@
         "d": "Adreno__TM__750",
         "m": "NX769J",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "M2007J3SY",
-        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
-      "speed",
-      "Speed"
+      "speed"
     ],
     "name": "SpeedRunners 2: King of Speed"
   },
@@ -24986,7 +24979,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2116,
+    "config_count": 2118,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -26239,11 +26232,6 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "Adreno__TM__650",
-        "m": "S936B",
-        "s": "Adreno (TM) 650"
-      },
-      {
         "d": "G610_MC6",
         "m": "Mali",
         "s": "Mali-G610 MC6"
@@ -26257,6 +26245,11 @@
         "d": "Adreno__TM__830",
         "m": "NP05J",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "S936B",
+        "s": "Adreno (TM) 650"
       },
       {
         "d": "Adreno__TM__830",
@@ -34988,6 +34981,14 @@
     ],
     "name": "The Apothecary Diaries: The False Imperial Brother"
   },
+  "4908110": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Cars"
+    ],
+    "name": "Gas N Cars"
+  },
   "491040": {
     "config_count": 1,
     "devices": [
@@ -35163,6 +35164,20 @@
       "StateOfDecay2"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
+  },
+  "4996080": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Immortalis_MC12",
+        "m": "G720",
+        "s": "Mali-G720-Immortalis MC12"
+      }
+    ],
+    "folders": [
+      "Resonance_of_Fate"
+    ],
+    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 ENHANCED REMASTER"
   },
   "500": {
     "config_count": 15,
@@ -37917,20 +37932,6 @@
       "Coming_Out_on_Top"
     ],
     "name": "Coming Out on Top"
-  },
-  "645730": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Immortalis_MC12",
-        "m": "G720",
-        "s": "Mali-G720-Immortalis MC12"
-      }
-    ],
-    "folders": [
-      "Resonance_of_Fate"
-    ],
-    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 4K/HD EDITION"
   },
   "646570": {
     "config_count": 2,
@@ -42131,7 +42132,7 @@
     "name": "GACHIMUCHI M\u2642NLY PUZZLE"
   },
   "985810": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
