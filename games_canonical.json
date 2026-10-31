@@ -5737,7 +5737,7 @@
     "name": "Monster Harvest"
   },
   "1364780": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -5748,10 +5748,16 @@
         "d": "PowerVR_Rogue_GE8320",
         "m": "A045F",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "CPH2613",
+        "s": "Adreno (TM) 720"
       }
     ],
     "folders": [
-      "Street_Fighter__6"
+      "Street_Fighter__6",
+      "StreetFighterV"
     ],
     "name": "Street Fighter\u2122 6"
   },
@@ -9564,7 +9570,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 180,
+    "config_count": 176,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -9815,19 +9821,13 @@
         "d": "Adreno__TM__830",
         "m": "NX789J_V1B",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Immortalis_MC11",
-        "m": "G715",
-        "s": "Mali-G715-Immortalis MC11"
       }
     ],
     "folders": [
       "DRAGON_BALL_Sparking__ZERO",
       "DRAGON_BALL__Sparking__ZERO",
       "DragonBall_SparkingZERO",
-      "SPARKING_ZERO",
-      "SparkingZERO"
+      "SPARKING_ZERO"
     ],
     "name": "DRAGON BALL: Sparking! ZERO"
   },
@@ -11657,7 +11657,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11666,7 +11666,8 @@
       }
     ],
     "folders": [
-      "WolfNewOrder"
+      "WolfNewOrder",
+      "Wolfenstein__2009_"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -16030,14 +16031,6 @@
       "WUCHANG__Fallen_Feathers"
     ],
     "name": "WUCHANG: Fallen Feathers"
-  },
-  "2278010": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Six_Ages_2__Lights_Going_Out"
-    ],
-    "name": "Six Ages 2: Lights Going Out"
   },
   "2281730": {
     "config_count": 3,
@@ -23442,14 +23435,6 @@
     ],
     "name": "Nazi Zombies"
   },
-  "304650": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sunless_Sea"
-    ],
-    "name": "SUNLESS SEA"
-  },
   "304930": {
     "config_count": 4,
     "devices": [
@@ -25015,7 +25000,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2133,
+    "config_count": 2135,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -33622,20 +33607,6 @@
     ],
     "name": "World of Tanks Blitz"
   },
-  "444680": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__720",
-        "m": "CPH2613",
-        "s": "Adreno (TM) 720"
-      }
-    ],
-    "folders": [
-      "StreetFighterV"
-    ],
-    "name": "Street Fighter V Original Soundtrack"
-  },
   "44500": {
     "config_count": 7,
     "devices": [
@@ -37604,7 +37575,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -46333,7 +46304,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 247,
+    "config_count": 248,
     "devices": [
       {
         "d": "G615_MC2",
@@ -47491,6 +47462,14 @@
     ],
     "name": "Shproto"
   },
+  "name:six-ages-2-lights-going-out": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Six_Ages_2__Lights_Going_Out"
+    ],
+    "name": "Six Ages 2 Lights Going Out"
+  },
   "name:skyrimlauncher": {
     "config_count": 1,
     "devices": [],
@@ -47574,6 +47553,25 @@
       "SOTTR"
     ],
     "name": "Sottr"
+  },
+  "name:sparkingzero": {
+    "config_count": 5,
+    "devices": [
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Immortalis_MC11",
+        "m": "G715",
+        "s": "Mali-G715-Immortalis MC11"
+      }
+    ],
+    "folders": [
+      "SparkingZERO"
+    ],
+    "name": "Sparkingzero"
   },
   "name:sparkingzero-win64-shipping": {
     "config_count": 4,
@@ -47724,6 +47722,14 @@
       "StyxGame"
     ],
     "name": "Styxgame"
+  },
+  "name:sunless-sea": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sunless_Sea"
+    ],
+    "name": "Sunless Sea"
   },
   "name:t6mp-multiplayer-offline": {
     "config_count": 1,
