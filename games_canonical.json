@@ -3587,7 +3587,7 @@
     "name": "Detroit: Become Human"
   },
   "1222670": {
-    "config_count": 30,
+    "config_count": 29,
     "devices": [
       {
         "d": "G57_MC2",
@@ -6703,7 +6703,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 119,
+    "config_count": 120,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -6899,6 +6899,11 @@
         "d": "Adreno__TM__840",
         "m": "S942U",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
@@ -6915,7 +6920,8 @@
       "FIFA_2007",
       "FIFA_22",
       "FIFA_23",
-      "FIFA22"
+      "FIFA22",
+      "fifa_12"
     ],
     "name": "FIFA 22"
   },
@@ -9042,7 +9048,7 @@
     "name": "Kusan: City of Wolves"
   },
   "1715130": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -12937,7 +12943,7 @@
     "name": "Crysis 2 Remastered"
   },
   "2096610": {
-    "config_count": 6,
+    "config_count": 5,
     "devices": [
       {
         "d": "G720_MC7",
@@ -12948,8 +12954,7 @@
     "folders": [
       "Crysis",
       "Crysis_3",
-      "Crysis_3_Remastered",
-      "Crysis_Remastered"
+      "Crysis_3_Remastered"
     ],
     "name": "Crysis 3 Remastered"
   },
@@ -43592,20 +43597,6 @@
       "FFXIII"
     ],
     "name": "Ffxiii"
-  },
-  "name:fifa-12": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__710",
-        "m": "NX1",
-        "s": "Adreno (TM) 710"
-      }
-    ],
-    "folders": [
-      "fifa_12"
-    ],
-    "name": "Fifa 12"
   },
   "name:fifa14": {
     "config_count": 1,
