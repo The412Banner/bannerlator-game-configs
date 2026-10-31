@@ -2668,7 +2668,7 @@
     "name": "I.G.I. Origins"
   },
   "1187": {
-    "config_count": 4,
+    "config_count": 2,
     "devices": [
       {
         "d": "G77_MC9",
@@ -2677,8 +2677,7 @@
       }
     ],
     "folders": [
-      "ACC",
-      "Assassin_s_Creed_Rogue"
+      "ACC"
     ],
     "name": "Acc"
   },
@@ -2883,10 +2882,32 @@
     "name": "Phonopolis"
   },
   "1206560": {
-    "config_count": 3,
-    "devices": [],
+    "config_count": 15,
+    "devices": [
+      {
+        "d": "Adreno__TM__640",
+        "m": "RMX1931",
+        "s": "Adreno (TM) 640"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "CPH2447",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Immortalis_MC12",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC12"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "2607APCA5G",
+        "s": "Adreno (TM) 840"
+      }
+    ],
     "folders": [
       "WorldBox_-_God_Simulator",
+      "GoW",
       "worldbox"
     ],
     "name": "WorldBox - God Simulator"
@@ -4397,7 +4418,7 @@
     "name": "Jurassic World Evolution 2"
   },
   "1245620": {
-    "config_count": 17,
+    "config_count": 14,
     "devices": [
       {
         "d": "SM8850",
@@ -4443,16 +4464,6 @@
         "d": "Adreno__TM__840",
         "m": "2509FPN0BC",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "CPH2653",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__829",
-        "m": "PLR110",
-        "s": "Adreno (TM) 829"
       }
     ],
     "folders": [
@@ -6725,7 +6736,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 120,
+    "config_count": 118,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -9570,7 +9581,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 176,
+    "config_count": 181,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -14357,7 +14368,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 142,
+    "config_count": 125,
     "devices": [
       {
         "d": "G52_MC2",
@@ -14530,11 +14541,6 @@
         "s": "Mali-G57 MC2"
       },
       {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
-      },
-      {
         "d": "Adreno__TM__740",
         "m": "2304FPN6DG",
         "s": "Adreno (TM) 740"
@@ -14561,7 +14567,7 @@
     "name": "Far Cry 3"
   },
   "220440": {
-    "config_count": 40,
+    "config_count": 39,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -14688,8 +14694,7 @@
       "DmC_Devil_May_Cry",
       "DmC_Devil_May_Cry___________________________________________",
       "DmC__Devil_May_Cry",
-      "DMC-DevilMayCry",
-      "DMC-DevilMayCry_2013"
+      "DMC-DevilMayCry"
     ],
     "name": "DmC: Devil May Cry"
   },
@@ -16362,7 +16367,7 @@
     "name": "Sky: Children of the Light"
   },
   "232890": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -16376,7 +16381,8 @@
       }
     ],
     "folders": [
-      "__Stronghold_Crusader"
+      "__Stronghold_Crusader",
+      "Stronghold_Crusader_HD"
     ],
     "name": "Stronghold Crusader 2"
   },
@@ -23610,7 +23616,7 @@
     "name": "Portrait of a Torn"
   },
   "3059520": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "G57_MC2",
@@ -23677,7 +23683,8 @@
       "F1_2011",
       "F1_2013",
       "F1_2014",
-      "F1_2015"
+      "F1_2015",
+      "F1_2025"
     ],
     "name": "F1\u00ae 25"
   },
@@ -24118,9 +24125,10 @@
     "name": "METAL GEAR SOLID V: GROUND ZEROES"
   },
   "311560": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [],
     "folders": [
+      "Assassin_s_Creed_Rogue",
       "Assassins_Creed_Rogue"
     ],
     "name": "Assassin\u2019s Creed\u00ae Rogue"
@@ -26786,7 +26794,7 @@
     "name": "GameGuru MAX - Madman's Melee Weapons"
   },
   "329050": {
-    "config_count": 59,
+    "config_count": 58,
     "devices": [
       {
         "d": "G615_MC2",
@@ -29744,7 +29752,7 @@
     "name": "Pixel Empires"
   },
   "373420": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -29754,8 +29762,7 @@
     ],
     "folders": [
       "Divinity__Original_Sin_-_Enhanced_Edition",
-      "Divinity__Original_Sin_Enhanced_Edition",
-      "Divinity_Original_Sin_Enhanced_Edition"
+      "Divinity__Original_Sin_Enhanced_Edition"
     ],
     "name": "Divinity: Original Sin - Enhanced Edition"
   },
@@ -32104,14 +32111,6 @@
     ],
     "name": "Stronghold 2: Steam Edition"
   },
-  "40970": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Stronghold_Crusader_HD"
-    ],
-    "name": "Stronghold Crusader HD (2012)"
-  },
   "409710": {
     "config_count": 5,
     "devices": [
@@ -32261,14 +32260,6 @@
       "ZAT"
     ],
     "name": "Z.A.T.O. - Digital Art Pack"
-  },
-  "4123760": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Football_Life_2026"
-    ],
-    "name": "Football Life"
   },
   "4126040": {
     "config_count": 1,
@@ -32641,7 +32632,7 @@
     "name": "Mushi"
   },
   "4195170": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -33256,7 +33247,7 @@
     "name": "2Dark"
   },
   "435150": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -33271,7 +33262,8 @@
     ],
     "folders": [
       "Divinity__Original_Sin_2",
-      "Divinity_-_Original_Sin_2_-_Definitive_Edition"
+      "Divinity_-_Original_Sin_2_-_Definitive_Edition",
+      "Divinity_Original_Sin_Enhanced_Edition"
     ],
     "name": "Divinity: Original Sin 2 - Definitive Edition"
   },
@@ -33284,32 +33276,12 @@
     "name": "The Final Station"
   },
   "4355320": {
-    "config_count": 17,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__740",
         "m": "S911B",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__640",
-        "m": "RMX1931",
-        "s": "Adreno (TM) 640"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "CPH2447",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Immortalis_MC12",
-        "m": "G925",
-        "s": "Mali-G925-Immortalis MC12"
-      },
-      {
-        "d": "Adreno__TM__840",
-        "m": "2607APCA5G",
-        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
@@ -33907,7 +33879,7 @@
     "name": "Zenonia 1"
   },
   "454650": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "G57_MC2",
@@ -33931,8 +33903,7 @@
       }
     ],
     "folders": [
-      "DRAGON_BALL_XENOVERSE_2",
-      "DragonBall_XenoVerse"
+      "DRAGON_BALL_XENOVERSE_2"
     ],
     "name": "DRAGON BALL XENOVERSE 2"
   },
@@ -34123,6 +34094,30 @@
       "Halo_Wars__Definitive_Edition"
     ],
     "name": "Halo Wars: Definitive Edition"
+  },
+  "46": {
+    "config_count": 17,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "S928B",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Far_Cry_3"
+    ],
+    "name": "Far Cry 3"
   },
   "4600470": {
     "config_count": 1,
@@ -37300,7 +37295,7 @@
     "name": "Attack on Titan 2 - A.O.T.2"
   },
   "601150": {
-    "config_count": 51,
+    "config_count": 52,
     "devices": [
       {
         "d": "unknown",
@@ -37421,6 +37416,7 @@
     "folders": [
       "Devil_May_Cry_5",
       "DevilMayCry5",
+      "Devil_May_Cry_4",
       "Devil_May_Cry_V"
     ],
     "name": "Devil May Cry 5"
@@ -43198,6 +43194,20 @@
     ],
     "name": "Dlss 5 Swapper"
   },
+  "name:dmc-devilmaycry-2013": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2487",
+        "s": "Adreno (TM) 730"
+      }
+    ],
+    "folders": [
+      "DMC-DevilMayCry_2013"
+    ],
+    "name": "Dmc Devilmaycry 2013"
+  },
   "name:domesticlover": {
     "config_count": 1,
     "devices": [
@@ -43219,6 +43229,14 @@
       "Dragon_Ball_Fighters_Z"
     ],
     "name": "Dragon Ball Fighters Z"
+  },
+  "name:dragonball-xenoverse": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "DragonBall_XenoVerse"
+    ],
+    "name": "Dragonball Xenoverse"
   },
   "name:dragonballzkakarot": {
     "config_count": 1,
@@ -43388,6 +43406,25 @@
       "eFootball_PES_2021_SEASON_UPDATE"
     ],
     "name": "eFootball 2021"
+  },
+  "name:elden-ring": {
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "CPH2653",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__829",
+        "m": "PLR110",
+        "s": "Adreno (TM) 829"
+      }
+    ],
+    "folders": [
+      "ELDEN_RING"
+    ],
+    "name": "Elden Ring"
   },
   "name:emuteck-edition": {
     "config_count": 2,
@@ -43582,6 +43619,14 @@
     ],
     "name": "Ffxiii"
   },
+  "name:fifa-13": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "FIFA_13"
+    ],
+    "name": "Fifa 13"
+  },
   "name:fifa14": {
     "config_count": 1,
     "devices": [],
@@ -43682,6 +43727,14 @@
       "Final_Fantasy_Renaissance"
     ],
     "name": "Final Fantasy Renaissance"
+  },
+  "name:football-life-2026": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Football_Life_2026"
+    ],
+    "name": "Football Life 2026"
   },
   "name:frozen-throne": {
     "config_count": 1,
@@ -46902,6 +46955,14 @@
       "PES_LXPES"
     ],
     "name": "PES Lxpes"
+  },
+  "name:pes17-devan": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "PES17_DEVAN"
+    ],
+    "name": "Pes17 Devan"
   },
   "name:pes2010": {
     "config_count": 1,
