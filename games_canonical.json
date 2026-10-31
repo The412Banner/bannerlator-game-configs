@@ -3947,20 +3947,6 @@
     ],
     "name": "Beach Buggy Racing 2 - Island Adventure"
   },
-  "12320": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred Gold"
-  },
   "1232460": {
     "config_count": 1,
     "devices": [
@@ -16984,16 +16970,22 @@
     "name": "Europa Universalis IV"
   },
   "2369390": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
-      "Far_Cry"
+      "Far_Cry",
+      "FarCry"
     ],
     "name": "Far Cry\u00ae 6"
   },
@@ -17398,14 +17390,6 @@
       "Crypt_Custodian"
     ],
     "name": "Crypt Custodian"
-  },
-  "239550": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Age_of_Empires_II__2013_"
-    ],
-    "name": "Age of Empires II (2013): The Forgotten"
   },
   "2396240": {
     "config_count": 1,
@@ -25034,7 +25018,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2142,
+    "config_count": 2143,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -29353,9 +29337,10 @@
     "name": "Drift Legends 2"
   },
   "3669870": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [],
     "folders": [
+      "Control_Ultimate_Edition",
       "control"
     ],
     "name": "CONTROL Resonant"
@@ -30942,6 +30927,20 @@
       "Tekken_7"
     ],
     "name": "TEKKEN 7"
+  },
+  "3906660": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred 2 Remaster"
   },
   "3909960": {
     "config_count": 1,
@@ -34120,14 +34119,6 @@
     ],
     "name": "Ultra Street Fighter\u00ae IV"
   },
-  "4576490": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "CasualtiesUnknown"
-    ],
-    "name": "Casualties: Unknown"
-  },
   "4576510": {
     "config_count": 1,
     "devices": [
@@ -36244,7 +36235,7 @@
     "name": "RAGE 2"
   },
   "550": {
-    "config_count": 83,
+    "config_count": 84,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -36275,11 +36266,6 @@
         "d": "Adreno__TM__740",
         "m": "Odin2_Portal",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__720",
@@ -36370,6 +36356,11 @@
         "d": "Adreno__TM__750",
         "m": "V2425A",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__730",
@@ -36505,7 +36496,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 21,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -36551,11 +36542,6 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -36564,8 +36550,7 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry",
-      "FarCry"
+      "far_cry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -39951,11 +39936,12 @@
     "name": "Acodyssey"
   },
   "813780": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "Age_of_Empires_II_HD",
-      "Age_of_Empires_II"
+      "Age_of_Empires_II",
+      "Age_of_Empires_II__2013_"
     ],
     "name": "Age of Empires II: Definitive Edition"
   },
@@ -40023,7 +40009,7 @@
     "name": "Monster Sanctuary"
   },
   "814380": {
-    "config_count": 90,
+    "config_count": 91,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -40683,7 +40669,7 @@
     "name": "The Walking Dead: The Final Season"
   },
   "870780": {
-    "config_count": 5,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "CONTROL_Ultimate_Edition",
@@ -42895,6 +42881,14 @@
       "CastlevaniaSOH"
     ],
     "name": "Castlevaniasoh"
+  },
+  "name:casualtiesunknown": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "CasualtiesUnknown"
+    ],
+    "name": "Casualtiesunknown"
   },
   "name:cdmwthemocs2": {
     "config_count": 1,
