@@ -1570,7 +1570,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1579,7 +1579,8 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid"
+      "BattleForTheGrid",
+      "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -21225,14 +21226,6 @@
     ],
     "name": "9 Kings"
   },
-  "2787680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Candy Rangers"
-  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -24853,7 +24846,7 @@
     "name": "Cursemark"
   },
   "3219630": {
-    "config_count": 16,
+    "config_count": 12,
     "devices": [
       {
         "d": "256",
@@ -27987,6 +27980,25 @@
       "Grisaia"
     ],
     "name": "The Fruit of Grisaia"
+  },
+  "3459340": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "256",
+        "m": "8",
+        "s": "PowerVR B-Series BXM-8-256"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "Game"
+    ],
+    "name": "Lacey's Flash Games"
   },
   "3462040": {
     "config_count": 1,
@@ -45159,7 +45171,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3258,
+    "config_count": 3259,
     "devices": [
       {
         "d": "G52_MC2",
@@ -45922,11 +45934,6 @@
         "s": "Adreno (TM) 618"
       },
       {
-        "d": "Adreno__TM__650",
-        "m": "G780G",
-        "s": "Adreno (TM) 650"
-      },
-      {
         "d": "Adreno__TM__618",
         "m": "moto_g_60_",
         "s": "Adreno (TM) 618"
@@ -46175,6 +46182,11 @@
         "d": "Adreno__TM__740",
         "m": "24018RPACG",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "G780G",
+        "s": "Adreno (TM) 650"
       },
       {
         "d": "Adreno__TM__740",
@@ -47529,6 +47541,14 @@
       "SHProto"
     ],
     "name": "Shproto"
+  },
+  "name:simpsons-hit-run": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Simpsons_Hit___Run"
+    ],
+    "name": "Simpsons Hit Run"
   },
   "name:skyrimlauncher": {
     "config_count": 1,
