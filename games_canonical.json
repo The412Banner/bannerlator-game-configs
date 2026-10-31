@@ -4094,7 +4094,7 @@
     "name": "Mass Effect\u2122 3 N7 Digital Deluxe Edition (2012)"
   },
   "1238060": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -4125,6 +4125,11 @@
         "d": "Adreno__TM__642L",
         "m": "22101320G",
         "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "G610_MC6",
+        "m": "Mali",
+        "s": "Mali-G610 MC6"
       },
       {
         "d": "G76",
@@ -12416,7 +12421,7 @@
     "name": "Resident Evil 4"
   },
   "205100": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -12442,6 +12447,11 @@
         "d": "Adreno__TM__720",
         "m": "I2218",
         "s": "Adreno (TM) 720"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
@@ -23197,7 +23207,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 7,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -23218,16 +23228,10 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -24990,7 +24994,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2126,
+    "config_count": 2128,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -41342,7 +41346,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 8,
     "devices": [
       {
         "d": "G615_MC6",
@@ -41358,10 +41362,16 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
