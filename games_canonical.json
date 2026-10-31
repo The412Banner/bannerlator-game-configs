@@ -1047,6 +1047,14 @@
     ],
     "name": "Electrician Simulator"
   },
+  "1080920": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GRID_2"
+    ],
+    "name": "Defense Grid 2 - Aftermath"
+  },
   "108600": {
     "config_count": 4,
     "devices": [],
@@ -3946,6 +3954,20 @@
       "Beach_Buggy_Racing_2_-_Island_Adventure"
     ],
     "name": "Beach Buggy Racing 2 - Island Adventure"
+  },
+  "12320": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred Gold"
   },
   "1232460": {
     "config_count": 1,
@@ -11733,7 +11755,7 @@
     "name": "Dokimon Quest"
   },
   "202170": {
-    "config_count": 75,
+    "config_count": 76,
     "devices": [
       {
         "d": "MT6878",
@@ -12981,7 +13003,7 @@
     "name": "StarVaders"
   },
   "2100160": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G610_MC6",
@@ -12990,7 +13012,8 @@
       }
     ],
     "folders": [
-      "MotoGP_23___________________________________________________"
+      "MotoGP_23___________________________________________________",
+      "MotoGP23"
     ],
     "name": "MotoGP\u212223"
   },
@@ -14968,7 +14991,7 @@
     "name": "Five Nights at Freddy's: Secret of the Mimic"
   },
   "221540": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -25006,7 +25029,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2131,
+    "config_count": 2132,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -26194,11 +26217,6 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "G76_MC4",
-        "m": "Mali",
-        "s": "Mali-G76 MC4"
-      },
-      {
         "d": "Adreno__TM__732",
         "m": "2410CRP4CG",
         "s": "Adreno (TM) 732"
@@ -26277,6 +26295,11 @@
         "d": "Adreno__TM__650",
         "m": "S936B",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "G76_MC4",
+        "m": "Mali",
+        "s": "Mali-G76 MC4"
       },
       {
         "d": "Adreno__TM__830",
@@ -30908,20 +30931,6 @@
       "Tekken_7"
     ],
     "name": "TEKKEN 7"
-  },
-  "3906660": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred 2 Remaster"
   },
   "3909960": {
     "config_count": 1,
@@ -45132,7 +45141,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3256,
+    "config_count": 3258,
     "devices": [
       {
         "d": "G52_MC2",
@@ -46085,11 +46094,6 @@
         "s": "Mali-G72"
       },
       {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
-      },
-      {
         "d": "Adreno__TM__735",
         "m": "motorola_edge_50_ultra",
         "s": "Adreno (TM) 735"
@@ -46143,6 +46147,16 @@
         "d": "PowerVR_Rogue_GE8300",
         "m": "A8",
         "s": "PowerVR Rogue GE8300"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "24018RPACG",
+        "s": "Adreno (TM) 740"
       },
       {
         "d": "Adreno__TM__740",
