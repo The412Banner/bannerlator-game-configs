@@ -1,16 +1,16 @@
-raw folders: 2926   total configs: 16903
+raw folders: 2927   total configs: 16908
 non-game (filtered out): 160
-MERGED canonical games (have appid): 2359
-  folders collapsed by merge: 795
+MERGED canonical games (have appid): 2358
+  folders collapsed by merge: 791
 still-unresolved real games (no appid): 702
-GAME-COUNT RATE: 2359/3061 = 77%  (vs 67% raw baseline)
-CONFIG-COVERAGE (matters for matching): 17549/18824 = 93%
+GAME-COUNT RATE: 2358/3060 = 77%  (vs 67% raw baseline)
+CONFIG-COVERAGE (matters for matching): 17555/18830 = 93%
 top-merged examples:
   appid 1665460: 22 folders, 110 configs, 26 devices  ['PES', 'PES_13', 'PES_2013']
   appid 1262560: 18 folders, 66 configs, 23 devices  ['Need_For_Speed__Most_Wanted__2005_', 'Need_for_Speed_-_Most_Wanted________________________________', 'Need_for_Speed_Most_Wanted']
-  appid 3240220: 16 folders, 2135 configs, 280 devices  ['GTA_5', 'Grand_Theft_Auto_5', 'Grand_Theft_Auto_V']
+  appid 3240220: 16 folders, 2139 configs, 281 devices  ['GTA_5', 'Grand_Theft_Auto_5', 'Grand_Theft_Auto_V']
   appid name:pes-2013: 16 folders, 3258 configs, 207 devices  ['PES2013', 'PES_2013_Fix', 'PES_2013_LEND_RIO_']
-  appid 1506830: 15 folders, 118 configs, 40 devices  ['FIFA_06_____________________________________________________', 'FIFA_13', 'FIFA_14']
+  appid 1506830: 15 folders, 120 configs, 40 devices  ['FIFA_06_____________________________________________________', 'FIFA_13', 'FIFA_14']
   appid 311210: 10 folders, 53 configs, 19 devices  ['BlackOps', 'Call_of_Duty_', 'Call_of_Duty_3______________________________________________']
-  appid 292030: 10 folders, 20 configs, 11 devices  ['The_Witcher_3__Wild_Hunt_-_Complete_Edition', 'The_Witcher_3__Wild_Hunt___Remastered', 'The_Witcher_3']
   appid 2050650: 9 folders, 86 configs, 21 devices  ['RE4', 'RE_4', 'Re4']
+  appid 292030: 9 folders, 19 configs, 11 devices  ['The_Witcher_3__Wild_Hunt_-_Complete_Edition', 'The_Witcher_3__Wild_Hunt___Remastered', 'The_Witcher_3']
