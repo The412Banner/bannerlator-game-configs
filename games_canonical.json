@@ -323,7 +323,7 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 2 (2009)"
   },
   "1020790": {
-    "config_count": 63,
+    "config_count": 65,
     "devices": [
       {
         "d": "SM8850",
@@ -441,14 +441,14 @@
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "S928B",
-        "s": "Adreno (TM) 750"
-      },
-      {
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "S928B",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -1046,14 +1046,6 @@
       "Electrician_Simulator"
     ],
     "name": "Electrician Simulator"
-  },
-  "1080920": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GRID_2"
-    ],
-    "name": "Defense Grid 2 - Aftermath"
   },
   "108600": {
     "config_count": 4,
@@ -3954,6 +3946,20 @@
       "Beach_Buggy_Racing_2_-_Island_Adventure"
     ],
     "name": "Beach Buggy Racing 2 - Island Adventure"
+  },
+  "12320": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred Gold"
   },
   "1232460": {
     "config_count": 1,
@@ -8243,7 +8249,7 @@
     "name": "Minishoot' Adventures"
   },
   "1636440": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "A566E",
@@ -10718,7 +10724,7 @@
     "name": "Ib"
   },
   "1903340": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "G57_MC2",
@@ -10734,6 +10740,11 @@
         "d": "Adreno__TM__850",
         "m": "ASUS_AI2401_A",
         "s": "Adreno (TM) 850"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
@@ -13127,6 +13138,20 @@
     ],
     "name": "F.E.A.R. 3"
   },
+  "211010": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Alien_Shooter_2"
+    ],
+    "name": "Alien Shooter 2 Conscription"
+  },
   "2110820": {
     "config_count": 1,
     "devices": [],
@@ -14977,7 +15002,7 @@
     "name": "Five Nights at Freddy's: Secret of the Mimic"
   },
   "221540": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -22504,7 +22529,7 @@
     "name": "ONE PIECE Bounty Rush"
   },
   "292030": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -22569,6 +22594,7 @@
       "The_Witcher_3_-_Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
+      "The_Witcher_3_-_Wild_Hunt___Remastered",
       "Witcher_1",
       "_Witcher",
       "witcher3"
@@ -23229,7 +23255,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 7,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -23250,16 +23276,10 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -24494,11 +24514,23 @@
     "name": "Football Life Simulator"
   },
   "3159330": {
-    "config_count": 2,
-    "devices": [],
+    "config_count": 7,
+    "devices": [
+      {
+        "d": "Adreno__TM__810",
+        "m": "V2502",
+        "s": "Adreno (TM) 810"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "I2218",
+        "s": "Adreno (TM) 720"
+      }
+    ],
     "folders": [
       "Assassin_S_creed_3_",
-      "Assassin_s_Creed_________"
+      "Assassin_s_Creed_________",
+      "Assassin_s_Creed"
     ],
     "name": "Assassin\u2019s Creed Shadows"
   },
@@ -25002,7 +25034,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2139,
+    "config_count": 2140,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25805,11 +25837,6 @@
         "s": "Adreno (TM) 840"
       },
       {
-        "d": "Adreno__TM__618",
-        "m": "A715F",
-        "s": "Adreno (TM) 618"
-      },
-      {
         "d": "Adreno__TM__722",
         "m": "CPH2825",
         "s": "Adreno (TM) 722"
@@ -26278,6 +26305,11 @@
         "d": "Adreno__TM__722",
         "m": "RMX5101",
         "s": "Adreno (TM) 722"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "A715F",
+        "s": "Adreno (TM) 618"
       },
       {
         "d": "Adreno__TM__830",
@@ -26976,20 +27008,6 @@
       "Garten_of_Banban_0"
     ],
     "name": "Garten of Banban 0"
-  },
-  "33120": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "Alien_Shooter_2"
-    ],
-    "name": "Alien Shooter 2: Reloaded"
   },
   "3314070": {
     "config_count": 2,
@@ -29931,25 +29949,6 @@
     ],
     "name": "The Blood of Dawnwalker"
   },
-  "3751950": {
-    "config_count": 5,
-    "devices": [
-      {
-        "d": "Adreno__TM__810",
-        "m": "V2502",
-        "s": "Adreno (TM) 810"
-      },
-      {
-        "d": "Adreno__TM__720",
-        "m": "I2218",
-        "s": "Adreno (TM) 720"
-      }
-    ],
-    "folders": [
-      "Assassin_s_Creed"
-    ],
-    "name": "Assassin's Creed Black Flag Resynced"
-  },
   "375820": {
     "config_count": 3,
     "devices": [],
@@ -30929,20 +30928,6 @@
       "Tekken_7"
     ],
     "name": "TEKKEN 7"
-  },
-  "3906660": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred 2 Remaster"
   },
   "3909960": {
     "config_count": 1,
@@ -32919,7 +32904,7 @@
     "name": "Innocent Assault SS"
   },
   "42680": {
-    "config_count": 42,
+    "config_count": 43,
     "devices": [
       {
         "d": "Infinix_X6833B",
@@ -32972,11 +32957,6 @@
         "s": "Adreno (TM) 825"
       },
       {
-        "d": "G720_MC8",
-        "m": "Mali",
-        "s": "Mali-G720 MC8"
-      },
-      {
         "d": "Adreno__TM__740",
         "m": "S916B",
         "s": "Adreno (TM) 740"
@@ -33005,6 +32985,11 @@
         "d": "Adreno__TM__840",
         "m": "NP06J",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
       }
     ],
     "folders": [
@@ -41379,7 +41364,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 8,
     "devices": [
       {
         "d": "G615_MC6",
@@ -41395,10 +41380,16 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -47511,14 +47502,6 @@
     ],
     "name": "Shproto"
   },
-  "name:silent-hill-3": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "SILENT_HILL_3"
-    ],
-    "name": "Silent Hill 3"
-  },
   "name:skyrimlauncher": {
     "config_count": 1,
     "devices": [],
@@ -47855,14 +47838,6 @@
       "The_Sims_2_Launcher"
     ],
     "name": "The Sims 2 Launcher"
-  },
-  "name:the-witcher-3-wild-hunt-remastered": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "The_Witcher_3_-_Wild_Hunt___Remastered"
-    ],
-    "name": "The Witcher 3 Wild Hunt Remastered"
   },
   "name:thps12": {
     "config_count": 1,
