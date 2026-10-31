@@ -1047,14 +1047,6 @@
     ],
     "name": "Electrician Simulator"
   },
-  "1080920": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GRID_2"
-    ],
-    "name": "Defense Grid 2 - Aftermath"
-  },
   "108600": {
     "config_count": 4,
     "devices": [],
@@ -11676,7 +11668,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11685,8 +11677,7 @@
       }
     ],
     "folders": [
-      "WolfNewOrder",
-      "Wolfenstein__2009_"
+      "WolfNewOrder"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -13146,20 +13137,6 @@
       "F_E_A_R__3"
     ],
     "name": "F.E.A.R. 3"
-  },
-  "211010": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "Alien_Shooter_2"
-    ],
-    "name": "Alien Shooter 2 Conscription"
   },
   "2110820": {
     "config_count": 1,
@@ -15011,7 +14988,7 @@
     "name": "Five Nights at Freddy's: Secret of the Mimic"
   },
   "221540": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -17007,22 +16984,16 @@
     "name": "Europa Universalis IV"
   },
   "2369390": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
-      "Far_Cry",
-      "FarCry"
+      "Far_Cry"
     ],
     "name": "Far Cry\u00ae 6"
   },
@@ -17965,7 +17936,7 @@
     "name": "Avatar Legends: The Fighting Game"
   },
   "242550": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -25063,7 +25034,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2140,
+    "config_count": 2142,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -27038,6 +27009,20 @@
     ],
     "name": "Garten of Banban 0"
   },
+  "33120": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Alien_Shooter_2"
+    ],
+    "name": "Alien Shooter 2: Reloaded"
+  },
   "3314070": {
     "config_count": 2,
     "devices": [],
@@ -28389,7 +28374,7 @@
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
   },
   "3493540": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G57_MC2",
@@ -35879,6 +35864,14 @@
     ],
     "name": "Da Capo"
   },
+  "5201760": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "tra"
+    ],
+    "name": "ARC Raiders - Frozen Trail Collector Set"
+  },
   "521890": {
     "config_count": 5,
     "devices": [
@@ -36512,7 +36505,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "G720_MC7",
@@ -36558,6 +36551,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -36566,7 +36564,8 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry"
+      "far_cry",
+      "FarCry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -37630,7 +37629,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -46858,12 +46857,17 @@
     "name": "PES 2019"
   },
   "name:pes-2020": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__740",
         "m": "23113RKC6G",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G610_MC6",
+        "m": "Mali",
+        "s": "Mali-G610 MC6"
       }
     ],
     "folders": [
