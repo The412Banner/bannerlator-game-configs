@@ -1047,6 +1047,14 @@
     ],
     "name": "Electrician Simulator"
   },
+  "1080920": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GRID_2"
+    ],
+    "name": "Defense Grid 2 - Aftermath"
+  },
   "108600": {
     "config_count": 4,
     "devices": [],
@@ -11668,7 +11676,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11677,7 +11685,8 @@
       }
     ],
     "folders": [
-      "WolfNewOrder"
+      "WolfNewOrder",
+      "Wolfenstein__2009_"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -15002,7 +15011,7 @@
     "name": "Five Nights at Freddy's: Secret of the Mimic"
   },
   "221540": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -22528,6 +22537,20 @@
     ],
     "name": "ONE PIECE Bounty Rush"
   },
+  "2920220": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "I2220",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Terrible_Lizards"
+    ],
+    "name": "Terrible Lizards"
+  },
   "292030": {
     "config_count": 20,
     "devices": [
@@ -23255,7 +23278,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -23276,10 +23299,16 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -37601,7 +37630,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -41364,7 +41393,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 8,
+    "config_count": 6,
     "devices": [
       {
         "d": "G615_MC6",
@@ -41380,16 +41409,10 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
