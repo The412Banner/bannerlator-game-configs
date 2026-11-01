@@ -3949,20 +3949,6 @@
     ],
     "name": "Beach Buggy Racing 2 - Island Adventure"
   },
-  "12320": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred Gold"
-  },
   "1232460": {
     "config_count": 1,
     "devices": [
@@ -4860,7 +4846,7 @@
     "name": "Need for Speed\u2122 Payback"
   },
   "1262600": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "SM8635",
@@ -5604,6 +5590,14 @@
       "DRACU-RIOT_"
     ],
     "name": "DRACU-RIOT!"
+  },
+  "1340720": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "StateOfDecay"
+    ],
+    "name": "State of Decay 3"
   },
   "1343240": {
     "config_count": 2,
@@ -12667,20 +12661,6 @@
       "White_Day_2"
     ],
     "name": "White Day 2: The Flower That Tells Lies - Complete Edition"
-  },
-  "208200": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__740",
-        "m": "Retroid_Pocket_Nova",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "DOOM_3__BFG_Edition"
-    ],
-    "name": "Doom 3 Bfg Edition"
   },
   "208480": {
     "config_count": 2,
@@ -28519,7 +28499,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 30,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -30975,6 +30955,20 @@
       "Tekken_7"
     ],
     "name": "TEKKEN 7"
+  },
+  "3906660": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred 2 Remaster"
   },
   "3909960": {
     "config_count": 1,
@@ -35248,7 +35242,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 9,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -35283,7 +35277,6 @@
     ],
     "folders": [
       "State_of_Decay_2__Juggernaut_Edition",
-      "StateOfDecay",
       "StateOfDecay2"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
@@ -43375,7 +43368,7 @@
     "name": "Easy Anti Cheat Bootstrapper Eos"
   },
   "name:efootball-2021": {
-    "config_count": 59,
+    "config_count": 61,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -43458,11 +43451,6 @@
         "s": "Mali-G68 MC4"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "M2012K11AG",
         "s": "Adreno (TM) 650"
@@ -43476,6 +43464,11 @@
         "d": "Adreno__TM__825",
         "m": "V2453A",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
