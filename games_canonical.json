@@ -3103,7 +3103,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 471,
+    "config_count": 472,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -33593,19 +33593,19 @@
     "config_count": 7,
     "devices": [
       {
-        "d": "Adreno__TM__650",
-        "m": "Retroid_Pocket_5",
-        "s": "Adreno (TM) 650"
-      },
-      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "Retroid_Pocket_5",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
-      "Call_of_Duty_4",
       "COD_MW4",
+      "Call_of_Duty_4",
       "COD__Modern_Warfare",
       "Call_of_Duty_4_Modern_Warfare",
       "Call_of_duty_Modern_Warfare",
