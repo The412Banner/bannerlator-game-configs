@@ -5591,14 +5591,6 @@
     ],
     "name": "DRACU-RIOT!"
   },
-  "1340720": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "StateOfDecay"
-    ],
-    "name": "State of Decay 3"
-  },
   "1343240": {
     "config_count": 2,
     "devices": [
@@ -11664,7 +11656,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11673,7 +11665,8 @@
       }
     ],
     "folders": [
-      "WolfNewOrder"
+      "WolfNewOrder",
+      "Wolfenstein__2009_"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -15640,7 +15633,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 305,
+    "config_count": 306,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -15976,6 +15969,11 @@
         "d": "Adreno__TM__810",
         "m": "motorola_edge_70_fusion",
         "s": "Adreno (TM) 810"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -23487,7 +23485,7 @@
     "name": "Unturned"
   },
   "3050220": {
-    "config_count": 42,
+    "config_count": 43,
     "devices": [
       {
         "d": "2412DPC0AG",
@@ -35236,7 +35234,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -35271,6 +35269,7 @@
     ],
     "folders": [
       "State_of_Decay_2__Juggernaut_Edition",
+      "StateOfDecay",
       "StateOfDecay2"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
@@ -37650,7 +37649,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -39662,7 +39661,7 @@
     "name": "Phoenix Wright: Ace Attorney Trilogy"
   },
   "787860": {
-    "config_count": 32,
+    "config_count": 34,
     "devices": [
       {
         "d": "Immortalis_MC12",
@@ -45179,7 +45178,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3259,
+    "config_count": 3261,
     "devices": [
       {
         "d": "G52_MC2",
