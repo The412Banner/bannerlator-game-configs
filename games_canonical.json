@@ -203,7 +203,7 @@
     "name": "The Long Drive"
   },
   "10180": {
-    "config_count": 50,
+    "config_count": 51,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -314,6 +314,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "NX1",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
@@ -18813,7 +18818,7 @@
     "name": "How to Survive"
   },
   "2506160": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -18827,7 +18832,8 @@
       }
     ],
     "folders": [
-      "Fears_to_Fathom_-_Ironbark_Lookout"
+      "Fears_to_Fathom_-_Ironbark_Lookout",
+      "Fears_to_Fathom_Ironbark_Lookout"
     ],
     "name": "Fears to Fathom - Ironbark Lookout"
   },
@@ -24854,7 +24860,7 @@
     "name": "Cursemark"
   },
   "3219630": {
-    "config_count": 12,
+    "config_count": 16,
     "devices": [
       {
         "d": "256",
@@ -27989,25 +27995,6 @@
     ],
     "name": "The Fruit of Grisaia"
   },
-  "3459340": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "256",
-        "m": "8",
-        "s": "PowerVR B-Series BXM-8-256"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      }
-    ],
-    "folders": [
-      "Game"
-    ],
-    "name": "Lacey's Flash Games"
-  },
   "3462040": {
     "config_count": 1,
     "devices": [],
@@ -28260,7 +28247,7 @@
     "name": "Stellar Blade\u2122"
   },
   "349040": {
-    "config_count": 81,
+    "config_count": 82,
     "devices": [
       {
         "d": "G615_MC2",
@@ -28376,6 +28363,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "256",
+        "m": "8",
+        "s": "PowerVR B-Series BXM-8-256"
       }
     ],
     "folders": [
@@ -33598,16 +33590,22 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_5",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
       "Call_of_Duty_4",
+      "COD_MW4",
       "COD__Modern_Warfare",
       "Call_of_Duty_4_Modern_Warfare",
       "Call_of_duty_Modern_Warfare",
