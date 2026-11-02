@@ -3874,7 +3874,7 @@
     "name": "Chained Echoes"
   },
   "1229490": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "G720_MC7",
@@ -6738,7 +6738,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 120,
+    "config_count": 121,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -6939,6 +6939,11 @@
         "d": "Adreno__TM__840",
         "m": "S942U",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
@@ -6955,7 +6960,8 @@
       "FIFA_2007",
       "FIFA_22",
       "FIFA_23",
-      "FIFA22"
+      "FIFA22",
+      "fifa_12"
     ],
     "name": "FIFA 22"
   },
@@ -7618,7 +7624,7 @@
     "name": "Selaco"
   },
   "1593500": {
-    "config_count": 184,
+    "config_count": 185,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -15470,7 +15476,7 @@
     "name": "Tomb Raider II (1997)"
   },
   "2254490": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "G52_MC2",
@@ -15481,6 +15487,11 @@
         "d": "Adreno__TM__840",
         "m": "25102PCBEG",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__644",
@@ -15495,6 +15506,7 @@
     ],
     "folders": [
       "Launcher",
+      "Rockstar_Games_Launcher",
       "launcher"
     ],
     "name": "Squirrel Launcher"
@@ -16996,16 +17008,22 @@
     "name": "Europa Universalis IV"
   },
   "2369390": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
-      "Far_Cry"
+      "Far_Cry",
+      "FarCry"
     ],
     "name": "Far Cry\u00ae 6"
   },
@@ -19864,16 +19882,22 @@
     "name": "Mount & Blade II: Bannerlord"
   },
   "261570": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
         "m": "M2012K11AG",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
-      "Ori_and_the_Blind_Forest"
+      "Ori_and_the_Blind_Forest",
+      "Ori_and_The_Blind_Forest_-_Definitive_Edition"
     ],
     "name": "Ori and the Blind Forest"
   },
@@ -28778,14 +28802,6 @@
     ],
     "name": "Rune Dice"
   },
-  "354380": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Assassin_s_Creed_Chronicles_China"
-    ],
-    "name": "Assassin\u2019s Creed\u00ae Chronicles: China"
-  },
   "355050": {
     "config_count": 2,
     "devices": [
@@ -29611,6 +29627,14 @@
       "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
+  },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 2,
@@ -36573,7 +36597,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 21,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -36619,11 +36643,6 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -36632,8 +36651,7 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry",
-      "FarCry"
+      "far_cry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -41141,7 +41159,7 @@
     "name": "Resident Evil 2"
   },
   "8850": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -41151,12 +41169,13 @@
     ],
     "folders": [
       "BioShock__2",
-      "BioShock_2"
+      "BioShock_2",
+      "Bioshock_2"
     ],
     "name": "BioShock\u00ae 2"
   },
   "8870": {
-    "config_count": 16,
+    "config_count": 15,
     "devices": [
       {
         "d": "G720_MC7",
@@ -41194,8 +41213,7 @@
       "BioShock_",
       "BioShock_Infinite",
       "Bioshock",
-      "BioShock_Infinite_Complete_Edition",
-      "Bioshock_2"
+      "BioShock_Infinite_Complete_Edition"
     ],
     "name": "BioShock Infinite"
   },
@@ -42659,6 +42677,14 @@
     ],
     "name": "Assasins Creed Iv Black Flag"
   },
+  "name:assassin-s-creed-chronicles-china": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Assassin_s_Creed_Chronicles_China"
+    ],
+    "name": "Assassin S Creed Chronicles China"
+  },
   "name:assassinscreed-dx9": {
     "config_count": 2,
     "devices": [],
@@ -43718,20 +43744,6 @@
       "FFXIII"
     ],
     "name": "Ffxiii"
-  },
-  "name:fifa-12": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__710",
-        "m": "NX1",
-        "s": "Adreno (TM) 710"
-      }
-    ],
-    "folders": [
-      "fifa_12"
-    ],
-    "name": "Fifa 12"
   },
   "name:fifa14": {
     "config_count": 1,
@@ -45111,20 +45123,6 @@
       "OpenBor_3_0_6391_May_2023_ZVitor_Fork"
     ],
     "name": "Openbor 3 0 6391 May 2023 Zvitor Fork"
-  },
-  "name:ori-and-the-blind-forest-definitive-edition": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__710",
-        "m": "NX1",
-        "s": "Adreno (TM) 710"
-      }
-    ],
-    "folders": [
-      "Ori_and_The_Blind_Forest_-_Definitive_Edition"
-    ],
-    "name": "Ori And The Blind Forest Definitive Edition"
   },
   "name:oriwotw": {
     "config_count": 1,
@@ -47508,20 +47506,6 @@
     ],
     "name": "Rocketleague"
   },
-  "name:rockstar-games-launcher": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Rockstar_Games_Launcher"
-    ],
-    "name": "Rockstar Games Launcher"
-  },
   "name:rottr": {
     "config_count": 9,
     "devices": [
@@ -47711,14 +47695,6 @@
       "Snapshot__Lewd_Shores"
     ],
     "name": "Snapshot Lewd Shores"
-  },
-  "name:sniper-ghost-warrior-1": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 1"
   },
   "name:sniper-x86": {
     "config_count": 1,
