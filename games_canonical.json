@@ -3958,6 +3958,20 @@
     ],
     "name": "Beach Buggy Racing 2 - Island Adventure"
   },
+  "12320": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred Gold"
+  },
   "1232460": {
     "config_count": 1,
     "devices": [
@@ -15102,7 +15116,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 21,
+    "config_count": 20,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -15142,8 +15156,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -17047,16 +17060,22 @@
     "name": "Europa Universalis IV"
   },
   "2369390": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
-      "Far_Cry"
+      "Far_Cry",
+      "FarCry"
     ],
     "name": "Far Cry\u00ae 6"
   },
@@ -22199,7 +22218,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -22239,7 +22258,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -25113,7 +25133,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2178,
+    "config_count": 2179,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -28487,7 +28507,7 @@
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
   },
   "3493540": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G57_MC2",
@@ -31060,20 +31080,6 @@
       "Tekken_7"
     ],
     "name": "TEKKEN 7"
-  },
-  "3906660": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred 2 Remaster"
   },
   "3909960": {
     "config_count": 1,
@@ -35561,7 +35567,7 @@
     "name": "Trails in the Sky 2nd Chapter Demo"
   },
   "50130": {
-    "config_count": 51,
+    "config_count": 52,
     "devices": [
       {
         "d": "MT6781",
@@ -36012,6 +36018,14 @@
       "dacapo"
     ],
     "name": "Da Capo"
+  },
+  "5201760": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "tra"
+    ],
+    "name": "ARC Raiders - Frozen Trail Collector Set"
   },
   "521890": {
     "config_count": 5,
@@ -36646,7 +36660,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 21,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -36692,11 +36706,6 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -36705,8 +36714,7 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry",
-      "FarCry"
+      "far_cry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -41884,7 +41892,7 @@
     "name": "Volcanoids"
   },
   "952060": {
-    "config_count": 93,
+    "config_count": 94,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -42041,7 +42049,8 @@
       "Resident_Evil_3",
       "Resident_Evil_3_____________________________________________",
       "_Resident_Evil_3_",
-      "Resident_Evil_3__DX11_"
+      "Resident_Evil_3__DX11_",
+      "re3"
     ],
     "name": "Resident Evil 3"
   },
