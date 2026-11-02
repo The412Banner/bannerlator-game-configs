@@ -1966,7 +1966,7 @@
     "name": "Hades II"
   },
   "1145360": {
-    "config_count": 24,
+    "config_count": 25,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -4687,7 +4687,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 66,
+    "config_count": 67,
     "devices": [
       {
         "d": "G57_MC2",
@@ -11301,7 +11301,7 @@
     "name": "Backpack Hero"
   },
   "1971650": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
@@ -24073,7 +24073,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 53,
+    "config_count": 54,
     "devices": [
       {
         "d": "G78",
@@ -25107,7 +25107,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2165,
+    "config_count": 2167,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -28344,7 +28344,7 @@
     "name": "Stellar Blade\u2122"
   },
   "349040": {
-    "config_count": 84,
+    "config_count": 86,
     "devices": [
       {
         "d": "G615_MC2",
@@ -28432,11 +28432,6 @@
         "s": "Mali-G720 MC7"
       },
       {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      },
-      {
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
@@ -28465,6 +28460,11 @@
         "d": "256",
         "m": "8",
         "s": "PowerVR B-Series BXM-8-256"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
@@ -32641,7 +32641,7 @@
     "name": "Shadow Tactics: Blades of the Shogun"
   },
   "418370": {
-    "config_count": 44,
+    "config_count": 45,
     "devices": [
       {
         "d": "SM7435",
@@ -32742,6 +32742,7 @@
     "folders": [
       "Resident_Evil_7_Biohazard",
       "resident_evil_7_",
+      "RESIDENT_EVIL_7_biohazard",
       "re7"
     ],
     "name": "Resident Evil 7 Biohazard"
@@ -41503,7 +41504,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G615_MC6",
