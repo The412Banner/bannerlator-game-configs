@@ -9143,7 +9143,7 @@
     "name": "Kusan: City of Wolves Demo"
   },
   "1721470": {
-    "config_count": 23,
+    "config_count": 24,
     "devices": [
       {
         "d": "motorola_edge_60",
@@ -14603,7 +14603,7 @@
     "name": "Far Cry 3"
   },
   "220440": {
-    "config_count": 40,
+    "config_count": 39,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -14730,8 +14730,7 @@
       "DmC_Devil_May_Cry",
       "DmC_Devil_May_Cry___________________________________________",
       "DmC__Devil_May_Cry",
-      "DMC-DevilMayCry",
-      "DMC-DevilMayCry_2013"
+      "DMC-DevilMayCry"
     ],
     "name": "DmC: Devil May Cry"
   },
@@ -15610,6 +15609,20 @@
       "Just_Cause__3"
     ],
     "name": "Just Cause\u2122 3"
+  },
+  "2258940": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "LX2",
+        "s": "Adreno (TM) 610"
+      }
+    ],
+    "folders": [
+      "Mage_Kanades_Futanari_Dungeon_Quest"
+    ],
+    "name": "Mage Kanade's Futanari Dungeon Quest"
   },
   "22610": {
     "config_count": 1,
@@ -25093,7 +25106,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2167,
+    "config_count": 2170,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -38537,7 +38550,7 @@
     "name": "Heroes Of Hammerwatch"
   },
   "678950": {
-    "config_count": 60,
+    "config_count": 61,
     "devices": [
       {
         "d": "Adreno__TM__810",
@@ -43380,6 +43393,20 @@
     ],
     "name": "Dlss 5 Swapper"
   },
+  "name:dmc-devilmaycry-2013": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2487",
+        "s": "Adreno (TM) 730"
+      }
+    ],
+    "folders": [
+      "DMC-DevilMayCry_2013"
+    ],
+    "name": "Dmc Devilmaycry 2013"
+  },
   "name:domesticlover": {
     "config_count": 1,
     "devices": [
@@ -45294,7 +45321,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3271,
+    "config_count": 3272,
     "devices": [
       {
         "d": "G52_MC2",
