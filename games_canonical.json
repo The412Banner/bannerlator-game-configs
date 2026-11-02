@@ -8880,7 +8880,7 @@
     "name": "Ultra Age"
   },
   "1687950": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -14603,7 +14603,7 @@
     "name": "Far Cry 3"
   },
   "220440": {
-    "config_count": 39,
+    "config_count": 40,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -14730,7 +14730,8 @@
       "DmC_Devil_May_Cry",
       "DmC_Devil_May_Cry___________________________________________",
       "DmC__Devil_May_Cry",
-      "DMC-DevilMayCry"
+      "DMC-DevilMayCry",
+      "DMC-DevilMayCry_2013"
     ],
     "name": "DmC: Devil May Cry"
   },
@@ -16932,6 +16933,14 @@
     ],
     "name": "Black Myth: Wukong"
   },
+  "2361770": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "SHINOBI__Art_of_Vengeance"
+    ],
+    "name": "SHINOBI: Art of Vengeance"
+  },
   "2362420": {
     "config_count": 1,
     "devices": [
@@ -17034,22 +17043,16 @@
     "name": "Europa Universalis IV"
   },
   "2369390": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
-      "Far_Cry",
-      "FarCry"
+      "Far_Cry"
     ],
     "name": "Far Cry\u00ae 6"
   },
@@ -25106,7 +25109,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2170,
+    "config_count": 2174,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -30753,7 +30756,7 @@
     "name": "Ori and the Blind Forest: Definitive Edition"
   },
   "3875050": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -30784,6 +30787,11 @@
         "d": "PowerVR_Rogue_GE8320",
         "m": "CPH2015",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "Adreno__TM__616",
+        "m": "vivo_1918",
+        "s": "Adreno (TM) 616"
       },
       {
         "d": "G57_MC2",
@@ -33739,13 +33747,20 @@
     "name": "This Is the Police"
   },
   "4439810": {
-    "config_count": 3,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "Forza_Horizon_2_____________________________________________",
-      "Forza_Horizon_2"
+      "Forza_Horizon_2_____________________________________________"
     ],
     "name": "Forza Horizon 6 2024 Koenigsegg Gemera"
+  },
+  "4439830": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Forza_Horizon_2"
+    ],
+    "name": "Forza Horizon 6 2008 Honda Civic Type R (FD2)"
   },
   "444200": {
     "config_count": 1,
@@ -36629,7 +36644,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "G720_MC7",
@@ -36675,6 +36690,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -36683,7 +36703,8 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry"
+      "far_cry",
+      "FarCry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -43392,20 +43413,6 @@
       "DLSS_5_Swapper"
     ],
     "name": "Dlss 5 Swapper"
-  },
-  "name:dmc-devilmaycry-2013": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2487",
-        "s": "Adreno (TM) 730"
-      }
-    ],
-    "folders": [
-      "DMC-DevilMayCry_2013"
-    ],
-    "name": "Dmc Devilmaycry 2013"
   },
   "name:domesticlover": {
     "config_count": 1,
