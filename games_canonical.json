@@ -14272,6 +14272,14 @@
     ],
     "name": "Shave & Stuff"
   },
+  "219780": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Divinity_2_Developer_s_Cut"
+    ],
+    "name": "Divinity II: Developer's Cut"
+  },
   "21980": {
     "config_count": 1,
     "devices": [],
@@ -14400,7 +14408,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 143,
+    "config_count": 144,
     "devices": [
       {
         "d": "G52_MC2",
@@ -17027,16 +17035,22 @@
     "name": "Europa Universalis IV"
   },
   "2369390": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
-      "Far_Cry"
+      "Far_Cry",
+      "FarCry"
     ],
     "name": "Far Cry\u00ae 6"
   },
@@ -25093,7 +25107,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2164,
+    "config_count": 2165,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -28462,7 +28476,7 @@
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
   },
   "3493540": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G57_MC2",
@@ -35968,14 +35982,6 @@
     ],
     "name": "Da Capo"
   },
-  "5201760": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "tra"
-    ],
-    "name": "ARC Raiders - Frozen Trail Collector Set"
-  },
   "521890": {
     "config_count": 5,
     "devices": [
@@ -36609,7 +36615,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 21,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -36655,11 +36661,6 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -36668,8 +36669,7 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry",
-      "FarCry"
+      "far_cry"
     ],
     "name": "Far Cry\u00ae 5"
   },
