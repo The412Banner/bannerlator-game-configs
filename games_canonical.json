@@ -28801,6 +28801,14 @@
     ],
     "name": "Rune Dice"
   },
+  "354380": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Assassin_s_Creed_Chronicles_China"
+    ],
+    "name": "Assassin\u2019s Creed\u00ae Chronicles: China"
+  },
   "355050": {
     "config_count": 2,
     "devices": [
@@ -29896,7 +29904,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 42,
+    "config_count": 43,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -42676,14 +42684,6 @@
     ],
     "name": "Assasins Creed Iv Black Flag"
   },
-  "name:assassin-s-creed-chronicles-china": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Assassin_s_Creed_Chronicles_China"
-    ],
-    "name": "Assassin S Creed Chronicles China"
-  },
   "name:assassinscreed-dx9": {
     "config_count": 2,
     "devices": [],
@@ -45274,7 +45274,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3270,
+    "config_count": 3271,
     "devices": [
       {
         "d": "G52_MC2",
@@ -46292,14 +46292,14 @@
         "s": "ANGLE ((Samsung Xclipse 530) on Vulkan 1.3.279)"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "2607DPC18G",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
