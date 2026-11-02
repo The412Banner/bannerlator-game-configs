@@ -2037,14 +2037,6 @@
     ],
     "name": "DOOM 64"
   },
-  "1150230": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "nostalgia_5_0"
-    ],
-    "name": "VR Nostalgia 5"
-  },
   "1151380": {
     "config_count": 1,
     "devices": [
@@ -4673,7 +4665,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 66,
+    "config_count": 65,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4808,8 +4800,7 @@
       "Need_for_Speed_Most_Wanted_2005",
       "Need_for_Speed__Most_Wanted_2005",
       "Need_for_Speed__Most_wanted__2012_",
-      "need_for_speed_most_wa",
-      "need_for_speed_most_wanted_2005"
+      "need_for_speed_most_wa"
     ],
     "name": "Need for Speed\u2122 Most Wanted"
   },
@@ -10316,14 +10307,6 @@
       "STALZONE"
     ],
     "name": "STALZONE"
-  },
-  "1820140": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "SlavicPunk_-_Oldtimer"
-    ],
-    "name": "SlavicPunk: Oldtimer"
   },
   "1840490": {
     "config_count": 1,
@@ -21272,6 +21255,14 @@
     ],
     "name": "9 Kings"
   },
+  "2787680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Candy Rangers"
+  },
   "2796520": {
     "config_count": 1,
     "devices": [
@@ -23622,14 +23613,6 @@
       "Dungeon_Rampage"
     ],
     "name": "Dungeon Rampage Remastered"
-  },
-  "3054410": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Bushside Rangers"
   },
   "305620": {
     "config_count": 4,
@@ -41661,14 +41644,6 @@
     ],
     "name": "Far Cry\u00ae New Dawn"
   },
-  "940190": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Chuckie_Egg_3"
-    ],
-    "name": "Chuckie Egg 2017"
-  },
   "940910": {
     "config_count": 1,
     "devices": [],
@@ -42622,6 +42597,14 @@
     ],
     "name": "Aio Graphics Test 64Bit"
   },
+  "name:aio-graphics-test-v1-6-0-64bit": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "AIO-GRAPHICS-TEST-V1_6_0-64BIT"
+    ],
+    "name": "Aio Graphics Test V1 6 0 64Bit"
+  },
   "name:am2r": {
     "config_count": 1,
     "devices": [
@@ -43011,6 +42994,14 @@
       "CDMWTHEMOCS2"
     ],
     "name": "Cdmwthemocs2"
+  },
+  "name:chuckie-egg-3": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Chuckie_Egg_3"
+    ],
+    "name": "Chuckie Egg 3"
   },
   "name:civilization-ii-multiplayer-gold-edition": {
     "config_count": 1,
@@ -44790,6 +44781,14 @@
     ],
     "name": "Need For Speed Black Edition"
   },
+  "name:need-for-speed-most-wanted-2005": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "need_for_speed_most_wanted_2005"
+    ],
+    "name": "Need For Speed Most Wanted 2005"
+  },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 3,
     "devices": [],
@@ -44973,6 +44972,14 @@
       "NieRAutomataCompat"
     ],
     "name": "Nierautomatacompat"
+  },
+  "name:nostalgia-5-0": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "nostalgia_5_0"
+    ],
+    "name": "Nostalgia 5 0"
   },
   "name:nsm-myst-chs": {
     "config_count": 1,
@@ -47678,6 +47685,14 @@
       "SkyrimSE"
     ],
     "name": "Skyrimse"
+  },
+  "name:slavicpunk-oldtimer": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "SlavicPunk_-_Oldtimer"
+    ],
+    "name": "Slavicpunk Oldtimer"
   },
   "name:sly-cooper-and-the-thievius-raccoonus": {
     "config_count": 1,
