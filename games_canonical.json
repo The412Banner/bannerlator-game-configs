@@ -3117,7 +3117,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 473,
+    "config_count": 474,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3563,6 +3563,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "S928U",
+        "s": "Adreno (TM) 750"
       },
       {
         "d": "Adreno__TM__735",
@@ -4683,7 +4688,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 67,
+    "config_count": 68,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4816,6 +4821,7 @@
       "Need_For_Speed_Most_Wanted_",
       "Need_for_Speed_-_Most_Wanted",
       "Need_for_Speed_Most_Wanted_2005",
+      "Need_for_Speed__Most_Wanted_2005",
       "Need_for_Speed__Most_wanted__2012_",
       "need_for_speed_most_wa",
       "need_for_speed_most_wanted_2005"
@@ -4823,7 +4829,7 @@
     "name": "Need for Speed\u2122 Most Wanted"
   },
   "1262580": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -4858,6 +4864,7 @@
     ],
     "folders": [
       "Need_for_Speed__Payback",
+      "NeedForSpeedPayback",
       "Need_for_Speed_Payback"
     ],
     "name": "Need for Speed\u2122 Payback"
@@ -6746,7 +6753,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 121,
+    "config_count": 122,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -6947,6 +6954,11 @@
         "d": "Adreno__TM__840",
         "m": "S942U",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
@@ -6964,7 +6976,8 @@
       "FIFA_22",
       "FIFA_23",
       "FIFA22",
-      "FIFA_12"
+      "FIFA_12",
+      "fifa_12"
     ],
     "name": "FIFA 22"
   },
@@ -6977,7 +6990,7 @@
     "name": "Pico Park"
   },
   "15100": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -10123,7 +10136,7 @@
     "name": "Harvestella"
   },
   "1817070": {
-    "config_count": 27,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -10203,7 +10216,8 @@
     ],
     "folders": [
       "Marvel_s_Spider-Man_Remastered",
-      "REM"
+      "REM",
+      "Spider-man_Remastered"
     ],
     "name": "Marvel\u2019s Spider-Man Remastered"
   },
@@ -11688,7 +11702,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11697,8 +11711,7 @@
       }
     ],
     "folders": [
-      "WolfNewOrder",
-      "Wolfenstein__2009_"
+      "WolfNewOrder"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -13512,7 +13525,7 @@
     "name": "Cyberpunk 2077: Phantom Liberty"
   },
   "2138710": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -13573,6 +13586,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "S928U",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -16751,7 +16769,7 @@
     "name": "Invincible VS"
   },
   "235460": {
-    "config_count": 35,
+    "config_count": 36,
     "devices": [
       {
         "d": "G57",
@@ -16802,6 +16820,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "S928U",
+        "s": "Adreno (TM) 750"
       },
       {
         "d": "Adreno__TM__750",
@@ -19158,6 +19181,40 @@
     ],
     "name": "Denshattack"
   },
+  "2525380": {
+    "config_count": 16,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
+      }
+    ],
+    "folders": [
+      "TombRaider"
+    ],
+    "name": "Tomb Raider IV-VI Remastered"
+  },
   "2527160": {
     "config_count": 3,
     "devices": [],
@@ -20096,7 +20153,7 @@
     "name": "Subnautica"
   },
   "2651280": {
-    "config_count": 28,
+    "config_count": 27,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -20152,19 +20209,13 @@
         "d": "Adreno__TM__730",
         "m": "motorola_edge_30_ultra",
         "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
       "Activision_Spider-Man_3",
       "Marvel_s_Spider-Man_2",
       "Spider-Man_3",
-      "Spider-Man",
-      "Spider-man_Remastered"
+      "Spider-Man"
     ],
     "name": "Marvel's Spider-Man 2"
   },
@@ -20910,7 +20961,7 @@
     "name": "SBcatfight game"
   },
   "272510": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__725",
@@ -20941,12 +20992,18 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "24115RA8EG",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
       "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_Revolution",
       "NARUTO_STORM_REVOLUTION",
-      "NARUTO_REVOLUTION"
+      "NARUTO_REVOLUTION",
+      "NARUTO_SHIPPUDEN_-_Ultimate_Ninja_STORM_Revolution"
     ],
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution"
   },
@@ -21673,7 +21730,7 @@
     "name": "Nunholy"
   },
   "2856190": {
-    "config_count": 131,
+    "config_count": 132,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -21841,11 +21898,6 @@
         "s": "Mali-G925-Immortalis MC11"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
@@ -21854,6 +21906,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -22574,7 +22631,7 @@
     "name": "Terrible Lizards"
   },
   "292030": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -22639,6 +22696,7 @@
       "The_Witcher_3_-_Wild_Hunt",
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
+      "The_Witcher_3_-_Wild_Hunt___Remastered",
       "Witcher_1",
       "_Witcher",
       "witcher3"
@@ -25094,7 +25152,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2182,
+    "config_count": 2183,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -28185,6 +28243,14 @@
     ],
     "name": "RealFlight Evolution \u2013 E-flite UMX Cirrus SR22T"
   },
+  "34830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper: Ghost Warrior"
+  },
   "3483510": {
     "config_count": 3,
     "devices": [
@@ -29665,14 +29731,6 @@
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
-  },
   "3681010": {
     "config_count": 2,
     "devices": [
@@ -31076,7 +31134,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 217,
+    "config_count": 218,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -31402,6 +31460,11 @@
         "d": "Immortalis_MC11",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC11"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "S928U",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -32614,7 +32677,7 @@
     ],
     "name": "My Winter Car"
   },
-  "4165890": {
+  "4165910": {
     "config_count": 5,
     "devices": [
       {
@@ -32626,7 +32689,7 @@
     "folders": [
       "Steam"
     ],
-    "name": "Steam Frame"
+    "name": "Steam Machine"
   },
   "418030": {
     "config_count": 1,
@@ -34418,6 +34481,20 @@
       "Papa_s_Mocharia_Deluxe"
     ],
     "name": "Papa's Mocharia Deluxe"
+  },
+  "4659620": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Immortalis_MC12",
+        "m": "G720",
+        "s": "Mali-G720-Immortalis MC12"
+      }
+    ],
+    "folders": [
+      "Touhou_Koumakyou_-_New_Classic_-_the_Embodiment_of_Scarlet_Devil"
+    ],
+    "name": "Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil"
   },
   "466300": {
     "config_count": 2,
@@ -36900,6 +36977,14 @@
     ],
     "name": "Alone With You"
   },
+  "565170": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Blade_Strangers"
+    ],
+    "name": "Blade Strangers"
+  },
   "567640": {
     "config_count": 1,
     "devices": [],
@@ -37762,7 +37847,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -38488,7 +38573,7 @@
     "name": "Fight'N Rage"
   },
   "675010": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "G720_MC7",
@@ -38499,6 +38584,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g85_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "S928U",
+        "s": "Adreno (TM) 750"
       },
       {
         "d": "Adreno__TM__735",
@@ -39381,7 +39471,7 @@
     "name": "Five Nights at Freddy's: Security Breach"
   },
   "750920": {
-    "config_count": 37,
+    "config_count": 21,
     "devices": [
       {
         "d": "SM8850",
@@ -39427,26 +39517,6 @@
         "d": "Adreno__TM__650",
         "m": "motorola_edge_20_pro",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
@@ -39454,8 +39524,7 @@
       "Shadow_of_the_Tomb_Raider__Definitive_Edition",
       "Tomb_Raider__Definitive_Edition_____________________________",
       "Shadow_of_the_Tomb_Raider",
-      "Shadow_of_the_Tomb_Raider_-_Definitive_Edition",
-      "TombRaider"
+      "Shadow_of_the_Tomb_Raider_-_Definitive_Edition"
     ],
     "name": "Shadow of the Tomb Raider: Definitive Edition"
   },
@@ -43818,20 +43887,6 @@
     ],
     "name": "Ffxiii"
   },
-  "name:fifa-12": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__710",
-        "m": "NX1",
-        "s": "Adreno (TM) 710"
-      }
-    ],
-    "folders": [
-      "fifa_12"
-    ],
-    "name": "Fifa 12"
-  },
   "name:fifa14": {
     "config_count": 1,
     "devices": [],
@@ -44815,20 +44870,6 @@
     ],
     "name": "Naruto Shippuden Ultimate Ninja Storm 3 Europe En Fr De Es It Ru"
   },
-  "name:naruto-shippuden-ultimate-ninja-storm-revolution": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__810",
-        "m": "24115RA8EG",
-        "s": "Adreno (TM) 810"
-      }
-    ],
-    "folders": [
-      "NARUTO_SHIPPUDEN_-_Ultimate_Ninja_STORM_Revolution"
-    ],
-    "name": "Naruto Shippuden Ultimate Ninja Storm Revolution"
-  },
   "name:nba2k14": {
     "config_count": 4,
     "devices": [
@@ -44891,14 +44932,6 @@
       "Need_for_Speed_Black_Edition_"
     ],
     "name": "Need For Speed Black Edition"
-  },
-  "name:need-for-speed-most-wanted-2005": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Need_for_Speed__Most_Wanted_2005"
-    ],
-    "name": "Need For Speed Most Wanted 2005"
   },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 3,
@@ -44982,14 +45015,6 @@
       "Need_For_Speed_Underground_2_SIL_Edition"
     ],
     "name": "Need For Speed Underground 2 Sil Edition"
-  },
-  "name:needforspeedpayback": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "NeedForSpeedPayback"
-    ],
-    "name": "Needforspeedpayback"
   },
   "name:nfs-most-wanted": {
     "config_count": 2,
@@ -48126,14 +48151,6 @@
     ],
     "name": "The Sims 2 Launcher"
   },
-  "name:the-witcher-3-wild-hunt-remastered": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "The_Witcher_3_-_Wild_Hunt___Remastered"
-    ],
-    "name": "The Witcher 3 Wild Hunt Remastered"
-  },
   "name:thps12": {
     "config_count": 1,
     "devices": [
@@ -48195,20 +48212,6 @@
       "Tomb_Raider_Defenitive_Edition"
     ],
     "name": "Tomb Raider Defenitive Edition"
-  },
-  "name:touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Immortalis_MC12",
-        "m": "G720",
-        "s": "Mali-G720-Immortalis MC12"
-      }
-    ],
-    "folders": [
-      "Touhou_Koumakyou_-_New_Classic_-_the_Embodiment_of_Scarlet_Devil"
-    ],
-    "name": "Touhou Koumakyou New Classic The Embodiment Of Scarlet Devil"
   },
   "name:tpp-main-win64": {
     "config_count": 2,
