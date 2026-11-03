@@ -11718,7 +11718,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11727,7 +11727,8 @@
       }
     ],
     "folders": [
-      "WolfNewOrder"
+      "WolfNewOrder",
+      "Wolfenstein__2009_"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -12251,7 +12252,7 @@
     "name": "Binary Domain"
   },
   "204030": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "G52_MC2",
@@ -12267,10 +12268,16 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
       }
     ],
     "folders": [
-      "Fable_-_The_Lost_Chapters"
+      "Fable_-_The_Lost_Chapters",
+      "Fable_The_Lost_Chapters"
     ],
     "name": "Fable - The Lost Chapters"
   },
@@ -15725,7 +15732,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 309,
+    "config_count": 310,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -37871,7 +37878,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
