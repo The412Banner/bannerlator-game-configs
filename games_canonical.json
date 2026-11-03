@@ -11719,7 +11719,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11728,7 +11728,8 @@
       }
     ],
     "folders": [
-      "WolfNewOrder"
+      "WolfNewOrder",
+      "Wolfenstein__2009_"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -15747,7 +15748,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 313,
+    "config_count": 315,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -16060,11 +16061,6 @@
         "s": "Mali-G52"
       },
       {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      },
-      {
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
@@ -16093,6 +16089,11 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -17110,22 +17111,16 @@
     "name": "Europa Universalis IV"
   },
   "2369390": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
-      "Far_Cry",
-      "FarCry"
+      "Far_Cry"
     ],
     "name": "Far Cry\u00ae 6"
   },
@@ -22120,7 +22115,7 @@
     "name": "SAW: Genesis"
   },
   "286690": {
-    "config_count": 38,
+    "config_count": 39,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -22211,7 +22206,8 @@
     "folders": [
       "Metro_2033",
       "Metro_2033_Redux",
-      "Metro_2033_Redux____________________________________________"
+      "Metro_2033_Redux____________________________________________",
+      "Metro_Redux"
     ],
     "name": "METRO 2033 Redux"
   },
@@ -25192,7 +25188,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2193,
+    "config_count": 2194,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -36772,7 +36768,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "G720_MC7",
@@ -36818,6 +36814,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -36826,7 +36827,8 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry"
+      "far_cry",
+      "FarCry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -37911,7 +37913,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
