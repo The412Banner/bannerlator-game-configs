@@ -1482,6 +1482,12 @@
     "method": "norm",
     "steam_name": "Carcassonne - Tiles & Tactics"
   },
+  "Cars": {
+    "appid": 4908110,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/4908110/header.jpg",
+    "method": "naive",
+    "steam_name": "Gas N Cars"
+  },
   "Cars_2": {
     "appid": 915190,
     "method": "naive",
@@ -2791,6 +2797,10 @@
     "appid": 3500800,
     "method": "naive",
     "steam_name": "DreadOut Remastered Collection"
+  },
+  "Dreajm_Hacker": {
+    "appid": null,
+    "method": "unresolved"
   },
   "DreamEcho___________________________________________________": {
     "appid": 3226060,
