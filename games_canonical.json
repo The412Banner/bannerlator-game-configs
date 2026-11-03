@@ -175,9 +175,10 @@
     "name": "Outcast - A New Beginning"
   },
   "10150": {
-    "config_count": 1,
+    "config_count": 7,
     "devices": [],
     "folders": [
+      "Prototype",
       "Prototype_"
     ],
     "name": "Prototype"
@@ -2090,7 +2091,7 @@
     "name": "Horizon Zero Dawn\u2122 Complete Edition"
   },
   "115320": {
-    "config_count": 84,
+    "config_count": 79,
     "devices": [
       {
         "d": "Adreno__TM__640",
@@ -21769,7 +21770,7 @@
     "name": "Nunholy"
   },
   "2856190": {
-    "config_count": 132,
+    "config_count": 133,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -21942,14 +21943,14 @@
         "s": "Mali-G57"
       },
       {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      },
-      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
