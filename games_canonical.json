@@ -9620,6 +9620,14 @@
     ],
     "name": "The Coma 2B: Catacomb"
   },
+  "1782120": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "ZERO_Sievert"
+    ],
+    "name": "ZERO Sievert"
+  },
   "1782210": {
     "config_count": 1,
     "devices": [
@@ -23416,7 +23424,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -23437,10 +23445,16 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -41690,7 +41704,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 9,
+    "config_count": 7,
     "devices": [
       {
         "d": "G615_MC6",
@@ -41706,16 +41720,10 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -43425,6 +43433,14 @@
       "DARK_SOULS___Prepare_To_Die_Edition"
     ],
     "name": "Dark Souls Prepare To Die Edition"
+  },
+  "name:darwinparadox-win64-shipping": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "DarwinParadox-Win64-Shipping"
+    ],
+    "name": "Darwinparadox Win64 Shipping"
   },
   "name:dawn-of-war-soulstorm": {
     "config_count": 1,
@@ -48554,14 +48570,6 @@
       "ysx_pn"
     ],
     "name": "Ysx Pn"
-  },
-  "name:zero-sievert": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "ZERO_Sievert"
-    ],
-    "name": "Zero Sievert"
   },
   "name:zerogameth-com-dragon-ball-sparking-zero": {
     "config_count": 1,
