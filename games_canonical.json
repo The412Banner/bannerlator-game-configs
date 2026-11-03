@@ -334,7 +334,7 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 2 (2009)"
   },
   "1020790": {
-    "config_count": 65,
+    "config_count": 64,
     "devices": [
       {
         "d": "SM8850",
@@ -3984,6 +3984,20 @@
       "Beach_Buggy_Racing_2_-_Island_Adventure"
     ],
     "name": "Beach Buggy Racing 2 - Island Adventure"
+  },
+  "12320": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred Gold"
   },
   "1232460": {
     "config_count": 1,
@@ -9606,14 +9620,6 @@
     ],
     "name": "The Coma 2B: Catacomb"
   },
-  "1782120": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "ZERO_Sievert"
-    ],
-    "name": "ZERO Sievert"
-  },
   "1782210": {
     "config_count": 1,
     "devices": [
@@ -11727,7 +11733,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11736,8 +11742,7 @@
       }
     ],
     "folders": [
-      "WolfNewOrder",
-      "Wolfenstein__2009_"
+      "WolfNewOrder"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -15174,7 +15179,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 22,
+    "config_count": 21,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -15214,8 +15219,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -15761,7 +15765,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 315,
+    "config_count": 316,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -19458,7 +19462,7 @@
     "name": "Lonely Mountains: Snow Riders"
   },
   "254700": {
-    "config_count": 38,
+    "config_count": 39,
     "devices": [
       {
         "d": "SM7435",
@@ -22282,7 +22286,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -22322,7 +22326,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -23411,7 +23416,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 7,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -23432,16 +23437,10 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -25201,7 +25200,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2195,
+    "config_count": 2196,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -30785,7 +30784,7 @@
     "name": "Rivals of Aether"
   },
   "3841510": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -30794,7 +30793,8 @@
       }
     ],
     "folders": [
-      "Dynasty_Warriors_6"
+      "Dynasty_Warriors_6",
+      "re3"
     ],
     "name": "DYNASTY WARRIORS 3: Complete Edition Remastered"
   },
@@ -31166,20 +31166,6 @@
       "Tekken_7"
     ],
     "name": "TEKKEN 7"
-  },
-  "3906660": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred 2 Remaster"
   },
   "3909960": {
     "config_count": 1,
@@ -33872,10 +33858,11 @@
     "name": "This Is the Police"
   },
   "4439810": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [],
     "folders": [
-      "Forza_Horizon_2_____________________________________________"
+      "Forza_Horizon_2_____________________________________________",
+      "Forza_Horizon_2"
     ],
     "name": "Forza Horizon 6 2024 Koenigsegg Gemera"
   },
@@ -35157,7 +35144,7 @@
     "name": "Warhammer 40,000: Gladius - Relics of War"
   },
   "489830": {
-    "config_count": 75,
+    "config_count": 76,
     "devices": [
       {
         "d": "G615_MC6",
@@ -35932,14 +35919,6 @@
       "Mimic_Party"
     ],
     "name": "Mimic Party"
-  },
-  "5067200": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Forza_Horizon_2"
-    ],
-    "name": "Forza Horizon 6 2024 Mercedes-AMG GT 63 4MATIC+"
   },
   "5067360": {
     "config_count": 10,
@@ -37012,13 +36991,8 @@
     "name": "My Friend Pedro"
   },
   "561610": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
-      {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
-      },
       {
         "d": "G615_MC2",
         "m": "Mali",
@@ -37033,6 +37007,11 @@
         "d": "G610_MC2",
         "m": "Mali",
         "s": "Mali-G610 MC2"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       }
     ],
     "folders": [
@@ -37938,7 +37917,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -41711,7 +41690,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 7,
+    "config_count": 9,
     "devices": [
       {
         "d": "G615_MC6",
@@ -41727,10 +41706,16 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -42041,7 +42026,7 @@
     "name": "Volcanoids"
   },
   "952060": {
-    "config_count": 94,
+    "config_count": 93,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -42198,8 +42183,7 @@
       "Resident_Evil_3",
       "Resident_Evil_3_____________________________________________",
       "_Resident_Evil_3_",
-      "Resident_Evil_3__DX11_",
-      "re3"
+      "Resident_Evil_3__DX11_"
     ],
     "name": "Resident Evil 3"
   },
@@ -48570,6 +48554,14 @@
       "ysx_pn"
     ],
     "name": "Ysx Pn"
+  },
+  "name:zero-sievert": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "ZERO_Sievert"
+    ],
+    "name": "Zero Sievert"
   },
   "name:zerogameth-com-dragon-ball-sparking-zero": {
     "config_count": 1,
