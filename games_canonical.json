@@ -11470,7 +11470,7 @@
     "name": "Digimon Story Time Stranger"
   },
   "19900": {
-    "config_count": 29,
+    "config_count": 30,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -14698,7 +14698,7 @@
     "name": "Far Cry 3"
   },
   "220440": {
-    "config_count": 40,
+    "config_count": 39,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -14825,8 +14825,7 @@
       "DmC_Devil_May_Cry",
       "DmC_Devil_May_Cry___________________________________________",
       "DmC__Devil_May_Cry",
-      "DMC-DevilMayCry",
-      "DMC-DevilMayCry_2013"
+      "DMC-DevilMayCry"
     ],
     "name": "DmC: Devil May Cry"
   },
@@ -25079,7 +25078,7 @@
     "name": "Cursemark"
   },
   "3219630": {
-    "config_count": 16,
+    "config_count": 12,
     "devices": [
       {
         "d": "256",
@@ -25253,7 +25252,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2199,
+    "config_count": 2200,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25544,11 +25543,6 @@
         "d": "SM6450",
         "m": "NX1",
         "s": "SM6450"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "23013PC75G",
-        "s": "Adreno (TM) 730"
       },
       {
         "d": "Adreno__TM__619",
@@ -26544,6 +26538,11 @@
         "d": "Adreno__TM__710",
         "m": "NX1",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "23013PC75G",
+        "s": "Adreno (TM) 730"
       },
       {
         "d": "Adreno__TM__830",
@@ -29270,6 +29269,25 @@
     ],
     "name": "Ash & Adam's Existential Treads"
   },
+  "3581230": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "256",
+        "m": "8",
+        "s": "PowerVR B-Series BXM-8-256"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "Game"
+    ],
+    "name": "Cozy Game Restoration"
+  },
   "3587610": {
     "config_count": 2,
     "devices": [],
@@ -29294,6 +29312,14 @@
       "DIVE_or_DIE_-_Children_of_Rain"
     ],
     "name": "Dive Or Die - Children Of Rain"
+  },
+  "3591180": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Harvest_Moon_Echoes_of_Teradea"
+    ],
+    "name": "Harvest Moon Echoes Of Teradea"
   },
   "3595230": {
     "config_count": 1,
@@ -43668,6 +43694,20 @@
     ],
     "name": "Dlss 5 Swapper"
   },
+  "name:dmc-devilmaycry-2013": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2487",
+        "s": "Adreno (TM) 730"
+      }
+    ],
+    "folders": [
+      "DMC-DevilMayCry_2013"
+    ],
+    "name": "Dmc Devilmaycry 2013"
+  },
   "name:dohnadohna-eng": {
     "config_count": 1,
     "devices": [
@@ -45610,7 +45650,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3288,
+    "config_count": 3289,
     "devices": [
       {
         "d": "G52_MC2",
