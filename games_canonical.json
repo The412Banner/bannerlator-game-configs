@@ -1047,14 +1047,6 @@
     ],
     "name": "Aster"
   },
-  "107410": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Arma_3"
-    ],
-    "name": "Arma 3"
-  },
   "1080020": {
     "config_count": 1,
     "devices": [],
@@ -32296,6 +32288,20 @@
     ],
     "name": "KartKraft\u2122"
   },
+  "4065190": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "The_expansion_pack_2_of__Esports_Godfather_"
+    ],
+    "name": "The Expansion Pack 2 Of Esports Godfather"
+  },
   "406720": {
     "config_count": 1,
     "devices": [
@@ -45604,7 +45610,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3287,
+    "config_count": 3288,
     "devices": [
       {
         "d": "G52_MC2",
