@@ -15204,7 +15204,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -15244,7 +15244,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev"
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -22331,7 +22332,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -22371,8 +22372,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -24734,7 +24734,7 @@
     "name": "Football Life Simulator"
   },
   "3159330": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__810",
@@ -24750,6 +24750,7 @@
     "folders": [
       "Assassin_S_creed_3_",
       "Assassin_s_Creed_________",
+      "Assassin_s_Creed____________________________________________",
       "Assassin_s_Creed"
     ],
     "name": "Assassin\u2019s Creed Shadows"
@@ -47251,7 +47252,7 @@
     "name": "PES 2017 Online Warriors Crack"
   },
   "name:pes-2018": {
-    "config_count": 41,
+    "config_count": 43,
     "devices": [
       {
         "d": "G57",
@@ -47342,6 +47343,11 @@
         "d": "Adreno__TM__840",
         "m": "S948B",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Immortalis_MC11",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC11"
       }
     ],
     "folders": [
