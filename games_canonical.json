@@ -41483,7 +41483,7 @@
     "name": "Metro Exodus - Sam S Story"
   },
   "892970": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "G615_MC2",
@@ -41504,6 +41504,11 @@
         "d": "Adreno__TM__730",
         "m": "TB320FC",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
