@@ -209,7 +209,7 @@
     "name": "The Long Drive"
   },
   "10180": {
-    "config_count": 51,
+    "config_count": 52,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -2688,7 +2688,7 @@
     "name": "I.G.I. Origins"
   },
   "1187": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [
       {
         "d": "G77_MC9",
@@ -2697,7 +2697,8 @@
       }
     ],
     "folders": [
-      "ACC"
+      "ACC",
+      "Assassin_s_Creed_Rogue"
     ],
     "name": "Acc"
   },
@@ -3123,7 +3124,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 474,
+    "config_count": 476,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3476,11 +3477,6 @@
         "s": "Adreno (TM) 650"
       },
       {
-        "d": "G720_MC8",
-        "m": "Mali",
-        "s": "Mali-G720 MC8"
-      },
-      {
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
@@ -3574,6 +3570,11 @@
         "d": "Adreno__TM__750",
         "m": "S928U",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
       },
       {
         "d": "Adreno__TM__735",
@@ -6786,7 +6787,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 122,
+    "config_count": 119,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -13917,7 +13918,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 126,
+    "config_count": 124,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -14477,7 +14478,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 127,
+    "config_count": 145,
     "devices": [
       {
         "d": "G52_MC2",
@@ -14653,6 +14654,11 @@
         "d": "Adreno__TM__750",
         "m": "23127PN0CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       },
       {
         "d": "Adreno__TM__740",
@@ -15181,7 +15187,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -15221,7 +15227,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev"
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -16339,6 +16346,14 @@
       "Universe_Sandbox"
     ],
     "name": "Universe Sandbox"
+  },
+  "2303000": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GUN"
+    ],
+    "name": "MOBILE SUIT GUNDAM BATTLE OPERATION 3"
   },
   "230410": {
     "config_count": 1,
@@ -22294,7 +22309,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -22334,8 +22349,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -23556,7 +23570,7 @@
     "name": "Trove"
   },
   "304240": {
-    "config_count": 7,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -23580,7 +23594,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil"
+      "Resident_Evil",
+      "RESIDENT_EVIL_5"
     ],
     "name": "Resident Evil"
   },
@@ -24327,10 +24342,9 @@
     "name": "METAL GEAR SOLID V: GROUND ZEROES"
   },
   "311560": {
-    "config_count": 3,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "Assassin_s_Creed_Rogue",
       "Assassins_Creed_Rogue"
     ],
     "name": "Assassin\u2019s Creed\u00ae Rogue"
@@ -27355,7 +27369,7 @@
     "name": "Assassin's Creed 2"
   },
   "332800": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__618",
@@ -27364,6 +27378,7 @@
       }
     ],
     "folders": [
+      "FiveNightsatFreddys_3",
       "Five_Nights_At_Freddys_2"
     ],
     "name": "Five Nights at Freddy's 2"
@@ -28311,14 +28326,6 @@
     ],
     "name": "RealFlight Evolution \u2013 E-flite UMX Cirrus SR22T"
   },
-  "34830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper: Ghost Warrior"
-  },
   "3483510": {
     "config_count": 3,
     "devices": [
@@ -28922,20 +28929,6 @@
       "Aces_of_the_Luftwaffe"
     ],
     "name": "Aces of the Luftwaffe"
-  },
-  "354140": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__618",
-        "m": "M2007J20CG",
-        "s": "Adreno (TM) 618"
-      }
-    ],
-    "folders": [
-      "FiveNightsatFreddys_3"
-    ],
-    "name": "Five Nights at Freddy's 3"
   },
   "354160": {
     "config_count": 1,
@@ -30030,14 +30023,6 @@
       "Divinity_Original_Sin_Enhanced_Edition"
     ],
     "name": "Divinity: Original Sin - Enhanced Edition"
-  },
-  "3734220": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GUN"
-    ],
-    "name": "Guns of Eschaton"
   },
   "3734630": {
     "config_count": 1,
@@ -34419,30 +34404,6 @@
       "Halo_Wars__Definitive_Edition"
     ],
     "name": "Halo Wars: Definitive Edition"
-  },
-  "46": {
-    "config_count": 18,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      },
-      {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "S928B",
-        "s": "Adreno (TM) 750"
-      }
-    ],
-    "folders": [
-      "Far_Cry_3"
-    ],
-    "name": "Far Cry 3"
   },
   "4600470": {
     "config_count": 1,
@@ -44013,6 +43974,20 @@
     ],
     "name": "Ffxiii"
   },
+  "name:fifa-23": {
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "FIFA_23"
+    ],
+    "name": "Fifa 23"
+  },
   "name:fifa14": {
     "config_count": 1,
     "devices": [],
@@ -47985,6 +47960,14 @@
       "Snapshot__Lewd_Shores"
     ],
     "name": "Snapshot Lewd Shores"
+  },
+  "name:sniper-ghost-warrior-1": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 1"
   },
   "name:sniper-x86": {
     "config_count": 1,
