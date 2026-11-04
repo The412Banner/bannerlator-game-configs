@@ -10521,7 +10521,7 @@
     "name": "Baladins"
   },
   "1868140": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -10537,6 +10537,11 @@
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "TB322FC",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -11752,7 +11757,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11761,7 +11766,8 @@
       }
     ],
     "folders": [
-      "WolfNewOrder"
+      "WolfNewOrder",
+      "Wolfenstein__2009_"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -15784,7 +15790,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 316,
+    "config_count": 317,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -25079,7 +25085,7 @@
     "name": "Cursemark"
   },
   "3219630": {
-    "config_count": 12,
+    "config_count": 16,
     "devices": [
       {
         "d": "256",
@@ -25253,7 +25259,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2205,
+    "config_count": 2206,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -26544,6 +26550,11 @@
         "d": "Adreno__TM__730",
         "m": "23013PC75G",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "CPH2471",
+        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "Adreno__TM__830",
@@ -29267,25 +29278,6 @@
     ],
     "name": "Ash & Adam's Existential Treads"
   },
-  "3581230": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "256",
-        "m": "8",
-        "s": "PowerVR B-Series BXM-8-256"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      }
-    ],
-    "folders": [
-      "Game"
-    ],
-    "name": "Cozy Game Restoration"
-  },
   "3587610": {
     "config_count": 2,
     "devices": [],
@@ -30257,6 +30249,14 @@
       "bhd"
     ],
     "name": "The Blood of Dawnwalker"
+  },
+  "3751950": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Assassin_s_Creed____________________________________________"
+    ],
+    "name": "Assassin's Creed Black Flag Resynced"
   },
   "375820": {
     "config_count": 3,
@@ -38024,7 +38024,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -45650,7 +45650,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3289,
+    "config_count": 3290,
     "devices": [
       {
         "d": "G52_MC2",
@@ -48296,6 +48296,14 @@
       "Taffy_Tales_Redux_Season_1"
     ],
     "name": "Taffy Tales Redux Season 1"
+  },
+  "name:tainted-grail-the-fall-of-avalon-p2p": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Tainted_Grail_The_Fall_of_Avalon_P2P"
+    ],
+    "name": "Tainted Grail The Fall Of Avalon P2P"
   },
   "name:takecareofthedog": {
     "config_count": 1,
