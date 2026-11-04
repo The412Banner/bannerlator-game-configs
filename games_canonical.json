@@ -14698,7 +14698,7 @@
     "name": "Far Cry 3"
   },
   "220440": {
-    "config_count": 39,
+    "config_count": 40,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -14825,7 +14825,8 @@
       "DmC_Devil_May_Cry",
       "DmC_Devil_May_Cry___________________________________________",
       "DmC__Devil_May_Cry",
-      "DMC-DevilMayCry"
+      "DMC-DevilMayCry",
+      "DMC-DevilMayCry_2013"
     ],
     "name": "DmC: Devil May Cry"
   },
@@ -25252,7 +25253,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2200,
+    "config_count": 2203,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -27031,14 +27032,6 @@
       "Heretic___Hexen"
     ],
     "name": "Heretic + Hexen"
-  },
-  "3287490": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GBVSR"
-    ],
-    "name": "GBVSR - Deluxe Character Pass 2"
   },
   "3287520": {
     "config_count": 1,
@@ -29409,6 +29402,14 @@
       "Mafia_III__Definitive_Edition"
     ],
     "name": "Mafia III: Definitive Edition"
+  },
+  "3604390": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GBVSR"
+    ],
+    "name": "GBVSR - Additional Character Set (Galleon)"
   },
   "361420": {
     "config_count": 2,
@@ -42940,6 +42941,14 @@
     ],
     "name": "Aio Graphics Test V1 6 0 64Bit"
   },
+  "name:aio-graphics-test-v2": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "AIO_Graphics_Test_v2"
+    ],
+    "name": "Aio Graphics Test V2"
+  },
   "name:am2r": {
     "config_count": 1,
     "devices": [
@@ -43693,20 +43702,6 @@
       "DLSS_5_Swapper"
     ],
     "name": "Dlss 5 Swapper"
-  },
-  "name:dmc-devilmaycry-2013": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2487",
-        "s": "Adreno (TM) 730"
-      }
-    ],
-    "folders": [
-      "DMC-DevilMayCry_2013"
-    ],
-    "name": "Dmc Devilmaycry 2013"
   },
   "name:dohnadohna-eng": {
     "config_count": 1,
