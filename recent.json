@@ -1,5 +1,12 @@
 [
   {
+    "game": "GOALS",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1793813402,
+    "filename": "GOALS-samsung-SM-A165F-Mali-G57_MC2-1793813402.json"
+  },
+  {
     "game": "AIO_Graphics_Test_v2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1793736954,
     "filename": "Pharaoh__A_New_Era-samsung-SM-X820-Mali-G720-Immortalis_MC12-1793736954.json"
-  },
-  {
-    "game": "Metro_Redux",
-    "manufacturer": "NX3",
-    "device": "Adreno__TM__619",
-    "timestamp": 1793731633,
-    "filename": "Metro_Redux-HONOR-RMO-NX3-Adreno__TM__619-1793731633.json"
   }
 ]
