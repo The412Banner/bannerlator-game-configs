@@ -1586,7 +1586,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1595,8 +1595,7 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid",
-      "Rangers"
+      "BattleForTheGrid"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -3124,7 +3123,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 476,
+    "config_count": 477,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3542,11 +3541,6 @@
         "s": "Adreno (TM) 650"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
@@ -3575,6 +3569,11 @@
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__735",
@@ -17080,7 +17079,7 @@
     "name": "War Thunder"
   },
   "236430": {
-    "config_count": 21,
+    "config_count": 18,
     "devices": [
       {
         "d": "G720_MC7",
@@ -17116,22 +17115,11 @@
         "d": "Adreno__TM__619",
         "m": "22111317PG",
         "s": "Adreno (TM) 619"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
       "DARK_SOULS__II",
-      "DARK_SOULS_II",
-      "DarkSoulsII"
+      "DARK_SOULS_II"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -17164,22 +17152,16 @@
     "name": "Europa Universalis IV"
   },
   "2369390": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
-      "Far_Cry",
-      "FarCry"
+      "Far_Cry"
     ],
     "name": "Far Cry\u00ae 6"
   },
@@ -23793,6 +23775,14 @@
     ],
     "name": "Dungeon Rampage Remastered"
   },
+  "3054410": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Bushside Rangers"
+  },
   "305620": {
     "config_count": 4,
     "devices": [
@@ -25241,7 +25231,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2196,
+    "config_count": 2198,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -27020,14 +27010,6 @@
       "Heretic___Hexen"
     ],
     "name": "Heretic + Hexen"
-  },
-  "3287490": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GBVSR"
-    ],
-    "name": "GBVSR - Deluxe Character Pass 2"
   },
   "3287520": {
     "config_count": 1,
@@ -29372,6 +29354,14 @@
     ],
     "name": "Mafia III: Definitive Edition"
   },
+  "3604390": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GBVSR"
+    ],
+    "name": "GBVSR - Additional Character Set (Galleon)"
+  },
   "361420": {
     "config_count": 2,
     "devices": [
@@ -30086,7 +30076,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 40,
+    "config_count": 43,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -30164,6 +30154,16 @@
         "s": "Adreno (TM) 830"
       },
       {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
+      },
+      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -30175,6 +30175,7 @@
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
       "DARK_SOULS_III",
+      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -33894,11 +33895,10 @@
     "name": "This Is the Police"
   },
   "4439810": {
-    "config_count": 3,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "Forza_Horizon_2_____________________________________________",
-      "Forza_Horizon_2"
+      "Forza_Horizon_2_____________________________________________"
     ],
     "name": "Forza Horizon 6 2024 Koenigsegg Gemera"
   },
@@ -33949,6 +33949,14 @@
       "dirt_3_Colin_McRae"
     ],
     "name": "Dirt 3"
+  },
+  "445220": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Avorion"
+    ],
+    "name": "Avorion"
   },
   "446020": {
     "config_count": 1,
@@ -35956,6 +35964,14 @@
     ],
     "name": "Mimic Party"
   },
+  "5067200": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Forza_Horizon_2"
+    ],
+    "name": "Forza Horizon 6 2024 Mercedes-AMG GT 63 4MATIC+"
+  },
   "5067360": {
     "config_count": 10,
     "devices": [
@@ -36808,7 +36824,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "G720_MC7",
@@ -36854,6 +36870,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -36862,7 +36883,8 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry"
+      "far_cry",
+      "FarCry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -45560,7 +45582,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3280,
+    "config_count": 3284,
     "devices": [
       {
         "d": "G52_MC2",
@@ -46568,11 +46590,6 @@
         "s": "Adreno (TM) 750"
       },
       {
-        "d": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
-        "m": "A556E",
-        "s": "ANGLE ((Samsung Xclipse 530) on Vulkan 1.3.279)"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "2607DPC18G",
         "s": "Adreno (TM) 710"
@@ -46586,6 +46603,11 @@
         "d": "G52",
         "m": "Mali",
         "s": "Mali-G52"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
+        "m": "A556E",
+        "s": "ANGLE ((Samsung Xclipse 530) on Vulkan 1.3.279)"
       },
       {
         "d": "Adreno__TM__740",
