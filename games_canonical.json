@@ -1578,7 +1578,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1587,7 +1587,8 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid"
+      "BattleForTheGrid",
+      "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -3120,7 +3121,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 477,
+    "config_count": 478,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3553,11 +3554,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
         "d": "Adreno__TM__750",
         "m": "S928U",
         "s": "Adreno (TM) 750"
@@ -3571,6 +3567,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__735",
@@ -17798,14 +17799,6 @@
     ],
     "name": "MOUSE: P.I. For Hire"
   },
-  "2417610": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Metal_Gear_Solid"
-    ],
-    "name": "METAL GEAR SOLID \u0394: SNAKE EATER"
-  },
   "241930": {
     "config_count": 10,
     "devices": [
@@ -18905,7 +18898,7 @@
     "name": "FATAL FURY: City of the Wolves"
   },
   "2492670": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "G57_MC2",
@@ -18916,7 +18909,8 @@
     "folders": [
       "METAL_GEAR_SOLID_4__Guns_of_the_Patriots_-_Master_Collection_Version",
       "VERS_O_DEMO_DE_DRAGON_BALL_Z__KAKAROT",
-      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version"
+      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version",
+      "Metal_Gear_Solid"
     ],
     "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version"
   },
@@ -23815,14 +23809,6 @@
     ],
     "name": "Dungeon Rampage Remastered"
   },
-  "3054410": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Bushside Rangers"
-  },
   "305620": {
     "config_count": 4,
     "devices": [
@@ -27701,6 +27687,14 @@
       "Scavland"
     ],
     "name": "Scavland"
+  },
+  "3375780": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "tra"
+    ],
+    "name": "Trails in the Sky 1st Chapter"
   },
   "3378960": {
     "config_count": 1,
@@ -36254,14 +36248,6 @@
     ],
     "name": "Da Capo"
   },
-  "5201760": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "tra"
-    ],
-    "name": "ARC Raiders - Frozen Trail Collector Set"
-  },
   "521890": {
     "config_count": 5,
     "devices": [
@@ -40438,7 +40424,7 @@
     "name": "Monster Sanctuary"
   },
   "814380": {
-    "config_count": 92,
+    "config_count": 93,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -41233,7 +41219,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 142,
+    "config_count": 143,
     "devices": [
       {
         "d": "s5e8855",
@@ -45114,7 +45100,7 @@
     "name": "Nba2K14"
   },
   "name:nba2k14-winlator": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__610",
