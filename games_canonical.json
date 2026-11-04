@@ -4713,7 +4713,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 68,
+    "config_count": 67,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4824,11 +4824,6 @@
         "d": "Adreno__TM__650",
         "m": "22021211RG",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
       }
     ],
     "folders": [
@@ -4847,7 +4842,6 @@
       "Need_for_Speed_-_Most_Wanted",
       "Need_for_Speed_Most_Wanted_2005",
       "Need_for_Speed__Most_Wanted_2005",
-      "Need_for_Speed__Most_wanted__2012_",
       "need_for_speed_most_wa",
       "need_for_speed_most_wanted_2005"
     ],
@@ -5948,6 +5942,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -8620,7 +8619,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 112,
+    "config_count": 111,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -8779,8 +8778,7 @@
       "pes_2012",
       "pes_2013",
       "pes_2013_",
-      "pes__2013",
-      "PES_2019"
+      "pes__2013"
     ],
     "name": "eFootball\u2122"
   },
@@ -15111,7 +15109,7 @@
     "name": "Five Nights at Freddy's: Secret of the Mimic"
   },
   "221540": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -19214,7 +19212,7 @@
     "name": "Gears of War: Reloaded"
   },
   "2523770": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -19230,16 +19228,10 @@
         "d": "Adreno__TM__740",
         "m": "S918B",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "Retroid_Pocket_6",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Lord_of_the_Rings__War_in_the_North",
-      "Lord_of_the_Rings_-_War_in_the_North",
       "The_Lord_of_the_Rings_-_War_in_the_North_-_Legacy_Edition"
     ],
     "name": "The Lord of the Rings: War in the North\u2122 - Legacy Edition"
@@ -19421,14 +19413,6 @@
       "Diablo_II"
     ],
     "name": "Diablo II: Resurrected \u2013 Infernal Edition"
-  },
-  "253840": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Shantae_-_Half-Genie_Hero_Ultimate_Edition"
-    ],
-    "name": "Shantae: Half-Genie Hero"
   },
   "2539050": {
     "config_count": 1,
@@ -20079,7 +20063,7 @@
     "name": "ELDEN RING NIGHTREIGN"
   },
   "2623190": {
-    "config_count": 10,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -20100,17 +20084,11 @@
         "d": "Adreno__TM__830",
         "m": "NX799J",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "TB321FU",
-        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "TES4__Oblivion",
-      "The_Elder_Scrolls_IV_-_Oblivion_____________________________",
-      "OblivionRemastered"
+      "The_Elder_Scrolls_IV_-_Oblivion_____________________________"
     ],
     "name": "The Elder Scrolls IV: Oblivion Remastered"
   },
@@ -29519,7 +29497,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -29550,7 +29528,8 @@
     "folders": [
       "GRID",
       "GRID__2019_",
-      "Off_The_Grid"
+      "Off_The_Grid",
+      "GRID_2"
     ],
     "name": "Off The Grid"
   },
@@ -41164,7 +41143,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 142,
+    "config_count": 141,
     "devices": [
       {
         "d": "s5e8855",
@@ -41392,11 +41371,6 @@
         "s": "Adreno (TM) 840"
       },
       {
-        "d": "Adreno__TM__840",
-        "m": "S948U1",
-        "s": "Adreno (TM) 840"
-      },
-      {
         "d": "Adreno__TM__750",
         "m": "NX769J",
         "s": "Adreno (TM) 750"
@@ -41410,7 +41384,6 @@
     "folders": [
       "Resident_Evil_2",
       "Resident_Evil_2_____________________________________________",
-      "Resident_Evil_2__2019_",
       "Resident_Evil_2__DX11_",
       "re2",
       "resident_evil_2"
@@ -44788,6 +44761,20 @@
     ],
     "name": "Loadingbay"
   },
+  "name:lord-of-the-rings-war-in-the-north": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "Retroid_Pocket_6",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "Lord_of_the_Rings_-_War_in_the_North"
+    ],
+    "name": "Lord Of The Rings War In The North"
+  },
   "name:lunaabyss-wingdk-shipping": {
     "config_count": 1,
     "devices": [
@@ -45096,6 +45083,20 @@
       "Need_for_Speed_Black_Edition_"
     ],
     "name": "Need For Speed Black Edition"
+  },
+  "name:need-for-speed-most-wanted-2012": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
+      }
+    ],
+    "folders": [
+      "Need_for_Speed__Most_wanted__2012_"
+    ],
+    "name": "Need For Speed Most Wanted 2012"
   },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 3,
@@ -45411,6 +45412,20 @@
       "Oblivion_Lost_Remake"
     ],
     "name": "Oblivion Lost Remake"
+  },
+  "name:oblivionremastered": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "TB321FU",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "OblivionRemastered"
+    ],
+    "name": "Oblivionremastered"
   },
   "name:obse-loader": {
     "config_count": 1,
@@ -47296,10 +47311,11 @@
     "name": "PES 2018"
   },
   "name:pes-2019": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
-      "Pro_Evolution_Soccer_2019"
+      "Pro_Evolution_Soccer_2019",
+      "PES_2019"
     ],
     "name": "PES 2019"
   },
@@ -47762,6 +47778,20 @@
     ],
     "name": "Reschanger"
   },
+  "name:resident-evil-2-2019": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "S948U1",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "Resident_Evil_2__2019_"
+    ],
+    "name": "Resident Evil 2 2019"
+  },
   "name:resident-evil-2-dx11": {
     "config_count": 1,
     "devices": [],
@@ -47961,6 +47991,14 @@
       "SFTK"
     ],
     "name": "Sftk"
+  },
+  "name:shantae-half-genie-hero-ultimate-edition": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Shantae_-_Half-Genie_Hero_Ultimate_Edition"
+    ],
+    "name": "Shantae Half Genie Hero Ultimate Edition"
   },
   "name:shfix": {
     "config_count": 1,
