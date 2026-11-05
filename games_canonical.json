@@ -12894,6 +12894,14 @@
     ],
     "name": "Sonic Frontiers: Monster Hunter Collaboration Pack"
   },
+  "20900": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "The_Witcher__Enhanced_Edition"
+    ],
+    "name": "The Witcher: Enhanced Edition Director's Cut"
+  },
   "209000": {
     "config_count": 17,
     "devices": [
@@ -15210,7 +15218,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 22,
+    "config_count": 18,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -15249,9 +15257,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -22324,7 +22330,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 35,
     "devices": [
       {
         "d": "G615_MC2",
@@ -22364,7 +22370,9 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -25089,7 +25097,7 @@
     "name": "Cursemark"
   },
   "3219630": {
-    "config_count": 16,
+    "config_count": 12,
     "devices": [
       {
         "d": "256",
@@ -25263,7 +25271,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2207,
+    "config_count": 2209,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -29294,6 +29302,25 @@
       "Existential_Treads"
     ],
     "name": "Ash & Adam's Existential Treads"
+  },
+  "3581230": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "256",
+        "m": "8",
+        "s": "PowerVR B-Series BXM-8-256"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "Game"
+    ],
+    "name": "Cozy Game Restoration"
   },
   "3587610": {
     "config_count": 2,
@@ -33972,13 +33999,20 @@
     "name": "This Is the Police"
   },
   "4439810": {
-    "config_count": 3,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "Forza_Horizon_2_____________________________________________",
-      "Forza_Horizon_2"
+      "Forza_Horizon_2_____________________________________________"
     ],
     "name": "Forza Horizon 6 2024 Koenigsegg Gemera"
+  },
+  "4439830": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Forza_Horizon_2"
+    ],
+    "name": "Forza Horizon 6 2008 Honda Civic Type R (FD2)"
   },
   "444200": {
     "config_count": 1,
@@ -35570,12 +35604,17 @@
     "name": "NARUTO STORM 4 : Road to Boruto Expansion"
   },
   "49520": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "NX789S_V1B",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       },
       {
         "d": "Adreno__TM__740",
