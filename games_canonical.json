@@ -43407,6 +43407,14 @@
     ],
     "name": "Clientg"
   },
+  "name:clt-acesso-antecipado": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "CLT_-_ACESSO_ANTECIPADO"
+    ],
+    "name": "Clt Acesso Antecipado"
+  },
   "name:cm-fortress-italy": {
     "config_count": 1,
     "devices": [],
@@ -45711,7 +45719,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3297,
+    "config_count": 3298,
     "devices": [
       {
         "d": "G52_MC2",
