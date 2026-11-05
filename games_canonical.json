@@ -1578,7 +1578,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1587,8 +1587,7 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid",
-      "Rangers"
+      "BattleForTheGrid"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -3121,7 +3120,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 478,
+    "config_count": 479,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -15218,7 +15217,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -15258,7 +15257,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev"
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -22331,7 +22331,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -22371,8 +22371,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -23796,6 +23795,14 @@
       "Dungeon_Rampage"
     ],
     "name": "Dungeon Rampage Remastered"
+  },
+  "3054410": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Bushside Rangers"
   },
   "305620": {
     "config_count": 4,
@@ -25265,7 +25272,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2214,
+    "config_count": 2216,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -26313,11 +26320,6 @@
         "s": "Adreno (TM) 730"
       },
       {
-        "d": "Adreno__TM__710",
-        "m": "W09",
-        "s": "Adreno (TM) 710"
-      },
-      {
         "d": "Adreno__TM__610",
         "m": "LX2",
         "s": "Adreno (TM) 610"
@@ -26565,6 +26567,11 @@
       {
         "d": "Adreno__TM__710",
         "m": "NX1",
+        "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "W09",
         "s": "Adreno (TM) 710"
       },
       {
@@ -39461,7 +39468,7 @@
     "name": "Borderlands Game of the Year Enhanced"
   },
   "730": {
-    "config_count": 22,
+    "config_count": 23,
     "devices": [
       {
         "d": "G78",
@@ -45696,7 +45703,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3301,
+    "config_count": 3302,
     "devices": [
       {
         "d": "G52_MC2",
