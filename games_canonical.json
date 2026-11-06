@@ -2057,6 +2057,14 @@
     ],
     "name": "Icarus"
   },
+  "1150230": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "nostalgia_5_0"
+    ],
+    "name": "VR Nostalgia 5"
+  },
   "1151380": {
     "config_count": 1,
     "devices": [
@@ -5308,6 +5316,20 @@
       "Lost_Ruins"
     ],
     "name": "Lost Ruins"
+  },
+  "1307710": {
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "GRID"
+    ],
+    "name": "GRID Legends"
   },
   "1310510": {
     "config_count": 1,
@@ -9685,7 +9707,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 181,
+    "config_count": 182,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -11180,7 +11202,7 @@
     "name": "Strikers Club"
   },
   "1954200": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11201,10 +11223,21 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "NP05J",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
       "Kena__Bridge_of_Spirits",
+      "Kena_-_Bridge_of_Spirits",
       "Kena_Bridge_of_Spirits"
     ],
     "name": "Kena: Bridge of Spirits"
@@ -18460,6 +18493,14 @@
       "Assetto_Corsa"
     ],
     "name": "Assetto Corsa"
+  },
+  "244450": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Men_of_War_-_Assault_Squad_2"
+    ],
+    "name": "Men of War: Assault Squad 2"
   },
   "2444750": {
     "config_count": 1,
@@ -29600,7 +29641,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 8,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -29621,11 +29662,6 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -29685,10 +29721,9 @@
     "name": "Drift Legends 2"
   },
   "3669870": {
-    "config_count": 3,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "Control_Ultimate_Edition",
       "control"
     ],
     "name": "CONTROL Resonant"
@@ -38437,14 +38472,6 @@
     ],
     "name": "Journey"
   },
-  "64000": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Men_of_War_-_Assault_Squad_2"
-    ],
-    "name": "Men of War: Assault Squad"
-  },
   "640590": {
     "config_count": 1,
     "devices": [],
@@ -41166,7 +41193,7 @@
     "name": "The Walking Dead: The Final Season"
   },
   "870780": {
-    "config_count": 3,
+    "config_count": 5,
     "devices": [],
     "folders": [
       "CONTROL_Ultimate_Edition",
@@ -44847,25 +44874,6 @@
     ],
     "name": "Jump Force"
   },
-  "name:kena-bridge-of-spirits": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "NP05J",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "Kena_-_Bridge_of_Spirits"
-    ],
-    "name": "Kena Bridge Of Spirits"
-  },
   "name:kick-win": {
     "config_count": 1,
     "devices": [],
@@ -45470,14 +45478,6 @@
       "NieRAutomataCompat"
     ],
     "name": "Nierautomatacompat"
-  },
-  "name:nostalgia-5-0": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "nostalgia_5_0"
-    ],
-    "name": "Nostalgia 5 0"
   },
   "name:nsm-myst-chs": {
     "config_count": 1,
