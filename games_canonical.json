@@ -8625,7 +8625,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 112,
+    "config_count": 113,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -8785,6 +8785,7 @@
       "pes_2013",
       "pes_2013_",
       "pes__2013",
+      "pes_2019",
       "PES_2019"
     ],
     "name": "eFootball\u2122"
@@ -11759,7 +11760,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11768,8 +11769,7 @@
       }
     ],
     "folders": [
-      "WolfNewOrder",
-      "Wolfenstein__2009_"
+      "WolfNewOrder"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -17175,22 +17175,16 @@
     "name": "Europa Universalis IV"
   },
   "2369390": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
-      "Far_Cry",
-      "FarCry"
+      "Far_Cry"
     ],
     "name": "Far Cry\u00ae 6"
   },
@@ -18754,20 +18748,6 @@
       "Forza_Horizon_6"
     ],
     "name": "Forza Horizon 6"
-  },
-  "2486820": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      }
-    ],
-    "folders": [
-      "Sonic"
-    ],
-    "name": "Sonic Racing: CrossWorlds"
   },
   "24880": {
     "config_count": 3,
@@ -23481,7 +23461,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -23502,10 +23482,16 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -36904,7 +36890,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "G720_MC7",
@@ -36950,6 +36936,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -36958,7 +36949,8 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry"
+      "far_cry",
+      "FarCry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -38043,7 +38035,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -41242,7 +41234,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 144,
+    "config_count": 145,
     "devices": [
       {
         "d": "s5e8855",
@@ -41827,7 +41819,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 9,
+    "config_count": 7,
     "devices": [
       {
         "d": "G615_MC6",
@@ -41843,16 +41835,10 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },

@@ -10072,11 +10072,6 @@
     "method": "naive",
     "steam_name": "Solo Leveling: ARISE OVERDRIVE"
   },
-  "Sonic": {
-    "appid": 2486820,
-    "method": "naive",
-    "steam_name": "Sonic Racing: CrossWorlds"
-  },
   "SonicFrontiers": {
     "appid": 1237320,
     "method": "naive",
@@ -13337,6 +13332,12 @@
   "pes_2013_kk": {
     "appid": "name:pes-2013",
     "method": "alias"
+  },
+  "pes_2019": {
+    "appid": 1665460,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1665460/header.jpg",
+    "method": "fuzzy",
+    "steam_name": "eFootball\u2122"
   },
   "pes__2013": {
     "appid": 1665460,
