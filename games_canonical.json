@@ -1055,14 +1055,6 @@
     ],
     "name": "Electrician Simulator"
   },
-  "1080920": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GRID_2"
-    ],
-    "name": "Defense Grid 2 - Aftermath"
-  },
   "108600": {
     "config_count": 4,
     "devices": [],
@@ -1586,7 +1578,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1595,7 +1587,8 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid"
+      "BattleForTheGrid",
+      "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -15186,7 +15179,7 @@
     "name": "Five Nights at Freddy's: Secret of the Mimic"
   },
   "221540": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -15269,7 +15262,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 18,
+    "config_count": 22,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -15308,7 +15301,9 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -22386,7 +22381,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 35,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -22426,9 +22421,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "rerev",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -23859,14 +23852,6 @@
       "Dungeon_Rampage"
     ],
     "name": "Dungeon Rampage Remastered"
-  },
-  "3054410": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Bushside Rangers"
   },
   "305620": {
     "config_count": 4,
@@ -25309,7 +25294,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2221,
+    "config_count": 2225,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -26609,6 +26594,11 @@
       {
         "d": "Adreno__TM__610",
         "m": "LX2",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "CPH2819_A6X",
         "s": "Adreno (TM) 610"
       },
       {
@@ -44528,7 +44518,7 @@
     "name": "GTA San Andreas Farsi Edition Cyberfa Www Magbaazi Ir"
   },
   "name:gta-vc": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__740",
