@@ -3142,7 +3142,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 481,
+    "config_count": 482,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3168,6 +3168,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       },
       {
         "d": "MT6789V_CD",
@@ -3590,11 +3595,6 @@
         "s": "Adreno (TM) 825"
       },
       {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      },
-      {
         "d": "Adreno__TM__735",
         "m": "NX9",
         "s": "Adreno (TM) 735"
@@ -4007,20 +4007,6 @@
       "Beach_Buggy_Racing_2_-_Island_Adventure"
     ],
     "name": "Beach Buggy Racing 2 - Island Adventure"
-  },
-  "12320": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred Gold"
   },
   "1232460": {
     "config_count": 1,
@@ -6836,7 +6822,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 120,
+    "config_count": 123,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -14589,7 +14575,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 147,
+    "config_count": 149,
     "devices": [
       {
         "d": "G52_MC2",
@@ -14765,6 +14751,11 @@
         "d": "Adreno__TM__750",
         "m": "23127PN0CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "LX1",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "G615_MC2",
@@ -15898,7 +15889,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 319,
+    "config_count": 320,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -16244,6 +16235,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G610_MC6",
+        "m": "Mali",
+        "s": "Mali-G610 MC6"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -17283,22 +17279,16 @@
     "name": "Europa Universalis IV"
   },
   "2369390": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
-      "Far_Cry",
-      "FarCry"
+      "Far_Cry"
     ],
     "name": "Far Cry\u00ae 6"
   },
@@ -18558,6 +18548,14 @@
       "Assetto_Corsa"
     ],
     "name": "Assetto Corsa"
+  },
+  "244450": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Men_of_War_-_Assault_Squad_2"
+    ],
+    "name": "Men of War: Assault Squad 2"
   },
   "2444750": {
     "config_count": 1,
@@ -21870,7 +21868,7 @@
     "name": "SimplePlanes 2"
   },
   "284160": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -24616,6 +24614,14 @@
       "FINAL_FANTASY_XIV_Online_Free_Trial"
     ],
     "name": "FINAL FANTASY XIV Online Free Trial"
+  },
+  "3120600": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "RoomGirl"
+    ],
+    "name": "VR Harem Life ~ Your Room Became a Hang-Out for Girls!? ~"
   },
   "3121490": {
     "config_count": 1,
@@ -29477,7 +29483,7 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae II"
   },
   "3595270": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G68",
@@ -29486,8 +29492,7 @@
       }
     ],
     "folders": [
-      "Call_of_Duty___Modern_Warfare__III",
-      "Call_of_Duty_-_Modern_Warfare_3__2011_"
+      "Call_of_Duty___Modern_Warfare__III"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae III"
   },
@@ -31415,6 +31420,20 @@
       "Tekken_7"
     ],
     "name": "TEKKEN 7"
+  },
+  "3906660": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred 2 Remaster"
   },
   "3909960": {
     "config_count": 1,
@@ -33382,14 +33401,6 @@
     ],
     "name": "Little Nightmares"
   },
-  "4250010": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "RoomGirl"
-    ],
-    "name": "My Roommate is a cute Ghost Girl!?"
-  },
   "425220": {
     "config_count": 1,
     "devices": [
@@ -33427,7 +33438,7 @@
     "name": "Innocent Assault SS"
   },
   "42680": {
-    "config_count": 43,
+    "config_count": 44,
     "devices": [
       {
         "d": "Infinix_X6833B",
@@ -33521,7 +33532,8 @@
       }
     ],
     "folders": [
-      "Call_of_Duty___Modern_Warfare__3__2011_"
+      "Call_of_Duty___Modern_Warfare__3__2011_",
+      "Call_of_Duty_-_Modern_Warfare_3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
@@ -37067,7 +37079,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "G720_MC7",
@@ -37113,6 +37125,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -37121,7 +37138,8 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry"
+      "far_cry",
+      "FarCry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -38554,14 +38572,6 @@
       "Journey"
     ],
     "name": "Journey"
-  },
-  "64000": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Men_of_War_-_Assault_Squad_2"
-    ],
-    "name": "Men of War: Assault Squad"
   },
   "640590": {
     "config_count": 1,
@@ -44312,20 +44322,6 @@
     ],
     "name": "Ffxiii"
   },
-  "name:fifa-23": {
-    "config_count": 3,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "FIFA_23"
-    ],
-    "name": "Fifa 23"
-  },
   "name:fifa14": {
     "config_count": 1,
     "devices": [],
@@ -47894,7 +47890,7 @@
     "name": "Pro Evolution Soccer"
   },
   "name:pro-evolution-soccer-2013-demo2": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "Pro_Evolution_Soccer_2013_DEMO2"
