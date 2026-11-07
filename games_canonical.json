@@ -3948,7 +3948,7 @@
     "name": "Atri -My Dear Moments-"
   },
   "1230530": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "G57_MC2",
@@ -3989,6 +3989,11 @@
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "A059",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
@@ -10238,7 +10243,7 @@
     "name": "Harvestella"
   },
   "1817070": {
-    "config_count": 28,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -10299,6 +10304,11 @@
         "d": "Adreno__TM__730",
         "m": "TB320FC",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "NX9",
+        "s": "Adreno (TM) 720"
       },
       {
         "d": "Adreno__TM__840",
@@ -17261,22 +17271,16 @@
     "name": "Europa Universalis IV"
   },
   "2369390": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
-      "Far_Cry",
-      "FarCry"
+      "Far_Cry"
     ],
     "name": "Far Cry\u00ae 6"
   },
@@ -19270,6 +19274,14 @@
     ],
     "name": "Test Drive Unlimited Solar Crown - Ford GT 2006"
   },
+  "251570": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "7_Days_to_Die"
+    ],
+    "name": "7 Days To Die"
+  },
   "2518960": {
     "config_count": 2,
     "devices": [
@@ -19914,6 +19926,14 @@
       "Promise_Mascot_Agency"
     ],
     "name": "Promise Mascot Agency"
+  },
+  "2590240": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "metro"
+    ],
+    "name": "METRO 2039"
   },
   "2592160": {
     "config_count": 8,
@@ -23565,7 +23585,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 7,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -23586,16 +23606,10 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -25356,7 +25370,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2242,
+    "config_count": 2246,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -26519,11 +26533,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "Adreno__TM__732",
-        "m": "2410CRP4CG",
-        "s": "Adreno (TM) 732"
-      },
-      {
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
@@ -26552,11 +26561,6 @@
         "d": "Adreno__TM__618",
         "m": "RMX2170",
         "s": "Adreno (TM) 618"
-      },
-      {
-        "d": "Adreno__TM__720",
-        "m": "W00",
-        "s": "Adreno (TM) 720"
       },
       {
         "d": "Adreno__TM__640",
@@ -26667,6 +26671,16 @@
         "d": "G76_MC4",
         "m": "Mali",
         "s": "Mali-G76 MC4"
+      },
+      {
+        "d": "Adreno__TM__732",
+        "m": "2410CRP4CG",
+        "s": "Adreno (TM) 732"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "W00",
+        "s": "Adreno (TM) 720"
       },
       {
         "d": "Adreno__TM__830",
@@ -34737,14 +34751,6 @@
     ],
     "name": "Katana ZERO"
   },
-  "4612650": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "metro"
-    ],
-    "name": "Metro Anomaly"
-  },
   "462780": {
     "config_count": 4,
     "devices": [
@@ -37060,7 +37066,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "G720_MC7",
@@ -37106,6 +37112,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -37114,7 +37125,8 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry"
+      "far_cry",
+      "FarCry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -41983,7 +41995,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 7,
+    "config_count": 9,
     "devices": [
       {
         "d": "G615_MC6",
@@ -41999,10 +42011,16 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
