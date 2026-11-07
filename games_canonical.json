@@ -15289,7 +15289,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -15329,7 +15329,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev"
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -22463,7 +22464,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -22503,8 +22504,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -23542,7 +23542,7 @@
     "name": "Dying Light: The Beast"
   },
   "3010850": {
-    "config_count": 9,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -23569,8 +23569,7 @@
       "Gears_Of_War",
       "Gears_of_War",
       "Gears_of_war_2",
-      "d",
-      "Gears_of_War_2"
+      "d"
     ],
     "name": "Gears of War: E-Day"
   },
@@ -23594,7 +23593,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 7,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -23615,16 +23614,10 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -24615,14 +24608,6 @@
     ],
     "name": "FINAL FANTASY XIV Online Free Trial"
   },
-  "3120600": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "RoomGirl"
-    ],
-    "name": "VR Harem Life ~ Your Room Became a Hang-Out for Girls!? ~"
-  },
   "3121490": {
     "config_count": 1,
     "devices": [
@@ -25401,7 +25386,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2247,
+    "config_count": 2248,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -29033,7 +29018,7 @@
     "name": "LEGO\u00ae Jurassic World"
   },
   "3527290": {
-    "config_count": 16,
+    "config_count": 17,
     "devices": [
       {
         "d": "s5e8825",
@@ -29079,6 +29064,11 @@
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
         "m": "S731B",
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "2405CRPFDG",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__725",
@@ -31061,6 +31051,14 @@
     ],
     "name": "Case Blind: Stolen Route"
   },
+  "3858850": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Hydra"
+    ],
+    "name": "Hydra Heli"
+  },
   "3859430": {
     "config_count": 1,
     "devices": [
@@ -32807,14 +32805,6 @@
     ],
     "name": "Z.A.T.O. - Digital Art Pack"
   },
-  "4123760": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Football_Life_2026"
-    ],
-    "name": "Football Life"
-  },
   "4126040": {
     "config_count": 1,
     "devices": [
@@ -33058,7 +33048,7 @@
     "name": "Shadow Tactics: Blades of the Shogun"
   },
   "418370": {
-    "config_count": 45,
+    "config_count": 46,
     "devices": [
       {
         "d": "SM7435",
@@ -33144,6 +33134,11 @@
         "d": "G720_MC8",
         "m": "Mali",
         "s": "Mali-G720 MC8"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "24129PN74G",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "Adreno__TM__720",
@@ -33339,14 +33334,6 @@
     ],
     "name": "Deadlight: Director's Cut"
   },
-  "4241690": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Hydra"
-    ],
-    "name": "Hydra Heli 2"
-  },
   "424280": {
     "config_count": 1,
     "devices": [
@@ -33400,6 +33387,14 @@
       "Little_Nightmares_Enhanced_Edition"
     ],
     "name": "Little Nightmares"
+  },
+  "4250010": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "RoomGirl"
+    ],
+    "name": "My Roommate is a cute Ghost Girl!?"
   },
   "425220": {
     "config_count": 1,
@@ -41965,14 +41960,6 @@
     ],
     "name": "Cartoony Cars 2"
   },
-  "917040": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "KikiKaikai"
-    ],
-    "name": "Groove Coaster - KIKIKAIKAI"
-  },
   "919410": {
     "config_count": 1,
     "devices": [
@@ -42008,7 +41995,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 7,
+    "config_count": 9,
     "devices": [
       {
         "d": "G615_MC6",
@@ -42024,10 +42011,16 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -44423,6 +44416,14 @@
     ],
     "name": "Final Fantasy Renaissance"
   },
+  "name:football-life-2026": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Football_Life_2026"
+    ],
+    "name": "Football Life 2026"
+  },
   "name:frozen-throne": {
     "config_count": 1,
     "devices": [
@@ -44490,6 +44491,14 @@
       "GE2RB"
     ],
     "name": "Ge2Rb"
+  },
+  "name:gears-of-war-2": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Gears_of_War_2"
+    ],
+    "name": "Gears Of War 2"
   },
   "name:gears-of-war-2-hollow": {
     "config_count": 1,
@@ -44982,6 +44991,14 @@
       "kick_win"
     ],
     "name": "Kick Win"
+  },
+  "name:kikikaikai": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "KikiKaikai"
+    ],
+    "name": "Kikikaikai"
   },
   "name:kinebox": {
     "config_count": 1,
