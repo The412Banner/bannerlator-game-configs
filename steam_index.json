@@ -236,7 +236,8 @@
     "VK_com"
   ],
   "1110100": [
-    "BattleForTheGrid"
+    "BattleForTheGrid",
+    "Rangers"
   ],
   "1110910": [
     "Mortal_Shell"
@@ -1600,8 +1601,7 @@
   ],
   "1817070": [
     "Marvel_s_Spider-Man_Remastered",
-    "REM",
-    "Spider-man_Remastered"
+    "REM"
   ],
   "1817190": [
     "Marvel_s_Spider-Man_-_Miles_Morales",
@@ -3208,7 +3208,8 @@
     "Activision_Spider-Man_3",
     "Marvel_s_Spider-Man_2",
     "Spider-Man",
-    "Spider-Man_3"
+    "Spider-Man_3",
+    "Spider-man_Remastered"
   ],
   "2651500": [
     "HMA"
@@ -3562,6 +3563,7 @@
   ],
   "289650": [
     "Assassin_s_Creed__Unity",
+    "Assassin_s_creed_unity",
     "Unity"
   ],
   "2900640": [
@@ -3717,6 +3719,7 @@
   "3010850": [
     "Gears_Of_War",
     "Gears_of_War",
+    "Gears_of_War_2",
     "Gears_of_war_2",
     "d"
   ],
@@ -3768,9 +3771,6 @@
   ],
   "3053950": [
     "Dungeon_Rampage"
-  ],
-  "3054410": [
-    "Rangers"
   ],
   "305620": [
     "The_Long_Dark"
@@ -5091,6 +5091,9 @@
   ],
   "4122990": [
     "ZAT"
+  ],
+  "4123760": [
+    "Football_Life_2026"
   ],
   "4126040": [
     "Aniimo"
@@ -6540,7 +6543,6 @@
   ],
   "883710": [
     "Resident_Evil_2",
-    "Resident_Evil_2__2019_",
     "Resident_Evil_2__DX11_",
     "Resident_Evil_2_____________________________________________",
     "re2",
@@ -6590,6 +6592,9 @@
   ],
   "915190": [
     "Cars_2"
+  ],
+  "917040": [
+    "KikiKaikai"
   ],
   "919410": [
     "Felix_The_Reaper"
@@ -7162,9 +7167,6 @@
   "name:final-fantasy-renaissance": [
     "Final_Fantasy_Renaissance"
   ],
-  "name:football-life-2026": [
-    "Football_Life_2026"
-  ],
   "name:frozen-throne": [
     "Frozen_Throne"
   ],
@@ -7185,9 +7187,6 @@
   ],
   "name:ge2rb": [
     "GE2RB"
-  ],
-  "name:gears-of-war-2": [
-    "Gears_of_War_2"
   ],
   "name:gears-of-war-2-hollow": [
     "Gears_of_War_2_Hollow"
@@ -7321,9 +7320,6 @@
   ],
   "name:kick-win": [
     "kick_win"
-  ],
-  "name:kikikaikai": [
-    "KikiKaikai"
   ],
   "name:kinebox": [
     "Kinebox"
@@ -7727,6 +7723,9 @@
   ],
   "name:reschanger": [
     "ResChanger"
+  ],
+  "name:resident-evil-2-2019": [
+    "Resident_Evil_2__2019_"
   ],
   "name:resident-evil-2-dx11": [
     "Resident_Evil_2_DX11"

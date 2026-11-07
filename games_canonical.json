@@ -1578,7 +1578,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1587,7 +1587,8 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid"
+      "BattleForTheGrid",
+      "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -3142,7 +3143,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 482,
+    "config_count": 484,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3535,11 +3536,6 @@
         "s": "Adreno (TM) 740"
       },
       {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "A366E",
         "s": "Adreno (TM) 710"
@@ -3593,6 +3589,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__735",
@@ -10242,7 +10243,7 @@
     "name": "Harvestella"
   },
   "1817070": {
-    "config_count": 29,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -10327,8 +10328,7 @@
     ],
     "folders": [
       "Marvel_s_Spider-Man_Remastered",
-      "REM",
-      "Spider-man_Remastered"
+      "REM"
     ],
     "name": "Marvel\u2019s Spider-Man Remastered"
   },
@@ -15890,7 +15890,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 320,
+    "config_count": 321,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -17057,7 +17057,7 @@
     "name": "METAL GEAR RISING: REVENGEANCE"
   },
   "235600": {
-    "config_count": 7,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__22",
@@ -17068,6 +17068,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -20381,7 +20386,7 @@
     "name": "Subnautica"
   },
   "2651280": {
-    "config_count": 27,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -20437,13 +20442,19 @@
         "d": "Adreno__TM__730",
         "m": "motorola_edge_30_ultra",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
       "Activision_Spider-Man_3",
       "Marvel_s_Spider-Man_2",
       "Spider-Man_3",
-      "Spider-Man"
+      "Spider-Man",
+      "Spider-man_Remastered"
     ],
     "name": "Marvel's Spider-Man 2"
   },
@@ -22679,7 +22690,7 @@
     "name": "RC Cars"
   },
   "289650": {
-    "config_count": 24,
+    "config_count": 25,
     "devices": [
       {
         "d": "SM8735",
@@ -22734,7 +22745,8 @@
     ],
     "folders": [
       "Assassin_s_Creed__Unity",
-      "Unity"
+      "Unity",
+      "Assassin_s_creed_unity"
     ],
     "name": "Assassin's Creed\u00ae Unity"
   },
@@ -23542,7 +23554,7 @@
     "name": "Dying Light: The Beast"
   },
   "3010850": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -23569,7 +23581,8 @@
       "Gears_Of_War",
       "Gears_of_War",
       "Gears_of_war_2",
-      "d"
+      "d",
+      "Gears_of_War_2"
     ],
     "name": "Gears of War: E-Day"
   },
@@ -23937,14 +23950,6 @@
     ],
     "name": "Dungeon Rampage Remastered"
   },
-  "3054410": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Bushside Rangers"
-  },
   "305620": {
     "config_count": 4,
     "devices": [
@@ -24128,7 +24133,7 @@
     "name": "MotoGP\u212225"
   },
   "307780": {
-    "config_count": 48,
+    "config_count": 49,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -31448,7 +31453,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 220,
+    "config_count": 221,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -32804,6 +32809,14 @@
       "ZAT"
     ],
     "name": "Z.A.T.O. - Digital Art Pack"
+  },
+  "4123760": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Football_Life_2026"
+    ],
+    "name": "Football Life"
   },
   "4126040": {
     "config_count": 1,
@@ -34620,8 +34633,13 @@
     "name": "Borrowed Faces"
   },
   "45760": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
+      {
+        "d": "Adreno__TM__730",
+        "m": "S901E",
+        "s": "Adreno (TM) 730"
+      },
       {
         "d": "Adreno__TM__22",
         "m": "Retroid_Pocket_G2",
@@ -41418,7 +41436,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 145,
+    "config_count": 144,
     "devices": [
       {
         "d": "s5e8855",
@@ -41646,11 +41664,6 @@
         "s": "Adreno (TM) 840"
       },
       {
-        "d": "Adreno__TM__840",
-        "m": "S948U1",
-        "s": "Adreno (TM) 840"
-      },
-      {
         "d": "Adreno__TM__750",
         "m": "NX769J",
         "s": "Adreno (TM) 750"
@@ -41664,7 +41677,6 @@
     "folders": [
       "Resident_Evil_2",
       "Resident_Evil_2_____________________________________________",
-      "Resident_Evil_2__2019_",
       "Resident_Evil_2__DX11_",
       "re2",
       "resident_evil_2"
@@ -41959,6 +41971,14 @@
       "Cars_2"
     ],
     "name": "Cartoony Cars 2"
+  },
+  "917040": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "KikiKaikai"
+    ],
+    "name": "Groove Coaster - KIKIKAIKAI"
   },
   "919410": {
     "config_count": 1,
@@ -44416,14 +44436,6 @@
     ],
     "name": "Final Fantasy Renaissance"
   },
-  "name:football-life-2026": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Football_Life_2026"
-    ],
-    "name": "Football Life 2026"
-  },
   "name:frozen-throne": {
     "config_count": 1,
     "devices": [
@@ -44491,14 +44503,6 @@
       "GE2RB"
     ],
     "name": "Ge2Rb"
-  },
-  "name:gears-of-war-2": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Gears_of_War_2"
-    ],
-    "name": "Gears Of War 2"
   },
   "name:gears-of-war-2-hollow": {
     "config_count": 1,
@@ -44991,14 +44995,6 @@
       "kick_win"
     ],
     "name": "Kick Win"
-  },
-  "name:kikikaikai": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "KikiKaikai"
-    ],
-    "name": "Kikikaikai"
   },
   "name:kinebox": {
     "config_count": 1,
@@ -45897,7 +45893,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3318,
+    "config_count": 3319,
     "devices": [
       {
         "d": "G52_MC2",
@@ -48088,6 +48084,20 @@
       "ResChanger"
     ],
     "name": "Reschanger"
+  },
+  "name:resident-evil-2-2019": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "S948U1",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "Resident_Evil_2__2019_"
+    ],
+    "name": "Resident Evil 2 2019"
   },
   "name:resident-evil-2-dx11": {
     "config_count": 1,
