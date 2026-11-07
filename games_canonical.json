@@ -719,7 +719,7 @@
     "name": "Mafia II: Definitive Edition"
   },
   "1030840": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -730,16 +730,10 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__829",
-        "m": "motorola_signature",
-        "s": "Adreno (TM) 829"
       }
     ],
     "folders": [
-      "Mafia__Definitive_Edition",
-      "Mafia_Definitive_Edition"
+      "Mafia__Definitive_Edition"
     ],
     "name": "Mafia: Definitive Edition"
   },
@@ -1578,7 +1572,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1587,8 +1581,7 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid",
-      "Rangers"
+      "BattleForTheGrid"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -4066,6 +4059,20 @@
     ],
     "name": "RetroArch - PPSSPP"
   },
+  "1234730": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
+      }
+    ],
+    "folders": [
+      "player"
+    ],
+    "name": "HereSphere VR Video Player"
+  },
   "12360": {
     "config_count": 1,
     "devices": [
@@ -5036,12 +5043,17 @@
     "name": "The Last Faith"
   },
   "1275630": {
-    "config_count": 5,
+    "config_count": 7,
     "devices": [
       {
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
       }
     ],
     "folders": [
@@ -11100,18 +11112,24 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "N49",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__829",
+        "m": "motorola_signature",
+        "s": "Adreno (TM) 829"
       }
     ],
     "folders": [
       "MAFIA",
       "Mafia",
-      "Mafia_-_Definitive_Edition"
+      "Mafia_-_Definitive_Edition",
+      "Mafia_Definitive_Edition"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -14895,7 +14913,7 @@
     "name": "DmC: Devil May Cry"
   },
   "2207440": {
-    "config_count": 1,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -14904,7 +14922,8 @@
       }
     ],
     "folders": [
-      "LOK"
+      "LOK",
+      "LoK"
     ],
     "name": "LOK Digital"
   },
@@ -18509,6 +18528,14 @@
     ],
     "name": "Assetto Corsa"
   },
+  "244450": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Men_of_War_-_Assault_Squad_2"
+    ],
+    "name": "Men of War: Assault Squad 2"
+  },
   "2444750": {
     "config_count": 1,
     "devices": [],
@@ -19338,40 +19365,6 @@
       "Denshattack_"
     ],
     "name": "Denshattack"
-  },
-  "2525380": {
-    "config_count": 16,
-    "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
-      }
-    ],
-    "folders": [
-      "TombRaider"
-    ],
-    "name": "Tomb Raider IV-VI Remastered"
   },
   "2527160": {
     "config_count": 3,
@@ -22168,14 +22161,6 @@
     ],
     "name": "Happy Sheepies"
   },
-  "2860490": {
-    "config_count": 4,
-    "devices": [],
-    "folders": [
-      "LoK"
-    ],
-    "name": "Warota: I Live Next to The Demon King's Castle LOL"
-  },
   "2862840": {
     "config_count": 2,
     "devices": [
@@ -23887,6 +23872,14 @@
       "Dungeon_Rampage"
     ],
     "name": "Dungeon Rampage Remastered"
+  },
+  "3054410": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Bushside Rangers"
   },
   "305620": {
     "config_count": 4,
@@ -28133,14 +28126,6 @@
     ],
     "name": "Heavy Weapon Deluxe"
   },
-  "3419290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN"
-  },
   "341940": {
     "config_count": 4,
     "devices": [
@@ -31379,7 +31364,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 220,
+    "config_count": 236,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -31710,6 +31695,26 @@
         "d": "Adreno__TM__750",
         "m": "S928U",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
@@ -31717,7 +31722,8 @@
       "Rise_of_the_Tomb_Raider_",
       "Tomb_Raider",
       "Tomb_Raider_-_Definitive_Edition",
-      "Tomb_Raider_________________________________________________"
+      "Tomb_Raider_________________________________________________",
+      "TombRaider"
     ],
     "name": "Rise of the Tomb Raider\u2122"
   },
@@ -32193,6 +32199,14 @@
       "The_Spike"
     ],
     "name": "The Spike Cross"
+  },
+  "3985080": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN - Costume Expansion Pack"
   },
   "400": {
     "config_count": 4,
@@ -32727,6 +32741,14 @@
       "ZAT"
     ],
     "name": "Z.A.T.O. - Digital Art Pack"
+  },
+  "4123760": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Football_Life_2026"
+    ],
+    "name": "Football Life"
   },
   "4126040": {
     "config_count": 1,
@@ -38491,14 +38513,6 @@
     ],
     "name": "Journey"
   },
-  "64000": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Men_of_War_-_Assault_Squad_2"
-    ],
-    "name": "Men of War: Assault Squad"
-  },
   "640590": {
     "config_count": 1,
     "devices": [],
@@ -39209,10 +39223,11 @@
     "name": "Xenia"
   },
   "6880": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
-      "Just_Cause"
+      "Just_Cause",
+      "Just_Cause_2_-_Complete_Edition"
     ],
     "name": "Just Cause"
   },
@@ -40760,7 +40775,7 @@
     "name": "Cash Grab - Hat Pack"
   },
   "8190": {
-    "config_count": 33,
+    "config_count": 32,
     "devices": [
       {
         "d": "Odin2",
@@ -40855,8 +40870,7 @@
     ],
     "folders": [
       "Just_Cause_2",
-      "JustCause2",
-      "Just_Cause_2_-_Complete_Edition"
+      "JustCause2"
     ],
     "name": "Just Cause 2"
   },
@@ -44349,14 +44363,6 @@
     ],
     "name": "Final Fantasy Renaissance"
   },
-  "name:football-life-2026": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Football_Life_2026"
-    ],
-    "name": "Football Life 2026"
-  },
   "name:frozen-throne": {
     "config_count": 1,
     "devices": [
@@ -45814,7 +45820,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3313,
+    "config_count": 3316,
     "devices": [
       {
         "d": "G52_MC2",
