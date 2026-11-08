@@ -6834,7 +6834,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 123,
+    "config_count": 122,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -15231,7 +15231,7 @@
     "name": "Five Nights at Freddy's: Secret of the Mimic"
   },
   "221540": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -15714,7 +15714,7 @@
     "name": "Tomb Raider II (1997)"
   },
   "2254490": {
-    "config_count": 18,
+    "config_count": 17,
     "devices": [
       {
         "d": "G52_MC2",
@@ -15725,11 +15725,6 @@
         "d": "Adreno__TM__840",
         "m": "25102PCBEG",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__644",
@@ -15744,7 +15739,6 @@
     ],
     "folders": [
       "Launcher",
-      "Rockstar_Games_Launcher",
       "launcher"
     ],
     "name": "Squirrel Launcher"
@@ -44417,6 +44411,14 @@
     ],
     "name": "Ffxiii"
   },
+  "name:fifa-20": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "FIFA_20"
+    ],
+    "name": "Fifa 20"
+  },
   "name:fifa14": {
     "config_count": 1,
     "devices": [],
@@ -48243,6 +48245,20 @@
       "RocketLeague"
     ],
     "name": "Rocketleague"
+  },
+  "name:rockstar-games-launcher": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Rockstar_Games_Launcher"
+    ],
+    "name": "Rockstar Games Launcher"
   },
   "name:rottr": {
     "config_count": 9,
