@@ -53,9 +53,6 @@
   "102500": [
     "Kingdoms_of_Amalur_-_Reckoning"
   ],
-  "1026680": [
-    "FINAL_FANTASY_VIII_REMASTERED"
-  ],
   "10270": [
     "DisciplesIII"
   ],
@@ -83,6 +80,7 @@
     "mafia2"
   ],
   "1030840": [
+    "Mafia_Definitive_Edition",
     "Mafia__Definitive_Edition"
   ],
   "1032700": [
@@ -264,6 +262,9 @@
   "1118200": [
     "People_Playground"
   ],
+  "1118272": [
+    "dirt_3"
+  ],
   "1118310": [
     "RetroArch"
   ],
@@ -316,6 +317,9 @@
   ],
   "1149460": [
     "Icarus"
+  ],
+  "1150230": [
+    "nostalgia_5_0"
   ],
   "1151380": [
     "Cowboy_Life_Simulator"
@@ -634,7 +638,6 @@
   ],
   "1262540": [
     "Need_for_Speed_",
-    "Need_for_speed__2005_",
     "need_for_speed",
     "need_for_speed_"
   ],
@@ -965,6 +968,7 @@
   "1446780": [
     "MH_R",
     "MONSTER_HUNTER_RISE",
+    "MonsterHunterRise",
     "Monster_Hunter_Rise"
   ],
   "1448440": [
@@ -1158,6 +1162,7 @@
     "LEGO__________________________________"
   ],
   "1574140": [
+    "DiRT4",
     "Dirt4"
   ],
   "1574820": [
@@ -1512,7 +1517,6 @@
     "STAR_OCEAN_THE_DIVINE_FORCE"
   ],
   "1778820": [
-    "TEKKEN_7",
     "TEKKEN_8"
   ],
   "1781890": [
@@ -1756,8 +1760,7 @@
   "1941540": [
     "MAFIA",
     "Mafia",
-    "Mafia_-_Definitive_Edition",
-    "Mafia_Definitive_Edition"
+    "Mafia_-_Definitive_Edition"
   ],
   "1941780": [
     "Zumbi_Blocks_2_Open_Alpha"
@@ -2270,6 +2273,9 @@
   "2195400": [
     "Shave___Stuff"
   ],
+  "219780": [
+    "Divinity_2_Developer_s_Cut"
+  ],
   "21980": [
     "Call_of_Juarez__Bound_in_Blood"
   ],
@@ -2381,7 +2387,6 @@
     "Fallout3",
     "Fallout_3",
     "Fallout_3_-_Game_of_the_Year_Edition",
-    "Fallout_3__Game_of_the_Year_Edition",
     "Fallout_3___________________________________________________"
   ],
   "2231450": [
@@ -2401,6 +2406,9 @@
   "2235020": [
     "Contra_Galuga",
     "Contra__Operation_Galuga"
+  ],
+  "22370": [
+    "Fallout_3__Game_of_the_Year_Edition"
   ],
   "22380": [
     "Fallout_-_New_Vegas",
@@ -2716,9 +2724,6 @@
   ],
   "2394650": [
     "Crypt_Custodian"
-  ],
-  "239550": [
-    "Age_of_Empires_II__2013_"
   ],
   "2396240": [
     "SteamWorld_Heist_2"
@@ -3592,6 +3597,7 @@
     "The_Witcher_3_-_Wild_Hunt___Remastered",
     "The_Witcher_3__Wild_Hunt_-_Complete_Edition",
     "The_Witcher_3__Wild_Hunt___Remastered",
+    "Witcher_1",
     "_Witcher",
     "witcher3"
   ],
@@ -4861,7 +4867,8 @@
   ],
   "39150": [
     "FINAL_FANTASY_VIII",
-    "FINAL_FANTASY_VIII_-_REMASTERED"
+    "FINAL_FANTASY_VIII_-_REMASTERED",
+    "FINAL_FANTASY_VIII_REMASTERED"
   ],
   "391540": [
     "Undertale"
@@ -5198,7 +5205,6 @@
     "ss"
   ],
   "42680": [
-    "Call_of_Duty_-_Modern_Warfare_3__2011_",
     "Call_of_Duty___Modern_Warfare__3__2011_"
   ],
   "426860": [
@@ -5730,9 +5736,6 @@
   "5190450": [
     "dacapo"
   ],
-  "5201760": [
-    "tra"
-  ],
   "521890": [
     "HelloNeighbor",
     "Hello_Neighbor",
@@ -5745,9 +5748,6 @@
   ],
   "526870": [
     "Satisfactory"
-  ],
-  "5275590": [
-    "dirt_3"
   ],
   "530620": [
     "Resident_Evil_7_Teaser__Beginning_Hour"
@@ -6171,8 +6171,7 @@
     "xenia"
   ],
   "6880": [
-    "Just_Cause",
-    "Just_Cause_2_-_Complete_Edition"
+    "Just_Cause"
   ],
   "6900": [
     "Cod4"
@@ -6411,7 +6410,8 @@
   ],
   "813780": [
     "Age_of_Empires_II",
-    "Age_of_Empires_II_HD"
+    "Age_of_Empires_II_HD",
+    "Age_of_Empires_II__2013_"
   ],
   "8140": [
     "Tomb_Raider_Underworld",
@@ -6439,7 +6439,8 @@
   ],
   "8190": [
     "JustCause2",
-    "Just_Cause_2"
+    "Just_Cause_2",
+    "Just_Cause_2_-_Complete_Edition"
   ],
   "819030": [
     "STEINS_GATE_ELITE"
@@ -6935,6 +6936,9 @@
   "name:bootstrappackagedgame": [
     "BootstrapPackagedGame"
   ],
+  "name:call-of-duty-modern-warfare-3-2011": [
+    "Call_of_Duty_-_Modern_Warfare_3__2011_"
+  ],
   "name:call-of-duty-world-at-war-game": [
     "Call_of_Duty_-_World_at_War_Game"
   ],
@@ -7044,9 +7048,6 @@
   "name:dirt-showdown": [
     "Dirt_Showdown"
   ],
-  "name:dirt4": [
-    "DiRT4"
-  ],
   "name:dirtfish-dirt4": [
     "Dirtfish_DiRT4"
   ],
@@ -7058,9 +7059,6 @@
   ],
   "name:dishonored-do": [
     "Dishonored_DO"
-  ],
-  "name:divinity-2-developer-s-cut": [
-    "Divinity_2_Developer_s_Cut"
   ],
   "name:dlss-5-swapper": [
     "DLSS_5_Swapper"
@@ -7402,9 +7400,6 @@
   "name:mohw": [
     "MOHW"
   ],
-  "name:monsterhunterrise": [
-    "MonsterHunterRise"
-  ],
   "name:mosscollection": [
     "MossCollection"
   ],
@@ -7434,6 +7429,9 @@
   ],
   "name:nba2k23": [
     "NBA2K23"
+  ],
+  "name:need-for-speed-2005": [
+    "Need_for_speed__2005_"
   ],
   "name:need-for-speed-black-edition": [
     "Need_for_Speed_Black_Edition_"
@@ -7491,9 +7489,6 @@
   ],
   "name:nierautomatacompat": [
     "NieRAutomataCompat"
-  ],
-  "name:nostalgia-5-0": [
-    "nostalgia_5_0"
   ],
   "name:nsm-myst-chs": [
     "NSM_MYST_CHS___"
@@ -7979,9 +7974,6 @@
   ],
   "name:wasteland-3-colorado-survival-gear-dlc": [
     "Wasteland_3_Colorado_Survival_Gear_DLC"
-  ],
-  "name:witcher-1": [
-    "Witcher_1"
   ],
   "name:wizard-school-exchange-student": [
     "Wizard_School_Exchange_Student"

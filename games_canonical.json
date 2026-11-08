@@ -490,14 +490,6 @@
     ],
     "name": "Kingdoms of Amalur: Reckoning\u2122"
   },
-  "1026680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "FINAL_FANTASY_VIII_REMASTERED"
-    ],
-    "name": "FINAL FANTASY VIII - REMASTERED"
-  },
   "10270": {
     "config_count": 2,
     "devices": [],
@@ -719,7 +711,7 @@
     "name": "Mafia II: Definitive Edition"
   },
   "1030840": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -730,10 +722,16 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__829",
+        "m": "motorola_signature",
+        "s": "Adreno (TM) 829"
       }
     ],
     "folders": [
-      "Mafia__Definitive_Edition"
+      "Mafia__Definitive_Edition",
+      "Mafia_Definitive_Edition"
     ],
     "name": "Mafia: Definitive Edition"
   },
@@ -1729,6 +1727,20 @@
     ],
     "name": "People Playground"
   },
+  "1118272": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__618",
+        "m": "M2007J20CG",
+        "s": "Adreno (TM) 618"
+      }
+    ],
+    "folders": [
+      "dirt_3"
+    ],
+    "name": "DiRT Rally 2.0 - Peugeot 306 Maxi"
+  },
   "1118310": {
     "config_count": 1,
     "devices": [],
@@ -2035,6 +2047,14 @@
       "Icarus"
     ],
     "name": "Icarus"
+  },
+  "1150230": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "nostalgia_5_0"
+    ],
+    "name": "VR Nostalgia 5"
   },
   "1151380": {
     "config_count": 1,
@@ -4678,7 +4698,7 @@
     "name": "Signalis"
   },
   "1262540": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "G52_MC2",
@@ -4704,8 +4724,7 @@
     "folders": [
       "Need_for_Speed_",
       "need_for_speed",
-      "need_for_speed_",
-      "Need_for_speed__2005_"
+      "need_for_speed_"
     ],
     "name": "Need for Speed\u2122"
   },
@@ -6340,7 +6359,7 @@
     "name": "You Will Die Here Tonight"
   },
   "1446780": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -6411,6 +6430,7 @@
     "folders": [
       "MONSTER_HUNTER_RISE",
       "MH_R",
+      "MonsterHunterRise",
       "Monster_Hunter_Rise"
     ],
     "name": "MONSTER HUNTER RISE"
@@ -7511,7 +7531,7 @@
     "name": "LEGO\u00ae Skylines"
   },
   "1574140": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -7520,6 +7540,7 @@
       }
     ],
     "folders": [
+      "DiRT4",
       "Dirt4"
     ],
     "name": "TIME FOR YOU - CHAPTER 02 - DIRTY THOUGHTS AND CORPORATE BOTS"
@@ -9621,7 +9642,7 @@
     "name": "STAR OCEAN THE DIVINE FORCE"
   },
   "1778820": {
-    "config_count": 9,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -9634,19 +9655,13 @@
         "s": "Adreno (TM) 750"
       },
       {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
-      },
-      {
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
-      "TEKKEN_8",
-      "TEKKEN_7"
+      "TEKKEN_8"
     ],
     "name": "TEKKEN 8"
   },
@@ -11104,24 +11119,18 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "N49",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__829",
-        "m": "motorola_signature",
-        "s": "Adreno (TM) 829"
       }
     ],
     "folders": [
       "MAFIA",
       "Mafia",
-      "Mafia_-_Definitive_Edition",
-      "Mafia_Definitive_Edition"
+      "Mafia_-_Definitive_Edition"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -14427,6 +14436,14 @@
     ],
     "name": "Shave & Stuff"
   },
+  "219780": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Divinity_2_Developer_s_Cut"
+    ],
+    "name": "Divinity II: Developer's Cut"
+  },
   "21980": {
     "config_count": 1,
     "devices": [],
@@ -15364,7 +15381,7 @@
     "name": "Command & Conquer\u2122 Generals"
   },
   "22300": {
-    "config_count": 22,
+    "config_count": 21,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -15401,8 +15418,7 @@
       "Fallout_3",
       "Fallout_3_-_Game_of_the_Year_Edition",
       "Fallout_3___________________________________________________",
-      "Fallout3",
-      "Fallout_3__Game_of_the_Year_Edition"
+      "Fallout3"
     ],
     "name": "Fallout 3"
   },
@@ -15502,6 +15518,14 @@
       "Contra_Galuga"
     ],
     "name": "Contra: Operation Galuga"
+  },
+  "22370": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Fallout_3__Game_of_the_Year_Edition"
+    ],
+    "name": "Fallout 3: Game of the Year Edition"
   },
   "22380": {
     "config_count": 20,
@@ -17677,14 +17701,6 @@
       "Crypt_Custodian"
     ],
     "name": "Crypt Custodian"
-  },
-  "239550": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Age_of_Empires_II__2013_"
-    ],
-    "name": "Age of Empires II (2013): The Forgotten"
   },
   "2396240": {
     "config_count": 1,
@@ -22296,7 +22312,7 @@
     "name": "SAW: Genesis"
   },
   "286690": {
-    "config_count": 40,
+    "config_count": 41,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -22850,7 +22866,7 @@
     "name": "Terrible Lizards"
   },
   "292030": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -22883,6 +22899,11 @@
         "s": "Adreno (TM) 830"
       },
       {
+        "d": "Adreno__TM__750",
+        "m": "V2425A",
+        "s": "Adreno (TM) 750"
+      },
+      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
@@ -22911,6 +22932,7 @@
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
       "The_Witcher_3_-_Wild_Hunt___Remastered",
+      "Witcher_1",
       "_Witcher",
       "witcher3"
     ],
@@ -28787,7 +28809,7 @@
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
   },
   "3493540": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G57_MC2",
@@ -31308,7 +31330,7 @@
     "name": "Pacer"
   },
   "389730": {
-    "config_count": 41,
+    "config_count": 42,
     "devices": [
       {
         "d": "SM8850",
@@ -31791,7 +31813,7 @@
     "name": "Rise of the Tomb Raider\u2122"
   },
   "39150": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -31801,7 +31823,8 @@
     ],
     "folders": [
       "FINAL_FANTASY_VIII",
-      "FINAL_FANTASY_VIII_-_REMASTERED"
+      "FINAL_FANTASY_VIII_-_REMASTERED",
+      "FINAL_FANTASY_VIII_REMASTERED"
     ],
     "name": "FINAL FANTASY VIII"
   },
@@ -33433,7 +33456,7 @@
     "name": "Innocent Assault SS"
   },
   "42680": {
-    "config_count": 44,
+    "config_count": 43,
     "devices": [
       {
         "d": "Infinix_X6833B",
@@ -33527,8 +33550,7 @@
       }
     ],
     "folders": [
-      "Call_of_Duty___Modern_Warfare__3__2011_",
-      "Call_of_Duty_-_Modern_Warfare_3__2011_"
+      "Call_of_Duty___Modern_Warfare__3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
@@ -36445,14 +36467,6 @@
     ],
     "name": "Da Capo"
   },
-  "5201760": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "tra"
-    ],
-    "name": "ARC Raiders - Frozen Trail Collector Set"
-  },
   "521890": {
     "config_count": 5,
     "devices": [
@@ -36558,20 +36572,6 @@
       "Satisfactory"
     ],
     "name": "Satisfactory"
-  },
-  "5275590": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__618",
-        "m": "M2007J20CG",
-        "s": "Adreno (TM) 618"
-      }
-    ],
-    "folders": [
-      "dirt_3"
-    ],
-    "name": "Dirt Town"
   },
   "530620": {
     "config_count": 3,
@@ -39310,11 +39310,10 @@
     "name": "Xenia"
   },
   "6880": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "Just_Cause",
-      "Just_Cause_2_-_Complete_Edition"
+      "Just_Cause"
     ],
     "name": "Just Cause"
   },
@@ -40584,11 +40583,12 @@
     "name": "Acodyssey"
   },
   "813780": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [],
     "folders": [
       "Age_of_Empires_II_HD",
-      "Age_of_Empires_II"
+      "Age_of_Empires_II",
+      "Age_of_Empires_II__2013_"
     ],
     "name": "Age of Empires II: Definitive Edition"
   },
@@ -40862,7 +40862,7 @@
     "name": "Cash Grab - Hat Pack"
   },
   "8190": {
-    "config_count": 32,
+    "config_count": 33,
     "devices": [
       {
         "d": "Odin2",
@@ -40957,7 +40957,8 @@
     ],
     "folders": [
       "Just_Cause_2",
-      "JustCause2"
+      "JustCause2",
+      "Just_Cause_2_-_Complete_Edition"
     ],
     "name": "Just Cause 2"
   },
@@ -43547,6 +43548,14 @@
     ],
     "name": "Bootstrappackagedgame"
   },
+  "name:call-of-duty-modern-warfare-3-2011": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Call_of_Duty_-_Modern_Warfare_3__2011_"
+    ],
+    "name": "Call Of Duty Modern Warfare 3 2011"
+  },
   "name:call-of-duty-world-at-war-game": {
     "config_count": 1,
     "devices": [
@@ -43911,20 +43920,6 @@
     ],
     "name": "Dirt Showdown"
   },
-  "name:dirt4": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__650",
-        "m": "G988N",
-        "s": "Adreno (TM) 650"
-      }
-    ],
-    "folders": [
-      "DiRT4"
-    ],
-    "name": "Dirt4"
-  },
   "name:dirtfish-dirt4": {
     "config_count": 1,
     "devices": [],
@@ -43962,14 +43957,6 @@
       "Dishonored_DO"
     ],
     "name": "Dishonored Do"
-  },
-  "name:divinity-2-developer-s-cut": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Divinity_2_Developer_s_Cut"
-    ],
-    "name": "Divinity 2 Developer S Cut"
   },
   "name:dlss-5-swapper": {
     "config_count": 1,
@@ -45314,14 +45301,6 @@
     ],
     "name": "Mohw"
   },
-  "name:monsterhunterrise": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "MonsterHunterRise"
-    ],
-    "name": "Monsterhunterrise"
-  },
   "name:mosscollection": {
     "config_count": 1,
     "devices": [],
@@ -45430,6 +45409,14 @@
       "NBA2K23"
     ],
     "name": "Nba2K23"
+  },
+  "name:need-for-speed-2005": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Need_for_speed__2005_"
+    ],
+    "name": "Need For Speed 2005"
   },
   "name:need-for-speed-black-edition": {
     "config_count": 1,
@@ -45642,14 +45629,6 @@
       "NieRAutomataCompat"
     ],
     "name": "Nierautomatacompat"
-  },
-  "name:nostalgia-5-0": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "nostalgia_5_0"
-    ],
-    "name": "Nostalgia 5 0"
   },
   "name:nsm-myst-chs": {
     "config_count": 1,
@@ -48930,20 +48909,6 @@
       "Wasteland_3_Colorado_Survival_Gear_DLC"
     ],
     "name": "Wasteland 3 Colorado Survival Gear Dlc"
-  },
-  "name:witcher-1": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__750",
-        "m": "V2425A",
-        "s": "Adreno (TM) 750"
-      }
-    ],
-    "folders": [
-      "Witcher_1"
-    ],
-    "name": "Witcher 1"
   },
   "name:wizard-school-exchange-student": {
     "config_count": 1,
