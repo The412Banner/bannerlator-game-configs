@@ -4010,6 +4010,20 @@
     ],
     "name": "Beach Buggy Racing 2 - Island Adventure"
   },
+  "12320": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred Gold"
+  },
   "1232460": {
     "config_count": 1,
     "devices": [
@@ -6661,13 +6675,12 @@
     "name": "Ghostwire: Tokyo"
   },
   "1476970": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "Legends_of_Idleon_MMO",
-      "mm"
+      "Legends_of_Idleon_MMO"
     ],
-    "name": "IdleOn - The Incremental MMO"
+    "name": "Legends Of Idleon Mmo"
   },
   "1479730": {
     "config_count": 1,
@@ -14022,7 +14035,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 127,
+    "config_count": 128,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -18183,12 +18196,17 @@
     "name": "Assassin\u2019s Creed\u00ae IV Black Flag\u2122"
   },
   "2420510": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
@@ -25425,7 +25443,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2254,
+    "config_count": 2255,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -31463,20 +31481,6 @@
     ],
     "name": "TEKKEN 7"
   },
-  "3906660": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred 2 Remaster"
-  },
   "3909960": {
     "config_count": 1,
     "devices": [
@@ -34905,6 +34909,14 @@
       "Planescape__Torment__Enhanced_Edition"
     ],
     "name": "Planescape: Torment: Enhanced Edition"
+  },
+  "466500": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "mm"
+    ],
+    "name": "35MM"
   },
   "4676340": {
     "config_count": 1,
