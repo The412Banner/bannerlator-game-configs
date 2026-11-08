@@ -29,7 +29,7 @@
     "name": "Fear & Hunger"
   },
   "1004640": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -76,17 +76,12 @@
     "name": "DiRT Rally 2.0 - Citro\u00ebn C4 Rally"
   },
   "10090": {
-    "config_count": 13,
+    "config_count": 17,
     "devices": [
       {
         "d": "Adreno__TM__730",
         "m": "23013PC75G",
         "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__750",
@@ -117,6 +112,11 @@
         "d": "Adreno__TM__660",
         "m": "2107113SG",
         "s": "Adreno (TM) 660"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
@@ -334,7 +334,7 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 2 (2009)"
   },
   "1020790": {
-    "config_count": 65,
+    "config_count": 66,
     "devices": [
       {
         "d": "SM8850",
@@ -360,11 +360,6 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__610",
@@ -460,6 +455,11 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -489,6 +489,14 @@
       "Kingdoms_of_Amalur_-_Reckoning"
     ],
     "name": "Kingdoms of Amalur: Reckoning\u2122"
+  },
+  "1026680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "FINAL_FANTASY_VIII_REMASTERED"
+    ],
+    "name": "FINAL FANTASY VIII - REMASTERED"
   },
   "10270": {
     "config_count": 2,
@@ -1570,7 +1578,7 @@
     "name": "Civilization V: Korea and Wonders of the Ancient World - Combo Pack "
   },
   "1110100": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -1579,7 +1587,8 @@
       }
     ],
     "folders": [
-      "BattleForTheGrid"
+      "BattleForTheGrid",
+      "Rangers"
     ],
     "name": "Power Rangers: Battle for the Grid"
   },
@@ -4698,7 +4707,7 @@
     "name": "Signalis"
   },
   "1262540": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "G52_MC2",
@@ -4724,7 +4733,8 @@
     "folders": [
       "Need_for_Speed_",
       "need_for_speed",
-      "need_for_speed_"
+      "need_for_speed_",
+      "Need_for_speed__2005_"
     ],
     "name": "Need for Speed\u2122"
   },
@@ -15887,7 +15897,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 322,
+    "config_count": 325,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -16876,7 +16886,7 @@
     "name": "Rise of Eros"
   },
   "234670": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "G68_MC4",
@@ -16909,14 +16919,14 @@
         "s": "Mali-G52 MC2"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__610",
@@ -16973,7 +16983,7 @@
     "name": "Invincible VS"
   },
   "235460": {
-    "config_count": 36,
+    "config_count": 37,
     "devices": [
       {
         "d": "G57",
@@ -17016,11 +17026,6 @@
         "s": "Adreno (TM) 650"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
@@ -17029,6 +17034,11 @@
         "d": "Adreno__TM__750",
         "m": "S928U",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__750",
@@ -17282,16 +17292,22 @@
     "name": "Europa Universalis IV"
   },
   "2369390": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
-      "Far_Cry"
+      "Far_Cry",
+      "FarCry"
     ],
     "name": "Far Cry\u00ae 6"
   },
@@ -17701,6 +17717,14 @@
       "Crypt_Custodian"
     ],
     "name": "Crypt Custodian"
+  },
+  "239550": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Age_of_Empires_II__2013_"
+    ],
+    "name": "Age of Empires II (2013): The Forgotten"
   },
   "2396240": {
     "config_count": 1,
@@ -23602,7 +23626,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -23623,10 +23647,16 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -23945,14 +23975,6 @@
       "Dungeon_Rampage"
     ],
     "name": "Dungeon Rampage Remastered"
-  },
-  "3054410": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Bushside Rangers"
   },
   "305620": {
     "config_count": 4,
@@ -25403,7 +25425,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2252,
+    "config_count": 2254,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -25939,11 +25961,6 @@
         "d": "Adreno__TM__830",
         "m": "RMX5011",
         "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G710_MC10",
-        "m": "Mali",
-        "s": "Mali-G710 MC10"
       },
       {
         "d": "Adreno__TM__610",
@@ -26719,6 +26736,11 @@
         "d": "Adreno__TM__640",
         "m": "G770F",
         "s": "Adreno (TM) 640"
+      },
+      {
+        "d": "G710_MC10",
+        "m": "Mali",
+        "s": "Mali-G710 MC10"
       },
       {
         "d": "Adreno__TM__830",
@@ -31813,7 +31835,7 @@
     "name": "Rise of the Tomb Raider\u2122"
   },
   "39150": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -31823,8 +31845,7 @@
     ],
     "folders": [
       "FINAL_FANTASY_VIII",
-      "FINAL_FANTASY_VIII_-_REMASTERED",
-      "FINAL_FANTASY_VIII_REMASTERED"
+      "FINAL_FANTASY_VIII_-_REMASTERED"
     ],
     "name": "FINAL FANTASY VIII"
   },
@@ -33456,7 +33477,7 @@
     "name": "Innocent Assault SS"
   },
   "42680": {
-    "config_count": 43,
+    "config_count": 44,
     "devices": [
       {
         "d": "Infinix_X6833B",
@@ -33550,7 +33571,8 @@
       }
     ],
     "folders": [
-      "Call_of_Duty___Modern_Warfare__3__2011_"
+      "Call_of_Duty___Modern_Warfare__3__2011_",
+      "Call_of_Duty_-_Modern_Warfare_3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
@@ -37106,7 +37128,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 21,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -37152,11 +37174,6 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -37165,8 +37182,7 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry",
-      "FarCry"
+      "far_cry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -40459,7 +40475,7 @@
     "name": "MXGP PRO"
   },
   "798460": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "G78",
@@ -40475,6 +40491,11 @@
         "d": "Adreno__TM__830",
         "m": "2510DPC44G",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__825",
@@ -40583,12 +40604,11 @@
     "name": "Acodyssey"
   },
   "813780": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "Age_of_Empires_II_HD",
-      "Age_of_Empires_II",
-      "Age_of_Empires_II__2013_"
+      "Age_of_Empires_II"
     ],
     "name": "Age of Empires II: Definitive Edition"
   },
@@ -42036,7 +42056,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 9,
+    "config_count": 7,
     "devices": [
       {
         "d": "G615_MC6",
@@ -42052,16 +42072,10 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -43547,14 +43561,6 @@
       "BootstrapPackagedGame"
     ],
     "name": "Bootstrappackagedgame"
-  },
-  "name:call-of-duty-modern-warfare-3-2011": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Call_of_Duty_-_Modern_Warfare_3__2011_"
-    ],
-    "name": "Call Of Duty Modern Warfare 3 2011"
   },
   "name:call-of-duty-world-at-war-game": {
     "config_count": 1,
@@ -45409,14 +45415,6 @@
       "NBA2K23"
     ],
     "name": "Nba2K23"
-  },
-  "name:need-for-speed-2005": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Need_for_speed__2005_"
-    ],
-    "name": "Need For Speed 2005"
   },
   "name:need-for-speed-black-edition": {
     "config_count": 1,
