@@ -209,7 +209,7 @@
     "name": "The Long Drive"
   },
   "10180": {
-    "config_count": 52,
+    "config_count": 53,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -325,6 +325,11 @@
         "d": "Adreno__TM__810",
         "m": "NX1",
         "s": "Adreno (TM) 810"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "24122RKC7G",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -4010,20 +4015,6 @@
     ],
     "name": "Beach Buggy Racing 2 - Island Adventure"
   },
-  "12320": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred Gold"
-  },
   "1232460": {
     "config_count": 1,
     "devices": [
@@ -6675,12 +6666,13 @@
     "name": "Ghostwire: Tokyo"
   },
   "1476970": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
-      "Legends_of_Idleon_MMO"
+      "Legends_of_Idleon_MMO",
+      "mm"
     ],
-    "name": "Legends Of Idleon Mmo"
+    "name": "IdleOn - The Incremental MMO"
   },
   "1479730": {
     "config_count": 1,
@@ -31481,6 +31473,20 @@
     ],
     "name": "TEKKEN 7"
   },
+  "3906660": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred 2 Remaster"
+  },
   "3909960": {
     "config_count": 1,
     "devices": [
@@ -34910,14 +34916,6 @@
     ],
     "name": "Planescape: Torment: Enhanced Edition"
   },
-  "466500": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "mm"
-    ],
-    "name": "35MM"
-  },
   "4676340": {
     "config_count": 1,
     "devices": [
@@ -35832,7 +35830,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -36034,7 +36032,7 @@
     "name": "Trails in the Sky 2nd Chapter Demo"
   },
   "50130": {
-    "config_count": 56,
+    "config_count": 57,
     "devices": [
       {
         "d": "MT6781",
@@ -36142,14 +36140,14 @@
         "s": "Mali-G615 MC2"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__619",
         "m": "V2317",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -37638,6 +37636,20 @@
       "SteamWorldDig"
     ],
     "name": "SteamWorld Dig 2"
+  },
+  "573830": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Tom_Clancy_s_Ghost_Recon__Wildlands"
+    ],
+    "name": "Tom Clancy\u2019s Ghost Recon\u00ae Wildlands - Season Pass Year 1"
   },
   "575623": {
     "config_count": 2,
