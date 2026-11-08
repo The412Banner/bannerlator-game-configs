@@ -6823,7 +6823,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 122,
+    "config_count": 123,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -8671,7 +8671,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 113,
+    "config_count": 115,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -8687,11 +8687,6 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       },
       {
         "d": "G52",
@@ -8737,6 +8732,11 @@
         "d": "PowerVR_Rogue_GE8320",
         "m": "moto_e22",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__618",
@@ -14959,7 +14959,7 @@
     "name": "Total Chaos"
   },
   "221040": {
-    "config_count": 79,
+    "config_count": 80,
     "devices": [
       {
         "d": "G720_MC7",
@@ -15295,7 +15295,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 18,
+    "config_count": 22,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -15334,7 +15334,9 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -15894,7 +15896,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 321,
+    "config_count": 322,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -16227,11 +16229,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
@@ -16245,6 +16242,11 @@
         "d": "G610_MC6",
         "m": "Mali",
         "s": "Mali-G610 MC6"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -17216,7 +17218,7 @@
     "name": "War Thunder"
   },
   "236430": {
-    "config_count": 21,
+    "config_count": 18,
     "devices": [
       {
         "d": "G720_MC7",
@@ -17252,22 +17254,11 @@
         "d": "Adreno__TM__619",
         "m": "22111317PG",
         "s": "Adreno (TM) 619"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
       "DARK_SOULS__II",
-      "DARK_SOULS_II",
-      "DarkSoulsII"
+      "DARK_SOULS_II"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -17300,22 +17291,16 @@
     "name": "Europa Universalis IV"
   },
   "2369390": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
-      "Far_Cry",
-      "FarCry"
+      "Far_Cry"
     ],
     "name": "Far Cry\u00ae 6"
   },
@@ -22498,7 +22483,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 35,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -22538,9 +22523,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "rerev",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -23379,7 +23362,7 @@
     "name": "Far Cry\u00ae 4"
   },
   "2988580": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -23415,6 +23398,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       },
       {
         "d": "Adreno__TM__840",
@@ -23631,7 +23619,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 7,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -23652,16 +23640,10 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -27243,14 +27225,6 @@
     ],
     "name": "Heretic + Hexen"
   },
-  "3287490": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GBVSR"
-    ],
-    "name": "GBVSR - Deluxe Character Pass 2"
-  },
   "3287520": {
     "config_count": 1,
     "devices": [],
@@ -28852,7 +28826,7 @@
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
   },
   "3493540": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G57_MC2",
@@ -29604,6 +29578,14 @@
     ],
     "name": "Mafia III: Definitive Edition"
   },
+  "3604390": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GBVSR"
+    ],
+    "name": "GBVSR - Additional Character Set (Galleon)"
+  },
   "361420": {
     "config_count": 2,
     "devices": [
@@ -30327,7 +30309,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 41,
+    "config_count": 44,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -30405,6 +30387,16 @@
         "s": "Adreno (TM) 830"
       },
       {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
+      },
+      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -30416,6 +30408,7 @@
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
       "DARK_SOULS_III",
+      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -36491,6 +36484,14 @@
     ],
     "name": "Da Capo"
   },
+  "5201760": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "tra"
+    ],
+    "name": "ARC Raiders - Frozen Trail Collector Set"
+  },
   "521890": {
     "config_count": 5,
     "devices": [
@@ -37130,7 +37131,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "G720_MC7",
@@ -37176,6 +37177,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -37184,7 +37190,8 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry"
+      "far_cry",
+      "FarCry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -41468,7 +41475,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 144,
+    "config_count": 145,
     "devices": [
       {
         "d": "s5e8855",
@@ -41696,6 +41703,11 @@
         "s": "Adreno (TM) 840"
       },
       {
+        "d": "Adreno__TM__840",
+        "m": "S948U1",
+        "s": "Adreno (TM) 840"
+      },
+      {
         "d": "Adreno__TM__750",
         "m": "NX769J",
         "s": "Adreno (TM) 750"
@@ -41709,6 +41721,7 @@
     "folders": [
       "Resident_Evil_2",
       "Resident_Evil_2_____________________________________________",
+      "Resident_Evil_2__2019_",
       "Resident_Evil_2__DX11_",
       "re2",
       "resident_evil_2"
@@ -42047,7 +42060,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 7,
+    "config_count": 9,
     "devices": [
       {
         "d": "G615_MC6",
@@ -42063,10 +42076,16 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -44360,14 +44379,6 @@
       "FFXIII"
     ],
     "name": "Ffxiii"
-  },
-  "name:fifa-20": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "FIFA_20"
-    ],
-    "name": "Fifa 20"
   },
   "name:fifa14": {
     "config_count": 1,
@@ -48123,20 +48134,6 @@
       "ResChanger"
     ],
     "name": "Reschanger"
-  },
-  "name:resident-evil-2-2019": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "S948U1",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "Resident_Evil_2__2019_"
-    ],
-    "name": "Resident Evil 2 2019"
   },
   "name:resident-evil-2-dx11": {
     "config_count": 1,
