@@ -719,7 +719,7 @@
     "name": "Mafia II: Definitive Edition"
   },
   "1030840": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -730,16 +730,10 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__829",
-        "m": "motorola_signature",
-        "s": "Adreno (TM) 829"
       }
     ],
     "folders": [
-      "Mafia__Definitive_Edition",
-      "Mafia_Definitive_Edition"
+      "Mafia__Definitive_Edition"
     ],
     "name": "Mafia: Definitive Edition"
   },
@@ -1735,20 +1729,6 @@
     ],
     "name": "People Playground"
   },
-  "1118272": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__618",
-        "m": "M2007J20CG",
-        "s": "Adreno (TM) 618"
-      }
-    ],
-    "folders": [
-      "dirt_3"
-    ],
-    "name": "DiRT Rally 2.0 - Peugeot 306 Maxi"
-  },
   "1118310": {
     "config_count": 1,
     "devices": [],
@@ -2055,14 +2035,6 @@
       "Icarus"
     ],
     "name": "Icarus"
-  },
-  "1150230": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "nostalgia_5_0"
-    ],
-    "name": "VR Nostalgia 5"
   },
   "1151380": {
     "config_count": 1,
@@ -6368,7 +6340,7 @@
     "name": "You Will Die Here Tonight"
   },
   "1446780": {
-    "config_count": 22,
+    "config_count": 21,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -6439,7 +6411,6 @@
     "folders": [
       "MONSTER_HUNTER_RISE",
       "MH_R",
-      "MonsterHunterRise",
       "Monster_Hunter_Rise"
     ],
     "name": "MONSTER HUNTER RISE"
@@ -7540,7 +7511,7 @@
     "name": "LEGO\u00ae Skylines"
   },
   "1574140": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -7549,7 +7520,6 @@
       }
     ],
     "folders": [
-      "DiRT4",
       "Dirt4"
     ],
     "name": "TIME FOR YOU - CHAPTER 02 - DIRTY THOUGHTS AND CORPORATE BOTS"
@@ -9651,7 +9621,7 @@
     "name": "STAR OCEAN THE DIVINE FORCE"
   },
   "1778820": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -9664,13 +9634,19 @@
         "s": "Adreno (TM) 750"
       },
       {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
+      },
+      {
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
-      "TEKKEN_8"
+      "TEKKEN_8",
+      "TEKKEN_7"
     ],
     "name": "TEKKEN 8"
   },
@@ -11128,18 +11104,24 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__830",
         "m": "N49",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__829",
+        "m": "motorola_signature",
+        "s": "Adreno (TM) 829"
       }
     ],
     "folders": [
       "MAFIA",
       "Mafia",
-      "Mafia_-_Definitive_Edition"
+      "Mafia_-_Definitive_Edition",
+      "Mafia_Definitive_Edition"
     ],
     "name": "Mafia: The Old Country"
   },
@@ -14445,14 +14427,6 @@
     ],
     "name": "Shave & Stuff"
   },
-  "219780": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Divinity_2_Developer_s_Cut"
-    ],
-    "name": "Divinity II: Developer's Cut"
-  },
   "21980": {
     "config_count": 1,
     "devices": [],
@@ -15390,7 +15364,7 @@
     "name": "Command & Conquer\u2122 Generals"
   },
   "22300": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -15427,7 +15401,8 @@
       "Fallout_3",
       "Fallout_3_-_Game_of_the_Year_Edition",
       "Fallout_3___________________________________________________",
-      "Fallout3"
+      "Fallout3",
+      "Fallout_3__Game_of_the_Year_Edition"
     ],
     "name": "Fallout 3"
   },
@@ -15527,14 +15502,6 @@
       "Contra_Galuga"
     ],
     "name": "Contra: Operation Galuga"
-  },
-  "22370": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Fallout_3__Game_of_the_Year_Edition"
-    ],
-    "name": "Fallout 3: Game of the Year Edition"
   },
   "22380": {
     "config_count": 20,
@@ -22883,7 +22850,7 @@
     "name": "Terrible Lizards"
   },
   "292030": {
-    "config_count": 20,
+    "config_count": 19,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -22916,11 +22883,6 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "V2425A",
-        "s": "Adreno (TM) 750"
-      },
-      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
@@ -22949,7 +22911,6 @@
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
       "The_Witcher_3_-_Wild_Hunt___Remastered",
-      "Witcher_1",
       "_Witcher",
       "witcher3"
     ],
@@ -31347,7 +31308,7 @@
     "name": "Pacer"
   },
   "389730": {
-    "config_count": 42,
+    "config_count": 41,
     "devices": [
       {
         "d": "SM8850",
@@ -36598,6 +36559,20 @@
     ],
     "name": "Satisfactory"
   },
+  "5275590": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__618",
+        "m": "M2007J20CG",
+        "s": "Adreno (TM) 618"
+      }
+    ],
+    "folders": [
+      "dirt_3"
+    ],
+    "name": "Dirt Town"
+  },
   "530620": {
     "config_count": 3,
     "devices": [
@@ -36865,7 +36840,7 @@
     "name": "RAGE 2"
   },
   "550": {
-    "config_count": 85,
+    "config_count": 86,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -39335,10 +39310,11 @@
     "name": "Xenia"
   },
   "6880": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
-      "Just_Cause"
+      "Just_Cause",
+      "Just_Cause_2_-_Complete_Edition"
     ],
     "name": "Just Cause"
   },
@@ -40886,7 +40862,7 @@
     "name": "Cash Grab - Hat Pack"
   },
   "8190": {
-    "config_count": 33,
+    "config_count": 32,
     "devices": [
       {
         "d": "Odin2",
@@ -40981,8 +40957,7 @@
     ],
     "folders": [
       "Just_Cause_2",
-      "JustCause2",
-      "Just_Cause_2_-_Complete_Edition"
+      "JustCause2"
     ],
     "name": "Just Cause 2"
   },
@@ -41475,7 +41450,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 145,
+    "config_count": 146,
     "devices": [
       {
         "d": "s5e8855",
@@ -43936,6 +43911,20 @@
     ],
     "name": "Dirt Showdown"
   },
+  "name:dirt4": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__650",
+        "m": "G988N",
+        "s": "Adreno (TM) 650"
+      }
+    ],
+    "folders": [
+      "DiRT4"
+    ],
+    "name": "Dirt4"
+  },
   "name:dirtfish-dirt4": {
     "config_count": 1,
     "devices": [],
@@ -43973,6 +43962,14 @@
       "Dishonored_DO"
     ],
     "name": "Dishonored Do"
+  },
+  "name:divinity-2-developer-s-cut": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Divinity_2_Developer_s_Cut"
+    ],
+    "name": "Divinity 2 Developer S Cut"
   },
   "name:dlss-5-swapper": {
     "config_count": 1,
@@ -45317,6 +45314,14 @@
     ],
     "name": "Mohw"
   },
+  "name:monsterhunterrise": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "MonsterHunterRise"
+    ],
+    "name": "Monsterhunterrise"
+  },
   "name:mosscollection": {
     "config_count": 1,
     "devices": [],
@@ -45637,6 +45642,14 @@
       "NieRAutomataCompat"
     ],
     "name": "Nierautomatacompat"
+  },
+  "name:nostalgia-5-0": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "nostalgia_5_0"
+    ],
+    "name": "Nostalgia 5 0"
   },
   "name:nsm-myst-chs": {
     "config_count": 1,
@@ -48917,6 +48930,20 @@
       "Wasteland_3_Colorado_Survival_Gear_DLC"
     ],
     "name": "Wasteland 3 Colorado Survival Gear Dlc"
+  },
+  "name:witcher-1": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "V2425A",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Witcher_1"
+    ],
+    "name": "Witcher 1"
   },
   "name:wizard-school-exchange-student": {
     "config_count": 1,
