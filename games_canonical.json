@@ -7323,7 +7323,7 @@
     "name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition"
   },
   "1547000": {
-    "config_count": 38,
+    "config_count": 39,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -11858,7 +11858,7 @@
     "name": "Wolfenstein: The New Order"
   },
   "201870": {
-    "config_count": 23,
+    "config_count": 25,
     "devices": [
       {
         "d": "G68_MC4",
@@ -11881,11 +11881,6 @@
         "s": "Mali-G615 MC6"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
@@ -11904,6 +11899,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -19047,7 +19047,7 @@
     "name": "FATAL FURY: City of the Wolves"
   },
   "2492670": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "G57_MC2",
@@ -25448,7 +25448,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2259,
+    "config_count": 2260,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -41513,7 +41513,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 145,
+    "config_count": 146,
     "devices": [
       {
         "d": "s5e8855",
@@ -41741,6 +41741,11 @@
         "s": "Adreno (TM) 840"
       },
       {
+        "d": "Adreno__TM__840",
+        "m": "S948U1",
+        "s": "Adreno (TM) 840"
+      },
+      {
         "d": "Adreno__TM__750",
         "m": "NX769J",
         "s": "Adreno (TM) 750"
@@ -41754,6 +41759,7 @@
     "folders": [
       "Resident_Evil_2",
       "Resident_Evil_2_____________________________________________",
+      "Resident_Evil_2__2019_",
       "Resident_Evil_2__DX11_",
       "re2",
       "resident_evil_2"
@@ -48165,20 +48171,6 @@
       "ResChanger"
     ],
     "name": "Reschanger"
-  },
-  "name:resident-evil-2-2019": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "S948U1",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "Resident_Evil_2__2019_"
-    ],
-    "name": "Resident Evil 2 2019"
   },
   "name:resident-evil-2-dx11": {
     "config_count": 1,
