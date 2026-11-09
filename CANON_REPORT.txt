@@ -1,16 +1,16 @@
-raw folders: 2956   total configs: 17346
+raw folders: 2956   total configs: 17347
 non-game (filtered out): 162
-MERGED canonical games (have appid): 2402
-  folders collapsed by merge: 816
+MERGED canonical games (have appid): 2401
+  folders collapsed by merge: 817
 still-unresolved real games (no appid): 714
-GAME-COUNT RATE: 2402/3116 = 77%  (vs 67% raw baseline)
-CONFIG-COVERAGE (matters for matching): 18096/19394 = 93%
+GAME-COUNT RATE: 2401/3115 = 77%  (vs 67% raw baseline)
+CONFIG-COVERAGE (matters for matching): 18098/19396 = 93%
 top-merged examples:
   appid 1665460: 23 folders, 115 configs, 27 devices  ['PES', 'PES_13', 'PES_2013']
-  appid 1262560: 17 folders, 67 configs, 22 devices  ['Need_For_Speed__Most_Wanted__2005_', 'Need_for_Speed_-_Most_Wanted________________________________', 'Need_for_Speed_Most_Wanted']
-  appid 1506830: 16 folders, 122 configs, 41 devices  ['FIFA_06_____________________________________________________', 'FIFA_13', 'FIFA_14']
-  appid 3240220: 16 folders, 2262 configs, 290 devices  ['Grand_Theft_Auto_5', 'Grand_Theft_Auto_V', 'Grand_Theft_Auto_V_']
+  appid 1262560: 18 folders, 68 configs, 23 devices  ['Need_For_Speed__Most_Wanted__2005_', 'Need_for_Speed_-_Most_Wanted________________________________', 'Need_for_Speed_Most_Wanted']
+  appid 1506830: 17 folders, 123 configs, 41 devices  ['FIFA_06_____________________________________________________', 'FIFA_13', 'FIFA_14']
+  appid 3240220: 16 folders, 2263 configs, 290 devices  ['Grand_Theft_Auto_5', 'Grand_Theft_Auto_V', 'Grand_Theft_Auto_V_']
   appid name:pes-2013: 16 folders, 3323 configs, 211 devices  ['PES2013', 'PES_2013_Fix', 'PES_2013_LEND_RIO_']
   appid 311210: 10 folders, 54 configs, 19 devices  ['BlackOps', 'Call_of_Duty_', 'Call_of_Duty_3______________________________________________']
   appid 292030: 10 folders, 20 configs, 11 devices  ['The_Witcher_3__Wild_Hunt_-_Complete_Edition', 'The_Witcher_3__Wild_Hunt___Remastered', 'The_Witcher_3']
-  appid 2050650: 9 folders, 87 configs, 22 devices  ['RE4', 'RE_4', 'Re4']
+  appid 2050650: 9 folders, 88 configs, 22 devices  ['RE4', 'RE_4', 'Re4']
