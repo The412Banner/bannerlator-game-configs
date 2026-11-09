@@ -4024,6 +4024,20 @@
     ],
     "name": "Beach Buggy Racing 2 - Island Adventure"
   },
+  "12320": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred Gold"
+  },
   "1232460": {
     "config_count": 1,
     "devices": [
@@ -9457,7 +9471,7 @@
     "name": "The Elder Scrolls V: Skyrim Anniversary Upgrade"
   },
   "17470": {
-    "config_count": 22,
+    "config_count": 23,
     "devices": [
       {
         "d": "Odin2",
@@ -9513,6 +9527,11 @@
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_5",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "25102PCBEG",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
@@ -11847,7 +11866,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11856,7 +11875,8 @@
       }
     ],
     "folders": [
-      "WolfNewOrder"
+      "WolfNewOrder",
+      "Wolfenstein__2009_"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -17943,6 +17963,14 @@
     ],
     "name": "MOUSE: P.I. For Hire"
   },
+  "2417610": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Metal_Gear_Solid"
+    ],
+    "name": "METAL GEAR SOLID \u0394: SNAKE EATER"
+  },
   "241930": {
     "config_count": 10,
     "devices": [
@@ -19041,7 +19069,7 @@
     "name": "FATAL FURY: City of the Wolves"
   },
   "2492670": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "G57_MC2",
@@ -19052,8 +19080,7 @@
     "folders": [
       "METAL_GEAR_SOLID_4__Guns_of_the_Patriots_-_Master_Collection_Version",
       "VERS_O_DEMO_DE_DRAGON_BALL_Z__KAKAROT",
-      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version",
-      "Metal_Gear_Solid"
+      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version"
     ],
     "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version"
   },
@@ -23644,7 +23671,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -23665,10 +23692,16 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -25445,7 +25478,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2263,
+    "config_count": 2266,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -26303,11 +26336,6 @@
         "s": "PowerVR Rogue GE8320"
       },
       {
-        "d": "Adreno__TM__619",
-        "m": "moto_g84_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__735",
         "m": "24069PC21I",
         "s": "Adreno (TM) 735"
@@ -26761,6 +26789,11 @@
         "d": "Adreno__TM__722",
         "m": "NX9",
         "s": "Adreno (TM) 722"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g84_5G",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__830",
@@ -31485,20 +31518,6 @@
       "Tekken_7"
     ],
     "name": "TEKKEN 7"
-  },
-  "3906660": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred 2 Remaster"
   },
   "3909960": {
     "config_count": 1,
@@ -38326,7 +38345,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -42115,7 +42134,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 9,
+    "config_count": 7,
     "devices": [
       {
         "d": "G615_MC6",
@@ -42131,16 +42150,10 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -46012,7 +46025,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3323,
+    "config_count": 3324,
     "devices": [
       {
         "d": "G52_MC2",
@@ -46880,11 +46893,6 @@
         "s": "Adreno (TM) 730"
       },
       {
-        "d": "Immortalis_MC11",
-        "m": "G925",
-        "s": "Mali-G925-Immortalis MC11"
-      },
-      {
         "d": "ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_",
         "m": "A576B",
         "s": "ANGLE ((Samsung Xclipse 550) on Vulkan 1.4.304)"
@@ -47048,6 +47056,11 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "Immortalis_MC11",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC11"
       },
       {
         "d": "Adreno__TM__740",
@@ -48166,6 +48179,20 @@
       "RecCloud_Multi_Monitor_Capture"
     ],
     "name": "Reccloud Multi Monitor Capture"
+  },
+  "name:red-win64-shipping-eac-nop-loaded": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "RED-Win64-Shipping-eac-nop-loaded"
+    ],
+    "name": "Red Win64 Shipping Eac Nop Loaded"
   },
   "name:redout-enhanced-edition-select-win64-exe": {
     "config_count": 1,
