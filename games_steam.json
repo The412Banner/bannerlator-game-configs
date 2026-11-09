@@ -997,7 +997,6 @@
   },
   "Black_Mesa": {
     "appid": 362890,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/362890/header.jpg",
     "method": "naive",
     "steam_name": "Black Mesa"
   },
@@ -5715,6 +5714,10 @@
     "appid": null,
     "method": "unresolved"
   },
+  "L2_Impulse_": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "L4D2_Launcher": {
     "appid": null,
     "method": "non-game"
@@ -7602,7 +7605,6 @@
   },
   "Neon_Echo": {
     "appid": 2321210,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2321210/header.jpg",
     "method": "naive",
     "steam_name": "Neon Echo"
   },

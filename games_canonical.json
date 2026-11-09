@@ -2766,7 +2766,7 @@
     "name": "Creatry \u2014 Easy Game Maker & Game Builder App"
   },
   "1196590": {
-    "config_count": 43,
+    "config_count": 44,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -3157,7 +3157,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 486,
+    "config_count": 488,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3590,11 +3590,6 @@
         "s": "Mali-G720 MC8"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
@@ -3608,6 +3603,11 @@
         "d": "G52",
         "m": "Mali",
         "s": "Mali-G52"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__735",
@@ -11852,7 +11852,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11861,7 +11861,8 @@
       }
     ],
     "folders": [
-      "WolfNewOrder"
+      "WolfNewOrder",
+      "Wolfenstein__2009_"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -14327,7 +14328,7 @@
     "name": "LIFTED"
   },
   "2184260": {
-    "config_count": 26,
+    "config_count": 27,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -14403,6 +14404,11 @@
         "d": "G76",
         "m": "Mali",
         "s": "Mali-G76"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "2312DRA50G",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__750",
@@ -17345,16 +17351,22 @@
     "name": "Europa Universalis IV"
   },
   "2369390": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__730",
         "m": "S908E",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
-      "Far_Cry"
+      "Far_Cry",
+      "FarCry"
     ],
     "name": "Far Cry\u00ae 6"
   },
@@ -18868,6 +18880,40 @@
     ],
     "name": "SimCity\u2122 4 Deluxe Edition"
   },
+  "2478970": {
+    "config_count": 16,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
+      }
+    ],
+    "folders": [
+      "TombRaider"
+    ],
+    "name": "Tomb Raider I-III Remastered Starring Lara Croft"
+  },
   "24790": {
     "config_count": 2,
     "devices": [
@@ -19465,40 +19511,6 @@
       "Denshattack_"
     ],
     "name": "Denshattack"
-  },
-  "2525380": {
-    "config_count": 16,
-    "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
-      }
-    ],
-    "folders": [
-      "TombRaider"
-    ],
-    "name": "Tomb Raider IV-VI Remastered"
   },
   "2527160": {
     "config_count": 3,
@@ -37234,7 +37246,7 @@
     "name": "Saints Row: The Third"
   },
   "552520": {
-    "config_count": 21,
+    "config_count": 20,
     "devices": [
       {
         "d": "G720_MC7",
@@ -37280,11 +37292,6 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47I",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -37293,8 +37300,7 @@
       "Far_Cry_5___________________________________________________",
       "Far_Cry__5",
       "Far_Cry_____________________________________________________",
-      "far_cry",
-      "FarCry"
+      "far_cry"
     ],
     "name": "Far Cry\u00ae 5"
   },
@@ -38401,7 +38407,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -43668,7 +43674,7 @@
     "name": "Bob Esponja Titanes De La Marina"
   },
   "name:bootstrappackagedgame": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -46081,7 +46087,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3324,
+    "config_count": 3325,
     "devices": [
       {
         "d": "G52_MC2",
