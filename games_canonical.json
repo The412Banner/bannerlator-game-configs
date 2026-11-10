@@ -10835,7 +10835,7 @@
     "name": "An Indie Game a Month: Unreal Journey"
   },
   "1890183": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -10856,6 +10856,11 @@
         "d": "Adreno__TM__830",
         "m": "NP05J",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "I2407",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
@@ -23711,7 +23716,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 7,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -23732,16 +23737,10 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -25521,7 +25520,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2278,
+    "config_count": 2279,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -28954,7 +28953,7 @@
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
   },
   "3493540": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G57_MC2",
@@ -36670,6 +36669,14 @@
     ],
     "name": "Da Capo"
   },
+  "5201760": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "tra"
+    ],
+    "name": "ARC Raiders - Frozen Trail Collector Set"
+  },
   "521890": {
     "config_count": 5,
     "devices": [
@@ -42259,7 +42266,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 7,
+    "config_count": 9,
     "devices": [
       {
         "d": "G615_MC6",
@@ -42275,10 +42282,16 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
