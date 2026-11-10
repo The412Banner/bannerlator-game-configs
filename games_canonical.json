@@ -38196,7 +38196,7 @@
     "name": "Attack on Titan 2 - A.O.T.2"
   },
   "601150": {
-    "config_count": 52,
+    "config_count": 53,
     "devices": [
       {
         "d": "unknown",
@@ -38311,6 +38311,11 @@
       {
         "d": "Adreno__TM__840",
         "m": "V2546A",
+        "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "F971B",
         "s": "Adreno (TM) 840"
       }
     ],
