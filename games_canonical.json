@@ -15034,7 +15034,7 @@
     "name": "Total Chaos"
   },
   "221040": {
-    "config_count": 80,
+    "config_count": 81,
     "devices": [
       {
         "d": "G720_MC7",
@@ -15180,6 +15180,11 @@
         "d": "Adreno__TM__710",
         "m": "I2219",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "S908U1",
+        "s": "Adreno (TM) 730"
       },
       {
         "d": "Adreno__TM__720",
@@ -15370,7 +15375,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 21,
+    "config_count": 18,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -15409,8 +15414,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -19506,40 +19510,6 @@
     ],
     "name": "Denshattack"
   },
-  "2525380": {
-    "config_count": 16,
-    "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
-      }
-    ],
-    "folders": [
-      "TombRaider"
-    ],
-    "name": "Tomb Raider IV-VI Remastered"
-  },
   "2527160": {
     "config_count": 3,
     "devices": [],
@@ -22595,7 +22565,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 35,
     "devices": [
       {
         "d": "G615_MC2",
@@ -22636,6 +22606,7 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
+      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -24760,14 +24731,6 @@
     ],
     "name": "FINAL FANTASY XIV Online Free Trial"
   },
-  "3120600": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "RoomGirl"
-    ],
-    "name": "VR Harem Life ~ Your Room Became a Hang-Out for Girls!? ~"
-  },
   "3121490": {
     "config_count": 1,
     "devices": [
@@ -25546,7 +25509,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2273,
+    "config_count": 2277,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -26239,11 +26202,6 @@
         "s": "Adreno (TM) 610"
       },
       {
-        "d": "G72",
-        "m": "Mali",
-        "s": "Mali-G72"
-      },
-      {
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
@@ -26862,6 +26820,11 @@
         "d": "Adreno__TM__610",
         "m": "CPH2363",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "G72",
+        "m": "Mali",
+        "s": "Mali-G72"
       },
       {
         "d": "Adreno__TM__830",
@@ -28681,14 +28644,6 @@
     ],
     "name": "RealFlight Evolution \u2013 E-flite UMX Cirrus SR22T"
   },
-  "34830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper: Ghost Warrior"
-  },
   "3483510": {
     "config_count": 3,
     "devices": [
@@ -28982,7 +28937,7 @@
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
   },
   "3493540": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G57_MC2",
@@ -29423,16 +29378,42 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 4,
+    "config_count": 20,
     "devices": [
       {
         "d": "G57_MC4",
         "m": "Mali",
         "s": "Mali-G57 MC4"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
-      "Atla"
+      "Atla",
+      "TombRaider"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -30201,6 +30182,14 @@
       "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
+  },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 2,
@@ -33593,6 +33582,14 @@
     ],
     "name": "Little Nightmares"
   },
+  "4250010": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "RoomGirl"
+    ],
+    "name": "My Roommate is a cute Ghost Girl!?"
+  },
   "425220": {
     "config_count": 1,
     "devices": [
@@ -36647,6 +36644,14 @@
       "dacapo"
     ],
     "name": "Da Capo"
+  },
+  "5201760": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "tra"
+    ],
+    "name": "ARC Raiders - Frozen Trail Collector Set"
   },
   "521890": {
     "config_count": 5,
