@@ -5855,7 +5855,7 @@
     "name": "Monster Harvest"
   },
   "1364780": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -5866,16 +5866,10 @@
         "d": "PowerVR_Rogue_GE8320",
         "m": "A045F",
         "s": "PowerVR Rogue GE8320"
-      },
-      {
-        "d": "Adreno__TM__720",
-        "m": "CPH2613",
-        "s": "Adreno (TM) 720"
       }
     ],
     "folders": [
-      "Street_Fighter__6",
-      "StreetFighterV"
+      "Street_Fighter__6"
     ],
     "name": "Street Fighter\u2122 6"
   },
@@ -6858,7 +6852,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 121,
+    "config_count": 123,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -7059,6 +7053,11 @@
         "d": "Adreno__TM__840",
         "m": "S942U",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
@@ -7077,7 +7076,8 @@
       "FIFA_23",
       "Fifa_19",
       "FIFA22",
-      "FIFA_12"
+      "FIFA_12",
+      "fifa_12"
     ],
     "name": "FIFA 22"
   },
@@ -13525,6 +13525,30 @@
     ],
     "name": "Sonic & All-Stars Racing Transformed Collection"
   },
+  "212580": {
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__710",
+        "m": "motorola_edge_50_fusion",
+        "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__620",
+        "m": "I2011",
+        "s": "Adreno (TM) 620"
+      },
+      {
+        "d": "Adreno__TM__642L",
+        "m": "A528B",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "The_Amazing_Spider-Man"
+    ],
+    "name": "The Amazing Spider-Man"
+  },
   "212680": {
     "config_count": 1,
     "devices": [],
@@ -17301,7 +17325,7 @@
     "name": "War Thunder"
   },
   "236430": {
-    "config_count": 18,
+    "config_count": 21,
     "devices": [
       {
         "d": "G720_MC7",
@@ -17337,11 +17361,22 @@
         "d": "Adreno__TM__619",
         "m": "22111317PG",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
       "DARK_SOULS__II",
-      "DARK_SOULS_II"
+      "DARK_SOULS_II",
+      "DarkSoulsII"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -23477,7 +23512,7 @@
     "name": "Far Cry\u00ae 4"
   },
   "2988580": {
-    "config_count": 10,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -23518,10 +23553,21 @@
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "I2304",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
-      "Yakuza_0"
+      "Yakuza_0",
+      "Yakuza0"
     ],
     "name": "Yakuza 0 Director's Cut"
   },
@@ -30457,7 +30503,7 @@
     "name": "G-Rebels Demo"
   },
   "374320": {
-    "config_count": 44,
+    "config_count": 37,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -30535,16 +30581,6 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -30556,7 +30592,6 @@
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
       "DARK_SOULS_III",
-      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -32970,6 +33005,14 @@
     ],
     "name": "Z.A.T.O. - Digital Art Pack"
   },
+  "4123760": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Football_Life_2026"
+    ],
+    "name": "Football Life"
+  },
   "4126040": {
     "config_count": 1,
     "devices": [
@@ -34323,6 +34366,20 @@
       "World_of_Tanks_Blitz"
     ],
     "name": "World of Tanks Blitz"
+  },
+  "444680": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__720",
+        "m": "CPH2613",
+        "s": "Adreno (TM) 720"
+      }
+    ],
+    "folders": [
+      "StreetFighterV"
+    ],
+    "name": "Street Fighter V Original Soundtrack"
   },
   "44500": {
     "config_count": 7,
@@ -37584,7 +37641,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 57,
+    "config_count": 61,
     "devices": [
       {
         "d": "G57",
@@ -37715,7 +37772,9 @@
     "folders": [
       "DARK_SOULS__REMASTERED",
       "DARK_SOULS___REMASTERED",
+      "DARKSOULS",
       "DARK_SOULS_-_REMASTERED",
+      "DarkSoulsRemastered",
       "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
@@ -44518,28 +44577,6 @@
     ],
     "name": "Ffxiii"
   },
-  "name:fifa-12": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__710",
-        "m": "NX1",
-        "s": "Adreno (TM) 710"
-      }
-    ],
-    "folders": [
-      "fifa_12"
-    ],
-    "name": "Fifa 12"
-  },
-  "name:fifa-20": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "FIFA_20"
-    ],
-    "name": "Fifa 20"
-  },
   "name:fifa14": {
     "config_count": 1,
     "devices": [],
@@ -44640,14 +44677,6 @@
       "Final_Fantasy_Renaissance"
     ],
     "name": "Final Fantasy Renaissance"
-  },
-  "name:football-life-2026": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Football_Life_2026"
-    ],
-    "name": "Football Life 2026"
   },
   "name:frozen-throne": {
     "config_count": 1,
@@ -48839,25 +48868,6 @@
     ],
     "name": "Tesv"
   },
-  "name:the-amazing-spider-man": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__710",
-        "m": "motorola_edge_50_fusion",
-        "s": "Adreno (TM) 710"
-      },
-      {
-        "d": "Adreno__TM__620",
-        "m": "I2011",
-        "s": "Adreno (TM) 620"
-      }
-    ],
-    "folders": [
-      "The_Amazing_Spider-Man"
-    ],
-    "name": "The Amazing Spider Man"
-  },
   "name:the-amazing-spider-man-2": {
     "config_count": 3,
     "devices": [],
@@ -49174,25 +49184,6 @@
       "XR_3DA"
     ],
     "name": "Xr 3Da"
-  },
-  "name:yakuza0": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "NX809J",
-        "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "I2304",
-        "s": "Adreno (TM) 740"
-      }
-    ],
-    "folders": [
-      "Yakuza0"
-    ],
-    "name": "Yakuza0"
   },
   "name:yanderesimjan2nd": {
     "config_count": 1,
