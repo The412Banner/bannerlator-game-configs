@@ -2079,6 +2079,12 @@
     "method": "naive",
     "steam_name": "DARK SOULS\u2122: REMASTERED"
   },
+  "DARQ": {
+    "appid": 433550,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/433550/header.jpg",
+    "method": "naive",
+    "steam_name": "DARQ: Complete Edition"
+  },
   "DAVE_THE_DIVER": {
     "appid": 1868140,
     "method": "naive",
@@ -10330,6 +10336,10 @@
     "appid": 17390,
     "method": "norm",
     "steam_name": "SPORE\u2122"
+  },
+  "Sports_Interactive_Ltd": {
+    "appid": null,
+    "method": "unresolved"
   },
   "Spyro__Reignited_Trilogy": {
     "appid": 996580,
