@@ -23029,7 +23029,7 @@
     "name": "Terrible Lizards"
   },
   "292030": {
-    "config_count": 20,
+    "config_count": 19,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -23062,11 +23062,6 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "V2425A",
-        "s": "Adreno (TM) 750"
-      },
-      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
@@ -23095,7 +23090,6 @@
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
       "The_Witcher_3_-_Wild_Hunt___Remastered",
-      "Witcher_1",
       "_Witcher",
       "witcher3"
     ],
@@ -31750,7 +31744,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 226,
+    "config_count": 227,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -45277,6 +45271,14 @@
     ],
     "name": "Holocure An Unofficial Fan Game"
   },
+  "name:horizon-zero-dawn-u2122-complete-edition": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Horizon_Zero_Dawn_u2122_Complete_Edition"
+    ],
+    "name": "Horizon Zero Dawn U2122 Complete Edition"
+  },
   "name:horizonchase2": {
     "config_count": 1,
     "devices": [
@@ -46323,7 +46325,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3334,
+    "config_count": 3335,
     "devices": [
       {
         "d": "G52_MC2",
@@ -49321,6 +49323,20 @@
       "Wasteland_3_Colorado_Survival_Gear_DLC"
     ],
     "name": "Wasteland 3 Colorado Survival Gear Dlc"
+  },
+  "name:witcher-1": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "V2425A",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Witcher_1"
+    ],
+    "name": "Witcher 1"
   },
   "name:wizard-school-exchange-student": {
     "config_count": 1,
