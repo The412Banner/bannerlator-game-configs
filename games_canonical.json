@@ -7588,7 +7588,7 @@
     "name": "LEGO\u00ae Skylines"
   },
   "1574140": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -7597,7 +7597,6 @@
       }
     ],
     "folders": [
-      "DiRT4",
       "Dirt4"
     ],
     "name": "TIME FOR YOU - CHAPTER 02 - DIRTY THOUGHTS AND CORPORATE BOTS"
@@ -30540,7 +30539,7 @@
     "name": "Bruisers 2D Boxing"
   },
   "374320": {
-    "config_count": 44,
+    "config_count": 47,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -30631,6 +30630,11 @@
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "S928B",
+        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
@@ -30641,7 +30645,8 @@
       "DARK_SOULS_III",
       "DarkSoulsII",
       "DarkSoulsIII",
-      "Dark_Souls_III"
+      "Dark_Souls_III",
+      "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122 III"
   },
@@ -37735,7 +37740,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 57,
+    "config_count": 54,
     "devices": [
       {
         "d": "G57",
@@ -37856,18 +37861,12 @@
         "d": "Adreno__TM__810",
         "m": "NX1",
         "s": "Adreno (TM) 810"
-      },
-      {
-        "d": "Adreno__TM__660",
-        "m": "S928B",
-        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
       "DARK_SOULS__REMASTERED",
       "DARK_SOULS___REMASTERED",
-      "DARK_SOULS_-_REMASTERED",
-      "Dark_Souls_Remastered"
+      "DARK_SOULS_-_REMASTERED"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
   },
@@ -44235,6 +44234,20 @@
       "Dirt_Showdown"
     ],
     "name": "Dirt Showdown"
+  },
+  "name:dirt4": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__650",
+        "m": "G988N",
+        "s": "Adreno (TM) 650"
+      }
+    ],
+    "folders": [
+      "DiRT4"
+    ],
+    "name": "Dirt4"
   },
   "name:dirtfish-dirt4": {
     "config_count": 1,
