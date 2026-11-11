@@ -286,6 +286,10 @@
     "method": "norm",
     "steam_name": "Amnesia: The Bunker"
   },
+  "AmnesiaTheBunker_NoSteam": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "Among_Us": {
     "appid": 945360,
     "method": "naive",
@@ -5009,7 +5013,6 @@
   },
   "Hell_Let_Loose__Vietnam": {
     "appid": 3079210,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3079210/header.jpg",
     "method": "naive",
     "steam_name": "Hell Let Loose: Vietnam"
   },
@@ -7224,6 +7227,10 @@
     "appid": 349040,
     "method": "naive",
     "steam_name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
+  },
+  "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4_EVOLUTION_": {
+    "appid": null,
+    "method": "unresolved"
   },
   "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_Revolution": {
     "appid": 272510,
