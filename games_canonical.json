@@ -15831,7 +15831,7 @@
     "name": "Squirrel Launcher"
   },
   "2254890": {
-    "config_count": 25,
+    "config_count": 26,
     "devices": [
       {
         "d": "G720_MC8",
@@ -15887,6 +15887,11 @@
         "d": "Adreno__TM__650",
         "m": "22081281AC",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
