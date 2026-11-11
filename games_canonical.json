@@ -349,7 +349,7 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 2 (2009)"
   },
   "1020790": {
-    "config_count": 66,
+    "config_count": 67,
     "devices": [
       {
         "d": "SM8850",
@@ -370,11 +370,6 @@
         "d": "Adreno__TM__732",
         "m": "2410CRP4CG",
         "s": "Adreno (TM) 732"
-      },
-      {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__610",
@@ -475,6 +470,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
