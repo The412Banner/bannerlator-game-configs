@@ -4038,6 +4038,20 @@
     ],
     "name": "Beach Buggy Racing 2 - Island Adventure"
   },
+  "12320": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred Gold"
+  },
   "1232460": {
     "config_count": 1,
     "devices": [
@@ -7101,7 +7115,7 @@
     "name": "Pico Park"
   },
   "15100": {
-    "config_count": 15,
+    "config_count": 21,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -7132,10 +7146,21 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "V2502",
+        "s": "Adreno (TM) 810"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "I2218",
+        "s": "Adreno (TM) 720"
       }
     ],
     "folders": [
-      "Assassin_s_Creed___Director_s_Cut_Edition"
+      "Assassin_s_Creed___Director_s_Cut_Edition",
+      "Assassin_s_Creed"
     ],
     "name": "Assassin's Creed\u2122: Director's Cut Edition"
   },
@@ -11891,7 +11916,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11900,8 +11925,7 @@
       }
     ],
     "folders": [
-      "WolfNewOrder",
-      "Wolfenstein__2009_"
+      "WolfNewOrder"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -15385,7 +15409,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 22,
+    "config_count": 21,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -15425,8 +15449,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -22595,7 +22618,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -22635,7 +22658,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -24362,6 +24386,20 @@
     ],
     "name": "Mortal Kombat X"
   },
+  "3079210": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
+      }
+    ],
+    "folders": [
+      "Hell_Let_Loose__Vietnam"
+    ],
+    "name": "Hell Let Loose: Vietnam"
+  },
   "3088070": {
     "config_count": 1,
     "devices": [],
@@ -25033,24 +25071,12 @@
     "name": "Football Life Simulator"
   },
   "3159330": {
-    "config_count": 8,
-    "devices": [
-      {
-        "d": "Adreno__TM__810",
-        "m": "V2502",
-        "s": "Adreno (TM) 810"
-      },
-      {
-        "d": "Adreno__TM__720",
-        "m": "I2218",
-        "s": "Adreno (TM) 720"
-      }
-    ],
+    "config_count": 3,
+    "devices": [],
     "folders": [
       "Assassin_S_creed_3_",
       "Assassin_s_Creed_________",
-      "Assassin_s_Creed____________________________________________",
-      "Assassin_s_Creed"
+      "Assassin_s_Creed____________________________________________"
     ],
     "name": "Assassin\u2019s Creed Shadows"
   },
@@ -31692,20 +31718,6 @@
       "Tekken_7"
     ],
     "name": "TEKKEN 7"
-  },
-  "3906660": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred 2 Remaster"
   },
   "3909960": {
     "config_count": 1,
@@ -38578,7 +38590,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__830",
