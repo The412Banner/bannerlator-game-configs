@@ -25602,7 +25602,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2288,
+    "config_count": 2289,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -26755,11 +26755,6 @@
         "s": "Adreno (TM) 619"
       },
       {
-        "d": "G77_MC9",
-        "m": "Mali",
-        "s": "Mali-G77 MC9"
-      },
-      {
         "d": "Adreno__TM__618",
         "m": "RMX2170",
         "s": "Adreno (TM) 618"
@@ -26928,6 +26923,11 @@
         "d": "G610_MC6",
         "m": "Mali",
         "s": "Mali-G610 MC6"
+      },
+      {
+        "d": "G77_MC9",
+        "m": "Mali",
+        "s": "Mali-G77 MC9"
       },
       {
         "d": "Adreno__TM__830",
@@ -34412,7 +34412,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "G57_MC2",
@@ -34423,11 +34423,22 @@
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_5",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
       }
     ],
     "folders": [
       "COD_MW4",
       "Call_of_Duty_4",
+      "Call_of_Duty___Modern_Warfare_",
       "COD__Modern_Warfare",
       "Call_of_Duty_4_Modern_Warfare",
       "Call_of_duty_Modern_Warfare",
@@ -43626,6 +43637,14 @@
     ],
     "name": "Assassinscreed Dx9"
   },
+  "name:astoneshard": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "AStoneShard"
+    ],
+    "name": "Astoneshard"
+  },
   "name:autoplay-menu-builder": {
     "config_count": 1,
     "devices": [],
@@ -46293,7 +46312,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3333,
+    "config_count": 3334,
     "devices": [
       {
         "d": "G52_MC2",

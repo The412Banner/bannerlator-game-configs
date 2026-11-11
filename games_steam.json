@@ -395,6 +395,10 @@
     "method": "fuzzy",
     "steam_name": "Ashes Cricket"
   },
+  "Asperox_Sar__G__": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "Asphalt9_epic_x64_rtl": {
     "appid": null,
     "method": "unresolved"
@@ -1444,6 +1448,12 @@
     "appid": 209160,
     "method": "naive",
     "steam_name": "Call of Duty\u00ae: Ghosts"
+  },
+  "Call_of_Duty___Modern_Warfare_": {
+    "appid": 4435490,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/4435490/header.jpg",
+    "method": "naive",
+    "steam_name": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
   },
   "Call_of_Duty___Modern_Warfare__2__2009_": {
     "appid": 10180,
