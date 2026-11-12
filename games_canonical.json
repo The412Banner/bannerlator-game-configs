@@ -4039,6 +4039,20 @@
     ],
     "name": "Beach Buggy Racing 2 - Island Adventure"
   },
+  "12320": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred Gold"
+  },
   "1232460": {
     "config_count": 1,
     "devices": [
@@ -11907,7 +11921,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11916,8 +11930,7 @@
       }
     ],
     "folders": [
-      "WolfNewOrder",
-      "Wolfenstein__2009_"
+      "WolfNewOrder"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -18052,6 +18065,14 @@
     ],
     "name": "MOUSE: P.I. For Hire"
   },
+  "2417610": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Metal_Gear_Solid"
+    ],
+    "name": "METAL GEAR SOLID \u0394: SNAKE EATER"
+  },
   "241930": {
     "config_count": 10,
     "devices": [
@@ -19150,7 +19171,7 @@
     "name": "FATAL FURY: City of the Wolves"
   },
   "2492670": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "G57_MC2",
@@ -19161,8 +19182,7 @@
     "folders": [
       "METAL_GEAR_SOLID_4__Guns_of_the_Patriots_-_Master_Collection_Version",
       "VERS_O_DEMO_DE_DRAGON_BALL_Z__KAKAROT",
-      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version",
-      "Metal_Gear_Solid"
+      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version"
     ],
     "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version"
   },
@@ -19443,7 +19463,7 @@
     "name": "Test Drive Unlimited Solar Crown - Ford GT 2006"
   },
   "251570": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "7_Days_to_Die"
@@ -19555,7 +19575,7 @@
     "name": "Denshattack"
   },
   "2524890": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G57_MC2",
@@ -19564,8 +19584,7 @@
       }
     ],
     "folders": [
-      "Pixel_Gun_3D__PC_Edition",
-      "GUN"
+      "Pixel_Gun_3D__PC_Edition"
     ],
     "name": "Pixel Gun 3D: PC Edition"
   },
@@ -21194,7 +21213,7 @@
     "name": "Palia"
   },
   "270880": {
-    "config_count": 33,
+    "config_count": 32,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -21250,17 +21269,11 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g_8__plus",
-        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
       "American_Truck_Simulator",
-      "American_truck_simulator",
-      "tru"
+      "American_truck_simulator"
     ],
     "name": "American Truck Simulator"
   },
@@ -22130,7 +22143,7 @@
     "name": "Nunholy"
   },
   "2856190": {
-    "config_count": 133,
+    "config_count": 134,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -22303,14 +22316,14 @@
         "s": "Mali-G57"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -25628,7 +25641,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2312,
+    "config_count": 2317,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -27108,6 +27121,7 @@
       "PlayGTAV",
       "_____5",
       "gta_5",
+      "gta_v",
       "GTA5",
       "GTA5_Enhanced",
       "GTA_V",
@@ -28777,14 +28791,6 @@
     ],
     "name": "RealFlight Evolution \u2013 E-flite UMX Cirrus SR22T"
   },
-  "34830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper: Ghost Warrior"
-  },
   "3483510": {
     "config_count": 3,
     "devices": [
@@ -30329,6 +30335,14 @@
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
+  },
   "3681010": {
     "config_count": 2,
     "devices": [
@@ -31159,6 +31173,20 @@
     ],
     "name": "Fishing Planet"
   },
+  "3809270": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g_8__plus",
+        "s": "Adreno (TM) 610"
+      }
+    ],
+    "folders": [
+      "tru"
+    ],
+    "name": "Euro Truck Simulator 2 - Coaches"
+  },
   "3809910": {
     "config_count": 1,
     "devices": [
@@ -31758,20 +31786,6 @@
       "Tekken_7"
     ],
     "name": "TEKKEN 7"
-  },
-  "3906660": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred 2 Remaster"
   },
   "3909960": {
     "config_count": 1,
@@ -35300,6 +35314,14 @@
     ],
     "name": "Halloween: Digital Deluxe Upgrade"
   },
+  "4687860": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GUN"
+    ],
+    "name": "Guns and Dragons"
+  },
   "4704690": {
     "config_count": 2,
     "devices": [
@@ -38674,7 +38696,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__830",
