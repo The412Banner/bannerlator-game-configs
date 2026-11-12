@@ -1973,6 +1973,10 @@
     "method": "naive",
     "steam_name": "Crysis 3 Remastered"
   },
+  "CrysisLauncher": {
+    "appid": null,
+    "method": "non-game"
+  },
   "Crysis_2_-_Maximum_Edition": {
     "appid": 108800,
     "method": "norm",
@@ -4353,6 +4357,10 @@
     "appid": null,
     "method": "unresolved"
   },
+  "GameLauncher": {
+    "appid": null,
+    "method": "non-game"
+  },
   "GameSteamDRM": {
     "appid": null,
     "method": "non-game"
@@ -6421,6 +6429,10 @@
     "appid": 2830030,
     "method": "naive",
     "steam_name": "MOTORSLICE"
+  },
+  "MOTOR_GP_26_": {
+    "appid": null,
+    "method": "unresolved"
   },
   "MOUSE": {
     "appid": 2416450,
