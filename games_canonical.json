@@ -18065,14 +18065,6 @@
     ],
     "name": "MOUSE: P.I. For Hire"
   },
-  "2417610": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Metal_Gear_Solid"
-    ],
-    "name": "METAL GEAR SOLID \u0394: SNAKE EATER"
-  },
   "241930": {
     "config_count": 10,
     "devices": [
@@ -19171,7 +19163,7 @@
     "name": "FATAL FURY: City of the Wolves"
   },
   "2492670": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G57_MC2",
@@ -19182,7 +19174,8 @@
     "folders": [
       "METAL_GEAR_SOLID_4__Guns_of_the_Patriots_-_Master_Collection_Version",
       "VERS_O_DEMO_DE_DRAGON_BALL_Z__KAKAROT",
-      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version"
+      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version",
+      "Metal_Gear_Solid"
     ],
     "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version"
   },
@@ -25641,7 +25634,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2317,
+    "config_count": 2318,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -27031,6 +27024,11 @@
       {
         "d": "Adreno__TM__610",
         "m": "RMX5566",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "25062RN2DY",
         "s": "Adreno (TM) 610"
       },
       {
@@ -46409,7 +46407,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3337,
+    "config_count": 3338,
     "devices": [
       {
         "d": "G52_MC2",
@@ -46820,11 +46818,6 @@
         "d": "G610_MC6",
         "m": "Mali",
         "s": "Mali-G610 MC6"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "G781B",
-        "s": "Adreno (TM) 650"
       },
       {
         "d": "Adreno__TM__740",
@@ -47445,6 +47438,11 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "G781B",
+        "s": "Adreno (TM) 650"
       },
       {
         "d": "Adreno__TM__740",
