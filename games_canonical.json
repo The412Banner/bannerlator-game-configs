@@ -3751,7 +3751,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 59,
+    "config_count": 41,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -3847,25 +3847,13 @@
         "d": "Adreno__TM__722",
         "m": "CPH2825",
         "s": "Adreno (TM) 722"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "M2007J3SY",
-        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
       "Need_for_Speed__Heat",
       "nfs",
       "NFS_2",
-      "Need_for_Speed_Heat",
-      "Speed",
-      "speed"
+      "Need_for_Speed_Heat"
     ],
     "name": "Need for Speed\u2122 Heat"
   },
@@ -11224,7 +11212,7 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -20698,7 +20686,7 @@
     "name": "Age of Mythology: Extended Edition"
   },
   "2668510": {
-    "config_count": 53,
+    "config_count": 54,
     "devices": [
       {
         "d": "SM8635",
@@ -20781,11 +20769,6 @@
         "s": "Adreno (TM) 710"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__722",
         "m": "V2511",
         "s": "Adreno (TM) 722"
@@ -20824,6 +20807,11 @@
         "d": "Adreno__TM__825",
         "m": "V2453A",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -25637,7 +25625,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2323,
+    "config_count": 2326,
     "devices": [
       {
         "d": "Adreno__TM__630",
@@ -26875,11 +26863,6 @@
         "s": "Adreno (TM) 720"
       },
       {
-        "d": "Adreno__TM__840",
-        "m": "NX809J",
-        "s": "Adreno (TM) 840"
-      },
-      {
         "d": "Adreno__TM__640",
         "m": "G770F",
         "s": "Adreno (TM) 640"
@@ -26968,6 +26951,11 @@
         "d": "PowerVR_Rogue_GE8320",
         "m": "V2204",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "Adreno__TM__830",
@@ -33072,6 +33060,14 @@
     ],
     "name": "BioShock\u2122 2 Remastered"
   },
+  "40990": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Mafia"
+    ],
+    "name": "Mafia"
+  },
   "4100940": {
     "config_count": 9,
     "devices": [
@@ -34465,6 +34461,26 @@
       "DREAMTONE_Demo"
     ],
     "name": "DREAMTONE Demo"
+  },
+  "4430260": {
+    "config_count": 18,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
+      }
+    ],
+    "folders": [
+      "Speed",
+      "speed"
+    ],
+    "name": "Beat For Speed"
   },
   "4433900": {
     "config_count": 1,
@@ -46427,7 +46443,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3342,
+    "config_count": 3343,
     "devices": [
       {
         "d": "G52_MC2",
