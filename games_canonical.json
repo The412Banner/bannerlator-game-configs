@@ -22018,19 +22018,8 @@
     "name": "Buckshot Roulette"
   },
   "2835670": {
-    "config_count": 3,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      }
-    ],
+    "config_count": 1,
+    "devices": [],
     "folders": [
       "Bond"
     ],
@@ -25658,7 +25647,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2337,
+    "config_count": 2339,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -42344,6 +42333,25 @@
       "Rebel_Galaxy_Outlaw"
     ],
     "name": "Rebel Galaxy Outlaw"
+  },
+  "911250": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "Bond"
+    ],
+    "name": "The Bond"
   },
   "911400": {
     "config_count": 43,
