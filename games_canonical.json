@@ -3751,7 +3751,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 41,
+    "config_count": 59,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -3847,13 +3847,25 @@
         "d": "Adreno__TM__722",
         "m": "CPH2825",
         "s": "Adreno (TM) 722"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
       "Need_for_Speed__Heat",
       "nfs",
       "NFS_2",
-      "Need_for_Speed_Heat"
+      "Need_for_Speed_Heat",
+      "Speed",
+      "speed"
     ],
     "name": "Need for Speed\u2122 Heat"
   },
@@ -4038,20 +4050,6 @@
       "Beach_Buggy_Racing_2_-_Island_Adventure"
     ],
     "name": "Beach Buggy Racing 2 - Island Adventure"
-  },
-  "12320": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred Gold"
   },
   "1232460": {
     "config_count": 1,
@@ -11921,7 +11919,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11930,8 +11928,7 @@
       }
     ],
     "folders": [
-      "WolfNewOrder",
-      "Wolfenstein__2009_"
+      "WolfNewOrder"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -14029,7 +14026,7 @@
     "name": "Aero GPX"
   },
   "2161700": {
-    "config_count": 18,
+    "config_count": 17,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -14080,8 +14077,7 @@
     "folders": [
       "Persona_3_Reload",
       "____-_______Persona_3_Reload",
-      "P3R",
-      "re3"
+      "P3R"
     ],
     "name": "Persona 3 Reload"
   },
@@ -14146,7 +14142,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 128,
+    "config_count": 134,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -14269,11 +14265,6 @@
         "s": "Adreno (TM) 618"
       },
       {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      },
-      {
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
@@ -14292,6 +14283,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__710",
@@ -19570,7 +19566,7 @@
     "name": "Denshattack"
   },
   "2524890": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G57_MC2",
@@ -19579,8 +19575,7 @@
       }
     ],
     "folders": [
-      "Pixel_Gun_3D__PC_Edition",
-      "GUN"
+      "Pixel_Gun_3D__PC_Edition"
     ],
     "name": "Pixel Gun 3D: PC Edition"
   },
@@ -21209,7 +21204,7 @@
     "name": "Palia"
   },
   "270880": {
-    "config_count": 32,
+    "config_count": 33,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -21265,11 +21260,17 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g_8__plus",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
       "American_Truck_Simulator",
-      "American_truck_simulator"
+      "American_truck_simulator",
+      "tru"
     ],
     "name": "American Truck Simulator"
   },
@@ -23803,7 +23804,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 7,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -23824,16 +23825,10 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_0"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -28810,14 +28805,6 @@
     ],
     "name": "RealFlight Evolution \u2013 E-flite UMX Cirrus SR22T"
   },
-  "34830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper: Ghost Warrior"
-  },
   "3483510": {
     "config_count": 3,
     "devices": [
@@ -29194,15 +29181,6 @@
     ],
     "name": "Car Service Together"
   },
-  "35020": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_Arkham_Asylum"
-    ],
-    "name": "Batman: Arkham Asylum Demo"
-  },
   "3503050": {
     "config_count": 1,
     "devices": [
@@ -29232,7 +29210,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 27,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -29302,6 +29280,8 @@
     ],
     "folders": [
       "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_Arkham_Asylum",
       "Batman__Arkham_Asylum_GOTY_Edition"
     ],
     "name": "Batman: Arkham Asylum Game of the Year Edition"
@@ -30369,6 +30349,14 @@
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
+  },
   "3681010": {
     "config_count": 2,
     "devices": [
@@ -31199,20 +31187,6 @@
     ],
     "name": "Fishing Planet"
   },
-  "3809270": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g_8__plus",
-        "s": "Adreno (TM) 610"
-      }
-    ],
-    "folders": [
-      "tru"
-    ],
-    "name": "Euro Truck Simulator 2 - Coaches"
-  },
   "3809910": {
     "config_count": 1,
     "devices": [
@@ -31417,7 +31391,7 @@
     "name": "Rivals of Aether"
   },
   "3841510": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -31426,7 +31400,8 @@
       }
     ],
     "folders": [
-      "Dynasty_Warriors_6"
+      "Dynasty_Warriors_6",
+      "re3"
     ],
     "name": "DYNASTY WARRIORS 3: Complete Edition Remastered"
   },
@@ -31811,6 +31786,20 @@
       "Tekken_7"
     ],
     "name": "TEKKEN 7"
+  },
+  "3906660": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred 2 Remaster"
   },
   "3909960": {
     "config_count": 1,
@@ -34477,26 +34466,6 @@
     ],
     "name": "DREAMTONE Demo"
   },
-  "4430260": {
-    "config_count": 18,
-    "devices": [
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "M2007J3SY",
-        "s": "Adreno (TM) 650"
-      }
-    ],
-    "folders": [
-      "Speed",
-      "speed"
-    ],
-    "name": "Beat For Speed"
-  },
   "4433900": {
     "config_count": 1,
     "devices": [
@@ -35343,6 +35312,14 @@
       "DigIt"
     ],
     "name": "Halloween: Digital Deluxe Upgrade"
+  },
+  "4687860": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GUN"
+    ],
+    "name": "Guns and Dragons"
   },
   "4704690": {
     "config_count": 2,
@@ -38644,7 +38621,7 @@
     "name": "Moonlighter"
   },
   "606280": {
-    "config_count": 11,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -38657,19 +38634,13 @@
         "s": "Adreno (TM) 825"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
-      },
-      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
       }
     ],
     "folders": [
-      "Darksiders_III",
-      "Darksiders"
+      "Darksiders_III"
     ],
     "name": "Darksiders III"
   },
@@ -38724,7 +38695,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -39980,7 +39951,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__A32",
@@ -39991,10 +39962,16 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "Darksiders_Genesis",
+      "Darksiders",
       "DarksidersGenesis"
     ],
     "name": "Darksiders Genesis"
@@ -42523,7 +42500,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 7,
+    "config_count": 9,
     "devices": [
       {
         "d": "G615_MC6",
@@ -42539,10 +42516,16 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_"
+      "OCTOPATH_TRAVELER_",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
@@ -47664,7 +47647,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 257,
+    "config_count": 258,
     "devices": [
       {
         "d": "G615_MC2",
