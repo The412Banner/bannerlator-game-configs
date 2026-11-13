@@ -24339,7 +24339,7 @@
     "name": "MotoGP\u212225"
   },
   "307780": {
-    "config_count": 49,
+    "config_count": 50,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -24420,6 +24420,11 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
