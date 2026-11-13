@@ -3751,7 +3751,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 59,
+    "config_count": 41,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -3847,25 +3847,13 @@
         "d": "Adreno__TM__722",
         "m": "CPH2825",
         "s": "Adreno (TM) 722"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "M2007J3SY",
-        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
       "Need_for_Speed__Heat",
       "nfs",
       "NFS_2",
-      "Need_for_Speed_Heat",
-      "Speed",
-      "speed"
+      "Need_for_Speed_Heat"
     ],
     "name": "Need for Speed\u2122 Heat"
   },
@@ -4050,6 +4038,20 @@
       "Beach_Buggy_Racing_2_-_Island_Adventure"
     ],
     "name": "Beach Buggy Racing 2 - Island Adventure"
+  },
+  "12320": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred Gold"
   },
   "1232460": {
     "config_count": 1,
@@ -16812,7 +16814,7 @@
     "name": "Sky: Children of the Light"
   },
   "232890": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -16826,7 +16828,8 @@
       }
     ],
     "folders": [
-      "__Stronghold_Crusader"
+      "__Stronghold_Crusader",
+      "Stronghold_Crusader_HD"
     ],
     "name": "Stronghold Crusader 2"
   },
@@ -24850,14 +24853,6 @@
     ],
     "name": "FINAL FANTASY XIV Online Free Trial"
   },
-  "3120600": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "RoomGirl"
-    ],
-    "name": "VR Harem Life ~ Your Room Became a Hang-Out for Girls!? ~"
-  },
   "3121490": {
     "config_count": 1,
     "devices": [
@@ -27354,6 +27349,14 @@
     ],
     "name": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors"
   },
+  "3269070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "BF2"
+    ],
+    "name": "Battlefield\u2122 2042 - BFC"
+  },
   "3269660": {
     "config_count": 1,
     "devices": [],
@@ -28792,6 +28795,14 @@
       "SR2_pc"
     ],
     "name": "RealFlight Evolution \u2013 E-flite UMX Cirrus SR22T"
+  },
+  "34830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper: Ghost Warrior"
   },
   "3483510": {
     "config_count": 3,
@@ -30337,14 +30348,6 @@
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
-  },
   "3681010": {
     "config_count": 2,
     "devices": [
@@ -31789,20 +31792,6 @@
     ],
     "name": "TEKKEN 7"
   },
-  "3906660": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred 2 Remaster"
-  },
   "3909960": {
     "config_count": 1,
     "devices": [
@@ -33027,14 +33016,6 @@
     ],
     "name": "Stronghold 2: Steam Edition"
   },
-  "40970": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Stronghold_Crusader_HD"
-    ],
-    "name": "Stronghold Crusader HD (2012)"
-  },
   "409710": {
     "config_count": 5,
     "devices": [
@@ -33789,6 +33770,14 @@
     ],
     "name": "Little Nightmares"
   },
+  "4250010": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "RoomGirl"
+    ],
+    "name": "My Roommate is a cute Ghost Girl!?"
+  },
   "425220": {
     "config_count": 1,
     "devices": [
@@ -34468,6 +34457,26 @@
     ],
     "name": "DREAMTONE Demo"
   },
+  "4430260": {
+    "config_count": 18,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
+      }
+    ],
+    "folders": [
+      "Speed",
+      "speed"
+    ],
+    "name": "Beat For Speed"
+  },
   "4433900": {
     "config_count": 1,
     "devices": [
@@ -34814,7 +34823,7 @@
     "name": "Attack on Titan / A.O.T. Wings of Freedom"
   },
   "4505090": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__810",
@@ -44521,6 +44530,14 @@
       "DyingLightGame_TheBeast_x64_rwdi"
     ],
     "name": "Dyinglightgame Thebeast X64 Rwdi"
+  },
+  "name:dzf": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "DZF"
+    ],
+    "name": "Dzf"
   },
   "name:easy-anti-cheat-bootstrapper-eos": {
     "config_count": 1,
