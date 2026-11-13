@@ -3756,7 +3756,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 41,
+    "config_count": 56,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -3852,13 +3852,24 @@
         "d": "Adreno__TM__722",
         "m": "CPH2825",
         "s": "Adreno (TM) 722"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
       "Need_for_Speed__Heat",
       "nfs",
       "NFS_2",
-      "Need_for_Speed_Heat"
+      "Need_for_Speed_Heat",
+      "speed"
     ],
     "name": "Need for Speed\u2122 Heat"
   },
@@ -11207,7 +11218,7 @@
     "name": "Fifa 19"
   },
   "1938090": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -11217,7 +11228,6 @@
     ],
     "folders": [
       "Call_Of_Duty_MW2",
-      "CallOf_Duty",
       "Call_of_Duty"
     ],
     "name": "Call of Duty\u00ae"
@@ -25639,6 +25649,16 @@
     "config_count": 2334,
     "devices": [
       {
+        "d": "Adreno__TM__650",
+        "m": "Retroid_Pocket_5",
+        "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
         "d": "Adreno__TM__630",
         "m": "N960U",
         "s": "Adreno (TM) 630"
@@ -25742,11 +25762,6 @@
         "d": "Adreno__TM__740",
         "m": "CPH2447",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       },
       {
         "d": "G57",
@@ -26995,11 +27010,6 @@
       },
       {
         "d": "Adreno__TM__650",
-        "m": "Retroid_Pocket_5",
-        "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Adreno__TM__650",
         "m": "moto_g_100_",
         "s": "Adreno (TM) 650"
       },
@@ -27115,6 +27125,7 @@
       }
     ],
     "folders": [
+      "GTA_V",
       "Grand_Theft_Auto_5",
       "Grand_Theft_Auto_V",
       "Grand_Theft_Auto_V_",
@@ -27127,7 +27138,6 @@
       "_____5",
       "gta_5",
       "gta_v",
-      "GTA_V",
       "GTA5",
       "GTA5_Enhanced",
       "Grand_Theft_Auto___V"
@@ -34465,22 +34475,10 @@
     "name": "DREAMTONE Demo"
   },
   "4430260": {
-    "config_count": 18,
-    "devices": [
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "M2007J3SY",
-        "s": "Adreno (TM) 650"
-      }
-    ],
+    "config_count": 3,
+    "devices": [],
     "folders": [
-      "Speed",
-      "speed"
+      "Speed"
     ],
     "name": "Beat For Speed"
   },
@@ -34499,7 +34497,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "G57_MC2",
@@ -34527,6 +34525,7 @@
       "Call_of_Duty_4",
       "Call_of_Duty___Modern_Warfare_",
       "COD__Modern_Warfare",
+      "CallOf_Duty",
       "Call_of_Duty_4_Modern_Warfare",
       "Call_of_duty_Modern_Warfare",
       "call_of_duty_4_modern_Warfare"
@@ -49022,6 +49021,20 @@
       "SpecOpsTheLine"
     ],
     "name": "Specopstheline"
+  },
+  "name:spider-man-web-of-shadows": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__720",
+        "m": "I2218",
+        "s": "Adreno (TM) 720"
+      }
+    ],
+    "folders": [
+      "Spider-Man_Web_of_Shadows"
+    ],
+    "name": "Spider Man Web Of Shadows"
   },
   "name:squirtingsalon": {
     "config_count": 1,
