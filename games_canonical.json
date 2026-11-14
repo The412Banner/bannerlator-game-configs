@@ -2345,7 +2345,7 @@
     "name": "Captain Tsubasa: Rise of New Champions"
   },
   "1167630": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -10507,19 +10507,19 @@
     "config_count": 3,
     "devices": [
       {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
         "d": "Ultra_MC12",
         "m": "G1",
         "s": "Mali-G1-Ultra MC12"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "HiFi_Rush",
-      "Hi-Fi_RUSH"
+      "Hi-Fi_RUSH",
+      "HiFi_Rush"
     ],
     "name": "Hi-Fi RUSH"
   },
@@ -11917,7 +11917,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11926,7 +11926,8 @@
       }
     ],
     "folders": [
-      "WolfNewOrder"
+      "WolfNewOrder",
+      "Wolfenstein__2009_"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -38780,7 +38781,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
