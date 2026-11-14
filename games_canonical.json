@@ -4754,7 +4754,7 @@
     "name": "Signalis"
   },
   "1262540": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "G52_MC2",
@@ -4780,8 +4780,7 @@
     "folders": [
       "Need_for_Speed_",
       "need_for_speed",
-      "need_for_speed_",
-      "Need_for_speed__2005_"
+      "need_for_speed_"
     ],
     "name": "Need for Speed\u2122"
   },
@@ -5730,14 +5729,6 @@
       "DRACU-RIOT_"
     ],
     "name": "DRACU-RIOT!"
-  },
-  "1340720": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "StateOfDecay"
-    ],
-    "name": "State of Decay 3"
   },
   "1343240": {
     "config_count": 2,
@@ -17985,7 +17976,7 @@
     "name": "Wasteland 2: Director's Cut"
   },
   "241540": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "G78",
@@ -18009,7 +18000,8 @@
       }
     ],
     "folders": [
-      "State_of_Decay"
+      "State_of_Decay",
+      "StateOfDecay"
     ],
     "name": "State of Decay"
   },
@@ -18082,14 +18074,6 @@
       "MOUSE__P_I__For_Hire"
     ],
     "name": "MOUSE: P.I. For Hire"
-  },
-  "2417610": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Metal_Gear_Solid"
-    ],
-    "name": "METAL GEAR SOLID \u0394: SNAKE EATER"
   },
   "241930": {
     "config_count": 10,
@@ -19189,7 +19173,7 @@
     "name": "FATAL FURY: City of the Wolves"
   },
   "2492670": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G57_MC2",
@@ -19200,7 +19184,8 @@
     "folders": [
       "METAL_GEAR_SOLID_4__Guns_of_the_Patriots_-_Master_Collection_Version",
       "VERS_O_DEMO_DE_DRAGON_BALL_Z__KAKAROT",
-      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version"
+      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version",
+      "Metal_Gear_Solid"
     ],
     "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version"
   },
@@ -25690,7 +25675,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2358,
+    "config_count": 2360,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -33882,7 +33867,7 @@
     "name": "Innocent Assault SS"
   },
   "42680": {
-    "config_count": 48,
+    "config_count": 50,
     "devices": [
       {
         "d": "Infinix_X6833B",
@@ -46025,6 +46010,14 @@
       "NBA2K23"
     ],
     "name": "Nba2K23"
+  },
+  "name:need-for-speed-2005": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Need_for_speed__2005_"
+    ],
+    "name": "Need For Speed 2005"
   },
   "name:need-for-speed-black-edition": {
     "config_count": 1,
