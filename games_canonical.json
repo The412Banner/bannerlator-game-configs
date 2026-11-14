@@ -5249,6 +5249,20 @@
     ],
     "name": "Borderlands 4"
   },
+  "1286680": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "NP05J",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "Tiny_Tina_s_Wonderlands"
+    ],
+    "name": "Tiny Tina's Wonderlands"
+  },
   "1286990": {
     "config_count": 1,
     "devices": [
@@ -9701,17 +9715,12 @@
     "name": "Choo-Choo Charles"
   },
   "1769533": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "NP05J",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -11941,7 +11950,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11950,8 +11959,7 @@
       }
     ],
     "folders": [
-      "WolfNewOrder",
-      "Wolfenstein__2009_"
+      "WolfNewOrder"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -12434,8 +12442,33 @@
     "name": "Hitman: Absolution\u2122"
   },
   "203160": {
-    "config_count": 19,
+    "config_count": 35,
     "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
+      },
       {
         "d": "Adreno__TM__740",
         "m": "S911U",
@@ -12463,11 +12496,12 @@
       }
     ],
     "folders": [
+      "TombRaider",
       "Tomb_Raider",
       "Tomb_Raider_2013",
       "Tomb_Raider_Game_of_the_Year"
     ],
-    "name": "Tomb Raider"
+    "name": "Tomb Raider Game of the Year"
   },
   "203650": {
     "config_count": 3,
@@ -12478,7 +12512,7 @@
     "name": "Sonic the Hedgehog 4 - Episode II"
   },
   "203750": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "Binary_Domain"
@@ -15457,7 +15491,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -15497,7 +15531,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev"
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -18098,14 +18133,6 @@
     ],
     "name": "MOUSE: P.I. For Hire"
   },
-  "2417610": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Metal_Gear_Solid"
-    ],
-    "name": "METAL GEAR SOLID \u0394: SNAKE EATER"
-  },
   "241930": {
     "config_count": 10,
     "devices": [
@@ -19204,7 +19231,7 @@
     "name": "FATAL FURY: City of the Wolves"
   },
   "2492670": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G57_MC2",
@@ -19215,7 +19242,8 @@
     "folders": [
       "METAL_GEAR_SOLID_4__Guns_of_the_Patriots_-_Master_Collection_Version",
       "VERS_O_DEMO_DE_DRAGON_BALL_Z__KAKAROT",
-      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version"
+      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version",
+      "Metal_Gear_Solid"
     ],
     "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version"
   },
@@ -22691,7 +22719,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -22731,8 +22759,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -25706,7 +25733,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2369,
+    "config_count": 2370,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -29613,42 +29640,16 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 20,
+    "config_count": 4,
     "devices": [
       {
         "d": "G57_MC4",
         "m": "Mali",
         "s": "Mali-G57 MC4"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
-      "Atla",
-      "TombRaider"
+      "Atla"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -30719,7 +30720,7 @@
     "name": "Bruisers 2D Boxing"
   },
   "374320": {
-    "config_count": 44,
+    "config_count": 47,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -30810,6 +30811,11 @@
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "S928B",
+        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
@@ -30820,7 +30826,8 @@
       "DARK_SOULS_III",
       "DarkSoulsII",
       "DarkSoulsIII",
-      "Dark_Souls_III"
+      "Dark_Souls_III",
+      "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122 III"
   },
@@ -38015,7 +38022,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 57,
+    "config_count": 54,
     "devices": [
       {
         "d": "G57",
@@ -38136,18 +38143,12 @@
         "d": "Adreno__TM__810",
         "m": "NX1",
         "s": "Adreno (TM) 810"
-      },
-      {
-        "d": "Adreno__TM__660",
-        "m": "S928B",
-        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
       "DARK_SOULS__REMASTERED",
       "DARK_SOULS___REMASTERED",
-      "DARK_SOULS_-_REMASTERED",
-      "Dark_Souls_Remastered"
+      "DARK_SOULS_-_REMASTERED"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
   },
@@ -49602,6 +49603,14 @@
       "Wizard_School_Exchange_Student"
     ],
     "name": "Wizard School Exchange Student"
+  },
+  "name:wolfenstein-2009": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Wolfenstein__2009_"
+    ],
+    "name": "Wolfenstein 2009"
   },
   "name:world-of-warcraft": {
     "config_count": 1,
