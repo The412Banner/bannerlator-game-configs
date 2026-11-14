@@ -5723,6 +5723,14 @@
     ],
     "name": "DRACU-RIOT!"
   },
+  "1340720": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "StateOfDecay"
+    ],
+    "name": "State of Decay 3"
+  },
   "1343240": {
     "config_count": 2,
     "devices": [
@@ -6868,7 +6876,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 123,
+    "config_count": 122,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -17969,7 +17977,7 @@
     "name": "Wasteland 2: Director's Cut"
   },
   "241540": {
-    "config_count": 9,
+    "config_count": 8,
     "devices": [
       {
         "d": "G78",
@@ -17993,8 +18001,7 @@
       }
     ],
     "folders": [
-      "State_of_Decay",
-      "StateOfDecay"
+      "State_of_Decay"
     ],
     "name": "State of Decay"
   },
@@ -28523,6 +28530,14 @@
     ],
     "name": "Heavy Weapon Deluxe"
   },
+  "3419290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN"
+  },
   "341940": {
     "config_count": 4,
     "devices": [
@@ -29575,16 +29590,42 @@
     "name": "Money Simulator: Brokeville (Free Prologue)"
   },
   "3558670": {
-    "config_count": 4,
+    "config_count": 20,
     "devices": [
       {
         "d": "G57_MC4",
         "m": "Mali",
         "s": "Mali-G57 MC4"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g42",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "CPH2521",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2408A",
+        "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__810",
+        "m": "RMX5079",
+        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
-      "Atla"
+      "Atla",
+      "TombRaider"
     ],
     "name": "Tomb Raider: Legacy of Atlantis"
   },
@@ -31826,7 +31867,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 246,
+    "config_count": 230,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -32167,26 +32208,6 @@
         "d": "Adreno__TM__740",
         "m": "PHB110",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "moto_g42",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "CPH2521",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "V2408A",
-        "s": "Adreno (TM) 830"
-      },
-      {
-        "d": "Adreno__TM__810",
-        "m": "RMX5079",
-        "s": "Adreno (TM) 810"
       }
     ],
     "folders": [
@@ -32194,8 +32215,7 @@
       "Rise_of_the_Tomb_Raider_",
       "Tomb_Raider",
       "Tomb_Raider_-_Definitive_Edition",
-      "Tomb_Raider_________________________________________________",
-      "TombRaider"
+      "Tomb_Raider_________________________________________________"
     ],
     "name": "Rise of the Tomb Raider\u2122"
   },
@@ -32671,14 +32691,6 @@
       "The_Spike"
     ],
     "name": "The Spike Cross"
-  },
-  "3985080": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN - Costume Expansion Pack"
   },
   "400": {
     "config_count": 4,
@@ -33855,7 +33867,7 @@
     "name": "Innocent Assault SS"
   },
   "42680": {
-    "config_count": 47,
+    "config_count": 48,
     "devices": [
       {
         "d": "Infinix_X6833B",
@@ -41976,7 +41988,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 146,
+    "config_count": 147,
     "devices": [
       {
         "d": "s5e8855",
@@ -42204,6 +42216,11 @@
         "s": "Adreno (TM) 840"
       },
       {
+        "d": "Adreno__TM__840",
+        "m": "S948U1",
+        "s": "Adreno (TM) 840"
+      },
+      {
         "d": "Adreno__TM__750",
         "m": "NX769J",
         "s": "Adreno (TM) 750"
@@ -42217,6 +42234,7 @@
     "folders": [
       "Resident_Evil_2",
       "Resident_Evil_2_____________________________________________",
+      "Resident_Evil_2__2019_",
       "Resident_Evil_2__DX11_",
       "re2",
       "resident_evil_2"
@@ -42736,14 +42754,6 @@
       "Far_Cry__New_Dawn"
     ],
     "name": "Far Cry\u00ae New Dawn"
-  },
-  "940190": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Chuckie_Egg_3"
-    ],
-    "name": "Chuckie Egg 2017"
   },
   "940910": {
     "config_count": 1,
@@ -44125,6 +44135,14 @@
     ],
     "name": "Cdmwthemocs2"
   },
+  "name:chuckie-egg-3": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Chuckie_Egg_3"
+    ],
+    "name": "Chuckie Egg 3"
+  },
   "name:civilization-ii-multiplayer-gold-edition": {
     "config_count": 1,
     "devices": [],
@@ -44910,6 +44928,14 @@
       "FFXIII"
     ],
     "name": "Ffxiii"
+  },
+  "name:fifa-20": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "FIFA_20"
+    ],
+    "name": "Fifa 20"
   },
   "name:fifa14": {
     "config_count": 1,
@@ -48729,20 +48755,6 @@
       "ResChanger"
     ],
     "name": "Reschanger"
-  },
-  "name:resident-evil-2-2019": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "S948U1",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "Resident_Evil_2__2019_"
-    ],
-    "name": "Resident Evil 2 2019"
   },
   "name:resident-evil-2-dx11": {
     "config_count": 1,
