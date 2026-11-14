@@ -11919,7 +11919,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11928,7 +11928,8 @@
       }
     ],
     "folders": [
-      "WolfNewOrder"
+      "WolfNewOrder",
+      "Wolfenstein__2009_"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -12592,7 +12593,7 @@
     "name": "Call of Juarez: Gunslinger"
   },
   "2050650": {
-    "config_count": 87,
+    "config_count": 88,
     "devices": [
       {
         "d": "G57_MC2",
@@ -25658,7 +25659,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2344,
+    "config_count": 2349,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -31842,7 +31843,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 229,
+    "config_count": 230,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -38770,7 +38771,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -45181,6 +45182,20 @@
       "GrandChasePatcher"
     ],
     "name": "Grandchasepatcher"
+  },
+  "name:granny-forsaken": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
+      }
+    ],
+    "folders": [
+      "Granny_Forsaken"
+    ],
+    "name": "Granny Forsaken"
   },
   "name:gridautosport": {
     "config_count": 1,
