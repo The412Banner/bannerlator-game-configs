@@ -513,6 +513,14 @@
     ],
     "name": "Battlefield 1"
   },
+  "1026680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "FINAL_FANTASY_VIII_REMASTERED"
+    ],
+    "name": "FINAL FANTASY VIII - REMASTERED"
+  },
   "10270": {
     "config_count": 2,
     "devices": [],
@@ -4798,7 +4806,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 69,
+    "config_count": 68,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4935,7 +4943,6 @@
       "Need_For_Speed_Most_Wanted",
       "Need_For_Speed_Most_Wanted_",
       "Need_for_Speed_-_Most_Wanted",
-      "Need_for_Speed_Most_Wanted_2005",
       "Need_for_Speed__Most_Wanted_2005",
       "Need_for_Speed__Most_wanted__2012_",
       "need_for_speed_most_wa",
@@ -6893,7 +6900,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 123,
+    "config_count": 122,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -7094,11 +7101,6 @@
         "d": "Adreno__TM__840",
         "m": "S942U",
         "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__710",
-        "m": "NX1",
-        "s": "Adreno (TM) 710"
       }
     ],
     "folders": [
@@ -7117,8 +7119,7 @@
       "FIFA_23",
       "Fifa_19",
       "FIFA22",
-      "FIFA_12",
-      "fifa_12"
+      "FIFA_12"
     ],
     "name": "FIFA 22"
   },
@@ -11955,7 +11956,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11964,8 +11965,7 @@
       }
     ],
     "folders": [
-      "WolfNewOrder",
-      "Wolfenstein__2009_"
+      "WolfNewOrder"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -17282,6 +17282,20 @@
     ],
     "name": "Tom Clancy\u2019s Splinter Cell Blacklist"
   },
+  "235660": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "25091RP04G",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "Eador_-_Genesis"
+    ],
+    "name": "Eador: Genesis"
+  },
   "2357570": {
     "config_count": 1,
     "devices": [],
@@ -18748,14 +18762,6 @@
       "Assetto_Corsa"
     ],
     "name": "Assetto Corsa"
-  },
-  "244450": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Men_of_War_-_Assault_Squad_2"
-    ],
-    "name": "Men of War: Assault Squad 2"
   },
   "2444750": {
     "config_count": 1,
@@ -23111,7 +23117,7 @@
     "name": "Terrible Lizards"
   },
   "292030": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -23144,6 +23150,11 @@
         "s": "Adreno (TM) 830"
       },
       {
+        "d": "Adreno__TM__750",
+        "m": "V2425A",
+        "s": "Adreno (TM) 750"
+      },
+      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
@@ -23172,6 +23183,7 @@
       "The_Witcher_3_-_Wild_Hunt_-_Complete_Edition",
       "The_Witcher_3_-_Wild_Hunt_-_Game_of_the_Year_Edition",
       "The_Witcher_3_-_Wild_Hunt___Remastered",
+      "Witcher_1",
       "_Witcher",
       "witcher3"
     ],
@@ -28824,6 +28836,20 @@
     ],
     "name": "Cradle of Nightmare : Flowers to you"
   },
+  "3471280": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "S928B",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Liquor_Store_Simulator__Prologue"
+    ],
+    "name": "Liquor Store Simulator: Prologue"
+  },
   "3476660": {
     "config_count": 1,
     "devices": [],
@@ -28867,6 +28893,14 @@
       "SR2_pc"
     ],
     "name": "RealFlight Evolution \u2013 E-flite UMX Cirrus SR22T"
+  },
+  "34830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper: Ghost Warrior"
   },
   "3483510": {
     "config_count": 3,
@@ -28959,7 +28993,7 @@
     "name": "They Killed Your Cat"
   },
   "3489700": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC6",
@@ -30422,14 +30456,6 @@
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
-  },
   "3681010": {
     "config_count": 2,
     "devices": [
@@ -30718,7 +30744,7 @@
     "name": "Bruisers 2D Boxing"
   },
   "374320": {
-    "config_count": 44,
+    "config_count": 47,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -30809,6 +30835,11 @@
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "S928B",
+        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
@@ -30819,7 +30850,8 @@
       "DARK_SOULS_III",
       "DarkSoulsII",
       "DarkSoulsIII",
-      "Dark_Souls_III"
+      "Dark_Souls_III",
+      "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122 III"
   },
@@ -32252,7 +32284,7 @@
     "name": "Rise of the Tomb Raider\u2122"
   },
   "39150": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -32262,8 +32294,7 @@
     ],
     "folders": [
       "FINAL_FANTASY_VIII",
-      "FINAL_FANTASY_VIII_-_REMASTERED",
-      "FINAL_FANTASY_VIII_REMASTERED"
+      "FINAL_FANTASY_VIII_-_REMASTERED"
     ],
     "name": "FINAL FANTASY VIII"
   },
@@ -36001,7 +36032,7 @@
     "name": "Warhammer 40,000: Gladius - Relics of War"
   },
   "489830": {
-    "config_count": 76,
+    "config_count": 77,
     "devices": [
       {
         "d": "G615_MC6",
@@ -36089,11 +36120,6 @@
         "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
       },
       {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      },
-      {
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
@@ -36127,6 +36153,11 @@
         "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
         "m": "A566E",
         "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       },
       {
         "d": "Adreno__TM__740",
@@ -38008,7 +38039,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 57,
+    "config_count": 54,
     "devices": [
       {
         "d": "G57",
@@ -38129,18 +38160,12 @@
         "d": "Adreno__TM__810",
         "m": "NX1",
         "s": "Adreno (TM) 810"
-      },
-      {
-        "d": "Adreno__TM__660",
-        "m": "S928B",
-        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
       "DARK_SOULS__REMASTERED",
       "DARK_SOULS___REMASTERED",
-      "DARK_SOULS_-_REMASTERED",
-      "Dark_Souls_Remastered"
+      "DARK_SOULS_-_REMASTERED"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
   },
@@ -38831,7 +38856,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -39179,6 +39204,14 @@
       "Journey"
     ],
     "name": "Journey"
+  },
+  "64000": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Men_of_War_-_Assault_Squad_2"
+    ],
+    "name": "Men of War: Assault Squad"
   },
   "640590": {
     "config_count": 1,
@@ -40336,7 +40369,7 @@
     "name": "DYNASTY WARRIORS 9"
   },
   "731490": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -44356,6 +44389,14 @@
     ],
     "name": "Counter Strike Russian"
   },
+  "name:crashbandicootnsanetrilogy": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "CrashBandicootNSaneTrilogy"
+    ],
+    "name": "Crashbandicootnsanetrilogy"
+  },
   "name:cricket07": {
     "config_count": 1,
     "devices": [
@@ -44686,20 +44727,6 @@
     ],
     "name": "Dzf"
   },
-  "name:eador-genesis": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "25091RP04G",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "Eador_-_Genesis"
-    ],
-    "name": "Eador Genesis"
-  },
   "name:easy-anti-cheat-bootstrapper-eos": {
     "config_count": 1,
     "devices": [],
@@ -45009,6 +45036,20 @@
       "FFXIII"
     ],
     "name": "Ffxiii"
+  },
+  "name:fifa-12": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
+      }
+    ],
+    "folders": [
+      "fifa_12"
+    ],
+    "name": "Fifa 12"
   },
   "name:fifa14": {
     "config_count": 1,
@@ -46105,6 +46146,20 @@
       "Need_for_Speed_Black_Edition_"
     ],
     "name": "Need For Speed Black Edition"
+  },
+  "name:need-for-speed-most-wanted-2005": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "Need_for_Speed_Most_Wanted_2005"
+    ],
+    "name": "Need For Speed Most Wanted 2005"
   },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 3,
@@ -49630,20 +49685,6 @@
       "Wasteland_3_Colorado_Survival_Gear_DLC"
     ],
     "name": "Wasteland 3 Colorado Survival Gear Dlc"
-  },
-  "name:witcher-1": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__750",
-        "m": "V2425A",
-        "s": "Adreno (TM) 750"
-      }
-    ],
-    "folders": [
-      "Witcher_1"
-    ],
-    "name": "Witcher 1"
   },
   "name:wizard-school-exchange-student": {
     "config_count": 1,
