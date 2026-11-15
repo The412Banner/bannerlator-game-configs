@@ -5249,20 +5249,6 @@
     ],
     "name": "Borderlands 4"
   },
-  "1286680": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "NP05J",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "Tiny_Tina_s_Wonderlands"
-    ],
-    "name": "Tiny Tina's Wonderlands"
-  },
   "1286990": {
     "config_count": 1,
     "devices": [
@@ -9715,12 +9701,17 @@
     "name": "Choo-Choo Charles"
   },
   "1769533": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "NP05J",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -11950,7 +11941,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11959,7 +11950,8 @@
       }
     ],
     "folders": [
-      "WolfNewOrder"
+      "WolfNewOrder",
+      "Wolfenstein__2009_"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -13851,7 +13843,7 @@
     "name": "Cyberpunk 2077: Phantom Liberty"
   },
   "2138710": {
-    "config_count": 22,
+    "config_count": 23,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -24672,7 +24664,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 58,
+    "config_count": 59,
     "devices": [
       {
         "d": "G78",
@@ -24745,14 +24737,14 @@
         "s": "Mali-G52 MC2"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Immortalis_MC11",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC11"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__750",
@@ -30720,7 +30712,7 @@
     "name": "Bruisers 2D Boxing"
   },
   "374320": {
-    "config_count": 47,
+    "config_count": 44,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -30811,11 +30803,6 @@
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Adreno__TM__660",
-        "m": "S928B",
-        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
@@ -30826,8 +30813,7 @@
       "DARK_SOULS_III",
       "DarkSoulsII",
       "DarkSoulsIII",
-      "Dark_Souls_III",
-      "Dark_Souls_Remastered"
+      "Dark_Souls_III"
     ],
     "name": "DARK SOULS\u2122 III"
   },
@@ -30877,7 +30863,7 @@
     "name": "HELLMART"
   },
   "3764200": {
-    "config_count": 43,
+    "config_count": 44,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -30953,6 +30939,11 @@
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "24122RKC7G",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -34658,20 +34649,13 @@
     "name": "This Is the Police"
   },
   "4439810": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [],
     "folders": [
-      "Forza_Horizon_2_____________________________________________"
-    ],
-    "name": "Forza Horizon 6 2024 Koenigsegg Gemera"
-  },
-  "4439830": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
+      "Forza_Horizon_2_____________________________________________",
       "Forza_Horizon_2"
     ],
-    "name": "Forza Horizon 6 2008 Honda Civic Type R (FD2)"
+    "name": "Forza Horizon 6 2024 Koenigsegg Gemera"
   },
   "444200": {
     "config_count": 1,
@@ -38030,7 +38014,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 54,
+    "config_count": 57,
     "devices": [
       {
         "d": "G57",
@@ -38151,12 +38135,18 @@
         "d": "Adreno__TM__810",
         "m": "NX1",
         "s": "Adreno (TM) 810"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "S928B",
+        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
       "DARK_SOULS__REMASTERED",
       "DARK_SOULS___REMASTERED",
-      "DARK_SOULS_-_REMASTERED"
+      "DARK_SOULS_-_REMASTERED",
+      "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
   },
@@ -38767,7 +38757,7 @@
     "name": "Moonlighter"
   },
   "606280": {
-    "config_count": 11,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -38780,19 +38770,13 @@
         "s": "Adreno (TM) 825"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
-      },
-      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
       }
     ],
     "folders": [
-      "Darksiders_III",
-      "Darksiders"
+      "Darksiders_III"
     ],
     "name": "Darksiders III"
   },
@@ -38847,7 +38831,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -40103,7 +40087,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 5,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__A32",
@@ -40114,10 +40098,16 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
       "Darksiders_Genesis",
+      "Darksiders",
       "DarksidersGenesis"
     ],
     "name": "Darksiders Genesis"
@@ -49611,14 +49601,6 @@
       "Wizard_School_Exchange_Student"
     ],
     "name": "Wizard School Exchange Student"
-  },
-  "name:wolfenstein-2009": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Wolfenstein__2009_"
-    ],
-    "name": "Wolfenstein 2009"
   },
   "name:world-of-warcraft": {
     "config_count": 1,
