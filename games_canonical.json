@@ -9645,6 +9645,14 @@
     ],
     "name": "FlipWitch - Forbidden Sex Hex"
   },
+  "1752540": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Twins"
+    ],
+    "name": "Lost Twins 2"
+  },
   "1755070": {
     "config_count": 4,
     "devices": [
@@ -36567,7 +36575,7 @@
     "name": "Trails in the Sky 2nd Chapter Demo"
   },
   "50130": {
-    "config_count": 57,
+    "config_count": 58,
     "devices": [
       {
         "d": "MT6781",
@@ -36683,6 +36691,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "LX1",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
