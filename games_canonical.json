@@ -15472,7 +15472,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 22,
+    "config_count": 18,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -15511,9 +15511,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -16078,7 +16076,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 330,
+    "config_count": 331,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -16429,6 +16427,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S931B",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -22700,7 +22703,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 35,
     "devices": [
       {
         "d": "G615_MC2",
@@ -22740,7 +22743,9 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -33049,7 +33054,7 @@
     "name": "Mousetrap: Theft & Bondage"
   },
   "4080220": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -33059,7 +33064,8 @@
     ],
     "folders": [
       "EA",
-      "EA_SPORTS_FC__27"
+      "EA_SPORTS_FC__27",
+      "EA_Sports_FC_27"
     ],
     "name": "EA SPORTS FC\u2122 27"
   },
@@ -37911,7 +37917,7 @@
     "name": "My Friend Pedro"
   },
   "561610": {
-    "config_count": 15,
+    "config_count": 16,
     "devices": [
       {
         "d": "G615_MC2",
@@ -37932,6 +37938,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "SOG09",
+        "s": "Adreno (TM) 730"
       }
     ],
     "folders": [
