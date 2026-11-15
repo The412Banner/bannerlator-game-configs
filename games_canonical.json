@@ -3185,7 +3185,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 493,
+    "config_count": 494,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3646,6 +3646,11 @@
         "d": "Adreno__TM__610",
         "m": "2201117TG",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
@@ -11963,7 +11968,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11972,7 +11977,8 @@
       }
     ],
     "folders": [
-      "WolfNewOrder"
+      "WolfNewOrder",
+      "Wolfenstein__2009_"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -18114,14 +18120,6 @@
     ],
     "name": "MOUSE: P.I. For Hire"
   },
-  "2417610": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Metal_Gear_Solid"
-    ],
-    "name": "METAL GEAR SOLID \u0394: SNAKE EATER"
-  },
   "241930": {
     "config_count": 10,
     "devices": [
@@ -19220,7 +19218,7 @@
     "name": "FATAL FURY: City of the Wolves"
   },
   "2492670": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G57_MC2",
@@ -19231,7 +19229,8 @@
     "folders": [
       "METAL_GEAR_SOLID_4__Guns_of_the_Patriots_-_Master_Collection_Version",
       "VERS_O_DEMO_DE_DRAGON_BALL_Z__KAKAROT",
-      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version"
+      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version",
+      "Metal_Gear_Solid"
     ],
     "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version"
   },
@@ -38864,7 +38863,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
