@@ -2140,7 +2140,7 @@
     "name": "Horizon Zero Dawn\u2122 Complete Edition"
   },
   "115320": {
-    "config_count": 80,
+    "config_count": 79,
     "devices": [
       {
         "d": "Adreno__TM__640",
@@ -2266,11 +2266,6 @@
         "d": "Adreno__TM__825",
         "m": "CPH2731",
         "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "2211133C",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
@@ -2278,8 +2273,7 @@
       "Prototype_",
       "Prototype_2",
       "Prototype___________________________________________________",
-      "prototype2",
-      "prototype_2"
+      "prototype2"
     ],
     "name": "Prototype 2"
   },
@@ -3777,7 +3771,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 41,
+    "config_count": 59,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -3873,13 +3867,25 @@
         "d": "Adreno__TM__722",
         "m": "CPH2825",
         "s": "Adreno (TM) 722"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
       "Need_for_Speed__Heat",
       "nfs",
       "NFS_2",
-      "Need_for_Speed_Heat"
+      "Need_for_Speed_Heat",
+      "Speed",
+      "speed"
     ],
     "name": "Need for Speed\u2122 Heat"
   },
@@ -14102,7 +14108,7 @@
     "name": "Aero GPX"
   },
   "2161700": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -14153,7 +14159,8 @@
     "folders": [
       "Persona_3_Reload",
       "____-_______Persona_3_Reload",
-      "P3R"
+      "P3R",
+      "re3"
     ],
     "name": "Persona 3 Reload"
   },
@@ -15502,7 +15509,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 22,
+    "config_count": 21,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -15542,8 +15549,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -22751,7 +22757,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -22791,7 +22797,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -24699,7 +24706,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 60,
+    "config_count": 61,
     "devices": [
       {
         "d": "G78",
@@ -24780,6 +24787,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G610_MC6",
+        "m": "Mali",
+        "s": "Mali-G610 MC6"
       },
       {
         "d": "Adreno__TM__750",
@@ -31559,7 +31571,7 @@
     "name": "Rivals of Aether"
   },
   "3841510": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -31568,8 +31580,7 @@
       }
     ],
     "folders": [
-      "Dynasty_Warriors_6",
-      "re3"
+      "Dynasty_Warriors_6"
     ],
     "name": "DYNASTY WARRIORS 3: Complete Edition Remastered"
   },
@@ -31992,7 +32003,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 233,
+    "config_count": 234,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -33138,10 +33149,17 @@
     "name": "Mousetrap: Theft & Bondage"
   },
   "4080220": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "S942U",
+        "s": "Adreno (TM) 840"
+      }
+    ],
     "folders": [
-      "EA"
+      "EA",
+      "EA_SPORTS_FC__27"
     ],
     "name": "EA SPORTS FC\u2122 27"
   },
@@ -34659,26 +34677,6 @@
       "DREAMTONE_Demo"
     ],
     "name": "DREAMTONE Demo"
-  },
-  "4430260": {
-    "config_count": 18,
-    "devices": [
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "M2007J3SY",
-        "s": "Adreno (TM) 650"
-      }
-    ],
-    "folders": [
-      "Speed",
-      "speed"
-    ],
-    "name": "Beat For Speed"
   },
   "4433900": {
     "config_count": 1,
@@ -36488,20 +36486,6 @@
       "StateOfDecay2"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
-  },
-  "4996080": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Immortalis_MC12",
-        "m": "G720",
-        "s": "Mali-G720-Immortalis MC12"
-      }
-    ],
-    "folders": [
-      "Resonance_of_Fate"
-    ],
-    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 ENHANCED REMASTER"
   },
   "500": {
     "config_count": 15,
@@ -39362,6 +39346,20 @@
       "Coming_Out_on_Top"
     ],
     "name": "Coming Out on Top"
+  },
+  "645730": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Immortalis_MC12",
+        "m": "G720",
+        "s": "Mali-G720-Immortalis MC12"
+      }
+    ],
+    "folders": [
+      "Resonance_of_Fate"
+    ],
+    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 4K/HD EDITION"
   },
   "646570": {
     "config_count": 2,
@@ -48824,6 +48822,20 @@
       "Projeto_dedicado_aos_f_s_da_franquia_Donkey_Kong_Country_de_SNES__o_jogo_conta_com_7_personagens_jog_vels_numa_nova_aventura_cheia_de_mist_rios_envolvendo_rituais_"
     ],
     "name": "Projeto Dedicado Aos F S Da Franquia Donkey Kong Country De Snes O Jogo Conta Com 7 Personagens Jog Vels Numa Nova Aventura Cheia De Mist Rios Envolvendo Rituais"
+  },
+  "name:prototype-2": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "prototype_2"
+    ],
+    "name": "Prototype 2"
   },
   "name:pure-onyx": {
     "config_count": 1,
