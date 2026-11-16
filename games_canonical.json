@@ -3777,7 +3777,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 59,
+    "config_count": 58,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -3888,7 +3888,6 @@
     "folders": [
       "Need_for_Speed__Heat",
       "nfs",
-      "NFS_2",
       "Need_for_Speed_Heat",
       "Speed",
       "speed"
@@ -5208,6 +5207,14 @@
       "Anno_1404_-_History_Edition"
     ],
     "name": "Anno 1404 - History Edition"
+  },
+  "1282150": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "SpongeBob_SquarePants__The_Cosmic_Shake"
+    ],
+    "name": "Spongebob Squarepants The Cosmic Shake"
   },
   "1283190": {
     "config_count": 1,
@@ -9073,20 +9080,6 @@
       "Minecraft_Dungeons"
     ],
     "name": "Minecraft Dungeons"
-  },
-  "1675200": {
-    "config_count": 5,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "A024",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Steam"
-    ],
-    "name": "Steam Deck"
   },
   "1676840": {
     "config_count": 1,
@@ -31603,6 +31596,14 @@
     ],
     "name": "Case Blind: Stolen Route"
   },
+  "3858850": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Hydra"
+    ],
+    "name": "Hydra Heli"
+  },
   "3859430": {
     "config_count": 1,
     "devices": [
@@ -33585,6 +33586,20 @@
     ],
     "name": "My Winter Car"
   },
+  "4165890": {
+    "config_count": 5,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "A024",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Steam"
+    ],
+    "name": "Steam Frame"
+  },
   "418030": {
     "config_count": 1,
     "devices": [
@@ -33912,14 +33927,6 @@
       "Deadlight_-_Director_s_Cut"
     ],
     "name": "Deadlight: Director's Cut"
-  },
-  "4241690": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Hydra"
-    ],
-    "name": "Hydra Heli 2"
   },
   "424280": {
     "config_count": 1,
@@ -42909,14 +42916,6 @@
     ],
     "name": "Far Cry\u00ae New Dawn"
   },
-  "940190": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Chuckie_Egg_3"
-    ],
-    "name": "Chuckie Egg 2017"
-  },
   "940910": {
     "config_count": 1,
     "devices": [],
@@ -44301,6 +44300,14 @@
       "CDMWTHEMOCS2"
     ],
     "name": "Cdmwthemocs2"
+  },
+  "name:chuckie-egg-3": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Chuckie_Egg_3"
+    ],
+    "name": "Chuckie Egg 3"
   },
   "name:civilization-ii-multiplayer-gold-edition": {
     "config_count": 1,
@@ -46266,6 +46273,14 @@
       "Need_For_Speed_Underground_2_SIL_Edition"
     ],
     "name": "Need For Speed Underground 2 Sil Edition"
+  },
+  "name:nfs-2": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "NFS_2"
+    ],
+    "name": "Nfs 2"
   },
   "name:nfs-most-wanted": {
     "config_count": 2,
