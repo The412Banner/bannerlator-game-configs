@@ -1160,7 +1160,7 @@
     "name": "The Gunk"
   },
   "108800": {
-    "config_count": 10,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -8512,7 +8512,7 @@
     "name": "Minishoot' Adventures"
   },
   "1636440": {
-    "config_count": 5,
+    "config_count": 3,
     "devices": [
       {
         "d": "A566E",
@@ -8531,8 +8531,7 @@
       }
     ],
     "folders": [
-      "SILENT_HILL_3",
-      "SilentHill"
+      "SILENT_HILL_3"
     ],
     "name": "SILENT HILL: Townfall"
   },
@@ -12004,7 +12003,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -12013,7 +12012,8 @@
       }
     ],
     "folders": [
-      "WolfNewOrder"
+      "WolfNewOrder",
+      "Wolfenstein__2009_"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -13608,7 +13608,7 @@
     "name": "Tenebris Somnia"
   },
   "2124490": {
-    "config_count": 6,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -13632,7 +13632,9 @@
       }
     ],
     "folders": [
-      "SILENT_HILL_2"
+      "SILENT_HILL_2",
+      "SILENT_HILL_3",
+      "SilentHill"
     ],
     "name": "SILENT HILL 2"
   },
@@ -15510,7 +15512,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 18,
+    "config_count": 22,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -15549,7 +15551,9 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -20552,6 +20556,14 @@
     ],
     "name": "Tokyo Xtreme Racer"
   },
+  "2637940": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Cars"
+    ],
+    "name": "Used Cars Simulator"
+  },
   "2638050": {
     "config_count": 1,
     "devices": [],
@@ -22741,7 +22753,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 35,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -22781,9 +22793,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "rerev",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -25763,7 +25773,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2372,
+    "config_count": 2373,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -29337,15 +29347,6 @@
     ],
     "name": "Car Service Together"
   },
-  "35020": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_Arkham_Asylum"
-    ],
-    "name": "Batman: Arkham Asylum Demo"
-  },
   "3503050": {
     "config_count": 1,
     "devices": [
@@ -29375,7 +29376,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 27,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -29445,6 +29446,8 @@
     ],
     "folders": [
       "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_Arkham_Asylum",
       "Batman__Arkham_Asylum_GOTY_Edition"
     ],
     "name": "Batman: Arkham Asylum Game of the Year Edition"
@@ -33121,18 +33124,10 @@
     "name": "Mousetrap: Theft & Bondage"
   },
   "4080220": {
-    "config_count": 3,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "S942U",
-        "s": "Adreno (TM) 840"
-      }
-    ],
+    "config_count": 1,
+    "devices": [],
     "folders": [
-      "EA",
-      "EA_SPORTS_FC__27",
-      "EA_Sports_FC_27"
+      "EA"
     ],
     "name": "EA SPORTS FC\u2122 27"
   },
@@ -36251,7 +36246,7 @@
     "name": "The Apothecary Diaries: The False Imperial Brother"
   },
   "4908110": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -38913,7 +38908,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -46677,7 +46672,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3346,
+    "config_count": 3347,
     "devices": [
       {
         "d": "G52_MC2",
