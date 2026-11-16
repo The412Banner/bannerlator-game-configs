@@ -3769,7 +3769,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 41,
+    "config_count": 59,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -3865,13 +3865,25 @@
         "d": "Adreno__TM__722",
         "m": "CPH2825",
         "s": "Adreno (TM) 722"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
       "Need_for_Speed__Heat",
       "nfs",
       "NFS_2",
-      "Need_for_Speed_Heat"
+      "Need_for_Speed_Heat",
+      "Speed",
+      "speed"
     ],
     "name": "Need for Speed\u2122 Heat"
   },
@@ -11970,7 +11982,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -11979,8 +11991,7 @@
       }
     ],
     "folders": [
-      "WolfNewOrder",
-      "Wolfenstein__2009_"
+      "WolfNewOrder"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -23876,7 +23887,7 @@
     "name": "Double Dragon Revive"
   },
   "3014320": {
-    "config_count": 5,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -23897,10 +23908,16 @@
         "d": "Adreno__TM__840",
         "m": "26077PC53G",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_0"
+      "OCTOPATH_TRAVELER_0",
+      "Octopath_Traveler"
     ],
     "name": "OCTOPATH TRAVELER 0"
   },
@@ -24658,7 +24675,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 59,
+    "config_count": 60,
     "devices": [
       {
         "d": "G78",
@@ -24764,6 +24781,11 @@
         "d": "Adreno__TM__830",
         "m": "TB322FC",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "S928W",
+        "s": "Adreno (TM) 750"
       }
     ],
     "folders": [
@@ -24930,6 +24952,14 @@
       "FINAL_FANTASY_XIV_Online_Free_Trial"
     ],
     "name": "FINAL FANTASY XIV Online Free Trial"
+  },
+  "3120600": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "RoomGirl"
+    ],
+    "name": "VR Harem Life ~ Your Room Became a Hang-Out for Girls!? ~"
   },
   "3121490": {
     "config_count": 1,
@@ -28019,8 +28049,14 @@
     "name": "Transformice"
   },
   "3354750": {
-    "config_count": 2,
-    "devices": [],
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "PowerVR_Rogue_GE8322",
+        "m": "24044RN32L",
+        "s": "PowerVR Rogue GE8322"
+      }
+    ],
     "folders": [
       "skate_",
       "skate__"
@@ -29279,6 +29315,15 @@
     ],
     "name": "Car Service Together"
   },
+  "35020": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_Arkham_Asylum"
+    ],
+    "name": "Batman: Arkham Asylum Demo"
+  },
   "3503050": {
     "config_count": 1,
     "devices": [
@@ -29308,7 +29353,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 29,
+    "config_count": 27,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -29378,8 +29423,6 @@
     ],
     "folders": [
       "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_Arkham_Asylum",
       "Batman__Arkham_Asylum_GOTY_Edition"
     ],
     "name": "Batman: Arkham Asylum Game of the Year Edition"
@@ -30740,7 +30783,7 @@
     "name": "Passion Industry"
   },
   "3740090": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "Bruisers"
@@ -33921,14 +33964,6 @@
     ],
     "name": "Little Nightmares"
   },
-  "4250010": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "RoomGirl"
-    ],
-    "name": "My Roommate is a cute Ghost Girl!?"
-  },
   "425220": {
     "config_count": 1,
     "devices": [
@@ -34607,26 +34642,6 @@
       "DREAMTONE_Demo"
     ],
     "name": "DREAMTONE Demo"
-  },
-  "4430260": {
-    "config_count": 18,
-    "devices": [
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "M2007J3SY",
-        "s": "Adreno (TM) 650"
-      }
-    ],
-    "folders": [
-      "Speed",
-      "speed"
-    ],
-    "name": "Beat For Speed"
   },
   "4433900": {
     "config_count": 1,
@@ -38904,7 +38919,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -42706,7 +42721,7 @@
     "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   "921570": {
-    "config_count": 9,
+    "config_count": 7,
     "devices": [
       {
         "d": "G615_MC6",
@@ -42722,16 +42737,10 @@
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "I2405",
-        "s": "Adreno (TM) 825"
       }
     ],
     "folders": [
-      "OCTOPATH_TRAVELER_",
-      "Octopath_Traveler"
+      "OCTOPATH_TRAVELER_"
     ],
     "name": "OCTOPATH TRAVELER\u2122"
   },
