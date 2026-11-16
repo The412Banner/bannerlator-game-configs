@@ -4065,20 +4065,6 @@
     ],
     "name": "Beach Buggy Racing 2 - Island Adventure"
   },
-  "12320": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred Gold"
-  },
   "1232460": {
     "config_count": 1,
     "devices": [
@@ -15516,7 +15502,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 22,
+    "config_count": 21,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -15556,8 +15542,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -22757,7 +22742,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -22797,7 +22782,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -31968,6 +31954,20 @@
       "Tekken_7"
     ],
     "name": "TEKKEN 7"
+  },
+  "3906660": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred 2 Remaster"
   },
   "3909960": {
     "config_count": 1,
@@ -42014,8 +42014,14 @@
     "name": "The Walking Dead: The Final Season"
   },
   "870780": {
-    "config_count": 5,
-    "devices": [],
+    "config_count": 6,
+    "devices": [
+      {
+        "d": "Adreno__TM__725",
+        "m": "23049PCD8G",
+        "s": "Adreno (TM) 725"
+      }
+    ],
     "folders": [
       "CONTROL_Ultimate_Edition",
       "Control_Ultimate_Edition"
