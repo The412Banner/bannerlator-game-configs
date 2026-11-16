@@ -14,6 +14,20 @@
     ],
     "name": "Counter-Strike"
   },
+  "1002300": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "Fear___Hunger"
+    ],
+    "name": "Fear & Hunger"
+  },
   "1004640": {
     "config_count": 3,
     "devices": [
@@ -3763,7 +3777,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 41,
+    "config_count": 59,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -3859,13 +3873,25 @@
         "d": "Adreno__TM__722",
         "m": "CPH2825",
         "s": "Adreno (TM) 722"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
       "Need_for_Speed__Heat",
       "nfs",
       "NFS_2",
-      "Need_for_Speed_Heat"
+      "Need_for_Speed_Heat",
+      "Speed",
+      "speed"
     ],
     "name": "Need for Speed\u2122 Heat"
   },
@@ -4050,20 +4076,6 @@
       "Beach_Buggy_Racing_2_-_Island_Adventure"
     ],
     "name": "Beach Buggy Racing 2 - Island Adventure"
-  },
-  "12320": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred Gold"
   },
   "1232460": {
     "config_count": 1,
@@ -11589,7 +11601,7 @@
     "name": "Backpack Hero"
   },
   "1971650": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
@@ -11610,10 +11622,16 @@
         "d": "Adreno__TM__740",
         "m": "S918B",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       }
     ],
     "folders": [
       "OCTOPATH_TRAVELER_II",
+      "Octopath_Traveler_2",
       "Octopath_Traveler_II"
     ],
     "name": "OCTOPATH TRAVELER II"
@@ -11993,7 +12011,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -12002,7 +12020,8 @@
       }
     ],
     "folders": [
-      "WolfNewOrder"
+      "WolfNewOrder",
+      "Wolfenstein__2009_"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -14101,7 +14120,7 @@
     "name": "Aero GPX"
   },
   "2161700": {
-    "config_count": 18,
+    "config_count": 17,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -14152,8 +14171,7 @@
     "folders": [
       "Persona_3_Reload",
       "____-_______Persona_3_Reload",
-      "P3R",
-      "re3"
+      "P3R"
     ],
     "name": "Persona 3 Reload"
   },
@@ -14400,20 +14418,6 @@
       "Of_Orcs_and_Men"
     ],
     "name": "Of Orcs And Men"
-  },
-  "2171440": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "NX809J",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "Fear___Hunger"
-    ],
-    "name": "Fear & Hunger 2: Termina"
   },
   "2172910": {
     "config_count": 1,
@@ -18163,14 +18167,6 @@
     ],
     "name": "MOUSE: P.I. For Hire"
   },
-  "2417610": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Metal_Gear_Solid"
-    ],
-    "name": "METAL GEAR SOLID \u0394: SNAKE EATER"
-  },
   "241930": {
     "config_count": 10,
     "devices": [
@@ -19269,7 +19265,7 @@
     "name": "FATAL FURY: City of the Wolves"
   },
   "2492670": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G57_MC2",
@@ -19280,7 +19276,8 @@
     "folders": [
       "METAL_GEAR_SOLID_4__Guns_of_the_Patriots_-_Master_Collection_Version",
       "VERS_O_DEMO_DE_DRAGON_BALL_Z__KAKAROT",
-      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version"
+      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version",
+      "Metal_Gear_Solid"
     ],
     "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version"
   },
@@ -25784,7 +25781,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2373,
+    "config_count": 2377,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -31578,7 +31575,7 @@
     "name": "Rivals of Aether"
   },
   "3841510": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -31587,7 +31584,8 @@
       }
     ],
     "folders": [
-      "Dynasty_Warriors_6"
+      "Dynasty_Warriors_6",
+      "re3"
     ],
     "name": "DYNASTY WARRIORS 3: Complete Edition Remastered"
   },
@@ -31980,6 +31978,20 @@
       "Tekken_7"
     ],
     "name": "TEKKEN 7"
+  },
+  "3906660": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred 2 Remaster"
   },
   "3909960": {
     "config_count": 1,
@@ -34664,26 +34676,6 @@
     ],
     "name": "DREAMTONE Demo"
   },
-  "4430260": {
-    "config_count": 18,
-    "devices": [
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "M2007J3SY",
-        "s": "Adreno (TM) 650"
-      }
-    ],
-    "folders": [
-      "Speed",
-      "speed"
-    ],
-    "name": "Beat For Speed"
-  },
   "4433900": {
     "config_count": 1,
     "devices": [
@@ -36485,6 +36477,20 @@
       "StateOfDecay2"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
+  },
+  "4996080": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Immortalis_MC12",
+        "m": "G720",
+        "s": "Mali-G720-Immortalis MC12"
+      }
+    ],
+    "folders": [
+      "Resonance_of_Fate"
+    ],
+    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 ENHANCED REMASTER"
   },
   "500": {
     "config_count": 15,
@@ -38953,7 +38959,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -39345,20 +39351,6 @@
       "Coming_Out_on_Top"
     ],
     "name": "Coming Out on Top"
-  },
-  "645730": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Immortalis_MC12",
-        "m": "G720",
-        "s": "Mali-G720-Immortalis MC12"
-      }
-    ],
-    "folders": [
-      "Resonance_of_Fate"
-    ],
-    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 4K/HD EDITION"
   },
   "646570": {
     "config_count": 2,
