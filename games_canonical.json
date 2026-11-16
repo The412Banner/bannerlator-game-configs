@@ -14,20 +14,6 @@
     ],
     "name": "Counter-Strike"
   },
-  "1002300": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "NX809J",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "Fear___Hunger"
-    ],
-    "name": "Fear & Hunger"
-  },
   "1004640": {
     "config_count": 3,
     "devices": [
@@ -512,6 +498,14 @@
       "Battlefield_1"
     ],
     "name": "Battlefield 1"
+  },
+  "1026680": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "FINAL_FANTASY_VIII_REMASTERED"
+    ],
+    "name": "FINAL FANTASY VIII - REMASTERED"
   },
   "10270": {
     "config_count": 2,
@@ -12535,7 +12529,7 @@
     "name": "Sonic the Hedgehog 4 - Episode II"
   },
   "203750": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "Binary_Domain"
@@ -12799,7 +12793,7 @@
     "name": "Resident Evil 4"
   },
   "205100": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -12833,7 +12827,8 @@
       }
     ],
     "folders": [
-      "Dishonored"
+      "Dishonored",
+      "Dishonored_-_Definitive_Edition"
     ],
     "name": "Dishonored"
   },
@@ -14405,6 +14400,20 @@
       "Of_Orcs_and_Men"
     ],
     "name": "Of Orcs And Men"
+  },
+  "2171440": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "Fear___Hunger"
+    ],
+    "name": "Fear & Hunger 2: Termina"
   },
   "2172910": {
     "config_count": 1,
@@ -24324,7 +24333,7 @@
     "name": "Portrait of a Torn"
   },
   "3059520": {
-    "config_count": 21,
+    "config_count": 25,
     "devices": [
       {
         "d": "G57_MC2",
@@ -24380,6 +24389,11 @@
         "d": "Adreno__TM__650",
         "m": "G780G",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
@@ -27968,7 +27982,7 @@
     "name": "Assassin's Creed 2"
   },
   "332800": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "Adreno__TM__618",
@@ -27977,7 +27991,6 @@
       }
     ],
     "folders": [
-      "FiveNightsatFreddys_3",
       "Five_Nights_At_Freddys_2"
     ],
     "name": "Five Nights at Freddy's 2"
@@ -28180,6 +28193,14 @@
       "KuloNiku"
     ],
     "name": "KuloNiku: Bowl Up!"
+  },
+  "3358360": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Motorcycle_Night_Ride"
+    ],
+    "name": "Motorcycle Night Ride"
   },
   "3365030": {
     "config_count": 1,
@@ -29575,6 +29596,20 @@
     ],
     "name": "Aces of the Luftwaffe"
   },
+  "354140": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__618",
+        "m": "M2007J20CG",
+        "s": "Adreno (TM) 618"
+      }
+    ],
+    "folders": [
+      "FiveNightsatFreddys_3"
+    ],
+    "name": "Five Nights at Freddy's 3"
+  },
   "354160": {
     "config_count": 1,
     "devices": [
@@ -29954,7 +29989,7 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae II"
   },
   "3595270": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G68",
@@ -29963,8 +29998,7 @@
       }
     ],
     "folders": [
-      "Call_of_Duty___Modern_Warfare__III",
-      "Call_of_Duty_-_Modern_Warfare_3__2011_"
+      "Call_of_Duty___Modern_Warfare__III"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae III"
   },
@@ -32325,7 +32359,7 @@
     "name": "Rise of the Tomb Raider\u2122"
   },
   "39150": {
-    "config_count": 5,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -32335,8 +32369,7 @@
     ],
     "folders": [
       "FINAL_FANTASY_VIII",
-      "FINAL_FANTASY_VIII_-_REMASTERED",
-      "FINAL_FANTASY_VIII_REMASTERED"
+      "FINAL_FANTASY_VIII_-_REMASTERED"
     ],
     "name": "FINAL FANTASY VIII"
   },
@@ -33989,7 +34022,7 @@
     "name": "Innocent Assault SS"
   },
   "42680": {
-    "config_count": 49,
+    "config_count": 50,
     "devices": [
       {
         "d": "Infinix_X6833B",
@@ -34088,7 +34121,8 @@
       }
     ],
     "folders": [
-      "Call_of_Duty___Modern_Warfare__3__2011_"
+      "Call_of_Duty___Modern_Warfare__3__2011_",
+      "Call_of_Duty_-_Modern_Warfare_3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
@@ -44129,14 +44163,6 @@
     ],
     "name": "Bh6"
   },
-  "name:binary-domain": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Binary_Domain"
-    ],
-    "name": "Binary Domain"
-  },
   "name:bio4": {
     "config_count": 3,
     "devices": [
@@ -44670,14 +44696,6 @@
     ],
     "name": "Discordsetup"
   },
-  "name:dishonored-definitive-edition": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Dishonored_-_Definitive_Edition"
-    ],
-    "name": "Dishonored Definitive Edition"
-  },
   "name:dishonored-do": {
     "config_count": 1,
     "devices": [],
@@ -44995,20 +45013,6 @@
       "F_E_A_R__Platinum_Collection"
     ],
     "name": "F E A R Platinum Collection"
-  },
-  "name:f1-2014": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "23129RA5FL",
-        "s": "Adreno (TM) 610"
-      }
-    ],
-    "folders": [
-      "F1_2014"
-    ],
-    "name": "F1 2014"
   },
   "name:fallout-new-vegas-pcr": {
     "config_count": 2,
@@ -46094,14 +46098,6 @@
       "MossCollection"
     ],
     "name": "Mosscollection"
-  },
-  "name:motorcycle-night-ride": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Motorcycle_Night_Ride"
-    ],
-    "name": "Motorcycle Night Ride"
   },
   "name:my-crush-s-mom-is-an-active-magical-girl": {
     "config_count": 1,
@@ -49694,6 +49690,14 @@
       "Unity_playback_engine_"
     ],
     "name": "Unity Playback Engine"
+  },
+  "name:vampire-the-masquered-bloodlines-loader": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Vampire_the_masquered_-_Bloodlines_Loader_"
+    ],
+    "name": "Vampire The Masquered Bloodlines Loader"
   },
   "name:victoria-ii-civil-war-edition": {
     "config_count": 1,
