@@ -513,14 +513,6 @@
     ],
     "name": "Battlefield 1"
   },
-  "1026680": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "FINAL_FANTASY_VIII_REMASTERED"
-    ],
-    "name": "FINAL FANTASY VIII - REMASTERED"
-  },
   "10270": {
     "config_count": 2,
     "devices": [],
@@ -3777,7 +3769,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 58,
+    "config_count": 59,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -3888,6 +3880,7 @@
     "folders": [
       "Need_for_Speed__Heat",
       "nfs",
+      "NFS_2",
       "Need_for_Speed_Heat",
       "Speed",
       "speed"
@@ -4075,6 +4068,20 @@
       "Beach_Buggy_Racing_2_-_Island_Adventure"
     ],
     "name": "Beach Buggy Racing 2 - Island Adventure"
+  },
+  "12320": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred Gold"
   },
   "1232460": {
     "config_count": 1,
@@ -5391,6 +5398,14 @@
       "Gothic"
     ],
     "name": "Gothic 1 Remake"
+  },
+  "1301950": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Loader"
+    ],
+    "name": "Time Loader"
   },
   "1303197": {
     "config_count": 2,
@@ -11996,7 +12011,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -12005,8 +12020,7 @@
       }
     ],
     "folders": [
-      "WolfNewOrder",
-      "Wolfenstein__2009_"
+      "WolfNewOrder"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -12533,7 +12547,7 @@
     "name": "Sonic the Hedgehog 4 - Episode II"
   },
   "203750": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [],
     "folders": [
       "Binary_Domain"
@@ -12797,7 +12811,7 @@
     "name": "Resident Evil 4"
   },
   "205100": {
-    "config_count": 15,
+    "config_count": 14,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -12831,8 +12845,7 @@
       }
     ],
     "folders": [
-      "Dishonored",
-      "Dishonored_-_Definitive_Edition"
+      "Dishonored"
     ],
     "name": "Dishonored"
   },
@@ -14105,7 +14118,7 @@
     "name": "Aero GPX"
   },
   "2161700": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -14156,7 +14169,8 @@
     "folders": [
       "Persona_3_Reload",
       "____-_______Persona_3_Reload",
-      "P3R"
+      "P3R",
+      "re3"
     ],
     "name": "Persona 3 Reload"
   },
@@ -18152,6 +18166,14 @@
     ],
     "name": "MOUSE: P.I. For Hire"
   },
+  "2417610": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Metal_Gear_Solid"
+    ],
+    "name": "METAL GEAR SOLID \u0394: SNAKE EATER"
+  },
   "241930": {
     "config_count": 10,
     "devices": [
@@ -19250,7 +19272,7 @@
     "name": "FATAL FURY: City of the Wolves"
   },
   "2492670": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "G57_MC2",
@@ -19261,8 +19283,7 @@
     "folders": [
       "METAL_GEAR_SOLID_4__Guns_of_the_Patriots_-_Master_Collection_Version",
       "VERS_O_DEMO_DE_DRAGON_BALL_Z__KAKAROT",
-      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version",
-      "Metal_Gear_Solid"
+      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version"
     ],
     "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version"
   },
@@ -24315,7 +24336,7 @@
     "name": "Portrait of a Torn"
   },
   "3059520": {
-    "config_count": 25,
+    "config_count": 21,
     "devices": [
       {
         "d": "G57_MC2",
@@ -24371,11 +24392,6 @@
         "d": "Adreno__TM__650",
         "m": "G780G",
         "s": "Adreno (TM) 650"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "23129RA5FL",
-        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
@@ -27964,7 +27980,7 @@
     "name": "Assassin's Creed 2"
   },
   "332800": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__618",
@@ -27973,6 +27989,7 @@
       }
     ],
     "folders": [
+      "FiveNightsatFreddys_3",
       "Five_Nights_At_Freddys_2"
     ],
     "name": "Five Nights at Freddy's 2"
@@ -28175,14 +28192,6 @@
       "KuloNiku"
     ],
     "name": "KuloNiku: Bowl Up!"
-  },
-  "3358360": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Motorcycle_Night_Ride"
-    ],
-    "name": "Motorcycle Night Ride"
   },
   "3365030": {
     "config_count": 1,
@@ -29586,20 +29595,6 @@
     ],
     "name": "Aces of the Luftwaffe"
   },
-  "354140": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__618",
-        "m": "M2007J20CG",
-        "s": "Adreno (TM) 618"
-      }
-    ],
-    "folders": [
-      "FiveNightsatFreddys_3"
-    ],
-    "name": "Five Nights at Freddy's 3"
-  },
   "354160": {
     "config_count": 1,
     "devices": [
@@ -29979,7 +29974,7 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae II"
   },
   "3595270": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G68",
@@ -29988,7 +29983,8 @@
       }
     ],
     "folders": [
-      "Call_of_Duty___Modern_Warfare__III"
+      "Call_of_Duty___Modern_Warfare__III",
+      "Call_of_Duty_-_Modern_Warfare_3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae III"
   },
@@ -31560,7 +31556,7 @@
     "name": "Rivals of Aether"
   },
   "3841510": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -31569,8 +31565,7 @@
       }
     ],
     "folders": [
-      "Dynasty_Warriors_6",
-      "re3"
+      "Dynasty_Warriors_6"
     ],
     "name": "DYNASTY WARRIORS 3: Complete Edition Remastered"
   },
@@ -31964,20 +31959,6 @@
     ],
     "name": "TEKKEN 7"
   },
-  "3906660": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred 2 Remaster"
-  },
   "3909960": {
     "config_count": 1,
     "devices": [
@@ -32356,7 +32337,7 @@
     "name": "Rise of the Tomb Raider\u2122"
   },
   "39150": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -32366,7 +32347,8 @@
     ],
     "folders": [
       "FINAL_FANTASY_VIII",
-      "FINAL_FANTASY_VIII_-_REMASTERED"
+      "FINAL_FANTASY_VIII_-_REMASTERED",
+      "FINAL_FANTASY_VIII_REMASTERED"
     ],
     "name": "FINAL FANTASY VIII"
   },
@@ -34019,7 +34001,7 @@
     "name": "Innocent Assault SS"
   },
   "42680": {
-    "config_count": 50,
+    "config_count": 49,
     "devices": [
       {
         "d": "Infinix_X6833B",
@@ -34118,8 +34100,7 @@
       }
     ],
     "folders": [
-      "Call_of_Duty___Modern_Warfare__3__2011_",
-      "Call_of_Duty_-_Modern_Warfare_3__2011_"
+      "Call_of_Duty___Modern_Warfare__3__2011_"
     ],
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)"
   },
@@ -38930,7 +38911,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -42916,6 +42897,14 @@
     ],
     "name": "Far Cry\u00ae New Dawn"
   },
+  "940190": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Chuckie_Egg_3"
+    ],
+    "name": "Chuckie Egg 2017"
+  },
   "940910": {
     "config_count": 1,
     "devices": [],
@@ -44132,6 +44121,14 @@
     ],
     "name": "Bh6"
   },
+  "name:binary-domain": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Binary_Domain"
+    ],
+    "name": "Binary Domain"
+  },
   "name:bio4": {
     "config_count": 3,
     "devices": [
@@ -44300,14 +44297,6 @@
       "CDMWTHEMOCS2"
     ],
     "name": "Cdmwthemocs2"
-  },
-  "name:chuckie-egg-3": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Chuckie_Egg_3"
-    ],
-    "name": "Chuckie Egg 3"
   },
   "name:civilization-ii-multiplayer-gold-edition": {
     "config_count": 1,
@@ -44673,6 +44662,14 @@
     ],
     "name": "Discordsetup"
   },
+  "name:dishonored-definitive-edition": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Dishonored_-_Definitive_Edition"
+    ],
+    "name": "Dishonored Definitive Edition"
+  },
   "name:dishonored-do": {
     "config_count": 1,
     "devices": [],
@@ -44990,6 +44987,20 @@
       "F_E_A_R__Platinum_Collection"
     ],
     "name": "F E A R Platinum Collection"
+  },
+  "name:f1-2014": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "23129RA5FL",
+        "s": "Adreno (TM) 610"
+      }
+    ],
+    "folders": [
+      "F1_2014"
+    ],
+    "name": "F1 2014"
   },
   "name:fallout-new-vegas-pcr": {
     "config_count": 2,
@@ -46076,6 +46087,14 @@
     ],
     "name": "Mosscollection"
   },
+  "name:motorcycle-night-ride": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Motorcycle_Night_Ride"
+    ],
+    "name": "Motorcycle Night Ride"
+  },
   "name:my-crush-s-mom-is-an-active-magical-girl": {
     "config_count": 1,
     "devices": [],
@@ -46273,14 +46292,6 @@
       "Need_For_Speed_Underground_2_SIL_Edition"
     ],
     "name": "Need For Speed Underground 2 Sil Edition"
-  },
-  "name:nfs-2": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "NFS_2"
-    ],
-    "name": "Nfs 2"
   },
   "name:nfs-most-wanted": {
     "config_count": 2,
