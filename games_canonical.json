@@ -9090,6 +9090,20 @@
     ],
     "name": "Minecraft Dungeons"
   },
+  "1675200": {
+    "config_count": 5,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "A024",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Steam"
+    ],
+    "name": "Steam Deck"
+  },
   "1676840": {
     "config_count": 1,
     "devices": [],
@@ -11601,7 +11615,7 @@
     "name": "Backpack Hero"
   },
   "1971650": {
-    "config_count": 10,
+    "config_count": 9,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
@@ -11622,16 +11636,10 @@
         "d": "Adreno__TM__740",
         "m": "S918B",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
       }
     ],
     "folders": [
       "OCTOPATH_TRAVELER_II",
-      "Octopath_Traveler_2",
       "Octopath_Traveler_II"
     ],
     "name": "OCTOPATH TRAVELER II"
@@ -28968,6 +28976,14 @@
     ],
     "name": "RealFlight Evolution \u2013 E-flite UMX Cirrus SR22T"
   },
+  "34830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper: Ghost Warrior"
+  },
   "3483510": {
     "config_count": 3,
     "devices": [
@@ -29119,7 +29135,7 @@
     "name": "Stellar Blade\u2122"
   },
   "349040": {
-    "config_count": 92,
+    "config_count": 93,
     "devices": [
       {
         "d": "G615_MC2",
@@ -29227,11 +29243,6 @@
         "s": "PowerVR B-Series BXM-8-256"
       },
       {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      },
-      {
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
@@ -29250,6 +29261,11 @@
         "d": "Adreno__TM__710",
         "m": "I2219",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "G77_MC9",
@@ -30521,14 +30537,6 @@
       "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
-  },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 2,
@@ -33594,20 +33602,6 @@
       "mywintercar"
     ],
     "name": "My Winter Car"
-  },
-  "4165890": {
-    "config_count": 5,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "A024",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Steam"
-    ],
-    "name": "Steam Frame"
   },
   "418030": {
     "config_count": 1,
@@ -49687,6 +49681,14 @@
       "Unity_playback_engine_"
     ],
     "name": "Unity Playback Engine"
+  },
+  "name:unitycrashhandler64": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "UnityCrashHandler64"
+    ],
+    "name": "Unitycrashhandler64"
   },
   "name:vampire-the-masquered-bloodlines-loader": {
     "config_count": 1,
