@@ -15515,7 +15515,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -15555,7 +15555,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev"
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -22789,7 +22790,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -22829,8 +22830,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -45948,6 +45948,14 @@
       "LunaAbyss-WinGDK-Shipping"
     ],
     "name": "Lunaabyss Wingdk Shipping"
+  },
+  "name:mafiadefinitiveedition": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "mafiadefinitiveedition"
+    ],
+    "name": "Mafiadefinitiveedition"
   },
   "name:marvel-s-guardians-of-the-galaxy-the-telltale-series": {
     "config_count": 1,
