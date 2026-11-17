@@ -750,7 +750,7 @@
     "name": "Mafia II: Definitive Edition"
   },
   "1030840": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -761,6 +761,11 @@
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__725",
+        "m": "23049PCD8G",
+        "s": "Adreno (TM) 725"
       },
       {
         "d": "Adreno__TM__829",
@@ -6235,7 +6240,7 @@
     "name": "Disney Dreamlight Valley"
   },
   "1405670": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -12001,7 +12006,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -12010,8 +12015,7 @@
       }
     ],
     "folders": [
-      "WolfNewOrder",
-      "Wolfenstein__2009_"
+      "WolfNewOrder"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -15511,7 +15515,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 18,
+    "config_count": 21,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -15550,7 +15554,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -18156,6 +18161,14 @@
     ],
     "name": "MOUSE: P.I. For Hire"
   },
+  "2417610": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Metal_Gear_Solid"
+    ],
+    "name": "METAL GEAR SOLID \u0394: SNAKE EATER"
+  },
   "241930": {
     "config_count": 10,
     "devices": [
@@ -19259,7 +19272,7 @@
     "name": "FATAL FURY: City of the Wolves"
   },
   "2492670": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "G57_MC2",
@@ -19270,8 +19283,7 @@
     "folders": [
       "METAL_GEAR_SOLID_4__Guns_of_the_Patriots_-_Master_Collection_Version",
       "VERS_O_DEMO_DE_DRAGON_BALL_Z__KAKAROT",
-      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version",
-      "Metal_Gear_Solid"
+      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version"
     ],
     "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version"
   },
@@ -20657,7 +20669,7 @@
     "name": "Subnautica"
   },
   "2651280": {
-    "config_count": 27,
+    "config_count": 26,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -21208,6 +21220,14 @@
       "Kindergarten3"
     ],
     "name": "Kindergarten 3"
+  },
+  "2696230": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GBVSR"
+    ],
+    "name": "GBVSR - System Voice Set"
   },
   "269650": {
     "config_count": 1,
@@ -22769,7 +22789,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 35,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -22810,7 +22830,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -25809,7 +25828,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2386,
+    "config_count": 2387,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -27647,14 +27666,6 @@
     ],
     "name": "Heretic + Hexen"
   },
-  "3287490": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GBVSR"
-    ],
-    "name": "GBVSR - Deluxe Character Pass 2"
-  },
   "3287520": {
     "config_count": 1,
     "devices": [],
@@ -29300,7 +29311,7 @@
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
   },
   "3493540": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G57_MC2",
@@ -35103,20 +35114,6 @@
     ],
     "name": "Gold Mining Simulator"
   },
-  "4523200": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "I2501",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "SO2R"
-    ],
-    "name": "Diablo II: Resurrected - Original Soundtrack"
-  },
   "4533800": {
     "config_count": 2,
     "devices": [
@@ -37145,14 +37142,6 @@
     ],
     "name": "Just Cause 4 Reloaded"
   },
-  "5185750": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "tra"
-    ],
-    "name": "Trafficity"
-  },
   "5190450": {
     "config_count": 1,
     "devices": [
@@ -38985,7 +38974,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -40830,6 +40819,20 @@
       "Russian_Fishing_4"
     ],
     "name": "Russian Fishing 4"
+  },
+  "768520": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "I2501",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "SO2R"
+    ],
+    "name": "Red Solstice 2: Survivors"
   },
   "773700": {
     "config_count": 1,
