@@ -3777,7 +3777,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 59,
+    "config_count": 41,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -3873,25 +3873,13 @@
         "d": "Adreno__TM__722",
         "m": "CPH2825",
         "s": "Adreno (TM) 722"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "M2007J3SY",
-        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
       "Need_for_Speed__Heat",
       "nfs",
       "NFS_2",
-      "Need_for_Speed_Heat",
-      "Speed",
-      "speed"
+      "Need_for_Speed_Heat"
     ],
     "name": "Need for Speed\u2122 Heat"
   },
@@ -4787,7 +4775,7 @@
     "name": "Signalis"
   },
   "1262540": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "G52_MC2",
@@ -4813,7 +4801,8 @@
     "folders": [
       "Need_for_Speed_",
       "need_for_speed",
-      "need_for_speed_"
+      "need_for_speed_",
+      "Need_for_speed__2005_"
     ],
     "name": "Need for Speed\u2122"
   },
@@ -6943,7 +6932,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 122,
+    "config_count": 123,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -15522,7 +15511,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 21,
+    "config_count": 18,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -15561,8 +15550,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -17465,7 +17453,7 @@
     "name": "War Thunder"
   },
   "236430": {
-    "config_count": 21,
+    "config_count": 18,
     "devices": [
       {
         "d": "G720_MC7",
@@ -17501,22 +17489,11 @@
         "d": "Adreno__TM__619",
         "m": "22111317PG",
         "s": "Adreno (TM) 619"
-      },
-      {
-        "d": "G68_MC4",
-        "m": "Mali",
-        "s": "Mali-G68 MC4"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g34_5G",
-        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
       "DARK_SOULS__II",
-      "DARK_SOULS_II",
-      "DarkSoulsII"
+      "DARK_SOULS_II"
     ],
     "name": "DARK SOULS\u2122 II"
   },
@@ -18178,14 +18155,6 @@
       "MOUSE__P_I__For_Hire"
     ],
     "name": "MOUSE: P.I. For Hire"
-  },
-  "2417610": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Metal_Gear_Solid"
-    ],
-    "name": "METAL GEAR SOLID \u0394: SNAKE EATER"
   },
   "241930": {
     "config_count": 10,
@@ -19290,7 +19259,7 @@
     "name": "FATAL FURY: City of the Wolves"
   },
   "2492670": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G57_MC2",
@@ -19301,7 +19270,8 @@
     "folders": [
       "METAL_GEAR_SOLID_4__Guns_of_the_Patriots_-_Master_Collection_Version",
       "VERS_O_DEMO_DE_DRAGON_BALL_Z__KAKAROT",
-      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version"
+      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version",
+      "Metal_Gear_Solid"
     ],
     "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version"
   },
@@ -19334,7 +19304,7 @@
     "name": "Volkolak: The Will of Gods"
   },
   "2499860": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -22799,7 +22769,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 35,
     "devices": [
       {
         "d": "G615_MC2",
@@ -22840,6 +22810,7 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
+      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -27692,6 +27663,20 @@
     ],
     "name": "NINJA GAIDEN 2 Black"
   },
+  "3287910": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "CPH2795",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "MadMax_Game"
+    ],
+    "name": "GameGuru MAX - Madman's Melee Weapons"
+  },
   "329050": {
     "config_count": 60,
     "devices": [
@@ -30357,10 +30342,9 @@
     "name": "Drift Legends 2"
   },
   "3669870": {
-    "config_count": 3,
+    "config_count": 1,
     "devices": [],
     "folders": [
-      "Control_Ultimate_Edition",
       "control"
     ],
     "name": "CONTROL Resonant"
@@ -30868,7 +30852,7 @@
     "name": "Bruisers 2D Boxing"
   },
   "374320": {
-    "config_count": 42,
+    "config_count": 45,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -30946,6 +30930,16 @@
         "s": "Adreno (TM) 830"
       },
       {
+        "d": "G68_MC4",
+        "m": "Mali",
+        "s": "Mali-G68 MC4"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
+      },
+      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
@@ -30957,6 +30951,7 @@
       "DARK_SOULS__III",
       "DarkSoulsRemastered",
       "DARK_SOULS_III",
+      "DarkSoulsII",
       "DarkSoulsIII",
       "Dark_Souls_III"
     ],
@@ -34701,6 +34696,26 @@
     ],
     "name": "DREAMTONE Demo"
   },
+  "4430260": {
+    "config_count": 18,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
+      }
+    ],
+    "folders": [
+      "Speed",
+      "speed"
+    ],
+    "name": "Beat For Speed"
+  },
   "4433900": {
     "config_count": 1,
     "devices": [
@@ -35087,6 +35102,20 @@
       "Gold_Mining_Simulator"
     ],
     "name": "Gold Mining Simulator"
+  },
+  "4523200": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "I2501",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "SO2R"
+    ],
+    "name": "Diablo II: Resurrected - Original Soundtrack"
   },
   "4533800": {
     "config_count": 2,
@@ -37745,7 +37774,7 @@
     "name": "Brick Rigs"
   },
   "55230": {
-    "config_count": 13,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -37780,8 +37809,7 @@
     ],
     "folders": [
       "Saints_Row__The_Third",
-      "SaintsRowTheThird",
-      "Saints_Row___The_Third__Remastered"
+      "SaintsRowTheThird"
     ],
     "name": "Saints Row: The Third"
   },
@@ -40803,20 +40831,6 @@
     ],
     "name": "Russian Fishing 4"
   },
-  "768520": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "I2501",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "SO2R"
-    ],
-    "name": "Red Solstice 2: Survivors"
-  },
   "773700": {
     "config_count": 1,
     "devices": [
@@ -42043,7 +42057,7 @@
     "name": "The Walking Dead: The Final Season"
   },
   "870780": {
-    "config_count": 4,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__725",
@@ -43586,6 +43600,14 @@
       "Eastward"
     ],
     "name": "Eastward"
+  },
+  "978300": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Saints_Row___The_Third__Remastered"
+    ],
+    "name": "Saints Row\u00ae: The Third\u2122 Remastered"
   },
   "978780": {
     "config_count": 3,
@@ -45137,14 +45159,6 @@
     ],
     "name": "Ffxiii"
   },
-  "name:fifa-20": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "FIFA_20"
-    ],
-    "name": "Fifa 20"
-  },
   "name:fifa14": {
     "config_count": 1,
     "devices": [],
@@ -45932,20 +45946,6 @@
     ],
     "name": "Lunaabyss Wingdk Shipping"
   },
-  "name:madmax-game": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "CPH2795",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "MadMax_Game"
-    ],
-    "name": "Madmax Game"
-  },
   "name:marvel-s-guardians-of-the-galaxy-the-telltale-series": {
     "config_count": 1,
     "devices": [
@@ -46240,14 +46240,6 @@
       "NBA2K23"
     ],
     "name": "Nba2K23"
-  },
-  "name:need-for-speed-2005": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Need_for_speed__2005_"
-    ],
-    "name": "Need For Speed 2005"
   },
   "name:need-for-speed-black-edition": {
     "config_count": 1,
