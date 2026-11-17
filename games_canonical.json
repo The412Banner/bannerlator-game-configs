@@ -3782,7 +3782,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 59,
+    "config_count": 41,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -3878,25 +3878,13 @@
         "d": "Adreno__TM__722",
         "m": "CPH2825",
         "s": "Adreno (TM) 722"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "M2007J3SY",
-        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
       "Need_for_Speed__Heat",
       "nfs",
       "NFS_2",
-      "Need_for_Speed_Heat",
-      "Speed",
-      "speed"
+      "Need_for_Speed_Heat"
     ],
     "name": "Need for Speed\u2122 Heat"
   },
@@ -12018,7 +12006,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -12027,8 +12015,7 @@
       }
     ],
     "folders": [
-      "WolfNewOrder",
-      "Wolfenstein__2009_"
+      "WolfNewOrder"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -27433,6 +27420,14 @@
     ],
     "name": "STAR WARS\u2122 Empire at War - Gold Pack"
   },
+  "3247270": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Myrmidon"
+    ],
+    "name": "Myrmidon"
+  },
   "324800": {
     "config_count": 1,
     "devices": [
@@ -28604,7 +28599,7 @@
     "name": "Dead as Disco"
   },
   "3405340": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -34734,6 +34729,26 @@
     ],
     "name": "DREAMTONE Demo"
   },
+  "4430260": {
+    "config_count": 18,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
+      }
+    ],
+    "folders": [
+      "Speed",
+      "speed"
+    ],
+    "name": "Beat For Speed"
+  },
   "4433900": {
     "config_count": 1,
     "devices": [
@@ -38997,7 +39012,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__830",
