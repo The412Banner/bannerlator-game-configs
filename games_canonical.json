@@ -1772,20 +1772,6 @@
     ],
     "name": "People Playground"
   },
-  "1118272": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__618",
-        "m": "M2007J20CG",
-        "s": "Adreno (TM) 618"
-      }
-    ],
-    "folders": [
-      "dirt_3"
-    ],
-    "name": "DiRT Rally 2.0 - Peugeot 306 Maxi"
-  },
   "1118310": {
     "config_count": 1,
     "devices": [],
@@ -6944,7 +6930,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 123,
+    "config_count": 118,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -10409,7 +10395,7 @@
     "name": "Harvestella"
   },
   "1817070": {
-    "config_count": 30,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -10499,8 +10485,7 @@
     ],
     "folders": [
       "Marvel_s_Spider-Man_Remastered",
-      "REM",
-      "Spider-man_Remastered"
+      "REM"
     ],
     "name": "Marvel\u2019s Spider-Man Remastered"
   },
@@ -15601,20 +15586,6 @@
     ],
     "name": "Insurgency"
   },
-  "2229870": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      }
-    ],
-    "folders": [
-      "Command_and_Conquer_Generals_Deluxe_Edition"
-    ],
-    "name": "Command & Conquer\u2122 Generals"
-  },
   "22300": {
     "config_count": 21,
     "devices": [
@@ -20676,7 +20647,7 @@
     "name": "Subnautica"
   },
   "2651280": {
-    "config_count": 27,
+    "config_count": 28,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -20732,13 +20703,19 @@
         "d": "Adreno__TM__730",
         "m": "motorola_edge_30_ultra",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
       "Activision_Spider-Man_3",
       "Marvel_s_Spider-Man_2",
       "Spider-Man_3",
-      "Spider-Man"
+      "Spider-Man",
+      "Spider-man_Remastered"
     ],
     "name": "Marvel's Spider-Man 2"
   },
@@ -28006,7 +27983,7 @@
     "name": "Assassin's Creed 2"
   },
   "332800": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__618",
@@ -28015,6 +27992,7 @@
       }
     ],
     "folders": [
+      "FiveNightsatFreddys_3",
       "Five_Nights_At_Freddys_2"
     ],
     "name": "Five Nights at Freddy's 2"
@@ -28668,6 +28646,14 @@
       "Heavy_Weapon"
     ],
     "name": "Heavy Weapon Deluxe"
+  },
+  "3419290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN"
   },
   "341940": {
     "config_count": 4,
@@ -29382,15 +29368,6 @@
     ],
     "name": "Car Service Together"
   },
-  "35020": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_Arkham_Asylum"
-    ],
-    "name": "Batman: Arkham Asylum Demo"
-  },
   "3503050": {
     "config_count": 1,
     "devices": [
@@ -29420,7 +29397,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 27,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -29490,6 +29467,8 @@
     ],
     "folders": [
       "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_Arkham_Asylum",
       "Batman__Arkham_Asylum_GOTY_Edition"
     ],
     "name": "Batman: Arkham Asylum Game of the Year Edition"
@@ -29626,20 +29605,6 @@
       "Aces_of_the_Luftwaffe"
     ],
     "name": "Aces of the Luftwaffe"
-  },
-  "354140": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__618",
-        "m": "M2007J20CG",
-        "s": "Adreno (TM) 618"
-      }
-    ],
-    "folders": [
-      "FiveNightsatFreddys_3"
-    ],
-    "name": "Five Nights at Freddy's 3"
   },
   "354160": {
     "config_count": 1,
@@ -30858,7 +30823,7 @@
     "name": "Bruisers 2D Boxing"
   },
   "374320": {
-    "config_count": 45,
+    "config_count": 48,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -30949,6 +30914,11 @@
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_Flip2",
         "s": "Adreno (TM) 650"
+      },
+      {
+        "d": "Adreno__TM__660",
+        "m": "S928B",
+        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
@@ -30959,7 +30929,8 @@
       "DARK_SOULS_III",
       "DarkSoulsII",
       "DarkSoulsIII",
-      "Dark_Souls_III"
+      "Dark_Souls_III",
+      "Dark_Souls_Remastered"
     ],
     "name": "DARK SOULS\u2122 III"
   },
@@ -32853,14 +32824,6 @@
       "The_Spike"
     ],
     "name": "The Spike Cross"
-  },
-  "3985080": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN - Costume Expansion Pack"
   },
   "400": {
     "config_count": 4,
@@ -37253,6 +37216,20 @@
     ],
     "name": "Satisfactory"
   },
+  "5275590": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__618",
+        "m": "M2007J20CG",
+        "s": "Adreno (TM) 618"
+      }
+    ],
+    "folders": [
+      "dirt_3"
+    ],
+    "name": "Dirt Town"
+  },
   "530620": {
     "config_count": 3,
     "devices": [
@@ -38140,7 +38117,7 @@
     "name": "Dota 2"
   },
   "570940": {
-    "config_count": 57,
+    "config_count": 54,
     "devices": [
       {
         "d": "G57",
@@ -38261,18 +38238,12 @@
         "d": "Adreno__TM__810",
         "m": "NX1",
         "s": "Adreno (TM) 810"
-      },
-      {
-        "d": "Adreno__TM__660",
-        "m": "S928B",
-        "s": "Adreno (TM) 660"
       }
     ],
     "folders": [
       "DARK_SOULS__REMASTERED",
       "DARK_SOULS___REMASTERED",
-      "DARK_SOULS_-_REMASTERED",
-      "Dark_Souls_Remastered"
+      "DARK_SOULS_-_REMASTERED"
     ],
     "name": "DARK SOULS\u2122: REMASTERED"
   },
@@ -44459,6 +44430,20 @@
     ],
     "name": "Colony City 27 Lambda"
   },
+  "name:command-and-conquer-generals-deluxe-edition": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
+      }
+    ],
+    "folders": [
+      "Command_and_Conquer_Generals_Deluxe_Edition"
+    ],
+    "name": "Command And Conquer Generals Deluxe Edition"
+  },
   "name:conkerrecomp": {
     "config_count": 1,
     "devices": [],
@@ -44844,7 +44829,7 @@
     "name": "Easy Anti Cheat Bootstrapper Eos"
   },
   "name:efootball-2021": {
-    "config_count": 60,
+    "config_count": 61,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -45144,6 +45129,28 @@
       "FFXIII"
     ],
     "name": "Ffxiii"
+  },
+  "name:fifa-13": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "FIFA_13"
+    ],
+    "name": "Fifa 13"
+  },
+  "name:fifa-23": {
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "FIFA_23"
+    ],
+    "name": "Fifa 23"
   },
   "name:fifa14": {
     "config_count": 1,
