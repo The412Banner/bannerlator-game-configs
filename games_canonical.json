@@ -5789,14 +5789,6 @@
     ],
     "name": "DRACU-RIOT!"
   },
-  "1340720": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "StateOfDecay"
-    ],
-    "name": "State of Decay 3"
-  },
   "1343240": {
     "config_count": 2,
     "devices": [
@@ -13212,6 +13204,20 @@
       "Batman_Arkham_Origins"
     ],
     "name": "Batman\u2122: Arkham Origins"
+  },
+  "209100": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__725",
+        "m": "23049PCD8G",
+        "s": "Adreno (TM) 725"
+      }
+    ],
+    "folders": [
+      "Resident_Evil_-_Operation_Raccoon_City"
+    ],
+    "name": "Resident Evil - Operation Raccoon City"
   },
   "209120": {
     "config_count": 3,
@@ -21375,7 +21381,7 @@
     "name": "Palia"
   },
   "270880": {
-    "config_count": 33,
+    "config_count": 32,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -25880,7 +25886,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2402,
+    "config_count": 2404,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -26998,11 +27004,6 @@
         "s": "Adreno (TM) 618"
       },
       {
-        "d": "Adreno__TM__640",
-        "m": "M2102J20SG",
-        "s": "Adreno (TM) 640"
-      },
-      {
         "d": "Adreno__TM__642L",
         "m": "22101320G",
         "s": "Adreno (TM) 642L"
@@ -27226,6 +27227,11 @@
         "d": "Adreno__TM__710",
         "m": "NX1",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__640",
+        "m": "M2102J20SG",
+        "s": "Adreno (TM) 640"
       },
       {
         "d": "Adreno__TM__830",
@@ -29475,6 +29481,15 @@
     ],
     "name": "Car Service Together"
   },
+  "35020": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_Arkham_Asylum"
+    ],
+    "name": "Batman: Arkham Asylum Demo"
+  },
   "3503050": {
     "config_count": 1,
     "devices": [
@@ -29504,7 +29519,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 29,
+    "config_count": 27,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -29574,8 +29589,6 @@
     ],
     "folders": [
       "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_Arkham_Asylum",
       "Batman__Arkham_Asylum_GOTY_Edition"
     ],
     "name": "Batman: Arkham Asylum Game of the Year Edition"
@@ -36561,7 +36574,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -36596,6 +36609,7 @@
     ],
     "folders": [
       "State_of_Decay_2__Juggernaut_Edition",
+      "StateOfDecay",
       "StateOfDecay2"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
