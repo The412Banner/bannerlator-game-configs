@@ -5789,6 +5789,14 @@
     ],
     "name": "DRACU-RIOT!"
   },
+  "1340720": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "StateOfDecay"
+    ],
+    "name": "State of Decay 3"
+  },
   "1343240": {
     "config_count": 2,
     "devices": [
@@ -17057,7 +17065,7 @@
     "name": "Castlevania: Lords of Shadow \u2013 Ultimate Edition"
   },
   "234140": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -17073,6 +17081,11 @@
         "d": "Adreno__TM__740",
         "m": "Odin2_Portal",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21I",
+        "s": "Adreno (TM) 735"
       },
       {
         "d": "Adreno__TM__750",
@@ -20596,6 +20609,20 @@
       "Call_of_Duty_2______________________________________________"
     ],
     "name": "Call of Duty\u00ae 2"
+  },
+  "2630020": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Nightmare Knight ~Sacred Maiden & Fallen Magic~"
   },
   "2632240": {
     "config_count": 1,
@@ -25884,7 +25911,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2408,
+    "config_count": 2409,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -29479,15 +29506,6 @@
     ],
     "name": "Car Service Together"
   },
-  "35020": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_Arkham_Asylum"
-    ],
-    "name": "Batman: Arkham Asylum Demo"
-  },
   "3503050": {
     "config_count": 1,
     "devices": [
@@ -29517,7 +29535,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 27,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -29587,6 +29605,8 @@
     ],
     "folders": [
       "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_Arkham_Asylum",
       "Batman__Arkham_Asylum_GOTY_Edition"
     ],
     "name": "Batman: Arkham Asylum Game of the Year Edition"
@@ -32092,20 +32112,6 @@
       "Tekken_7"
     ],
     "name": "TEKKEN 7"
-  },
-  "3906660": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred 2 Remaster"
   },
   "3909960": {
     "config_count": 1,
@@ -36586,7 +36592,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 10,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -36621,24 +36627,9 @@
     ],
     "folders": [
       "State_of_Decay_2__Juggernaut_Edition",
-      "StateOfDecay",
       "StateOfDecay2"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
-  },
-  "4996080": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Immortalis_MC12",
-        "m": "G720",
-        "s": "Mali-G720-Immortalis MC12"
-      }
-    ],
-    "folders": [
-      "Resonance_of_Fate"
-    ],
-    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 ENHANCED REMASTER"
   },
   "500": {
     "config_count": 15,
@@ -39501,6 +39492,20 @@
       "Coming_Out_on_Top"
     ],
     "name": "Coming Out on Top"
+  },
+  "645730": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Immortalis_MC12",
+        "m": "G720",
+        "s": "Mali-G720-Immortalis MC12"
+      }
+    ],
+    "folders": [
+      "Resonance_of_Fate"
+    ],
+    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 4K/HD EDITION"
   },
   "646570": {
     "config_count": 2,
@@ -46134,6 +46139,14 @@
     ],
     "name": "Maxis The Sims"
   },
+  "name:mcc-win64-shipping": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "MCC-Win64-Shipping"
+    ],
+    "name": "Mcc Win64 Shipping"
+  },
   "name:medal-of-honor-warfighter": {
     "config_count": 1,
     "devices": [],
@@ -46923,7 +46936,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3352,
+    "config_count": 3354,
     "devices": [
       {
         "d": "G52_MC2",
