@@ -2742,7 +2742,7 @@
     "name": "I.G.I. Origins"
   },
   "1187": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [
       {
         "d": "G77_MC9",
@@ -2751,7 +2751,8 @@
       }
     ],
     "folders": [
-      "ACC"
+      "ACC",
+      "Assassin_s_Creed_Rogue"
     ],
     "name": "Acc"
   },
@@ -5787,14 +5788,6 @@
       "DRACU-RIOT_"
     ],
     "name": "DRACU-RIOT!"
-  },
-  "1340720": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "StateOfDecay"
-    ],
-    "name": "State of Decay 3"
   },
   "1343240": {
     "config_count": 2,
@@ -11292,7 +11285,7 @@
     "name": "Fifa 19"
   },
   "1938090": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -11302,7 +11295,6 @@
     ],
     "folders": [
       "Call_Of_Duty_MW2",
-      "CallOf_Duty",
       "Call_of_Duty"
     ],
     "name": "Call of Duty\u00ae"
@@ -12016,7 +12008,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -12025,7 +12017,8 @@
       }
     ],
     "folders": [
-      "WolfNewOrder"
+      "WolfNewOrder",
+      "Wolfenstein__2009_"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -23400,7 +23393,7 @@
     "name": "Crazy Taxi: World Tour"
   },
   "2928600": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -24996,7 +24989,7 @@
     "name": "Warhammer 40,000: Boltgun 2"
   },
   "311560": {
-    "config_count": 4,
+    "config_count": 2,
     "devices": [
       {
         "d": "G615_MC6",
@@ -25005,7 +24998,6 @@
       }
     ],
     "folders": [
-      "Assassin_s_Creed_Rogue",
       "Assassins_Creed_Rogue"
     ],
     "name": "Assassins Creed Rogue"
@@ -25104,14 +25096,6 @@
       "FINAL_FANTASY_XIV_Online_Free_Trial"
     ],
     "name": "FINAL FANTASY XIV Online Free Trial"
-  },
-  "3120600": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "RoomGirl"
-    ],
-    "name": "VR Harem Life ~ Your Room Became a Hang-Out for Girls!? ~"
   },
   "3121490": {
     "config_count": 1,
@@ -34141,6 +34125,14 @@
     ],
     "name": "Little Nightmares"
   },
+  "4250010": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "RoomGirl"
+    ],
+    "name": "My Roommate is a cute Ghost Girl!?"
+  },
   "425220": {
     "config_count": 1,
     "devices": [
@@ -34855,7 +34847,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "G57_MC2",
@@ -34883,6 +34875,7 @@
       "Call_of_Duty_4",
       "Call_of_Duty___Modern_Warfare_",
       "COD__Modern_Warfare",
+      "CallOf_Duty",
       "Call_of_Duty_4_Modern_Warfare",
       "Call_of_duty_Modern_Warfare",
       "call_of_duty_4_modern_Warfare"
@@ -36601,7 +36594,7 @@
     "name": "Borderlands 2"
   },
   "495420": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -36636,6 +36629,7 @@
     ],
     "folders": [
       "State_of_Decay_2__Juggernaut_Edition",
+      "StateOfDecay",
       "StateOfDecay2"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
@@ -39109,7 +39103,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -46945,7 +46939,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3354,
+    "config_count": 3355,
     "devices": [
       {
         "d": "G52_MC2",
@@ -47883,11 +47877,6 @@
         "s": "Adreno (TM) 740"
       },
       {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
-      },
-      {
         "d": "Adreno__TM__720",
         "m": "N09",
         "s": "Adreno (TM) 720"
@@ -47981,6 +47970,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g53_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       },
       {
         "d": "Adreno__TM__740",
