@@ -3198,7 +3198,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 499,
+    "config_count": 500,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3626,11 +3626,6 @@
         "s": "Mali-G720 MC8"
       },
       {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
@@ -3649,6 +3644,11 @@
         "d": "G76_MC4",
         "m": "Mali",
         "s": "Mali-G76 MC4"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__735",
@@ -6166,7 +6166,7 @@
     "name": "Midnight Fight Express"
   },
   "1392860": {
-    "config_count": 9,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -6202,6 +6202,11 @@
         "d": "Adreno__TM__840",
         "m": "I2501",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "V2453A",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__610",
@@ -6937,7 +6942,7 @@
     "name": "Lords of the Fallen"
   },
   "1506830": {
-    "config_count": 123,
+    "config_count": 124,
     "devices": [
       {
         "d": "Adreno__TM__735",
@@ -7160,6 +7165,7 @@
       "FIFA_22",
       "FIFA_23",
       "Fifa_19",
+      "FIFA_13_____________________________________________________",
       "FIFA22",
       "FIFA_12",
       "fifa_12"
@@ -12006,7 +12012,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -12015,7 +12021,8 @@
       }
     ],
     "folders": [
-      "WolfNewOrder"
+      "WolfNewOrder",
+      "Wolfenstein__2009_"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -15602,8 +15609,13 @@
     "name": "Insurgency"
   },
   "2229870": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [
+      {
+        "d": "G610_MC6",
+        "m": "Mali",
+        "s": "Mali-G610 MC6"
+      },
       {
         "d": "G615_MC6",
         "m": "Mali",
@@ -15611,6 +15623,7 @@
       }
     ],
     "folders": [
+      "generals",
       "Command_and_Conquer_Generals_Deluxe_Edition"
     ],
     "name": "Command & Conquer\u2122 Generals"
@@ -16127,7 +16140,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 333,
+    "config_count": 334,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -17465,7 +17478,7 @@
     "name": "War Thunder"
   },
   "236430": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "G720_MC7",
@@ -17501,6 +17514,11 @@
         "d": "Adreno__TM__619",
         "m": "22111317PG",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "Mi_10_Pro",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
@@ -18167,14 +18185,6 @@
       "MOUSE__P_I__For_Hire"
     ],
     "name": "MOUSE: P.I. For Hire"
-  },
-  "2417610": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Metal_Gear_Solid"
-    ],
-    "name": "METAL GEAR SOLID \u0394: SNAKE EATER"
   },
   "241930": {
     "config_count": 10,
@@ -19279,7 +19289,7 @@
     "name": "FATAL FURY: City of the Wolves"
   },
   "2492670": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G57_MC2",
@@ -19290,7 +19300,8 @@
     "folders": [
       "METAL_GEAR_SOLID_4__Guns_of_the_Patriots_-_Master_Collection_Version",
       "VERS_O_DEMO_DE_DRAGON_BALL_Z__KAKAROT",
-      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version"
+      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version",
+      "Metal_Gear_Solid"
     ],
     "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version"
   },
@@ -19373,6 +19384,14 @@
       "METAL_SLUG_3"
     ],
     "name": "METAL SLUG 3"
+  },
+  "2502780": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Ranger\u2019s Path: National Park Simulator"
   },
   "2503690": {
     "config_count": 2,
@@ -21235,14 +21254,6 @@
       "Kindergarten3"
     ],
     "name": "Kindergarten 3"
-  },
-  "2696230": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GBVSR"
-    ],
-    "name": "GBVSR - System Voice Set"
   },
   "269650": {
     "config_count": 1,
@@ -24087,6 +24098,14 @@
     ],
     "name": "Battlefield\u2122 REDSEC"
   },
+  "3029750": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "TurretGirls"
+    ],
+    "name": "Turretgirls"
+  },
   "3030720": {
     "config_count": 1,
     "devices": [],
@@ -25489,6 +25508,14 @@
     ],
     "name": "Tempus Triad DEMO"
   },
+  "3186490": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "FATE________________________________________________________"
+    ],
+    "name": "Destiny 2: The Edge of Fate"
+  },
   "3188660": {
     "config_count": 4,
     "devices": [
@@ -25842,7 +25869,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2391,
+    "config_count": 2399,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -27185,6 +27212,11 @@
         "s": "Adreno (TM) 610"
       },
       {
+        "d": "Adreno__TM__619",
+        "m": "moto_g_stylus_5G__2022_",
+        "s": "Adreno (TM) 619"
+      },
+      {
         "d": "Adreno__TM__830",
         "m": "NX9",
         "s": "Adreno (TM) 830"
@@ -27687,6 +27719,14 @@
       "Heretic___Hexen"
     ],
     "name": "Heretic + Hexen"
+  },
+  "3287490": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GBVSR"
+    ],
+    "name": "GBVSR - Deluxe Character Pass 2"
   },
   "3287520": {
     "config_count": 1,
@@ -29035,6 +29075,14 @@
     ],
     "name": "RealFlight Evolution \u2013 E-flite UMX Cirrus SR22T"
   },
+  "34830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper: Ghost Warrior"
+  },
   "3483510": {
     "config_count": 3,
     "devices": [
@@ -29186,7 +29234,7 @@
     "name": "Stellar Blade\u2122"
   },
   "349040": {
-    "config_count": 93,
+    "config_count": 94,
     "devices": [
       {
         "d": "G615_MC2",
@@ -29269,11 +29317,6 @@
         "s": "Adreno (TM) 720"
       },
       {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
-      },
-      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
@@ -29317,6 +29360,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       },
       {
         "d": "G77_MC9",
@@ -29416,6 +29464,15 @@
     ],
     "name": "Car Service Together"
   },
+  "35020": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_Arkham_Asylum"
+    ],
+    "name": "Batman: Arkham Asylum Demo"
+  },
   "3503050": {
     "config_count": 1,
     "devices": [
@@ -29445,7 +29502,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 29,
+    "config_count": 27,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -29515,8 +29572,6 @@
     ],
     "folders": [
       "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_Arkham_Asylum",
       "Batman__Arkham_Asylum_GOTY_Edition"
     ],
     "name": "Batman: Arkham Asylum Game of the Year Edition"
@@ -30588,14 +30643,6 @@
       "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
-  },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 2,
@@ -35401,14 +35448,6 @@
     ],
     "name": "Halo Wars: Definitive Edition"
   },
-  "4597660": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Outer Rangers"
-  },
   "4600470": {
     "config_count": 1,
     "devices": [],
@@ -35714,6 +35753,20 @@
       "Human_Fall_Flat"
     ],
     "name": "Human Fall Flat"
+  },
+  "477770": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
+      }
+    ],
+    "folders": [
+      "Ride_2"
+    ],
+    "name": "Ride 2"
   },
   "47780": {
     "config_count": 21,
@@ -39012,7 +39065,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -46820,7 +46873,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3349,
+    "config_count": 3350,
     "devices": [
       {
         "d": "G52_MC2",

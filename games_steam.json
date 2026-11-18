@@ -92,6 +92,10 @@
     "appid": null,
     "method": "unresolved"
   },
+  "AVA_Mod_Manager_____________________________________________": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "AVGame": {
     "appid": null,
     "method": "unresolved"
@@ -875,6 +879,10 @@
     "steam_name": "Bayonetta"
   },
   "BeamMP-Launcher": {
+    "appid": null,
+    "method": "non-game"
+  },
+  "BeamMP_Launcher_____________________________________________": {
     "appid": null,
     "method": "non-game"
   },
@@ -3395,6 +3403,12 @@
     "method": "naive",
     "steam_name": "FATAL FURY: City of the Wolves"
   },
+  "FATE________________________________________________________": {
+    "appid": 3186490,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3186490/header.jpg",
+    "method": "naive",
+    "steam_name": "Destiny 2: The Edge of Fate"
+  },
   "FB_JK_Trine": {
     "appid": null,
     "method": "unresolved"
@@ -3443,6 +3457,12 @@
   },
   "FIFA_13": {
     "appid": 1506830,
+    "method": "fuzzy",
+    "steam_name": "FIFA 22"
+  },
+  "FIFA_13_____________________________________________________": {
+    "appid": 1506830,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1506830/header.jpg",
     "method": "fuzzy",
     "steam_name": "FIFA 22"
   },
@@ -4280,6 +4300,10 @@
   "GTA_IV__San_Andreas_Setup": {
     "appid": null,
     "method": "non-game"
+  },
+  "GTA_IV___Multiplayer_nosTEAM_part1": {
+    "appid": null,
+    "method": "unresolved"
   },
   "GTA_SA__Liberty_City_Beta_7_Install_Program_________________": {
     "appid": null,
@@ -7259,7 +7283,6 @@
   },
   "Myrmidon": {
     "appid": 3247270,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3247270/header.jpg",
     "method": "naive",
     "steam_name": "Myrmidon"
   },
@@ -9353,6 +9376,12 @@
   "RichardBurnsRally": {
     "appid": null,
     "method": "unresolved"
+  },
+  "Ride_2": {
+    "appid": 477770,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/477770/header.jpg",
+    "method": "naive",
+    "steam_name": "Ride 2"
   },
   "Riders_Republic": {
     "appid": 2290180,
@@ -11603,6 +11632,10 @@
     "appid": null,
     "method": "unresolved"
   },
+  "Tradu__o_do_GTA_IV_The_Complete_Edition_____________________": {
+    "appid": null,
+    "method": "unresolved"
+  },
   "Tradu__o_do_Test_Drive_Unlimited____________________________": {
     "appid": null,
     "method": "unresolved"
@@ -12138,6 +12171,10 @@
     "appid": 230410,
     "method": "naive",
     "steam_name": "Warframe"
+  },
+  "Wargaming_net_Game_Center___________________________________": {
+    "appid": null,
+    "method": "unresolved"
   },
   "Warhammer_40_000__Dawn_of_War": {
     "appid": 2272360,
@@ -13070,6 +13107,12 @@
     "appid": 3727360,
     "method": "naive",
     "steam_name": "Sultan's Game - Original Soundtrack"
+  },
+  "generals": {
+    "appid": 2229870,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2229870/header.jpg",
+    "method": "naive",
+    "steam_name": "Command & Conquer\u2122 Generals"
   },
   "german-truck-simulator-1-32": {
     "appid": null,
