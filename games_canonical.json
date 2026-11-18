@@ -2742,7 +2742,7 @@
     "name": "I.G.I. Origins"
   },
   "1187": {
-    "config_count": 4,
+    "config_count": 2,
     "devices": [
       {
         "d": "G77_MC9",
@@ -2751,8 +2751,7 @@
       }
     ],
     "folders": [
-      "ACC",
-      "Assassin_s_Creed_Rogue"
+      "ACC"
     ],
     "name": "Acc"
   },
@@ -3787,7 +3786,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 59,
+    "config_count": 41,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -3883,25 +3882,13 @@
         "d": "Adreno__TM__722",
         "m": "CPH2825",
         "s": "Adreno (TM) 722"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "M2007J3SY",
-        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
       "Need_for_Speed__Heat",
       "nfs",
       "NFS_2",
-      "Need_for_Speed_Heat",
-      "Speed",
-      "speed"
+      "Need_for_Speed_Heat"
     ],
     "name": "Need for Speed\u2122 Heat"
   },
@@ -11305,7 +11292,7 @@
     "name": "Fifa 19"
   },
   "1938090": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -11315,6 +11302,7 @@
     ],
     "folders": [
       "Call_Of_Duty_MW2",
+      "CallOf_Duty",
       "Call_of_Duty"
     ],
     "name": "Call of Duty\u00ae"
@@ -12572,7 +12560,7 @@
     "name": "Binary Domain"
   },
   "204030": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G52_MC2",
@@ -12588,6 +12576,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       },
       {
         "d": "G68_MC4",
@@ -25003,7 +24996,7 @@
     "name": "Warhammer 40,000: Boltgun 2"
   },
   "311560": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [
       {
         "d": "G615_MC6",
@@ -25012,6 +25005,7 @@
       }
     ],
     "folders": [
+      "Assassin_s_Creed_Rogue",
       "Assassins_Creed_Rogue"
     ],
     "name": "Assassins Creed Rogue"
@@ -34826,6 +34820,26 @@
     ],
     "name": "DREAMTONE Demo"
   },
+  "4430260": {
+    "config_count": 18,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
+      }
+    ],
+    "folders": [
+      "Speed",
+      "speed"
+    ],
+    "name": "Beat For Speed"
+  },
   "4433900": {
     "config_count": 1,
     "devices": [
@@ -34841,7 +34855,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 9,
+    "config_count": 8,
     "devices": [
       {
         "d": "G57_MC2",
@@ -34869,7 +34883,6 @@
       "Call_of_Duty_4",
       "Call_of_Duty___Modern_Warfare_",
       "COD__Modern_Warfare",
-      "CallOf_Duty",
       "Call_of_Duty_4_Modern_Warfare",
       "Call_of_duty_Modern_Warfare",
       "call_of_duty_4_modern_Warfare"
