@@ -7153,6 +7153,7 @@
     "folders": [
       "FIFA_06_____________________________________________________",
       "FIFA_13",
+      "FIFA_13_____________________________________________________",
       "FIFA_14",
       "FIFA_14_-_Ultimate_Edition__________________________________",
       "FIFA_17",
@@ -7165,7 +7166,6 @@
       "FIFA_22",
       "FIFA_23",
       "Fifa_19",
-      "FIFA_13_____________________________________________________",
       "FIFA22",
       "FIFA_12",
       "fifa_12"
@@ -16894,6 +16894,35 @@
       "Starship_Troopers__Ultimate_Bug_War_"
     ],
     "name": "Starship Troopers: Ultimate Bug War!"
+  },
+  "2322010": {
+    "config_count": 12,
+    "devices": [
+      {
+        "d": "Adreno__TM__640",
+        "m": "RMX1931",
+        "s": "Adreno (TM) 640"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "CPH2447",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Immortalis_MC12",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC12"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "2607APCA5G",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "GoW"
+    ],
+    "name": "God of War Ragnar\u00f6k"
   },
   "2324290": {
     "config_count": 1,
@@ -29464,15 +29493,6 @@
     ],
     "name": "Car Service Together"
   },
-  "35020": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_Arkham_Asylum"
-    ],
-    "name": "Batman: Arkham Asylum Demo"
-  },
   "3503050": {
     "config_count": 1,
     "devices": [
@@ -29502,7 +29522,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 27,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -29572,6 +29592,8 @@
     ],
     "folders": [
       "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_Arkham_Asylum",
       "Batman__Arkham_Asylum_GOTY_Edition"
     ],
     "name": "Batman: Arkham Asylum Game of the Year Edition"
@@ -34550,32 +34572,12 @@
     "name": "The Final Station"
   },
   "4355320": {
-    "config_count": 17,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__740",
         "m": "S911B",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__640",
-        "m": "RMX1931",
-        "s": "Adreno (TM) 640"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "CPH2447",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Immortalis_MC12",
-        "m": "G925",
-        "s": "Mali-G925-Immortalis MC12"
-      },
-      {
-        "d": "Adreno__TM__840",
-        "m": "2607APCA5G",
-        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
@@ -35182,6 +35184,20 @@
       "Gold_Mining_Simulator"
     ],
     "name": "Gold Mining Simulator"
+  },
+  "4523200": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "I2501",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "SO2R"
+    ],
+    "name": "Diablo II: Resurrected - Original Soundtrack"
   },
   "4533800": {
     "config_count": 2,
@@ -36595,6 +36611,20 @@
       "StateOfDecay2"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
+  },
+  "4996080": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Immortalis_MC12",
+        "m": "G720",
+        "s": "Mali-G720-Immortalis MC12"
+      }
+    ],
+    "folders": [
+      "Resonance_of_Fate"
+    ],
+    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 ENHANCED REMASTER"
   },
   "500": {
     "config_count": 15,
@@ -39458,20 +39488,6 @@
     ],
     "name": "Coming Out on Top"
   },
-  "645730": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Immortalis_MC12",
-        "m": "G720",
-        "s": "Mali-G720-Immortalis MC12"
-      }
-    ],
-    "folders": [
-      "Resonance_of_Fate"
-    ],
-    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 4K/HD EDITION"
-  },
   "646570": {
     "config_count": 2,
     "devices": [
@@ -40910,20 +40926,6 @@
       "Russian_Fishing_4"
     ],
     "name": "Russian Fishing 4"
-  },
-  "768520": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "I2501",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "SO2R"
-    ],
-    "name": "Red Solstice 2: Survivors"
   },
   "773700": {
     "config_count": 1,
@@ -45995,6 +45997,20 @@
       "Lesta_Game_Center"
     ],
     "name": "Lesta Game Center"
+  },
+  "name:life-is-strange-complete-season": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Immortalis_MC11",
+        "m": "G925",
+        "s": "Mali-G925-Immortalis MC11"
+      }
+    ],
+    "folders": [
+      "Life_is_Strange_-_Complete_Season"
+    ],
+    "name": "Life Is Strange Complete Season"
   },
   "name:little-nightmares-enhanced": {
     "config_count": 1,
