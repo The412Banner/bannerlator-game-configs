@@ -4817,7 +4817,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 69,
+    "config_count": 70,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4938,6 +4938,11 @@
         "d": "Adreno__TM__735",
         "m": "24069PC21G",
         "s": "Adreno (TM) 735"
+      },
+      {
+        "d": "Samsung_Xclipse_540",
+        "m": "A566E",
+        "s": "Samsung Xclipse 540"
       }
     ],
     "folders": [
@@ -4956,6 +4961,7 @@
       "Need_for_Speed_-_Most_Wanted",
       "Need_for_Speed_Most_Wanted_2005",
       "Need_for_Speed__Most_Wanted_2005",
+      "Need_for_Speed__Most_wanted__2012_",
       "need_for_speed_most_wa",
       "need_for_speed_most_wanted_2005"
     ],
@@ -18196,6 +18202,14 @@
     ],
     "name": "MOUSE: P.I. For Hire"
   },
+  "2417610": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Metal_Gear_Solid"
+    ],
+    "name": "METAL GEAR SOLID \u0394: SNAKE EATER"
+  },
   "241930": {
     "config_count": 10,
     "devices": [
@@ -19299,7 +19313,7 @@
     "name": "FATAL FURY: City of the Wolves"
   },
   "2492670": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "G57_MC2",
@@ -19310,8 +19324,7 @@
     "folders": [
       "METAL_GEAR_SOLID_4__Guns_of_the_Patriots_-_Master_Collection_Version",
       "VERS_O_DEMO_DE_DRAGON_BALL_Z__KAKAROT",
-      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version",
-      "Metal_Gear_Solid"
+      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version"
     ],
     "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version"
   },
@@ -21669,7 +21682,7 @@
     "name": "Darkwood"
   },
   "2753000": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "G57",
@@ -25871,7 +25884,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2406,
+    "config_count": 2408,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -36613,6 +36626,20 @@
     ],
     "name": "State of Decay 2: Juggernaut Edition"
   },
+  "4996080": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Immortalis_MC12",
+        "m": "G720",
+        "s": "Mali-G720-Immortalis MC12"
+      }
+    ],
+    "folders": [
+      "Resonance_of_Fate"
+    ],
+    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 ENHANCED REMASTER"
+  },
   "500": {
     "config_count": 15,
     "devices": [
@@ -39474,20 +39501,6 @@
       "Coming_Out_on_Top"
     ],
     "name": "Coming Out on Top"
-  },
-  "645730": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Immortalis_MC12",
-        "m": "G720",
-        "s": "Mali-G720-Immortalis MC12"
-      }
-    ],
-    "folders": [
-      "Resonance_of_Fate"
-    ],
-    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 4K/HD EDITION"
   },
   "646570": {
     "config_count": 2,
@@ -46400,20 +46413,6 @@
     ],
     "name": "Need For Speed Black Edition"
   },
-  "name:need-for-speed-most-wanted-2012": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Samsung_Xclipse_540",
-        "m": "A566E",
-        "s": "Samsung Xclipse 540"
-      }
-    ],
-    "folders": [
-      "Need_for_Speed__Most_wanted__2012_"
-    ],
-    "name": "Need For Speed Most Wanted 2012"
-  },
   "name:need-for-speed-most-wanted-black-edition": {
     "config_count": 3,
     "devices": [],
@@ -46924,7 +46923,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3351,
+    "config_count": 3352,
     "devices": [
       {
         "d": "G52_MC2",
