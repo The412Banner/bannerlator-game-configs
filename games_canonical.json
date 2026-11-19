@@ -16202,7 +16202,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 337,
+    "config_count": 338,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -16540,11 +16540,6 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
@@ -16558,6 +16553,11 @@
         "d": "G76_MC4",
         "m": "Mali",
         "s": "Mali-G76 MC4"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -20658,6 +20658,20 @@
     ],
     "name": "Call of Duty\u00ae 2"
   },
+  "2630020": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Nightmare Knight ~Sacred Maiden & Fallen Magic~"
+  },
   "2632240": {
     "config_count": 1,
     "devices": [],
@@ -21324,14 +21338,6 @@
       "Kindergarten3"
     ],
     "name": "Kindergarten 3"
-  },
-  "2696230": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GBVSR"
-    ],
-    "name": "GBVSR - System Voice Set"
   },
   "269650": {
     "config_count": 1,
@@ -25950,7 +25956,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2422,
+    "config_count": 2426,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -29158,14 +29164,6 @@
     ],
     "name": "RealFlight Evolution \u2013 E-flite UMX Cirrus SR22T"
   },
-  "34830": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper: Ghost Warrior"
-  },
   "3483510": {
     "config_count": 3,
     "devices": [
@@ -30252,6 +30250,14 @@
     ],
     "name": "Mafia III: Definitive Edition"
   },
+  "3604390": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GBVSR"
+    ],
+    "name": "GBVSR - Additional Character Set (Galleon)"
+  },
   "361420": {
     "config_count": 2,
     "devices": [
@@ -30719,6 +30725,14 @@
       "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
+  },
+  "368070": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 2,
@@ -32154,20 +32168,6 @@
     ],
     "name": "TEKKEN 7"
   },
-  "3906660": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred 2 Remaster"
-  },
   "3909960": {
     "config_count": 1,
     "devices": [
@@ -32183,7 +32183,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 234,
+    "config_count": 235,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -33337,7 +33337,7 @@
     "name": "Mousetrap: Theft & Bondage"
   },
   "4080220": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -33347,7 +33347,8 @@
     ],
     "folders": [
       "EA",
-      "EA_SPORTS_FC__27"
+      "EA_SPORTS_FC__27",
+      "EA_Sports_FC_27"
     ],
     "name": "EA SPORTS FC\u2122 27"
   },
@@ -39091,7 +39092,7 @@
     "name": "Moonlighter"
   },
   "606280": {
-    "config_count": 11,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -39104,19 +39105,13 @@
         "s": "Adreno (TM) 825"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
-      },
-      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
       }
     ],
     "folders": [
-      "Darksiders_III",
-      "Darksiders"
+      "Darksiders_III"
     ],
     "name": "Darksiders III"
   },
@@ -40427,7 +40422,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__A32",
@@ -40440,6 +40435,11 @@
         "s": "Mali-G720 MC7"
       },
       {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
+      },
+      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
@@ -40447,6 +40447,7 @@
     ],
     "folders": [
       "Darksiders_Genesis",
+      "Darksiders",
       "DarksidersGenesis",
       "Darksiders_genesis"
     ],
@@ -47001,7 +47002,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3358,
+    "config_count": 3357,
     "devices": [
       {
         "d": "G52_MC2",
