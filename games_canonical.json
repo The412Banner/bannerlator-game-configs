@@ -7642,6 +7642,14 @@
     ],
     "name": "Tape to Tape"
   },
+  "1567440": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "inbento"
+    ],
+    "name": "Inbento"
+  },
   "1568590": {
     "config_count": 1,
     "devices": [
@@ -12099,8 +12107,13 @@
     "name": "Assassin's Creed\u00ae Revelations"
   },
   "2019300": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
       {
         "d": "Adreno__TM__642L",
         "m": "A528B",
@@ -12108,9 +12121,10 @@
       }
     ],
     "folders": [
+      "Dokimon",
       "Dokimon_Quest"
     ],
-    "name": "Dokimon Quest"
+    "name": "Dokimon"
   },
   "202170": {
     "config_count": 81,
@@ -18236,6 +18250,14 @@
     ],
     "name": "MOUSE: P.I. For Hire"
   },
+  "2417610": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Metal_Gear_Solid"
+    ],
+    "name": "METAL GEAR SOLID \u0394: SNAKE EATER"
+  },
   "241930": {
     "config_count": 10,
     "devices": [
@@ -19339,7 +19361,7 @@
     "name": "FATAL FURY: City of the Wolves"
   },
   "2492670": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "G57_MC2",
@@ -19350,8 +19372,7 @@
     "folders": [
       "METAL_GEAR_SOLID_4__Guns_of_the_Patriots_-_Master_Collection_Version",
       "VERS_O_DEMO_DE_DRAGON_BALL_Z__KAKAROT",
-      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version",
-      "Metal_Gear_Solid"
+      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version"
     ],
     "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version"
   },
@@ -19545,7 +19566,7 @@
     "name": "STORY OF SEASONS: Grand Bazaar"
   },
   "250900": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -19556,6 +19577,11 @@
         "d": "Adreno__TM__740",
         "m": "S911N",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -39028,7 +39054,7 @@
     "name": "Griftlands"
   },
   "606150": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G720_MC7",
@@ -39044,6 +39070,11 @@
         "d": "Adreno__TM__642L",
         "m": "A528B",
         "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
