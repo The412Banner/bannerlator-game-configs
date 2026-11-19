@@ -349,7 +349,7 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 2 (2009)"
   },
   "1020790": {
-    "config_count": 70,
+    "config_count": 71,
     "devices": [
       {
         "d": "SM8850",
@@ -906,7 +906,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -947,10 +947,16 @@
         "d": "Adreno__TM__740",
         "m": "2211133C",
         "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Ori_and_the_Will_of_the_Wisps",
+      "Ori",
       "Ori_and_the_will_of_the_wisps"
     ],
     "name": "Ori and the Will of the Wisps"
@@ -2736,7 +2742,7 @@
     "name": "I.G.I. Origins"
   },
   "1187": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [
       {
         "d": "G77_MC9",
@@ -2745,7 +2751,8 @@
       }
     ],
     "folders": [
-      "ACC"
+      "ACC",
+      "Assassin_s_Creed_Rogue"
     ],
     "name": "Acc"
   },
@@ -12037,7 +12044,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -12046,7 +12053,8 @@
       }
     ],
     "folders": [
-      "WolfNewOrder"
+      "WolfNewOrder",
+      "Wolfenstein__2009_"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -14857,7 +14865,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 153,
+    "config_count": 154,
     "devices": [
       {
         "d": "G52_MC2",
@@ -20650,20 +20658,6 @@
     ],
     "name": "Call of Duty\u00ae 2"
   },
-  "2630020": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Nightmare Knight ~Sacred Maiden & Fallen Magic~"
-  },
   "2632240": {
     "config_count": 1,
     "devices": [],
@@ -25041,7 +25035,7 @@
     "name": "Warhammer 40,000: Boltgun 2"
   },
   "311560": {
-    "config_count": 4,
+    "config_count": 2,
     "devices": [
       {
         "d": "G615_MC6",
@@ -25050,7 +25044,6 @@
       }
     ],
     "folders": [
-      "Assassin_s_Creed_Rogue",
       "Assassins_Creed_Rogue"
     ],
     "name": "Assassins Creed Rogue"
@@ -25957,7 +25950,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2418,
+    "config_count": 2422,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -29165,6 +29158,14 @@
     ],
     "name": "RealFlight Evolution \u2013 E-flite UMX Cirrus SR22T"
   },
+  "34830": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sniper_Ghost_Warrior_1"
+    ],
+    "name": "Sniper: Ghost Warrior"
+  },
   "3483510": {
     "config_count": 3,
     "devices": [
@@ -30690,7 +30691,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 14,
+    "config_count": 13,
     "devices": [
       {
         "d": "G68_MC4",
@@ -30711,32 +30712,13 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "2211133C",
-        "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE",
-      "Ori"
+      "oriDE"
     ],
     "name": "The Seven Deadly Sins: Origin"
-  },
-  "368070": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Sniper_Ghost_Warrior_1"
-    ],
-    "name": "Sniper Ghost Warrior 3"
   },
   "3681010": {
     "config_count": 2,
@@ -31026,7 +31008,7 @@
     "name": "Bruisers 2D Boxing"
   },
   "374320": {
-    "config_count": 45,
+    "config_count": 46,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -32171,6 +32153,20 @@
       "Tekken_7"
     ],
     "name": "TEKKEN 7"
+  },
+  "3906660": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred 2 Remaster"
   },
   "3909960": {
     "config_count": 1,
@@ -35317,7 +35313,7 @@
     "name": "Zenonia 1"
   },
   "454650": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "G57_MC2",
@@ -35341,7 +35337,8 @@
       }
     ],
     "folders": [
-      "DRAGON_BALL_XENOVERSE_2"
+      "DRAGON_BALL_XENOVERSE_2",
+      "DragonBall_XenoVerse"
     ],
     "name": "DRAGON BALL XENOVERSE 2"
   },
@@ -38742,14 +38739,6 @@
     ],
     "name": "Fantasy Grounds - CS1 After Winter's Dark: Aihrde Setting (Castles & Crusades)"
   },
-  "59191": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "DragonBall_XenoVerse"
-    ],
-    "name": "DRAGONBALL XENOVERSE Bundle Edition"
-  },
   "593280": {
     "config_count": 1,
     "devices": [
@@ -39102,7 +39091,7 @@
     "name": "Moonlighter"
   },
   "606280": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -39115,13 +39104,19 @@
         "s": "Adreno (TM) 825"
       },
       {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
+      },
+      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
       }
     ],
     "folders": [
-      "Darksiders_III"
+      "Darksiders_III",
+      "Darksiders"
     ],
     "name": "Darksiders III"
   },
@@ -39176,7 +39171,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -40432,7 +40427,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__A32",
@@ -40445,11 +40440,6 @@
         "s": "Mali-G720 MC7"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
-      },
-      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
@@ -40457,7 +40447,6 @@
     ],
     "folders": [
       "Darksiders_Genesis",
-      "Darksiders",
       "DarksidersGenesis",
       "Darksiders_genesis"
     ],
@@ -47012,7 +47001,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3355,
+    "config_count": 3356,
     "devices": [
       {
         "d": "G52_MC2",
