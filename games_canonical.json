@@ -349,7 +349,7 @@
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 2 (2009)"
   },
   "1020790": {
-    "config_count": 69,
+    "config_count": 70,
     "devices": [
       {
         "d": "SM8850",
@@ -452,11 +452,6 @@
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.279)"
       },
       {
-        "d": "G720_MC8",
-        "m": "Mali",
-        "s": "Mali-G720 MC8"
-      },
-      {
         "d": "Adreno__TM__750",
         "m": "S928B",
         "s": "Adreno (TM) 750"
@@ -475,6 +470,11 @@
         "d": "G720_MC7",
         "m": "Mali",
         "s": "Mali-G720 MC7"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
       }
     ],
     "folders": [
@@ -906,7 +906,7 @@
     "name": "Terraria"
   },
   "1057090": {
-    "config_count": 11,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -947,16 +947,10 @@
         "d": "Adreno__TM__740",
         "m": "2211133C",
         "s": "Adreno (TM) 740"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "S928B",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "Ori_and_the_Will_of_the_Wisps",
-      "Ori",
       "Ori_and_the_will_of_the_wisps"
     ],
     "name": "Ori and the Will of the Wisps"
@@ -2742,7 +2736,7 @@
     "name": "I.G.I. Origins"
   },
   "1187": {
-    "config_count": 4,
+    "config_count": 2,
     "devices": [
       {
         "d": "G77_MC9",
@@ -2751,8 +2745,7 @@
       }
     ],
     "folders": [
-      "ACC",
-      "Assassin_s_Creed_Rogue"
+      "ACC"
     ],
     "name": "Acc"
   },
@@ -16201,7 +16194,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 336,
+    "config_count": 337,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -16372,11 +16365,6 @@
         "d": "Adreno__TM__619",
         "m": "22111317PG",
         "s": "Adreno (TM) 619"
-      },
-      {
-        "d": "G76_MC4",
-        "m": "Mali",
-        "s": "Mali-G76 MC4"
       },
       {
         "d": "Adreno__TM__619",
@@ -16557,6 +16545,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G76_MC4",
+        "m": "Mali",
+        "s": "Mali-G76 MC4"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -20657,6 +20650,20 @@
     ],
     "name": "Call of Duty\u00ae 2"
   },
+  "2630020": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Nightmare Knight ~Sacred Maiden & Fallen Magic~"
+  },
   "2632240": {
     "config_count": 1,
     "devices": [],
@@ -21323,6 +21330,14 @@
       "Kindergarten3"
     ],
     "name": "Kindergarten 3"
+  },
+  "2696230": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GBVSR"
+    ],
+    "name": "GBVSR - System Voice Set"
   },
   "269650": {
     "config_count": 1,
@@ -25026,7 +25041,7 @@
     "name": "Warhammer 40,000: Boltgun 2"
   },
   "311560": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [
       {
         "d": "G615_MC6",
@@ -25035,6 +25050,7 @@
       }
     ],
     "folders": [
+      "Assassin_s_Creed_Rogue",
       "Assassins_Creed_Rogue"
     ],
     "name": "Assassins Creed Rogue"
@@ -25133,14 +25149,6 @@
       "FINAL_FANTASY_XIV_Online_Free_Trial"
     ],
     "name": "FINAL FANTASY XIV Online Free Trial"
-  },
-  "3120600": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "RoomGirl"
-    ],
-    "name": "VR Harem Life ~ Your Room Became a Hang-Out for Girls!? ~"
   },
   "3121490": {
     "config_count": 1,
@@ -25949,7 +25957,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2417,
+    "config_count": 2418,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -30243,14 +30251,6 @@
     ],
     "name": "Mafia III: Definitive Edition"
   },
-  "3604390": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GBVSR"
-    ],
-    "name": "GBVSR - Additional Character Set (Galleon)"
-  },
   "361420": {
     "config_count": 2,
     "devices": [
@@ -30690,7 +30690,7 @@
     "name": "TBH: Task Bar Hero"
   },
   "3679080": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "G68_MC4",
@@ -30711,11 +30711,22 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "2211133C",
+        "s": "Adreno (TM) 740"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "S928B",
+        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
       "The_Seven_Deadly_Sins__Origin",
-      "oriDE"
+      "oriDE",
+      "Ori"
     ],
     "name": "The Seven Deadly Sins: Origin"
   },
@@ -32160,20 +32171,6 @@
       "Tekken_7"
     ],
     "name": "TEKKEN 7"
-  },
-  "3906660": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred 2 Remaster"
   },
   "3909960": {
     "config_count": 1,
@@ -34202,6 +34199,14 @@
     ],
     "name": "Little Nightmares"
   },
+  "4250010": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "RoomGirl"
+    ],
+    "name": "My Roommate is a cute Ghost Girl!?"
+  },
   "425220": {
     "config_count": 1,
     "devices": [
@@ -35312,7 +35317,7 @@
     "name": "Zenonia 1"
   },
   "454650": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "G57_MC2",
@@ -35336,8 +35341,7 @@
       }
     ],
     "folders": [
-      "DRAGON_BALL_XENOVERSE_2",
-      "DragonBall_XenoVerse"
+      "DRAGON_BALL_XENOVERSE_2"
     ],
     "name": "DRAGON BALL XENOVERSE 2"
   },
@@ -38737,6 +38741,14 @@
       "Counter_Strike_1_6__________________________________________"
     ],
     "name": "Fantasy Grounds - CS1 After Winter's Dark: Aihrde Setting (Castles & Crusades)"
+  },
+  "59191": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "DragonBall_XenoVerse"
+    ],
+    "name": "DRAGONBALL XENOVERSE Bundle Edition"
   },
   "593280": {
     "config_count": 1,
