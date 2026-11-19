@@ -2098,14 +2098,6 @@
     ],
     "name": "Icarus"
   },
-  "1150230": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "nostalgia_5_0"
-    ],
-    "name": "VR Nostalgia 5"
-  },
   "1151380": {
     "config_count": 1,
     "devices": [
@@ -3198,7 +3190,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 501,
+    "config_count": 502,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3379,11 +3371,6 @@
         "d": "Adreno__TM__710",
         "m": "23122PCD1G",
         "s": "Adreno (TM) 710"
-      },
-      {
-        "d": "Adreno__TM__610",
-        "m": "23129RAA4G",
-        "s": "Adreno (TM) 610"
       },
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -3656,6 +3643,11 @@
         "s": "Adreno (TM) 619"
       },
       {
+        "d": "Adreno__TM__610",
+        "m": "23129RAA4G",
+        "s": "Adreno (TM) 610"
+      },
+      {
         "d": "Adreno__TM__735",
         "m": "NX9",
         "s": "Adreno (TM) 735"
@@ -3787,7 +3779,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 41,
+    "config_count": 59,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -3883,13 +3875,25 @@
         "d": "Adreno__TM__722",
         "m": "CPH2825",
         "s": "Adreno (TM) 722"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2007J3SY",
+        "s": "Adreno (TM) 650"
       }
     ],
     "folders": [
       "Need_for_Speed__Heat",
       "nfs",
       "NFS_2",
-      "Need_for_Speed_Heat"
+      "Need_for_Speed_Heat",
+      "Speed",
+      "speed"
     ],
     "name": "Need for Speed\u2122 Heat"
   },
@@ -5964,7 +5968,7 @@
     "name": "Street Fighter\u2122 6"
   },
   "1364960": {
-    "config_count": 2,
+    "config_count": 1,
     "devices": [
       {
         "d": "G57_MC2",
@@ -8628,6 +8632,14 @@
       "NEO__The_World_Ends_with_You"
     ],
     "name": "NEO: The World Ends with You"
+  },
+  "1647900": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "DyingLightGame"
+    ],
+    "name": "Dying Light - Savvy Gamer Bundle"
   },
   "1649240": {
     "config_count": 1,
@@ -11293,7 +11305,7 @@
     "name": "Fifa 19"
   },
   "1938090": {
-    "config_count": 4,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -11303,7 +11315,6 @@
     ],
     "folders": [
       "Call_Of_Duty_MW2",
-      "CallOf_Duty",
       "Call_of_Duty"
     ],
     "name": "Call of Duty\u00ae"
@@ -12017,7 +12028,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -12026,7 +12037,8 @@
       }
     ],
     "folders": [
-      "WolfNewOrder"
+      "WolfNewOrder",
+      "Wolfenstein__2009_"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -13182,7 +13194,7 @@
     "name": "The Witcher: Enhanced Edition Director's Cut"
   },
   "209000": {
-    "config_count": 17,
+    "config_count": 18,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -18224,14 +18236,6 @@
     ],
     "name": "MOUSE: P.I. For Hire"
   },
-  "2417610": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Metal_Gear_Solid"
-    ],
-    "name": "METAL GEAR SOLID \u0394: SNAKE EATER"
-  },
   "241930": {
     "config_count": 10,
     "devices": [
@@ -19335,7 +19339,7 @@
     "name": "FATAL FURY: City of the Wolves"
   },
   "2492670": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G57_MC2",
@@ -19346,7 +19350,8 @@
     "folders": [
       "METAL_GEAR_SOLID_4__Guns_of_the_Patriots_-_Master_Collection_Version",
       "VERS_O_DEMO_DE_DRAGON_BALL_Z__KAKAROT",
-      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version"
+      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version",
+      "Metal_Gear_Solid"
     ],
     "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version"
   },
@@ -25911,7 +25916,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2412,
+    "config_count": 2415,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -26042,6 +26047,11 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "motorola_edge_30_neo",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__620",
@@ -27767,14 +27777,6 @@
     ],
     "name": "Heretic + Hexen"
   },
-  "3287490": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GBVSR"
-    ],
-    "name": "GBVSR - Deluxe Character Pass 2"
-  },
   "3287520": {
     "config_count": 1,
     "devices": [],
@@ -28789,14 +28791,6 @@
       "Heavy_Weapon"
     ],
     "name": "Heavy Weapon Deluxe"
-  },
-  "3419290": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GodForsaken"
-    ],
-    "name": "GOD FORSAKEN"
   },
   "341940": {
     "config_count": 4,
@@ -30215,6 +30209,14 @@
       "Mafia_III__Definitive_Edition"
     ],
     "name": "Mafia III: Definitive Edition"
+  },
+  "3604390": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GBVSR"
+    ],
+    "name": "GBVSR - Additional Character Set (Galleon)"
   },
   "361420": {
     "config_count": 2,
@@ -32990,6 +32992,22 @@
     ],
     "name": "The Spike Cross"
   },
+  "3985080": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GodForsaken"
+    ],
+    "name": "GOD FORSAKEN - Costume Expansion Pack"
+  },
+  "3991860": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Covert_War__Afghanistan"
+    ],
+    "name": "Covert War: Afghanistan"
+  },
   "400": {
     "config_count": 4,
     "devices": [],
@@ -34830,26 +34848,6 @@
     ],
     "name": "DREAMTONE Demo"
   },
-  "4430260": {
-    "config_count": 18,
-    "devices": [
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
-        "d": "Adreno__TM__650",
-        "m": "M2007J3SY",
-        "s": "Adreno (TM) 650"
-      }
-    ],
-    "folders": [
-      "Speed",
-      "speed"
-    ],
-    "name": "Beat For Speed"
-  },
   "4433900": {
     "config_count": 1,
     "devices": [
@@ -34865,7 +34863,7 @@
     "name": "Dragon Ball Sparking Zero - Super Limit-Breaking Neo"
   },
   "4435490": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "G57_MC2",
@@ -34893,6 +34891,7 @@
       "Call_of_Duty_4",
       "Call_of_Duty___Modern_Warfare_",
       "COD__Modern_Warfare",
+      "CallOf_Duty",
       "Call_of_Duty_4_Modern_Warfare",
       "Call_of_duty_Modern_Warfare",
       "call_of_duty_4_modern_Warfare"
@@ -34928,20 +34927,13 @@
     "name": "This Is the Police"
   },
   "4439810": {
-    "config_count": 1,
+    "config_count": 3,
     "devices": [],
     "folders": [
-      "Forza_Horizon_2_____________________________________________"
-    ],
-    "name": "Forza Horizon 6 2024 Koenigsegg Gemera"
-  },
-  "4439830": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
+      "Forza_Horizon_2_____________________________________________",
       "Forza_Horizon_2"
     ],
-    "name": "Forza Horizon 6 2008 Honda Civic Type R (FD2)"
+    "name": "Forza Horizon 6 2024 Koenigsegg Gemera"
   },
   "444200": {
     "config_count": 1,
@@ -39126,7 +39118,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -46661,6 +46653,14 @@
       "NieRAutomataCompat"
     ],
     "name": "Nierautomatacompat"
+  },
+  "name:nostalgia-5-0": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "nostalgia_5_0"
+    ],
+    "name": "Nostalgia 5 0"
   },
   "name:nsm-myst-chs": {
     "config_count": 1,

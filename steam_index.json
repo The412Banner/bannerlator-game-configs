@@ -328,9 +328,6 @@
   "1149460": [
     "Icarus"
   ],
-  "1150230": [
-    "nostalgia_5_0"
-  ],
   "1151380": [
     "Cowboy_Life_Simulator"
   ],
@@ -516,7 +513,9 @@
     "NFS_2",
     "Need_for_Speed_Heat",
     "Need_for_Speed__Heat",
-    "nfs"
+    "Speed",
+    "nfs",
+    "speed"
   ],
   "1222690": [
     "Dragon_Age__Inquisition",
@@ -1339,6 +1338,9 @@
   "1647550": [
     "NEO__The_World_Ends_with_You"
   ],
+  "1647900": [
+    "DyingLightGame"
+  ],
   "1649240": [
     "Returnal"
   ],
@@ -1793,7 +1795,6 @@
     "FIFA_19"
   ],
   "1938090": [
-    "CallOf_Duty",
     "Call_Of_Duty_MW2",
     "Call_of_Duty"
   ],
@@ -1923,7 +1924,8 @@
     "Voidwrought"
   ],
   "201810": [
-    "WolfNewOrder"
+    "WolfNewOrder",
+    "Wolfenstein__2009_"
   ],
   "201870": [
     "Assassin_s_Creed__Revelations",
@@ -2820,9 +2822,6 @@
     "MOUSE",
     "MOUSE__P_I__For_Hire"
   ],
-  "2417610": [
-    "Metal_Gear_Solid"
-  ],
   "241930": [
     "Middle-earth__Shadow_of_Mordor_",
     "Middle-earth___Shadow_of_Mordor_"
@@ -2993,6 +2992,7 @@
   "2492670": [
     "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version",
     "METAL_GEAR_SOLID_4__Guns_of_the_Patriots_-_Master_Collection_Version",
+    "Metal_Gear_Solid",
     "VERS_O_DEMO_DE_DRAGON_BALL_Z__KAKAROT"
   ],
   "2494780": [
@@ -4223,9 +4223,6 @@
   "3286930": [
     "Heretic___Hexen"
   ],
-  "3287490": [
-    "GBVSR"
-  ],
   "3287520": [
     "NINJA_GAIDEN_2_Black"
   ],
@@ -4390,9 +4387,6 @@
   ],
   "3410": [
     "Heavy_Weapon"
-  ],
-  "3419290": [
-    "GodForsaken"
   ],
   "341940": [
     "Hatred"
@@ -4631,6 +4625,9 @@
   ],
   "360430": [
     "Mafia_III__Definitive_Edition"
+  ],
+  "3604390": [
+    "GBVSR"
   ],
   "361420": [
     "ASTRONEER",
@@ -5067,6 +5064,12 @@
   "3983810": [
     "The_Spike"
   ],
+  "3985080": [
+    "GodForsaken"
+  ],
+  "3991860": [
+    "Covert_War__Afghanistan"
+  ],
   "400": [
     "Portal"
   ],
@@ -5451,16 +5454,13 @@
   "4419920": [
     "DREAMTONE_Demo"
   ],
-  "4430260": [
-    "Speed",
-    "speed"
-  ],
   "4433900": [
     "DRAGON_BALL__Sparking__ZERO_-_Super_Limit-Breaking_NEO"
   ],
   "4435490": [
     "COD_MW4",
     "COD__Modern_Warfare",
+    "CallOf_Duty",
     "Call_of_Duty_4",
     "Call_of_Duty_4_Modern_Warfare",
     "Call_of_Duty___Modern_Warfare_",
@@ -5474,10 +5474,8 @@
     "This_Is_the_Police"
   ],
   "4439810": [
+    "Forza_Horizon_2",
     "Forza_Horizon_2_____________________________________________"
-  ],
-  "4439830": [
-    "Forza_Horizon_2"
   ],
   "444200": [
     "World_of_Tanks_Blitz"
@@ -7672,6 +7670,9 @@
   ],
   "name:nierautomatacompat": [
     "NieRAutomataCompat"
+  ],
+  "name:nostalgia-5-0": [
+    "nostalgia_5_0"
   ],
   "name:nsm-myst-chs": [
     "NSM_MYST_CHS___"
