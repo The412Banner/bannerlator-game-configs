@@ -2758,7 +2758,7 @@
     "name": "I.G.I. Origins"
   },
   "1187": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [
       {
         "d": "G77_MC9",
@@ -2767,7 +2767,8 @@
       }
     ],
     "folders": [
-      "ACC"
+      "ACC",
+      "Assassin_s_Creed_Rogue"
     ],
     "name": "Acc"
   },
@@ -5467,6 +5468,20 @@
       "Lost_Ruins"
     ],
     "name": "Lost Ruins"
+  },
+  "1307710": {
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "GRID"
+    ],
+    "name": "GRID Legends"
   },
   "1310510": {
     "config_count": 1,
@@ -12066,7 +12081,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -12075,7 +12090,8 @@
       }
     ],
     "folders": [
-      "WolfNewOrder"
+      "WolfNewOrder",
+      "Wolfenstein__2009_"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -15622,7 +15638,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -15662,7 +15678,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev"
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -22930,7 +22947,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -22970,8 +22987,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -25073,7 +25089,7 @@
     "name": "Warhammer 40,000: Boltgun 2"
   },
   "311560": {
-    "config_count": 4,
+    "config_count": 2,
     "devices": [
       {
         "d": "G615_MC6",
@@ -25082,7 +25098,6 @@
       }
     ],
     "folders": [
-      "Assassin_s_Creed_Rogue",
       "Assassins_Creed_Rogue"
     ],
     "name": "Assassins Creed Rogue"
@@ -26000,6 +26015,11 @@
     "config_count": 2437,
     "devices": [
       {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      },
+      {
         "d": "Adreno__TM__650",
         "m": "Retroid_Pocket_5",
         "s": "Adreno (TM) 650"
@@ -26088,11 +26108,6 @@
         "d": "Adreno__TM__610",
         "m": "CPH2819",
         "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
       },
       {
         "d": "G720_MC7",
@@ -27491,6 +27506,7 @@
       }
     ],
     "folders": [
+      "GRAND_THEFT_AUTO_V",
       "GTA_V",
       "Grand_Theft_Auto_5",
       "Grand_Theft_Auto_V",
@@ -27504,7 +27520,6 @@
       "_____5",
       "gta_5",
       "gta_v",
-      "GRAND_THEFT_AUTO_V",
       "GTA5",
       "GTA5_Enhanced",
       "Grand_Theft_Auto___V"
@@ -30469,7 +30484,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 8,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -30490,11 +30505,6 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -33842,7 +33852,7 @@
     ],
     "name": "My Winter Car"
   },
-  "4165890": {
+  "4165910": {
     "config_count": 5,
     "devices": [
       {
@@ -33854,7 +33864,7 @@
     "folders": [
       "Steam"
     ],
-    "name": "Steam Frame"
+    "name": "Steam Machine"
   },
   "418030": {
     "config_count": 1,
@@ -39218,7 +39228,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -48279,7 +48289,7 @@
     "name": "PES 2016"
   },
   "name:pes-2017": {
-    "config_count": 260,
+    "config_count": 259,
     "devices": [
       {
         "d": "G615_MC2",
