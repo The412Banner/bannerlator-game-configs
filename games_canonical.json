@@ -2750,7 +2750,7 @@
     "name": "I.G.I. Origins"
   },
   "1187": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [
       {
         "d": "G77_MC9",
@@ -2759,7 +2759,8 @@
       }
     ],
     "folders": [
-      "ACC"
+      "ACC",
+      "Assassin_s_Creed_Rogue"
     ],
     "name": "Acc"
   },
@@ -25154,7 +25155,7 @@
     "name": "Warhammer 40,000: Boltgun 2"
   },
   "311560": {
-    "config_count": 4,
+    "config_count": 2,
     "devices": [
       {
         "d": "G615_MC6",
@@ -25163,7 +25164,6 @@
       }
     ],
     "folders": [
-      "Assassin_s_Creed_Rogue",
       "Assassins_Creed_Rogue"
     ],
     "name": "Assassins Creed Rogue"
@@ -26078,7 +26078,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2452,
+    "config_count": 2453,
     "devices": [
       {
         "d": "G52_MC2",
@@ -46660,7 +46660,7 @@
     "name": "Need For Speed Underground"
   },
   "name:need-for-speed-underground-2": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -46671,6 +46671,7 @@
     "folders": [
       "Need_for_Speed_-_Underground_2",
       "Need_for_speed_Underground_2",
+      "Need_for_speed_underground_2",
       "need_for_speed_underground_2"
     ],
     "name": "Need For Speed Underground 2"
