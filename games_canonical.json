@@ -1092,6 +1092,14 @@
     ],
     "name": "Electrician Simulator"
   },
+  "1080920": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "GRID_2"
+    ],
+    "name": "Defense Grid 2 - Aftermath"
+  },
   "108600": {
     "config_count": 4,
     "devices": [],
@@ -1972,6 +1980,14 @@
       "Ready_or_Not"
     ],
     "name": "Ready or Not"
+  },
+  "1144910": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Space_Gladiators"
+    ],
+    "name": "Space Gladiators"
   },
   "1145350": {
     "config_count": 14,
@@ -5453,6 +5469,20 @@
     ],
     "name": "Lost Ruins"
   },
+  "1307710": {
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "GRID"
+    ],
+    "name": "GRID Legends"
+  },
   "1310510": {
     "config_count": 1,
     "devices": [],
@@ -7452,9 +7482,16 @@
     "name": "Grand Theft Auto III \u2013 The Definitive Edition"
   },
   "1546990": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
+      }
+    ],
     "folders": [
+      "Grand_Theft_Auto__Vice_City",
       "Grand_Theft_Auto_Vice_City"
     ],
     "name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition"
@@ -12396,8 +12433,14 @@
     "name": "The Last Case of Benedict Fox Definitive Edition"
   },
   "2026820": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "AYN_Thor",
+        "s": "Adreno (TM) 740"
+      }
+    ],
     "folders": [
       "Die_in_the_Dungeon"
     ],
@@ -15507,7 +15550,7 @@
     "name": "Five Nights at Freddy's: Secret of the Mimic"
   },
   "221540": {
-    "config_count": 6,
+    "config_count": 4,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -16202,7 +16245,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 338,
+    "config_count": 341,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -16540,11 +16583,6 @@
         "s": "Adreno (TM) 830"
       },
       {
-        "d": "G57",
-        "m": "Mali",
-        "s": "Mali-G57"
-      },
-      {
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
@@ -16553,6 +16591,11 @@
         "d": "G76_MC4",
         "m": "Mali",
         "s": "Mali-G76 MC4"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       },
       {
         "d": "G57_MC2",
@@ -19464,14 +19507,6 @@
     ],
     "name": "METAL SLUG 3"
   },
-  "2502780": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Rangers"
-    ],
-    "name": "Ranger\u2019s Path: National Park Simulator"
-  },
   "2503690": {
     "config_count": 2,
     "devices": [],
@@ -20658,20 +20693,6 @@
     ],
     "name": "Call of Duty\u00ae 2"
   },
-  "2630020": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Nightmare Knight ~Sacred Maiden & Fallen Magic~"
-  },
   "2632240": {
     "config_count": 1,
     "devices": [],
@@ -21338,6 +21359,14 @@
       "Kindergarten3"
     ],
     "name": "Kindergarten 3"
+  },
+  "2696230": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GBVSR"
+    ],
+    "name": "GBVSR - System Voice Set"
   },
   "269650": {
     "config_count": 1,
@@ -24325,7 +24354,7 @@
     "name": "Unturned"
   },
   "3050220": {
-    "config_count": 44,
+    "config_count": 45,
     "devices": [
       {
         "d": "2412DPC0AG",
@@ -25149,6 +25178,14 @@
     ],
     "name": "FINAL FANTASY XIV Online Free Trial"
   },
+  "3120600": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "RoomGirl"
+    ],
+    "name": "VR Harem Life ~ Your Room Became a Hang-Out for Girls!? ~"
+  },
   "3121490": {
     "config_count": 1,
     "devices": [
@@ -25956,7 +25993,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2426,
+    "config_count": 2428,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -27723,6 +27760,14 @@
       "Worms_W_M_D"
     ],
     "name": "Worms W.M.D"
+  },
+  "3274290": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Alan_Wake_2"
+    ],
+    "name": "Beat Saber - Monstercat Mixtape 2 - Alan Walker - \"Wake Up\""
   },
   "3274300": {
     "config_count": 2,
@@ -30250,14 +30295,6 @@
     ],
     "name": "Mafia III: Definitive Edition"
   },
-  "3604390": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GBVSR"
-    ],
-    "name": "GBVSR - Additional Character Set (Galleon)"
-  },
   "361420": {
     "config_count": 2,
     "devices": [
@@ -30427,7 +30464,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 8,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -30448,11 +30485,6 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -32167,6 +32199,28 @@
       "Tekken_7"
     ],
     "name": "TEKKEN 7"
+  },
+  "3906660": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred 2 Remaster"
+  },
+  "3907880": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Thunder_Spikes"
+    ],
+    "name": "Thunder Spikes Volleyball"
   },
   "3909960": {
     "config_count": 1,
@@ -34196,14 +34250,6 @@
     ],
     "name": "Little Nightmares"
   },
-  "4250010": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "RoomGirl"
-    ],
-    "name": "My Roommate is a cute Ghost Girl!?"
-  },
   "425220": {
     "config_count": 1,
     "devices": [
@@ -35543,6 +35589,14 @@
       "Halo_Wars__Definitive_Edition"
     ],
     "name": "Halo Wars: Definitive Edition"
+  },
+  "4597660": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Rangers"
+    ],
+    "name": "Outer Rangers"
   },
   "4600470": {
     "config_count": 1,
@@ -38063,7 +38117,7 @@
     "name": "TUNIC"
   },
   "553520": {
-    "config_count": 36,
+    "config_count": 37,
     "devices": [
       {
         "d": "Adreno__TM__730",
@@ -38144,6 +38198,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -47002,7 +47061,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3357,
+    "config_count": 3358,
     "devices": [
       {
         "d": "G52_MC2",
@@ -47985,11 +48044,6 @@
         "s": "Mali-G925-Immortalis MC11"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "PowerVR_Rogue_GE8322",
         "m": "itel_A667LP",
         "s": "PowerVR Rogue GE8322"
@@ -48038,6 +48092,11 @@
         "d": "G615_MC2",
         "m": "Mali",
         "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__740",
