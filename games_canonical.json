@@ -12072,7 +12072,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -12081,7 +12081,8 @@
       }
     ],
     "folders": [
-      "WolfNewOrder"
+      "WolfNewOrder",
+      "Wolfenstein__2009_"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -24371,7 +24372,7 @@
     "name": "Unturned"
   },
   "3050220": {
-    "config_count": 45,
+    "config_count": 46,
     "devices": [
       {
         "d": "2412DPC0AG",
@@ -24442,6 +24443,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "M098FE",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
@@ -26011,7 +26017,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2446,
+    "config_count": 2447,
     "devices": [
       {
         "d": "G52_MC2",
@@ -27517,9 +27523,9 @@
       "Grand_Theft_Auto_V__________________________________________",
       "PlayGTAV",
       "_____5",
+      "grand_theft_auto_v",
       "gta_5",
       "gta_v",
-      "grand_theft_auto_v",
       "GTA5",
       "GTA5_Enhanced",
       "Grand_Theft_Auto___V"
@@ -35366,7 +35372,7 @@
     "name": "Zenonia 1"
   },
   "454650": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "G57_MC2",
@@ -35390,8 +35396,7 @@
       }
     ],
     "folders": [
-      "DRAGON_BALL_XENOVERSE_2",
-      "DragonBall_XenoVerse"
+      "DRAGON_BALL_XENOVERSE_2"
     ],
     "name": "DRAGON BALL XENOVERSE 2"
   },
@@ -38802,6 +38807,14 @@
     ],
     "name": "Fantasy Grounds - CS1 After Winter's Dark: Aihrde Setting (Castles & Crusades)"
   },
+  "59191": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "DragonBall_XenoVerse"
+    ],
+    "name": "DRAGONBALL XENOVERSE Bundle Edition"
+  },
   "593280": {
     "config_count": 1,
     "devices": [
@@ -39234,7 +39247,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
