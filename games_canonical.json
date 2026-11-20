@@ -5469,20 +5469,6 @@
     ],
     "name": "Lost Ruins"
   },
-  "1307710": {
-    "config_count": 3,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "GRID"
-    ],
-    "name": "GRID Legends"
-  },
   "1310510": {
     "config_count": 1,
     "devices": [],
@@ -12081,7 +12067,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -12090,8 +12076,7 @@
       }
     ],
     "folders": [
-      "WolfNewOrder",
-      "Wolfenstein__2009_"
+      "WolfNewOrder"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -15633,7 +15618,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 22,
+    "config_count": 21,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -15673,8 +15658,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -20693,6 +20677,20 @@
     ],
     "name": "Call of Duty\u00ae 2"
   },
+  "2630020": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Nightmare Knight ~Sacred Maiden & Fallen Magic~"
+  },
   "2632240": {
     "config_count": 1,
     "devices": [],
@@ -22928,7 +22926,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -22968,7 +22966,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -25993,7 +25992,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2428,
+    "config_count": 2437,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -27500,6 +27499,7 @@
       "_____5",
       "gta_5",
       "gta_v",
+      "GRAND_THEFT_AUTO_V",
       "GTA5",
       "GTA5_Enhanced",
       "Grand_Theft_Auto___V"
@@ -29507,7 +29507,7 @@
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
   },
   "3493540": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G57_MC2",
@@ -30464,7 +30464,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 5,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -30485,6 +30485,11 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -32199,20 +32204,6 @@
       "Tekken_7"
     ],
     "name": "TEKKEN 7"
-  },
-  "3906660": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred 2 Remaster"
   },
   "3907880": {
     "config_count": 1,
@@ -37389,14 +37380,6 @@
     ],
     "name": "Da Capo"
   },
-  "5201760": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "tra"
-    ],
-    "name": "ARC Raiders - Frozen Trail Collector Set"
-  },
   "5206250": {
     "config_count": 1,
     "devices": [],
@@ -38268,7 +38251,7 @@
     "name": "My Friend Pedro"
   },
   "561610": {
-    "config_count": 18,
+    "config_count": 19,
     "devices": [
       {
         "d": "G615_MC2",
@@ -38294,6 +38277,11 @@
         "d": "Adreno__TM__730",
         "m": "SOG09",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -39225,7 +39213,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__830",
