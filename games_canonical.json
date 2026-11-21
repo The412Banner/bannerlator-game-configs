@@ -11408,8 +11408,14 @@
     "name": "Brotato"
   },
   "1943730": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__810",
+        "m": "2510ERA8BG",
+        "s": "Adreno (TM) 810"
+      }
+    ],
     "folders": [
       "Wicked_Island"
     ],
@@ -26057,7 +26063,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2472,
+    "config_count": 2473,
     "devices": [
       {
         "d": "G52_MC2",
@@ -31993,14 +31999,14 @@
         "s": "Mali-G52 MC2"
       },
       {
-        "d": "PowerVR_Rogue_GE8320",
-        "m": "CPH2015",
-        "s": "PowerVR Rogue GE8320"
-      },
-      {
         "d": "Adreno__TM__616",
         "m": "vivo_1918",
         "s": "Adreno (TM) 616"
+      },
+      {
+        "d": "PowerVR_Rogue_GE8320",
+        "m": "CPH2015",
+        "s": "PowerVR Rogue GE8320"
       },
       {
         "d": "G57_MC2",
@@ -32011,9 +32017,9 @@
     "folders": [
       "MotoGP_26",
       "MotoGP_26___",
+      "gp",
       "motogp",
-      "motogp_",
-      "gp"
+      "motogp_"
     ],
     "name": "MotoGP\u212226"
   },
