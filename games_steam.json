@@ -3982,7 +3982,6 @@
   },
   "Find_The_Needle": {
     "appid": 5160800,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/5160800/header.jpg",
     "method": "naive",
     "steam_name": "Find The Needle"
   },
@@ -4717,6 +4716,12 @@
   },
   "Grand_Theft_Auto_IV_________________________________________": {
     "appid": 12210,
+    "method": "naive",
+    "steam_name": "Grand Theft Auto IV: The Complete Edition"
+  },
+  "Grand_Theft_Auto_IV__________________________________________": {
+    "appid": 12210,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/12210/header.jpg",
     "method": "naive",
     "steam_name": "Grand Theft Auto IV: The Complete Edition"
   },

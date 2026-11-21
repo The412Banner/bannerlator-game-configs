@@ -3205,7 +3205,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 505,
+    "config_count": 507,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3688,6 +3688,7 @@
       "Grand_Theft_Auto_IV__The_Complete_Edition",
       "Grand_Theft_Auto_IV__The_Complete_Edition_",
       "Grand_Theft_Auto_IV_________________________________________",
+      "Grand_Theft_Auto_IV__________________________________________",
       "Grand_Theft_Auto_IV_-_The_Complete_Edition"
     ],
     "name": "Grand Theft Auto IV: The Complete Edition"
@@ -5464,6 +5465,20 @@
       "Lost_Ruins"
     ],
     "name": "Lost Ruins"
+  },
+  "1307710": {
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "GRID"
+    ],
+    "name": "GRID Legends"
   },
   "1310510": {
     "config_count": 1,
@@ -8867,7 +8882,7 @@
     "name": "REPLACED"
   },
   "1665460": {
-    "config_count": 115,
+    "config_count": 116,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -9028,7 +9043,8 @@
       "pes_2013_",
       "pes_2019",
       "pes__2013",
-      "PES_2019"
+      "PES_2019",
+      "eFootball_PES_2021"
     ],
     "name": "eFootball\u2122"
   },
@@ -18324,6 +18340,14 @@
     ],
     "name": "MOUSE: P.I. For Hire"
   },
+  "2417610": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Metal_Gear_Solid"
+    ],
+    "name": "METAL GEAR SOLID \u0394: SNAKE EATER"
+  },
   "241930": {
     "config_count": 10,
     "devices": [
@@ -19427,7 +19451,7 @@
     "name": "FATAL FURY: City of the Wolves"
   },
   "2492670": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "G57_MC2",
@@ -19438,8 +19462,7 @@
     "folders": [
       "METAL_GEAR_SOLID_4__Guns_of_the_Patriots_-_Master_Collection_Version",
       "VERS_O_DEMO_DE_DRAGON_BALL_Z__KAKAROT",
-      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version",
-      "Metal_Gear_Solid"
+      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version"
     ],
     "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version"
   },
@@ -26034,7 +26057,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2464,
+    "config_count": 2466,
     "devices": [
       {
         "d": "G52_MC2",
@@ -26897,11 +26920,6 @@
         "s": "Adreno (TM) 735"
       },
       {
-        "d": "Adreno__TM__720",
-        "m": "NX9",
-        "s": "Adreno (TM) 720"
-      },
-      {
         "d": "PowerVR_Rogue_GM9446",
         "m": "CPH2203",
         "s": "PowerVR Rogue GM9446"
@@ -27390,6 +27408,11 @@
         "d": "Adreno__TM__710",
         "m": "NX1",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__720",
+        "m": "NX9",
+        "s": "Adreno (TM) 720"
       },
       {
         "d": "Adreno__TM__830",
@@ -29633,15 +29656,6 @@
     ],
     "name": "Car Service Together"
   },
-  "35020": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_Arkham_Asylum"
-    ],
-    "name": "Batman: Arkham Asylum Demo"
-  },
   "3503050": {
     "config_count": 1,
     "devices": [
@@ -29671,7 +29685,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 27,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -29741,6 +29755,8 @@
     ],
     "folders": [
       "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_Arkham_Asylum",
       "Batman__Arkham_Asylum_GOTY_Edition"
     ],
     "name": "Batman: Arkham Asylum Game of the Year Edition"
@@ -30514,7 +30530,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 8,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -30535,11 +30551,6 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
