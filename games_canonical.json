@@ -2750,7 +2750,7 @@
     "name": "I.G.I. Origins"
   },
   "1187": {
-    "config_count": 4,
+    "config_count": 2,
     "devices": [
       {
         "d": "G77_MC9",
@@ -2759,8 +2759,7 @@
       }
     ],
     "folders": [
-      "ACC",
-      "Assassin_s_Creed_Rogue"
+      "ACC"
     ],
     "name": "Acc"
   },
@@ -25187,7 +25186,7 @@
     "name": "Warhammer 40,000: Boltgun 2"
   },
   "311560": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [
       {
         "d": "G615_MC6",
@@ -25196,6 +25195,7 @@
       }
     ],
     "folders": [
+      "Assassin_s_Creed_Rogue",
       "Assassins_Creed_Rogue"
     ],
     "name": "Assassins Creed Rogue"
@@ -29719,6 +29719,15 @@
     ],
     "name": "Car Service Together"
   },
+  "35020": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_Arkham_Asylum"
+    ],
+    "name": "Batman: Arkham Asylum Demo"
+  },
   "3503050": {
     "config_count": 1,
     "devices": [
@@ -29748,7 +29757,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 29,
+    "config_count": 27,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -29818,8 +29827,6 @@
     ],
     "folders": [
       "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_Arkham_Asylum",
       "Batman__Arkham_Asylum_GOTY_Edition"
     ],
     "name": "Batman: Arkham Asylum Game of the Year Edition"
@@ -35489,7 +35496,7 @@
     "name": "Zenonia 1"
   },
   "454650": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "G57_MC2",
@@ -35513,8 +35520,7 @@
       }
     ],
     "folders": [
-      "DRAGON_BALL_XENOVERSE_2",
-      "DragonBall_XenoVerse"
+      "DRAGON_BALL_XENOVERSE_2"
     ],
     "name": "DRAGON BALL XENOVERSE 2"
   },
@@ -38948,6 +38954,14 @@
       "Counter_Strike_1_6__________________________________________"
     ],
     "name": "Fantasy Grounds - CS1 After Winter's Dark: Aihrde Setting (Castles & Crusades)"
+  },
+  "59191": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "DragonBall_XenoVerse"
+    ],
+    "name": "DRAGONBALL XENOVERSE Bundle Edition"
   },
   "593280": {
     "config_count": 1,
