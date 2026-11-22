@@ -2327,7 +2327,6 @@
   },
   "Danganronpa_2__Goodbye_Despair": {
     "appid": 413420,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/413420/header.jpg",
     "method": "naive",
     "steam_name": "Danganronpa 2: Goodbye Despair"
   },
@@ -4307,7 +4306,6 @@
   },
   "GTA5": {
     "appid": 3240220,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3240220/header.jpg",
     "method": "naive",
     "steam_name": "Grand Theft Auto V Enhanced"
   },
@@ -6854,6 +6852,10 @@
     "method": "non-game"
   },
   "Medal_of_Honor_Retro_Remake_________________________________": {
+    "appid": null,
+    "method": "unresolved"
+  },
+  "Medal_of_Honor__Multiplayer": {
     "appid": null,
     "method": "unresolved"
   },
