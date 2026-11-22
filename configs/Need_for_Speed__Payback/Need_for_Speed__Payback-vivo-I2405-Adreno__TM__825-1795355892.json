@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "vivo I2405",
+    "soc": "Adreno (TM) 825",
+    "bh_version": "3.2.1",
+    "steam_appid": "1262580",
+    "upload_token": "76ee90c7dedf8ce",
+    "settings_count": 10,
+    "components_count": 4
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"2.7.3\"}",
+    "pc_ls_VK3k": "{\"name\":\"2.8\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"Stable Turnip v2\"}",
+    "pc_set_constant_95": "{\"name\":\"2609-unix\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"Proton-11.0-2-arm64ec-16\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-original",
+    "pc_ls_AUDIO_DRIVER": "1",
+    "pc_ls_update_enable_xinput": true,
+    "pc_ls_environment_variable": "BANNER_AUDIO_PULSE_PRESET=auto BANNER_AUDIO_PULSE_PERF=1 BANNER_AUDIO_PULSE_ADAPTIVE=1 BANNER_AUDIO_PULSE_LAT=100",
+    "bl_ext": {
+      "dxwrapper": "vegas+vkd3d",
+      "screenSize": "854x480",
+      "renderer": "vulkan",
+      "renderScale": "1.0",
+      "fullscreenMode": "0",
+      "frameGenEngine": "wfg",
+      "native": "true",
+      "swapRB": "false",
+      "presentMode": "fifo",
+      "fpsLimiterEnabled": "0",
+      "sharpnessEffect": "None",
+      "reshadeLoadout": "[{\"name\":\"Colourfulness\",\"enabled\":true},{\"name\":\"MagicHDR\",\"enabled\":true}]",
+      "reshadeMode": "stack",
+      "reshadeParams": "{\"Colourfulness\":{\"enable_dither\":1,\"colourfulness\":1.0013973712921143,\"lim_luma\":0.10000000149011612,\"col_noise\":1,\"backbuffer_bits\":32},\"MagicHDR\":{\"BlendingBase\":1,\"ShowAdapt\":0,\"ShowBloom\":0,\"Exposure\":3.6525726318359375E-4,\"BlurSize\":0.15223443508148193,\"BlendingAmount\":1,\"Tonemap\":1,\"AdaptTime\":10,\"InputExposure\":0.0020961761474609375,\"BloomBrightness\":1,\"BloomSaturation\":0,\"InvTonemap\":1,\"BloomAmount\":0,\"AdaptPrecision\":1,\"AdaptSensitivity\":2}}",
+      "reshadeEffect": "Colourfulness",
+      "emulator": "fexcore",
+      "box64Version": "0.3.7",
+      "box64Preset": "STABILITY",
+      "fexcorePreset": "PERFORMANCE",
+      "cpuList": "2,3,4,5,6,7",
+      "inputType": "4",
+      "exclusiveXInput": "1",
+      "controlsProfile": "3",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,builtinDecoder=0,softwareDecoding=0",
+      "lc_all": "in_ID.UTF-8",
+      "syncMode": "esync",
+      "fastOpenGL": "1",
+      "glFpsHud": "0",
+      "glVsyncOff": "0",
+      "fpsCounterConfig": "hudStyle=fusion,hudEnabled=1,hudSize=pill,hudLocked=0,showVram=0,showLow001=1,fpsDecimal=0,showPerCore=1,showSwap=1,showNet=1,showResolution=1,showProton=1,showWrapper=1,showDxVer=1,showSession=1,hudMode=horizontal,showFPS=1,showFPSGraph=0,showCPUUsage=1,showCPULoad=1,showGPULoad=1,showRAM=1,showPower=0,showTemp=1,showBatteryTemp=1,showEngine=1,showRenderer=1,showGpuModel=0,hudDualBattery=1,showGpuTemp=1,showBattery=0,showRuntime=0,showClock=0,showCPUGraph=0,showGPUGraph=0,tempUnit=c,tempBands=1,tempAuto=1,tempRedCpu=90,tempRedGpu=90,tempRedBat=48,hudSkin=classic,hudColor=soft,hudOutline=0,hudOutlineAccent=1,hudScale=70,hudOpacity=22,hudTransparency=0",
+      "gyroEnabled": "0",
+      "gyroTarget": "0",
+      "gyroActivator": "0",
+      "gyroActivationMode": "0",
+      "gyroMode": "0",
+      "gyroSensitivity": "2.0",
+      "gyroInvertX": "0",
+      "gyroInvertY": "0",
+      "maxGameRefreshRate": "0",
+      "unlockGameRefreshRate": "1",
+      "frameGenModel": "3",
+      "vibrationMode": "1",
+      "vibrationIntensity": "100",
+      "scalingMode": "8",
+      "forceSsbs": "1",
+      "bannerinXInput": "1",
+      "bannerinXInputSwitching": "1",
+      "dxwrapperConfig": "version=2.7.3,framerate=0,async=0,asyncCache=0,vkd3dVersion=2.8,vkd3dLevel=12_2,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfigFile=\/data\/user\/0\/com.winlator.banner\/files\/contents\/VEGAS\/configs\/2.7.3.conf,lodBias=0"
+    }
+  },
+  "components": [
+    {
+      "name": "2.7.3",
+      "type": "DXVK"
+    },
+    {
+      "name": "2.8",
+      "type": "VKD3D"
+    },
+    {
+      "name": "Stable Turnip v2",
+      "type": "GPU"
+    },
+    {
+      "name": "2609-unix",
+      "type": "FEXCore"
+    }
+  ]
+}
