@@ -8254,10 +8254,17 @@
     "name": "God of War"
   },
   "1599660": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "TB321FU",
+        "s": "Adreno (TM) 750"
+      }
+    ],
     "folders": [
-      "Sackboy___A_Big_Adventure"
+      "Sackboy___A_Big_Adventure",
+      "Sackboy___Una_gran_aventura"
     ],
     "name": "Sackboy A Big Adventure"
   },
@@ -9448,12 +9455,17 @@
     "name": "Kusan: City of Wolves"
   },
   "1715130": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__840",
         "m": "NX809J",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -11401,7 +11413,7 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -17653,7 +17665,7 @@
     "name": "War Thunder"
   },
   "236430": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "G720_MC7",
@@ -17699,6 +17711,11 @@
         "d": "G615_MC6",
         "m": "Mali",
         "s": "Mali-G615 MC6"
+      },
+      {
+        "d": "G57",
+        "m": "Mali",
+        "s": "Mali-G57"
       }
     ],
     "folders": [
@@ -19344,8 +19361,14 @@
     "name": "Little Nightmares VR: Altered Echoes"
   },
   "2483190": {
-    "config_count": 2,
-    "devices": [],
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
     "folders": [
       "Forza_Horizon_6"
     ],
@@ -26110,7 +26133,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2495,
+    "config_count": 2497,
     "devices": [
       {
         "d": "G52_MC2",
@@ -27198,11 +27221,6 @@
         "s": "Adreno (TM) 735"
       },
       {
-        "d": "G68",
-        "m": "Mali",
-        "s": "Mali-G68"
-      },
-      {
         "d": "Adreno__TM__613",
         "m": "NX1",
         "s": "Adreno (TM) 613"
@@ -27471,6 +27489,11 @@
         "d": "ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_",
         "m": "A576B",
         "s": "ANGLE ((Samsung Xclipse 550) on Vulkan 1.4.304)"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
       },
       {
         "d": "Adreno__TM__830",
@@ -29719,15 +29742,6 @@
     ],
     "name": "Car Service Together"
   },
-  "35020": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_Arkham_Asylum"
-    ],
-    "name": "Batman: Arkham Asylum Demo"
-  },
   "3503050": {
     "config_count": 1,
     "devices": [
@@ -29757,7 +29771,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 27,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -29827,6 +29841,8 @@
     ],
     "folders": [
       "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_Arkham_Asylum",
       "Batman__Arkham_Asylum_GOTY_Edition"
     ],
     "name": "Batman: Arkham Asylum Game of the Year Edition"
@@ -33642,6 +33658,14 @@
     ],
     "name": "BioShock\u2122 2 Remastered"
   },
+  "40990": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Mafia"
+    ],
+    "name": "Mafia"
+  },
   "4100940": {
     "config_count": 9,
     "devices": [
@@ -35496,7 +35520,7 @@
     "name": "Zenonia 1"
   },
   "454650": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "G57_MC2",
@@ -35520,7 +35544,8 @@
       }
     ],
     "folders": [
-      "DRAGON_BALL_XENOVERSE_2"
+      "DRAGON_BALL_XENOVERSE_2",
+      "DragonBall_XenoVerse"
     ],
     "name": "DRAGON BALL XENOVERSE 2"
   },
@@ -36882,20 +36907,6 @@
       "StateOfDecay2"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
-  },
-  "4996080": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Immortalis_MC12",
-        "m": "G720",
-        "s": "Mali-G720-Immortalis MC12"
-      }
-    ],
-    "folders": [
-      "Resonance_of_Fate"
-    ],
-    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 ENHANCED REMASTER"
   },
   "500": {
     "config_count": 15,
@@ -38955,14 +38966,6 @@
     ],
     "name": "Fantasy Grounds - CS1 After Winter's Dark: Aihrde Setting (Castles & Crusades)"
   },
-  "59191": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "DragonBall_XenoVerse"
-    ],
-    "name": "DRAGONBALL XENOVERSE Bundle Edition"
-  },
   "593280": {
     "config_count": 1,
     "devices": [
@@ -39789,6 +39792,20 @@
       "Coming_Out_on_Top"
     ],
     "name": "Coming Out on Top"
+  },
+  "645730": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Immortalis_MC12",
+        "m": "G720",
+        "s": "Mali-G720-Immortalis MC12"
+      }
+    ],
+    "folders": [
+      "Resonance_of_Fate"
+    ],
+    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 4K/HD EDITION"
   },
   "646570": {
     "config_count": 2,
