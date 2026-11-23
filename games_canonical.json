@@ -32912,7 +32912,7 @@
     "name": "MDS: Metro dispatcher simulator"
   },
   "391720": {
-    "config_count": 53,
+    "config_count": 54,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -32970,11 +32970,6 @@
         "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "Adreno__TM__710",
         "m": "23122PCD1I",
         "s": "Adreno (TM) 710"
@@ -32993,6 +32988,11 @@
         "d": "G57",
         "m": "Mali",
         "s": "Mali-G57"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
