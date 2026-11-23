@@ -3164,7 +3164,7 @@
     "name": "Gunfire Reborn"
   },
   "12200": {
-    "config_count": 8,
+    "config_count": 9,
     "devices": [
       {
         "d": "G720_MC7",
@@ -8250,7 +8250,7 @@
     "name": "God of War"
   },
   "1599660": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -8259,9 +8259,10 @@
       }
     ],
     "folders": [
+      "Sackboy_-_A_Big_Adventure__2_",
       "Sackboy___Una_gran_aventura"
     ],
-    "name": "Sackboy Una Gran Aventura"
+    "name": "Sackboy\u2122: A Big Adventure"
   },
   "1604030": {
     "config_count": 2,
@@ -25104,7 +25105,7 @@
     "name": "Dustwind: Resistance"
   },
   "311210": {
-    "config_count": 62,
+    "config_count": 63,
     "devices": [
       {
         "d": "G78",
@@ -25197,6 +25198,11 @@
         "s": "Adreno (TM) 722"
       },
       {
+        "d": "G76_MC4",
+        "m": "Mali",
+        "s": "Mali-G76 MC4"
+      },
+      {
         "d": "Adreno__TM__750",
         "m": "F956B",
         "s": "Adreno (TM) 750"
@@ -25242,7 +25248,7 @@
     "name": "Call of Duty\u00ae: Black Ops III"
   },
   "311340": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "G57",
@@ -25268,6 +25274,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
@@ -29821,6 +29832,15 @@
     ],
     "name": "Car Service Together"
   },
+  "35020": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_Arkham_Asylum"
+    ],
+    "name": "Batman: Arkham Asylum Demo"
+  },
   "3503050": {
     "config_count": 1,
     "devices": [
@@ -29850,7 +29870,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 29,
+    "config_count": 27,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -29920,8 +29940,6 @@
     ],
     "folders": [
       "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_Arkham_Asylum",
       "Batman__Arkham_Asylum_GOTY_Edition"
     ],
     "name": "Batman: Arkham Asylum Game of the Year Edition"
@@ -35589,7 +35607,7 @@
     "name": "Zenonia 1"
   },
   "454650": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "G57_MC2",
@@ -35613,8 +35631,7 @@
       }
     ],
     "folders": [
-      "DRAGON_BALL_XENOVERSE_2",
-      "DragonBall_XenoVerse"
+      "DRAGON_BALL_XENOVERSE_2"
     ],
     "name": "DRAGON BALL XENOVERSE 2"
   },
@@ -36976,6 +36993,20 @@
       "StateOfDecay2"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
+  },
+  "4996080": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Immortalis_MC12",
+        "m": "G720",
+        "s": "Mali-G720-Immortalis MC12"
+      }
+    ],
+    "folders": [
+      "Resonance_of_Fate"
+    ],
+    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 ENHANCED REMASTER"
   },
   "500": {
     "config_count": 15,
@@ -39043,6 +39074,14 @@
     ],
     "name": "Fantasy Grounds - CS1 After Winter's Dark: Aihrde Setting (Castles & Crusades)"
   },
+  "59191": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "DragonBall_XenoVerse"
+    ],
+    "name": "DRAGONBALL XENOVERSE Bundle Edition"
+  },
   "593280": {
     "config_count": 1,
     "devices": [
@@ -39894,20 +39933,6 @@
       "Coming_Out_on_Top"
     ],
     "name": "Coming Out on Top"
-  },
-  "645730": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Immortalis_MC12",
-        "m": "G720",
-        "s": "Mali-G720-Immortalis MC12"
-      }
-    ],
-    "folders": [
-      "Resonance_of_Fate"
-    ],
-    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 4K/HD EDITION"
   },
   "646570": {
     "config_count": 2,
