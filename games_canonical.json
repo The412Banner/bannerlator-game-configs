@@ -3800,7 +3800,7 @@
     "name": "The Sims\u2122 4"
   },
   "1222680": {
-    "config_count": 59,
+    "config_count": 60,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -3896,6 +3896,11 @@
         "d": "Adreno__TM__722",
         "m": "CPH2825",
         "s": "Adreno (TM) 722"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "I2405",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "G57_MC2",
