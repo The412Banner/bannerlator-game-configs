@@ -12131,7 +12131,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -12140,8 +12140,7 @@
       }
     ],
     "folders": [
-      "WolfNewOrder",
-      "Wolfenstein__2009_"
+      "WolfNewOrder"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -14382,7 +14381,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 138,
+    "config_count": 139,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -15354,7 +15353,7 @@
     "name": "Total Chaos"
   },
   "221040": {
-    "config_count": 82,
+    "config_count": 83,
     "devices": [
       {
         "d": "G720_MC7",
@@ -15385,11 +15384,6 @@
         "d": "MT6897",
         "m": "TECNO_LJ9",
         "s": "MT6897"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__640",
@@ -15485,6 +15479,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__650",
@@ -16335,7 +16334,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 345,
+    "config_count": 347,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -16381,11 +16380,6 @@
         "d": "G76",
         "m": "Mali",
         "s": "Mali-G76"
-      },
-      {
-        "d": "Adreno__TM__619",
-        "m": "moto_g84_5G",
-        "s": "Adreno (TM) 619"
       },
       {
         "d": "Adreno__TM__725",
@@ -16691,6 +16685,16 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_",
+        "m": "S731B",
+        "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.304)"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g84_5G",
+        "s": "Adreno (TM) 619"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -19057,6 +19061,14 @@
       "Assetto_Corsa"
     ],
     "name": "Assetto Corsa"
+  },
+  "2442460": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Vector"
+    ],
+    "name": "Citizen Sleeper 2: Starward Vector"
   },
   "244450": {
     "config_count": 2,
@@ -26191,7 +26203,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2485,
+    "config_count": 2488,
     "devices": [
       {
         "d": "G52_MC2",
@@ -27309,11 +27321,6 @@
         "s": "Mali-G68 MC4"
       },
       {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
-      },
-      {
         "d": "Ultra_MC12",
         "m": "G1",
         "s": "Mali-G1-Ultra MC12"
@@ -27552,6 +27559,11 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "Adreno__TM__830",
@@ -31963,14 +31975,6 @@
     ],
     "name": "Dead Island: Riptide Definitive Edition"
   },
-  "3832030": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Vector"
-    ],
-    "name": "BOOST VECTOR EX"
-  },
   "383870": {
     "config_count": 2,
     "devices": [
@@ -32094,7 +32098,7 @@
     "name": "Ori and the Blind Forest: Definitive Edition"
   },
   "3875050": {
-    "config_count": 14,
+    "config_count": 15,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -32142,7 +32146,8 @@
       "MotoGP_26___",
       "gp",
       "motogp",
-      "motogp_"
+      "motogp_",
+      "MOTO_GP"
     ],
     "name": "MotoGP\u212226"
   },
@@ -36942,20 +36947,6 @@
     ],
     "name": "State of Decay 2: Juggernaut Edition"
   },
-  "4996080": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Immortalis_MC12",
-        "m": "G720",
-        "s": "Mali-G720-Immortalis MC12"
-      }
-    ],
-    "folders": [
-      "Resonance_of_Fate"
-    ],
-    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 ENHANCED REMASTER"
-  },
   "500": {
     "config_count": 15,
     "devices": [
@@ -37445,6 +37436,14 @@
       "The_Rhapsody_of_Zephyr_Remastered"
     ],
     "name": "The Rhapsody of Zephyr Remastered"
+  },
+  "510500": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "ExecutiveAssault2"
+    ],
+    "name": "Executive Assault 2"
   },
   "5112150": {
     "config_count": 12,
@@ -39374,7 +39373,7 @@
     "name": "Moonlighter"
   },
   "606280": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -39387,13 +39386,19 @@
         "s": "Adreno (TM) 825"
       },
       {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
+      },
+      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
       }
     ],
     "folders": [
-      "Darksiders_III"
+      "Darksiders_III",
+      "Darksiders"
     ],
     "name": "Darksiders III"
   },
@@ -39448,7 +39453,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -39848,6 +39853,20 @@
       "Coming_Out_on_Top"
     ],
     "name": "Coming Out on Top"
+  },
+  "645730": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Immortalis_MC12",
+        "m": "G720",
+        "s": "Mali-G720-Immortalis MC12"
+      }
+    ],
+    "folders": [
+      "Resonance_of_Fate"
+    ],
+    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 4K/HD EDITION"
   },
   "646570": {
     "config_count": 2,
@@ -40698,7 +40717,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__A32",
@@ -40711,11 +40730,6 @@
         "s": "Mali-G720 MC7"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
-      },
-      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
@@ -40723,7 +40737,6 @@
     ],
     "folders": [
       "Darksiders_Genesis",
-      "Darksiders",
       "DarksidersGenesis",
       "Darksiders_genesis"
     ],
@@ -48446,7 +48459,7 @@
     "name": "PES 2014"
   },
   "name:pes-2015": {
-    "config_count": 23,
+    "config_count": 24,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -48487,6 +48500,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "moto_g52",
+        "s": "Adreno (TM) 610"
       }
     ],
     "folders": [
