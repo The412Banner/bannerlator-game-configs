@@ -12491,6 +12491,11 @@
         "d": "Adreno__TM__830",
         "m": "S938B",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2520A",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -39486,6 +39491,20 @@
     ],
     "name": "Home Sweet Home"
   },
+  "617290": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "V2520A",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "Remnant_From_The_Ashes"
+    ],
+    "name": "Remnant: From the Ashes"
+  },
   "618970": {
     "config_count": 1,
     "devices": [
@@ -49181,6 +49200,14 @@
       "pes2010"
     ],
     "name": "Pes2010"
+  },
+  "name:pes2012": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "pes2012"
+    ],
+    "name": "Pes2012"
   },
   "name:pes2014": {
     "config_count": 3,
