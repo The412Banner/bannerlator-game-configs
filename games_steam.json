@@ -540,7 +540,6 @@
   },
   "Assassins_Creed_Brotherhood_________________________________": {
     "appid": 48190,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/48190/header.jpg",
     "method": "naive",
     "steam_name": "Assassin\u2019s Creed\u00ae Brotherhood"
   },
@@ -747,11 +746,6 @@
     "appid": 2141730,
     "method": "naive",
     "steam_name": "Backrooms: Escape Together"
-  },
-  "Baladins": {
-    "appid": 1866320,
-    "method": "naive",
-    "steam_name": "Baladins"
   },
   "BaldiFunkin": {
     "appid": null,
@@ -13417,6 +13411,10 @@
     "appid": 2215200,
     "method": "fuzzy",
     "steam_name": "LEGO\u00ae Batman\u2122: Legacy of the Dark Knight"
+  },
+  "lend_rio_PES_2013": {
+    "appid": null,
+    "method": "unresolved"
   },
   "little_nightmares_ll": {
     "appid": null,
