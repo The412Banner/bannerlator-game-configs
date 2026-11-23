@@ -25547,6 +25547,14 @@
     ],
     "name": "Way of the Samurai 4"
   },
+  "3128480": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "WRC_2"
+    ],
+    "name": "EA SPORTS\u2122 WRC 24 Season Expansion Bundle"
+  },
   "3130330": {
     "config_count": 1,
     "devices": [
@@ -29832,15 +29840,6 @@
     ],
     "name": "Car Service Together"
   },
-  "35020": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
-      "Batman_Arkham_Asylum"
-    ],
-    "name": "Batman: Arkham Asylum Demo"
-  },
   "3503050": {
     "config_count": 1,
     "devices": [
@@ -29870,7 +29869,7 @@
     "name": "Wuthering Waves"
   },
   "35140": {
-    "config_count": 27,
+    "config_count": 29,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -29940,6 +29939,8 @@
     ],
     "folders": [
       "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_-_Arkham_Asylum_Game_of_the_Year_Edition",
+      "Batman_Arkham_Asylum",
       "Batman__Arkham_Asylum_GOTY_Edition"
     ],
     "name": "Batman: Arkham Asylum Game of the Year Edition"
@@ -35607,7 +35608,7 @@
     "name": "Zenonia 1"
   },
   "454650": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "G57_MC2",
@@ -35631,7 +35632,8 @@
       }
     ],
     "folders": [
-      "DRAGON_BALL_XENOVERSE_2"
+      "DRAGON_BALL_XENOVERSE_2",
+      "DragonBall_XenoVerse"
     ],
     "name": "DRAGON BALL XENOVERSE 2"
   },
@@ -36994,20 +36996,6 @@
     ],
     "name": "State of Decay 2: Juggernaut Edition"
   },
-  "4996080": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Immortalis_MC12",
-        "m": "G720",
-        "s": "Mali-G720-Immortalis MC12"
-      }
-    ],
-    "folders": [
-      "Resonance_of_Fate"
-    ],
-    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 ENHANCED REMASTER"
-  },
   "500": {
     "config_count": 15,
     "devices": [
@@ -37780,6 +37768,14 @@
       "Satisfactory"
     ],
     "name": "Satisfactory"
+  },
+  "5275590": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "DiRT"
+    ],
+    "name": "Dirt Town"
   },
   "530620": {
     "config_count": 3,
@@ -38951,7 +38947,7 @@
     "name": "Monster Hunter: World"
   },
   "582160": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "Assassin_s_Creed_Origins"
@@ -39073,14 +39069,6 @@
       "Counter_Strike_1_6__________________________________________"
     ],
     "name": "Fantasy Grounds - CS1 After Winter's Dark: Aihrde Setting (Castles & Crusades)"
-  },
-  "59191": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "DragonBall_XenoVerse"
-    ],
-    "name": "DRAGONBALL XENOVERSE Bundle Edition"
   },
   "593280": {
     "config_count": 1,
@@ -39439,7 +39427,7 @@
     "name": "Moonlighter"
   },
   "606280": {
-    "config_count": 11,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -39452,19 +39440,13 @@
         "s": "Adreno (TM) 825"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
-      },
-      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
       }
     ],
     "folders": [
-      "Darksiders_III",
-      "Darksiders"
+      "Darksiders_III"
     ],
     "name": "Darksiders III"
   },
@@ -39933,6 +39915,20 @@
       "Coming_Out_on_Top"
     ],
     "name": "Coming Out on Top"
+  },
+  "645730": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Immortalis_MC12",
+        "m": "G720",
+        "s": "Mali-G720-Immortalis MC12"
+      }
+    ],
+    "folders": [
+      "Resonance_of_Fate"
+    ],
+    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 4K/HD EDITION"
   },
   "646570": {
     "config_count": 2,
@@ -40794,7 +40790,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__A32",
@@ -40807,6 +40803,11 @@
         "s": "Mali-G720 MC7"
       },
       {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
+      },
+      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
@@ -40814,6 +40815,7 @@
     ],
     "folders": [
       "Darksiders_Genesis",
+      "Darksiders",
       "DarksidersGenesis",
       "Darksiders_genesis"
     ],
@@ -46885,7 +46887,7 @@
     "name": "Need For Speed Most Wanted Black Edition"
   },
   "name:need-for-speed-shift": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__735",
