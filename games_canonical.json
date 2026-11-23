@@ -2750,7 +2750,7 @@
     "name": "I.G.I. Origins"
   },
   "1187": {
-    "config_count": 4,
+    "config_count": 2,
     "devices": [
       {
         "d": "G77_MC9",
@@ -2759,8 +2759,7 @@
       }
     ],
     "folders": [
-      "ACC",
-      "Assassin_s_Creed_Rogue"
+      "ACC"
     ],
     "name": "Acc"
   },
@@ -5476,20 +5475,6 @@
       "Lost_Ruins"
     ],
     "name": "Lost Ruins"
-  },
-  "1307710": {
-    "config_count": 3,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "GRID"
-    ],
-    "name": "GRID Legends"
   },
   "1310510": {
     "config_count": 1,
@@ -11410,7 +11395,7 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -15693,7 +15678,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -15733,7 +15718,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev"
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -16337,7 +16323,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 347,
+    "config_count": 348,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -16685,11 +16671,6 @@
         "s": "Adreno (TM) 750"
       },
       {
-        "d": "G68",
-        "m": "Mali",
-        "s": "Mali-G68"
-      },
-      {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_",
         "m": "S731B",
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.304)"
@@ -16698,6 +16679,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g84_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G68",
+        "m": "Mali",
+        "s": "Mali-G68"
       },
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -19072,14 +19058,6 @@
       "Assetto_Corsa"
     ],
     "name": "Assetto Corsa"
-  },
-  "2442460": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Vector"
-    ],
-    "name": "Citizen Sleeper 2: Starward Vector"
   },
   "244450": {
     "config_count": 2,
@@ -21696,9 +21674,51 @@
     "name": "Resonance: A Plague Tale Legacy"
   },
   "271590": {
-    "config_count": 3,
-    "devices": [],
+    "config_count": 25,
+    "devices": [
+      {
+        "d": "Adreno__TM__610",
+        "m": "A235F",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "23013PC75G",
+        "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__640",
+        "m": "N970U1",
+        "s": "Adreno (TM) 640"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "Redmi_Note_9_Pro",
+        "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "2509FPN0BC",
+        "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__735",
+        "m": "24069PC21G",
+        "s": "Adreno (TM) 735"
+      }
+    ],
     "folders": [
+      "Grand_Theft_Auto_V",
       "gta_data"
     ],
     "name": "GTA Data"
@@ -23053,7 +23073,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -23093,8 +23113,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -25242,7 +25261,7 @@
     "name": "Warhammer 40,000: Boltgun 2"
   },
   "311560": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [
       {
         "d": "G615_MC6",
@@ -25251,6 +25270,7 @@
       }
     ],
     "folders": [
+      "Assassin_s_Creed_Rogue",
       "Assassins_Creed_Rogue"
     ],
     "name": "Assassins Creed Rogue"
@@ -26173,7 +26193,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2521,
+    "config_count": 2499,
     "devices": [
       {
         "d": "G52_MC2",
@@ -27619,21 +27639,6 @@
         "d": "Adreno__TM__630",
         "m": "IN2020",
         "s": "Adreno (TM) 630"
-      },
-      {
-        "d": "Adreno__TM__640",
-        "m": "N970U1",
-        "s": "Adreno (TM) 640"
-      },
-      {
-        "d": "Adreno__TM__618",
-        "m": "Redmi_Note_9_Pro",
-        "s": "Adreno (TM) 618"
-      },
-      {
-        "d": "Adreno__TM__840",
-        "m": "2509FPN0BC",
-        "s": "Adreno (TM) 840"
       },
       {
         "d": "256",
@@ -30669,7 +30674,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 5,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -30690,6 +30695,11 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -31973,6 +31983,14 @@
     ],
     "name": "Dead Island: Riptide Definitive Edition"
   },
+  "3832030": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Vector"
+    ],
+    "name": "BOOST VECTOR EX"
+  },
   "383870": {
     "config_count": 2,
     "devices": [
@@ -32436,7 +32454,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 236,
+    "config_count": 237,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -33717,6 +33735,14 @@
       "BioShock_2_Remastered"
     ],
     "name": "BioShock\u2122 2 Remastered"
+  },
+  "40990": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Mafia"
+    ],
+    "name": "Mafia"
   },
   "4100940": {
     "config_count": 9,
@@ -36962,20 +36988,6 @@
     ],
     "name": "State of Decay 2: Juggernaut Edition"
   },
-  "4996080": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Immortalis_MC12",
-        "m": "G720",
-        "s": "Mali-G720-Immortalis MC12"
-      }
-    ],
-    "folders": [
-      "Resonance_of_Fate"
-    ],
-    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 ENHANCED REMASTER"
-  },
   "500": {
     "config_count": 15,
     "devices": [
@@ -39895,6 +39907,20 @@
       "Coming_Out_on_Top"
     ],
     "name": "Coming Out on Top"
+  },
+  "645730": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Immortalis_MC12",
+        "m": "G720",
+        "s": "Mali-G720-Immortalis MC12"
+      }
+    ],
+    "folders": [
+      "Resonance_of_Fate"
+    ],
+    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 4K/HD EDITION"
   },
   "646570": {
     "config_count": 2,
