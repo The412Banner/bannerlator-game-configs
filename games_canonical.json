@@ -5471,20 +5471,6 @@
     ],
     "name": "Lost Ruins"
   },
-  "1307710": {
-    "config_count": 3,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "GRID"
-    ],
-    "name": "GRID Legends"
-  },
   "1310510": {
     "config_count": 1,
     "devices": [],
@@ -12499,7 +12485,7 @@
     "name": "GoreBox"
   },
   "202750": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -12508,7 +12494,8 @@
       }
     ],
     "folders": [
-      "alan_wakes_american_nightmare"
+      "alan_wakes_american_nightmare",
+      "Alan_Wake_American_Nightmare"
     ],
     "name": "Alan Wake's American Nightmare"
   },
@@ -18410,6 +18397,14 @@
     ],
     "name": "MOUSE: P.I. For Hire"
   },
+  "2417610": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Metal_Gear_Solid"
+    ],
+    "name": "METAL GEAR SOLID \u0394: SNAKE EATER"
+  },
   "241930": {
     "config_count": 10,
     "devices": [
@@ -19532,7 +19527,7 @@
     "name": "FATAL FURY: City of the Wolves"
   },
   "2492670": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "G57_MC2",
@@ -19543,8 +19538,7 @@
     "folders": [
       "METAL_GEAR_SOLID_4__Guns_of_the_Patriots_-_Master_Collection_Version",
       "VERS_O_DEMO_DE_DRAGON_BALL_Z__KAKAROT",
-      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version",
-      "Metal_Gear_Solid"
+      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version"
     ],
     "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version"
   },
@@ -30671,7 +30665,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 5,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -30692,6 +30686,11 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -32101,6 +32100,11 @@
     "config_count": 15,
     "devices": [
       {
+        "d": "G52_MC2",
+        "m": "Mali",
+        "s": "Mali-G52 MC2"
+      },
+      {
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
@@ -32121,11 +32125,6 @@
         "s": "Adreno (TM) 750"
       },
       {
-        "d": "G52_MC2",
-        "m": "Mali",
-        "s": "Mali-G52 MC2"
-      },
-      {
         "d": "Adreno__TM__616",
         "m": "vivo_1918",
         "s": "Adreno (TM) 616"
@@ -32142,12 +32141,12 @@
       }
     ],
     "folders": [
+      "MOTO_GP",
       "MotoGP_26",
       "MotoGP_26___",
       "gp",
       "motogp",
-      "motogp_",
-      "MOTO_GP"
+      "motogp_"
     ],
     "name": "MotoGP\u212226"
   },
@@ -34041,7 +34040,7 @@
     ],
     "name": "My Winter Car"
   },
-  "4165890": {
+  "4165910": {
     "config_count": 5,
     "devices": [
       {
@@ -34053,7 +34052,7 @@
     "folders": [
       "Steam"
     ],
-    "name": "Steam Frame"
+    "name": "Steam Machine"
   },
   "418030": {
     "config_count": 1,
@@ -35560,7 +35559,7 @@
     "name": "Zenonia 1"
   },
   "454650": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "G57_MC2",
@@ -35584,7 +35583,8 @@
       }
     ],
     "folders": [
-      "DRAGON_BALL_XENOVERSE_2"
+      "DRAGON_BALL_XENOVERSE_2",
+      "DragonBall_XenoVerse"
     ],
     "name": "DRAGON BALL XENOVERSE 2"
   },
@@ -39013,14 +39013,6 @@
     ],
     "name": "Fantasy Grounds - CS1 After Winter's Dark: Aihrde Setting (Castles & Crusades)"
   },
-  "59191": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "DragonBall_XenoVerse"
-    ],
-    "name": "DRAGONBALL XENOVERSE Bundle Edition"
-  },
   "593280": {
     "config_count": 1,
     "devices": [
@@ -39373,7 +39365,7 @@
     "name": "Moonlighter"
   },
   "606280": {
-    "config_count": 11,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -39386,19 +39378,13 @@
         "s": "Adreno (TM) 825"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
-      },
-      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
       }
     ],
     "folders": [
-      "Darksiders_III",
-      "Darksiders"
+      "Darksiders_III"
     ],
     "name": "Darksiders III"
   },
@@ -40717,7 +40703,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__A32",
@@ -40730,6 +40716,11 @@
         "s": "Mali-G720 MC7"
       },
       {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
+      },
+      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
@@ -40737,6 +40728,7 @@
     ],
     "folders": [
       "Darksiders_Genesis",
+      "Darksiders",
       "DarksidersGenesis",
       "Darksiders_genesis"
     ],
