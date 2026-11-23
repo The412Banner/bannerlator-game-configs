@@ -40334,7 +40334,7 @@
     "name": "Heroes Of Hammerwatch"
   },
   "678950": {
-    "config_count": 66,
+    "config_count": 68,
     "devices": [
       {
         "d": "Adreno__TM__810",
@@ -40455,6 +40455,11 @@
         "d": "Adreno__TM__642L",
         "m": "LX1",
         "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
