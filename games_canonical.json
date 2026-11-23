@@ -2750,7 +2750,7 @@
     "name": "I.G.I. Origins"
   },
   "1187": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [
       {
         "d": "G77_MC9",
@@ -2759,7 +2759,8 @@
       }
     ],
     "folders": [
-      "ACC"
+      "ACC",
+      "Assassin_s_Creed_Rogue"
     ],
     "name": "Acc"
   },
@@ -9645,7 +9646,7 @@
     "name": "Have a Nice Death"
   },
   "17410": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -9963,7 +9964,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 184,
+    "config_count": 185,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -12117,7 +12118,7 @@
     "name": "Voidwrought"
   },
   "201810": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -12126,7 +12127,8 @@
       }
     ],
     "folders": [
-      "WolfNewOrder"
+      "WolfNewOrder",
+      "Wolfenstein__2009_"
     ],
     "name": "Wolfenstein: The New Order"
   },
@@ -12802,7 +12804,7 @@
     "name": "Call of Juarez: Gunslinger"
   },
   "2050650": {
-    "config_count": 89,
+    "config_count": 90,
     "devices": [
       {
         "d": "G57_MC2",
@@ -20813,20 +20815,6 @@
     ],
     "name": "Call of Duty\u00ae 2"
   },
-  "2630020": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Nightmare Knight ~Sacred Maiden & Fallen Magic~"
-  },
   "2632240": {
     "config_count": 1,
     "devices": [],
@@ -21499,14 +21487,6 @@
     ],
     "name": "Kindergarten 3"
   },
-  "2696230": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GBVSR"
-    ],
-    "name": "GBVSR - System Voice Set"
-  },
   "269650": {
     "config_count": 1,
     "devices": [],
@@ -21715,51 +21695,9 @@
     "name": "Resonance: A Plague Tale Legacy"
   },
   "271590": {
-    "config_count": 25,
-    "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "A235F",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "23013PC75G",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "Adreno__TM__640",
-        "m": "N970U1",
-        "s": "Adreno (TM) 640"
-      },
-      {
-        "d": "Adreno__TM__618",
-        "m": "Redmi_Note_9_Pro",
-        "s": "Adreno (TM) 618"
-      },
-      {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
-      },
-      {
-        "d": "Adreno__TM__840",
-        "m": "2509FPN0BC",
-        "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__735",
-        "m": "24069PC21G",
-        "s": "Adreno (TM) 735"
-      }
-    ],
+    "config_count": 3,
+    "devices": [],
     "folders": [
-      "Grand_Theft_Auto_V",
       "gta_data"
     ],
     "name": "GTA Data"
@@ -23640,6 +23578,20 @@
     ],
     "name": "FINAL FANTASY\u00ae XIII-2"
   },
+  "292410": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Street_Racing_Syndicate"
+    ],
+    "name": "Street Racing Syndicate"
+  },
   "2924540": {
     "config_count": 1,
     "devices": [
@@ -25278,7 +25230,7 @@
     "name": "Warhammer 40,000: Boltgun 2"
   },
   "311560": {
-    "config_count": 4,
+    "config_count": 2,
     "devices": [
       {
         "d": "G615_MC6",
@@ -25287,7 +25239,6 @@
       }
     ],
     "folders": [
-      "Assassin_s_Creed_Rogue",
       "Assassins_Creed_Rogue"
     ],
     "name": "Assassins Creed Rogue"
@@ -26202,7 +26153,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2488,
+    "config_count": 2517,
     "devices": [
       {
         "d": "G52_MC2",
@@ -27525,19 +27476,9 @@
         "s": "Adreno (TM) 740"
       },
       {
-        "d": "Adreno__TM__610",
-        "m": "LX2",
-        "s": "Adreno (TM) 610"
-      },
-      {
         "d": "Adreno__TM__810",
         "m": "NX1",
         "s": "Adreno (TM) 810"
-      },
-      {
-        "d": "Adreno__TM__710",
-        "m": "NX1",
-        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__720",
@@ -27563,6 +27504,21 @@
         "d": "Adreno__TM__830",
         "m": "S938B",
         "s": "Adreno (TM) 830"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "RMX3491",
+        "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "NX1",
+        "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "Adreno__TM__610",
+        "m": "LX2",
+        "s": "Adreno (TM) 610"
       },
       {
         "d": "Adreno__TM__830",
@@ -27643,6 +27599,21 @@
         "d": "Adreno__TM__630",
         "m": "IN2020",
         "s": "Adreno (TM) 630"
+      },
+      {
+        "d": "Adreno__TM__640",
+        "m": "N970U1",
+        "s": "Adreno (TM) 640"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "Redmi_Note_9_Pro",
+        "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "2509FPN0BC",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "256",
@@ -28067,6 +28038,14 @@
       "Heretic___Hexen"
     ],
     "name": "Heretic + Hexen"
+  },
+  "3287490": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GBVSR"
+    ],
+    "name": "GBVSR - Deluxe Character Pass 2"
   },
   "3287520": {
     "config_count": 1,
@@ -32405,6 +32384,20 @@
     ],
     "name": "TEKKEN 7"
   },
+  "3906660": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred 2 Remaster"
+  },
   "3907880": {
     "config_count": 1,
     "devices": [],
@@ -35564,7 +35557,7 @@
     "name": "Zenonia 1"
   },
   "454650": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "G57_MC2",
@@ -35588,8 +35581,7 @@
       }
     ],
     "folders": [
-      "DRAGON_BALL_XENOVERSE_2",
-      "DragonBall_XenoVerse"
+      "DRAGON_BALL_XENOVERSE_2"
     ],
     "name": "DRAGON BALL XENOVERSE 2"
   },
@@ -39018,6 +39010,14 @@
     ],
     "name": "Fantasy Grounds - CS1 After Winter's Dark: Aihrde Setting (Castles & Crusades)"
   },
+  "59191": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "DragonBall_XenoVerse"
+    ],
+    "name": "DRAGONBALL XENOVERSE Bundle Edition"
+  },
   "593280": {
     "config_count": 1,
     "devices": [
@@ -39061,7 +39061,7 @@
     "name": "Final Fantasy Xii - The Zodiac Age"
   },
   "597820": {
-    "config_count": 3,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -39072,6 +39072,11 @@
         "d": "Adreno__TM__750",
         "m": "TB321FU",
         "s": "Adreno (TM) 750"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "2607APCA5G",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
@@ -39370,7 +39375,7 @@
     "name": "Moonlighter"
   },
   "606280": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -39383,13 +39388,19 @@
         "s": "Adreno (TM) 825"
       },
       {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
+      },
+      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
       }
     ],
     "folders": [
-      "Darksiders_III"
+      "Darksiders_III",
+      "Darksiders"
     ],
     "name": "Darksiders III"
   },
@@ -39444,7 +39455,7 @@
     "name": "Fallout 4 VR"
   },
   "612880": {
-    "config_count": 12,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -40602,7 +40613,7 @@
     "name": "Bloodstained: Ritual of the Night"
   },
   "694780": {
-    "config_count": 3,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -40618,10 +40629,16 @@
         "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
         "m": "A566B",
         "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.279)"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "2607APCA5G",
+        "s": "Adreno (TM) 840"
       }
     ],
     "folders": [
-      "God_of_War_III______________________________________________"
+      "God_of_War_III______________________________________________",
+      "God_of_War_III_Remastered___________________________________"
     ],
     "name": "SUPER ARMY OF TENTACLES 3, Winter Outfit Pack I: War of the Old Gods"
   },
@@ -40722,7 +40739,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__A32",
@@ -40735,11 +40752,6 @@
         "s": "Mali-G720 MC7"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
-      },
-      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
@@ -40747,7 +40759,6 @@
     ],
     "folders": [
       "Darksiders_Genesis",
-      "Darksiders",
       "DarksidersGenesis",
       "Darksiders_genesis"
     ],
@@ -42698,7 +42709,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 150,
+    "config_count": 151,
     "devices": [
       {
         "d": "s5e8855",
@@ -47336,7 +47347,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3373,
+    "config_count": 3375,
     "devices": [
       {
         "d": "G52_MC2",
@@ -48359,11 +48370,6 @@
         "s": "Mali-G615 MC2"
       },
       {
-        "d": "256",
-        "m": "8",
-        "s": "PowerVR B-Series BXM-8-256"
-      },
-      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
@@ -48372,6 +48378,11 @@
         "d": "Adreno__TM__610",
         "m": "moto_e_7__plus",
         "s": "Adreno (TM) 610"
+      },
+      {
+        "d": "256",
+        "m": "8",
+        "s": "PowerVR B-Series BXM-8-256"
       },
       {
         "d": "Adreno__TM__740",
