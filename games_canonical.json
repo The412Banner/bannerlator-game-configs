@@ -2750,7 +2750,7 @@
     "name": "I.G.I. Origins"
   },
   "1187": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [
       {
         "d": "G77_MC9",
@@ -2759,7 +2759,8 @@
       }
     ],
     "folders": [
-      "ACC"
+      "ACC",
+      "Assassin_s_Creed_Rogue"
     ],
     "name": "Acc"
   },
@@ -5475,6 +5476,20 @@
       "Lost_Ruins"
     ],
     "name": "Lost Ruins"
+  },
+  "1307710": {
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "GRID"
+    ],
+    "name": "GRID Legends"
   },
   "1310510": {
     "config_count": 1,
@@ -13791,7 +13806,7 @@
     "name": "FTL: Faster Than Light"
   },
   "2128470": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "MT6835",
@@ -13809,14 +13824,14 @@
         "s": "PowerVR B-Series BXM-8-256"
       },
       {
-        "d": "G720_MC7",
-        "m": "Mali",
-        "s": "Mali-G720 MC7"
-      },
-      {
         "d": "G76_MC4",
         "m": "Mali",
         "s": "Mali-G76 MC4"
+      },
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
       }
     ],
     "folders": [
@@ -15337,7 +15352,7 @@
     "name": "Total Chaos"
   },
   "221040": {
-    "config_count": 83,
+    "config_count": 84,
     "devices": [
       {
         "d": "G720_MC7",
@@ -15678,7 +15693,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 22,
+    "config_count": 21,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -15718,8 +15733,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -15954,7 +15968,7 @@
     "name": "Fallout 3: Game of the Year Edition"
   },
   "22380": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "G720_MC7",
@@ -15990,6 +16004,11 @@
         "d": "Adreno__TM__825",
         "m": "25053PC47G",
         "s": "Adreno (TM) 825"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "Retroid_Pocket_5",
+        "s": "Adreno (TM) 650"
       },
       {
         "d": "Adreno__TM__830",
@@ -18394,6 +18413,14 @@
     ],
     "name": "MOUSE: P.I. For Hire"
   },
+  "2417610": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Metal_Gear_Solid"
+    ],
+    "name": "METAL GEAR SOLID \u0394: SNAKE EATER"
+  },
   "241930": {
     "config_count": 10,
     "devices": [
@@ -19516,7 +19543,7 @@
     "name": "FATAL FURY: City of the Wolves"
   },
   "2492670": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "G57_MC2",
@@ -19527,8 +19554,7 @@
     "folders": [
       "METAL_GEAR_SOLID_4__Guns_of_the_Patriots_-_Master_Collection_Version",
       "VERS_O_DEMO_DE_DRAGON_BALL_Z__KAKAROT",
-      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version",
-      "Metal_Gear_Solid"
+      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version"
     ],
     "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version"
   },
@@ -20454,14 +20480,6 @@
     ],
     "name": "Promise Mascot Agency"
   },
-  "2590240": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "metro"
-    ],
-    "name": "METRO 2039"
-  },
   "2592160": {
     "config_count": 8,
     "devices": [
@@ -20797,20 +20815,6 @@
       "Call_of_Duty_2______________________________________________"
     ],
     "name": "Call of Duty\u00ae 2"
-  },
-  "2630020": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Nightmare Knight ~Sacred Maiden & Fallen Magic~"
   },
   "2632240": {
     "config_count": 1,
@@ -21692,51 +21696,9 @@
     "name": "Resonance: A Plague Tale Legacy"
   },
   "271590": {
-    "config_count": 25,
-    "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "A235F",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "23013PC75G",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "Adreno__TM__640",
-        "m": "N970U1",
-        "s": "Adreno (TM) 640"
-      },
-      {
-        "d": "Adreno__TM__618",
-        "m": "Redmi_Note_9_Pro",
-        "s": "Adreno (TM) 618"
-      },
-      {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
-      },
-      {
-        "d": "Adreno__TM__840",
-        "m": "2509FPN0BC",
-        "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__735",
-        "m": "24069PC21G",
-        "s": "Adreno (TM) 735"
-      }
-    ],
+    "config_count": 3,
+    "devices": [],
     "folders": [
-      "Grand_Theft_Auto_V",
       "gta_data"
     ],
     "name": "GTA Data"
@@ -23091,7 +23053,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -23131,7 +23093,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -25279,7 +25242,7 @@
     "name": "Warhammer 40,000: Boltgun 2"
   },
   "311560": {
-    "config_count": 4,
+    "config_count": 2,
     "devices": [
       {
         "d": "G615_MC6",
@@ -25288,7 +25251,6 @@
       }
     ],
     "folders": [
-      "Assassin_s_Creed_Rogue",
       "Assassins_Creed_Rogue"
     ],
     "name": "Assassins Creed Rogue"
@@ -26211,7 +26173,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2499,
+    "config_count": 2521,
     "devices": [
       {
         "d": "G52_MC2",
@@ -27657,6 +27619,21 @@
         "d": "Adreno__TM__630",
         "m": "IN2020",
         "s": "Adreno (TM) 630"
+      },
+      {
+        "d": "Adreno__TM__640",
+        "m": "N970U1",
+        "s": "Adreno (TM) 640"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "Redmi_Note_9_Pro",
+        "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "2509FPN0BC",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "256",
@@ -30692,7 +30669,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 8,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -30713,11 +30690,6 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -32427,6 +32399,20 @@
     ],
     "name": "TEKKEN 7"
   },
+  "3906660": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred 2 Remaster"
+  },
   "3907880": {
     "config_count": 1,
     "devices": [],
@@ -33807,7 +33793,7 @@
     "name": "SENRAN KAGURA SHINOVI VERSUS"
   },
   "412020": {
-    "config_count": 4,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -33817,7 +33803,8 @@
     ],
     "folders": [
       "Metro_Exodus",
-      "MetroExodus"
+      "MetroExodus",
+      "metro"
     ],
     "name": "Metro Exodus"
   },
@@ -35586,7 +35573,7 @@
     "name": "Zenonia 1"
   },
   "454650": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "G57_MC2",
@@ -35610,7 +35597,8 @@
       }
     ],
     "folders": [
-      "DRAGON_BALL_XENOVERSE_2"
+      "DRAGON_BALL_XENOVERSE_2",
+      "DragonBall_XenoVerse"
     ],
     "name": "DRAGON BALL XENOVERSE 2"
   },
@@ -39061,14 +39049,6 @@
       "Counter_Strike_1_6__________________________________________"
     ],
     "name": "Fantasy Grounds - CS1 After Winter's Dark: Aihrde Setting (Castles & Crusades)"
-  },
-  "59191": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "DragonBall_XenoVerse"
-    ],
-    "name": "DRAGONBALL XENOVERSE Bundle Edition"
   },
   "593280": {
     "config_count": 1,
@@ -46234,7 +46214,7 @@
     "name": "Hitman Absolution0"
   },
   "name:hitman5": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [],
     "folders": [
       "Hitman5"
