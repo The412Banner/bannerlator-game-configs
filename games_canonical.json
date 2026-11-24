@@ -2756,7 +2756,7 @@
     "name": "I.G.I. Origins"
   },
   "1187": {
-    "config_count": 2,
+    "config_count": 4,
     "devices": [
       {
         "d": "G77_MC9",
@@ -2765,7 +2765,8 @@
       }
     ],
     "folders": [
-      "ACC"
+      "ACC",
+      "Assassin_s_Creed_Rogue"
     ],
     "name": "Acc"
   },
@@ -12650,7 +12651,7 @@
     "name": "Hitman: Absolution\u2122"
   },
   "203160": {
-    "config_count": 20,
+    "config_count": 21,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -12680,6 +12681,7 @@
     ],
     "folders": [
       "Tomb_Raider",
+      "Tomb_Raider_2011",
       "Tomb_Raider_2013",
       "Tomb_Raider_Game_of_the_Year"
     ],
@@ -18772,7 +18774,7 @@
     "name": "Cyber Manhunt 2: New World - The Hacking Simulator"
   },
   "2424420": {
-    "config_count": 11,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -18798,16 +18800,6 @@
         "d": "G52_MC2",
         "m": "Mali",
         "s": "Mali-G52 MC2"
-      },
-      {
-        "d": "256",
-        "m": "8",
-        "s": "PowerVR B-Series BXM-8-256"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
       }
     ],
     "folders": [
@@ -18815,8 +18807,7 @@
       "Avatar_Legends__The_Fighting_Game",
       "Avatar_Legends___The_Fighting_Game",
       "Avatar_legends",
-      "Avatar_Legends__The_Fighting",
-      "Game"
+      "Avatar_Legends__The_Fighting"
     ],
     "name": "Avatar Legends: The Fighting Game"
   },
@@ -20533,6 +20524,14 @@
     ],
     "name": "Promise Mascot Agency"
   },
+  "2590240": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "metro"
+    ],
+    "name": "METRO 2039"
+  },
   "2592160": {
     "config_count": 8,
     "devices": [
@@ -21749,51 +21748,9 @@
     "name": "Resonance: A Plague Tale Legacy"
   },
   "271590": {
-    "config_count": 25,
-    "devices": [
-      {
-        "d": "Adreno__TM__610",
-        "m": "A235F",
-        "s": "Adreno (TM) 610"
-      },
-      {
-        "d": "Adreno__TM__730",
-        "m": "23013PC75G",
-        "s": "Adreno (TM) 730"
-      },
-      {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
-        "d": "Adreno__TM__640",
-        "m": "N970U1",
-        "s": "Adreno (TM) 640"
-      },
-      {
-        "d": "Adreno__TM__618",
-        "m": "Redmi_Note_9_Pro",
-        "s": "Adreno (TM) 618"
-      },
-      {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
-      },
-      {
-        "d": "Adreno__TM__840",
-        "m": "2509FPN0BC",
-        "s": "Adreno (TM) 840"
-      },
-      {
-        "d": "Adreno__TM__735",
-        "m": "24069PC21G",
-        "s": "Adreno (TM) 735"
-      }
-    ],
+    "config_count": 3,
+    "devices": [],
     "folders": [
-      "Grand_Theft_Auto_V",
       "gta_data"
     ],
     "name": "GTA Data"
@@ -25360,7 +25317,7 @@
     "name": "Warhammer 40,000: Boltgun 2"
   },
   "311560": {
-    "config_count": 4,
+    "config_count": 2,
     "devices": [
       {
         "d": "G615_MC6",
@@ -25369,7 +25326,6 @@
       }
     ],
     "folders": [
-      "Assassin_s_Creed_Rogue",
       "Assassins_Creed_Rogue"
     ],
     "name": "Assassins Creed Rogue"
@@ -25939,6 +25895,25 @@
     ],
     "name": "Destiny 2: The Edge of Fate"
   },
+  "3188660": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "256",
+        "m": "8",
+        "s": "PowerVR B-Series BXM-8-256"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "Game"
+    ],
+    "name": "Motocross The Game"
+  },
   "3194360": {
     "config_count": 1,
     "devices": [
@@ -26273,7 +26248,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2503,
+    "config_count": 2525,
     "devices": [
       {
         "d": "G52_MC2",
@@ -27719,6 +27694,21 @@
         "d": "Adreno__TM__630",
         "m": "IN2020",
         "s": "Adreno (TM) 630"
+      },
+      {
+        "d": "Adreno__TM__640",
+        "m": "N970U1",
+        "s": "Adreno (TM) 640"
+      },
+      {
+        "d": "Adreno__TM__618",
+        "m": "Redmi_Note_9_Pro",
+        "s": "Adreno (TM) 618"
+      },
+      {
+        "d": "Adreno__TM__840",
+        "m": "2509FPN0BC",
+        "s": "Adreno (TM) 840"
       },
       {
         "d": "256",
@@ -33880,7 +33870,7 @@
     "name": "SENRAN KAGURA SHINOVI VERSUS"
   },
   "412020": {
-    "config_count": 6,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -33890,8 +33880,7 @@
     ],
     "folders": [
       "Metro_Exodus",
-      "MetroExodus",
-      "metro"
+      "MetroExodus"
     ],
     "name": "Metro Exodus"
   },
@@ -47462,7 +47451,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3376,
+    "config_count": 3377,
     "devices": [
       {
         "d": "G52_MC2",
