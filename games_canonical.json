@@ -505,14 +505,6 @@
     ],
     "name": "Kingdoms of Amalur: Reckoning\u2122"
   },
-  "1026023": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "Battlefield_1"
-    ],
-    "name": "Battlefield 1"
-  },
   "1026680": {
     "config_count": 1,
     "devices": [],
@@ -2550,7 +2542,7 @@
     "name": "FINAL FANTASY"
   },
   "1174180": {
-    "config_count": 69,
+    "config_count": 70,
     "devices": [
       {
         "d": "SM8750P",
@@ -4438,7 +4430,7 @@
     "name": "Battlefield 3\u2122"
   },
   "1238840": {
-    "config_count": 11,
+    "config_count": 12,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -4487,7 +4479,8 @@
       }
     ],
     "folders": [
-      "Battlefield__1"
+      "Battlefield__1",
+      "Battlefield_1"
     ],
     "name": "Battlefield\u2122 1"
   },
@@ -18435,14 +18428,6 @@
     ],
     "name": "MOUSE: P.I. For Hire"
   },
-  "2417610": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Metal_Gear_Solid"
-    ],
-    "name": "METAL GEAR SOLID \u0394: SNAKE EATER"
-  },
   "241930": {
     "config_count": 10,
     "devices": [
@@ -19568,7 +19553,7 @@
     "name": "FATAL FURY: City of the Wolves"
   },
   "2492670": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "G57_MC2",
@@ -19579,7 +19564,8 @@
     "folders": [
       "METAL_GEAR_SOLID_4__Guns_of_the_Patriots_-_Master_Collection_Version",
       "VERS_O_DEMO_DE_DRAGON_BALL_Z__KAKAROT",
-      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version"
+      "METAL_GEAR_SOLID_4_-_Guns_of_the_Patriots_-_Master_Collection_Version",
+      "Metal_Gear_Solid"
     ],
     "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version"
   },
@@ -20512,6 +20498,14 @@
       "Promise_Mascot_Agency"
     ],
     "name": "Promise Mascot Agency"
+  },
+  "2590240": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "metro"
+    ],
+    "name": "METRO 2039"
   },
   "2592160": {
     "config_count": 8,
@@ -24884,7 +24878,7 @@
     "name": "MotoGP\u212225"
   },
   "307780": {
-    "config_count": 53,
+    "config_count": 54,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -26253,7 +26247,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2500,
+    "config_count": 2501,
     "devices": [
       {
         "d": "G52_MC2",
@@ -33874,7 +33868,7 @@
     "name": "SENRAN KAGURA SHINOVI VERSUS"
   },
   "412020": {
-    "config_count": 6,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -33884,8 +33878,7 @@
     ],
     "folders": [
       "Metro_Exodus",
-      "MetroExodus",
-      "metro"
+      "MetroExodus"
     ],
     "name": "Metro Exodus"
   },
@@ -41216,7 +41209,7 @@
     "name": "Five Nights at Freddy's: Security Breach"
   },
   "750920": {
-    "config_count": 22,
+    "config_count": 23,
     "devices": [
       {
         "d": "SM8850",
@@ -41244,11 +41237,6 @@
         "s": "Adreno (TM) 735"
       },
       {
-        "d": "Adreno__TM__825",
-        "m": "25053PC47G",
-        "s": "Adreno (TM) 825"
-      },
-      {
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
@@ -41257,6 +41245,11 @@
         "d": "Adreno__TM__730",
         "m": "23013PC75G",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__825",
+        "m": "25053PC47G",
+        "s": "Adreno (TM) 825"
       },
       {
         "d": "Adreno__TM__650",
