@@ -14,6 +14,20 @@
     ],
     "name": "Counter-Strike"
   },
+  "1002300": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__840",
+        "m": "NX809J",
+        "s": "Adreno (TM) 840"
+      }
+    ],
+    "folders": [
+      "Fear___Hunger"
+    ],
+    "name": "Fear & Hunger"
+  },
   "1004640": {
     "config_count": 3,
     "devices": [
@@ -5475,20 +5489,6 @@
       "Lost_Ruins"
     ],
     "name": "Lost Ruins"
-  },
-  "1307710": {
-    "config_count": 3,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "GRID"
-    ],
-    "name": "GRID Legends"
   },
   "1310510": {
     "config_count": 1,
@@ -11409,7 +11409,7 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -14587,20 +14587,6 @@
     ],
     "name": "Of Orcs And Men"
   },
-  "2171440": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Adreno__TM__840",
-        "m": "NX809J",
-        "s": "Adreno (TM) 840"
-      }
-    ],
-    "folders": [
-      "Fear___Hunger"
-    ],
-    "name": "Fear & Hunger 2: Termina"
-  },
   "2172910": {
     "config_count": 1,
     "devices": [
@@ -16366,7 +16352,7 @@
     "name": "Warhammer 40,000: Dawn of War IV"
   },
   "227300": {
-    "config_count": 350,
+    "config_count": 351,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -18500,7 +18486,7 @@
     "name": "Horizon Forbidden West\u2122 Complete Edition"
   },
   "242050": {
-    "config_count": 103,
+    "config_count": 104,
     "devices": [
       {
         "d": "MT6789",
@@ -19392,6 +19378,14 @@
     ],
     "name": "SpongeBob SquarePants: Titans of the Tide"
   },
+  "24810": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Command_and_Conquer_3_-_Kane_s_Wrath________________________"
+    ],
+    "name": "Command & Conquer\u2122 3: Kane\u2019s Wrath"
+  },
   "248140": {
     "config_count": 1,
     "devices": [],
@@ -19796,7 +19790,7 @@
     "name": "The Binding of Isaac: Rebirth"
   },
   "251150": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__829",
@@ -20508,6 +20502,14 @@
       "Promise_Mascot_Agency"
     ],
     "name": "Promise Mascot Agency"
+  },
+  "2590240": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "metro"
+    ],
+    "name": "METRO 2039"
   },
   "2592160": {
     "config_count": 8,
@@ -21517,14 +21519,6 @@
     ],
     "name": "Kindergarten 3"
   },
-  "2696230": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GBVSR"
-    ],
-    "name": "GBVSR - System Voice Set"
-  },
   "269650": {
     "config_count": 1,
     "devices": [],
@@ -22527,7 +22521,7 @@
     "name": "SimplePlanes 2"
   },
   "284160": {
-    "config_count": 36,
+    "config_count": 37,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -25590,13 +25584,13 @@
     ],
     "name": "Way of the Samurai 4"
   },
-  "3128480": {
+  "3128500": {
     "config_count": 1,
     "devices": [],
     "folders": [
       "WRC_2"
     ],
-    "name": "EA SPORTS\u2122 WRC 24 Season Expansion Bundle"
+    "name": "EA SPORTS\u2122 WRC 24 Le Maestros Content Pack"
   },
   "3130330": {
     "config_count": 1,
@@ -26276,7 +26270,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2506,
+    "config_count": 2507,
     "devices": [
       {
         "d": "G52_MC2",
@@ -28151,6 +28145,14 @@
       "Heretic___Hexen"
     ],
     "name": "Heretic + Hexen"
+  },
+  "3287490": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GBVSR"
+    ],
+    "name": "GBVSR - Deluxe Character Pass 2"
   },
   "3287520": {
     "config_count": 1,
@@ -30754,7 +30756,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 5,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -30775,6 +30777,11 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -33811,14 +33818,6 @@
     ],
     "name": "BioShock\u2122 2 Remastered"
   },
-  "40990": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Mafia"
-    ],
-    "name": "Mafia"
-  },
   "4100940": {
     "config_count": 9,
     "devices": [
@@ -33894,7 +33893,7 @@
     "name": "SENRAN KAGURA SHINOVI VERSUS"
   },
   "412020": {
-    "config_count": 6,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -33904,8 +33903,7 @@
     ],
     "folders": [
       "Metro_Exodus",
-      "MetroExodus",
-      "metro"
+      "MetroExodus"
     ],
     "name": "Metro Exodus"
   },
@@ -35674,7 +35672,7 @@
     "name": "Zenonia 1"
   },
   "454650": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "G57_MC2",
@@ -35698,7 +35696,8 @@
       }
     ],
     "folders": [
-      "DRAGON_BALL_XENOVERSE_2"
+      "DRAGON_BALL_XENOVERSE_2",
+      "DragonBall_XenoVerse"
     ],
     "name": "DRAGON BALL XENOVERSE 2"
   },
@@ -39127,14 +39126,6 @@
       "Counter_Strike_1_6__________________________________________"
     ],
     "name": "Fantasy Grounds - CS1 After Winter's Dark: Aihrde Setting (Castles & Crusades)"
-  },
-  "59191": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "DragonBall_XenoVerse"
-    ],
-    "name": "DRAGONBALL XENOVERSE Bundle Edition"
   },
   "593280": {
     "config_count": 1,
@@ -45640,8 +45631,14 @@
     "name": "Emuteck Edition"
   },
   "name:end-of-abyss": {
-    "config_count": 2,
-    "devices": [],
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "23113RKC6G",
+        "s": "Adreno (TM) 740"
+      }
+    ],
     "folders": [
       "End_of_Abyss"
     ],
@@ -50192,14 +50189,6 @@
       "StyxGame"
     ],
     "name": "Styxgame"
-  },
-  "name:swammy-gg": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Swammy_GG"
-    ],
-    "name": "Swammy Gg"
   },
   "name:t6mp-multiplayer-offline": {
     "config_count": 1,
