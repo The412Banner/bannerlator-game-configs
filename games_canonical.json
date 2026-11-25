@@ -26270,7 +26270,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2507,
+    "config_count": 2509,
     "devices": [
       {
         "d": "G52_MC2",
@@ -31146,19 +31146,19 @@
     "config_count": 5,
     "devices": [
       {
-        "d": "Adreno__TM__730",
-        "m": "X900",
-        "s": "Adreno (TM) 730"
-      },
-      {
         "d": "Adreno__TM__732",
         "m": "2410CRP4CG",
         "s": "Adreno (TM) 732"
+      },
+      {
+        "d": "Adreno__TM__730",
+        "m": "X900",
+        "s": "Adreno (TM) 730"
       }
     ],
     "folders": [
-      "Well_Dweller________________________________________________",
-      "Well_Dweller"
+      "Well_Dweller",
+      "Well_Dweller________________________________________________"
     ],
     "name": "Well Dweller"
   },
@@ -39494,7 +39494,7 @@
     "name": "Moonlighter"
   },
   "606280": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -39507,13 +39507,19 @@
         "s": "Adreno (TM) 825"
       },
       {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
+      },
+      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
       }
     ],
     "folders": [
-      "Darksiders_III"
+      "Darksiders_III",
+      "Darksiders"
     ],
     "name": "Darksiders III"
   },
@@ -40857,7 +40863,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__A32",
@@ -40870,11 +40876,6 @@
         "s": "Mali-G720 MC7"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
-      },
-      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
@@ -40882,7 +40883,6 @@
     ],
     "folders": [
       "Darksiders_Genesis",
-      "Darksiders",
       "DarksidersGenesis",
       "Darksiders_genesis"
     ],
