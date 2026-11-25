@@ -29652,7 +29652,7 @@
     "name": "Stellar Blade\u2122"
   },
   "349040": {
-    "config_count": 95,
+    "config_count": 96,
     "devices": [
       {
         "d": "G615_MC2",
@@ -29678,11 +29678,6 @@
         "d": "Adreno__TM__616",
         "m": "vivo_1918",
         "s": "Adreno (TM) 616"
-      },
-      {
-        "d": "G720_MC8",
-        "m": "Mali",
-        "s": "Mali-G720 MC8"
       },
       {
         "d": "Adreno__TM__710",
@@ -29783,6 +29778,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G720_MC8",
+        "m": "Mali",
+        "s": "Mali-G720 MC8"
       },
       {
         "d": "G77_MC9",
