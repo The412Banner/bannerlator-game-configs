@@ -17141,7 +17141,7 @@
     "name": "Sky: Children of the Light"
   },
   "232890": {
-    "config_count": 12,
+    "config_count": 13,
     "devices": [
       {
         "d": "PowerVR_Rogue_GE8320",
@@ -31143,12 +31143,17 @@
     "name": "Bioprototype"
   },
   "3699590": {
-    "config_count": 4,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__730",
         "m": "X900",
         "s": "Adreno (TM) 730"
+      },
+      {
+        "d": "Adreno__TM__732",
+        "m": "2410CRP4CG",
+        "s": "Adreno (TM) 732"
       }
     ],
     "folders": [
@@ -45071,6 +45076,14 @@
       "CoD2SP_s"
     ],
     "name": "Cod2Sp S"
+  },
+  "name:codmp": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "CoDMP"
+    ],
+    "name": "Codmp"
   },
   "name:codsp": {
     "config_count": 1,
