@@ -4119,6 +4119,20 @@
     ],
     "name": "Beach Buggy Racing 2 - Island Adventure"
   },
+  "12320": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred Gold"
+  },
   "1232460": {
     "config_count": 1,
     "devices": [
@@ -5292,7 +5306,7 @@
     "name": "Mortal Kombat XL"
   },
   "1284190": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "G57",
@@ -5301,7 +5315,8 @@
       }
     ],
     "folders": [
-      "The_Planet_Crafter__________________________________________"
+      "The_Planet_Crafter__________________________________________",
+      "The_Planet_Crafter"
     ],
     "name": "The Planet Crafter"
   },
@@ -18745,7 +18760,7 @@
     "name": "Cyber Manhunt 2: New World - The Hacking Simulator"
   },
   "2424420": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -18778,6 +18793,7 @@
       "Avatar_Legends__The_Fighting_Game",
       "Avatar_Legends___The_Fighting_Game",
       "Avatar_legends",
+      "Avatar_Legends_The_Fighting",
       "Avatar_Legends__The_Fighting"
     ],
     "name": "Avatar Legends: The Fighting Game"
@@ -25917,25 +25933,6 @@
     ],
     "name": "Destiny 2: The Edge of Fate"
   },
-  "3188660": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "256",
-        "m": "8",
-        "s": "PowerVR B-Series BXM-8-256"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      }
-    ],
-    "folders": [
-      "Game"
-    ],
-    "name": "Motocross The Game"
-  },
   "3194360": {
     "config_count": 1,
     "devices": [
@@ -26096,7 +26093,7 @@
     "name": "Cursemark"
   },
   "3219630": {
-    "config_count": 12,
+    "config_count": 16,
     "devices": [
       {
         "d": "256",
@@ -32504,20 +32501,6 @@
     ],
     "name": "TEKKEN 7"
   },
-  "3906660": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred 2 Remaster"
-  },
   "3907880": {
     "config_count": 1,
     "devices": [],
@@ -35677,7 +35660,7 @@
     "name": "Zenonia 1"
   },
   "454650": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "G57_MC2",
@@ -35701,8 +35684,7 @@
       }
     ],
     "folders": [
-      "DRAGON_BALL_XENOVERSE_2",
-      "DragonBall_XenoVerse"
+      "DRAGON_BALL_XENOVERSE_2"
     ],
     "name": "DRAGON BALL XENOVERSE 2"
   },
@@ -39131,6 +39113,14 @@
       "Counter_Strike_1_6__________________________________________"
     ],
     "name": "Fantasy Grounds - CS1 After Winter's Dark: Aihrde Setting (Castles & Crusades)"
+  },
+  "59191": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "DragonBall_XenoVerse"
+    ],
+    "name": "DRAGONBALL XENOVERSE Bundle Edition"
   },
   "593280": {
     "config_count": 1,
