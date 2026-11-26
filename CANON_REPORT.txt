@@ -1,10 +1,10 @@
-raw folders: 3047   total configs: 18133
+raw folders: 3048   total configs: 18136
 non-game (filtered out): 170
-MERGED canonical games (have appid): 2491
+MERGED canonical games (have appid): 2492
   folders collapsed by merge: 859
 still-unresolved real games (no appid): 744
-GAME-COUNT RATE: 2491/3235 = 77%  (vs 67% raw baseline)
-CONFIG-COVERAGE (matters for matching): 18938/20297 = 93%
+GAME-COUNT RATE: 2492/3236 = 77%  (vs 67% raw baseline)
+CONFIG-COVERAGE (matters for matching): 18941/20300 = 93%
 top-merged examples:
   appid 1665460: 24 folders, 116 configs, 27 devices  ['PES', 'PES_13', 'PES_2013']
   appid 1506830: 18 folders, 125 configs, 42 devices  ['FIFA_06_____________________________________________________', 'FIFA_13', 'FIFA_13_____________________________________________________']
@@ -13,4 +13,4 @@ top-merged examples:
   appid name:pes-2013: 16 folders, 3388 configs, 211 devices  ['PES2013', 'PES_2013_Fix', 'PES_2013_LEND_RIO_']
   appid 311210: 10 folders, 63 configs, 25 devices  ['BlackOps', 'Call_of_Duty_', 'Call_of_Duty_3______________________________________________']
   appid 292030: 10 folders, 21 configs, 11 devices  ['The_Witcher_3__Wild_Hunt_-_Complete_Edition', 'The_Witcher_3__Wild_Hunt___Remastered', 'The_Witcher_3']
-  appid 2050650: 9 folders, 90 configs, 22 devices  ['RE4', 'RE_4', 'Re4']
+  appid 2050650: 9 folders, 91 configs, 23 devices  ['RE4', 'RE_4', 'Re4']

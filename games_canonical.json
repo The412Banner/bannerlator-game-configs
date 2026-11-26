@@ -12861,7 +12861,7 @@
     "name": "Call of Juarez: Gunslinger"
   },
   "2050650": {
-    "config_count": 90,
+    "config_count": 91,
     "devices": [
       {
         "d": "G57_MC2",
@@ -12952,6 +12952,11 @@
         "d": "Adreno__TM__840",
         "m": "25102PCBEG",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       },
       {
         "d": "Adreno__TM__740",
@@ -15751,7 +15756,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -15791,7 +15796,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev"
+      "rerev",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -23175,7 +23181,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 31,
     "devices": [
       {
         "d": "G615_MC2",
@@ -23215,8 +23221,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2",
-      "resident_revelations"
+      "rerev2"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -24907,20 +24912,20 @@
     "config_count": 7,
     "devices": [
       {
-        "d": "Adreno__TM__619",
-        "m": "moto_g45_5G",
-        "s": "Adreno (TM) 619"
-      },
-      {
         "d": "G610_MC2",
         "m": "Mali",
         "s": "Mali-G610 MC2"
+      },
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g45_5G",
+        "s": "Adreno (TM) 619"
       }
     ],
     "folders": [
+      "MotoGP_08",
       "MotoGP_25",
-      "Motogp25",
-      "MotoGP_08"
+      "Motogp25"
     ],
     "name": "MotoGP\u212225"
   },
@@ -28194,14 +28199,6 @@
     ],
     "name": "Heretic + Hexen"
   },
-  "3287490": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GBVSR"
-    ],
-    "name": "GBVSR - Deluxe Character Pass 2"
-  },
   "3287520": {
     "config_count": 1,
     "devices": [],
@@ -30634,6 +30631,14 @@
       "Mafia_III__Definitive_Edition"
     ],
     "name": "Mafia III: Definitive Edition"
+  },
+  "3604390": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GBVSR"
+    ],
+    "name": "GBVSR - Additional Character Set (Galleon)"
   },
   "361420": {
     "config_count": 2,
@@ -37295,7 +37300,7 @@
     "name": "Trails in the Sky 2nd Chapter Demo"
   },
   "50130": {
-    "config_count": 60,
+    "config_count": 61,
     "devices": [
       {
         "d": "MT6781",
@@ -37421,12 +37426,25 @@
         "d": "G68",
         "m": "Mali",
         "s": "Mali-G68"
+      },
+      {
+        "d": "Adreno__TM__512",
+        "m": "V2408A",
+        "s": "Adreno (TM) 512"
       }
     ],
     "folders": [
       "Mafia_II__Classic_"
     ],
     "name": "Mafia II (Classic)"
+  },
+  "501300": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "What_Remains_of_Edith_Finch"
+    ],
+    "name": "What Remains of Edith Finch"
   },
   "501590": {
     "config_count": 5,
@@ -39587,7 +39605,7 @@
     "name": "Moonlighter"
   },
   "606280": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -39600,13 +39618,19 @@
         "s": "Adreno (TM) 825"
       },
       {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
+      },
+      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
       }
     ],
     "folders": [
-      "Darksiders_III"
+      "Darksiders_III",
+      "Darksiders"
     ],
     "name": "Darksiders III"
   },
@@ -40956,7 +40980,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__A32",
@@ -40969,11 +40993,6 @@
         "s": "Mali-G720 MC7"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
-      },
-      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
@@ -40981,7 +41000,6 @@
     ],
     "folders": [
       "Darksiders_Genesis",
-      "Darksiders",
       "DarksidersGenesis",
       "Darksiders_genesis"
     ],

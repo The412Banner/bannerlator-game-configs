@@ -3040,7 +3040,6 @@
   },
   "EA_SPORTS_FC_27": {
     "appid": 4080220,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/4080220/header.jpg",
     "method": "naive",
     "steam_name": "EA SPORTS FC\u2122 27"
   },
@@ -7298,7 +7297,6 @@
   },
   "MotoGP_08": {
     "appid": 3077390,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3077390/header.jpg",
     "method": "fuzzy",
     "steam_name": "MotoGP\u212225"
   },
@@ -12425,6 +12423,12 @@
     "appid": 3699590,
     "method": "naive",
     "steam_name": "Well Dweller"
+  },
+  "What_Remains_of_Edith_Finch": {
+    "appid": 501300,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/501300/header.jpg",
+    "method": "naive",
+    "steam_name": "What Remains of Edith Finch"
   },
   "Where_Winds_Meet": {
     "appid": 3564740,
