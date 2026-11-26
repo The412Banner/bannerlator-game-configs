@@ -3241,7 +3241,7 @@
     "name": "Bully: Scholarship Edition"
   },
   "12210": {
-    "config_count": 508,
+    "config_count": 509,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -3417,11 +3417,6 @@
         "d": "Adreno__TM__750",
         "m": "V2425A",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__710",
-        "m": "23122PCD1G",
-        "s": "Adreno (TM) 710"
       },
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -3702,6 +3697,11 @@
         "d": "G610_MC6",
         "m": "Mali",
         "s": "Mali-G610 MC6"
+      },
+      {
+        "d": "Adreno__TM__710",
+        "m": "23122PCD1G",
+        "s": "Adreno (TM) 710"
       },
       {
         "d": "Adreno__TM__735",
@@ -5517,6 +5517,20 @@
       "Lost_Ruins"
     ],
     "name": "Lost Ruins"
+  },
+  "1307710": {
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "GRID"
+    ],
+    "name": "GRID Legends"
   },
   "1310510": {
     "config_count": 1,
@@ -9745,7 +9759,7 @@
     "name": "The Elder Scrolls V: Skyrim Anniversary Upgrade"
   },
   "17470": {
-    "config_count": 23,
+    "config_count": 24,
     "devices": [
       {
         "d": "Odin2",
@@ -9806,6 +9820,11 @@
         "d": "Adreno__TM__840",
         "m": "25102PCBEG",
         "s": "Adreno (TM) 840"
+      },
+      {
+        "d": "G610_MC6",
+        "m": "Mali",
+        "s": "Mali-G610 MC6"
       }
     ],
     "folders": [
@@ -14479,7 +14498,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 141,
+    "config_count": 142,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -28227,6 +28246,14 @@
     ],
     "name": "Heretic + Hexen"
   },
+  "3287490": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GBVSR"
+    ],
+    "name": "GBVSR - Deluxe Character Pass 2"
+  },
   "3287520": {
     "config_count": 1,
     "devices": [],
@@ -30660,14 +30687,6 @@
     ],
     "name": "Mafia III: Definitive Edition"
   },
-  "3604390": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GBVSR"
-    ],
-    "name": "GBVSR - Additional Character Set (Galleon)"
-  },
   "361420": {
     "config_count": 2,
     "devices": [
@@ -30837,7 +30856,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 8,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -30858,11 +30877,6 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -35784,7 +35798,7 @@
     "name": "Zenonia 1"
   },
   "454650": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "G57_MC2",
@@ -35808,8 +35822,7 @@
       }
     ],
     "folders": [
-      "DRAGON_BALL_XENOVERSE_2",
-      "DragonBall_XenoVerse"
+      "DRAGON_BALL_XENOVERSE_2"
     ],
     "name": "DRAGON BALL XENOVERSE 2"
   },
@@ -37210,7 +37223,7 @@
     "name": "FSX Steam Edition: Cessna C172N Skyhawk II Add-On"
   },
   "5006530": {
-    "config_count": 38,
+    "config_count": 39,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -38245,7 +38258,7 @@
     "name": "RAGE 2"
   },
   "550": {
-    "config_count": 91,
+    "config_count": 93,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -39270,6 +39283,14 @@
       "Counter_Strike_1_6__________________________________________"
     ],
     "name": "Fantasy Grounds - CS1 After Winter's Dark: Aihrde Setting (Castles & Crusades)"
+  },
+  "59191": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "DragonBall_XenoVerse"
+    ],
+    "name": "DRAGONBALL XENOVERSE Bundle Edition"
   },
   "593280": {
     "config_count": 1,
