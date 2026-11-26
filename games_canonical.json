@@ -4141,6 +4141,20 @@
     ],
     "name": "Beach Buggy Racing 2 - Island Adventure"
   },
+  "12320": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred Gold"
+  },
   "1232460": {
     "config_count": 1,
     "devices": [
@@ -5518,6 +5532,20 @@
     ],
     "name": "Lost Ruins"
   },
+  "1307710": {
+    "config_count": 3,
+    "devices": [
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
+      }
+    ],
+    "folders": [
+      "GRID"
+    ],
+    "name": "GRID Legends"
+  },
   "1310510": {
     "config_count": 1,
     "devices": [],
@@ -6731,6 +6759,14 @@
       "NEEDY_GIRL_OVERDOSE"
     ],
     "name": "Needy Girl Overdose"
+  },
+  "1455630": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "THEg"
+    ],
+    "name": "THE GAME OF LIFE 2"
   },
   "1460490": {
     "config_count": 1,
@@ -12525,6 +12561,14 @@
       "GoreBox"
     ],
     "name": "GoreBox"
+  },
+  "2027400": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "__project_name_"
+    ],
+    "name": "Project: Name"
   },
   "202750": {
     "config_count": 2,
@@ -23980,14 +24024,6 @@
     ],
     "name": "WarOfGods 2"
   },
-  "2977260": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "THEg"
-    ],
-    "name": "The Guild 1 Remake: Europa 1410"
-  },
   "297860": {
     "config_count": 1,
     "devices": [
@@ -26307,7 +26343,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2512,
+    "config_count": 2513,
     "devices": [
       {
         "d": "G52_MC2",
@@ -30798,7 +30834,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 8,
+    "config_count": 5,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -30819,11 +30855,6 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
-      },
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -32561,20 +32592,6 @@
       "Tekken_7"
     ],
     "name": "TEKKEN 7"
-  },
-  "3906660": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred 2 Remaster"
   },
   "3907880": {
     "config_count": 1,
@@ -50039,6 +50056,14 @@
       "Simpsons_Hit___Run"
     ],
     "name": "Simpsons Hit Run"
+  },
+  "name:sims-3-starter": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Sims_3_Starter"
+    ],
+    "name": "Sims 3 Starter"
   },
   "name:skyrimlauncher": {
     "config_count": 1,
