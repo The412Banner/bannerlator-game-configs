@@ -4310,6 +4310,12 @@
     "method": "naive",
     "steam_name": "GRIME II"
   },
+  "GSE": {
+    "appid": 377670,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/377670/header.jpg",
+    "method": "naive",
+    "steam_name": "G-senjou no Maou - The Devil on G-String"
+  },
   "GSE__": {
     "appid": 377670,
     "method": "naive",
@@ -4746,6 +4752,10 @@
     "appid": 12210,
     "method": "naive",
     "steam_name": "Grand Theft Auto IV: The Complete Edition"
+  },
+  "Grand_Theft_Auto_IV_Browser": {
+    "appid": null,
+    "method": "unresolved"
   },
   "Grand_Theft_Auto_IV_EFLC": {
     "appid": null,
@@ -11861,6 +11871,12 @@
     "method": "naive",
     "steam_name": "Tropico Reloaded"
   },
+  "TruckDriver": {
+    "appid": 768180,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/768180/header.jpg",
+    "method": "naive",
+    "steam_name": "Truck Driver"
+  },
   "Truckful": {
     "appid": 3090810,
     "method": "naive",
@@ -12902,6 +12918,12 @@
     "appid": null,
     "method": "non-game"
   },
+  "___________________________Windows": {
+    "appid": 637650,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/637650/header.jpg",
+    "method": "naive",
+    "steam_name": "FINAL FANTASY XV WINDOWS EDITION"
+  },
   "____________________________": {
     "appid": null,
     "method": "non-game"
@@ -12938,7 +12960,6 @@
   },
   "__project_name_": {
     "appid": 2027400,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2027400/header.jpg",
     "method": "naive",
     "steam_name": "Project: Name"
   },
