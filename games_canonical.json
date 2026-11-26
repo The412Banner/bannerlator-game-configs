@@ -14281,6 +14281,20 @@
     ],
     "name": "Space Rangers HD: A War Apart"
   },
+  "2149010": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__750",
+        "m": "OPD2403",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Little_Nightmares_Enhanced_Edition"
+    ],
+    "name": "Little Nightmares Enhanced Edition"
+  },
   "215259": {
     "config_count": 1,
     "devices": [
@@ -15756,7 +15770,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 22,
+    "config_count": 21,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -15796,8 +15810,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -23181,7 +23194,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -23221,7 +23234,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
