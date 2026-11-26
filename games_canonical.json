@@ -5518,20 +5518,6 @@
     ],
     "name": "Lost Ruins"
   },
-  "1307710": {
-    "config_count": 3,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "GRID"
-    ],
-    "name": "GRID Legends"
-  },
   "1310510": {
     "config_count": 1,
     "devices": [],
@@ -6123,22 +6109,16 @@
     "name": "Marshmallow All The Way Home"
   },
   "1371980": {
-    "config_count": 8,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__750",
         "m": "TB321FU",
         "s": "Adreno (TM) 750"
-      },
-      {
-        "d": "Adreno__TM__740",
-        "m": "CPH2447",
-        "s": "Adreno (TM) 740"
       }
     ],
     "folders": [
-      "No_Rest_for_the_Wicked",
-      "re4"
+      "No_Rest_for_the_Wicked"
     ],
     "name": "No Rest for the Wicked"
   },
@@ -10047,7 +10027,7 @@
     "name": "Crab Game"
   },
   "1790600": {
-    "config_count": 186,
+    "config_count": 187,
     "devices": [
       {
         "d": "Adreno__TM__750",
@@ -11473,7 +11453,7 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -12881,7 +12861,7 @@
     "name": "Call of Juarez: Gunslinger"
   },
   "2050650": {
-    "config_count": 84,
+    "config_count": 90,
     "devices": [
       {
         "d": "G57_MC2",
@@ -12984,6 +12964,11 @@
         "s": "Adreno (TM) 840"
       },
       {
+        "d": "Adreno__TM__740",
+        "m": "CPH2447",
+        "s": "Adreno (TM) 740"
+      },
+      {
         "d": "Adreno__TM__660",
         "m": "S928B",
         "s": "Adreno (TM) 660"
@@ -12997,6 +12982,7 @@
       "Resident_Evil_4_",
       "Resident_Evil_4___Biohazard_4",
       "Resident_Evil_4_____________________________________________",
+      "re4",
       "resident_evil_4"
     ],
     "name": "Resident Evil 4"
@@ -14460,7 +14446,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 139,
+    "config_count": 141,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -18543,7 +18529,7 @@
     "name": "Horizon Forbidden West\u2122 Complete Edition"
   },
   "242050": {
-    "config_count": 104,
+    "config_count": 105,
     "devices": [
       {
         "d": "MT6789",
@@ -19009,7 +18995,7 @@
     "name": "The Legend of Heroes: Trails into Reverie - SSS Summer Splash Set"
   },
   "243470": {
-    "config_count": 42,
+    "config_count": 44,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -20996,7 +20982,7 @@
     "name": "Onimusha: Way of the Sword"
   },
   "264710": {
-    "config_count": 7,
+    "config_count": 9,
     "devices": [
       {
         "d": "Adreno__TM__722",
@@ -23253,7 +23239,7 @@
     "name": "Exospace"
   },
   "287700": {
-    "config_count": 19,
+    "config_count": 21,
     "devices": [
       {
         "d": "MT6789",
@@ -24918,17 +24904,23 @@
     "name": "Sleeping Dogs: Definitive Edition"
   },
   "3077390": {
-    "config_count": 5,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G610_MC2",
+        "m": "Mali",
+        "s": "Mali-G610 MC2"
       }
     ],
     "folders": [
       "MotoGP_25",
-      "Motogp25"
+      "Motogp25",
+      "MotoGP_08"
     ],
     "name": "MotoGP\u212225"
   },
@@ -25635,13 +25627,13 @@
     ],
     "name": "Way of the Samurai 4"
   },
-  "3128500": {
+  "3128480": {
     "config_count": 1,
     "devices": [],
     "folders": [
       "WRC_2"
     ],
-    "name": "EA SPORTS\u2122 WRC 24 Le Maestros Content Pack"
+    "name": "EA SPORTS\u2122 WRC 24 Season Expansion Bundle"
   },
   "3130330": {
     "config_count": 1,
@@ -28695,7 +28687,7 @@
     "name": "Coloring Game 5.4"
   },
   "3357650": {
-    "config_count": 19,
+    "config_count": 20,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -29855,7 +29847,7 @@
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
   },
   "3493540": {
-    "config_count": 1,
+    "config_count": 2,
     "devices": [
       {
         "d": "G57_MC2",
@@ -30812,7 +30804,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 5,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -30833,6 +30825,11 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -31771,9 +31768,9 @@
       }
     ],
     "folders": [
+      "GSE",
       "GSE__",
-      "GSE____________________",
-      "GSE"
+      "GSE____________________"
     ],
     "name": "G-senjou no Maou - The Devil on G-String"
   },
@@ -32609,7 +32606,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 238,
+    "config_count": 239,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -33763,7 +33760,7 @@
     "name": "Mousetrap: Theft & Bondage"
   },
   "4080220": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -33772,6 +33769,7 @@
       }
     ],
     "folders": [
+      "EA_SPORTS_FC_27",
       "EA",
       "EA_SPORTS_FC__27",
       "EA_Sports_FC_27"
@@ -33890,6 +33888,14 @@
       "BioShock_2_Remastered"
     ],
     "name": "BioShock\u2122 2 Remastered"
+  },
+  "40990": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Mafia"
+    ],
+    "name": "Mafia"
   },
   "4100940": {
     "config_count": 9,
@@ -34226,7 +34232,7 @@
     ],
     "name": "My Winter Car"
   },
-  "4165890": {
+  "4165910": {
     "config_count": 5,
     "devices": [
       {
@@ -34238,7 +34244,7 @@
     "folders": [
       "Steam"
     ],
-    "name": "Steam Frame"
+    "name": "Steam Machine"
   },
   "418030": {
     "config_count": 1,
@@ -37790,14 +37796,6 @@
     ],
     "name": "Da Capo"
   },
-  "5201760": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "tra"
-    ],
-    "name": "ARC Raiders - Frozen Trail Collector Set"
-  },
   "5206250": {
     "config_count": 1,
     "devices": [],
@@ -38201,7 +38199,7 @@
     "name": "RAGE 2"
   },
   "550": {
-    "config_count": 90,
+    "config_count": 91,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -42964,7 +42962,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 152,
+    "config_count": 154,
     "devices": [
       {
         "d": "s5e8855",
@@ -47616,7 +47614,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3386,
+    "config_count": 3388,
     "devices": [
       {
         "d": "G52_MC2",

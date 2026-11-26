@@ -3038,6 +3038,12 @@
     "appid": null,
     "method": "non-game"
   },
+  "EA_SPORTS_FC_27": {
+    "appid": 4080220,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/4080220/header.jpg",
+    "method": "naive",
+    "steam_name": "EA SPORTS FC\u2122 27"
+  },
   "EA_SPORTS_FC__25": {
     "appid": 2669320,
     "method": "naive",
@@ -4312,7 +4318,6 @@
   },
   "GSE": {
     "appid": 377670,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/377670/header.jpg",
     "method": "naive",
     "steam_name": "G-senjou no Maou - The Devil on G-String"
   },
@@ -6105,6 +6110,10 @@
     "appid": null,
     "method": "non-game"
   },
+  "Launcher_Sword_and_Fairy_7": {
+    "appid": null,
+    "method": "non-game"
+  },
   "Laundry_Store_Simulator": {
     "appid": 3150440,
     "method": "naive",
@@ -7287,6 +7296,12 @@
     "method": "naive",
     "steam_name": "MotoGP\u212217"
   },
+  "MotoGP_08": {
+    "appid": 3077390,
+    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3077390/header.jpg",
+    "method": "fuzzy",
+    "steam_name": "MotoGP\u212225"
+  },
   "MotoGP_08_MOD_2026": {
     "appid": null,
     "method": "unresolved"
@@ -7413,6 +7428,10 @@
     "appid": 349040,
     "method": "norm",
     "steam_name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
+  },
+  "NARUTO_SHIPPUDEN__UlTIMATE_NINJA_STORM_EVOLUTION_": {
+    "appid": null,
+    "method": "unresolved"
   },
   "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2": {
     "appid": 543870,
@@ -9592,6 +9611,10 @@
     "method": "unresolved"
   },
   "Rocket_League": {
+    "appid": null,
+    "method": "unresolved"
+  },
+  "Rocket_League_": {
     "appid": null,
     "method": "unresolved"
   },
@@ -11873,7 +11896,6 @@
   },
   "TruckDriver": {
     "appid": 768180,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/768180/header.jpg",
     "method": "naive",
     "steam_name": "Truck Driver"
   },
@@ -12920,7 +12942,6 @@
   },
   "___________________________Windows": {
     "appid": 637650,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/637650/header.jpg",
     "method": "naive",
     "steam_name": "FINAL FANTASY XV WINDOWS EDITION"
   },
