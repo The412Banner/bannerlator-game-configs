@@ -1106,6 +1106,14 @@
     ],
     "name": "Electrician Simulator"
   },
+  "1080920": {
+    "config_count": 2,
+    "devices": [],
+    "folders": [
+      "GRID_2"
+    ],
+    "name": "Defense Grid 2 - Aftermath"
+  },
   "108600": {
     "config_count": 4,
     "devices": [],
@@ -4140,20 +4148,6 @@
       "Beach_Buggy_Racing_2_-_Island_Adventure"
     ],
     "name": "Beach Buggy Racing 2 - Island Adventure"
-  },
-  "12320": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred Gold"
   },
   "1232460": {
     "config_count": 1,
@@ -14511,7 +14505,7 @@
     "name": "Bionic Commando: Rearmed"
   },
   "21690": {
-    "config_count": 143,
+    "config_count": 144,
     "devices": [
       {
         "d": "Adreno__TM__642L",
@@ -15733,7 +15727,7 @@
     "name": "Five Nights at Freddy's: Secret of the Mimic"
   },
   "221540": {
-    "config_count": 6,
+    "config_count": 4,
     "devices": [
       {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -18594,7 +18588,7 @@
     "name": "Horizon Forbidden West\u2122 Complete Edition"
   },
   "242050": {
-    "config_count": 105,
+    "config_count": 106,
     "devices": [
       {
         "d": "MT6789",
@@ -19060,7 +19054,7 @@
     "name": "The Legend of Heroes: Trails into Reverie - SSS Summer Splash Set"
   },
   "243470": {
-    "config_count": 44,
+    "config_count": 45,
     "devices": [
       {
         "d": "Adreno__TM__619",
@@ -21047,7 +21041,7 @@
     "name": "Onimusha: Way of the Sword"
   },
   "264710": {
-    "config_count": 9,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__722",
@@ -21627,14 +21621,6 @@
       "Kindergarten3"
     ],
     "name": "Kindergarten 3"
-  },
-  "2696230": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GBVSR"
-    ],
-    "name": "GBVSR - System Voice Set"
   },
   "269650": {
     "config_count": 1,
@@ -23312,7 +23298,7 @@
     "name": "Exospace"
   },
   "287700": {
-    "config_count": 21,
+    "config_count": 22,
     "devices": [
       {
         "d": "MT6789",
@@ -28267,6 +28253,14 @@
     ],
     "name": "Heretic + Hexen"
   },
+  "3287490": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GBVSR"
+    ],
+    "name": "GBVSR - Deluxe Character Pass 2"
+  },
   "3287520": {
     "config_count": 1,
     "devices": [],
@@ -32629,6 +32623,20 @@
     ],
     "name": "TEKKEN 7"
   },
+  "3906660": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred 2 Remaster"
+  },
   "3907880": {
     "config_count": 1,
     "devices": [],
@@ -32652,7 +32660,7 @@
     "name": "Dementium: The Ward"
   },
   "391220": {
-    "config_count": 239,
+    "config_count": 241,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -38258,7 +38266,7 @@
     "name": "RAGE 2"
   },
   "550": {
-    "config_count": 93,
+    "config_count": 94,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -39646,7 +39654,7 @@
     "name": "Moonlighter"
   },
   "606280": {
-    "config_count": 11,
+    "config_count": 10,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -39659,19 +39667,13 @@
         "s": "Adreno (TM) 825"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
-      },
-      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
       }
     ],
     "folders": [
-      "Darksiders_III",
-      "Darksiders"
+      "Darksiders_III"
     ],
     "name": "Darksiders III"
   },
@@ -41021,7 +41023,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 6,
+    "config_count": 7,
     "devices": [
       {
         "d": "Adreno__TM__A32",
@@ -41034,6 +41036,11 @@
         "s": "Mali-G720 MC7"
       },
       {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
+      },
+      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
@@ -41041,6 +41048,7 @@
     ],
     "folders": [
       "Darksiders_Genesis",
+      "Darksiders",
       "DarksidersGenesis",
       "Darksiders_genesis"
     ],
@@ -43021,7 +43029,7 @@
     "name": "Viviette"
   },
   "883710": {
-    "config_count": 154,
+    "config_count": 155,
     "devices": [
       {
         "d": "s5e8855",
@@ -46389,7 +46397,7 @@
     "name": "Gta5 Optijuegos"
   },
   "name:gtaiv": {
-    "config_count": 13,
+    "config_count": 14,
     "devices": [
       {
         "d": "Adreno__TM__610",
@@ -47673,7 +47681,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3388,
+    "config_count": 3389,
     "devices": [
       {
         "d": "G52_MC2",
