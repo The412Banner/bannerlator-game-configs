@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "app_source": "bannerlator",
+    "device": "vivo I2221",
+    "soc": "Adreno (TM) 735",
+    "bh_version": "3.2.2",
+    "uploader": {
+      "name": "Pisynus"
+    },
+    "upload_token": "70bbbfd2d2a899b1",
+    "settings_count": 11,
+    "components_count": 4
+  },
+  "settings": {
+    "pc_ls_DXVK": "{\"name\":\"2.4.1-3137660\"}",
+    "pc_ls_VK3k": "{\"name\":\"3.0.1-0\"}",
+    "pc_ls_GPU_DRIVER_": "{\"name\":\"Mesa Turnip v27.0.0-20261119-r4\"}",
+    "pc_set_constant_95": "{\"name\":\"FEX-2611+95-Nightly-63b8e0b76-PPA-unix-0\"}",
+    "pc_ls_CONTAINER_LIST": "{\"name\":\"Proton-11.0-14-arm64ec-18\"}",
+    "pc_ls_GRAPHICS_WRAPPER": "wrapper-original",
+    "pc_ls_AUDIO_DRIVER": "1",
+    "pc_ls_update_enable_xinput": true,
+    "pc_ls_environment_variable": "WINE_FAST_YIELD=1 MESA_SHADER_CACHE_MAX_SIZE=4096MB DXVK_DISABLE_TIMELINE_SEMAPHORES=1 DXVK_ASYNC=1 DXVK_GPLASYNCCACHE=1 FEX_DISKCACHE=1 DXVK_STATE_CACHE=1 FEX_HOSTFEATURES=enablelrcpc2,enableafp,disablesve FEX_AOTIR_GENERATE=1 WINEDEBUG=-all DXVK_LOG_LEVEL=none DXVK_NUM_COMPILER_THREADS=4 MESA_NO_ERROR=0 FEX_SMCCACHE=1 FEX_ABILOCALFLAGS=1 BANNER_AUDIO_ALSA_PRESET=stable BANNER_AUDIO_ALSA_PERF=0 BANNER_AUDIO_ALSA_ADAPTIVE=1 BANNER_AUDIO_ALSA_LAT=144 BANNER_AUDIO_PULSE_PRESET=auto BANNER_AUDIO_PULSE_PERF=1 BANNER_AUDIO_PULSE_ADAPTIVE=1 BANNER_AUDIO_PULSE_LAT=100",
+    "pc_ls_boot_option": "-dx11 -nolog -nosplash -nohmd",
+    "bl_ext": {
+      "dxwrapper": "vegas+vkd3d",
+      "screenSize": "1066x480",
+      "renderer": "vulkan",
+      "sfCompatMode": "1",
+      "fullscreenMode": "0",
+      "frameGenEngine": "bionic",
+      "native": "false",
+      "swapRB": "false",
+      "presentMode": "mailbox",
+      "fpsLimiterEnabled": "0",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "reshadeMode": "solo",
+      "reshadeEffect": "None",
+      "emulator": "fexcore",
+      "box64Version": "0.3.7",
+      "box64Preset": "CUSTOM-1",
+      "fexcorePreset": "CUSTOM-1",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "startupSelection": "2",
+      "inputType": "4",
+      "exclusiveXInput": "1",
+      "simTouchScreen": "0",
+      "numControllers": "1",
+      "controlsProfile": "9",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,builtinDecoder=0,softwareDecoding=0",
+      "lc_all": "ru_RU.UTF-8",
+      "autoCloseOnExit": "1",
+      "syncMode": "esync",
+      "fastOpenGL": "1",
+      "glFpsHud": "0",
+      "glVsyncOff": "0",
+      "fpsCounterConfig": "hudStyle=gamenative,hudEnabled=0,hudSize=pill,hudLocked=0,showVram=1,showLow001=1,fpsDecimal=0,showPerCore=1,showSwap=1,showNet=1,showResolution=1,showProton=1,showWrapper=1,showDxVer=1,showSession=1,hudMode=horizontal,showFPS=0,showFPSGraph=0,showCPUUsage=1,showCPULoad=1,showGPULoad=1,showRAM=0,showPower=0,showTemp=0,showBatteryTemp=0,showEngine=0,showRenderer=0,showGpuModel=0,hudDualBattery=0,showGpuTemp=0,showBattery=0,showRuntime=0,showClock=0,showCPUGraph=0,showGPUGraph=0,tempUnit=c,tempBands=1,tempAuto=1,tempRedCpu=90,tempRedGpu=90,tempRedBat=48,hudSkin=classic,hudColor=vivid,hudOutline=40,hudOutlineAccent=1,hudScale=70,hudOpacity=69,hudTransparency=0",
+      "gyroEnabled": "0",
+      "gyroTarget": "0",
+      "gyroActivator": "0",
+      "gyroActivationMode": "0",
+      "gyroMode": "0",
+      "gyroSensitivity": "2.0",
+      "gyroInvertX": "0",
+      "gyroInvertY": "0",
+      "maxGameRefreshRate": "0",
+      "unlockGameRefreshRate": "0",
+      "frameGenModel": "3",
+      "vibrationMode": "1",
+      "vibrationIntensity": "100",
+      "scalingMode": "4",
+      "forceSsbs": "1",
+      "syncCpuTopology": "1",
+      "sleep0ThrottleSkip": "dx7,dx8,dx9,dx10,dx11,gl,vk",
+      "bannerinXInput": "1",
+      "bannerinXInputSwitching": "1",
+      "dxwrapperConfig": "version=2.4.1-3137660,framerate=120,async=0,asyncCache=0,vkd3dVersion=3.0.1-0,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,anisotropy=0,lodBias=0,d7vkVersion=Bundled (default),dxvkConfigFile=\/storage\/emulated\/0\/Download\/22\/-оптимизация всего\/оптимизация игр (файлы и т.п.)\/dxvk.conf"
+    }
+  },
+  "components": [
+    {
+      "name": "2.4.1-3137660",
+      "type": "DXVK"
+    },
+    {
+      "name": "3.0.1-0",
+      "type": "VKD3D"
+    },
+    {
+      "name": "Mesa Turnip v27.0.0-20261119-r4",
+      "type": "GPU"
+    },
+    {
+      "name": "FEX-2611+95-Nightly-63b8e0b76-PPA-unix-0",
+      "type": "FEXCore"
+    }
+  ]
+}
