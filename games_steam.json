@@ -2036,7 +2036,6 @@
   },
   "Crysis__3": {
     "appid": 2096610,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2096610/header.jpg",
     "method": "naive",
     "steam_name": "Crysis 3 Remastered"
   },
@@ -9059,7 +9058,6 @@
   },
   "Python": {
     "appid": 1882420,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1882420/header.jpg",
     "method": "naive",
     "steam_name": "Learn Programming: Python - Remake"
   },
@@ -12464,6 +12462,10 @@
     "steam_name": "White Knuckle"
   },
   "Will_Rock_REVOLUTION": {
+    "appid": null,
+    "method": "unresolved"
+  },
+  "Windows_2020_exe________________________________________________": {
     "appid": null,
     "method": "unresolved"
   },
