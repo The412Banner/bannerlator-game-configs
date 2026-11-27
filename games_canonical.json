@@ -1106,6 +1106,20 @@
     ],
     "name": "Electrician Simulator"
   },
+  "1080110": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__740",
+        "m": "Odin2",
+        "s": "Adreno (TM) 740"
+      }
+    ],
+    "folders": [
+      "F1_2020"
+    ],
+    "name": "F1 2020"
+  },
   "108600": {
     "config_count": 4,
     "devices": [],
@@ -2564,7 +2578,7 @@
     "name": "FINAL FANTASY"
   },
   "1174180": {
-    "config_count": 72,
+    "config_count": 74,
     "devices": [
       {
         "d": "SM8750P",
@@ -2695,6 +2709,11 @@
         "d": "G57_MC2",
         "m": "Mali",
         "s": "Mali-G57 MC2"
+      },
+      {
+        "d": "G51",
+        "m": "Mali",
+        "s": "Mali-G51"
       },
       {
         "d": "Adreno__TM__650",
@@ -15807,7 +15826,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 18,
+    "config_count": 21,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -15846,7 +15865,8 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations"
+      "Resident_Evil_Revelations",
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -23230,7 +23250,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 35,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -23271,7 +23291,6 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
-      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
