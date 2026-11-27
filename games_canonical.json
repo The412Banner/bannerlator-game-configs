@@ -6047,7 +6047,7 @@
     "name": "Monster Harvest"
   },
   "1364780": {
-    "config_count": 3,
+    "config_count": 4,
     "devices": [
       {
         "d": "Adreno__TM__740",
@@ -6058,10 +6058,16 @@
         "d": "PowerVR_Rogue_GE8320",
         "m": "A045F",
         "s": "PowerVR Rogue GE8320"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       }
     ],
     "folders": [
-      "Street_Fighter__6"
+      "Street_Fighter__6",
+      "STREET_FIGHTER_V"
     ],
     "name": "Street Fighter\u2122 6"
   },
@@ -11523,7 +11529,7 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 2,
+    "config_count": 3,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -33982,14 +33988,6 @@
     ],
     "name": "BioShock\u2122 2 Remastered"
   },
-  "40990": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Mafia"
-    ],
-    "name": "Mafia"
-  },
   "4100940": {
     "config_count": 9,
     "devices": [
@@ -47727,7 +47725,7 @@
     "name": "PES 2012"
   },
   "name:pes-2013": {
-    "config_count": 3389,
+    "config_count": 3390,
     "devices": [
       {
         "d": "G52_MC2",
