@@ -11523,7 +11523,7 @@
     "name": "Darkest Dungeon\u00ae II"
   },
   "1941540": {
-    "config_count": 3,
+    "config_count": 2,
     "devices": [
       {
         "d": "Adreno__TM__830",
@@ -18639,7 +18639,7 @@
     "name": "Horizon Forbidden West\u2122 Complete Edition"
   },
   "242050": {
-    "config_count": 106,
+    "config_count": 107,
     "devices": [
       {
         "d": "MT6789",
@@ -18830,6 +18830,11 @@
         "d": "Adreno__TM__725",
         "m": "23049PCD8G",
         "s": "Adreno (TM) 725"
+      },
+      {
+        "d": "Adreno__TM__740",
+        "m": "CPH2585",
+        "s": "Adreno (TM) 740"
       },
       {
         "d": "Adreno__TM__750",
@@ -19241,6 +19246,14 @@
       "Assetto_Corsa"
     ],
     "name": "Assetto Corsa"
+  },
+  "2442460": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Vector"
+    ],
+    "name": "Citizen Sleeper 2: Starward Vector"
   },
   "244450": {
     "config_count": 2,
@@ -20657,14 +20670,6 @@
     ],
     "name": "Promise Mascot Agency"
   },
-  "2590240": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "metro"
-    ],
-    "name": "METRO 2039"
-  },
   "2592160": {
     "config_count": 8,
     "devices": [
@@ -21191,8 +21196,14 @@
     "name": "Fantasy Match -Make a H match with cute young woman-"
   },
   "265300": {
-    "config_count": 1,
-    "devices": [],
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__619",
+        "m": "moto_g34_5G",
+        "s": "Adreno (TM) 619"
+      }
+    ],
     "folders": [
       "Lords_Of_The_Fallen__2014"
     ],
@@ -32204,14 +32215,6 @@
     ],
     "name": "Dead Island: Riptide Definitive Edition"
   },
-  "3832030": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Vector"
-    ],
-    "name": "BOOST VECTOR EX"
-  },
   "383870": {
     "config_count": 2,
     "devices": [
@@ -33979,6 +33982,14 @@
     ],
     "name": "BioShock\u2122 2 Remastered"
   },
+  "40990": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Mafia"
+    ],
+    "name": "Mafia"
+  },
   "4100940": {
     "config_count": 9,
     "devices": [
@@ -34054,7 +34065,7 @@
     "name": "SENRAN KAGURA SHINOVI VERSUS"
   },
   "412020": {
-    "config_count": 4,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -34064,7 +34075,8 @@
     ],
     "folders": [
       "Metro_Exodus",
-      "MetroExodus"
+      "MetroExodus",
+      "metro"
     ],
     "name": "Metro Exodus"
   },
@@ -35819,7 +35831,7 @@
     "name": "Zenonia 1"
   },
   "454650": {
-    "config_count": 8,
+    "config_count": 7,
     "devices": [
       {
         "d": "G57_MC2",
@@ -35843,8 +35855,7 @@
       }
     ],
     "folders": [
-      "DRAGON_BALL_XENOVERSE_2",
-      "DragonBall_XenoVerse"
+      "DRAGON_BALL_XENOVERSE_2"
     ],
     "name": "DRAGON BALL XENOVERSE 2"
   },
@@ -39313,6 +39324,14 @@
       "Counter_Strike_1_6__________________________________________"
     ],
     "name": "Fantasy Grounds - CS1 After Winter's Dark: Aihrde Setting (Castles & Crusades)"
+  },
+  "59191": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "DragonBall_XenoVerse"
+    ],
+    "name": "DRAGONBALL XENOVERSE Bundle Edition"
   },
   "593280": {
     "config_count": 1,
