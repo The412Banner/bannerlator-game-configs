@@ -26035,6 +26035,25 @@
     ],
     "name": "Destiny 2: The Edge of Fate"
   },
+  "3188660": {
+    "config_count": 4,
+    "devices": [
+      {
+        "d": "256",
+        "m": "8",
+        "s": "PowerVR B-Series BXM-8-256"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
+      }
+    ],
+    "folders": [
+      "Game"
+    ],
+    "name": "Motocross The Game"
+  },
   "3194360": {
     "config_count": 1,
     "devices": [
@@ -26195,7 +26214,7 @@
     "name": "Cursemark"
   },
   "3219630": {
-    "config_count": 16,
+    "config_count": 12,
     "devices": [
       {
         "d": "256",
@@ -35799,7 +35818,7 @@
     "name": "Zenonia 1"
   },
   "454650": {
-    "config_count": 7,
+    "config_count": 8,
     "devices": [
       {
         "d": "G57_MC2",
@@ -35823,7 +35842,8 @@
       }
     ],
     "folders": [
-      "DRAGON_BALL_XENOVERSE_2"
+      "DRAGON_BALL_XENOVERSE_2",
+      "DragonBall_XenoVerse"
     ],
     "name": "DRAGON BALL XENOVERSE 2"
   },
@@ -39292,14 +39312,6 @@
       "Counter_Strike_1_6__________________________________________"
     ],
     "name": "Fantasy Grounds - CS1 After Winter's Dark: Aihrde Setting (Castles & Crusades)"
-  },
-  "59191": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "DragonBall_XenoVerse"
-    ],
-    "name": "DRAGONBALL XENOVERSE Bundle Edition"
   },
   "593280": {
     "config_count": 1,
