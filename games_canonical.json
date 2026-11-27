@@ -15101,7 +15101,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 155,
+    "config_count": 133,
     "devices": [
       {
         "d": "G52_MC2",
@@ -15282,11 +15282,6 @@
         "d": "Immortalis_MC11",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC11"
-      },
-      {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
       },
       {
         "d": "Adreno__TM__740",
@@ -15826,7 +15821,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 21,
+    "config_count": 18,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -15865,8 +15860,7 @@
       }
     ],
     "folders": [
-      "Resident_Evil_Revelations",
-      "rerev"
+      "Resident_Evil_Revelations"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -23250,7 +23244,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 32,
+    "config_count": 35,
     "devices": [
       {
         "d": "G615_MC2",
@@ -23291,6 +23285,7 @@
     "folders": [
       "Resident_Evil_Revelations_2",
       "rerev2",
+      "rerev",
       "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
@@ -36030,6 +36025,30 @@
     ],
     "name": "Halo Wars: Definitive Edition"
   },
+  "46": {
+    "config_count": 22,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
+      },
+      {
+        "d": "Adreno__TM__750",
+        "m": "S928B",
+        "s": "Adreno (TM) 750"
+      }
+    ],
+    "folders": [
+      "Far_Cry_3"
+    ],
+    "name": "Far Cry 3"
+  },
   "4600470": {
     "config_count": 1,
     "devices": [],
@@ -38236,6 +38255,14 @@
       "Xenus______________"
     ],
     "name": "Xenus 2. White gold."
+  },
+  "5472080": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "SHRED_A_BILLION"
+    ],
+    "name": "Shred A Billion"
   },
   "548430": {
     "config_count": 4,
