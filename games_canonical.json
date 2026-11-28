@@ -4160,20 +4160,6 @@
     ],
     "name": "Beach Buggy Racing 2 - Island Adventure"
   },
-  "12320": {
-    "config_count": 2,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      }
-    ],
-    "folders": [
-      "Sacred"
-    ],
-    "name": "Sacred Gold"
-  },
   "1232460": {
     "config_count": 1,
     "devices": [
@@ -5550,20 +5536,6 @@
       "Lost_Ruins"
     ],
     "name": "Lost Ruins"
-  },
-  "1307710": {
-    "config_count": 3,
-    "devices": [
-      {
-        "d": "Adreno__TM__830",
-        "m": "S938B",
-        "s": "Adreno (TM) 830"
-      }
-    ],
-    "folders": [
-      "GRID"
-    ],
-    "name": "GRID Legends"
   },
   "1310510": {
     "config_count": 1,
@@ -7988,6 +7960,20 @@
     ],
     "name": "High On Life"
   },
+  "1583500": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "G720_MC7",
+        "m": "Mali",
+        "s": "Mali-G720 MC7"
+      }
+    ],
+    "folders": [
+      "Eternal_Dread_3"
+    ],
+    "name": "Eternal Dread 3"
+  },
   "1587130": {
     "config_count": 2,
     "devices": [
@@ -9286,6 +9272,20 @@
       "Minecraft_Dungeons"
     ],
     "name": "Minecraft Dungeons"
+  },
+  "1675200": {
+    "config_count": 5,
+    "devices": [
+      {
+        "d": "Adreno__TM__825",
+        "m": "A024",
+        "s": "Adreno (TM) 825"
+      }
+    ],
+    "folders": [
+      "Steam"
+    ],
+    "name": "Steam Deck"
   },
   "1676840": {
     "config_count": 1,
@@ -12333,7 +12333,7 @@
     "name": "Dokimon"
   },
   "202170": {
-    "config_count": 79,
+    "config_count": 80,
     "devices": [
       {
         "d": "MT6878",
@@ -15141,7 +15141,7 @@
     "name": "Train Simulator: New Zealand Kb Class Steam Loco Add-On"
   },
   "220240": {
-    "config_count": 133,
+    "config_count": 155,
     "devices": [
       {
         "d": "G52_MC2",
@@ -15322,6 +15322,11 @@
         "d": "Immortalis_MC11",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC11"
+      },
+      {
+        "d": "G615_MC2",
+        "m": "Mali",
+        "s": "Mali-G615 MC2"
       },
       {
         "d": "Adreno__TM__740",
@@ -19248,6 +19253,14 @@
     ],
     "name": "Assetto Corsa"
   },
+  "2442460": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "Vector"
+    ],
+    "name": "Citizen Sleeper 2: Starward Vector"
+  },
   "244450": {
     "config_count": 2,
     "devices": [],
@@ -20663,14 +20676,6 @@
     ],
     "name": "Promise Mascot Agency"
   },
-  "2590240": {
-    "config_count": 2,
-    "devices": [],
-    "folders": [
-      "metro"
-    ],
-    "name": "METRO 2039"
-  },
   "2592160": {
     "config_count": 8,
     "devices": [
@@ -21685,14 +21690,6 @@
     ],
     "name": "Kindergarten 3"
   },
-  "2696230": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "GBVSR"
-    ],
-    "name": "GBVSR - System Voice Set"
-  },
   "269650": {
     "config_count": 1,
     "devices": [],
@@ -22687,7 +22684,7 @@
     "name": "SimplePlanes 2"
   },
   "284160": {
-    "config_count": 37,
+    "config_count": 38,
     "devices": [
       {
         "d": "Adreno__TM__650",
@@ -22745,11 +22742,6 @@
         "s": "Adreno (TM) 730"
       },
       {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      },
-      {
         "d": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_",
         "m": "S921B",
         "s": "ANGLE ((Samsung Xclipse 940) on Vulkan 1.3.304)"
@@ -22763,6 +22755,11 @@
         "d": "Adreno__TM__619",
         "m": "CPH2619",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G57_MC2",
+        "m": "Mali",
+        "s": "Mali-G57 MC2"
       },
       {
         "d": "Adreno__TM__610",
@@ -26081,25 +26078,6 @@
     ],
     "name": "Destiny 2: The Edge of Fate"
   },
-  "3188660": {
-    "config_count": 4,
-    "devices": [
-      {
-        "d": "256",
-        "m": "8",
-        "s": "PowerVR B-Series BXM-8-256"
-      },
-      {
-        "d": "G57_MC2",
-        "m": "Mali",
-        "s": "Mali-G57 MC2"
-      }
-    ],
-    "folders": [
-      "Game"
-    ],
-    "name": "Motocross The Game"
-  },
   "3194360": {
     "config_count": 1,
     "devices": [
@@ -26260,7 +26238,7 @@
     "name": "Cursemark"
   },
   "3219630": {
-    "config_count": 12,
+    "config_count": 16,
     "devices": [
       {
         "d": "256",
@@ -26434,7 +26412,7 @@
     "name": "DRAGON BALL XENOVERSE"
   },
   "3240220": {
-    "config_count": 2527,
+    "config_count": 2535,
     "devices": [
       {
         "d": "G52_MC2",
@@ -27662,11 +27640,6 @@
         "s": "Adreno (TM) 642L"
       },
       {
-        "d": "G610_MC6",
-        "m": "Mali",
-        "s": "Mali-G610 MC6"
-      },
-      {
         "d": "Adreno__TM__618",
         "m": "M2101K6I",
         "s": "Adreno (TM) 618"
@@ -27810,6 +27783,16 @@
         "d": "Adreno__TM__710",
         "m": "NX1",
         "s": "Adreno (TM) 710"
+      },
+      {
+        "d": "G610_MC6",
+        "m": "Mali",
+        "s": "Mali-G610 MC6"
+      },
+      {
+        "d": "Adreno__TM__650",
+        "m": "G781B",
+        "s": "Adreno (TM) 650"
       },
       {
         "d": "Adreno__TM__830",
@@ -28306,6 +28289,14 @@
       "Heretic___Hexen"
     ],
     "name": "Heretic + Hexen"
+  },
+  "3287490": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "GBVSR"
+    ],
+    "name": "GBVSR - Deluxe Character Pass 2"
   },
   "3287520": {
     "config_count": 1,
@@ -30917,7 +30908,7 @@
     "name": "Plants vs. Zombies\u2122: Replanted"
   },
   "3659280": {
-    "config_count": 5,
+    "config_count": 8,
     "devices": [
       {
         "d": "Adreno__TM__840",
@@ -30938,6 +30929,11 @@
         "d": "G78",
         "m": "Mali",
         "s": "Mali-G78"
+      },
+      {
+        "d": "Adreno__TM__830",
+        "m": "S938B",
+        "s": "Adreno (TM) 830"
       }
     ],
     "folders": [
@@ -31317,6 +31313,20 @@
       "Well_Dweller________________________________________________"
     ],
     "name": "Well Dweller"
+  },
+  "3700": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_304_",
+        "m": "A566E",
+        "s": "ANGLE ((Samsung Xclipse 540) on Vulkan 1.3.304)"
+      }
+    ],
+    "folders": [
+      "Sniper_Elite"
+    ],
+    "name": "Sniper Elite"
   },
   "3716310": {
     "config_count": 1,
@@ -32235,14 +32245,6 @@
     ],
     "name": "Dead Island: Riptide Definitive Edition"
   },
-  "3832030": {
-    "config_count": 1,
-    "devices": [],
-    "folders": [
-      "Vector"
-    ],
-    "name": "BOOST VECTOR EX"
-  },
   "383870": {
     "config_count": 2,
     "devices": [
@@ -32676,6 +32678,20 @@
       "Tekken_7"
     ],
     "name": "TEKKEN 7"
+  },
+  "3906660": {
+    "config_count": 2,
+    "devices": [
+      {
+        "d": "Adreno__TM__642L",
+        "m": "2109119DG",
+        "s": "Adreno (TM) 642L"
+      }
+    ],
+    "folders": [
+      "Sacred"
+    ],
+    "name": "Sacred 2 Remaster"
   },
   "3907880": {
     "config_count": 1,
@@ -34079,7 +34095,7 @@
     "name": "SENRAN KAGURA SHINOVI VERSUS"
   },
   "412020": {
-    "config_count": 4,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__825",
@@ -34089,7 +34105,8 @@
     ],
     "folders": [
       "Metro_Exodus",
-      "MetroExodus"
+      "MetroExodus",
+      "metro"
     ],
     "name": "Metro Exodus"
   },
@@ -34338,20 +34355,6 @@
       "mywintercar"
     ],
     "name": "My Winter Car"
-  },
-  "4165910": {
-    "config_count": 5,
-    "devices": [
-      {
-        "d": "Adreno__TM__825",
-        "m": "A024",
-        "s": "Adreno (TM) 825"
-      }
-    ],
-    "folders": [
-      "Steam"
-    ],
-    "name": "Steam Machine"
   },
   "418030": {
     "config_count": 1,
@@ -36088,30 +36091,6 @@
     ],
     "name": "Halo Wars: Definitive Edition"
   },
-  "46": {
-    "config_count": 22,
-    "devices": [
-      {
-        "d": "Adreno__TM__642L",
-        "m": "2109119DG",
-        "s": "Adreno (TM) 642L"
-      },
-      {
-        "d": "G615_MC2",
-        "m": "Mali",
-        "s": "Mali-G615 MC2"
-      },
-      {
-        "d": "Adreno__TM__750",
-        "m": "S928B",
-        "s": "Adreno (TM) 750"
-      }
-    ],
-    "folders": [
-      "Far_Cry_3"
-    ],
-    "name": "Far Cry 3"
-  },
   "4600470": {
     "config_count": 1,
     "devices": [],
@@ -37261,6 +37240,20 @@
       "StateOfDecay2"
     ],
     "name": "State of Decay 2: Juggernaut Edition"
+  },
+  "4996080": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Immortalis_MC12",
+        "m": "G720",
+        "s": "Mali-G720-Immortalis MC12"
+      }
+    ],
+    "folders": [
+      "Resonance_of_Fate"
+    ],
+    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 ENHANCED REMASTER"
   },
   "500": {
     "config_count": 15,
@@ -39746,7 +39739,7 @@
     "name": "Moonlighter"
   },
   "606280": {
-    "config_count": 10,
+    "config_count": 11,
     "devices": [
       {
         "d": "Adreno__TM__710",
@@ -39759,13 +39752,19 @@
         "s": "Adreno (TM) 825"
       },
       {
+        "d": "Adreno__TM__750",
+        "m": "Pocket_S2_Pro",
+        "s": "Adreno (TM) 750"
+      },
+      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
       }
     ],
     "folders": [
-      "Darksiders_III"
+      "Darksiders_III",
+      "Darksiders"
     ],
     "name": "Darksiders III"
   },
@@ -40240,20 +40239,6 @@
       "Coming_Out_on_Top"
     ],
     "name": "Coming Out on Top"
-  },
-  "645730": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Immortalis_MC12",
-        "m": "G720",
-        "s": "Mali-G720-Immortalis MC12"
-      }
-    ],
-    "folders": [
-      "Resonance_of_Fate"
-    ],
-    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 4K/HD EDITION"
   },
   "646570": {
     "config_count": 2,
@@ -41115,7 +41100,7 @@
     "name": "Death Coming/\u6b7b\u795e\u6765\u4e86"
   },
   "710920": {
-    "config_count": 7,
+    "config_count": 6,
     "devices": [
       {
         "d": "Adreno__TM__A32",
@@ -41128,11 +41113,6 @@
         "s": "Mali-G720 MC7"
       },
       {
-        "d": "Adreno__TM__750",
-        "m": "Pocket_S2_Pro",
-        "s": "Adreno (TM) 750"
-      },
-      {
         "d": "Immortalis_MC12",
         "m": "G925",
         "s": "Mali-G925-Immortalis MC12"
@@ -41140,7 +41120,6 @@
     ],
     "folders": [
       "Darksiders_Genesis",
-      "Darksiders",
       "DarksidersGenesis",
       "Darksiders_genesis"
     ],
@@ -47259,6 +47238,20 @@
       "Need_For_Speed__Most_Wanted_Black_Edition"
     ],
     "name": "Need For Speed Most Wanted Black Edition"
+  },
+  "name:need-for-speed-most-wanted-redux-lite": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Adreno__TM__650",
+        "m": "M2012K11AG",
+        "s": "Adreno (TM) 650"
+      }
+    ],
+    "folders": [
+      "Need_For_Speed_Most_Wanted_REDUX_Lite"
+    ],
+    "name": "Need For Speed Most Wanted Redux Lite"
   },
   "name:need-for-speed-shift": {
     "config_count": 3,
