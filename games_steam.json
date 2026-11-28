@@ -3281,7 +3281,6 @@
   },
   "Eternal_Dread_3": {
     "appid": 1583500,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1583500/header.jpg",
     "method": "naive",
     "steam_name": "Eternal Dread 3"
   },
@@ -7132,6 +7131,10 @@
     "appid": null,
     "method": "non-game"
   },
+  "Mini-Launcher": {
+    "appid": null,
+    "method": "non-game"
+  },
   "Mini_Motor_Evo": {
     "appid": null,
     "method": "unresolved"
@@ -10372,7 +10375,6 @@
   },
   "Sniper_Elite": {
     "appid": 3700,
-    "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3700/header.jpg",
     "method": "naive",
     "steam_name": "Sniper Elite"
   },

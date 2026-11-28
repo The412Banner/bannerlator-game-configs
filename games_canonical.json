@@ -4902,7 +4902,7 @@
     "name": "Need for Speed\u2122"
   },
   "1262560": {
-    "config_count": 70,
+    "config_count": 71,
     "devices": [
       {
         "d": "G57_MC2",
@@ -4965,11 +4965,6 @@
         "s": "Mali-G78"
       },
       {
-        "d": "G615_MC6",
-        "m": "Mali",
-        "s": "Mali-G615 MC6"
-      },
-      {
         "d": "Adreno__TM__750",
         "m": "24117RK2CG",
         "s": "Adreno (TM) 750"
@@ -4983,6 +4978,11 @@
         "d": "Adreno__TM__619",
         "m": "moto_g45_5G",
         "s": "Adreno (TM) 619"
+      },
+      {
+        "d": "G615_MC6",
+        "m": "Mali",
+        "s": "Mali-G615 MC6"
       },
       {
         "d": "Adreno__TM__22",
@@ -15866,7 +15866,7 @@
     "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH"
   },
   "222480": {
-    "config_count": 22,
+    "config_count": 21,
     "devices": [
       {
         "d": "24040RN64Y",
@@ -15906,8 +15906,7 @@
     ],
     "folders": [
       "Resident_Evil_Revelations",
-      "rerev",
-      "resident_revelations"
+      "rerev"
     ],
     "name": "Resident Evil Revelations"
   },
@@ -23294,7 +23293,7 @@
     "name": "Decktamer Demo"
   },
   "287290": {
-    "config_count": 31,
+    "config_count": 32,
     "devices": [
       {
         "d": "G615_MC2",
@@ -23334,7 +23333,8 @@
     ],
     "folders": [
       "Resident_Evil_Revelations_2",
-      "rerev2"
+      "rerev2",
+      "resident_revelations"
     ],
     "name": "Resident Evil Revelations 2"
   },
@@ -37241,20 +37241,6 @@
     ],
     "name": "State of Decay 2: Juggernaut Edition"
   },
-  "4996080": {
-    "config_count": 1,
-    "devices": [
-      {
-        "d": "Immortalis_MC12",
-        "m": "G720",
-        "s": "Mali-G720-Immortalis MC12"
-      }
-    ],
-    "folders": [
-      "Resonance_of_Fate"
-    ],
-    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 ENHANCED REMASTER"
-  },
   "500": {
     "config_count": 15,
     "devices": [
@@ -40239,6 +40225,20 @@
       "Coming_Out_on_Top"
     ],
     "name": "Coming Out on Top"
+  },
+  "645730": {
+    "config_count": 1,
+    "devices": [
+      {
+        "d": "Immortalis_MC12",
+        "m": "G720",
+        "s": "Mali-G720-Immortalis MC12"
+      }
+    ],
+    "folders": [
+      "Resonance_of_Fate"
+    ],
+    "name": "RESONANCE OF FATE\u2122/END OF ETERNITY\u2122 4K/HD EDITION"
   },
   "646570": {
     "config_count": 2,
@@ -50232,6 +50232,14 @@
       "Simpsons_Hit___Run"
     ],
     "name": "Simpsons Hit Run"
+  },
+  "name:sinisistar2-v1-3-1": {
+    "config_count": 1,
+    "devices": [],
+    "folders": [
+      "SiNiSistar2_v1_3_1"
+    ],
+    "name": "Sinisistar2 V1 3 1"
   },
   "name:skyrimlauncher": {
     "config_count": 1,
